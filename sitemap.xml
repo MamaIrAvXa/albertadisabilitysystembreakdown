@@ -26,6 +26,11 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://albertadisabilitysystembreakdown.netlify.app/#podcast</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://albertadisabilitysystembreakdown.netlify.app/#take-action</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
