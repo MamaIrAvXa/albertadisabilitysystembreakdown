@@ -130,6 +130,123 @@ const DOCUMENTS = [
   { cat: "info", title: "Information Asymmetry — Plain Language", desc: "Plain-language companion document.", file: "/pdfs/information-asymmetry/1_Information_Asymmetry_Plain_Language_Companion.pdf" }
 ];
 
+// ─── Data: Audio recordings (5 series, organized by report header) ───
+const AUDIO_SERIES = [
+  {
+    id: "adsb",
+    title: "ADSB Original Report Series",
+    blurb: "The 19-report April 2026 campaign series, read in full. Start with the Intro, end with the Outro.",
+    folder: "adsb-report-series",
+    items: [
+      { num: "00", title: "Series Intro", file: "00_ADSB_Audio_00_Intro.mp3" },
+      { num: "01", title: "Do You Know Your Minister Nixon?", file: "01_ADSB_Audio_Do_You_Know_Your_Minister_Nixon.mp3" },
+      { num: "02", title: "Do You Know Your Premier Smith?", file: "02_ADSB_Audio_Do_You_Know_Your_Premier_Smith.mp3" },
+      { num: "03", title: "Financial Reality", file: "03_ADSB_Audio_Financial_Reality.mp3" },
+      { num: "04", title: "Health Benefits Erosion", file: "04_ADSB_Audio_Health_Benefits_Erosion.mp3" },
+      { num: "05", title: "Alberta Housing Crisis", file: "05_ADSB_Audio_Alberta_Housing_Crisis.mp3" },
+      { num: "05b", title: "Payment Instability", file: "05b_ADSB_Audio_Payment_Instability.mp3" },
+      { num: "06", title: "Access Barrier", file: "06_ADSB_Audio_Access_Barrier.mp3" },
+      { num: "07", title: "Caseworker, Appeal Rights & Human Rights", file: "07_ADSB_Audio_Caseworker_Appeal_Rights.mp3" },
+      { num: "07b", title: "Appeal Overturn", file: "07b_ADSB_Audio_Appeal_Overturn.mp3" },
+      { num: "07c", title: "Charter Mobility Rights", file: "07c_ADSB_Audio_Charter_Mobility_Rights.mp3" },
+      { num: "08", title: "Healthcare Worker Shortage", file: "08_ADSB_Audio_Healthcare_Worker_Shortage.mp3" },
+      { num: "09", title: "Three Years and Counting — FSCD/PDD", file: "09_ADSB_Audio_Three_Years_and_Counting.mp3" },
+      { num: "09a", title: "ADSB Employment Reality", file: "09a_ADSB_Audio_ADSB_Employment_Reality.mp3" },
+      { num: "09c", title: "Intergenerational Family", file: "09c_ADSB_Audio_Intergenerational_Family.mp3" },
+      { num: "09d", title: "Intergenerational Contradiction", file: "09d_ADSB_Audio_Intergenerational_Contradiction.mp3" },
+      { num: "10", title: "Taxpayer & Heritage Fund", file: "10_ADSB_Audio_Taxpayer_and_Heritage_Fund.mp3" },
+      { num: "10a", title: "Follow the Money", file: "10a_ADSB_Audio_Follow_The_Money.mp3" },
+      { num: "10b", title: "The Plot Thickens", file: "10b_ADSB_Audio_The_Plot_Thickens.mp3" },
+      { num: "11", title: "Human Cost", file: "11_ADSB_Audio_Human_Cost.mp3" },
+      { num: "12", title: "Prior Finding", file: "12_ADSB_Audio_Prior_Finding.mp3" },
+      { num: "12b", title: "ASSURED. — Statement", file: "12b_ADSB_Audio_Assured_Statement.mp3" },
+      { num: "13", title: "Employment Reality — Government Postings", file: "13_ADSB_Audio_employment_Reality_Government_Postings.mp3" },
+      { num: "13b", title: "Employment Assumption — Workshops", file: "13b_ADSB_Audio_Employment_Assumption.mp3" },
+      { num: "13c", title: "The Workshops Question — ADAP", file: "13c_ADSB_Audio_The_Workshops_Question.mp3" },
+      { num: "13d", title: "Government's Case Against Itself", file: "13d_ADSB_Audio_Governments_Case_Against_Itself.mp3" },
+      { num: "14", title: "Addendum — FSCD/PDD Closures", file: "14_ADSB_Audio_Addendum_FSCD_PDD_Closures.mp3" },
+      { num: "15", title: "Addendum — Government Job Postings", file: "15_ADSB_Audio_Addendum_Government_Postings.mp3" },
+      { num: "16", title: "Addendum — Coalition & UN CRPD", file: "16_ADSB_Audio_Addendum_Coalition_and_UN.mp3" },
+      { num: "17", title: "Campaign and Action Kit", file: "17_ADSB_Audio_Campaign_and_Action_Kit.mp3" },
+      { num: "18", title: "Media Pitch Sheet", file: "18_ADSB_Audio_Media_Pitch_Sheet.mp3" },
+      { num: "19", title: "Practical Action Guide", file: "19_ADSB_Audio_Practical_Action_Guide.mp3" },
+      { num: "20", title: "Series Outro", file: "20_ADSB_Audio_00_Outro.mp3" }
+    ]
+  },
+  {
+    id: "indigenous",
+    title: "Indigenous Disability Alberta Series",
+    blurb: "The 17-section Indigenous Disability series, plus PREFACE and series bookends. Section 17 is split into Parts 1 and 2 due to length.",
+    folder: "indigenous-series",
+    items: [
+      { num: "00", title: "Series Intro", file: "0_Indigenous_Disability_Alberta_Series_Intro.mp3" },
+      { num: "01", title: "PREFACE", file: "1_Indigenous_Disability_Alberta_PREFACE.mp3" },
+      { num: "02", title: "Section 1 — Historical Context", file: "2_Indigenous_Disability_Alberta_SECTION_1_Historical_Context.mp3" },
+      { num: "03", title: "Section 2 — Mortality Gap", file: "3_Indigenous_Disability_Alberta_SECTION_2_Mortality_Gap.mp3" },
+      { num: "04", title: "Section 3 — Jurisdictional Fracture", file: "4_Indigenous_Disability_Alberta_SECTION_3_Jurisdictional_Fracture.mp3" },
+      { num: "05", title: "Section 4 — Housing", file: "5_Indigenous_Disability_Alberta_SECTION_4_Housing.mp3" },
+      { num: "06", title: "Section 5 — Contaminated Land", file: "6_Indigenous_Disability_Alberta_SECTION_5_Contaminated_Land.mp3" },
+      { num: "07", title: "Section 6 — Water", file: "7_Indigenous_Disability_Alberta_SECTION_6_Water.mp3" },
+      { num: "08", title: "Section 7 — Healthcare", file: "8_Indigenous_Disability_Alberta_SECTION_7_Healthcare.mp3" },
+      { num: "09", title: "Section 8 — Jordan's Principle", file: "9_Indigenous_Disability_Alberta_SECTION_8_JordansPrinciple.mp3" },
+      { num: "10", title: "Section 9 — Child Welfare", file: "10_Indigenous_Disability_Alberta_SECTION_9_ChildWelfare.mp3" },
+      { num: "11", title: "Section 10 — Justice", file: "11_Indigenous_Disability_Alberta_SECTION_10_Justice.mp3" },
+      { num: "12", title: "Section 11 — MMIWG2S", file: "12_Indigenous_Disability_Alberta_SECTION_11_MMIWG2S.mp3" },
+      { num: "13", title: "Section 12 — UNDRIP", file: "13_Indigenous_Disability_Alberta_SECTION_12_UNDRIP.mp3" },
+      { num: "14", title: "Section 13 — Sovereignty", file: "14_Indigenous_Disability_Alberta_SECTION_13_Sovereignty.mp3" },
+      { num: "15", title: "Section 14 — TRC Health Calls to Action", file: "15_Indigenous_Disability_Alberta_SECTION_14_TRC_Health.mp3" },
+      { num: "16", title: "Section 15 — July 1 Synthesis", file: "16_Indigenous_Disability_Alberta_SECTION_15_July1_Synthesis.mp3" },
+      { num: "17", title: "Section 16 — Closing", file: "17_Indigenous_Disability_Alberta_SECTION_16_Closing.mp3" },
+      { num: "18a", title: "Section 17 Part 1 — Federal/Provincial Clawback (Instances 1–3)", file: "18a_Indigenous_Disability_Alberta_SECTION_17_Federal_Provincial_Clawback_Part1.mp3" },
+      { num: "18b", title: "Section 17 Part 2 — Federal/Provincial Clawback (VISP + Unified)", file: "18b_Indigenous_Disability_Alberta_SECTION_17_Federal_Provincial_Clawback_Part2.mp3" },
+      { num: "19", title: "Series Outro", file: "19_Indigenous_Disability_Alberta_Series_Outro.mp3" }
+    ]
+  },
+  {
+    id: "infoasym",
+    title: "Information Asymmetry Report",
+    blurb: "The 49-page report on information asymmetry as the modern form of paternalism. Read in eight parts following the source's natural section structure.",
+    folder: "information-asymmetry",
+    items: [
+      { num: "01", title: "Part 1 of 8 — Introduction + Argument in Brief", file: "0_Information_Asymmetry_Report_Part1_of_8.mp3" },
+      { num: "02", title: "Part 2 of 8 — Stage One: Reproductive & Prenatal", file: "0_Information_Asymmetry_Report_Part2_of_8.mp3" },
+      { num: "03", title: "Part 3 of 8 — Stage Two: Early Childhood", file: "0_Information_Asymmetry_Report_Part3_of_8.mp3" },
+      { num: "04", title: "Part 4 of 8 — Stage Three A: Adult Diagnosis", file: "0_Information_Asymmetry_Report_Part4_of_8.mp3" },
+      { num: "05", title: "Part 5 of 8 — Stage Three B: Exemption Framework + TFW Contradiction", file: "0_Information_Asymmetry_Report_Part5_of_8.mp3" },
+      { num: "06", title: "Part 6 of 8 — Stage Four: Environmental & Occupational", file: "0_Information_Asymmetry_Report_Part6_of_8.mp3" },
+      { num: "07", title: "Part 7 of 8 — Stage Five: Succession + MAID Framing", file: "0_Information_Asymmetry_Report_Part7_of_8.mp3" },
+      { num: "08", title: "Part 8 of 8 — What Is Owed: Constitutional & Treaty Argument", file: "0_Information_Asymmetry_Report_Part8_of_8.mp3" }
+    ]
+  },
+  {
+    id: "compound",
+    title: "Compound Failure Document",
+    blurb: "The synthesis brief tying the four-pillar argument together. Eight parts.",
+    folder: "compound-failure",
+    items: [
+      { num: "00", title: "Compound Failure — Intro", file: "00_Compound_Failure_Intro.mp3" },
+      { num: "01", title: "Compound Failure — Part 1", file: "1_Compound_Failure_Part_1.mp3" },
+      { num: "02", title: "Compound Failure — Part 2", file: "2_Compound_Failure_Part_2.mp3" },
+      { num: "03", title: "Compound Failure — Part 3", file: "3_Compound_Failure_Part_3.mp3" },
+      { num: "04", title: "Compound Failure — Part 4", file: "4_Compound_Failure_Part_4.mp3" },
+      { num: "05", title: "Compound Failure — Part 5", file: "5_Compound_Failure_Part_5.mp3" },
+      { num: "06", title: "Compound Failure — Part 6", file: "6_Compound_Failure_Part_6.mp3" },
+      { num: "07", title: "Compound Failure — Part 7", file: "7_Compound_Failure_Part_7.mp3" }
+    ]
+  },
+  {
+    id: "consultation",
+    title: "Consultation Gap Rebuttal",
+    blurb: "Direct rebuttal of the government's consultation claim. What consultation actually happened, and what didn't.",
+    folder: "consultation-gap-rebuttal",
+    items: [
+      { num: "00", title: "Intro", file: "0_Consultation_Gap_Intro.mp3" },
+      { num: "01", title: "Rebuttal", file: "1_Consultation_Gap_Rebuttal.mp3" },
+      { num: "02", title: "Outro", file: "2_Consultation_Gap_Outro.mp3" }
+    ]
+  }
+];
+
 // ─── Data: Provincial Refugee briefs ───
 const PROVINCES = [
   { num: "01", name: "British Columbia", file: "1_Fillable_Disability_Refugee_British_Columbia.pdf" },
@@ -179,7 +296,8 @@ const FLYERS = [
   { label: "Leadership Accountability", img: "Leadership_Accountability_Flyer.png" },
   { label: "Minister Nixon", img: "nixon_flyer.png" },
   { label: "Premier Smith", img: "smith_flyer.png" },
-  { label: "DTC Loan, Not a Grant", img: "Flyer_DTC_Loan_Not_Grant.png" }
+  { label: "DTC Loan, Not a Grant", img: "Flyer_DTC_Loan_Not_Grant.png" },
+  { label: "ATIA Personal File", img: "ATIA_Form_Announcement_Flyer.png" }
 ];
 
 // ─── Render: Flyer grid ───
@@ -277,6 +395,96 @@ function renderMinisterial() {
   `).join("");
 }
 
+// ─── Render: Audio recordings (grouped by series) ───
+function renderAudio() {
+  const grid = document.getElementById("audio-grid");
+  if (!grid) return;
+  const baseUrl = window.location.origin;
+  grid.innerHTML = AUDIO_SERIES.map(series => `
+    <section class="audio-series" id="audio-${series.id}">
+      <header class="audio-series-head">
+        <h3 class="audio-series-title">${series.title}</h3>
+        <p class="audio-series-blurb">${series.blurb}</p>
+        <p class="audio-series-count"><span class="audio-count-pill">${series.items.length} recordings</span></p>
+      </header>
+      <ol class="audio-list">
+        ${series.items.map(item => {
+          const path = `/audio/${series.folder}/${encodeURIComponent(item.file)}`;
+          const fullUrl = `${baseUrl}${path}`;
+          return `
+            <li class="audio-row">
+              <div class="audio-meta-line">
+                <span class="audio-num">${item.num}</span>
+                <span class="audio-title">${item.title}</span>
+              </div>
+              <audio class="audio-player" controls preload="none" src="${path}">
+                Your browser does not support the audio element. <a href="${path}">Download the file</a>.
+              </audio>
+              <div class="audio-actions">
+                <a class="btn btn-ghost-sm audio-download" download href="${path}" aria-label="Download ${item.title}">Download</a>
+                <button class="btn btn-ghost-sm audio-share" type="button" data-share-url="${fullUrl}" data-share-title="${item.title}" aria-label="Share ${item.title}">Share</button>
+                <span class="audio-share-status" role="status" aria-live="polite"></span>
+              </div>
+            </li>
+          `;
+        }).join("")}
+      </ol>
+    </section>
+  `).join("");
+  bindAudioShare();
+}
+
+// ─── Audio share: Web Share API with copy-link fallback ───
+function bindAudioShare() {
+  document.querySelectorAll(".audio-share").forEach(btn => {
+    btn.addEventListener("click", async () => {
+      const url = btn.dataset.shareUrl;
+      const title = btn.dataset.shareTitle;
+      const status = btn.parentElement.querySelector(".audio-share-status");
+      const showStatus = (msg) => {
+        if (!status) return;
+        status.textContent = msg;
+        clearTimeout(btn._statusTimer);
+        btn._statusTimer = setTimeout(() => { status.textContent = ""; }, 2400);
+      };
+      // Try Web Share API first (mobile + modern browsers)
+      if (navigator.share) {
+        try {
+          await navigator.share({
+            title: `The Alberta Disability System Breakdown — ${title}`,
+            text: `${title} — audio recording from The Alberta Disability System Breakdown.`,
+            url: url
+          });
+          return;
+        } catch (err) {
+          // User cancelled — silent return; fall through to copy only on real failure
+          if (err && err.name === "AbortError") return;
+        }
+      }
+      // Fallback: copy link to clipboard
+      try {
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          await navigator.clipboard.writeText(url);
+          showStatus("Link copied");
+        } else {
+          // Last-resort fallback: temporary textarea
+          const ta = document.createElement("textarea");
+          ta.value = url;
+          ta.style.position = "fixed";
+          ta.style.opacity = "0";
+          document.body.appendChild(ta);
+          ta.select();
+          document.execCommand("copy");
+          document.body.removeChild(ta);
+          showStatus("Link copied");
+        }
+      } catch (e) {
+        showStatus("Could not copy — long-press the Download link instead");
+      }
+    });
+  });
+}
+
 // ─── Filter chip behaviour ───
 function bindFilterChips() {
   const chips = document.querySelectorAll(".chip");
@@ -337,6 +545,7 @@ document.addEventListener("DOMContentLoaded", () => {
   renderDocs("all");
   renderProvinces();
   renderMinisterial();
+  renderAudio();
   bindFilterChips();
   bindNavToggle();
   bindScrollSpy();

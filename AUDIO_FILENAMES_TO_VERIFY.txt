@@ -1,0 +1,107 @@
+AUDIO FILENAME VERIFICATION SHEET
+==================================
+The site code expects these exact filenames in /audio/<series-folder>/.
+Your file explorer truncates names — verify each one matches what's on disk.
+If any filename below differs from yours, either rename your file OR tell me
+the correct name and I'll update the AUDIO_SERIES array.
+
+──────────────────────────────────────────
+/audio/adsb-report-series/  (33 files)
+──────────────────────────────────────────
+00_ADSB_Audio_00_Intro.mp3
+01_ADSB_Audio_Do_You_Know_Your_Minister_Nixon.mp3
+02_ADSB_Audio_Do_You_Know_Your_Premier_Smith.mp3
+03_ADSB_Audio_Financial_Reality.mp3
+04_ADSB_Audio_Health_Benefits_Erosion.mp3
+05_ADSB_Audio_Alberta_Housing_Crisis.mp3
+05b_ADSB_Audio_Payment_Instability.mp3
+06_ADSB_Audio_Access_Barrier.mp3
+07_ADSB_Audio_Caseworker_Appeal_Rights.mp3
+07b_ADSB_Audio_Appeal_Overturn.mp3
+07c_ADSB_Audio_Charter_Mobility_Rights.mp3
+08_ADSB_Audio_Healthcare_Worker_Shortage.mp3
+09_ADSB_Audio_Three_Years_and_Counting.mp3
+09a_ADSB_Audio_ADSB_Employment_Reality.mp3
+09c_ADSB_Audio_Intergenerational_Family.mp3
+09d_ADSB_Audio_Intergenerational_Contradiction.mp3
+10_ADSB_Audio_Taxpayer_and_Heritage_Fund.mp3
+10a_ADSB_Audio_Follow_The_Money.mp3
+10b_ADSB_Audio_The_Plot_Thickens.mp3
+11_ADSB_Audio_Human_Cost.mp3
+12_ADSB_Audio_Prior_Finding.mp3
+12b_ADSB_Audio_Assured_Statement.mp3
+13_ADSB_Audio_employment_Reality_Government_Postings.mp3   ← VERIFY: full name was truncated
+13b_ADSB_Audio_Employment_Assumption.mp3                    ← VERIFY: full name was truncated
+13c_ADSB_Audio_The_Workshops_Question.mp3                   ← VERIFY: full name was truncated
+13d_ADSB_Audio_Governments_Case_Against_Itself.mp3          ← VERIFY: full name was truncated
+14_ADSB_Audio_Addendum_FSCD_PDD_Closures.mp3                ← VERIFY: full name was truncated
+15_ADSB_Audio_Addendum_Government_Postings.mp3              ← VERIFY: full name was truncated
+16_ADSB_Audio_Addendum_Coalition_and_UN.mp3                 ← VERIFY: full name was truncated
+17_ADSB_Audio_Campaign_and_Action_Kit.mp3
+18_ADSB_Audio_Media_Pitch_Sheet.mp3
+19_ADSB_Audio_Practical_Action_Guide.mp3                    ← Image showed "(2)" in name; rename to drop the (2) before upload
+20_ADSB_Audio_00_Outro.mp3                                  ← Image showed "20 ADSB" with space; rename to use underscore
+
+──────────────────────────────────────────
+/audio/indigenous-series/  (21 files)
+──────────────────────────────────────────
+0_Indigenous_Disability_Alberta_Series_Intro.mp3
+1_Indigenous_Disability_Alberta_PREFACE.mp3
+2_Indigenous_Disability_Alberta_SECTION_1_Historical_Context.mp3
+3_Indigenous_Disability_Alberta_SECTION_2_Mortality_Gap.mp3
+4_Indigenous_Disability_Alberta_SECTION_3_Jurisdictional_Fracture.mp3
+5_Indigenous_Disability_Alberta_SECTION_4_Housing.mp3
+6_Indigenous_Disability_Alberta_SECTION_5_Contaminated_Land.mp3
+7_Indigenous_Disability_Alberta_SECTION_6_Water.mp3
+8_Indigenous_Disability_Alberta_SECTION_7_Healthcare.mp3
+9_Indigenous_Disability_Alberta_SECTION_8_JordansPrinciple.mp3
+10_Indigenous_Disability_Alberta_SECTION_9_ChildWelfare.mp3
+11_Indigenous_Disability_Alberta_SECTION_10_Justice.mp3
+12_Indigenous_Disability_Alberta_SECTION_11_MMIWG2S.mp3
+13_Indigenous_Disability_Alberta_SECTION_12_UNDRIP.mp3
+14_Indigenous_Disability_Alberta_SECTION_13_Sovereignty.mp3
+15_Indigenous_Disability_Alberta_SECTION_14_TRC_Health.mp3
+16_Indigenous_Disability_Alberta_SECTION_15_July1_Synthesis.mp3
+17_Indigenous_Disability_Alberta_SECTION_16_Closing.mp3
+18a_Indigenous_Disability_Alberta_SECTION_17_Federal_Provincial_Clawback_Part1.mp3
+18b_Indigenous_Disability_Alberta_SECTION_17_Federal_Provincial_Clawback_Part2.mp3
+19_Indigenous_Disability_Alberta_Series_Outro.mp3
+
+──────────────────────────────────────────
+/audio/information-asymmetry/  (8 files)
+──────────────────────────────────────────
+0_Information_Asymmetry_Report_Part1_of_8.mp3
+0_Information_Asymmetry_Report_Part2_of_8.mp3
+0_Information_Asymmetry_Report_Part3_of_8.mp3
+0_Information_Asymmetry_Report_Part4_of_8.mp3
+0_Information_Asymmetry_Report_Part5_of_8.mp3
+0_Information_Asymmetry_Report_Part6_of_8.mp3
+0_Information_Asymmetry_Report_Part7_of_8.mp3
+0_Information_Asymmetry_Report_Part8_of_8.mp3
+
+──────────────────────────────────────────
+/audio/compound-failure/  (8 files)
+──────────────────────────────────────────
+00_Compound_Failure_Intro.mp3            ← VERIFY: full name was truncated
+1_Compound_Failure_Part_1.mp3            ← VERIFY: full name was truncated
+2_Compound_Failure_Part_2.mp3            ← VERIFY: full name was truncated
+3_Compound_Failure_Part_3.mp3            ← VERIFY: full name was truncated
+4_Compound_Failure_Part_4.mp3            ← VERIFY: full name was truncated
+5_Compound_Failure_Part_5.mp3            ← VERIFY: full name was truncated
+6_Compound_Failure_Part_6.mp3            ← VERIFY: full name was truncated
+7_Compound_Failure_Part_7.mp3            ← VERIFY: full name was truncated
+
+──────────────────────────────────────────
+/audio/consultation-gap-rebuttal/  (3 files)
+──────────────────────────────────────────
+0_Consultation_Gap_Intro.mp3
+1_Consultation_Gap_Rebuttal.mp3
+2_Consultation_Gap_Outro.mp3
+
+──────────────────────────────────────────
+TOTAL: 73 audio files across 5 series
+──────────────────────────────────────────
+
+Two paths if any filename above differs from yours:
+  (a) Rename your file to match the list (fastest)
+  (b) Reply with the corrected filename and I'll patch app.js
