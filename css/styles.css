@@ -1054,3 +1054,151 @@ section + section { border-top: 1px solid var(--line); }
   .hero-headline, .section-title, .pillar-title, .card-title { color: black; }
   a { color: black; text-decoration: underline; }
 }
+
+/* ─────────── PODCAST ─────────── */
+.podcast {
+  background:
+    radial-gradient(ellipse at 82% 0%, rgba(212, 160, 23, 0.05), transparent 50%),
+    var(--navy-950);
+  padding-block: 5rem;
+  border-top: 1px solid var(--line);
+}
+.podcast-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: -1rem 0 2.5rem;
+  justify-content: center;
+}
+.podcast-stage {
+  background: var(--navy-900);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem clamp(1rem, 2vw, 1.5rem);
+  box-shadow: var(--shadow-lg);
+  margin-bottom: 2.5rem;
+}
+.podcast-frame {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  border-radius: var(--radius);
+  background: #000;
+  box-shadow: 0 8px 24px -8px rgba(0, 0, 0, 0.5);
+}
+.podcast-frame iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: var(--radius);
+}
+.podcast-caption {
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--ink-mute);
+  font-style: italic;
+  margin: 1rem 0 0.25rem;
+}
+@media print {
+  .podcast { display: none; }
+}
+
+/* ─────────── ALLIED VOICES ─────────── */
+.allied-voices {
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(232, 155, 177, 0.04), transparent 50%),
+    var(--navy-950);
+  padding-block: 5rem;
+  border-top: 1px solid var(--line);
+}
+.allied-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+.allied-card {
+  background: var(--navy-900);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.6rem 1.4rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: border-color 0.2s, transform 0.15s;
+}
+.allied-card:hover {
+  border-color: var(--gold-500);
+  transform: translateY(-2px);
+}
+.allied-card h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.2rem;
+  margin: 0 0 0.6rem;
+  color: var(--cream-50);
+  letter-spacing: -0.005em;
+}
+.allied-card p {
+  color: var(--ink-soft);
+  font-size: 0.93rem;
+  line-height: 1.55;
+  margin: 0 0 1.2rem;
+  flex: 1;
+}
+.allied-link {
+  align-self: flex-start;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--gold-400);
+  background: var(--navy-800);
+  border: 1px solid var(--line-strong);
+  padding: 0.55rem 0.95rem;
+  border-radius: 999px;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.allied-link:hover {
+  background: var(--gold-400);
+  color: var(--navy-900);
+  border-color: var(--gold-400);
+}
+.allied-footnote {
+  margin: 1.5rem 0 0;
+  font-size: 0.9rem;
+  color: var(--ink-mute);
+  font-style: italic;
+  text-align: center;
+  max-width: 70ch;
+  margin-inline: auto;
+}
+.allied-footnote a {
+  color: var(--gold-400);
+}
+@media print {
+  .allied-voices { display: none; }
+}
+/* ─── Card extra-link line (used by /comic/ pointer on Access Gap plain-language card) ─── */
+.card-extra {
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  line-height: 1.45;
+  margin-top: 0.65rem;
+  padding-top: 0.65rem;
+  border-top: 1px dashed rgba(245, 185, 66, 0.18);
+}
+.card-extra a {
+  color: var(--gold-400);
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.card-extra a:hover {
+  color: var(--gold-400);
+  text-decoration: none;
+}

@@ -127,7 +127,11 @@ const DOCUMENTS = [
 
   // Information asymmetry
   { cat: "info", title: "Information Asymmetry — Report", desc: "What disabled Albertans are being asked to decide without the information they need to decide it. Information asymmetry as the modern form of paternalism.", file: "/pdfs/information-asymmetry/0_Information_Asymmetry_Report.pdf" },
-  { cat: "info", title: "Information Asymmetry — Plain Language", desc: "Plain-language companion document.", file: "/pdfs/information-asymmetry/1_Information_Asymmetry_Plain_Language_Companion.pdf" }
+  { cat: "info", title: "Information Asymmetry — Plain Language", desc: "Plain-language companion document.", file: "/pdfs/information-asymmetry/1_Information_Asymmetry_Plain_Language_Companion.pdf" },
+
+  // The Access Gap (companion pair to Information Asymmetry)
+  { cat: "access", title: "The Access Gap — Penalized for Non-Ability", desc: "Long-form evidentiary report. How federal and Alberta government systems are structurally inaccessible to the disability community they were built to serve — and what happens when the people most affected cannot navigate the very forms that determine whether their income continues. Companion to the Information Asymmetry Report: that one covers the information gap, this one covers the access gap.", file: "/pdfs/access-gap/Access_Gap_Penalized_for_NonAbility.pdf" },
+  { cat: "access", title: "The Access Gap — Plain Language", desc: "Plain-language companion to the long-form Access Gap report. 12 pages, illustrated. Designed for low-literacy and cognitive-access readers, and for anyone who supports a person navigating these systems.", file: "/pdfs/access-gap/Access_Gap_Plain_Language.pdf", extra: 'Individual illustrations also available in <a href="#flyers">Flyers</a> — free for protest signs, social posts, personal use.' }
 ];
 
 // ─── Data: Audio recordings (5 series, organized by report header) ───
@@ -297,19 +301,114 @@ const FLYERS = [
   { label: "Minister Nixon", img: "nixon_flyer.png" },
   { label: "Premier Smith", img: "smith_flyer.png" },
   { label: "DTC Loan, Not a Grant", img: "Flyer_DTC_Loan_Not_Grant.png" },
-  { label: "ATIA Personal File", img: "ATIA_Form_Announcement_Flyer.png" }
+  { label: "ATIA Personal File", img: "ATIA_Form_Announcement_Flyer.png" },
+
+  // Access Gap illustrations (May 2026) — live in /pdfs/flyers/comics/
+  { label: "Access Gap — Cover", img: "Image 1 May 2, 2026, 08_35_36 PM.png", path: "comics" },
+  { label: "What Access Means", img: "Image 2 May 2, 2026, 08_37_32 PM.png", path: "comics" },
+  { label: "Tax Filing Trap", img: "Image 3 May 2, 2026, 08_38_59 PM.png", path: "comics" },
+  { label: "Form Trap (T2201)", img: "Image 4 May 2, 2026, 08_40_21 PM.png", path: "comics" },
+  { label: "Willful Non-Compliance", img: "Image 5 May 2, 2026, 08_41_56 PM.png", path: "comics" },
+  { label: "Reading Levels", img: "Image 6 May 2, 2026, 08_43_40 PM.png", path: "comics" },
+  { label: "The Five Excuses", img: "Image 7 May 2, 2026, 08_45_55 PM.png", path: "comics" },
+  { label: "Attrition as Policy", img: "Image 8 May 2, 2026, 08_50_26 PM.png", path: "comics" },
+  { label: "Three Laws", img: "Image 9 May 2, 2026, 08_53_12 PM.png", path: "comics" },
+  { label: "What Accessible Looks Like", img: "Image 10 May 2, 2026, 08_55_41 PM.png", path: "comics" },
+  { label: "We Build the Record", img: "Image 11 May 2, 2026, 09_06_21 PM.png", path: "comics" },
+  { label: "We Stand Together", img: "Image 12 May 2, 2026, 09_07_23 PM.png", path: "comics" },
+
+  // Additional comics — AI-generated illustrations (campaign archive)
+  { label: "AISH Access Barrier", img: "AISH_Access_Barrier.png", path: "comics" },
+  { label: "Canadian Cycle", img: "667409808_1575319973579544_3786217956361830580_n.jpg", path: "comics" },
+  { label: "Assured", img: "AISH_Assured_Flyer.jpg", path: "comics" },
+  { label: "Political Paralysis", img: "AISH_Caseworker_Appeal_Rights_HumanRights.png", path: "comics" },
+  { label: "Rural Healthcare Access", img: "ChatGPT Image Apr 23, 2026, 10_19_23 PM.png", path: "comics" },
+  { label: "Jordan's Principle", img: "ChatGPT Image Apr 23, 2026, 10_20_20 PM.png", path: "comics" },
+  { label: "Case File", img: "ChatGPT Image Apr 23, 2026, 10_21_10 PM.png", path: "comics" },
+  { label: "Tribunal Hearing", img: "ChatGPT Image Apr 23, 2026, 10_22_10 PM.png", path: "comics" },
+  { label: "Red Dress — MMIWG2S", img: "ChatGPT Image Apr 23, 2026, 10_23_00 PM.png", path: "comics" },
+  { label: "UNDRIP", img: "ChatGPT Image Apr 23, 2026, 10_23_54 PM.png", path: "comics" },
+  { label: "Indigenous Council", img: "ChatGPT Image Apr 23, 2026, 10_25_04 PM.png", path: "comics" },
+  { label: "TRC Calls to Action", img: "ChatGPT Image Apr 23, 2026, 10_26_01 PM.png", path: "comics" },
+  { label: "July 1, 2026", img: "ChatGPT Image Apr 23, 2026, 10_43_11 PM.png", path: "comics" },
+  { label: "Path Through Loss", img: "ChatGPT Image Apr 23, 2026, 10_46_54 PM.png", path: "comics" },
+  { label: "CDB Clawback", img: "ChatGPT Image Apr 23, 2026, 10_48_12 PM.png", path: "comics" },
+  { label: "Sterilization Records — 1928–1972", img: "ChatGPT Image Apr 26, 2026, 06_36_35 PM.png", path: "comics" },
+  { label: "Information at Birth", img: "ChatGPT Image Apr 26, 2026, 06_38_39 PM.png", path: "comics" },
+  { label: "Prenatal Diagnosis", img: "ChatGPT Image Apr 26, 2026, 06_40_43 PM.png", path: "comics" },
+  { label: "Early Intervention Window Closing", img: "ChatGPT Image Apr 26, 2026, 06_42_34 PM.png", path: "comics" },
+  { label: "Same File, Different Door", img: "ChatGPT Image Apr 26, 2026, 06_44_40 PM.png", path: "comics" },
+  { label: "Reclassified Employable", img: "ChatGPT Image Apr 26, 2026, 06_45_56 PM.png", path: "comics" },
+  { label: "Environmental Hazards", img: "ChatGPT Image Apr 26, 2026, 06_49_49 PM.png", path: "comics" },
+  { label: "Application Burden", img: "ChatGPT Image Apr 26, 2026, 06_51_53 PM.png", path: "comics" },
+  { label: "The Choice", img: "ChatGPT Image Apr 26, 2026, 06_53_18 PM.png", path: "comics" },
+  { label: "Obligations the Province Accepted", img: "ChatGPT Image Apr 26, 2026, 06_54_32 PM.png", path: "comics" },
+  { label: "The Naming", img: "ChatGPT Image Apr 26, 2026, 06_56_03 PM.png", path: "comics" },
+  { label: "Nixon — AISH to ADAP Transfer", img: "Nixon.png", path: "comics" },
+  { label: "Boil Water Advisory — Day 4,387", img: "image-17743700-0cef-4788-bf79-7a49825cda31.png", path: "comics" },
+  { label: "Reserve Boundary", img: "image-b97253df-5939-47d4-9d21-c81dc3bd0fa1.png", path: "comics" },
+  { label: "Crumbling Staircases", img: "image_17c7a66.png", path: "comics" },
+  { label: "The Law Protects You", img: "image_1c771669.png", path: "comics" },
+  { label: "The Unending Hold", img: "image_1f73883f.png", path: "comics" },
+  { label: "System Gears", img: "image_23ddd50a.png", path: "comics" },
+  { label: "Layers of Policy", img: "image_25005b72.png", path: "comics" },
+  { label: "Closed Doors — FSCD/PDD", img: "image_27787e80.png", path: "comics" },
+  { label: "Assured Promise Crumbling", img: "image_32bb6bc0.png", path: "comics" },
+  { label: "Mental Health Wait — 6–18 Months", img: "image_3329b7f0.png", path: "comics" },
+  { label: "RDSP", img: "image_4771b2ee.png", path: "comics" },
+  { label: "Cost vs AISH", img: "image_487572de.png", path: "comics" },
+  { label: "The Record", img: "image_4a9e9ab0.png", path: "comics" },
+  { label: "Heritage Fund Imbalance", img: "image_4e276cce.png", path: "comics" },
+  { label: "Stranded Between Jurisdictions", img: "image_5eda8ba9.png", path: "comics" },
+  { label: "Town Hall", img: "image_624a842f.png", path: "comics" },
+  { label: "Falling Through the Net", img: "image_630a5976.png", path: "comics" },
+  { label: "System in Need of Navigation", img: "image_6447dfda.png", path: "comics" },
+  { label: "$200 in Real Life", img: "image_67a4528d.png", path: "comics" },
+  { label: "Application Burden — Late Night", img: "image_6a951449.png", path: "comics" },
+  { label: "Housing Reality", img: "image_6fabf0d9.png", path: "comics" },
+  { label: "The Cliff — Bill 12 / ADAP Timeline", img: "image_75ec6658.png", path: "comics" },
+  { label: "Heritage Vault vs Disability Support", img: "image_7abaa3f9.png", path: "comics" },
+  { label: "ADAP Door — Crumbling Floor", img: "image_863c100.png", path: "comics" },
+  { label: "The Money Is There", img: "image_8ba69427.png", path: "comics" },
+  { label: "Proposed Cuts", img: "image_97b320d8.png", path: "comics" },
+  { label: "650,000 Without a Doctor", img: "image_99613912.png", path: "comics" },
+  { label: "Treaty Lands", img: "image_9ebf0ed3.png", path: "comics" },
+  { label: "An Educated Public", img: "image_9ff446ce.png", path: "comics" },
+  { label: "79,000 Families", img: "image_a77ac83a.png", path: "comics" },
+  { label: "Law Says vs What's Happening", img: "image_ac1aeed4.png", path: "comics" },
+  { label: "The Math Is Not Possible", img: "image_b19a76bb.png", path: "comics" },
+  { label: "Life Expectancy Gap", img: "image_b6105209.png", path: "comics" },
+  { label: "Economic Pyramid", img: "image_bc40692.png", path: "comics" },
+  { label: "The Math Doesn't Work", img: "image_c048a1c3.png", path: "comics" },
+  { label: "Refugee Crisis", img: "image_c3e453c3.png", path: "comics" },
+  { label: "Political Paralysis — Truth Trials", img: "image_cf575801.png", path: "comics" },
+  { label: "What You Can Do", img: "image_cfba5ff5.png", path: "comics" },
+  { label: "The Paperwork Cave", img: "image_d1ccce6d.png", path: "comics" },
+  { label: "Your Prior Finding Means Nothing", img: "image_d2670a96.png", path: "comics" },
+  { label: "Power of Documentation", img: "image_d5d6321c.png", path: "comics" },
+  { label: "Documentation Compared", img: "image_e5ec5911.png", path: "comics" },
+  { label: "Canadian Cycle (variant)", img: "image_eba945c4.png", path: "comics" },
+  { label: "Just Climb", img: "image_ec0be382.png", path: "comics" },
+  { label: "Cuts and Shifts", img: "image_ec25e276.png", path: "comics" },
+  { label: "My Story Is Evidence", img: "image_f01eb275.png", path: "comics" },
+  { label: "Cuts and Shifts (variant)", img: "image_f4c17a92.png", path: "comics" },
+  { label: "Community Hall", img: "image_f668ace4.png", path: "comics" }
 ];
 
 // ─── Render: Flyer grid ───
 function renderFlyers() {
   const grid = document.getElementById("flyer-grid");
   if (!grid) return;
-  grid.innerHTML = FLYERS.map(f => `
-    <a class="flyer" href="/pdfs/flyers/posters/${encodeURIComponent(f.img)}" target="_blank" rel="noopener" aria-label="${f.label} flyer">
-      <img src="/pdfs/flyers/posters/${encodeURIComponent(f.img)}" alt="${f.label} flyer" loading="lazy">
+  grid.innerHTML = FLYERS.map(f => {
+    const folder = f.path || "posters";
+    const url = `/pdfs/flyers/${folder}/${encodeURIComponent(f.img)}`;
+    return `
+    <a class="flyer" href="${url}" target="_blank" rel="noopener" aria-label="${f.label} flyer">
+      <img src="${url}" alt="${f.label} flyer" loading="lazy">
       <span class="flyer-label">${f.label}</span>
     </a>
-  `).join("");
+  `;
+  }).join("");
 }
 
 // ─── Render: Reports grid ───
@@ -343,6 +442,7 @@ function renderDocs(filter = "all") {
         <a class="view" href="${encodePath(d.file)}" target="_blank" rel="noopener">View →</a>
         <a download href="${encodePath(d.file)}">Download</a>
       </div>
+      ${d.extra ? `<p class="card-extra">${d.extra}</p>` : ""}
     </article>
   `).join("");
 }
@@ -361,7 +461,8 @@ function categoryLabel(cat) {
     legal: "Legal Analysis",
     briefs: "Sourced Brief",
     new: "New ADSB Doc",
-    info: "Information Asymmetry"
+    info: "Information Asymmetry",
+    access: "Access Gap"
   };
   return map[cat] || cat;
 }
