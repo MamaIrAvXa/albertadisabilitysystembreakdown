@@ -273,7 +273,7 @@ const MINISTERIAL = [
   {
     date: "April 28, 2026",
     title: "Letter from Minister Nixon (redacted)",
-    desc: "Original Ministerial response on letterhead from the Honourable Jason Nixon, Minister of Assisted Living and Social Services, copied to the Premier. Personal information redacted.",
+    desc: "Original formal Ministerial response from the Honourable Jason Nixon, Minister of Assisted Living and Social Services, copied to the Premier. Personal information redacted.",
     file: "Nixon_Response_April28_2026_REDACTED.pdf",
     type: "Source document"
   }

@@ -1106,3 +1106,80 @@ section + section { border-top: 1px solid var(--line); }
 @media print {
   .podcast { display: none; }
 }
+
+/* ─────────── ALLIED VOICES ─────────── */
+.allied-voices {
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(232, 155, 177, 0.04), transparent 50%),
+    var(--navy-950);
+  padding-block: 5rem;
+  border-top: 1px solid var(--line);
+}
+.allied-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+.allied-card {
+  background: var(--navy-900);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.6rem 1.4rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: border-color 0.2s, transform 0.15s;
+}
+.allied-card:hover {
+  border-color: var(--gold-500);
+  transform: translateY(-2px);
+}
+.allied-card h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.2rem;
+  margin: 0 0 0.6rem;
+  color: var(--cream-50);
+  letter-spacing: -0.005em;
+}
+.allied-card p {
+  color: var(--ink-soft);
+  font-size: 0.93rem;
+  line-height: 1.55;
+  margin: 0 0 1.2rem;
+  flex: 1;
+}
+.allied-link {
+  align-self: flex-start;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--gold-400);
+  background: var(--navy-800);
+  border: 1px solid var(--line-strong);
+  padding: 0.55rem 0.95rem;
+  border-radius: 999px;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.allied-link:hover {
+  background: var(--gold-400);
+  color: var(--navy-900);
+  border-color: var(--gold-400);
+}
+.allied-footnote {
+  margin: 1.5rem 0 0;
+  font-size: 0.9rem;
+  color: var(--ink-mute);
+  font-style: italic;
+  text-align: center;
+  max-width: 70ch;
+  margin-inline: auto;
+}
+.allied-footnote a {
+  color: var(--gold-400);
+}
+@media print {
+  .allied-voices { display: none; }
+}
