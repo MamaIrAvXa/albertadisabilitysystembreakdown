@@ -127,7 +127,11 @@ const DOCUMENTS = [
 
   // Information asymmetry
   { cat: "info", title: "Information Asymmetry — Report", desc: "What disabled Albertans are being asked to decide without the information they need to decide it. Information asymmetry as the modern form of paternalism.", file: "/pdfs/information-asymmetry/0_Information_Asymmetry_Report.pdf" },
-  { cat: "info", title: "Information Asymmetry — Plain Language", desc: "Plain-language companion document.", file: "/pdfs/information-asymmetry/1_Information_Asymmetry_Plain_Language_Companion.pdf" }
+  { cat: "info", title: "Information Asymmetry — Plain Language", desc: "Plain-language companion document.", file: "/pdfs/information-asymmetry/1_Information_Asymmetry_Plain_Language_Companion.pdf" },
+
+  // The Access Gap (companion pair to Information Asymmetry)
+  { cat: "access", title: "The Access Gap — Penalized for Non-Ability", desc: "Long-form evidentiary report. How federal and Alberta government systems are structurally inaccessible to the disability community they were built to serve — and what happens when the people most affected cannot navigate the very forms that determine whether their income continues. Companion to the Information Asymmetry Report: that one covers the information gap, this one covers the access gap.", file: "/pdfs/access-gap/Access_Gap_Penalized_for_NonAbility.pdf" },
+  { cat: "access", title: "The Access Gap — Plain Language", desc: "Plain-language companion to the long-form Access Gap report. 12 pages, illustrated. Designed for low-literacy and cognitive-access readers, and for anyone who supports a person navigating these systems.", file: "/pdfs/access-gap/Access_Gap_Plain_Language.pdf", extra: 'Individual illustrations also available in <a href="#flyers">Flyers</a> — free for protest signs, social posts, personal use.' }
 ];
 
 // ─── Data: Audio recordings (5 series, organized by report header) ───
@@ -273,7 +277,7 @@ const MINISTERIAL = [
   {
     date: "April 28, 2026",
     title: "Letter from Minister Nixon (redacted)",
-    desc: "Original formal Ministerial response from the Honourable Jason Nixon, Minister of Assisted Living and Social Services, copied to the Premier. Personal information redacted.",
+    desc: "Original Ministerial response on letterhead from the Honourable Jason Nixon, Minister of Assisted Living and Social Services, copied to the Premier. Personal information redacted.",
     file: "Nixon_Response_April28_2026_REDACTED.pdf",
     type: "Source document"
   }
@@ -297,19 +301,37 @@ const FLYERS = [
   { label: "Minister Nixon", img: "nixon_flyer.png" },
   { label: "Premier Smith", img: "smith_flyer.png" },
   { label: "DTC Loan, Not a Grant", img: "Flyer_DTC_Loan_Not_Grant.png" },
-  { label: "ATIA Personal File", img: "ATIA_Form_Announcement_Flyer.png" }
+  { label: "ATIA Personal File", img: "ATIA_Form_Announcement_Flyer.png" },
+
+  // Access Gap illustrations (May 2026) — live in /pdfs/flyers/comics/
+  { label: "Access Gap — Cover", img: "Image 1 May 2, 2026, 08_35_36 PM.png", path: "comics" },
+  { label: "What Access Means", img: "Image 2 May 2, 2026, 08_37_32 PM.png", path: "comics" },
+  { label: "Tax Filing Trap", img: "Image 3 May 2, 2026, 08_38_59 PM.png", path: "comics" },
+  { label: "Form Trap (T2201)", img: "Image 4 May 2, 2026, 08_40_21 PM.png", path: "comics" },
+  { label: "Willful Non-Compliance", img: "Image 5 May 2, 2026, 08_41_56 PM.png", path: "comics" },
+  { label: "Reading Levels", img: "Image 6 May 2, 2026, 08_43_40 PM.png", path: "comics" },
+  { label: "The Five Excuses", img: "Image 7 May 2, 2026, 08_45_55 PM.png", path: "comics" },
+  { label: "Attrition as Policy", img: "Image 8 May 2, 2026, 08_50_26 PM.png", path: "comics" },
+  { label: "Three Laws", img: "Image 9 May 2, 2026, 08_53_12 PM.png", path: "comics" },
+  { label: "What Accessible Looks Like", img: "Image 10 May 2, 2026, 08_55_41 PM.png", path: "comics" },
+  { label: "We Build the Record", img: "Image 11 May 2, 2026, 09_06_21 PM.png", path: "comics" },
+  { label: "We Stand Together", img: "Image 12 May 2, 2026, 09_07_23 PM.png", path: "comics" }
 ];
 
 // ─── Render: Flyer grid ───
 function renderFlyers() {
   const grid = document.getElementById("flyer-grid");
   if (!grid) return;
-  grid.innerHTML = FLYERS.map(f => `
-    <a class="flyer" href="/pdfs/flyers/posters/${encodeURIComponent(f.img)}" target="_blank" rel="noopener" aria-label="${f.label} flyer">
-      <img src="/pdfs/flyers/posters/${encodeURIComponent(f.img)}" alt="${f.label} flyer" loading="lazy">
+  grid.innerHTML = FLYERS.map(f => {
+    const folder = f.path || "posters";
+    const url = `/pdfs/flyers/${folder}/${encodeURIComponent(f.img)}`;
+    return `
+    <a class="flyer" href="${url}" target="_blank" rel="noopener" aria-label="${f.label} flyer">
+      <img src="${url}" alt="${f.label} flyer" loading="lazy">
       <span class="flyer-label">${f.label}</span>
     </a>
-  `).join("");
+  `;
+  }).join("");
 }
 
 // ─── Render: Reports grid ───
@@ -343,6 +365,7 @@ function renderDocs(filter = "all") {
         <a class="view" href="${encodePath(d.file)}" target="_blank" rel="noopener">View →</a>
         <a download href="${encodePath(d.file)}">Download</a>
       </div>
+      ${d.extra ? `<p class="card-extra">${d.extra}</p>` : ""}
     </article>
   `).join("");
 }
@@ -361,7 +384,8 @@ function categoryLabel(cat) {
     legal: "Legal Analysis",
     briefs: "Sourced Brief",
     new: "New ADSB Doc",
-    info: "Information Asymmetry"
+    info: "Information Asymmetry",
+    access: "Access Gap"
   };
   return map[cat] || cat;
 }
