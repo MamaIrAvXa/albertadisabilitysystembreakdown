@@ -131,7 +131,9 @@ const DOCUMENTS = [
 
   // The Access Gap (companion pair to Information Asymmetry)
   { cat: "access", title: "The Access Gap — Penalized for Non-Ability", desc: "Long-form evidentiary report. How federal and Alberta government systems are structurally inaccessible to the disability community they were built to serve — and what happens when the people most affected cannot navigate the very forms that determine whether their income continues. Companion to the Information Asymmetry Report: that one covers the information gap, this one covers the access gap.", file: "/pdfs/access-gap/Access_Gap_Penalized_for_NonAbility.pdf" },
-  { cat: "access", title: "The Access Gap — Plain Language", desc: "Plain-language companion to the long-form Access Gap report. 12 pages, illustrated. Designed for low-literacy and cognitive-access readers, and for anyone who supports a person navigating these systems.", file: "/pdfs/access-gap/Access_Gap_Plain_Language.pdf", extra: 'Individual illustrations also available in <a href="#flyers">Flyers</a> — free for protest signs, social posts, personal use.' }
+  { cat: "access", title: "The Access Gap — Plain Language", desc: "Plain-language companion to the long-form Access Gap report. 12 pages, illustrated. Designed for low-literacy and cognitive-access readers, and for anyone who supports a person navigating these systems.", file: "/pdfs/access-gap/Access_Gap_Plain_Language.pdf", extra: 'Individual illustrations also available in <a href="#flyers">Flyers</a> — free for protest signs, social posts, personal use.' },
+  { cat: "wda", title: "What Disability Actually Means", desc: "Reference-grade public education document on what cognitive, mental, physical, intellectual, congenital, and acquired disabilities actually are — what they look like, what they hinder, who they affect — and what AISH and the wider Alberta disability system does and does not provide for the 79,290 Albertans who depend on it. 36 pages, fully sourced.", file: "/pdfs/what-disability-actually-means/What_Disability_Actually_Means.pdf" },
+  { cat: "wda", title: "What Disability Actually Means — Plain Language", desc: "Plain-language companion to the 36-page reference document. 18 pages, illustrated. Built on the closing argument: it takes one accident, one diagnosis. Disability does not discriminate.", file: "/pdfs/what-disability-actually-means/What_Disability_Actually_Means_Plain_Language.pdf", extra: 'Individual illustrations also available in <a href="#flyers">Flyers</a> — free for protest signs, social posts, personal use.' }
 ];
 
 // ─── Data: Audio recordings (5 series, organized by report header) ───
@@ -316,6 +318,25 @@ const FLYERS = [
   { label: "What Accessible Looks Like", img: "Image 10 May 2, 2026, 08_55_41 PM.png", path: "comics" },
   { label: "We Build the Record", img: "Image 11 May 2, 2026, 09_06_21 PM.png", path: "comics" },
   { label: "We Stand Together", img: "Image 12 May 2, 2026, 09_07_23 PM.png", path: "comics" },
+
+  // What Disability Actually Means — illustrations (May 2026)
+  { label: "What Disability Means — Cover", img: "image_f62730fc.png", path: "comics" },
+  { label: "What Disability Means — Cover (variant)", img: "Image 1 May 3, 2026, 02_43_12 AM.png", path: "comics" },
+  { label: "What Disability Means — One Accident", img: "image_496ff693.png", path: "comics" },
+  { label: "What Disability Means — Who Is On AISH", img: "Image 3 May 3, 2026, 02_46_33 AM.png", path: "comics" },
+  { label: "What Disability Means — Cognitive Disability", img: "Image 4 May 3, 2026, 02_48_58 AM.png", path: "comics" },
+  { label: "What Disability Means — Mental Illness", img: "Image 5 May 3, 2026, 02_50_10 AM.png", path: "comics" },
+  { label: "What Disability Means — Physical Disability", img: "Image 6 May 3, 2026, 02_51_14 AM.png", path: "comics" },
+  { label: "What Disability Means — Intellectual & Developmental", img: "Image 7 May 3, 2026, 02_52_22 AM.png", path: "comics" },
+  { label: "What Disability Means — Congenital", img: "Image 8 May 3, 2026, 02_53_31 AM.png", path: "comics" },
+  { label: "What Disability Means — One Event", img: "Image 9 May 3, 2026, 02_54_26 AM.png", path: "comics" },
+  { label: "What Disability Means — Multiple Conditions", img: "Image 10 May 3, 2026, 02_55_47 AM.png", path: "comics" },
+  { label: "What Disability Means — Visible & Invisible", img: "Image 11 May 3, 2026, 02_56_49 AM.png", path: "comics" },
+  { label: "What Disability Means — What AISH Is", img: "Image 12 May 3, 2026, 02_59_00 AM.png", path: "comics" },
+  { label: "What Disability Means — What ADAP Does", img: "Image 13 May 3, 2026, 03_00_41 AM.png", path: "comics" },
+  { label: "What Disability Means — Structural Contradiction", img: "Image 14 May 3, 2026, 03_02_00 AM.png", path: "comics" },
+  { label: "What Disability Means — What You Can Do", img: "Image 15 May 3, 2026, 03_03_20 AM.png", path: "comics" },
+  { label: "What Disability Means — Manifesto", img: "Image 16 May 3, 2026, 03_04_23 AM.png", path: "comics" },
 
   // Additional comics — AI-generated illustrations (campaign archive)
   { label: "AISH Access Barrier", img: "AISH_Access_Barrier.jpg", path: "comics" },
