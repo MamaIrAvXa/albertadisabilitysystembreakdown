@@ -1,350 +1,536 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Illustrations — The Access Gap | The Alberta Disability System Breakdown</title>
-<meta name="description" content="Twelve illustrations from The Access Gap — Plain Language guide. Free for protest signs, social posts, personal use. The Alberta Disability System Breakdown.">
-
-<meta property="og:title" content="Illustrations — The Access Gap">
-<meta property="og:description" content="Twelve illustrations from The Access Gap — Plain Language guide. Free for protest signs, social posts, personal use.">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0d2c54">
+<title>The Alberta Disability System Breakdown — Reports. Flyers. Tools.</title>
+<meta name="description" content="A community documentation campaign on the AISH-to-ADAP transition, FSCD/PDD waitlists, healthcare access, and the federal Canada Disability Benefit clawback. Free to share. Free to print.">
+<meta property="og:title" content="The Alberta Disability System Breakdown">
+<meta property="og:description" content="Reports. Flyers. Tools. Read the evidence — AISH, ADAP, FSCD, PDD, Indigenous, Disabled appeals. All sourced.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://albertadisabilitysystembreakdown.netlify.app/pdfs/flyers/comics/">
-
+<meta property="og:url" content="https://albertadisabilitysystembreakdown.netlify.app">
+<meta property="og:image" content="/assets/card-front-facebook.jpg">
 <link rel="icon" type="image/png" href="/assets/wild-rose-mark.png">
+<link rel="apple-touch-icon" href="/assets/card-front-facebook.jpg">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
-
-<style>
-  :root {
-    --navy-950: #050d1c;
-    --navy-900: #081a36;
-    --navy-800: #0d2c54;
-    --navy-700: #14406d;
-    --navy-100: #e8eef7;
-    --gold-400: #f5b942;
-    --font-display: 'Fraunces', 'Iowan Old Style', 'Palatino', Georgia, serif;
-    --font-body: 'Atkinson Hyperlegible', system-ui, sans-serif;
-  }
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  html { scroll-behavior: smooth; }
-  body {
-    font-family: var(--font-body);
-    background: var(--navy-950);
-    color: var(--navy-100);
-    line-height: 1.55;
-    -webkit-font-smoothing: antialiased;
-  }
-  a { color: var(--gold-400); }
-  a:focus-visible { outline: 2px solid var(--gold-400); outline-offset: 3px; border-radius: 2px; }
-
-  .topbar {
-    background: var(--navy-900);
-    border-bottom: 1px solid var(--navy-700);
-    padding: 14px 24px;
-  }
-  .topbar a { font-weight: 700; }
-  .topbar .home-link::before { content: "← "; }
-
-  .hero {
-    padding: 56px 24px 40px;
-    max-width: 980px;
-    margin: 0 auto;
-    text-align: center;
-  }
-  .eyebrow {
-    font-family: var(--font-body);
-    font-size: 13px;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    color: var(--gold-400);
-    margin-bottom: 18px;
-  }
-  h1 {
-    font-family: var(--font-display);
-    font-weight: 700;
-    font-size: clamp(2rem, 4.5vw, 3.2rem);
-    line-height: 1.15;
-    color: #fff;
-    margin-bottom: 18px;
-  }
-  .subhead {
-    font-size: 1.1rem;
-    color: var(--navy-100);
-    max-width: 720px;
-    margin: 0 auto 24px;
-  }
-  .license {
-    background: var(--navy-800);
-    border: 1px solid var(--navy-700);
-    border-radius: 10px;
-    padding: 18px 22px;
-    max-width: 680px;
-    margin: 28px auto 0;
-    text-align: left;
-  }
-  .license strong { color: var(--gold-400); }
-  .license p { margin-bottom: 8px; font-size: 0.97rem; }
-  .license p:last-child { margin-bottom: 0; }
-
-  .gallery {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 32px 20px 80px;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: 22px;
-  }
-  .tile {
-    background: var(--navy-900);
-    border: 1px solid var(--navy-700);
-    border-radius: 12px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-  }
-  .tile img {
-    width: 100%;
-    height: auto;
-    display: block;
-    background: var(--navy-800);
-  }
-  .tile-body {
-    padding: 16px 18px 18px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-  }
-  .tile-num {
-    font-family: var(--font-body);
-    font-size: 12px;
-    letter-spacing: 0.16em;
-    text-transform: uppercase;
-    color: var(--gold-400);
-  }
-  .tile-actions {
-    display: flex;
-    gap: 14px;
-    align-items: center;
-  }
-  .tile-actions a {
-    font-weight: 700;
-    font-size: 0.95rem;
-  }
-
-  footer {
-    background: var(--navy-900);
-    border-top: 1px solid var(--navy-700);
-    padding: 28px 24px;
-    text-align: center;
-    font-size: 0.92rem;
-    color: var(--navy-100);
-  }
-  footer a { font-weight: 700; }
-
-  @media (max-width: 480px) {
-    .hero { padding: 40px 18px 28px; }
-    .gallery { padding: 24px 14px 60px; gap: 16px; }
-  }
-</style>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700;9..144,800&family=Atkinson+Hyperlegible:wght@400;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/styles.css">
 </head>
-
 <body>
 
-<nav class="topbar">
-  <a href="/" class="home-link">The Alberta Disability System Breakdown</a>
-</nav>
+<a class="skip" href="#main">Skip to main content</a>
 
-<section class="hero">
-  <p class="eyebrow">Illustrations — The Access Gap</p>
-  <h1>Twelve illustrations. Yours to use.</h1>
-  <p class="subhead">These are the painted scenes from <em>The Access Gap — Plain Language</em> guide. Each one is built around a single message about how Alberta's disability systems work — or don't — for the people they were designed to serve.</p>
+<header class="site-header" id="top">
+  <div class="wrap nav-wrap">
+    <a href="#top" class="brand" aria-label="The Alberta Disability System Breakdown — home">
+      <img src="/assets/wild-rose-mark.png" alt="" class="brand-mark" width="44" height="44">
+      <span class="brand-text">
+        <span class="brand-eyebrow">Alberta</span>
+        <span class="brand-title">Disability System Breakdown</span>
+      </span>
+    </a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Open navigation menu">
+      <span></span><span></span><span></span>
+    </button>
+    <nav id="primary-nav" class="primary-nav" aria-label="Primary">
+      <a href="#overview">Overview</a>
+      <a href="#system">The System</a>
+      <a href="#numbers">Numbers</a>
+      <a href="#appeals">Appeals</a>
+      <a href="#flyers">Flyers</a>
+      <a href="#reports">Reports</a>
+      <a href="#documents">Documents</a>
+      <a href="#ministerial">Ministerial</a>
+      <a href="#audio">Audio</a>
+      <a href="#podcast">Podcast</a>
+      <a href="#allied-voices">Allied Voices</a>
+      <a href="#take-action" class="cta">Take Action</a>
+    </nav>
+  </div>
+</header>
 
-  <div class="license">
-    <p><strong>Free to share. Free to print. Free to post.</strong></p>
-    <p>Use them on protest signs. Drop them into social posts. Print them out. Hand them around. If an image speaks to your situation, take it. Nothing is gatekept here.</p>
-    <p>Click any image to view it full-size. Click <em>Download</em> to save the PNG.</p>
+<main id="main">
+
+<!-- ───────────── OVERVIEW / HERO ───────────── -->
+<section id="overview" class="hero">
+  <div class="hero-bg" aria-hidden="true">
+    <div class="hero-glow"></div>
+    <img src="/assets/wild-rose-mark.png" alt="" class="hero-rose hero-rose-1">
+    <img src="/assets/wild-rose-mark.png" alt="" class="hero-rose hero-rose-2">
+  </div>
+  <div class="wrap hero-content">
+    <p class="eyebrow">Public Interest Brief · April 2026</p>
+    <h1 class="hero-headline">
+      Alberta's disability supports are<br>
+      <em>breaking under their own rules.</em>
+    </h1>
+    <p class="hero-sub">
+      AISH, ADAP, FSCD, PDD, primary care, appeals — each system is failing in a different way, and together they form a single trap. This site gathers the evidence, the arithmetic, and the flyers you can print and share.
+    </p>
+    <div class="hero-actions">
+      <a href="#flyers" class="btn btn-primary">Browse flyers</a>
+      <a href="#system" class="btn btn-ghost">Read the breakdown</a>
+      <a href="#reports" class="btn btn-ghost">Get the reports</a>
+    </div>
+    <p class="hero-meta">
+      <span class="meta-pill">Free to share</span>
+      <span class="meta-pill">Free to save</span>
+      <span class="meta-pill">Free to distribute</span>
+      <span class="meta-pill">All sourced</span>
+    </p>
   </div>
 </section>
 
-<div class="gallery">
+<!-- ───────────── NUMBERS ───────────── -->
+<section id="numbers" class="numbers">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">Numbers</p>
+      <h2 class="section-title">The arithmetic of the transition.</h2>
+      <p class="section-lede">All figures from Government of Alberta open data, Statistics Canada, and verified independent sources. Every number cites its source in the underlying reports.</p>
+    </header>
+    <div class="stat-grid">
+      <article class="stat">
+        <p class="stat-value">79,290</p>
+        <p class="stat-label">Albertans being moved from AISH to ADAP on July 1, 2026</p>
+        <p class="stat-source">Source: Alberta AISH Caseload Open Data, Sept 2025</p>
+      </article>
+      <article class="stat">
+        <p class="stat-value">$1,901</p>
+        <p class="stat-label">Maximum monthly AISH benefit — already $6,004 below the poverty line annually</p>
+        <p class="stat-source">Source: Maytree, <em>Welfare Incomes Across Canada</em>, 2024</p>
+      </article>
+      <article class="stat">
+        <p class="stat-value">3 yrs</p>
+        <p class="stat-label">FSCD/PDD waitlist for children's disability services — same families, same homes</p>
+        <p class="stat-source">Source: Alberta FSCD/PDD intake data, 2025</p>
+      </article>
+      <article class="stat">
+        <p class="stat-value">0</p>
+        <p class="stat-label">Independent appeal rights for AISH/ADAP eligibility decisions after Bill 12</p>
+        <p class="stat-source">Source: Bill 12, Government of Alberta, passed Dec 9, 2025</p>
+      </article>
+      <article class="stat">
+        <p class="stat-value">$200/mo</p>
+        <p class="stat-label">Federal Canada Disability Benefit — clawed back dollar-for-dollar in Alberta only</p>
+        <p class="stat-source">Source: Alberta is the only province in Canada to do this</p>
+      </article>
+      <article class="stat">
+        <p class="stat-value">650,000</p>
+        <p class="stat-label">Albertans without a family doctor — including most AISH recipients</p>
+        <p class="stat-source">Source: Alberta Doctors' Digest, Nov/Dec 2025</p>
+      </article>
+    </div>
+  </div>
+</section>
 
-  <article class="tile">
-    <a href="Image%201%20May%202%2C%202026%2C%2008_35_36%20PM.png" target="_blank" rel="noopener">
-      <img src="Image%201%20May%202%2C%202026%2C%2008_35_36%20PM.png" alt="Cover illustration — a person with a magnifying glass overwhelmed by tax and benefit forms in front of a CRA / Tax Filing / Forms / AISH door." loading="lazy">
-    </a>
-    <div class="tile-body">
-      <p class="tile-num">Illustration 01</p>
-      <p>Cover — the door is open, the forms are everywhere, the person is alone with them.</p>
-      <div class="tile-actions">
-        <a href="Image%201%20May%202%2C%202026%2C%2008_35_36%20PM.png" target="_blank" rel="noopener">View →</a>
-        <a download href="Image%201%20May%202%2C%202026%2C%2008_35_36%20PM.png">Download</a>
+<!-- ───────────── THE SYSTEM ───────────── -->
+<section id="system" class="system">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">The System</p>
+      <h2 class="section-title">Four failures. One trap.</h2>
+      <p class="section-lede">Each program below is failing on its own terms. Read each pillar — and then read how they interact, because they were never designed to interact at all.</p>
+    </header>
+    <div class="pillar-grid">
+      <article class="pillar">
+        <p class="pillar-num">I</p>
+        <h3 class="pillar-title">Income — AISH to ADAP</h3>
+        <p>79,290 Albertans on AISH are being moved to a new program on July 1, 2026. The eligibility criteria for ADAP have not been published. Bill 12 removed independent appeal rights. The $200/mo federal Canada Disability Benefit is clawed back dollar-for-dollar — the only province in Canada to do this.</p>
+        <a href="/pdfs/adsb-report-series/3_Financial_Reality_Report.pdf" class="pillar-link">Financial Reality Report →</a>
+      </article>
+      <article class="pillar">
+        <p class="pillar-num">II</p>
+        <h3 class="pillar-title">Health — Coverage Erosion</h3>
+        <p>Most psychotherapy is not covered by AHCIP or AISH benefits. Psychiatry waits run 6–18+ months. 650,000 Albertans have no family doctor. The healthcare worker shortage compounds every other system in this list.</p>
+        <a href="/pdfs/adsb-report-series/4_Health_Benefits_Erosion_Report.pdf" class="pillar-link">Health Benefits Erosion Report →</a>
+      </article>
+      <article class="pillar">
+        <p class="pillar-num">III</p>
+        <h3 class="pillar-title">Children — FSCD &amp; PDD</h3>
+        <p>The same families being moved off AISH have children on the FSCD/PDD waitlists. Average wait: three years. Intakes have been quietly closing. The disability income system and the children's disability service system are failing the same households simultaneously.</p>
+        <a href="/pdfs/adsb-report-series/9_Three_Years_and_Counting_FSCD_PDD_Crisis_Report.pdf" class="pillar-link">Three Years and Counting Report →</a>
+      </article>
+      <article class="pillar">
+        <p class="pillar-num">IV</p>
+        <h3 class="pillar-title">Rights — Appeals &amp; Caseworkers</h3>
+        <p>Bill 12 removed independent appeal rights for eligibility decisions. Caseworker authority expanded. The Alberta Human Rights Commission is still available, but the front-line mechanism most disabled Albertans actually use is gone.</p>
+        <a href="/pdfs/adsb-report-series/7_Caseworker_Appeal_Rights_HumanRights.pdf" class="pillar-link">Caseworker Appeal Rights Report →</a>
+      </article>
+    </div>
+    <aside class="callout">
+      <p class="callout-eyebrow">Read the synthesis</p>
+      <h3>The Compound Failure Brief</h3>
+      <p>These aren't four separate stories. They're one story told four ways. The Compound Failure Brief is the single document that ties them together — and it's also available as a plain-language guide.</p>
+      <div class="callout-actions">
+        <a class="btn btn-primary" href="/pdfs/compound-failure/0_Compound_Failure_Brief_COMPLETE.pdf" target="_blank" rel="noopener">Open the brief</a>
+        <a class="btn btn-ghost" href="/pdfs/plain-language/Compound_Failure_Plain_Language_Guide.pdf" target="_blank" rel="noopener">Plain-language version</a>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<!-- ───────────── APPEALS ───────────── -->
+<section id="appeals" class="appeals">
+  <div class="wrap two-col">
+    <div>
+      <p class="section-eyebrow">Appeals</p>
+      <h2 class="section-title">What Bill 12 actually changed.</h2>
+      <p>Before December 9, 2025, an Albertan denied AISH could appeal to an independent body. Bill 12 removed that. Eligibility decisions for AISH and ADAP now sit with the Minister, with no independent reviewer between you and the program.</p>
+      <p>The reports linked here document the change clause-by-clause, examine what's left of the appeal process, and lay out the Charter mobility-rights argument and the constitutional analysis.</p>
+    </div>
+    <ul class="link-list">
+      <li><a href="/pdfs/adsb-report-series/7_Caseworker_Appeal_Rights_HumanRights.pdf" target="_blank" rel="noopener"><span>Caseworker, Appeal Rights &amp; Human Rights</span><span class="ext">PDF</span></a></li>
+      <li><a href="/pdfs/adsb-report-series/7b_Appeal_Overturn_Report.pdf" target="_blank" rel="noopener"><span>Appeal Overturn Report</span><span class="ext">PDF</span></a></li>
+      <li><a href="/pdfs/adsb-report-series/7c_Charter_Mobility_Rights_Report.pdf" target="_blank" rel="noopener"><span>Charter Mobility Rights Report</span><span class="ext">PDF</span></a></li>
+      <li><a href="/pdfs/legalese/ADSB_Charter_Constitutional_Analysis_Legal.pdf" target="_blank" rel="noopener"><span>Charter Constitutional Analysis (Legal)</span><span class="ext">PDF</span></a></li>
+      <li><a href="/pdfs/adsb-report-series/12_Prior_Finding_Report.pdf" target="_blank" rel="noopener"><span>Prior Finding Report — 79,290 reversals</span><span class="ext">PDF</span></a></li>
+      <li><a href="/pdfs/plain-language/Charter_of_Rights_Plain_Language_Guide_2026.pdf" target="_blank" rel="noopener"><span>Charter of Rights — Plain Language Guide</span><span class="ext">PDF</span></a></li>
+    </ul>
+  </div>
+</section>
+
+<!-- ───────────── FLYERS ───────────── -->
+<section id="flyers" class="flyers">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">Flyers</p>
+      <h2 class="section-title">Print. Pin. Pass it on.</h2>
+      <p class="section-lede">One-page flyers built to stick on bulletin boards, fold into envelopes, and share in group chats. Each one ties to a sourced report.</p>
+    </header>
+    <div class="flyer-grid" id="flyer-grid"></div>
+    <div class="flyer-actions">
+      <a class="btn btn-ghost" href="/pdfs/flyers/posters/" target="_blank" rel="noopener">View all poster flyers</a>
+      <a class="btn btn-ghost" href="/pdfs/flyers/comics/" target="_blank" rel="noopener">View all illustrations</a>
+    </div>
+  </div>
+</section>
+
+<!-- ───────────── REPORTS ───────────── -->
+<section id="reports" class="reports">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">Reports</p>
+      <h2 class="section-title">The April 2026 Report Series.</h2>
+      <p class="section-lede">19 sourced reports plus the full compilation. Every figure traces to government open data, Statistics Canada, peer-reviewed research, or primary-source government correspondence.</p>
+    </header>
+
+    <div class="callout primary">
+      <p class="callout-eyebrow">Start here</p>
+      <h3>Complete Report Series Compilation</h3>
+      <p>All 19 reports in one PDF. The single file most people want.</p>
+      <div class="callout-actions">
+        <a class="btn btn-primary" href="/pdfs/adsb-report-series/0_Complete_Report_Series_Compilation.pdf" target="_blank" rel="noopener">Open compilation</a>
+        <a class="btn btn-ghost" download href="/pdfs/adsb-report-series/0_Complete_Report_Series_Compilation.pdf">Download</a>
       </div>
     </div>
-  </article>
 
-  <article class="tile">
-    <a href="Image%202%20May%202%2C%202026%2C%2008_37_32%20PM.png" target="_blank" rel="noopener">
-      <img src="Image%202%20May%202%2C%202026%2C%2008_37_32%20PM.png" alt="What access should look like vs what access looks like now — two doors, one welcoming, one a bureaucratic line." loading="lazy">
-    </a>
-    <div class="tile-body">
-      <p class="tile-num">Illustration 02</p>
-      <p>What access should look like — and what it actually looks like. Two doors, one design choice.</p>
-      <div class="tile-actions">
-        <a href="Image%202%20May%202%2C%202026%2C%2008_37_32%20PM.png" target="_blank" rel="noopener">View →</a>
-        <a download href="Image%202%20May%202%2C%202026%2C%2008_37_32%20PM.png">Download</a>
+    <h3 class="subhead">Individual reports</h3>
+    <div class="card-grid" id="reports-grid"></div>
+  </div>
+</section>
+
+<!-- ───────────── DOCUMENTS ───────────── -->
+<section id="documents" class="documents">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">Documents</p>
+      <h2 class="section-title">The full library.</h2>
+      <p class="section-lede">Compilations, sourced briefs, plain-language guides, legal analyses, and the Indigenous Disability and Systematic Exclusion document series.</p>
+    </header>
+
+    <!-- Filter bar -->
+    <div class="filter-bar" role="tablist" aria-label="Document categories">
+      <button class="chip active" data-filter="all">All</button>
+      <button class="chip" data-filter="compilations">Compilations</button>
+      <button class="chip" data-filter="indigenous">Indigenous Disability</button>
+      <button class="chip" data-filter="systematic">Systematic Exclusion</button>
+      <button class="chip" data-filter="compound">Compound Failure</button>
+      <button class="chip" data-filter="plain">Plain Language</button>
+      <button class="chip" data-filter="legal">Legal</button>
+      <button class="chip" data-filter="briefs">Sourced Briefs</button>
+      <button class="chip" data-filter="new">New ADSB Docs</button>
+      <button class="chip" data-filter="info">Information Asymmetry</button>
+      <button class="chip" data-filter="access">Access Gap</button>
+    </div>
+
+    <div class="doc-grid" id="doc-grid"></div>
+  </div>
+</section>
+
+<!-- ───────────── MINISTERIAL CORRESPONDENCE ───────────── -->
+<section id="ministerial" class="ministerial">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">Ministerial Correspondence</p>
+      <h2 class="section-title">The government, on the record.</h2>
+      <p class="section-lede">Direct correspondence from the Government of Alberta in response to formal submissions. Each letter is a primary source. Each one confirms or contradicts the program description in writing.</p>
+    </header>
+
+    <div class="callout primary">
+      <p class="callout-eyebrow">April 28, 2026 · First substantive Ministerial response</p>
+      <h3>Minister Nixon responds to the Eleven-Claim Analysis.</h3>
+      <p>The Honourable Jason Nixon, Minister of Assisted Living and Social Services, responded by formal Ministerial response from the Minister's office to the formal submission addendum filed April 15, 2026. Read the response, then read what it reveals, confirms, and avoids.</p>
+      <div class="callout-actions">
+        <a class="btn btn-primary" href="/pdfs/ministerial-correspondence/Ministerial_Response_Analysis_April28_2026.pdf" target="_blank" rel="noopener">Read the analysis</a>
+        <a class="btn btn-ghost" href="/pdfs/ministerial-correspondence/Nixon_Response_April28_2026_REDACTED.pdf" target="_blank" rel="noopener">Read the original letter</a>
       </div>
     </div>
-  </article>
 
-  <article class="tile">
-    <a href="Image%203%20May%202%2C%202026%2C%2008_38_59%20PM.png" target="_blank" rel="noopener">
-      <img src="Image%203%20May%202%2C%202026%2C%2008_38_59%20PM.png" alt="The tax filing trap — a person at the kitchen table surrounded by tax forms, a $150 preparer invoice, and the words YOU MUST FILE — YOU GET NO REFUND." loading="lazy">
-    </a>
-    <div class="tile-body">
-      <p class="tile-num">Illustration 03</p>
-      <p>The tax filing trap. AISH is not taxed. You still file. You pay to file. You get no refund.</p>
-      <div class="tile-actions">
-        <a href="Image%203%20May%202%2C%202026%2C%2008_38_59%20PM.png" target="_blank" rel="noopener">View →</a>
-        <a download href="Image%203%20May%202%2C%202026%2C%2008_38_59%20PM.png">Download</a>
-      </div>
+    <div class="card-grid" id="ministerial-grid"></div>
+  </div>
+</section>
+
+<!-- ───────────── AUDIO ───────────── -->
+<section id="audio" class="audio">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">Audio</p>
+      <h2 class="section-title">The reports, read aloud.</h2>
+      <p class="section-lede">Every major report in the campaign archive, recorded as audio. Listen in the browser, download to your device, or share the link. Free to share. Free to save. Free to distribute.</p>
+    </header>
+
+    <div class="audio-meta">
+      <span class="meta-pill">Stream in browser</span>
+      <span class="meta-pill">Download MP3</span>
+      <span class="meta-pill">Share by link</span>
+      <span class="meta-pill">All free</span>
     </div>
-  </article>
 
-  <article class="tile">
-    <a href="Image%204%20May%202%2C%202026%2C%2008_40_21%20PM.png" target="_blank" rel="noopener">
-      <img src="Image%204%20May%202%2C%202026%2C%2008_40_21%20PM.png" alt="The form trap — 100 people start the T2201, 76 give up, 24 finish. A doctor demands $300 to sign Section B." loading="lazy">
-    </a>
-    <div class="tile-body">
-      <p class="tile-num">Illustration 04</p>
-      <p>The form trap. 76% of people who start the T2201 cannot finish it. The doctor charges to sign.</p>
-      <div class="tile-actions">
-        <a href="Image%204%20May%202%2C%202026%2C%2008_40_21%20PM.png" target="_blank" rel="noopener">View →</a>
-        <a download href="Image%204%20May%202%2C%202026%2C%2008_40_21%20PM.png">Download</a>
-      </div>
+    <div id="audio-grid" class="audio-grid"></div>
+  </div>
+</section>
+
+<!-- ───────────── PODCAST ───────────── -->
+<section id="podcast" class="podcast">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">Podcast</p>
+      <h2 class="section-title">The @ISH ACTIONS Revolutionary Podcast.</h2>
+      <p class="section-lede">Hosted by Gavin Sorochan of NightCastle Productions in collaboration with The Alberta Disability System Breakdown. Live streams Mon · Tues · Wed · Fri, 3–5 PM MT. Archived after broadcast. Watch the latest episode below — the player updates automatically when a new episode is uploaded.</p>
+    </header>
+
+    <div class="podcast-meta">
+      <span class="meta-pill">Live streams</span>
+      <span class="meta-pill">Mon · Tues · Wed · Fri · 3–5 PM MT</span>
+      <span class="meta-pill">Archived after broadcast</span>
+      <span class="meta-pill">Auto-updating</span>
     </div>
-  </article>
 
-  <article class="tile">
-    <a href="Image%205%20May%202%2C%202026%2C%2008_41_56%20PM.png" target="_blank" rel="noopener">
-      <img src="Image%205%20May%202%2C%202026%2C%2008_41_56%20PM.png" alt="Willful non-compliance — a stamp in red ink across a kitchen table of unopened deadline notices. Speech bubbles show the real reasons: couldn't read the notice, couldn't afford the fee, couldn't reach a caseworker, was sick on the deadline date." loading="lazy">
-    </a>
-    <div class="tile-body">
-      <p class="tile-num">Illustration 05</p>
-      <p>Willful non-compliance — the stamp the system uses, and what was actually happening underneath.</p>
-      <div class="tile-actions">
-        <a href="Image%205%20May%202%2C%202026%2C%2008_41_56%20PM.png" target="_blank" rel="noopener">View →</a>
-        <a download href="Image%205%20May%202%2C%202026%2C%2008_41_56%20PM.png">Download</a>
+    <div class="podcast-stage">
+      <div class="podcast-frame">
+        <iframe
+          src="https://www.youtube.com/embed/videoseries?list=UUr6bbYdhvGHoldwSVtF1UNA"
+          title="@ISH ACTIONS Revolutionary Podcast — NightCastle Productions"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+          loading="lazy"></iframe>
       </div>
+      <p class="podcast-caption">Latest episode plays first. Use the playlist menu (top-left of the player) to browse all episodes.</p>
     </div>
-  </article>
 
-  <article class="tile">
-    <a href="Image%206%20May%202%2C%202026%2C%2008_43_40%20PM.png" target="_blank" rel="noopener">
-      <img src="Image%206%20May%202%2C%202026%2C%2008_43_40%20PM.png" alt="Two government letters side by side — Grade 14 reading level (hard to read) vs Grade 6 reading level (easy to understand). The same information, two completely different experiences." loading="lazy">
-    </a>
-    <div class="tile-body">
-      <p class="tile-num">Illustration 06</p>
-      <p>Same letter, two reading levels. Grade 14 is what arrives. Grade 6 is what works.</p>
-      <div class="tile-actions">
-        <a href="Image%206%20May%202%2C%202026%2C%2008_43_40%20PM.png" target="_blank" rel="noopener">View →</a>
-        <a download href="Image%206%20May%202%2C%202026%2C%2008_43_40%20PM.png">Download</a>
+    <aside class="callout">
+      <p class="callout-eyebrow">Independent Alberta media</p>
+      <h3>NightCastle Productions</h3>
+      <p>Subscribe on YouTube to be notified when episodes go live. Live broadcasts appear in the player above as they happen — click through to YouTube to participate in the live chat during a stream.</p>
+      <div class="callout-actions">
+        <a class="btn btn-primary" href="https://www.youtube.com/@nightcastleproductions5960?sub_confirmation=1" target="_blank" rel="noopener">Subscribe on YouTube</a>
+        <a class="btn btn-ghost" href="https://www.youtube.com/@nightcastleproductions5960" target="_blank" rel="noopener">Visit channel</a>
       </div>
-    </div>
-  </article>
+    </aside>
+  </div>
+</section>
 
-  <article class="tile">
-    <a href="Image%207%20May%202%2C%202026%2C%2008_45_55%20PM.png" target="_blank" rel="noopener">
-      <img src="Image%207%20May%202%2C%202026%2C%2008_45_55%20PM.png" alt="The five excuses you may hear — Use AI, Educate Yourself, Ask Family, Just Call the Office, Request Accommodation. Each one moves the burden onto the disabled person." loading="lazy">
-    </a>
-    <div class="tile-body">
-      <p class="tile-num">Illustration 07</p>
-      <p>The five excuses. Each one moves responsibility for the system's failure onto the person it's failing.</p>
-      <div class="tile-actions">
-        <a href="Image%207%20May%202%2C%202026%2C%2008_45_55%20PM.png" target="_blank" rel="noopener">View →</a>
-        <a download href="Image%207%20May%202%2C%202026%2C%2008_45_55%20PM.png">Download</a>
+<!-- ───────────── ALLIED VOICES ───────────── -->
+<section id="allied-voices" class="allied-voices">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">Allied Voices</p>
+      <h2 class="section-title">We stand together.</h2>
+      <p class="section-lede">We don't have to align. We don't have to agree. We are all headed to the same destination — stop ADAP, stop the ableist agenda, end the cuts to disabled Albertans. Anyone speaking for, on behalf of, or with the disabled community deserves a seat at this table — whether they have accepted it or not. The voices below are not endorsements. They are recognition that this fight has more than one voice, and that the people in it deserve to be heard, in their own words, on their own platforms.</p>
+    </header>
+
+    <aside class="callout">
+      <p class="callout-eyebrow">Featured series</p>
+      <h3>How to Be an Advocate</h3>
+      <p>A two-part collaborative series on disability advocacy in Alberta. If you've ever wondered how to push back, where to start, or how your voice fits into a larger movement — start here.</p>
+      <div class="callout-actions">
+        <a class="btn btn-primary" href="https://www.youtube.com/watch?v=OEA8MuVqg_M" target="_blank" rel="noopener">Watch Part 1</a>
+        <a class="btn btn-ghost" href="https://www.youtube.com/watch?v=4O7_4zhrsN4" target="_blank" rel="noopener">Watch Part 2</a>
       </div>
-    </div>
-  </article>
+    </aside>
 
-  <article class="tile">
-    <a href="Image%208%20May%202%2C%202026%2C%2008_50_26%20PM.png" target="_blank" rel="noopener">
-      <img src="Image%208%20May%202%2C%202026%2C%2008_50_26%20PM.png" alt="Is this on purpose? — a politician at a podium says 'No one was removed,' while the caseload reduction chart behind him shows year-over-year decline and a line of people walks out the OUT door." loading="lazy">
-    </a>
-    <div class="tile-body">
-      <p class="tile-num">Illustration 08</p>
-      <p>Attrition is a policy. It just doesn't get called one. The caseload shrinks without an announcement.</p>
-      <div class="tile-actions">
-        <a href="Image%208%20May%202%2C%202026%2C%2008_50_26%20PM.png" target="_blank" rel="noopener">View →</a>
-        <a download href="Image%208%20May%202%2C%202026%2C%2008_50_26%20PM.png">Download</a>
+    <h3 class="subhead">Channels &amp; voices</h3>
+    <div class="allied-grid">
+      <article class="allied-card">
+        <h3>Zachary Weeks</h3>
+        <p>Disability advocate · People's Alliance for Disabled Albertans.</p>
+        <a class="allied-link" href="https://www.youtube.com/@zacharyweeks" target="_blank" rel="noopener">Watch on YouTube →</a>
+      </article>
+
+      <article class="allied-card">
+        <h3>The Antiableist</h3>
+        <p>Independent anti-ableism advocacy and commentary.</p>
+        <a class="allied-link" href="https://www.youtube.com/@theantiableist1" target="_blank" rel="noopener">Watch on YouTube →</a>
+      </article>
+
+      <article class="allied-card">
+        <h3>Inclusion Alberta</h3>
+        <p>Provincial inclusion organization advocating for Albertans with developmental disabilities and their families.</p>
+        <a class="allied-link" href="https://www.youtube.com/@Inclusion_Alberta" target="_blank" rel="noopener">Watch on YouTube →</a>
+      </article>
+
+      <article class="allied-card">
+        <h3>Inclusion Canada</h3>
+        <p>National inclusion organization advocating for the rights of Canadians with intellectual disabilities and their families.</p>
+        <a class="allied-link" href="https://www.youtube.com/@InclusionCanada" target="_blank" rel="noopener">Watch on YouTube →</a>
+      </article>
+
+      <article class="allied-card">
+        <h3>Daniel Johnstone</h3>
+        <p>Disability advocate · Executive Director, Can Man Dan Foundation.</p>
+        <a class="allied-link" href="https://www.youtube.com/@TheDanJohnstone" target="_blank" rel="noopener">Watch on YouTube →</a>
+      </article>
+
+      <article class="allied-card">
+        <h3>Can Man Dan Foundation</h3>
+        <p>Alberta-based disability rights foundation supporting people with disabilities and their communities.</p>
+        <a class="allied-link" href="https://www.youtube.com/@CanManDanFoundation" target="_blank" rel="noopener">Watch on YouTube →</a>
+      </article>
+
+      <article class="allied-card">
+        <h3>Disability12</h3>
+        <p>Independent disability advocacy and commentary.</p>
+        <a class="allied-link" href="https://www.youtube.com/@Disability12" target="_blank" rel="noopener">Watch on YouTube →</a>
+      </article>
+
+      <article class="allied-card">
+        <h3>MLA Marie Renaud</h3>
+        <p>Marie Renaud, MLA for St. Albert, has been one of the most consistent and engaged provincial voices on AISH, ADAP, and disability policy. Her speeches, questions, and committee work appear on the Alberta New Democrats channel, where she does much of her public advocacy.</p>
+        <a class="allied-link" href="https://www.youtube.com/@AlbertaNewDemocrats" target="_blank" rel="noopener">Watch on YouTube →</a>
+      </article>
+    </div>
+
+    <p class="allied-footnote">Know a voice in this fight that should be on this list? Email <a href="mailto:albertadisabilitybreakdown@outlook.com">albertadisabilitybreakdown@outlook.com</a>. Inclusion is not endorsement. The table is open.</p>
+  </div>
+</section>
+
+<!-- ───────────── TAKE ACTION ───────────── -->
+<section id="take-action" class="take-action">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">Take Action</p>
+      <h2 class="section-title">Speak up. Speak out. Be heard.</h2>
+      <p class="section-lede">Fillable templates that do the heavy lifting. Edit the bracketed sections, sign, send. Every letter is a record.</p>
+    </header>
+
+    <div class="action-grid">
+      <article class="action-card">
+        <h3>Contact your MLA / MP</h3>
+        <p>The single most effective document in this kit. Bracketed sections only — the rest is ready to send.</p>
+        <a class="btn btn-primary" href="/pdfs/fillable/Fillable_MLA_MP_Contact_Letter.pdf" target="_blank" rel="noopener">Open template</a>
+      </article>
+      <article class="action-card">
+        <h3>Personal Impact Statement</h3>
+        <p>Tell the government what the transition means for your household. Submitted to the public record.</p>
+        <a class="btn btn-primary" href="/pdfs/fillable/Fillable_Personal_Impact_Statement.pdf" target="_blank" rel="noopener">Open template</a>
+      </article>
+      <article class="action-card">
+        <h3>Community Story Submission</h3>
+        <p>For people whose story belongs in the campaign record, but not in their MLA's inbox.</p>
+        <a class="btn btn-primary" href="/pdfs/fillable/Fillable_Community_Story_Submission.pdf" target="_blank" rel="noopener">Open template</a>
+        <a class="btn btn-ghost-sm" href="/pdfs/fillable/Fillable_Community_Story_Submission_PRINTABLE.pdf" target="_blank" rel="noopener">Printable version</a>
+      </article>
+      <article class="action-card">
+        <h3>CDB Overpayment Appeal</h3>
+        <p>If the federal Canada Disability Benefit clawback has triggered an overpayment notice. Form template.</p>
+        <a class="btn btn-primary" href="/pdfs/fillable/Fillable_CDB_Overpayment_Appeal_Form.pdf" target="_blank" rel="noopener">Open form</a>
+      </article>
+      <article class="action-card">
+        <h3>Formal Complaint</h3>
+        <p>For caseworker, program, or service complaints that need a paper trail.</p>
+        <a class="btn btn-primary" href="/pdfs/fillable/Fillable_Formal_Complaint_Template.pdf" target="_blank" rel="noopener">Open template</a>
+      </article>
+      <article class="action-card">
+        <h3>Employment Barriers Notice</h3>
+        <p>Document the actual barriers ADAP's "employment first" framing pretends don't exist.</p>
+        <a class="btn btn-primary" href="/pdfs/fillable/Fillable_Employment_Barriers_Notice_Template.pdf" target="_blank" rel="noopener">Open template</a>
+      </article>
+      <article class="action-card">
+        <h3>Ally Advocacy Submission</h3>
+        <p>For non-disabled allies, family, friends, professionals submitting on behalf of someone else.</p>
+        <a class="btn btn-primary" href="/pdfs/fillable/Fillable_Ally_Advocacy_Submission.pdf" target="_blank" rel="noopener">Open template</a>
+      </article>
+      <article class="action-card">
+        <h3>ATIA — Personal File Request</h3>
+        <p>Request your own government-held records under the federal Access to Information Act and Privacy Act. Get the file the province has on you.</p>
+        <a class="btn btn-primary" href="/pdfs/fillable/Fillable_ATIA_Personal_File_Request.pdf" target="_blank" rel="noopener">Open form</a>
+      </article>
+    </div>
+
+    <h3 class="subhead">Disability Refugee Series — by province</h3>
+    <p class="lede-sm">If you're considering relocating: each provincial brief documents what you're leaving Alberta to go toward. Sourced. Specific. Decision-ready.</p>
+    <div class="prov-grid" id="prov-grid"></div>
+
+    <aside class="callout secondary" id="join">
+      <p class="callout-eyebrow">Stay connected</p>
+      <h3>Join the campaign</h3>
+      <p>The Alberta Disability System Breakdown is a community group on Facebook. No join required to access the documents — that's what this site is for. But the conversation, the calls, and the local meetups are there.</p>
+      <div class="callout-actions">
+        <a class="btn btn-primary" href="https://www.facebook.com/share/g/1CrU5PfHha/" target="_blank" rel="noopener">Join on Facebook</a>
+        <a class="btn btn-ghost" href="mailto:albertadisabilitybreakdown@outlook.com">albertadisabilitybreakdown@outlook.com</a>
       </div>
+    </aside>
+  </div>
+</section>
+
+</main>
+
+<!-- ───────────── FOOTER ───────────── -->
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div class="footer-brand">
+      <img src="/assets/wild-rose-mark.png" alt="" class="footer-rose" width="56" height="56">
+      <p class="footer-name">The Alberta Disability System Breakdown</p>
+      <p class="footer-tag">Reports. Flyers. Tools.</p>
+      <p class="footer-tag">Free to share. Free to save. Free to distribute.</p>
     </div>
-  </article>
-
-  <article class="tile">
-    <a href="Image%209%20May%202%2C%202026%2C%2008_53_12%20PM.png" target="_blank" rel="noopener">
-      <img src="Image%209%20May%202%2C%202026%2C%2008_53_12%20PM.png" alt="Three legal pillars — Alberta Human Rights Act, Charter of Rights Section 15, UN CRPD. People standing in front holding signs reading EQUALITY IS NOT OPTIONAL, NOTHING ABOUT US WITHOUT US, ACCESS INCLUSION JUSTICE." loading="lazy">
-    </a>
-    <div class="tile-body">
-      <p class="tile-num">Illustration 09</p>
-      <p>The law is on your side. Three frameworks already say what's happening is not allowed.</p>
-      <div class="tile-actions">
-        <a href="Image%209%20May%202%2C%202026%2C%2008_53_12%20PM.png" target="_blank" rel="noopener">View →</a>
-        <a download href="Image%209%20May%202%2C%202026%2C%2008_53_12%20PM.png">Download</a>
-      </div>
+    <div>
+      <p class="footer-head">Contact</p>
+      <ul class="footer-list">
+        <li><a href="mailto:albertadisabilitybreakdown@outlook.com">albertadisabilitybreakdown@outlook.com</a></li>
+        <li><a href="https://www.facebook.com/share/g/1CrU5PfHha/" target="_blank" rel="noopener">Facebook group</a></li>
+        <li><a href="https://albertadisabilitysystembreakdown.netlify.app">albertadisabilitysystembreakdown.netlify.app</a></li>
+      </ul>
     </div>
-  </article>
-
-  <article class="tile">
-    <a href="Image%2010%20May%202%2C%202026%2C%2008_55_41%20PM.png" target="_blank" rel="noopener">
-      <img src="Image%2010%20May%202%2C%202026%2C%2008_55_41%20PM.png" alt="What accessible looks like — a welcoming office, a real caseworker filling in a Plain Language form with a recipient. Signs on the walls: ALBERTA SUPPORTS YOU, NO BENEFIT CUT WITHOUT ACCOMMODATION REVIEW." loading="lazy">
-    </a>
-    <div class="tile-body">
-      <p class="tile-num">Illustration 10</p>
-      <p>Accessible is not impossible. Other places already do it. This is what it looks like.</p>
-      <div class="tile-actions">
-        <a href="Image%2010%20May%202%2C%202026%2C%2008_55_41%20PM.png" target="_blank" rel="noopener">View →</a>
-        <a download href="Image%2010%20May%202%2C%202026%2C%2008_55_41%20PM.png">Download</a>
-      </div>
+    <div>
+      <p class="footer-head">Quick links</p>
+      <ul class="footer-list">
+        <li><a href="#reports">All reports</a></li>
+        <li><a href="#documents">Document library</a></li>
+        <li><a href="#ministerial">Ministerial correspondence</a></li>
+        <li><a href="#audio">Audio recordings</a></li>
+        <li><a href="#podcast">Podcast</a></li>
+        <li><a href="#allied-voices">Allied Voices</a></li>
+        <li><a href="#flyers">Flyers</a></li>
+        <li><a href="#take-action">Fillable templates</a></li>
+      </ul>
     </div>
-  </article>
-
-  <article class="tile">
-    <a href="Image%2011%20May%202%2C%202026%2C%2009_06_21%20PM.png" target="_blank" rel="noopener">
-      <img src="Image%2011%20May%202%2C%202026%2C%2009_06_21%20PM.png" alt="The Alberta Disability System Breakdown — community members around a table, one being interviewed by a journalist, others writing stories, sharing information, filing complaints. Real Stories. Real Barriers. Real Change." loading="lazy">
-    </a>
-    <div class="tile-body">
-      <p class="tile-num">Illustration 11</p>
-      <p>Every voice builds the record. Every action helps. You don't have to do everything — just something.</p>
-      <div class="tile-actions">
-        <a href="Image%2011%20May%202%2C%202026%2C%2009_06_21%20PM.png" target="_blank" rel="noopener">View →</a>
-        <a download href="Image%2011%20May%202%2C%202026%2C%2009_06_21%20PM.png">Download</a>
-      </div>
+    <div>
+      <p class="footer-head">About</p>
+      <p class="footer-about">A community-led documentation campaign on the AISH-to-ADAP transition, FSCD/PDD waitlists, healthcare access, and the federal CDB clawback in Alberta. All figures sourced from Government of Alberta open data, Statistics Canada, and verified independent sources. Published April 2026.</p>
     </div>
-  </article>
-
-  <article class="tile">
-    <a href="Image%2012%20May%202%2C%202026%2C%2009_07_23%20PM.png" target="_blank" rel="noopener">
-      <img src="Image%2012%20May%202%2C%202026%2C%2009_07_23%20PM.png" alt="WE STAND TOGETHER — a community of people of all abilities standing in a sunset Alberta landscape under a banner. Sign reads DIGNITY. ACCESS. INCLUSION. JUSTICE. NOTHING ABOUT US WITHOUT US." loading="lazy">
-    </a>
-    <div class="tile-body">
-      <p class="tile-num">Illustration 12</p>
-      <p>We stand together. The takeaway image. Real stories. Real barriers. Real change. The work continues.</p>
-      <div class="tile-actions">
-        <a href="Image%2012%20May%202%2C%202026%2C%2009_07_23%20PM.png" target="_blank" rel="noopener">View →</a>
-        <a download href="Image%2012%20May%202%2C%202026%2C%2009_07_23%20PM.png">Download</a>
-      </div>
-    </div>
-  </article>
-
-</div>
-
-<footer>
-  <p>The Alberta Disability System Breakdown — Free to share. Free to print. Free to distribute.</p>
-  <p style="margin-top:8px;"><a href="/">← Back to the main site</a> &middot; <a href="/pdfs/access-gap/Access_Gap_Plain_Language.pdf" target="_blank" rel="noopener">Read the full Plain Language guide</a></p>
+  </div>
+  <div class="wrap footer-bottom">
+    <p>The Alberta Disability System Breakdown — Advocate · St. Albert, Alberta · April 2026</p>
+    <p>This site is the public document library. Free to share. Free to print.</p>
+  </div>
 </footer>
 
+<script src="/js/app.js"></script>
 </body>
 </html>
