@@ -18,6 +18,8 @@ const REPORTS = [
   { num: "08", title: "Healthcare Worker Shortage Report", desc: "650,000 Albertans without a family doctor — including most AISH recipients. What that compounds.", file: "8_Healthcare_Worker_Shortage_Report.pdf" },
   { num: "09", title: "ADSB Employment Reality Report", desc: "What ADAP's 'employment first' framing assumes — and what disabled Albertans are actually being asked to do.", file: "9_ADSB_Employment_Reality_Report.pdf" },
   { num: "09a", title: "Three Years and Counting — FSCD/PDD Crisis", desc: "The same families being moved off AISH have children waiting three years for FSCD/PDD services. A simultaneous failure.", file: "9_Three_Years_and_Counting_FSCD_PDD_Crisis_Report.pdf" },
+  { num: "09b", title: "Intergenerational Family Report", desc: "How AISH and ADAP failures cascade across generations within a disabled family — what the parent carries, what the child inherits, and what the system never accounts for.", file: "9b_Intergenerational_Family_Report.pdf" },
+  { num: "09c", title: "Intergenerational Contradiction Report", desc: "Companion to 09b. The government's stated position on intergenerational disability versus the documented record.", file: "9c_Intergenerational_Contradiction_Report.pdf" },
   { num: "10", title: "Taxpayer & Heritage Fund Report", desc: "Where Alberta's money has gone, where it hasn't, and what the Heritage Fund deposit pause means in 2026.", file: "10_Taxpayer_and_Heritage_Fund_Report.pdf" },
   { num: "10a", title: "Follow the Money Report", desc: "The grant trail, the contracts, and the question of where Alberta's disability-system spending actually lands.", file: "10a_Follow_The_Money_Report.pdf" },
   { num: "10b", title: "The Plot Thickens Report", desc: "Follow-up findings to the original financial trail. New documents, new questions.", file: "10b_The_Plot_Thickens_Report.pdf" },
@@ -480,7 +482,13 @@ const FLYERS = [
   { label: "Documentation Compared", img: "image_e5ec5911.jpg", path: "comics" },
   { label: "Just Climb", img: "image_ec0be382.jpg", path: "comics" },
   { label: "My Story Is Evidence", img: "image_f01eb275.jpg", path: "comics" },
-  { label: "Community Hall", img: "image_f668ace4.jpg", path: "comics" }
+  { label: "Community Hall", img: "image_f668ace4.jpg", path: "comics" },
+
+  // Impact flyers — live in /pdfs/flyers/impact/. _dejavu variants use the DejaVu typeface for accessibility.
+  { label: "Impact — Part 1", img: "impact_part1.png", path: "impact" },
+  { label: "Impact — Part 1 (DejaVu)", img: "impact_part1_dejavu.png", path: "impact" },
+  { label: "Impact — Part 2", img: "impact_part2.png", path: "impact" },
+  { label: "Impact — Part 2 (DejaVu)", img: "impact_part2_dejavu.png", path: "impact" }
 ];
 
 // ─── Render: Flyer grid ───
