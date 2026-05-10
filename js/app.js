@@ -117,6 +117,7 @@ const DOCUMENTS = [
   { cat: "briefs", title: "Job Postings Addendum (April 6, 2026)", desc: "Government job postings that contradict the labour market story being told to ADAP recipients.", file: "/pdfs/sourced-briefs/JobPostings_Addendum_April6_2026.pdf" },
   { cat: "briefs", title: "Alberta Daycare Barriers — Research Analysis", desc: "Analysis of daycare access barriers and how they intersect with disability income and FSCD/PDD service gaps.", file: "/pdfs/sourced-briefs/Alberta_Daycare_Barriers_Research_Analysis.pdf" },
   { cat: "briefs", title: "Consultation Gap Rebuttal", desc: "Direct rebuttal of the government's consultation claim — what consultation actually happened, and what didn't.", file: "/pdfs/consultation-gap-rebuttal/Consultation_Gap_Rebuttal_April2026.pdf" },
+  { cat: "briefs", title: "Easier for Whom? The Alberta.ca Account", desc: "The alberta.ca account requirement and what it costs disabled Albertans trying to file an ATIA personal information request. Filed institutionally May 2026.", file: "/pdfs/sourced-briefs/ADSB_Easier_For_Whom_AlbertaCa_Account_May2026.pdf" },
 
   // New ADSB docs
   { cat: "new", title: "73 Reviews a Day", desc: "What it would take to actually re-review 79,290 cases by July 1, 2026 — and what it doesn't take.", file: "/pdfs/new-adsb-docs/ADSB_73_Reviews_A_Day_April2026.pdf" },
