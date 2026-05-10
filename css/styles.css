@@ -527,6 +527,82 @@ section + section { border-top: 1px solid var(--line); }
 }
 .callout-actions { display: flex; gap: 0.7rem; flex-wrap: wrap; }
 
+/* ─────────── NEWSLETTER FORM (inside callout) ─────────── */
+.newsletter-block {
+  margin-top: 1.6rem;
+  padding-top: 1.6rem;
+  border-top: 1px solid var(--line);
+}
+.newsletter-heading {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.15rem;
+  color: var(--cream-50);
+  margin: 0 0 0.4rem;
+  letter-spacing: -0.01em;
+}
+.newsletter-blurb {
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+  margin: 0 0 1.1rem !important;
+  line-height: 1.55;
+  max-width: 60ch;
+}
+.newsletter-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+.newsletter-label {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold-400);
+  font-weight: 500;
+}
+.newsletter-row {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.newsletter-row input[type="email"] {
+  flex: 1 1 260px;
+  min-width: 0;
+  padding: 13px 16px;
+  border-radius: 10px;
+  border: 1px solid var(--line-strong);
+  background: rgba(255, 246, 215, 0.04);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  line-height: 1;
+  transition: border-color 0.15s, background 0.15s;
+}
+.newsletter-row input[type="email"]::placeholder {
+  color: var(--ink-mute);
+}
+.newsletter-row input[type="email"]:focus {
+  outline: 2px solid var(--gold-400);
+  outline-offset: 2px;
+  border-color: var(--gold-500);
+  background: rgba(255, 246, 215, 0.06);
+}
+.newsletter-fineprint {
+  font-size: 0.78rem;
+  color: var(--ink-mute);
+  margin: 0.3rem 0 0 !important;
+  line-height: 1.5;
+}
+.newsletter-fineprint a {
+  color: var(--ink-mute);
+  border-bottom: 1px dotted var(--line-strong);
+}
+.newsletter-fineprint a:hover {
+  color: var(--ink-soft);
+  border-bottom-color: var(--gold-500);
+}
+
 /* ─────────── APPEALS / TWO-COL ─────────── */
 .appeals { background: var(--navy-900); }
 .two-col {
