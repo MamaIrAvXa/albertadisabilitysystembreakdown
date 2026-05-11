@@ -43,6 +43,7 @@
       <a href="#flyers">Flyers</a>
       <a href="#reports">Reports</a>
       <a href="#documents">Documents</a>
+      <a href="#reference">Reference Library</a>
       <a href="#ministerial">Ministerial</a>
       <a href="#audio">Audio</a>
       <a href="#podcast">Podcast</a>
@@ -244,7 +245,7 @@
     </header>
 
     <!-- Filter bar -->
-    <div class="filter-bar" role="tablist" aria-label="Document categories">
+    <div class="filter-bar" data-target="documents" role="tablist" aria-label="Document categories">
       <button class="chip active" data-filter="all">All</button>
       <button class="chip" data-filter="compilations">Compilations</button>
       <button class="chip" data-filter="building">Building Up</button>
@@ -263,6 +264,27 @@
     </div>
 
     <div class="doc-grid" id="doc-grid"></div>
+  </div>
+</section>
+
+<!-- ───────────── REFERENCE LIBRARY ───────────── -->
+<section id="reference" class="documents">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">Reference Library</p>
+      <h2 class="section-title">Read the originals.</h2>
+      <p class="section-lede">Government forms, policy manuals, and independent reports — the source material the campaign cites. The system, in its own words.</p>
+    </header>
+
+    <!-- Filter bar -->
+    <div class="filter-bar" data-target="reference" role="tablist" aria-label="Reference categories">
+      <button class="chip active" data-filter="all">All</button>
+      <button class="chip" data-filter="forms">Government Forms</button>
+      <button class="chip" data-filter="manuals">Government Manuals</button>
+      <button class="chip" data-filter="external">External Reports</button>
+    </div>
+
+    <div class="doc-grid" id="ref-grid"></div>
   </div>
 </section>
 

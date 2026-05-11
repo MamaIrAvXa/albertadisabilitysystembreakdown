@@ -357,6 +357,19 @@ const MINISTERIAL = [
   }
 ];
 
+// ─── Data: Reference Library (third-party + government originals) ───
+const REFERENCE_LIBRARY = [
+  { cat: "external", title: "Disability Poverty Report Card 2025",
+    desc: "Disability Without Poverty + Campaign 2000. National snapshot of disability poverty in Canada — the $200/month Canada Disability Benefit gets a federal D grade with 1.5 million still below the poverty line. Statistics Canada data, fully sourced.",
+    file: "/pdfs/government-form-originals/external-reports/2025-Disability-Poverty-Report-Card-FINAL-English.pdf" },
+  { cat: "manuals", title: "AISH Program Manual",
+    desc: "Alberta's official AISH program manual. The eligibility rules, benefit calculations, and policy exceptions as written by the program. Read what your caseworker is referencing.",
+    file: "/pdfs/government-form-originals/government-manuals/AISH_MANUAL.pdf" },
+  { cat: "forms", title: "Alberta Access to Information Request Form (Original)",
+    desc: "Alberta Government's official Access to Information request form. File this to request your own personal records from any provincial public body. A fillable, pre-filled campaign version is in the Take Action section.",
+    file: "/pdfs/government-form-originals/government-forms/atia-access-to-information-form.pdf" }
+];
+
 // ─── Data: Featured flyers (subset of /pdfs/flyers/posters/) ───
 const FLYERS = [
   { label: "Caseworker Rights", img: "caseworker_flyer.png" },
@@ -547,6 +560,24 @@ function encodePath(path) {
   return path.split("/").map((seg, i) => i === 0 ? seg : encodeURIComponent(seg)).join("/");
 }
 
+// ─── Render: Reference Library (filterable) ───
+function renderReference(filter = "all") {
+  const grid = document.getElementById("ref-grid");
+  if (!grid) return;
+  const docs = filter === "all" ? REFERENCE_LIBRARY : REFERENCE_LIBRARY.filter(d => d.cat === filter);
+  grid.innerHTML = docs.map(d => `
+    <article class="card" data-cat="${d.cat}">
+      <p class="card-num">${categoryLabel(d.cat)}</p>
+      <h3 class="card-title">${d.title}</h3>
+      <p class="card-desc">${d.desc}</p>
+      <div class="card-actions">
+        <a class="view" href="${encodePath(d.file)}" target="_blank" rel="noopener">View →</a>
+        <a download href="${encodePath(d.file)}">Download</a>
+      </div>
+    </article>
+  `).join("");
+}
+
 function categoryLabel(cat) {
   const map = {
     compilations: "Compilation",
@@ -561,7 +592,10 @@ function categoryLabel(cat) {
     briefs: "Sourced Brief",
     new: "New ADSB Doc",
     info: "Information Asymmetry",
-    access: "Access Gap"
+    access: "Access Gap",
+    external: "External Report",
+    forms: "Government Form",
+    manuals: "Government Manual"
   };
   return map[cat] || cat;
 }
@@ -686,15 +720,25 @@ function bindAudioShare() {
 }
 
 // ─── Filter chip behaviour ───
+// Each .filter-bar has a data-target attribute identifying which render function to call.
+// Chips are scoped to their parent .filter-bar so multiple filterable sections work independently.
 function bindFilterChips() {
-  const chips = document.querySelectorAll(".chip");
-  chips.forEach(chip => {
-    chip.addEventListener("click", () => {
-      chips.forEach(c => c.classList.remove("active"));
-      chip.classList.add("active");
-      renderDocs(chip.dataset.filter);
-      // Smooth-scroll to keep chips visible
-      chip.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+  const renderers = {
+    documents: renderDocs,
+    reference: renderReference
+  };
+  document.querySelectorAll(".filter-bar").forEach(bar => {
+    const target = bar.dataset.target;
+    const render = renderers[target];
+    if (!render) return;
+    const chips = bar.querySelectorAll(".chip");
+    chips.forEach(chip => {
+      chip.addEventListener("click", () => {
+        chips.forEach(c => c.classList.remove("active"));
+        chip.classList.add("active");
+        render(chip.dataset.filter);
+        chip.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+      });
     });
   });
 }
@@ -743,6 +787,7 @@ document.addEventListener("DOMContentLoaded", () => {
   renderFlyers();
   renderReports();
   renderDocs("all");
+  renderReference("all");
   renderProvinces();
   renderMinisterial();
   renderAudio();
