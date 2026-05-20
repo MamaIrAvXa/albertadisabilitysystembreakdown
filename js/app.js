@@ -219,16 +219,18 @@ const DOCUMENTS = [
 
 // ─── Data: Audio recordings (5 series, organized by report header) ───
 // Songs can also carry a `released: "YYYY-MM-DD"` per item for the Just Dropped section.
+// Any item can also carry a `youtube: "<11-char-id>"` field — when present, the renderer
+// embeds the YouTube video above the native audio player.
 const AUDIO_SERIES = [
   {
     id: "songs",
     title: "Songs for the Movement",
-    blurb: "Songs written by the campaign for the movement. Lyrics original; music AI-generated. These are not report read-alouds — these are the soundtrack of the steps.",
+    blurb: "Songs written by the campaign for the movement. Lyrics original; music AI-generated. These are not report read-alouds — these are the soundtrack of the steps. Watch the video or play the audio.",
     folder: "songs-for-the-movement",
     items: [
-      { num: "01", title: "Kitchen Table Map", file: "Kitchen_Table_Map.mp3", released: "2026-05-20" },
-      { num: "02", title: "Paperwork on the Steps", file: "Paperwork_on_the_Steps.mp3", released: "2026-05-20" },
-      { num: "03", title: "We Don't Stop", file: "We_Don_t_Stop.mp3", released: "2026-05-20" }
+      { num: "01", title: "Kitchen Table Map", file: "Kitchen_Table_Map.mp3", youtube: "7TfSoRxDbrg", released: "2026-05-20" },
+      { num: "02", title: "Paperwork on the Steps", file: "Paperwork_on_the_Steps.mp3", youtube: "OZ0OygouKzs", released: "2026-05-20" },
+      { num: "03", title: "We Don't Stop", file: "We_Don_t_Stop.mp3", youtube: "CKUrdQHEgrI", released: "2026-05-20" }
     ]
   },
   {
@@ -923,12 +925,24 @@ function renderAudio() {
         ${series.items.map(item => {
           const path = `/audio/${series.folder}/${encodeURIComponent(item.file)}`;
           const fullUrl = `${baseUrl}${path}`;
+          const videoBlock = item.youtube ? `
+              <div class="audio-video">
+                <iframe
+                  src="https://www.youtube.com/embed/${item.youtube}"
+                  title="${item.title} — music video"
+                  allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerpolicy="strict-origin-when-cross-origin"
+                  allowfullscreen
+                  loading="lazy"></iframe>
+              </div>
+          ` : "";
           return `
-            <li class="audio-row">
+            <li class="audio-row${item.youtube ? " audio-row-video" : ""}">
               <div class="audio-meta-line">
                 <span class="audio-num">${item.num}</span>
                 <span class="audio-title">${item.title}</span>
               </div>
+              ${videoBlock}
               <audio class="audio-player" controls preload="none" src="${path}">
                 Your browser does not support the audio element. <a href="${path}">Download the file</a>.
               </audio>
