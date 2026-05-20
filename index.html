@@ -37,13 +37,13 @@
     </button>
     <nav id="primary-nav" class="primary-nav" aria-label="Primary">
       <a href="#overview">Overview</a>
+      <a href="#just-dropped" class="nav-new">Just Dropped</a>
       <a href="#system">The System</a>
       <a href="#numbers">Numbers</a>
       <a href="#appeals">Appeals</a>
       <a href="#flyers">Flyers</a>
       <a href="#reports">Reports</a>
       <a href="#documents">Documents</a>
-      <a href="#reference">Reference Library</a>
       <a href="#ministerial">Ministerial</a>
       <a href="#audio">Audio</a>
       <a href="#podcast">Podcast</a>
@@ -85,7 +85,36 @@
   </div>
 </section>
 
-<!-- ───────────── NUMBERS ───────────── -->
+<!-- ───────────── JUST DROPPED ───────────── -->
+<section id="just-dropped" class="just-dropped">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">New Release · Last 7 days</p>
+      <h2 class="section-title">Just Dropped.</h2>
+      <p class="section-lede">Everything added to the library in the last week, in one place. After 7 days each item rolls into its permanent home in Reports, Documents, or Audio — nothing disappears, it just stops being "new."</p>
+      <p class="section-count" id="just-dropped-count" aria-live="polite"></p>
+    </header>
+
+    <div class="card-grid jd-grid" id="just-dropped-grid"></div>
+
+    <p class="jd-empty" id="just-dropped-empty" hidden>
+      Nothing has dropped in the last 7 days. Check back — or browse the full library below.
+    </p>
+
+    <aside class="callout jd-callout">
+      <p class="callout-eyebrow">Subscriber update</p>
+      <h3>Tell the list what dropped.</h3>
+      <p>Six subscribers. One button. Opens your mail client with the list pre-filled in BCC and the week's drops summarized in the body — you hit Send. Subscriber emails live only on this device (localStorage), never in the public code.</p>
+      <div class="callout-actions">
+        <button id="subs-send" type="button" class="btn btn-primary">Send update to subscribers</button>
+        <button id="subs-manage" type="button" class="btn btn-ghost">Manage subscribers</button>
+      </div>
+      <p class="jd-status" id="subs-status" role="status" aria-live="polite"></p>
+    </aside>
+  </div>
+</section>
+
+<!-- ───────────── NUMBERS ─────────────  -->
 <section id="numbers" class="numbers">
   <div class="wrap">
     <header class="section-head">
@@ -245,8 +274,9 @@
     </header>
 
     <!-- Filter bar -->
-    <div class="filter-bar" data-target="documents" role="tablist" aria-label="Document categories">
+    <div class="filter-bar" role="tablist" aria-label="Document categories">
       <button class="chip active" data-filter="all">All</button>
+      <button class="chip" data-filter="may2026">May 2026 ADAP</button>
       <button class="chip" data-filter="compilations">Compilations</button>
       <button class="chip" data-filter="building">Building Up</button>
       <button class="chip" data-filter="cage">The Cage Doesn't End</button>
@@ -264,27 +294,6 @@
     </div>
 
     <div class="doc-grid" id="doc-grid"></div>
-  </div>
-</section>
-
-<!-- ───────────── REFERENCE LIBRARY ───────────── -->
-<section id="reference" class="documents">
-  <div class="wrap">
-    <header class="section-head">
-      <p class="section-eyebrow">Reference Library</p>
-      <h2 class="section-title">Read the originals.</h2>
-      <p class="section-lede">Government forms, policy manuals, and independent reports — the source material the campaign cites. The system, in its own words.</p>
-    </header>
-
-    <!-- Filter bar -->
-    <div class="filter-bar" data-target="reference" role="tablist" aria-label="Reference categories">
-      <button class="chip active" data-filter="all">All</button>
-      <button class="chip" data-filter="forms">Government Forms</button>
-      <button class="chip" data-filter="manuals">Government Manuals</button>
-      <button class="chip" data-filter="external">External Reports</button>
-    </div>
-
-    <div class="doc-grid" id="ref-grid"></div>
   </div>
 </section>
 
@@ -511,30 +520,26 @@
         <a class="btn btn-primary" href="https://www.facebook.com/share/g/1CrU5PfHha/" target="_blank" rel="noopener">Join on Facebook</a>
         <a class="btn btn-ghost" href="mailto:albertadisabilitybreakdown@outlook.com">albertadisabilitybreakdown@outlook.com</a>
       </div>
-
-      <div class="newsletter-block">
-        <p class="newsletter-heading">Or get email updates</p>
-        <p class="newsletter-blurb">A short note when new reports, audio episodes, or flyers go up. Nothing else, ever. No selling your address. Unsubscribe anytime.</p>
-        <form
-          action="https://buttondown.com/api/emails/embed-subscribe/albertadisabilitybreakdown"
-          method="post"
-          class="newsletter-form"
-          target="popupwindow"
-          onsubmit="window.open('https://buttondown.com/albertadisabilitybreakdown', 'popupwindow')"
-        >
-          <label for="bd-email" class="newsletter-label">Your email</label>
-          <div class="newsletter-row">
-            <input type="email" name="email" id="bd-email" placeholder="you@example.com" required>
-            <button type="submit" class="btn btn-primary">Subscribe</button>
-          </div>
-          <p class="newsletter-fineprint">Powered by <a href="https://buttondown.com/refer/albertadisabilitybreakdown" target="_blank" rel="noopener">Buttondown</a>.</p>
-        </form>
-      </div>
     </aside>
   </div>
 </section>
 
 </main>
+
+<!-- ───────────── SUBSCRIBER DIALOG (admin-only, localStorage) ───────────── -->
+<dialog id="subs-dialog" class="subs-dialog" aria-labelledby="subs-dialog-title">
+  <form method="dialog" class="subs-form">
+    <h3 id="subs-dialog-title">Manage subscribers</h3>
+    <p class="subs-hint">One email per line, or comma/semicolon separated. Stored only on this device — never uploaded, never visible to site visitors.</p>
+    <label class="subs-label" for="subs-textarea">Subscriber emails</label>
+    <textarea id="subs-textarea" rows="8" placeholder="subscriber1@example.com&#10;subscriber2@example.com" autocomplete="off" spellcheck="false"></textarea>
+    <p class="subs-count" id="subs-count">0 subscribers saved</p>
+    <div class="subs-actions">
+      <button id="subs-save" type="button" class="btn btn-primary">Save list</button>
+      <button id="subs-cancel" type="button" class="btn btn-ghost">Cancel</button>
+    </div>
+  </form>
+</dialog>
 
 <!-- ───────────── FOOTER ───────────── -->
 <footer class="site-footer">
@@ -556,6 +561,7 @@
     <div>
       <p class="footer-head">Quick links</p>
       <ul class="footer-list">
+        <li><a href="#just-dropped">Just Dropped</a></li>
         <li><a href="#reports">All reports</a></li>
         <li><a href="#documents">Document library</a></li>
         <li><a href="#ministerial">Ministerial correspondence</a></li>

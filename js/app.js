@@ -39,7 +39,16 @@ const REPORTS = [
 ];
 
 // ─── Data: Documents (full library beyond the report series) ───
+// To mark something as a new release, add a `released: "YYYY-MM-DD"` field.
+// Items with a release date in the last 7 days will show up in the "Just Dropped" section.
+// After 7 days they roll off Just Dropped automatically and stay in the main library.
 const DOCUMENTS = [
+  // ─── May 2026 ADAP Release (forensic + plain-language) ───
+  { cat: "may2026", title: "What Dropped This Week — May 12, 2026 ADAP Release", desc: "Information analysis of the May 12, 2026 ADAP-to-AISH final regulations. Documents the 50,000/30,000 split, the locked-in $1,740 base benefit, the 88% cohabitation reduction, and the contestable claims on the public record.", file: "/pdfs/may-2026-adap/ADSB_What_Dropped_This_Week_May2026.pdf", released: "2026-05-20" },
+  { cat: "may2026", title: "What Dropped This Week — Plain Language Edition", desc: "Plain-language companion to What Dropped This Week. Explains the May 12, 2026 ADAP regulations and what they mean for AISH recipients in accessible language.", file: "/pdfs/may-2026-adap/ADSB_What_Dropped_This_Week_PlainLanguage_May2026.pdf", released: "2026-05-20" },
+  { cat: "may2026", title: "The Engagement Page Record — A Forensic Timeline", desc: "Primary-source forensic analysis of nine Wayback Machine snapshots of the alberta.ca ADAP engagement page from August 2025 through April 2026. Documents the active-to-retrospective rewrite, the survey-date discrepancy, and the noarchive blackout.", file: "/pdfs/may-2026-adap/ADSB_Engagement_Page_Record_May2026.pdf", released: "2026-05-20" },
+  { cat: "may2026", title: "The Engagement Page Record — Plain Language Edition", desc: "Plain-language companion to the forensic timeline. What the engagement page used to say, what it says today, and what changed without public notice.", file: "/pdfs/may-2026-adap/ADSB_Engagement_Page_Record_PlainLanguage_May2026.pdf", released: "2026-05-20" },
+
   // Compilations
   { cat: "compilations", title: "Complete Report Series Compilation", desc: "All 19 ADSB reports in a single PDF.", file: "/pdfs/adsb-report-series/0_Complete_Report_Series_Compilation.pdf" },
   { cat: "compilations", title: "Building Up — Alberta Accessibility and Inclusion Blueprint (Complete)", desc: "The full proposed legislative framework for Alberta accessibility and inclusion legislation. Three Parts. Technical legal drafting.", file: "/pdfs/building-up/0_Building_Up_May2026.pdf" },
@@ -209,7 +218,19 @@ const DOCUMENTS = [
 ];
 
 // ─── Data: Audio recordings (5 series, organized by report header) ───
+// Songs can also carry a `released: "YYYY-MM-DD"` per item for the Just Dropped section.
 const AUDIO_SERIES = [
+  {
+    id: "songs",
+    title: "Songs for the Movement",
+    blurb: "Songs written by the campaign for the movement. Lyrics original; music AI-generated. These are not report read-alouds — these are the soundtrack of the steps.",
+    folder: "songs-for-the-movement",
+    items: [
+      { num: "01", title: "Kitchen Table Map", file: "Kitchen_Table_Map.mp3", released: "2026-05-20" },
+      { num: "02", title: "Paperwork on the Steps", file: "Paperwork_on_the_Steps.mp3", released: "2026-05-20" },
+      { num: "03", title: "We Don't Stop", file: "We_Don_t_Stop.mp3", released: "2026-05-20" }
+    ]
+  },
   {
     id: "adsb",
     title: "ADSB Original Report Series",
@@ -357,19 +378,6 @@ const MINISTERIAL = [
   }
 ];
 
-// ─── Data: Reference Library (third-party + government originals) ───
-const REFERENCE_LIBRARY = [
-  { cat: "external", title: "Disability Poverty Report Card 2025",
-    desc: "Disability Without Poverty + Campaign 2000. National snapshot of disability poverty in Canada — the $200/month Canada Disability Benefit gets a federal D grade with 1.5 million still below the poverty line. Statistics Canada data, fully sourced.",
-    file: "/pdfs/government-form-originals/external-reports/2025-Disability-Poverty-Report-Card-FINAL-English.pdf" },
-  { cat: "manuals", title: "AISH Program Manual",
-    desc: "Alberta's official AISH program manual. The eligibility rules, benefit calculations, and policy exceptions as written by the program. Read what your caseworker is referencing.",
-    file: "/pdfs/government-form-originals/government-manuals/AISH_MANUAL.pdf" },
-  { cat: "forms", title: "Alberta Access to Information Request Form (Original)",
-    desc: "Alberta Government's official Access to Information request form. File this to request your own personal records from any provincial public body. A fillable, pre-filled campaign version is in the Take Action section.",
-    file: "/pdfs/government-form-originals/government-forms/atia-access-to-information-form.pdf" }
-];
-
 // ─── Data: Featured flyers (subset of /pdfs/flyers/posters/) ───
 const FLYERS = [
   { label: "Caseworker Rights", img: "caseworker_flyer.png" },
@@ -504,7 +512,297 @@ const FLYERS = [
   { label: "Impact — Part 2 (DejaVu)", img: "impact_part2_dejavu.png", path: "impact" }
 ];
 
-// ─── Render: Flyer grid ───
+// ─── Just Dropped: collect everything released in the last 7 days ───
+// One source of truth: each manifest item can carry a `released: "YYYY-MM-DD"` field.
+// This collector reads across DOCUMENTS, REPORTS, AUDIO_SERIES items, and MINISTERIAL,
+// surfaces anything inside the window, and lets it roll off automatically when stale.
+// To change the window length, edit JUST_DROPPED_DAYS.
+const JUST_DROPPED_DAYS = 7;
+
+function withinWindow(dateStr) {
+  if (!dateStr) return false;
+  const released = new Date(dateStr + "T00:00:00");
+  if (isNaN(released.getTime())) return false;
+  const ageMs = Date.now() - released.getTime();
+  const windowMs = JUST_DROPPED_DAYS * 24 * 60 * 60 * 1000;
+  return ageMs >= 0 && ageMs <= windowMs;
+}
+
+function formatReleaseDate(dateStr) {
+  const d = new Date(dateStr + "T00:00:00");
+  if (isNaN(d.getTime())) return dateStr;
+  return d.toLocaleDateString("en-CA", { year: "numeric", month: "short", day: "numeric" });
+}
+
+function collectJustDropped() {
+  const items = [];
+
+  // Documents
+  DOCUMENTS.forEach(d => {
+    if (withinWindow(d.released)) {
+      items.push({
+        kind: "Document",
+        title: d.title,
+        desc: d.desc,
+        href: encodePath(d.file),
+        released: d.released,
+        category: categoryLabel(d.cat)
+      });
+    }
+  });
+
+  // Reports (live in /pdfs/adsb-report-series/)
+  REPORTS.forEach(r => {
+    if (withinWindow(r.released)) {
+      items.push({
+        kind: "Report",
+        title: r.title,
+        desc: r.desc,
+        href: `/pdfs/adsb-report-series/${encodeURIComponent(r.file)}`,
+        released: r.released,
+        category: `Report ${r.num}`
+      });
+    }
+  });
+
+  // Audio (per-item)
+  AUDIO_SERIES.forEach(series => {
+    series.items.forEach(item => {
+      if (withinWindow(item.released)) {
+        items.push({
+          kind: "Audio",
+          title: item.title,
+          desc: series.title,
+          href: `/audio/${series.folder}/${encodeURIComponent(item.file)}`,
+          released: item.released,
+          category: series.title
+        });
+      }
+    });
+  });
+
+  // Ministerial
+  MINISTERIAL.forEach(m => {
+    if (withinWindow(m.released)) {
+      items.push({
+        kind: "Ministerial",
+        title: m.title,
+        desc: m.desc,
+        href: `/pdfs/ministerial-correspondence/${encodeURIComponent(m.file)}`,
+        released: m.released,
+        category: m.type
+      });
+    }
+  });
+
+  // Newest first
+  items.sort((a, b) => b.released.localeCompare(a.released));
+  return items;
+}
+
+function renderJustDropped() {
+  const section = document.getElementById("just-dropped");
+  const grid = document.getElementById("just-dropped-grid");
+  const empty = document.getElementById("just-dropped-empty");
+  const countLabel = document.getElementById("just-dropped-count");
+  if (!section || !grid) return;
+
+  const items = collectJustDropped();
+
+  if (countLabel) {
+    countLabel.textContent = items.length === 0
+      ? "Nothing in the last 7 days"
+      : items.length === 1
+      ? "1 new item in the last 7 days"
+      : `${items.length} new items in the last 7 days`;
+  }
+
+  if (items.length === 0) {
+    grid.innerHTML = "";
+    if (empty) empty.hidden = false;
+    return;
+  }
+  if (empty) empty.hidden = true;
+
+  grid.innerHTML = items.map(item => `
+    <article class="card jd-card">
+      <p class="card-num">
+        <span class="jd-pill">New</span>
+        ${item.kind} · ${item.category} · ${formatReleaseDate(item.released)}
+      </p>
+      <h3 class="card-title">${item.title}</h3>
+      <p class="card-desc">${item.desc || ""}</p>
+      <div class="card-actions">
+        <a class="view" href="${item.href}" target="_blank" rel="noopener">${item.kind === "Audio" ? "Listen →" : "View →"}</a>
+        <a download href="${item.href}">Download</a>
+      </div>
+    </article>
+  `).join("");
+}
+
+// ─── Subscriber Update Button ───
+// Subscriber list lives in localStorage on the admin's device — never committed to
+// public code, never sent to a server, never visible to site visitors. The button
+// opens the admin's mail client via mailto: with the BCC list, subject, and body
+// pre-filled from the current Just Dropped items. The admin clicks Send themselves.
+const SUBS_KEY = "adsb_subscribers_v1";
+const SITE_URL = "https://albertadisabilitysystembreakdown.netlify.app";
+
+function getSubscribers() {
+  try {
+    const raw = localStorage.getItem(SUBS_KEY);
+    if (!raw) return [];
+    const arr = JSON.parse(raw);
+    return Array.isArray(arr) ? arr.filter(Boolean) : [];
+  } catch (e) {
+    return [];
+  }
+}
+
+function setSubscribers(arr) {
+  localStorage.setItem(SUBS_KEY, JSON.stringify(arr));
+}
+
+function parseSubscriberInput(text) {
+  // Accept comma, semicolon, or newline separated. Trim, lowercase, dedupe, basic shape check.
+  const tokens = text.split(/[\s,;]+/).map(s => s.trim().toLowerCase()).filter(Boolean);
+  const valid = tokens.filter(t => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(t));
+  return Array.from(new Set(valid));
+}
+
+function buildSubscriberMailto() {
+  const items = collectJustDropped();
+  const subs = getSubscribers();
+  const today = new Date().toLocaleDateString("en-CA", { year: "numeric", month: "long", day: "numeric" });
+
+  let subject;
+  let body;
+
+  if (items.length === 0) {
+    subject = `ADSB Update — ${today}`;
+    body = [
+      `Hi,`,
+      ``,
+      `A quick check-in from The Alberta Disability System Breakdown.`,
+      ``,
+      `Nothing new has dropped on the site in the last 7 days, but the full library is here:`,
+      SITE_URL,
+      ``,
+      `Free to share. Free to print. Free to forward.`,
+      ``,
+      `— The Alberta Disability System Breakdown`,
+      `albertadisabilitybreakdown@outlook.com`
+    ].join("\n");
+  } else {
+    subject = `ADSB — What dropped this week (${today})`;
+    const lines = items.map(item => {
+      const url = item.href.startsWith("http") ? item.href : `${SITE_URL}${item.href}`;
+      return `• ${item.kind}: ${item.title}\n  ${url}`;
+    });
+    body = [
+      `Hi,`,
+      ``,
+      `${items.length === 1 ? "One new item" : `${items.length} new items`} dropped on the site this week:`,
+      ``,
+      ...lines,
+      ``,
+      `All of it is live now at ${SITE_URL}`,
+      ``,
+      `Free to share. Free to print. Free to forward.`,
+      ``,
+      `— The Alberta Disability System Breakdown`,
+      `albertadisabilitybreakdown@outlook.com`
+    ].join("\n");
+  }
+
+  const params = [];
+  if (subs.length) params.push(`bcc=${encodeURIComponent(subs.join(","))}`);
+  params.push(`subject=${encodeURIComponent(subject)}`);
+  params.push(`body=${encodeURIComponent(body)}`);
+  return `mailto:?${params.join("&")}`;
+}
+
+function openSubscriberManager() {
+  const dlg = document.getElementById("subs-dialog");
+  const textarea = document.getElementById("subs-textarea");
+  const count = document.getElementById("subs-count");
+  if (!dlg || !textarea) return;
+  const current = getSubscribers();
+  textarea.value = current.join("\n");
+  if (count) count.textContent = `${current.length} subscriber${current.length === 1 ? "" : "s"} saved`;
+  if (typeof dlg.showModal === "function") {
+    dlg.showModal();
+  } else {
+    dlg.setAttribute("open", "");
+  }
+}
+
+function bindSubscriberUI() {
+  const sendBtn = document.getElementById("subs-send");
+  const manageBtn = document.getElementById("subs-manage");
+  const dlg = document.getElementById("subs-dialog");
+  const saveBtn = document.getElementById("subs-save");
+  const cancelBtn = document.getElementById("subs-cancel");
+  const textarea = document.getElementById("subs-textarea");
+  const count = document.getElementById("subs-count");
+  const status = document.getElementById("subs-status");
+
+  function refreshSendLabel() {
+    if (!sendBtn) return;
+    const n = getSubscribers().length;
+    const items = collectJustDropped().length;
+    if (n === 0) {
+      sendBtn.textContent = "Send update (add subscribers first)";
+    } else {
+      sendBtn.textContent = `Send update to ${n} subscriber${n === 1 ? "" : "s"}${items ? "" : " — nothing new"}`;
+    }
+  }
+
+  if (sendBtn) {
+    sendBtn.addEventListener("click", (e) => {
+      e.preventDefault();
+      const subs = getSubscribers();
+      if (subs.length === 0) {
+        if (status) status.textContent = "No subscribers saved yet — click Manage subscribers.";
+        openSubscriberManager();
+        return;
+      }
+      window.location.href = buildSubscriberMailto();
+      if (status) status.textContent = "Opening your mail client…";
+    });
+  }
+
+  if (manageBtn) {
+    manageBtn.addEventListener("click", (e) => {
+      e.preventDefault();
+      openSubscriberManager();
+    });
+  }
+
+  if (saveBtn && textarea) {
+    saveBtn.addEventListener("click", (e) => {
+      e.preventDefault();
+      const list = parseSubscriberInput(textarea.value);
+      setSubscribers(list);
+      if (count) count.textContent = `${list.length} subscriber${list.length === 1 ? "" : "s"} saved`;
+      if (status) status.textContent = `Saved ${list.length} subscriber${list.length === 1 ? "" : "s"} (stored on this device only).`;
+      refreshSendLabel();
+      if (dlg && typeof dlg.close === "function") dlg.close();
+      else if (dlg) dlg.removeAttribute("open");
+    });
+  }
+
+  if (cancelBtn) {
+    cancelBtn.addEventListener("click", (e) => {
+      e.preventDefault();
+      if (dlg && typeof dlg.close === "function") dlg.close();
+      else if (dlg) dlg.removeAttribute("open");
+    });
+  }
+
+  refreshSendLabel();
+}
+
 function renderFlyers() {
   const grid = document.getElementById("flyer-grid");
   if (!grid) return;
@@ -560,27 +858,10 @@ function encodePath(path) {
   return path.split("/").map((seg, i) => i === 0 ? seg : encodeURIComponent(seg)).join("/");
 }
 
-// ─── Render: Reference Library (filterable) ───
-function renderReference(filter = "all") {
-  const grid = document.getElementById("ref-grid");
-  if (!grid) return;
-  const docs = filter === "all" ? REFERENCE_LIBRARY : REFERENCE_LIBRARY.filter(d => d.cat === filter);
-  grid.innerHTML = docs.map(d => `
-    <article class="card" data-cat="${d.cat}">
-      <p class="card-num">${categoryLabel(d.cat)}</p>
-      <h3 class="card-title">${d.title}</h3>
-      <p class="card-desc">${d.desc}</p>
-      <div class="card-actions">
-        <a class="view" href="${encodePath(d.file)}" target="_blank" rel="noopener">View →</a>
-        <a download href="${encodePath(d.file)}">Download</a>
-      </div>
-    </article>
-  `).join("");
-}
-
 function categoryLabel(cat) {
   const map = {
     compilations: "Compilation",
+    may2026: "May 2026 ADAP",
     building: "Building Up",
     cage: "The Cage Doesn't End",
     separation: "Separation Risk",
@@ -592,10 +873,7 @@ function categoryLabel(cat) {
     briefs: "Sourced Brief",
     new: "New ADSB Doc",
     info: "Information Asymmetry",
-    access: "Access Gap",
-    external: "External Report",
-    forms: "Government Form",
-    manuals: "Government Manual"
+    access: "Access Gap"
   };
   return map[cat] || cat;
 }
@@ -720,25 +998,15 @@ function bindAudioShare() {
 }
 
 // ─── Filter chip behaviour ───
-// Each .filter-bar has a data-target attribute identifying which render function to call.
-// Chips are scoped to their parent .filter-bar so multiple filterable sections work independently.
 function bindFilterChips() {
-  const renderers = {
-    documents: renderDocs,
-    reference: renderReference
-  };
-  document.querySelectorAll(".filter-bar").forEach(bar => {
-    const target = bar.dataset.target;
-    const render = renderers[target];
-    if (!render) return;
-    const chips = bar.querySelectorAll(".chip");
-    chips.forEach(chip => {
-      chip.addEventListener("click", () => {
-        chips.forEach(c => c.classList.remove("active"));
-        chip.classList.add("active");
-        render(chip.dataset.filter);
-        chip.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
-      });
+  const chips = document.querySelectorAll(".chip");
+  chips.forEach(chip => {
+    chip.addEventListener("click", () => {
+      chips.forEach(c => c.classList.remove("active"));
+      chip.classList.add("active");
+      renderDocs(chip.dataset.filter);
+      // Smooth-scroll to keep chips visible
+      chip.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
     });
   });
 }
@@ -784,14 +1052,15 @@ function bindScrollSpy() {
 
 // ─── Init ───
 document.addEventListener("DOMContentLoaded", () => {
+  renderJustDropped();
   renderFlyers();
   renderReports();
   renderDocs("all");
-  renderReference("all");
   renderProvinces();
   renderMinisterial();
   renderAudio();
   bindFilterChips();
   bindNavToggle();
   bindScrollSpy();
+  bindSubscriberUI();
 });

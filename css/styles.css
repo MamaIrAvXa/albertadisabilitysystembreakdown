@@ -527,82 +527,6 @@ section + section { border-top: 1px solid var(--line); }
 }
 .callout-actions { display: flex; gap: 0.7rem; flex-wrap: wrap; }
 
-/* ─────────── NEWSLETTER FORM (inside callout) ─────────── */
-.newsletter-block {
-  margin-top: 1.6rem;
-  padding-top: 1.6rem;
-  border-top: 1px solid var(--line);
-}
-.newsletter-heading {
-  font-family: var(--font-display);
-  font-weight: 600;
-  font-size: 1.15rem;
-  color: var(--cream-50);
-  margin: 0 0 0.4rem;
-  letter-spacing: -0.01em;
-}
-.newsletter-blurb {
-  font-size: 0.95rem;
-  color: var(--ink-soft);
-  margin: 0 0 1.1rem !important;
-  line-height: 1.55;
-  max-width: 60ch;
-}
-.newsletter-form {
-  display: flex;
-  flex-direction: column;
-  gap: 0.7rem;
-}
-.newsletter-label {
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--gold-400);
-  font-weight: 500;
-}
-.newsletter-row {
-  display: flex;
-  gap: 0.5rem;
-  flex-wrap: wrap;
-}
-.newsletter-row input[type="email"] {
-  flex: 1 1 260px;
-  min-width: 0;
-  padding: 13px 16px;
-  border-radius: 10px;
-  border: 1px solid var(--line-strong);
-  background: rgba(255, 246, 215, 0.04);
-  color: var(--ink);
-  font-family: var(--font-body);
-  font-size: 0.95rem;
-  line-height: 1;
-  transition: border-color 0.15s, background 0.15s;
-}
-.newsletter-row input[type="email"]::placeholder {
-  color: var(--ink-mute);
-}
-.newsletter-row input[type="email"]:focus {
-  outline: 2px solid var(--gold-400);
-  outline-offset: 2px;
-  border-color: var(--gold-500);
-  background: rgba(255, 246, 215, 0.06);
-}
-.newsletter-fineprint {
-  font-size: 0.78rem;
-  color: var(--ink-mute);
-  margin: 0.3rem 0 0 !important;
-  line-height: 1.5;
-}
-.newsletter-fineprint a {
-  color: var(--ink-mute);
-  border-bottom: 1px dotted var(--line-strong);
-}
-.newsletter-fineprint a:hover {
-  color: var(--ink-soft);
-  border-bottom-color: var(--gold-500);
-}
-
 /* ─────────── APPEALS / TWO-COL ─────────── */
 .appeals { background: var(--navy-900); }
 .two-col {
@@ -1122,14 +1046,171 @@ section + section { border-top: 1px solid var(--line); }
   }
 }
 
-/* ─────────── PRINT ─────────── */
-@media print {
-  .site-header, .nav-toggle, .hero-actions, .filter-bar, .flyer-actions, .footer-grid, .audio { display: none; }
-  body { background: white; color: black; }
-  .hero, section { padding-block: 1rem; }
-  .hero-headline, .section-title, .pillar-title, .card-title { color: black; }
-  a { color: black; text-decoration: underline; }
+/* ─────────── JUST DROPPED ─────────── */
+.just-dropped {
+  background: var(--navy-900);
+  position: relative;
+  border-top: 1px solid var(--line-strong);
+  border-bottom: 1px solid var(--line-strong);
 }
+.just-dropped::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--gold-700), var(--gold-400), var(--gold-700));
+  opacity: 0.7;
+  pointer-events: none;
+}
+.section-count {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--gold-400);
+  margin: 1rem 0 0;
+}
+.jd-empty {
+  color: var(--ink-soft);
+  font-style: italic;
+  text-align: center;
+  padding: 2rem 0;
+  border: 1px dashed var(--line-strong);
+  border-radius: var(--radius);
+  margin: 1rem 0;
+}
+.jd-grid {
+  margin-top: 1.5rem;
+}
+.jd-card {
+  position: relative;
+  border-color: var(--gold-700);
+  background: linear-gradient(155deg, var(--navy-800) 0%, var(--navy-950) 65%);
+}
+.jd-card:hover {
+  border-color: var(--gold-400);
+}
+.jd-pill {
+  display: inline-block;
+  background: var(--gold-400);
+  color: var(--navy-900);
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 0.65rem;
+  letter-spacing: 0.18em;
+  padding: 2px 8px;
+  border-radius: 4px;
+  margin-right: 0.5rem;
+  vertical-align: 1px;
+}
+.jd-callout {
+  margin-top: 2.5rem;
+}
+.jd-status {
+  margin: 0.8rem 0 0;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  min-height: 1.2em;
+}
+
+/* Nav "New" indicator — small gold dot on the Just Dropped nav link */
+.primary-nav a.nav-new {
+  position: relative;
+}
+.primary-nav a.nav-new::after {
+  content: "";
+  position: absolute;
+  top: 6px;
+  right: -10px;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--gold-400);
+  box-shadow: 0 0 0 0 rgba(245, 185, 66, 0.55);
+  animation: nav-new-pulse 2.4s ease-out infinite;
+}
+@keyframes nav-new-pulse {
+  0% { box-shadow: 0 0 0 0 rgba(245, 185, 66, 0.55); }
+  70% { box-shadow: 0 0 0 8px rgba(245, 185, 66, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(245, 185, 66, 0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .primary-nav a.nav-new::after { animation: none; }
+}
+
+/* ─────────── SUBSCRIBER DIALOG ─────────── */
+.subs-dialog {
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-lg);
+  background: var(--navy-900);
+  color: var(--ink);
+  padding: 0;
+  max-width: 520px;
+  width: 90vw;
+  box-shadow: var(--shadow-lg);
+}
+.subs-dialog::backdrop {
+  background: rgba(5, 13, 28, 0.7);
+  backdrop-filter: blur(2px);
+}
+.subs-form {
+  padding: 1.8rem 1.8rem 1.5rem;
+}
+.subs-form h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.4rem;
+  margin: 0 0 0.4rem;
+  color: var(--cream-50);
+  letter-spacing: -0.01em;
+}
+.subs-hint {
+  color: var(--ink-soft);
+  font-size: 0.88rem;
+  margin: 0 0 1.2rem;
+  line-height: 1.5;
+}
+.subs-label {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold-400);
+  margin: 0 0 0.4rem;
+}
+.subs-form textarea {
+  width: 100%;
+  background: var(--navy-950);
+  color: var(--ink);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  padding: 0.8rem 0.9rem;
+  font-family: var(--font-mono);
+  font-size: 0.92rem;
+  line-height: 1.5;
+  resize: vertical;
+  min-height: 8em;
+}
+.subs-form textarea:focus {
+  outline: 2px solid var(--gold-400);
+  outline-offset: 1px;
+  border-color: var(--gold-400);
+}
+.subs-count {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  color: var(--ink-mute);
+  margin: 0.6rem 0 1.2rem;
+}
+.subs-actions {
+  display: flex;
+  gap: 0.7rem;
+  flex-wrap: wrap;
+}
+
+
 
 /* ─────────── PODCAST ─────────── */
 .podcast {
@@ -1277,4 +1358,14 @@ section + section { border-top: 1px solid var(--line); }
 .card-extra a:hover {
   color: var(--gold-400);
   text-decoration: none;
+}
+
+/* ─────────── PRINT ─────────── */
+@media print {
+  .site-header, .nav-toggle, .hero-actions, .filter-bar, .flyer-actions, .footer-grid, .audio { display: none; }
+  .jd-callout, .subs-dialog, .just-dropped::before { display: none; }
+  body { background: white; color: black; }
+  .hero, section { padding-block: 1rem; }
+  .hero-headline, .section-title, .pillar-title, .card-title { color: black; }
+  a { color: black; text-decoration: underline; }
 }
