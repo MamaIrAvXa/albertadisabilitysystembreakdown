@@ -100,17 +100,6 @@
     <p class="jd-empty" id="just-dropped-empty" hidden>
       Nothing has dropped in the last 7 days. Check back — or browse the full library below.
     </p>
-
-    <aside class="callout jd-callout">
-      <p class="callout-eyebrow">Subscriber update</p>
-      <h3>Tell the list what dropped.</h3>
-      <p>Six subscribers. One button. Opens your mail client with the list pre-filled in BCC and the week's drops summarized in the body — you hit Send. Subscriber emails live only on this device (localStorage), never in the public code.</p>
-      <div class="callout-actions">
-        <button id="subs-send" type="button" class="btn btn-primary">Send update to subscribers</button>
-        <button id="subs-manage" type="button" class="btn btn-ghost">Manage subscribers</button>
-      </div>
-      <p class="jd-status" id="subs-status" role="status" aria-live="polite"></p>
-    </aside>
   </div>
 </section>
 
@@ -525,21 +514,6 @@
 </section>
 
 </main>
-
-<!-- ───────────── SUBSCRIBER DIALOG (admin-only, localStorage) ───────────── -->
-<dialog id="subs-dialog" class="subs-dialog" aria-labelledby="subs-dialog-title">
-  <form method="dialog" class="subs-form">
-    <h3 id="subs-dialog-title">Manage subscribers</h3>
-    <p class="subs-hint">One email per line, or comma/semicolon separated. Stored only on this device — never uploaded, never visible to site visitors.</p>
-    <label class="subs-label" for="subs-textarea">Subscriber emails</label>
-    <textarea id="subs-textarea" rows="8" placeholder="subscriber1@example.com&#10;subscriber2@example.com" autocomplete="off" spellcheck="false"></textarea>
-    <p class="subs-count" id="subs-count">0 subscribers saved</p>
-    <div class="subs-actions">
-      <button id="subs-save" type="button" class="btn btn-primary">Save list</button>
-      <button id="subs-cancel" type="button" class="btn btn-ghost">Cancel</button>
-    </div>
-  </form>
-</dialog>
 
 <!-- ───────────── FOOTER ───────────── -->
 <footer class="site-footer">

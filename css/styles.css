@@ -1168,79 +1168,6 @@ section + section { border-top: 1px solid var(--line); }
   .primary-nav a.nav-new::after { animation: none; }
 }
 
-/* ─────────── SUBSCRIBER DIALOG ─────────── */
-.subs-dialog {
-  border: 1px solid var(--line-strong);
-  border-radius: var(--radius-lg);
-  background: var(--navy-900);
-  color: var(--ink);
-  padding: 0;
-  max-width: 520px;
-  width: 90vw;
-  box-shadow: var(--shadow-lg);
-}
-.subs-dialog::backdrop {
-  background: rgba(5, 13, 28, 0.7);
-  backdrop-filter: blur(2px);
-}
-.subs-form {
-  padding: 1.8rem 1.8rem 1.5rem;
-}
-.subs-form h3 {
-  font-family: var(--font-display);
-  font-weight: 600;
-  font-size: 1.4rem;
-  margin: 0 0 0.4rem;
-  color: var(--cream-50);
-  letter-spacing: -0.01em;
-}
-.subs-hint {
-  color: var(--ink-soft);
-  font-size: 0.88rem;
-  margin: 0 0 1.2rem;
-  line-height: 1.5;
-}
-.subs-label {
-  display: block;
-  font-family: var(--font-mono);
-  font-size: 0.7rem;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--gold-400);
-  margin: 0 0 0.4rem;
-}
-.subs-form textarea {
-  width: 100%;
-  background: var(--navy-950);
-  color: var(--ink);
-  border: 1px solid var(--line-strong);
-  border-radius: var(--radius);
-  padding: 0.8rem 0.9rem;
-  font-family: var(--font-mono);
-  font-size: 0.92rem;
-  line-height: 1.5;
-  resize: vertical;
-  min-height: 8em;
-}
-.subs-form textarea:focus {
-  outline: 2px solid var(--gold-400);
-  outline-offset: 1px;
-  border-color: var(--gold-400);
-}
-.subs-count {
-  font-family: var(--font-mono);
-  font-size: 0.78rem;
-  letter-spacing: 0.1em;
-  color: var(--ink-mute);
-  margin: 0.6rem 0 1.2rem;
-}
-.subs-actions {
-  display: flex;
-  gap: 0.7rem;
-  flex-wrap: wrap;
-}
-
-
 
 /* ─────────── PODCAST ─────────── */
 .podcast {
@@ -1393,7 +1320,7 @@ section + section { border-top: 1px solid var(--line); }
 /* ─────────── PRINT ─────────── */
 @media print {
   .site-header, .nav-toggle, .hero-actions, .filter-bar, .flyer-actions, .footer-grid, .audio { display: none; }
-  .jd-callout, .subs-dialog, .just-dropped::before { display: none; }
+  .just-dropped::before { display: none; }
   body { background: white; color: black; }
   .hero, section { padding-block: 1rem; }
   .hero-headline, .section-title, .pillar-title, .card-title { color: black; }
