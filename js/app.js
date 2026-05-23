@@ -132,7 +132,8 @@ const DOCUMENTS = [
 
   // New ADSB docs
   { cat: "new", title: "73 Reviews a Day", desc: "What it would take to actually re-review 79,290 cases by July 1, 2026 — and what it doesn't take.", file: "/pdfs/new-adsb-docs/ADSB_73_Reviews_A_Day_April2026.pdf" },
-  { cat: "new", title: "Income Crossover Analysis — Revised Edition (May 2026)", desc: "Revised on the government's own published numbers. Incorporates the May 12, 2026 ADAP Fact Sheet, adds the 88% cohabitation rule household-income analysis (up to $14,611/year loss for two-recipient households once the CDB clawback is layered on), and confirms the April 2026 modelling against the government's now-published rules. Cohabitation analysis contributed by Jon Auger (Rising Contributor).", file: "/pdfs/new-adsb-docs/ADSB_Income_Crossover_Analysis_RevisedMay2026.pdf", released: "2026-05-21" },
+  { cat: "new", title: "Do You Know Your New Minister? — Nathan Neudorf", desc: "Documented public record of Nathan Neudorf, sworn in as Minister of Assisted Living and Social Services on May 21, 2026 — 41 days before mandatory ADAP transition. Eight pages, fully sourced to The Narwhal, CBC News, Lethbridge Herald, Elections Alberta, and the Minister's own published statements. Companion to the April 2026 Jason Nixon background file (Report 01). Five incidents documented: the AESO renewables pause attribution, the Pembina report dismissals, the 40% land restriction, the inactive recall campaign, and the May 9 ADAP op-ed.", file: "/pdfs/may-2026-adap/ADSB_Do_You_Know_Minister_Neudorf.pdf", released: "2026-05-22" },
+  { cat: "new", title: "Income Crossover Analysis — Revised Edition (May 2026)", desc: "Revised on the government's own published numbers. Incorporates the May 12, 2026 ADAP Fact Sheet, adds the 88% cohabitation rule household-income analysis (up to $14,611/year loss for two-recipient households once the CDB clawback is layered on), and confirms the April 2026 modelling against the government's now-published rules. Cohabitation analysis contributed by Jon Auger (Rising Contributor).", file: "/pdfs/may-2026-adap/ADSB_Income_Crossover_Analysis_RevisedMay2026.pdf", released: "2026-05-21" },
   { cat: "new", title: "Income Crossover Analysis — Original Edition (April 2026)", desc: "The predecessor document. Written before the government published full ADAP rules, this is the original modelling — Model A and Model B — that the May 2026 revision builds on. Kept on the record for the methodology and the audit trail: the math was done with the data available, and when the May 12, 2026 fact sheet was published, the anchor figures held.", file: "/pdfs/new-adsb-docs/ADSB_Income_Crossover_Analysis_April2026.pdf" },
   { cat: "new", title: "Structural Cage — Expanded", desc: "The expanded version of the structural-cage argument, with the federal-jurisdiction extension.", file: "/pdfs/new-adsb-docs/ADSB_Structural_Cage_Expanded_April2026.pdf" },
   { cat: "new", title: "The Core Findings — Point Form", desc: "Every key finding from the campaign in one quick-reference point-form document.", file: "/pdfs/new-adsb-docs/ADSB_The_Core_Findings_Point_Form.pdf" },
@@ -396,6 +397,7 @@ const FLYERS = [
   { label: "FSCD / PDD", img: "flyer_fscd_pdd.png" },
   { label: "Campaign", img: "flyer_campaign.png" },
   { label: "Leadership Accountability", img: "Leadership_Accountability_Flyer.png" },
+  { label: "Minister Neudorf", img: "neudorf_flyer.png" },
   { label: "Minister Nixon", img: "nixon_flyer.png" },
   { label: "Premier Smith", img: "smith_flyer.png" },
   { label: "DTC Loan, Not a Grant", img: "Flyer_DTC_Loan_Not_Grant.png" },
@@ -462,6 +464,8 @@ const FLYERS = [
   { label: "Obligations the Province Accepted", img: "ChatGPT_Image_Apr_26,_2026,_06_54_32_PM.jpg", path: "comics" },
   { label: "The Naming", img: "ChatGPT_Image_Apr_26,_2026,_06_56_03_PM.jpg", path: "comics" },
   { label: "Nixon — AISH to ADAP Transfer", img: "Nixon.jpg", path: "comics" },
+  { label: "Neudorf — New Portfolio. Same Game.", img: "neudorf_new_portfolio.jpg", path: "comics" },
+  { label: "Neudorf — Trust the Process", img: "neudorf_aish_to_adap.jpg", path: "comics" },
   { label: "Boil Water Advisory — Day 4,387", img: "image-17743700-0cef-4788-bf79-7a49825cda31.jpg", path: "comics" },
   { label: "Reserve Boundary", img: "image-b97253df-5939-47d4-9d21-c81dc3bd0fa1.jpg", path: "comics" },
   { label: "Crumbling Staircases", img: "image_17c7a66.jpg", path: "comics" },
