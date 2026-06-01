@@ -144,10 +144,10 @@ const DOCUMENTS = [
   { cat: "briefs", title: "Easier for Whom? The Alberta.ca Account", desc: "The alberta.ca account requirement and what it costs disabled Albertans trying to file an ATIA personal information request. Filed institutionally May 2026.", file: "/pdfs/sourced-briefs/ADSB_Easier_For_Whom_AlbertaCa_Account_May2026.pdf" },
 
   // New ADSB docs
-  { cat: "new", title: "Who Made the Determination?", desc: "A letter changed your AISH status. The government says no decision was made. Both cannot be true — and either answer is a problem. Administrative-law analysis of the AISH-to-ADAP placement letters. The fork: either a determination was made (then who, under what authority, and how is it appealed?), or no determination was made (in which case the program status of roughly 79,290 disabled Albertans was altered without one). Includes the specific written question every recipient is entitled to put to the office that issued their letter.", file: "/pdfs/may-2026-adap/ADSB_Who_Made_The_Determination_May2026.pdf", released: "2026-05-30" },
-  { cat: "new", title: "ADAP Is Welfare-to-Work for Disabled Albertans", desc: "Structural analysis of the architecture under ADAP's language. Strip away the framing and what remains is the importation of Alberta's existing welfare-to-work system — the Income Support employability tiers (Expected to Work / Barriers to Full Employment) — onto disability income. Maps Income Support's conditional-payment mechanism onto ADAP's service-navigator apparatus, documents the contradiction at the centre (AISH eligibility is defined as inability to work; ADAP is built around employment activation), and explains why \"they'll change the criteria\" is structurally true, not just anecdotally.", file: "/pdfs/may-2026-adap/ADSB_ADAP_Welfare_to_Work_May2026.pdf", released: "2026-05-30" },
-  { cat: "new", title: "Cut From the Top — ADAP and Canada's 2025 Disability-Poverty Record", desc: "Tests the government's \"among the highest in the country\" claim against the Disability Poverty Report Card 2025 (Campaign 2000 + Disability Without Poverty, drawing on Statistics Canada and Maytree). AISH was actually the highest provincial disability income in Canada ($1,978/month all-in) and one of only two programs that lifted a single recipient clear of deep poverty. ADAP's permanent $1,740 sits below the deep-poverty line in both Calgary and Edmonton. Alberta is moving roughly 50,000 recipients off the highest disability income in the country, onto a rate the country's own poverty measure places in deep poverty.", file: "/pdfs/may-2026-adap/ADSB_Cut_From_The_Top_May2026.pdf", released: "2026-05-30" },
-  { cat: "new", title: "The Government Said PDD Was Exempt. Then It Wasn't.", desc: "A documented breach of the May 12, 2026 ADAP placement criteria. The first auto-retention category named in the government's fact sheet was Persons with Developmental Disabilities (PDD) — approximately 30,000 Albertans expected to remain on AISH. Within fifteen days, three PDD-eligible Albertans documented being transitioned to ADAP anyway. One photographed the placement letter. A second was told by AISH staff they were getting \"a lot of calls about this.\" A third documented a live phone call (viewed ~1,700 times in 37 minutes) in which staff denied that the published exemption exists at all. The breach is operational, documented, and ongoing.", file: "/pdfs/may-2026-adap/ADSB_PDD_Was_Exempt_Then_It_Wasnt_May2026.pdf", released: "2026-05-28" },
+  { cat: "may2026", title: "Who Made the Determination?", desc: "A letter changed your AISH status. The government says no decision was made. Both cannot be true — and either answer is a problem. Administrative-law analysis of the AISH-to-ADAP placement letters. The fork: either a determination was made (then who, under what authority, and how is it appealed?), or no determination was made (in which case the program status of roughly 79,290 disabled Albertans was altered without one). Includes the specific written question every recipient is entitled to put to the office that issued their letter.", file: "/pdfs/may-2026-adap/ADSB_Who_Made_The_Determination_May2026.pdf", released: "2026-05-30" },
+  { cat: "may2026", title: "ADAP Is Welfare-to-Work for Disabled Albertans", desc: "Structural analysis of the architecture under ADAP's language. Strip away the framing and what remains is the importation of Alberta's existing welfare-to-work system — the Income Support employability tiers (Expected to Work / Barriers to Full Employment) — onto disability income. Maps Income Support's conditional-payment mechanism onto ADAP's service-navigator apparatus, documents the contradiction at the centre (AISH eligibility is defined as inability to work; ADAP is built around employment activation), and explains why \"they'll change the criteria\" is structurally true, not just anecdotally.", file: "/pdfs/may-2026-adap/ADSB_ADAP_Welfare_to_Work_May2026.pdf", released: "2026-05-30" },
+  { cat: "may2026", title: "Cut From the Top — ADAP and Canada's 2025 Disability-Poverty Record", desc: "Tests the government's \"among the highest in the country\" claim against the Disability Poverty Report Card 2025 (Campaign 2000 + Disability Without Poverty, drawing on Statistics Canada and Maytree). AISH was actually the highest provincial disability income in Canada ($1,978/month all-in) and one of only two programs that lifted a single recipient clear of deep poverty. ADAP's permanent $1,740 sits below the deep-poverty line in both Calgary and Edmonton. Alberta is moving roughly 50,000 recipients off the highest disability income in the country, onto a rate the country's own poverty measure places in deep poverty.", file: "/pdfs/may-2026-adap/ADSB_Cut_From_The_Top_May2026.pdf", released: "2026-05-30" },
+  { cat: "may2026", title: "The Government Said PDD Was Exempt. Then It Wasn't.", desc: "A documented breach of the May 12, 2026 ADAP placement criteria. The first auto-retention category named in the government's fact sheet was Persons with Developmental Disabilities (PDD) — approximately 30,000 Albertans expected to remain on AISH. Within fifteen days, three PDD-eligible Albertans documented being transitioned to ADAP anyway. One photographed the placement letter. A second was told by AISH staff they were getting \"a lot of calls about this.\" A third documented a live phone call (viewed ~1,700 times in 37 minutes) in which staff denied that the published exemption exists at all. The breach is operational, documented, and ongoing.", file: "/pdfs/may-2026-adap/ADSB_PDD_Was_Exempt_Then_It_Wasnt_May2026.pdf", released: "2026-05-28" },
   { cat: "new", title: "73 Reviews a Day", desc: "What it would take to actually re-review 79,290 cases by July 1, 2026 — and what it doesn't take.", file: "/pdfs/new-adsb-docs/ADSB_73_Reviews_A_Day_April2026.pdf" },
   { cat: "may2026", title: "Do You Know Your New Minister? — Nathan Neudorf", desc: "Documented public record of Nathan Neudorf, sworn in as Minister of Assisted Living and Social Services on May 21, 2026 — 41 days before mandatory ADAP transition. Eight pages, fully sourced to The Narwhal, CBC News, Lethbridge Herald, Elections Alberta, and the Minister's own published statements. Companion to the April 2026 Jason Nixon background file (Report 01). Five incidents documented: the AESO renewables pause attribution, the Pembina report dismissals, the 40% land restriction, the inactive recall campaign, and the May 9 ADAP op-ed.", file: "/pdfs/may-2026-adap/ADSB_Do_You_Know_Minister_Neudorf.pdf", released: "2026-05-22" },
   { cat: "may2026", title: "Do You Know Your Minister? — Jason Nixon (Updated)", desc: "May 2026 standalone update on Jason Nixon, promoted to President of Treasury Board and Minister of Finance on May 21, 2026 — 41 days before the ADAP transition he designed. Companion to the new Neudorf background file. The original April 2026 Report 01 stays on the record as Nixon's ALSS-era documentation; this is the post-shuffle update.", file: "/pdfs/may-2026-adap/ADSB_Do_You_Know_Minister_Nixon.pdf", released: "2026-05-23" },
@@ -155,6 +155,10 @@ const DOCUMENTS = [
   { cat: "may2026", title: "Nixon — Print-Ready Poster (PDF)", desc: "Single-page print-ready PDF of the Minister Nixon accountability poster, updated for the cabinet shuffle. The PNG thumbnail appears in the Flyers section above.", file: "/pdfs/may-2026-adap/ADSB_Do_You_Know_Nixon_Flyer.pdf", released: "2026-05-23" },
   { cat: "may2026", title: "Income Crossover Analysis — Revised Edition (May 2026)", desc: "Revised on the government's own published numbers. Incorporates the May 12, 2026 ADAP Fact Sheet, adds the 88% cohabitation rule household-income analysis (up to $14,611/year loss for two-recipient households once the CDB clawback is layered on), and confirms the April 2026 modelling against the government's now-published rules. Cohabitation analysis contributed by Jon Auger (Rising Contributor).", file: "/pdfs/new-adsb-docs/ADSB_Income_Crossover_Analysis_RevisedMay2026.pdf", released: "2026-05-21" },
   { cat: "may2026", title: "What's On The Shelf — Income, Exposure, and the Disability Community's Food Supply", desc: "A documentation piece extending the campaign's structural analysis to the food supply. The argument is narrow and sourced: AISH and ADAP income levels force consumption patterns that concentrate exposure to documented contaminants — heavy metals in rice and rice-based products, synthetic dyes regulated more strictly in comparable jurisdictions, additives associated with neurodevelopmental and behavioural effects — in the disability cohort the income framework defines. Not a piece about food choices. A piece about how disability income policy structurally allocates exposure burden to the population it serves. The shelf is what is on the shelf. The question of who lives on what the shelf contains is a question of income, not of choice.", file: "/pdfs/may-2026-adap/Whats_On_The_Shelf_May2026.pdf", released: "2026-05-28" },
+  { cat: "may2026", title: "The Access Gap — The $200 Trap", desc: "How Alberta deducts $200 a month for the federal Canada Disability Benefit — including from people who never receive it — while removing the caseworkers who used to help them reach it. The DTC gateway needs a physician's signature in a province where 650,000 people have no family doctor, with unregulated fees as high as $700; the $200 penalty applies before any benefit is approved, and even if it is denied; and the government's fee 'help' is a loan the recipient repays. Third in the Access Gap series, companion to Penalized for Non-Ability.", file: "/pdfs/may-2026-adap/Access_Gap_The_200_Trap_May2026.pdf" },
+  { cat: "may2026", title: "Appeal or Reassess? Know Which One You Need", desc: "Plain-language guide to two routes with two different clocks. Reassessment is the no-deadline route to keep AISH; appeal is the 30-day route to challenge a decision — and the right to contest the move as an AISH decision closes July 2, 2026. Explains how to read your letter to tell which one your situation needs, and what to do before the window shuts.", file: "/pdfs/may-2026-adap/Appeal_or_Reassess_PlainLanguage_June2026.pdf" },
+  { cat: "may2026", title: "Designed Based on Input?", desc: "Government-facing evidentiary brief setting the claim that ADAP was 'thoughtfully designed based on input from Albertans with disabilities' beside the public record of that consultation — an engagement page rewritten into an archive within a week of closing, its survey end date quietly changed, frozen on 'results under review' for 206 days through the legislative period it was said to inform, then blocked from independent archiving. On May 12, 2026 the regulation, the input claim, and the transition letters all landed on one day.", file: "/pdfs/may-2026-adap/ADSB_Designed_Based_On_Input_June2026.pdf" },
+  { cat: "may2026", title: "The Heritage Fund — A Record of Choices", desc: "Fiscal analysis from the government's own numbers: in the same years it cut, clawed back, and restructured disability income, Alberta deposited billions into the Heritage Savings Trust Fund, kept the rule retaining every dollar it earns, built a Crown corporation to govern it, and reaffirmed a $250 billion by 2050 target it says holds with no new deposits — while moving 79,290 disabled Albertans onto a lower benefit. Not an argument to raid the Fund; a record of priorities.", file: "/pdfs/may-2026-adap/ADSB_Heritage_Fund_Choices_June2026.pdf" },
   { cat: "new", title: "Income Crossover Analysis — Original Edition (April 2026)", desc: "The predecessor document. Written before the government published full ADAP rules, this is the original modelling — Model A and Model B — that the May 2026 revision builds on. Kept on the record for the methodology and the audit trail: the math was done with the data available, and when the May 12, 2026 fact sheet was published, the anchor figures held.", file: "/pdfs/new-adsb-docs/ADSB_Income_Crossover_Analysis_April2026.pdf" },
   { cat: "new", title: "Structural Cage — Expanded", desc: "The expanded version of the structural-cage argument, with the federal-jurisdiction extension.", file: "/pdfs/new-adsb-docs/ADSB_Structural_Cage_Expanded_April2026.pdf" },
   { cat: "new", title: "The Core Findings — Point Form", desc: "Every key finding from the campaign in one quick-reference point-form document.", file: "/pdfs/new-adsb-docs/ADSB_The_Core_Findings_Point_Form.pdf" },
@@ -704,6 +708,111 @@ function renderReports() {
   `).join("");
 }
 
+const REFERENCE_LIBRARY = [
+  { cat: "reg", title: "Alberta Gazette, Part II — May 15, 2026", desc: "Official Gazette issue, Part II.", file: "/pdfs/government-form-originals/regulations/alberta-gazette-part-ii-may-15-2026.pdf" },
+  { cat: "reg", title: "Alberta Gazette, Part I — May 30, 2026", desc: "Official Gazette issue, Part I.", file: "/pdfs/government-form-originals/regulations/alberta-gazette-part-i-may-30-2026.pdf" },
+  { cat: "reg", title: "Ministerial Order 2026-001 — Assisted Living and Social Services", desc: "The Ministerial Order expanding appeal exemptions (filed as A.R. 87/2026), in force July 2, 2026.", file: "/pdfs/government-form-originals/regulations/ministerial-order-2026-001-assisted-living-and.pdf" },
+  { cat: "reg", title: "Alberta Gazette, Part II — 2026 cumulative index", desc: "Cumulative index of regulations published in 2026.", file: "/pdfs/government-form-originals/regulations/alberta-gazette-part-ii-2026-cumulative-index.pdf" },
+  { cat: "reg", title: "AISH Act - Applications and Appeals Ministerial Regulation (AR 89-2007)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/aish-act-applications-and-appeals-ministerial.pdf" },
+  { cat: "reg", title: "AISH Act - General Regulation (AR 91-2007)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/aish-act-general-regulation-ar-91-2007.pdf" },
+  { cat: "reg", title: "AISH Act - General Regulation (AR 96-2026 in force 2026-07-02 extract)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/aish-act-general-regulation-ar-96-2026-in-force.pdf" },
+  { cat: "reg", title: "Alberta King's Printer — publications page", desc: "The official source page for Alberta statutes and regulations.", file: "/pdfs/government-form-originals/regulations/alberta-kings-printer-publications-page.pdf" },
+  { cat: "reg", title: "Assured Income for the Severely Handicapped Act (SA 2006 c A-45.1) (earlier consolidation)", desc: "Consolidated statute text on the public record.", file: "/pdfs/government-form-originals/regulations/assured-income-for-the-severely-handicapped-act.pdf" },
+  { cat: "reg", title: "Assured Income for the Severely Handicapped Act (SA 2006 c A-45.1) (incl AR 96-2026 notes)", desc: "Consolidated statute text on the public record.", file: "/pdfs/government-form-originals/regulations/assured-income-for-the-severely-handicapped-act-2.pdf" },
+  { cat: "reg", title: "Child Youth and Family Enhancement Act (RSA 2000 c C-12)", desc: "Consolidated statute text on the public record.", file: "/pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-rsa-2000.pdf" },
+  { cat: "reg", title: "Child Youth and Family Enhancement Act - Adoption Regulation (AR 187-2004)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-adoption.pdf" },
+  { cat: "reg", title: "Child Youth and Family Enhancement Act - Court Rules and Forms Regulation (AR 39-2002)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-court.pdf" },
+  { cat: "reg", title: "Child Youth and Family Enhancement Act - Enhancement Regulation (AR 160-2004)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act.pdf" },
+  { cat: "reg", title: "Child Youth and Family Enhancement Act - Publication Ban Regulation (AR 207-2014)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-2.pdf" },
+  { cat: "reg", title: "Child Youth and Family Enhancement Act - Residential Facilities Licensing Regulation (AR 161-2004)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-3.pdf" },
+  { cat: "reg", title: "Child Youth and Family Enhancement Act - Resource Rebate Regulation (AR 47-2006)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-resource.pdf" },
+  { cat: "reg", title: "Continuing Care Act (SA 2022 c C-26.7)", desc: "Consolidated statute text on the public record.", file: "/pdfs/government-form-originals/regulations/continuing-care-act-sa-2022-c-c-26-7.pdf" },
+  { cat: "reg", title: "Continuing Care Act - Ministerial Regulation (AR 44-2024)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/continuing-care-act-ministerial-regulation-ar.pdf" },
+  { cat: "reg", title: "Continuing Care Act - Regulation (AR 21-2024)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/continuing-care-act-regulation-ar-21-2024.pdf" },
+  { cat: "reg", title: "Convention on the Rights of Persons with Disabilities (CRPD)", desc: "UN convention text, via the Division for Inclusive Social Development.", file: "/pdfs/government-form-originals/regulations/convention-on-the-rights-of-persons-with.pdf" },
+  { cat: "reg", title: "Early Learning and Child Care Act (SA 2007 c E-0.1)", desc: "Consolidated statute text on the public record.", file: "/pdfs/government-form-originals/regulations/early-learning-and-child-care-act-sa-2007-c-e-0.pdf" },
+  { cat: "reg", title: "Early Learning and Child Care Act - Regulation (AR 143-2008)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/early-learning-and-child-care-act-regulation-ar.pdf" },
+  { cat: "reg", title: "Family Support for Children with Disabilities Act (SA 2003 c F-5.3)", desc: "Consolidated statute text on the public record.", file: "/pdfs/government-form-originals/regulations/family-support-for-children-with-disabilities.pdf" },
+  { cat: "reg", title: "Family Support for Children with Disabilities Act - Regulation (AR 140-2004)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/family-support-for-children-with-disabilities-2.pdf" },
+  { cat: "reg", title: "Income and Employment Supports Act (SA 2003 c I-0.5)", desc: "Consolidated statute text on the public record.", file: "/pdfs/government-form-originals/regulations/income-and-employment-supports-act-sa-2003-c-i.pdf" },
+  { cat: "reg", title: "Income and Employment Supports Act - Child and Adult Support Services Regulation (AR 61-2004)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/income-and-employment-supports-act-child-and.pdf" },
+  { cat: "reg", title: "Income and Employment Supports Act - Disability-Related Employment Supports and Services Regulation (AR 117-2011)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/income-and-employment-supports-act-disability.pdf" },
+  { cat: "reg", title: "Income and Employment Supports Act - Recovery Regulation (AR 43-2010)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/income-and-employment-supports-act-recovery.pdf" },
+  { cat: "reg", title: "Income and Employment Supports Act - Support Agreement Regulation (AR 155-2005)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/income-and-employment-supports-act-support.pdf" },
+  { cat: "reg", title: "Income and Employment Supports Act - Training Provider Regulation (AR 186-2011)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/income-and-employment-supports-act-training.pdf" },
+  { cat: "reg", title: "Mental Health Services Protection Act (SA 2018 c M-13.2)", desc: "Consolidated statute text on the public record.", file: "/pdfs/government-form-originals/regulations/mental-health-services-protection-act-sa-2018-c.pdf" },
+  { cat: "reg", title: "Mental Health Services Protection Act - Protection Regulation (AR 114-2021)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/mental-health-services-protection-act.pdf" },
+  { cat: "reg", title: "Persons with Developmental Disabilities Services Act — statute text", desc: "Consolidated statute text (filename P09P5 — confirm citation).", file: "/pdfs/government-form-originals/regulations/persons-with-developmental-disabilities.pdf" },
+  { cat: "reg", title: "PDD Services Act - Developmental Disabilities Regulation (AR 230-2013)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/pdd-services-act-developmental-disabilities.pdf" },
+  { cat: "reg", title: "PDD Services Act - PDD Services Regulation (AR 228-2013)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/pdd-services-act-pdd-services-regulation-ar-228.pdf" },
+  { cat: "reg", title: "Protection for Persons in Care Act (SA 2009 c P-29.1)", desc: "Consolidated statute text on the public record.", file: "/pdfs/government-form-originals/regulations/protection-for-persons-in-care-act-sa-2009-c-p.pdf" },
+  { cat: "reg", title: "Protection for Persons in Care Act - Ministerial Regulation (AR 104-2010)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/protection-for-persons-in-care-act-ministerial.pdf" },
+  { cat: "reg", title: "Protection for Persons in Care Act - Protection Regulation (AR 97-2010)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/protection-for-persons-in-care-act-protection.pdf" },
+  { cat: "reg", title: "Public Health Act - Aids to Daily Living and Extended Health Benefits Regulation (AR 236-1985)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/public-health-act-aids-to-daily-living-and.pdf" },
+  { cat: "reg", title: "Public Sector Compensation Transparency Act (SA 2015 c P-40.5)", desc: "Consolidated statute text on the public record.", file: "/pdfs/government-form-originals/regulations/public-sector-compensation-transparency-act-sa.pdf" },
+  { cat: "reg", title: "Public Sector Compensation Transparency Act - Dissolved Public Sector Bodies Regulation (AR 113-2017)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/public-sector-compensation-transparency-act.pdf" },
+  { cat: "reg", title: "Public Sector Compensation Transparency Act - General Regulation (AR 52-2016)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/public-sector-compensation-transparency-act-2.pdf" },
+  { cat: "reg", title: "Assured Income for the Severely Handicapped Act — CanLII consolidation", desc: "Consolidated AISH Act text, CanLII.", file: "/pdfs/government-form-originals/regulations/assured-income-for-the-severely-handicapped-act-3.pdf" },
+  { cat: "reg", title: "Seniors Benefit Act - General Regulation (AR 213-1994)", desc: "Consolidated regulation text on the public record.", file: "/pdfs/government-form-originals/regulations/seniors-benefit-act-general-regulation-ar-213.pdf" },
+  { cat: "reg", title: "CRPD — Optional Protocol (English)", desc: "Optional Protocol to the UN Convention on the Rights of Persons with Disabilities.", file: "/pdfs/government-form-originals/regulations/crpd-optional-protocol-english.pdf" },
+  { cat: "manual", title: "Supporting Safe and Inclusive Lives — PDD Consultation 2016 (plain language)", desc: "Plain-language report from the 2016 PDD safety-standards consultation.", file: "/pdfs/government-form-originals/government-manuals/supporting-safe-and-inclusive-lives-pdd.pdf" },
+  { cat: "manual", title: "AISH Policy Manual", desc: "The full AISH program policy manual.", file: "/pdfs/government-form-originals/government-manuals/aish-policy-manual.pdf" },
+  { cat: "manual", title: "PDD Family Guide and Checklist (C2N2)", desc: "Family-facing guide and checklist for the PDD program.", file: "/pdfs/government-form-originals/government-manuals/pdd-family-guide-and-checklist-c2n2.pdf" },
+  { cat: "manual", title: "ADAP Fact Sheet (May 12, 2026)", desc: "Government of Alberta fact sheet on the Alberta Disability Assistance Program.", file: "/pdfs/government-form-originals/government-manuals/adap-fact-sheet-may-12-2026.pdf" },
+  { cat: "manual", title: "Transforming Disability Income Assistance — Discussion Guide", desc: "The August 2025 ADAP consultation discussion guide.", file: "/pdfs/government-form-originals/government-manuals/transforming-disability-income-assistance.pdf" },
+  { cat: "manual", title: "Your Guide to AISH (September 2025)", desc: "Government of Alberta recipient guide to AISH.", file: "/pdfs/government-form-originals/government-manuals/your-guide-to-aish-september-2025.pdf" },
+  { cat: "manual", title: "FSCD Policy and Procedures Manual (October 2023)", desc: "Family Support for Children with Disabilities program manual.", file: "/pdfs/government-form-originals/government-manuals/fscd-policy-and-procedures-manual-october-2023.pdf" },
+  { cat: "manual", title: "Your Guide to AISH (May 2025)", desc: "Earlier edition of the recipient guide to AISH.", file: "/pdfs/government-form-originals/government-manuals/your-guide-to-aish-may-2025.pdf" },
+  { cat: "manual", title: "Transforming Disability Income Assistance — Discussion Guide (small print)", desc: "Small-print edition of the ADAP discussion guide.", file: "/pdfs/government-form-originals/government-manuals/transforming-disability-income-assistance-2.pdf" },
+  { cat: "form", title: "AISH Application Form (AAS13358)", desc: "Government of Alberta AISH application form.", file: "/pdfs/government-form-originals/government-forms/aish-application-form-aas13358.pdf" },
+  { cat: "form", title: "Access to Information Request Form (ATIA)", desc: "Alberta freedom-of-information request form.", file: "/pdfs/government-form-originals/government-forms/access-to-information-request-form-atia.pdf" },
+  { cat: "infopage", title: "About the Citizen's Appeal Panel (Alberta.ca)", desc: "Government info page on the appeal panel.", file: "/pdfs/government-form-originals/info-pages/about-the-citizens-appeal-panel-alberta-ca.pdf" },
+  { cat: "infopage", title: "Alberta Disability Assistance Program (Alberta.ca)", desc: "Government program page for ADAP.", file: "/pdfs/government-form-originals/info-pages/alberta-disability-assistance-program-alberta-ca.pdf" },
+  { cat: "infopage", title: "Citizen's Appeal Panel (Alberta.ca)", desc: "Government info page on the appeal panel.", file: "/pdfs/government-form-originals/info-pages/citizens-appeal-panel-alberta-ca.pdf" },
+  { cat: "infopage", title: "Empowering Albertans with Disabilities (Alberta.ca)", desc: "Government communications page.", file: "/pdfs/government-form-originals/info-pages/empowering-albertans-with-disabilities-alberta.pdf" },
+  { cat: "infopage", title: "Expanding Support for Albertans with Disabilities (Alberta.ca)", desc: "Government communications page.", file: "/pdfs/government-form-originals/info-pages/expanding-support-for-albertans-with.pdf" },
+  { cat: "infopage", title: "The Tribunal Process (Alberta Human Rights Commission)", desc: "Info page on the human-rights tribunal process.", file: "/pdfs/government-form-originals/info-pages/the-tribunal-process-alberta-human-rights.pdf" },
+  { cat: "infopage", title: "Citizen's Appeal Panel — Compensation Disclosure (CSV)", desc: "Public-sector compensation disclosure data for the appeal panel (CSV download).", file: "/pdfs/government-form-originals/info-pages/citizens-appeal-panel-compensation-disclosure.csv" },
+  { cat: "extreport", title: "Disability Poverty Report Card 2025", desc: "Campaign 2000 and Disability Without Poverty, drawing on Statistics Canada and Maytree.", file: "/pdfs/government-form-originals/external-reports/disability-poverty-report-card-2025.pdf" },
+  { cat: "extreport", title: "Disability Poverty Report Card 2024", desc: "Prior-year national disability-poverty report card.", file: "/pdfs/government-form-originals/external-reports/disability-poverty-report-card-2024.pdf" },
+  { cat: "extreport", title: "Auditor General report — CPP Disability", desc: "Federal Auditor General report on the CPP Disability program.", file: "/pdfs/government-form-originals/external-reports/auditor-general-report-cpp-disability.pdf" },
+  { cat: "extreport", title: "OAPD Strategic Plan 2025-2027", desc: "Office of the Advocate for Persons with Disabilities strategic plan.", file: "/pdfs/government-form-originals/external-reports/oapd-strategic-plan-2025-2027.pdf" },
+  { cat: "finstmt", title: "Consolidated Financial Statements 2017-2018", desc: "Audited financial statements on the public record.", file: "/pdfs/government-form-originals/financial-statements/consolidated-financial-statements-2017-2018.pdf" },
+  { cat: "finstmt", title: "Audited Financial Statements 2019-2020", desc: "Audited financial statements on the public record.", file: "/pdfs/government-form-originals/financial-statements/audited-financial-statements-2019-2020.pdf" },
+  { cat: "finstmt", title: "The Mustard Seed Society — Financial Statements (to March 31, 2021)", desc: "Signed audited financial statements.", file: "/pdfs/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements.pdf" },
+  { cat: "finstmt", title: "The Mustard Seed Society — Financial Statements (to March 31, 2022)", desc: "Signed audited financial statements.", file: "/pdfs/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements-2.pdf" },
+  { cat: "finstmt", title: "The Mustard Seed Society — Financial Statements (to March 31, 2023)", desc: "Signed audited financial statements.", file: "/pdfs/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements-3.pdf" },
+  { cat: "finstmt", title: "The Mustard Seed Society — Financial Statements (to March 31, 2024)", desc: "Signed audited financial statements.", file: "/pdfs/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements-4.pdf" },
+  { cat: "finstmt", title: "The Mustard Seed Society — Financial Statements (to March 31, 2025)", desc: "Signed audited financial statements.", file: "/pdfs/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements-5.pdf" },
+  { cat: "finstmt", title: "Audited Financial Statements (signed)", desc: "Audited financial statements on the public record.", file: "/pdfs/government-form-originals/financial-statements/audited-financial-statements-signed.pdf" },
+  { cat: "finstmt", title: "Audited Financial Statements 2018-2019", desc: "Audited financial statements on the public record.", file: "/pdfs/government-form-originals/financial-statements/audited-financial-statements-2018-2019.pdf" },
+  { cat: "news", title: "Backgrounder: Supporting Canadians with Disabilities — Canada Disability Benefit (Canada.ca)", desc: "Federal backgrounder on the Canada Disability Benefit.", file: "/pdfs/government-form-originals/news-articles/backgrounder-supporting-canadians-with.pdf" },
+  { cat: "news", title: "Disabled Albertans to receive AISH eligibility letters (Red Deer Advocate)", desc: "Press coverage of the AISH-to-ADAP transition letters.", file: "/pdfs/government-form-originals/news-articles/disabled-albertans-to-receive-aish-eligibility.pdf" },
+  { cat: "news", title: "Motion passed to request paused ADAP implementation", desc: "Press coverage of a municipal motion on ADAP.", file: "/pdfs/government-form-originals/news-articles/motion-passed-to-request-paused-adap.pdf" },
+  { cat: "news", title: "St. Albert to discuss asking province to pause ADAP (St. Albert News)", desc: "Press coverage of the St. Albert council motion.", file: "/pdfs/government-form-originals/news-articles/st-albert-to-discuss-asking-province-to-pause.pdf" },
+  { cat: "advocacy", title: "Inclusion Alberta media release — ADAP could deepen poverty", desc: "Inclusion Alberta's media release on ADAP.", file: "/pdfs/government-form-originals/advocacy/inclusion-alberta-media-release-adap-could.pdf" },
+  { cat: "engagement", title: "ADAP Engagement Page — Forensic Capture Set", desc: "The 14-snapshot Internet Archive capture set of the Government of Alberta ADAP engagement page (August 2025 to April 2026) underlying “Designed Based on Input?” — documenting the page’s rewrite, the changed survey end date, the 206-day freeze, and its removal from archiving.", file: "/pdfs/government-form-originals/adap-engagement/adap-engagement.pdf" },
+];
+
+// ─── Render: Reference Library (filterable) ───
+function renderReference(filter = "all") {
+  const grid = document.getElementById("reference-grid");
+  if (!grid) return;
+  const items = filter === "all" ? REFERENCE_LIBRARY : REFERENCE_LIBRARY.filter(d => d.cat === filter);
+  grid.innerHTML = items.map(d => `
+    <article class="card" data-cat="${d.cat}">
+      <p class="card-num">${categoryLabel(d.cat)}</p>
+      <h3 class="card-title">${d.title}</h3>
+      <p class="card-desc">${d.desc}</p>
+      <div class="card-actions">
+        <a class="view" href="${encodePath(d.file)}" target="_blank" rel="noopener">View →</a>
+        <a download href="${encodePath(d.file)}">Download</a>
+      </div>
+      ${d.extra ? `<p class="card-extra">${d.extra}</p>` : ""}
+    </article>
+  `).join("");
+}
+
 // ─── Render: Document library (filterable) ───
 function renderDocs(filter = "all") {
   const grid = document.getElementById("doc-grid");
@@ -743,7 +852,16 @@ function categoryLabel(cat) {
     briefs: "Sourced Brief",
     new: "New ADSB Doc",
     info: "Information Asymmetry",
-    access: "Access Gap"
+    access: "Access Gap",
+    reg: "Regulations & Legislation",
+    manual: "Government Manual",
+    form: "Government Form",
+    infopage: "Info Page",
+    extreport: "External Report",
+    finstmt: "Financial Statement",
+    news: "News Coverage",
+    advocacy: "Advocacy",
+    engagement: "Engagement Record"
   };
   return map[cat] || cat;
 }
@@ -881,14 +999,20 @@ function bindAudioShare() {
 
 // ─── Filter chip behaviour ───
 function bindFilterChips() {
-  const chips = document.querySelectorAll(".chip");
-  chips.forEach(chip => {
-    chip.addEventListener("click", () => {
-      chips.forEach(c => c.classList.remove("active"));
-      chip.classList.add("active");
-      renderDocs(chip.dataset.filter);
-      // Smooth-scroll to keep chips visible
-      chip.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+  document.querySelectorAll(".filter-bar").forEach(bar => {
+    const chips = bar.querySelectorAll(".chip");
+    const target = bar.dataset.target || "documents";
+    chips.forEach(chip => {
+      chip.addEventListener("click", () => {
+        chips.forEach(c => c.classList.remove("active"));
+        chip.classList.add("active");
+        if (target === "reference") {
+          renderReference(chip.dataset.filter);
+        } else {
+          renderDocs(chip.dataset.filter);
+        }
+        chip.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+      });
     });
   });
 }
@@ -938,6 +1062,7 @@ document.addEventListener("DOMContentLoaded", () => {
   renderFlyers();
   renderReports();
   renderDocs("all");
+  renderReference("all");
   renderProvinces();
   renderMinisterial();
   renderAudio();

@@ -46,6 +46,7 @@
       <a href="#flyers">Flyers</a>
       <a href="#reports">Reports</a>
       <a href="#documents">Documents</a>
+      <a href="#reference">Reference Library</a>
       <a href="#ministerial">Ministerial</a>
       <a href="#audio">Audio</a>
       <a href="#podcast">Podcast</a>
@@ -265,7 +266,7 @@
     </header>
 
     <!-- Filter bar -->
-    <div class="filter-bar" role="tablist" aria-label="Document categories">
+    <div class="filter-bar" data-target="documents" role="tablist" aria-label="Document categories">
       <button class="chip active" data-filter="all">All</button>
       <button class="chip" data-filter="may2026">May 2026 ADAP</button>
       <button class="chip" data-filter="compilations">Compilations</button>
@@ -286,6 +287,33 @@
     </div>
 
     <div class="doc-grid" id="doc-grid"></div>
+  </div>
+</section>
+
+<!-- ───────────── REFERENCE LIBRARY ───────────── -->
+<section id="reference" class="documents">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">Reference Library</p>
+      <h2 class="section-title">The source documents.</h2>
+      <p class="section-lede">Third-party and government-authored sources the campaign cites — statutes and regulations, government manuals and forms, financial statements, official info pages, external reports, news coverage, and the ADAP engagement record. Distinct from the campaign-authored material in Documents above.</p>
+    </header>
+
+    <!-- Filter bar -->
+    <div class="filter-bar" data-target="reference" role="tablist" aria-label="Reference categories">
+      <button class="chip active" data-filter="all">All</button>
+      <button class="chip" data-filter="reg">Regulations &amp; Legislation</button>
+      <button class="chip" data-filter="manual">Government Manuals</button>
+      <button class="chip" data-filter="form">Government Forms</button>
+      <button class="chip" data-filter="infopage">Info Pages</button>
+      <button class="chip" data-filter="extreport">External Reports</button>
+      <button class="chip" data-filter="finstmt">Financial Statements</button>
+      <button class="chip" data-filter="news">News Coverage</button>
+      <button class="chip" data-filter="advocacy">Advocacy</button>
+      <button class="chip" data-filter="engagement">Engagement Record</button>
+    </div>
+
+    <div class="doc-grid" id="reference-grid"></div>
   </div>
 </section>
 
