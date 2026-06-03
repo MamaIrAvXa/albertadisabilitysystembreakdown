@@ -20,6 +20,25 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700;9..144,800&family=Atkinson+Hyperlegible:wght@400;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/css/styles.css">
+<style>
+  /* Search box — inline so it needs no styles.css change */
+  .search-input {
+    width: 100%; max-width: 640px; box-sizing: border-box;
+    padding: 14px 18px; margin-top: 0.5rem;
+    border: 1px solid var(--line-strong, #2a3f63);
+    border-radius: 12px;
+    background: var(--navy-800, rgba(255,246,215,0.04));
+    color: var(--ink, #f4ead2);
+    font-family: var(--font-body, system-ui, sans-serif);
+    font-size: 1rem; line-height: 1.2;
+    transition: border-color .15s, box-shadow .15s, background .15s;
+  }
+  .search-input::placeholder { color: var(--ink-mute, #8aa0c0); }
+  .search-input:focus {
+    outline: none; border-color: var(--gold-500, #d4a017);
+    box-shadow: 0 0 0 3px rgba(212,160,23,0.18);
+  }
+</style>
 </head>
 <body>
 
@@ -39,6 +58,7 @@
     </button>
     <nav id="primary-nav" class="primary-nav" aria-label="Primary">
       <a href="#overview">Overview</a>
+      <a href="#search">Search</a>
       <a href="#just-dropped" class="nav-new">Just Dropped</a>
       <a href="#system">The System</a>
       <a href="#numbers">Numbers</a>
@@ -85,6 +105,21 @@
       <span class="meta-pill">Free to distribute</span>
       <span class="meta-pill">All sourced</span>
     </p>
+  </div>
+</section>
+
+<!-- ───────────── SEARCH ───────────── -->
+<section id="search" class="documents">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">Search</p>
+      <h2 class="section-title">Find a document.</h2>
+      <p class="section-lede">Search the whole library by keyword — matches titles and descriptions across every report, document, reference source, and Ministerial letter.</p>
+    </header>
+    <input type="search" id="search-input" class="search-input" placeholder="Search titles and descriptions…" autocomplete="off" aria-label="Search the document library">
+    <p class="section-count" id="search-count" aria-live="polite"></p>
+    <p class="jd-empty" id="search-empty" hidden>No matches. Try a different keyword.</p>
+    <div class="card-grid" id="search-grid"></div>
   </div>
 </section>
 
@@ -530,6 +565,12 @@
         <h3>Pre-Appeal Submission of New Information</h3>
         <p>Ask AISH to reconsider a recent decision <em>before</em> you file a Notice of Appeal. Critical: once a Notice of Appeal is filed, the AISH Policy Manual prohibits the Appeal Panel from considering any new information — the pre-appeal stage is the only window where new evidence can change the outcome. Does not pause the 30-day appeal clock.</p>
         <a class="btn btn-primary" href="/pdfs/fillable/Fillable_Pre_Appeal_Submission.pdf" target="_blank" rel="noopener">Open form</a>
+      </article>
+      <article class="action-card">
+        <h3>AISH Appeal Letter</h3>
+        <p>A formal Notice of Appeal letter for an AISH decision — fillable to complete on screen, or a ready-to-print-and-sign version. File within 30 days of being notified of the decision and your right to appeal. See the plain-language appeal guides in Documents for which route fits your situation.</p>
+        <a class="btn btn-primary" href="/pdfs/fillable/AISH_Appeal_Letter_Fillable_June2026.pdf" target="_blank" rel="noopener">Open fillable</a>
+        <a class="btn btn-ghost-sm" href="/pdfs/fillable/AISH_Appeal_Letter_ReadyToPrint_and_Sign_June2026.pdf" target="_blank" rel="noopener">Ready to print &amp; sign</a>
       </article>
       <article class="action-card">
         <h3>CDB Overpayment Appeal</h3>
