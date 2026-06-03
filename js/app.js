@@ -125,6 +125,8 @@ const DOCUMENTS = [
   { cat: "plain", title: "Employment Assumption — Plain Language", desc: "Plain-language version of the employment-first critique.", file: "/pdfs/plain-language/Employment_Assumption_Plain_Language_2026.pdf" },
   { cat: "plain", title: "AISH Taxpayer Truth — Plain Language", desc: "Plain-language version of the taxpayer / Heritage Fund analysis.", file: "/pdfs/plain-language/AISH_Taxpayer_Truth_PlainLanguage_2026.pdf" },
   { cat: "plain", title: "Information Asymmetry — Plain Language Companion", desc: "Plain-language companion to the Information Asymmetry Report.", file: "/pdfs/information-asymmetry/1_Information_Asymmetry_Plain_Language_Companion.pdf" },
+  { cat: "plain", title: "Your Right to Appeal — Plain Language", desc: "Plain-language explanation of the right to appeal an AISH decision: what counts as an appealable decision, the 30-day deadline, and how to file before the window closes.", file: "/pdfs/plain-language/Your_Right_to_Appeal_PlainLanguage_June2026.pdf" },
+  { cat: "plain", title: "Appeal vs. Reassessment — A Guide", desc: "Plain-language guide to the two routes: appealing a decision versus requesting a reassessment to stay on AISH — which one fits your situation, and the clock on each.", file: "/pdfs/plain-language/Appeal_vs_Reassessment_Guide_June2026.pdf" },
 
   // Legal
   { cat: "legal", title: "Charter Constitutional Analysis", desc: "Charter analysis of the AISH-to-ADAP transition prepared in legal-style format.", file: "/pdfs/legalese/ADSB_Charter_Constitutional_Analysis_Legal.pdf" },
@@ -764,8 +766,10 @@ const REFERENCE_LIBRARY = [
   { cat: "manual", title: "FSCD Policy and Procedures Manual (October 2023)", desc: "Family Support for Children with Disabilities program manual.", file: "/pdfs/government-form-originals/government-manuals/fscd-policy-and-procedures-manual-october-2023.pdf" },
   { cat: "manual", title: "Your Guide to AISH (May 2025)", desc: "Earlier edition of the recipient guide to AISH.", file: "/pdfs/government-form-originals/government-manuals/your-guide-to-aish-may-2025.pdf" },
   { cat: "manual", title: "Transforming Disability Income Assistance — Discussion Guide (small print)", desc: "Small-print edition of the ADAP discussion guide.", file: "/pdfs/government-form-originals/government-manuals/transforming-disability-income-assistance-2.pdf" },
-  { cat: "form", title: "AISH Application Form (AAS13358)", desc: "Government of Alberta AISH application form.", file: "/pdfs/government-form-originals/government-forms/aish-application-form-aas13358.pdf" },
+  { cat: "form", title: "AISH Appeal Form (AAS13358)", desc: "Government of Alberta appeal form for AISH recipients — the official form used to formally appeal an AISH decision.", file: "/pdfs/government-form-originals/government-forms/aish-appeal-form-aas13358.pdf" },
   { cat: "form", title: "Access to Information Request Form (ATIA)", desc: "Alberta freedom-of-information request form.", file: "/pdfs/government-form-originals/government-forms/access-to-information-request-form-atia.pdf" },
+  { cat: "form", title: "Appeals Secretariat Authorization Form", desc: "Government of Alberta form authorizing a representative to act on your behalf in an AISH appeal.", file: "/pdfs/government-form-originals/government-forms/alss-appeals-secretariat-authorization-form.pdf" },
+  { cat: "form", title: "Appeal Time Extension Request Worksheet", desc: "Government of Alberta worksheet for requesting more time to file an AISH appeal.", file: "/pdfs/government-form-originals/government-forms/alss-time-extension-request-worksheet.pdf" },
   { cat: "infopage", title: "About the Citizen's Appeal Panel (Alberta.ca)", desc: "Government info page on the appeal panel.", file: "/pdfs/government-form-originals/info-pages/about-the-citizens-appeal-panel-alberta-ca.pdf" },
   { cat: "infopage", title: "Alberta Disability Assistance Program (Alberta.ca)", desc: "Government program page for ADAP.", file: "/pdfs/government-form-originals/info-pages/alberta-disability-assistance-program-alberta-ca.pdf" },
   { cat: "infopage", title: "Citizen's Appeal Panel (Alberta.ca)", desc: "Government info page on the appeal panel.", file: "/pdfs/government-form-originals/info-pages/citizens-appeal-panel-alberta-ca.pdf" },
@@ -1057,6 +1061,67 @@ function bindScrollSpy() {
 }
 
 // ─── Init ───
+// ─── Search across the library (titles + descriptions) ───
+let _searchIndex = null;
+function buildSearchIndex() {
+  const idx = [];
+  REPORTS.forEach(r => idx.push({
+    label: "Report " + r.num, title: r.title, desc: r.desc,
+    href: "/pdfs/adsb-report-series/" + encodeURIComponent(r.file)
+  }));
+  DOCUMENTS.forEach(d => idx.push({
+    label: categoryLabel(d.cat), title: d.title, desc: d.desc, href: encodePath(d.file)
+  }));
+  REFERENCE_LIBRARY.forEach(d => idx.push({
+    label: categoryLabel(d.cat), title: d.title, desc: d.desc, href: encodePath(d.file)
+  }));
+  MINISTERIAL.forEach(m => idx.push({
+    label: "Ministerial · " + m.type, title: m.title, desc: m.desc,
+    href: "/pdfs/ministerial-correspondence/" + encodeURIComponent(m.file)
+  }));
+  return idx;
+}
+function searchIndex() {
+  if (!_searchIndex) _searchIndex = buildSearchIndex();
+  return _searchIndex;
+}
+function renderSearch(q) {
+  const grid = document.getElementById("search-grid");
+  if (!grid) return;
+  const count = document.getElementById("search-count");
+  const empty = document.getElementById("search-empty");
+  const query = (q || "").trim().toLowerCase();
+  if (query.length < 2) {
+    grid.innerHTML = "";
+    if (count) count.textContent = "";
+    if (empty) empty.hidden = true;
+    return;
+  }
+  const tokens = query.split(/\s+/);
+  const results = searchIndex().filter(it => {
+    const hay = (it.title + " " + it.desc + " " + it.label).toLowerCase();
+    return tokens.every(t => hay.includes(t));
+  });
+  if (count) count.textContent = results.length + (results.length === 1 ? " match" : " matches");
+  if (empty) empty.hidden = results.length !== 0;
+  grid.innerHTML = results.map(it => `
+    <article class="card">
+      <p class="card-num">${it.label}</p>
+      <h3 class="card-title">${it.title}</h3>
+      <p class="card-desc">${it.desc}</p>
+      <div class="card-actions">
+        <a class="view" href="${it.href}" target="_blank" rel="noopener">View →</a>
+        <a download href="${it.href}">Download</a>
+      </div>
+    </article>
+  `).join("");
+}
+function bindSearch() {
+  const input = document.getElementById("search-input");
+  if (!input) return;
+  input.addEventListener("input", e => renderSearch(e.target.value));
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   renderJustDropped();
   renderFlyers();
@@ -1069,4 +1134,5 @@ document.addEventListener("DOMContentLoaded", () => {
   bindFilterChips();
   bindNavToggle();
   bindScrollSpy();
+  bindSearch();
 });
