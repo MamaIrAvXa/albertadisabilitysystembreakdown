@@ -125,8 +125,8 @@ const DOCUMENTS = [
   { cat: "plain", title: "Employment Assumption — Plain Language", desc: "Plain-language version of the employment-first critique.", file: "/pdfs/plain-language/Employment_Assumption_Plain_Language_2026.pdf" },
   { cat: "plain", title: "AISH Taxpayer Truth — Plain Language", desc: "Plain-language version of the taxpayer / Heritage Fund analysis.", file: "/pdfs/plain-language/AISH_Taxpayer_Truth_PlainLanguage_2026.pdf" },
   { cat: "plain", title: "Information Asymmetry — Plain Language Companion", desc: "Plain-language companion to the Information Asymmetry Report.", file: "/pdfs/information-asymmetry/1_Information_Asymmetry_Plain_Language_Companion.pdf" },
-  { cat: "plain", title: "Your Right to Appeal — Plain Language", desc: "Plain-language explanation of the right to appeal an AISH decision: what counts as an appealable decision, the 30-day deadline, and how to file before the window closes.", file: "/pdfs/plain-language/Your_Right_to_Appeal_PlainLanguage_June2026.pdf" },
-  { cat: "plain", title: "Appeal vs. Reassessment — A Guide", desc: "Plain-language guide to the two routes: appealing a decision versus requesting a reassessment to stay on AISH — which one fits your situation, and the clock on each.", file: "/pdfs/plain-language/Appeal_vs_Reassessment_Guide_June2026.pdf" },
+  { cat: "plain", title: "Your Right to Appeal — Plain Language", desc: "Plain-language explanation of the right to appeal an AISH decision: what counts as an appealable decision, the 30-day deadline, and how to file before the window closes.", file: "/pdfs/plain-language/Your_Right_to_Appeal_PlainLanguage_June2026.pdf", released: "2026-06-03" },
+  { cat: "plain", title: "Appeal vs. Reassessment — A Guide", desc: "Plain-language guide to the two routes: appealing a decision versus requesting a reassessment to stay on AISH — which one fits your situation, and the clock on each.", file: "/pdfs/plain-language/Appeal_vs_Reassessment_Guide_June2026.pdf", released: "2026-06-03" },
 
   // Legal
   { cat: "legal", title: "Charter Constitutional Analysis", desc: "Charter analysis of the AISH-to-ADAP transition prepared in legal-style format.", file: "/pdfs/legalese/ADSB_Charter_Constitutional_Analysis_Legal.pdf" },
@@ -161,7 +161,7 @@ const DOCUMENTS = [
   { cat: "may2026", title: "Appeal or Reassess? Know Which One You Need", desc: "Plain-language guide to two routes with two different clocks. Reassessment is the no-deadline route to keep AISH; appeal is the 30-day route to challenge a decision — and the right to contest the move as an AISH decision closes July 2, 2026. Explains how to read your letter to tell which one your situation needs, and what to do before the window shuts.", file: "/pdfs/may-2026-adap/Appeal_or_Reassess_PlainLanguage_June2026.pdf" },
   { cat: "may2026", title: "Designed Based on Input?", desc: "Government-facing evidentiary brief setting the claim that ADAP was 'thoughtfully designed based on input from Albertans with disabilities' beside the public record of that consultation — an engagement page rewritten into an archive within a week of closing, its survey end date quietly changed, frozen on 'results under review' for 206 days through the legislative period it was said to inform, then blocked from independent archiving. On May 12, 2026 the regulation, the input claim, and the transition letters all landed on one day.", file: "/pdfs/may-2026-adap/ADSB_Designed_Based_On_Input_June2026.pdf" },
   { cat: "may2026", title: "The Heritage Fund — A Record of Choices", desc: "Fiscal analysis from the government's own numbers: in the same years it cut, clawed back, and restructured disability income, Alberta deposited billions into the Heritage Savings Trust Fund, kept the rule retaining every dollar it earns, built a Crown corporation to govern it, and reaffirmed a $250 billion by 2050 target it says holds with no new deposits — while moving 79,290 disabled Albertans onto a lower benefit. Not an argument to raid the Fund; a record of priorities.", file: "/pdfs/may-2026-adap/ADSB_Heritage_Fund_Choices_June2026.pdf" },
-  { cat: "may2026", title: "Paid to Govern, Paid to Survive", desc: "What Alberta pays the people who govern, set beside what it provides the disabled Albertans it governs. The same statute — Bill 12 — added a $6,000/year allowance for eight MLAs effective June 1, 2026 and cut roughly 79,000 disabled Albertans by $200/month effective July 1, with no right to appeal the move. The pay gap, the rent math, the 54-day legislative year, an 89% jump in administration cost to deliver a smaller benefit, and the government’s own travel-and-expense disclosure — all sourced.", file: "/pdfs/may-2026-adap/ADSB_Paid_To_Govern_Paid_To_Survive.pdf" },
+  { cat: "may2026", title: "Paid to Govern, Paid to Survive", desc: "What Alberta pays the people who govern, set beside what it provides the disabled Albertans it governs. The same statute — Bill 12 — added a $6,000/year allowance for eight MLAs effective June 1, 2026 and cut roughly 79,000 disabled Albertans by $200/month effective July 1, with no right to appeal the move. The pay gap, the rent math, the 54-day legislative year, an 89% jump in administration cost to deliver a smaller benefit, and the government’s own travel-and-expense disclosure — all sourced.", file: "/pdfs/may-2026-adap/ADSB_Paid_To_Govern_Paid_To_Survive.pdf", released: "2026-06-03" },
   { cat: "new", title: "Income Crossover Analysis — Original Edition (April 2026)", desc: "The predecessor document. Written before the government published full ADAP rules, this is the original modelling — Model A and Model B — that the May 2026 revision builds on. Kept on the record for the methodology and the audit trail: the math was done with the data available, and when the May 12, 2026 fact sheet was published, the anchor figures held.", file: "/pdfs/new-adsb-docs/ADSB_Income_Crossover_Analysis_April2026.pdf" },
   { cat: "new", title: "Structural Cage — Expanded", desc: "The expanded version of the structural-cage argument, with the federal-jurisdiction extension.", file: "/pdfs/new-adsb-docs/ADSB_Structural_Cage_Expanded_April2026.pdf" },
   { cat: "new", title: "The Core Findings — Point Form", desc: "Every key finding from the campaign in one quick-reference point-form document.", file: "/pdfs/new-adsb-docs/ADSB_The_Core_Findings_Point_Form.pdf" },
@@ -558,6 +558,15 @@ const FLYERS = [
 // To change the window length, edit JUST_DROPPED_DAYS.
 const JUST_DROPPED_DAYS = 7;
 
+// Fillable Take Action forms we want to surface in "Just Dropped".
+// They are hardcoded as cards in the Take Action section; add one here with a
+// `released` date when it should also appear in the new-release feed.
+const ACTION_FORMS = [
+  { title: "CDB $200 Deduction Correction Letter", desc: "File-correction letter for when the $200 Canada Disability Benefit amount was deducted but does not match the CDB status you reported.", file: "/pdfs/fillable/Fillable_CDB_200_Deduction_Correction_Letter.pdf", released: "2026-06-05" },
+  { title: "AISH Appeal Letter", desc: "A formal Notice of Appeal letter for an AISH decision \u2014 fillable, or ready to print and sign.", file: "/pdfs/fillable/AISH_Appeal_Letter_Fillable_June2026.pdf", released: "2026-06-03" },
+  { title: "Exemption Category Correction Request", desc: "For people in an automatic AISH-retention category (PDD, palliative/terminal, continuing care, or 60+) who received an ADAP letter anyway \u2014 a request to correct the error, not an appeal.", file: "/pdfs/fillable/ADSB_Exemption_Category_Correction_Request.pdf", released: "2026-06-03" },
+];
+
 function withinWindow(dateStr) {
   if (!dateStr) return false;
   const released = new Date(dateStr + "T00:00:00");
@@ -630,6 +639,20 @@ function collectJustDropped() {
         href: `/pdfs/ministerial-correspondence/${encodeURIComponent(m.file)}`,
         released: m.released,
         category: m.type
+      });
+    }
+  });
+
+  // Take Action forms (fillables surfaced via ACTION_FORMS)
+  ACTION_FORMS.forEach(f => {
+    if (withinWindow(f.released)) {
+      items.push({
+        kind: "Form",
+        title: f.title,
+        desc: f.desc,
+        href: encodePath(f.file),
+        released: f.released,
+        category: "Take Action"
       });
     }
   });
@@ -792,7 +815,7 @@ const REFERENCE_LIBRARY = [
   { cat: "finstmt", title: "Audited Financial Statements (signed)", desc: "Audited financial statements on the public record.", file: "/pdfs/government-form-originals/financial-statements/audited-financial-statements-signed.pdf" },
   { cat: "finstmt", title: "Audited Financial Statements 2018-2019", desc: "Audited financial statements on the public record.", file: "/pdfs/government-form-originals/financial-statements/audited-financial-statements-2018-2019.pdf" },
   { cat: "finstmt", title: "Government of Alberta — Travel & Expense Disclosure (full dataset, CSV)", desc: "The province’s own published travel and expense disclosure — the source data behind “Paid to Govern, Paid to Survive” (CSV download).", file: "/pdfs/government-form-originals/financial-statements/goa_expenses.csv" },
-  { cat: "finstmt", title: "Government of Alberta — Travel & Expense Disclosure (extract, CSV)", desc: "A smaller extract of the Government of Alberta travel and expense disclosure dataset (CSV download).", file: "/pdfs/government-form-originals/financial-statements/goa_expenses (1).csv" },
+  { cat: "finstmt", title: "Government of Alberta — Travel & Expense Disclosure (extract, CSV)", desc: "A smaller extract of the Government of Alberta travel and expense disclosure dataset (CSV download).", file: "/pdfs/government-form-originals/financial-statements/goa-expenses-extract.csv" },
   { cat: "news", title: "Backgrounder: Supporting Canadians with Disabilities — Canada Disability Benefit (Canada.ca)", desc: "Federal backgrounder on the Canada Disability Benefit.", file: "/pdfs/government-form-originals/news-articles/backgrounder-supporting-canadians-with.pdf" },
   { cat: "news", title: "Disabled Albertans to receive AISH eligibility letters (Red Deer Advocate)", desc: "Press coverage of the AISH-to-ADAP transition letters.", file: "/pdfs/government-form-originals/news-articles/disabled-albertans-to-receive-aish-eligibility.pdf" },
   { cat: "news", title: "Motion passed to request paused ADAP implementation", desc: "Press coverage of a municipal motion on ADAP.", file: "/pdfs/government-form-originals/news-articles/motion-passed-to-request-paused-adap.pdf" },
