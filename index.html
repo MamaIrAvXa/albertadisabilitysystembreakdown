@@ -39,6 +39,26 @@
     box-shadow: 0 0 0 3px rgba(212,160,23,0.18);
   }
 </style>
+<style>
+/* Daily Accessible News — self-contained, with CSS-var fallbacks */
+.daily-news { padding: 4rem 0; background: var(--surface, #081a36); border-top: 1px solid var(--line, rgba(255,255,255,0.08)); border-bottom: 1px solid var(--line, rgba(255,255,255,0.08)); }
+.daily-news .section-intro { color: var(--ink-soft, #c7d3e4); max-width: 62ch; margin-top: .5rem; line-height: 1.6; }
+.dn-feed { margin-top: 1.5rem; display: flex; flex-direction: column; gap: 1rem; }
+.dn-post.dn-latest { background: var(--bg, #050d1c); border: 1px solid var(--line, rgba(255,255,255,0.08)); border-left: 3px solid var(--gold-400, #f5b942); border-radius: 14px; padding: 1.4rem 1.6rem; }
+.dn-date { font-family: var(--font-mono, ui-monospace, monospace); font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; color: var(--gold-400, #f5b942); margin: 0 0 .6rem; }
+.dn-body p { color: var(--ink, #eef3fa); line-height: 1.65; margin: 0 0 .9rem; }
+.dn-body p:last-child { margin-bottom: 0; }
+.dn-body .dn-h { font-family: var(--font-mono, ui-monospace, monospace); font-size: .8rem; letter-spacing: .07em; text-transform: uppercase; color: var(--gold-300, #f7cd77); margin: 1.4rem 0 .5rem; }
+.dn-body .dn-h:first-child { margin-top: 0; }
+.dn-archive-title { font-size: 1rem; color: var(--ink-soft, #c7d3e4); margin: 1.4rem 0 .2rem; }
+.dn-archive-item { background: var(--bg, #050d1c); border: 1px solid var(--line, rgba(255,255,255,0.08)); border-radius: 12px; padding: 0 1.3rem; }
+.dn-archive-item summary { cursor: pointer; padding: .95rem 0; font-weight: 600; color: var(--ink, #eef3fa); list-style: none; display: flex; align-items: center; gap: .55rem; }
+.dn-archive-item summary::-webkit-details-marker { display: none; }
+.dn-archive-item summary::before { content: "\25B8"; color: var(--gold-400, #f5b942); font-size: .85em; transition: transform .15s; }
+.dn-archive-item[open] summary::before { transform: rotate(90deg); }
+.dn-archive-item[open] summary { border-bottom: 1px solid var(--line, rgba(255,255,255,0.08)); }
+.dn-archive-item .dn-body { padding: 1rem 0 1.2rem; }
+</style>
 </head>
 <body>
 
@@ -60,6 +80,7 @@
       <a href="#overview">Overview</a>
       <a href="#search">Search</a>
       <a href="#just-dropped" class="nav-new">Just Dropped</a>
+      <a href="#daily-news">Daily News</a>
       <a href="#system">The System</a>
       <a href="#numbers">Numbers</a>
       <a href="#appeals">Appeals</a>
@@ -148,6 +169,18 @@
     <p class="jd-empty" id="just-dropped-empty" hidden>
       Nothing has dropped in the last 7 days. Check back — or browse the full library below.
     </p>
+  </div>
+</section>
+
+<!-- ───────────── DAILY ACCESSIBLE NEWS ───────────── -->
+<section id="daily-news" class="daily-news">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="eyebrow">Updated most days</p>
+      <h2>Daily Accessible News</h2>
+      <p class="section-intro"><strong>Where Things Stand</strong> — a plain-language update on where the AISH&nbsp;&rarr;&nbsp;ADAP transition sits and what it means for you. No jargon. The newest update is first; earlier days are below it.</p>
+    </header>
+    <div id="daily-news-feed" class="dn-feed"></div>
   </div>
 </section>
 
@@ -705,6 +738,7 @@
       <p class="footer-head">Quick links</p>
       <ul class="footer-list">
         <li><a href="#just-dropped">Just Dropped</a></li>
+        <li><a href="#daily-news">Daily News</a></li>
         <li><a href="#reports">All reports</a></li>
         <li><a href="#documents">Document library</a></li>
         <li><a href="#ministerial">Ministerial correspondence</a></li>
@@ -727,6 +761,7 @@
   </div>
 </footer>
 
+<script src="/js/daily-news.js"></script>
 <script src="/js/app.js"></script>
 </body>
 </html>

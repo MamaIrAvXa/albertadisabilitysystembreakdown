@@ -144,6 +144,7 @@ const DOCUMENTS = [
   { cat: "briefs", title: "Alberta Daycare Barriers — Research Analysis", desc: "Analysis of daycare access barriers and how they intersect with disability income and FSCD/PDD service gaps.", file: "/pdfs/sourced-briefs/Alberta_Daycare_Barriers_Research_Analysis.pdf" },
   { cat: "briefs", title: "Consultation Gap Rebuttal", desc: "Direct rebuttal of the government's consultation claim — what consultation actually happened, and what didn't.", file: "/pdfs/consultation-gap-rebuttal/Consultation_Gap_Rebuttal_April2026.pdf" },
   { cat: "briefs", title: "Easier for Whom? The Alberta.ca Account", desc: "The alberta.ca account requirement and what it costs disabled Albertans trying to file an ATIA personal information request. Filed institutionally May 2026.", file: "/pdfs/sourced-briefs/ADSB_Easier_For_Whom_AlbertaCa_Account_May2026.pdf" },
+  { cat: "briefs", title: "Promised Supports, Shifted Responsibility", desc: "ADAP expects recipients to work — but the supports that make work possible (transportation, childcare, mental-health help, delivered through the $185M WorkFirst Alberta program) are described everywhere as supports that “can be provided,” never as guaranteed entitlements, with childcare capacity that does not yet exist. A firm work obligation set against discretionary supports. Sourced, with practical advice: request transportation supports and DRES by name and get every commitment recorded in writing on your file.", file: "/pdfs/sourced-briefs/ADSB_Promised_Supports_Shifted_Responsibility.pdf", released: "2026-06-06" },
 
   // New ADSB docs
   { cat: "may2026", title: "Who Made the Determination?", desc: "A letter changed your AISH status. The government says no decision was made. Both cannot be true — and either answer is a problem. Administrative-law analysis of the AISH-to-ADAP placement letters. The fork: either a determination was made (then who, under what authority, and how is it appealed?), or no determination was made (in which case the program status of roughly 79,290 disabled Albertans was altered without one). Includes the specific written question every recipient is entitled to put to the office that issued their letter.", file: "/pdfs/may-2026-adap/ADSB_Who_Made_The_Determination_May2026.pdf", released: "2026-05-30" },
@@ -681,6 +682,52 @@ function collectJustDropped() {
   return items;
 }
 
+// ─── Daily Accessible News ("Where Things Stand") ───
+function dnFormatDate(d) {
+  if (d.indexOf("-to-") !== -1) return "May 1\u201321, 2026";
+  const parts = d.split("-").map(Number);
+  const months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  return months[parts[1]-1] + " " + parts[2] + ", " + parts[0];
+}
+function dnEscape(s) {
+  return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+function dnBodyToHtml(body) {
+  const lines = body.split("\n");
+  let html = "", para = [];
+  const flush = () => { if (para.length) { html += "<p>" + dnEscape(para.join(" ")) + "</p>"; para = []; } };
+  lines.forEach(line => {
+    const t = line.trim();
+    if (t === "") { flush(); }
+    else if (t.indexOf("## ") === 0) { flush(); html += '<h4 class="dn-h">' + dnEscape(t.slice(3)) + "</h4>"; }
+    else { para.push(t); }
+  });
+  flush();
+  return html;
+}
+function renderDailyNews() {
+  const wrap = document.getElementById("daily-news-feed");
+  if (!wrap || typeof DAILY_NEWS === "undefined" || !DAILY_NEWS.length) return;
+  const latest = DAILY_NEWS[0];
+  const rest = DAILY_NEWS.slice(1);
+  let html = `
+    <article class="dn-post dn-latest">
+      <p class="dn-date">${dnFormatDate(latest.date)} \u00b7 latest</p>
+      <div class="dn-body">${dnBodyToHtml(latest.body)}</div>
+    </article>`;
+  if (rest.length) {
+    html += `<h3 class="dn-archive-title">Earlier updates</h3>`;
+    rest.forEach(p => {
+      html += `
+      <details class="dn-archive-item">
+        <summary>${dnFormatDate(p.date)}</summary>
+        <div class="dn-body">${dnBodyToHtml(p.body)}</div>
+      </details>`;
+    });
+  }
+  wrap.innerHTML = html;
+}
+
 function renderJustDropped() {
   const section = document.getElementById("just-dropped");
   const grid = document.getElementById("just-dropped-grid");
@@ -1178,6 +1225,7 @@ function bindSearch() {
 
 document.addEventListener("DOMContentLoaded", () => {
   renderJustDropped();
+  renderDailyNews();
   renderFlyers();
   renderReports();
   renderDocs("all");
