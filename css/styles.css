@@ -115,7 +115,7 @@ em { color: var(--gold-300); font-style: italic; }
 }
 .nav-wrap {
   display: flex; align-items: center; justify-content: space-between;
-  gap: 1.5rem; padding-block: 14px;
+  gap: 0.75rem 1.25rem; flex-wrap: wrap; padding-block: 14px;
 }
 .brand {
   display: flex; align-items: center; gap: 12px;
@@ -140,20 +140,17 @@ em { color: var(--gold-300); font-style: italic; }
   color: var(--ink);
 }
 .primary-nav {
-  display: flex; gap: 0.35rem; align-items: center;
+  display: flex; gap: 0.2rem; align-items: center;
+  flex-wrap: nowrap;
 }
 .primary-nav a {
   color: var(--ink-soft);
-  font-size: 0.93rem;
-  padding: 8px 14px;
+  font-size: 0.85rem;
+  padding: 8px 10px;
   border-radius: 999px;
   font-weight: 400;
   white-space: nowrap;
   transition: color 0.15s, background 0.15s;
-}
-@media (max-width: 1100px) and (min-width: 941px) {
-  .primary-nav a { padding: 8px 10px; font-size: 0.86rem; }
-  .brand-title { font-size: 0.88rem; }
 }
 .primary-nav a:hover {
   color: var(--ink);
@@ -168,6 +165,53 @@ em { color: var(--gold-300); font-style: italic; }
 .primary-nav a.current:not(.cta) {
   color: var(--gold-300);
   background: rgba(245, 185, 66, 0.08);
+}
+
+/* Grouped dropdown menus (Library / Media) */
+.nav-group { position: relative; display: flex; align-items: center; }
+.nav-group-btn {
+  color: var(--ink-soft);
+  font-family: inherit;
+  font-size: 0.85rem;
+  padding: 8px 10px;
+  border: 0; background: transparent; cursor: pointer;
+  border-radius: 999px;
+  white-space: nowrap;
+  display: inline-flex; align-items: center; gap: 5px;
+  transition: color 0.15s, background 0.15s;
+}
+.nav-group-btn:hover,
+.nav-group:focus-within .nav-group-btn {
+  color: var(--ink); background: rgba(255, 246, 215, 0.06);
+}
+.nav-group .caret { font-size: 0.7em; transition: transform 0.15s; }
+.nav-group:hover .caret,
+.nav-group:focus-within .caret { transform: rotate(180deg); }
+.nav-menu {
+  position: absolute; top: 100%; left: 0;
+  min-width: 210px;
+  display: flex; flex-direction: column; gap: 2px;
+  margin-top: 6px; padding: 6px;
+  background: var(--navy-900);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.45);
+  opacity: 0; visibility: hidden; transform: translateY(-6px);
+  transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s;
+  z-index: 200;
+}
+.nav-menu::before {
+  content: ""; position: absolute; top: -8px; left: 0; right: 0; height: 8px;
+}
+.nav-group:hover .nav-menu,
+.nav-group:focus-within .nav-menu {
+  opacity: 1; visibility: visible; transform: translateY(0);
+}
+.nav-menu a {
+  font-size: 0.88rem;
+  padding: 9px 12px;
+  border-radius: 8px;
+  white-space: nowrap;
 }
 
 .nav-toggle {
@@ -211,6 +255,23 @@ em { color: var(--gold-300); font-style: italic; }
   .nav-open .nav-toggle span:nth-child(1) { transform: translateY(6px) rotate(45deg); }
   .nav-open .nav-toggle span:nth-child(2) { opacity: 0; }
   .nav-open .nav-toggle span:nth-child(3) { transform: translateY(-6px) rotate(-45deg); }
+
+  /* Flatten dropdown groups inside the mobile drawer */
+  .nav-group { display: block; position: static; }
+  .nav-group-btn {
+    width: 100%; justify-content: space-between;
+    padding: 12px 14px; border-radius: 8px;
+    border-bottom: 1px solid var(--line);
+    font-size: 1rem; color: var(--ink-soft);
+  }
+  .nav-menu {
+    position: static; opacity: 1; visibility: visible; transform: none;
+    margin: 0; padding: 0; min-width: 0;
+    background: transparent; border: 0; box-shadow: none;
+  }
+  .nav-menu::before { display: none; }
+  .nav-menu a { padding-left: 30px; }
+  .nav-group .caret { display: none; }
 }
 
 /* ─────────── HERO ─────────── */
