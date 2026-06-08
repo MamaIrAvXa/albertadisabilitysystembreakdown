@@ -9,6 +9,41 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-07",
+  title: "Where Things Stand — June 7, 2026",
+  body: `Hi everyone. We are just over three weeks out now, so here is the whole picture in plain words, in one place.
+
+## WHAT HAPPENS ON JULY 1
+On July 1, every person on AISH is automatically moved to the new program, ADAP, unless you fall into one of the groups that stay on AISH automatically. The law calls the date July 2, so you will see both. Roughly 79,000 of us are in this transition.
+
+## THE MONEY
+ADAP pays $1,740 a month. AISH is $1,940. That is $200 a month less. But if you are on AISH now and you get moved, a $200 top-up holds your payment at your current amount until December 31, 2027. The cut lands in January 2028. So this is a cut on a timer, not extra money. It helps to plan for it now, while there is time.
+
+## WHO STAYS ON AISH WITHOUT DOING ANYTHING
+You stay on AISH automatically, and you do not need to act, if you have a severe or profound developmental disability or are eligible for PDD services; have a palliative or terminal condition; live in continuing care; or are 60 or older. If that is you, you are not being moved.
+
+## IF YOU ARE MOVED AND YOU CANNOT WORK
+You can ask to be reassessed and stay on AISH. There is no deadline for this, and the government covers the cost of one medical assessment. You do not need a brand new diagnosis. You lean on the evidence you already have, your specialist letters, your history, anything that shows your disability and that it has not changed.
+
+The form is the online application at aish.alberta.ca, or you can call Alberta Supports at 1-877-644-9992 and they will help you. Start it now if you want, but do not submit it until July 2 or later, because new questions get added on July 2 and sending the old version early just slows you down.
+
+## THE APPEAL WINDOW CLOSES JUNE 30
+Short and important. The move itself cannot be appealed, and the medical panel decision is final. But if you have an AISH decision already on your file that you want to challenge, the old appeal window closes June 30. Appealing and asking to be reassessed are two separate paths, and you can do both. I filed my own appeal already; I will not ask anyone to do what I have not done myself. It may not change the outcome, but you either keep a right, or you put on the record that it was taken. Either way you come away with something.
+
+## YOUR FEDERAL MONEY AND YOUR TAXES (PLEASE READ THIS ONE)
+The next federal Canada Disability Benefit payment is June 18. Here is what matters for us in Alberta. We are the only province that takes the federal disability money back dollar for dollar, so most of us see no extra cash from it. But you still have to keep your application for it active, or you get docked $200 a month whether you receive the benefit or not.
+
+So if you have not filed your 2025 taxes, please file them now. From July the federal benefit uses your 2025 return, and an unfiled return can pause everything and trigger that $200 penalty. Filing protects you.
+
+## AUGUST, IF YOU ARE A COUPLE
+Starting in August, if you and your partner both get AISH or ADAP and you live together, you will each get 88 percent of the full amount instead of the full amount. That is a cut at the household level. If this is you, plan for it now.
+
+## ADD YOUR VOICE
+We have a ready-to-send letter to the Minister in the Take Action section. You can type right into it or copy it, whatever is easier. Your story is the evidence. Send it to the Minister, and send a copy to your own MLA, your worker if you have one, Marie Renaud, and your local media. There is a list in the file. The more of us who write, the harder we are to ignore.
+
+None of this is too late to act on. We stand together, or we get moved one at a time. Take it one piece at a time, and ask here if anything is unclear. We will sort it out together.`
+},
+{
   date: "2026-06-06",
   title: "Where Things Stand — June 6, 2026",
   body: `Here is the plain version of where everything sits tonight. No jargon, just what is happening and what it means for you. We are about 26 days from the big change. Take it one piece at a time.
