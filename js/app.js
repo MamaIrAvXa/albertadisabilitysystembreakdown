@@ -582,6 +582,7 @@ const JUST_DROPPED_DAYS = 7;
 // They are hardcoded as cards in the Take Action section; add one here with a
 // `released` date when it should also appear in the new-release feed.
 const ACTION_FORMS = [
+  { title: "Letter to the Minister", desc: "A letter anyone can send to the Minister responsible for AISH and ADAP, making the human-rights case against being moved to ADAP with no new individual assessment and no independent appeal. Fill in your own story; copy your MLA, the Opposition critic, and local media.", file: "/pdfs/fillable/Fillable_Letter_to_the_Minister_AISH_to_ADAP_June2026.pdf", released: "2026-06-06" },
   { title: "CDB $200 Deduction Correction Letter", desc: "File-correction letter for when the $200 Canada Disability Benefit amount was deducted but does not match the CDB status you reported.", file: "/pdfs/fillable/Fillable_CDB_200_Deduction_Correction_Letter.pdf", released: "2026-06-05" },
   { title: "AISH Appeal Letter", desc: "A formal Notice of Appeal letter for an AISH decision \u2014 fillable, or ready to print and sign.", file: "/pdfs/fillable/AISH_Appeal_Letter_Fillable_June2026.pdf", released: "2026-06-03" },
   { title: "Exemption Category Correction Request", desc: "For people in an automatic AISH-retention category (PDD, palliative/terminal, continuing care, or 60+) who received an ADAP letter anyway \u2014 a request to correct the error, not an appeal.", file: "/pdfs/fillable/ADSB_Exemption_Category_Correction_Request.pdf", released: "2026-06-03" },
