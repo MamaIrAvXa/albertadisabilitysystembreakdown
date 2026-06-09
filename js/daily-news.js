@@ -9,6 +9,42 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-08",
+  title: "Where Things Stand — June 8, 2026",
+  body: `Hi everyone. We are about three weeks out from the July 1 changeover, so here is where things stand right now, in plain language, with the dates that matter and what you can do this month.
+
+## DATES TO CIRCLE
+June 18 is the next federal disability payment (CDB). June 30 is the last day to file an AISH appeal under the current process. July 1 is when ADAP becomes the program (July 2 is the legal date). August brings the 88 percent rule for couples. December 31, 2027 is when the transition top-up ends. January 2028 is when the lower base rate becomes permanent.
+
+## THIS WEEK, TAXES ARE THE URGENT ONE
+The next Canada Disability Benefit payment lands June 18. To keep getting it, your 2025 taxes need to be filed. If they are not filed, the CDB can be paused in July. And because Alberta requires you to keep a CDB application active or take a penalty, an unfiled return can cost you twice. If your taxes are not in yet, please get them filed now. Free tax clinics can help. See canada.ca/disability for the CDB.
+
+## THE APPEAL WINDOW CLOSES JUNE 30
+If you want to appeal an AISH decision, the last day under the current process is June 30. I will not soften the hard part: the transition itself was written to be non-appealable. File anyway. It keeps your right on the record, and you come away with something either way. You can file by phone or email with the Appeals Secretariat at 780-427-2709 or alss.appeals@gov.ab.ca. You do not need a copy of your file first; once the appeal is open, they pull your file into it.
+
+## WHAT JULY 1 MEANS
+If you are on AISH now, unless you fall into one of the keep-AISH groups below, you are being moved to ADAP. Here is the part to hold onto: your money does not drop on July 1. ADAP's base is $1,740, which is $200 below AISH's $1,940, but a $200 transition top-up holds your payment at the old amount until December 31, 2027. The real cut lands January 2028. So this is a cut on a timer, not a cut today.
+
+You stay on AISH automatically if you have a severe or profound developmental disability, or are eligible for PDD services; have a palliative or terminal condition; live in continuing care; or are 60 or older at the switch. If you turn 60 right around the transition, watch it closely and ask in writing how your file is being handled.
+
+## HOW TO FIGHT TO STAY ON AISH
+There is a path to stay on, or return to, AISH, and it has no deadline, so there is no need to panic about it. It runs through your doctor. Your doctor completes a form called the Disability Assistance Medical Report, and that, with an AISH application, is the engine. You can start it by calling the AISH Application Processing Centre at 1-877-759-6810. The appeal and the reassessment are two separate doors. You can do both.
+
+## THE 88 PERCENT RULE FOR COUPLES STARTS IN AUGUST
+From the August benefit period, where two adults in one home both receive AISH or ADAP, each will get 88 percent of the maximum instead of the full amount. If that is you, plan for it now.
+
+## THE "YOU CAN EARN MORE ON ADAP" CLAIM
+This one is now confirmed from the government's own documents, so here are the real numbers. Today, a single person on AISH can earn $1,072 a month from work before their benefit is touched. On July 1 that exemption is cut. If you stay on AISH it drops to $350 a month, and above $350 AISH takes back a dollar of benefit for every dollar you earn. On ADAP it is $700 a month. So when they say ADAP lets you earn more, they mean more than the $350 they just cut AISH to, not more than the $1,072 AISH allows today. Both new numbers sit below what AISH allows right now. There is a one-page sheet that lays it out side by side in the Flyers section.
+
+## WHERE THE PAUSE CAMPAIGN STANDS
+A growing list of councils, including Calgary, Edmonton, Red Deer, Lethbridge, Camrose, and Rocky Mountain House, have asked the province to pause and consult. The province has said no for now. That does not mean it is over. The next provincial election falls in October 2027, before the January 2028 cut lands, and that timing is leverage, not despair.
+
+## WHAT TO DO THIS MONTH, IF YOU CAN
+File your 2025 taxes if they are not in. If you want to appeal, file by June 30. Read your transition letter, the whole thing. And if you want to stay on AISH, call 1-877-759-6810 and talk to your doctor about the medical report.
+
+You are not behind, and you are not alone in this. Bring your letters and your questions here and we will work through them one at a time. That is what this page is for.`
+},
+{
   date: "2026-06-07",
   title: "Where Things Stand — June 7, 2026",
   body: `Hi everyone. We are just over three weeks out now, so here is the whole picture in plain words, in one place.
