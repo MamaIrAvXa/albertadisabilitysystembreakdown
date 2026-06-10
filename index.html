@@ -59,6 +59,19 @@
 .dn-archive-item[open] summary { border-bottom: 1px solid var(--line, rgba(255,255,255,0.08)); }
 .dn-archive-item .dn-body { padding: 1rem 0 1.2rem; }
 </style>
+<style>
+/* Pinned time-sensitive actions — self-contained, var fallbacks */
+.pinned-actions { padding: 1.5rem 0 0.25rem; }
+.pinned-inner { background: linear-gradient(180deg, rgba(245,185,66,0.08), rgba(245,185,66,0.02)); border: 1px solid var(--gold-400, #f5b942); border-radius: 16px; padding: 1.4rem 1.5rem; }
+.pinned-eyebrow { font-family: var(--font-mono, ui-monospace, monospace); font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; color: var(--gold-400, #f5b942); margin: 0 0 1rem; }
+.pinned-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.4rem; }
+@media (max-width: 720px) { .pinned-grid { grid-template-columns: 1fr; } }
+.pinned-card h3 { margin: 0 0 .4rem; font-size: 1.15rem; color: var(--ink, #eef3fa); }
+.pinned-card p { color: var(--ink-soft, #c7d3e4); line-height: 1.55; margin: 0 0 .9rem; }
+.pinned-card strong { color: var(--gold-300, #f7cd77); }
+.pinned-btns { display: flex; flex-wrap: wrap; gap: .6rem; }
+.pinned-note { font-size: .8rem; opacity: .75; margin: .7rem 0 0 !important; }
+</style>
 </head>
 <body>
 
@@ -136,6 +149,33 @@
       <span class="meta-pill">Free to distribute</span>
       <span class="meta-pill">All sourced</span>
     </p>
+  </div>
+</section>
+
+<!-- ───────────── PINNED: TIME-SENSITIVE ACTIONS ───────────── -->
+<section id="act-now" class="pinned-actions">
+  <div class="wrap">
+    <div class="pinned-inner">
+      <p class="pinned-eyebrow">⏳ Time-sensitive — act now</p>
+      <div class="pinned-grid">
+        <div class="pinned-card">
+          <h3>Appeal an AISH decision</h3>
+          <p>The window to appeal an existing AISH decision closes <strong>June 30</strong>. The government accepts a signed written letter, so you don't need their online form. The appeal is already written — you just add your details.</p>
+          <div class="pinned-btns">
+            <a class="btn btn-primary" href="/pdfs/fillable/AISH_Appeal_Letter_Fillable_June2026.pdf" target="_blank" rel="noopener">Open fillable</a>
+            <a class="btn btn-ghost-sm" href="/pdfs/fillable/AISH_Appeal_Letter_ReadyToPrint_and_Sign_June2026.pdf" target="_blank" rel="noopener">Print &amp; sign</a>
+          </div>
+        </div>
+        <div class="pinned-card">
+          <h3>Request your own AISH file</h3>
+          <p>Get a free copy of your own AISH file through Access to Information, so you can see what's on record and catch any gaps before a reassessment or appeal. They have 30 days to respond, so request early.</p>
+          <div class="pinned-btns">
+            <a class="btn btn-primary" href="/pdfs/government-form-originals/government-forms/access-to-information-request-form-atia.pdf" target="_blank" rel="noopener">Open ATIA form</a>
+          </div>
+          <p class="pinned-note">Government form — save it, then open in Adobe Reader. It will not open inside a web browser.</p>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 
