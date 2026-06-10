@@ -1183,6 +1183,22 @@ function buildSearchIndex() {
     label: "Ministerial · " + m.type, title: m.title, desc: m.desc,
     href: "/pdfs/ministerial-correspondence/" + encodeURIComponent(m.file)
   }));
+  // Take Action fillable forms — read straight from the cards on the page,
+  // so every form (current and future) is searchable with no duplicate data.
+  if (typeof document !== "undefined") {
+    document.querySelectorAll("#take-action .action-card").forEach(card => {
+      const h = card.querySelector("h3");
+      const a = card.querySelector("a[href]");
+      if (!h || !a) return;
+      const p = card.querySelector("p");
+      idx.push({
+        label: "Take Action",
+        title: h.textContent.trim(),
+        desc: p ? p.textContent.trim() : "",
+        href: a.getAttribute("href")
+      });
+    });
+  }
   return idx;
 }
 function searchIndex() {
@@ -1203,7 +1219,7 @@ function renderSearch(q) {
   }
   const tokens = query.split(/\s+/);
   const results = searchIndex().filter(it => {
-    const hay = (it.title + " " + it.desc + " " + it.label).toLowerCase();
+    const hay = (it.title + " " + it.desc + " " + it.label + " " + (it.href || "")).toLowerCase();
     return tokens.every(t => hay.includes(t));
   });
   if (count) count.textContent = results.length + (results.length === 1 ? " match" : " matches");
