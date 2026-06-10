@@ -9,6 +9,40 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-09",
+  title: "Where Things Stand — June 9, 2026",
+  body: `Hi everyone. We are just over three weeks out now, so here is the whole picture in plain words, in one place.
+
+## WHAT HAPPENS IN JULY
+On the July benefit period, every person on AISH is automatically moved to the new program, ADAP, unless you fall into one of the groups that stay on AISH automatically. Program messaging says July 1, the law says July 2, so you will see both dates. Roughly 79,000 of us are in this transition.
+
+## THE MONEY
+ADAP pays $1,740 a month. AISH is $1,940. That is $200 a month less. But if you are on AISH now and you get moved, a $200 top-up holds your payment at your current amount until December 31, 2027. The cut lands in January 2028. So this is a cut on a timer, not extra money. And one more thing that matters long term: AISH and ADAP are no longer tied to inflation. Raises now only happen if the government chooses to make one. Plan for the cut now, while there is time.
+
+## WHO STAYS ON AISH WITHOUT DOING ANYTHING
+You stay on AISH automatically, and you do not need to act, if you have a severe or profound developmental disability or are eligible for PDD services, have a palliative or terminal condition, live in continuing care, or are 60 or older. If that is you, you are not being moved. If you fit one of these and still got an ADAP letter, that is likely an error worth flagging — we are seeing those corrections happen.
+
+## IF YOU ARE MOVED AND YOU CANNOT WORK
+You can ask to be reassessed and stay on AISH. There is no deadline for this, and the government covers one medical assessment. You do not need a brand new diagnosis. You lean on the evidence you already have, your specialist letters, your history, anything that shows your disability and that it has not changed. One important tip: ask your doctor to speak to whether your condition is permanent or long lasting, and how it affects your ability to work. Those two things are what AISH actually decides on, and a letter that only lists diagnoses can fall short. Start the application at aish.alberta.ca, or call Alberta Supports at 1-877-644-9992. Begin it now if you like, but do not submit before July 2, because new questions get added then and sending the old version early just slows you down.
+
+## THE APPEAL WINDOW CLOSES JUNE 30
+Short and important. The move itself cannot be appealed, and the medical panel decision is final. But if you have an AISH decision already on your file that you want to challenge, the old appeal window closes June 30. Appealing and asking to be reassessed are two separate paths, and you can do both. I filed my own appeal already. It may not change the outcome, but you either keep a right, or you put on the record that it was taken. The Appeals Secretariat is at 780-427-2709 or alss.appeals@gov.ab.ca.
+
+## YOUR FEDERAL MONEY AND YOUR TAXES (PLEASE READ THIS ONE)
+The federal Canada Disability Benefit goes up to about $204 a month for the July benefit year. Here is what matters for us in Alberta. We are the only province that claws this money back dollar for dollar, so most of us will see no extra cash from it. But you still have to keep your application for it active, or you get docked $200 a month whether you receive the benefit or not. So if you have not filed your 2025 taxes, please file them now. From July the federal benefit uses your 2025 return, and an unfiled return can pause everything and trigger that penalty. Filing protects you.
+
+## AUGUST, IF YOU ARE A COUPLE
+Starting in the August benefit period, two changes hit households where both partners get AISH or ADAP. First, you will each get 88 percent of the full amount instead of the full amount. Second, the income exemption for a working spouse or partner is being cut from $2,612 to $1,500. One couple told the news they expected the transition loss but not the extra roughly $470 a month they lose just for being a couple living together. If this is you, plan for it now.
+
+## GET YOUR OWN FILE
+Worth knowing: you can request a full copy of your own AISH file for free, because it is your own information. It lets you see what is actually on record, and catch any gaps, before a reassessment. You request it through the Access to Information service at alberta.ca. They have 30 days to respond and tell you the next steps; the actual file can take a bit longer to arrive, so request early.
+
+## ADD YOUR VOICE
+There is a ready-to-send accountability submission in the Take Action section now — you can fill it in with your own story and send it to the Minister, your own MLA, and across every party. Your story is the evidence. A growing list of city and town councils — Edmonton, Calgary, Red Deer, Lethbridge, Camrose, Claresholm, Rocky Mountain House, Cold Lake — have publicly asked the province to pause and rethink this. We are not alone, and we are not quiet.
+
+None of this is too late to act on. We stand together, or we get moved one at a time. Take it one piece at a time, and ask here if anything is unclear. We will sort it out together.`
+},
+{
   date: "2026-06-08",
   title: "Where Things Stand — June 8, 2026",
   body: `Hi everyone. We are about three weeks out from the July 1 changeover, so here is where things stand right now, in plain language, with the dates that matter and what you can do this month.
