@@ -9,6 +9,47 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-11",
+  title: "Where Things Stand — June 11, 2026",
+  body: `Nothing brand new landed today, so this is a clear picture of where we are with about three weeks to go. Read the parts that affect you and skip the rest. If anything here is confusing, bring it here.
+
+## THE BIG DATE: JULY 2
+In about three weeks, the new program (ADAP) begins. If you are on AISH now, you will be moved to it automatically, unless you are 60 or older, in continuing care, terminally ill, or have a developmental disability or PDD eligibility. You may see the government say July 1. The legal date is July 2.
+
+## THE LETTERS
+Watch your mailbox. The government is mailing letters about your benefits, and they are hard to follow. If yours is unclear or upsetting, bring it here and we will read it together. Some letters carry hard news, especially for couples.
+
+## THE MONEY
+ADAP pays $200 less than AISH, $1,740 a month instead of $1,940. The "$200 transition benefit" you may see is not extra money. It holds your cheque at the current amount until the end of 2027, and then the cut becomes permanent in January 2028. So your cheque does not drop right now. You have time.
+
+## COUPLES (STARTS AUGUST)
+Starting in August, if you and your partner both receive disability money, each of you drops to 88 percent of the maximum. For some couples that is hundreds of dollars a month, lost for being married.
+
+## THE FEDERAL BENEFIT (CDB)
+The federal Canada Disability Benefit rises to $204 a month in July. But Alberta is the only province that claws it back dollar for dollar, so you do not keep more. And you must apply for it, and for the Disability Tax Credit, or Alberta can cut up to $200 from your cheque whether you receive the federal benefit or not. If you get less than the full amount, tell AISH in writing so they only deduct what you really get.
+
+## IF YOU WORK
+The amount you can earn before it affects your cheque is being cut. The letters list $700 a month for a single person on ADAP, down from $1,072 now. Other situations, like single parents and couples, are less clear, and the government still has not published how fast they claw back earnings above that line. So if you work, get your exact number in writing before you count on it.
+
+## THE THREE DOORS (THE PART YOU CAN ACT ON)
+Door one, appeal. If you want to appeal the move, the window closes June 30. File it even if they tell you it is not appealable, and ask them to put any refusal in writing.
+
+Door two, reassessment to stay on AISH. If your disability prevents you from working, you can apply to be reassessed for AISH. There is no deadline, and the government covers one medical assessment. Ask your doctor to document that it is permanent and how it affects your ability to work.
+
+Door three, correction. If you are 60 or older, in continuing care, terminally ill, or have a developmental disability or PDD, and you still got a move letter, that is a coding mistake and it can be corrected.
+
+You are allowed to use more than one door.
+
+## WHAT IS NOT CHANGING YET
+Your cheque holds until the end of 2027. Reassessment has no deadline. So please do not panic. We do this steadily, one step at a time.
+
+## THE PRESSURE IS BUILDING
+More than ten town and city councils have now asked the province to pause or slow these changes, Cold Lake the most recent. There is a new minister over disability benefits, Nathan Neudorf. The next provincial election is in October 2027, before the permanent cut is set to land in 2028. And the province is pausing new deposits into its roughly $31.9 billion Heritage savings fund while cutting $200 a month from disabled Albertans. People see that. The noise is growing, and so are we.
+
+## WHAT YOU CAN DO
+Ask everything in writing and keep copies. Bring confusing letters here. The forms and plain-language guides are on our site. And whatever this week has felt like, you are not facing it alone.`
+},
+{
   date: "2026-06-10",
   title: "Where Things Stand — June 10, 2026",
   body: `Hi everyone. We are about three weeks out now, so here is the whole picture in plain words, in one place. Take it one piece at a time. You do not have to act on all of it today, and you do not have to do any of it alone.

@@ -77,6 +77,17 @@
 .pinned-btns { display: flex; flex-wrap: wrap; gap: .6rem; }
 .pinned-note { font-size: .8rem; opacity: .75; margin: .7rem 0 0 !important; }
 </style>
+<style>
+/* Event pop-up */
+.event-popup { position: fixed; inset: 0; z-index: 1000; display: flex; align-items: center; justify-content: center; padding: 20px; }
+.event-popup[hidden] { display: none; }
+.event-popup-backdrop { position: absolute; inset: 0; background: rgba(2, 8, 20, 0.82); -webkit-backdrop-filter: blur(3px); backdrop-filter: blur(3px); }
+.event-popup-box { position: relative; z-index: 1; max-width: 520px; width: 100%; max-height: 92vh; }
+.event-popup-img { width: 100%; height: auto; max-height: 92vh; object-fit: contain; border-radius: 12px; box-shadow: 0 24px 70px rgba(0,0,0,0.6); display: block; }
+.event-popup-close { position: absolute; top: -14px; right: -14px; width: 42px; height: 42px; border-radius: 50%; border: 2px solid rgba(255,255,255,0.9); background: #0b1220; color: #fff; font-size: 1.6rem; line-height: 1; cursor: pointer; z-index: 2; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 16px rgba(0,0,0,0.55); padding: 0; }
+.event-popup-close:hover { background: #1a2740; }
+@media (max-width: 560px) { .event-popup-close { top: 6px; right: 6px; } }
+</style>
 </head>
 <body>
 
@@ -816,6 +827,38 @@
   </div>
 </footer>
 
+<!-- ───────────── EVENT POP-UP (July 1 teach-in) ───────────── -->
+<div id="event-popup" class="event-popup" role="dialog" aria-modal="true" aria-label="Join the protest — public teach-in, July 1, 2026" hidden>
+  <div class="event-popup-backdrop" data-close></div>
+  <div class="event-popup-box">
+    <button class="event-popup-close" type="button" data-close aria-label="Close">&times;</button>
+    <img class="event-popup-img" src="/assets/protest-teach-in-july1.png" alt="Join the protest: a public teach-in on the AISH-to-ADAP transition. Wednesday, July 1, 2026, 10 AM to 4 PM, Alberta Legislature Grounds, Edmonton. Co-hosted by Chantal and Gavin.">
+  </div>
+</div>
+<script>
+(function () {
+  var popup = document.getElementById("event-popup");
+  if (!popup) return;
+  var eventOver = new Date() > new Date("2026-07-02T06:00:00Z"); // ~July 2, 12:00am Mountain
+  var dismissed = false;
+  try { dismissed = sessionStorage.getItem("adsb_event_popup") === "1"; } catch (e) {}
+  if (!eventOver && !dismissed) {
+    popup.hidden = false;
+    document.body.style.overflow = "hidden";
+  }
+  function closePopup() {
+    popup.hidden = true;
+    document.body.style.overflow = "";
+    try { sessionStorage.setItem("adsb_event_popup", "1"); } catch (e) {}
+  }
+  Array.prototype.forEach.call(popup.querySelectorAll("[data-close]"), function (el) {
+    el.addEventListener("click", closePopup);
+  });
+  document.addEventListener("keydown", function (e) {
+    if ((e.key === "Escape" || e.key === "Esc") && !popup.hidden) closePopup();
+  });
+})();
+</script>
 <script src="/js/daily-news.js"></script>
 <script src="/js/app.js"></script>
 </body>
