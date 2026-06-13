@@ -9,6 +9,40 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-12",
+  title: "Where Things Stand — June 12, 2026",
+  body: `Hi everyone. A lot is moving at once right now, so let me lay it all out plain, in one place, so you do not have to chase it. Take the piece that is yours and let the rest sit until you need it.
+
+## THE BIG DATE
+The changes become law on July 2, 2026. That is 20 days away. The letter you got in May is the document that tells you what happens to you, whether you stay on AISH or move to ADAP. If you did not get one, or yours looks wrong, do not sit on it. Ask now.
+
+## THE MONEY, IN PLAIN TERMS
+AISH is $1,940 a month. ADAP is $1,740, which is $200 less. There is a $200 amount that holds your cheque at $1,940, but hear me on this. It is not a bonus and it is not new money. It is a freeze on a cut. It holds your payment steady until the end of 2027, and then on January 1, 2028, the cut becomes permanent and you drop to $1,740. So when a letter tells you ADAP is the highest in the country or that you can earn more, read it slowly. Every one of those words is measured against other provinces, never against the AISH you have today.
+
+## THE FEDERAL BENEFIT YOU WILL NOT SEE
+On July 1 the Canada Disability Benefit goes up by four dollars, to $204 a month. But Alberta is the only province that takes the federal disability money straight back off your provincial cheque, dollar for dollar. So that raise does not reach you. Two amounts, and neither one is money in your pocket.
+
+## WHAT YOU KEEP FROM WORKING IS SHRINKING
+Right now on AISH you can earn $1,072 before they claw it back. On July 1 that drops hard, to $350 on AISH and $700 for a single person on ADAP. The partner exemption falls too, from $2,612 to $1,500. And starting in August, if you and another adult on disability live together, you will each get 88 percent of the maximum instead of the full amount.
+
+## THE TWO DOORS, AND THE ONE WITH A CLOCK
+This is the part the official guides keep leaving out, so please read it. There are two ways to fight your placement, and only one has a deadline.
+
+The appeal closes June 30. That is days away. It looks only at what is already in your file, so you do not need the new form, and you can file it right now. Yes, they have said the move to ADAP cannot be appealed. File anyway. Either they hear you, or they put their refusal in writing, and that written no is proof they took a right away. You come away with something either way. The appeal goes to the Appeals Secretariat, alss.appeals@gov.ab.ca or 780-427-2709.
+
+The reassessment is the second door, the medical route back to AISH. It has no deadline, so there is no rush. The form comes out July 2, and the government covers one medical assessment. This is the door for anyone whose disability is permanent and keeps them from working. Do both doors. They are separate.
+
+## BEFORE YOU BELIEVE ANY LETTER
+Put your own numbers into the estimator at alberta.ca/ADAP. It is the only calculator I trust. The third-party ones floating around have wrong figures.
+
+## YOU ARE NOT ALONE IN THIS
+Cities are pushing back. Red Deer, Edmonton, Lethbridge, Camrose and Calgary have all passed or moved motions asking the province to hit pause and study the harm first. And here is the thing to hold onto. The next provincial election is October 2027, before that permanent cut lands in January 2028. Nothing about this is finished.
+
+If your letter confuses you, if a number looks wrong, if you just need someone to walk it through with you, reach out. Or call VAD for free help at 780-488-9088. You do not have to understand all of this tonight. That is what we are here for.
+
+Pick your one piece. Let me carry the rest.`
+},
+{
   date: "2026-06-11",
   title: "Where Things Stand — June 11, 2026",
   body: `Nothing brand new landed today, so this is a clear picture of where we are with about three weeks to go. Read the parts that affect you and skip the rest. If anything here is confusing, bring it here.
