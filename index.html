@@ -69,8 +69,8 @@
 .pinned-actions { padding: 1.5rem 0 0.25rem; }
 .pinned-inner { background: linear-gradient(180deg, rgba(245,185,66,0.08), rgba(245,185,66,0.02)); border: 1px solid var(--gold-400, #f5b942); border-radius: 16px; padding: 1.4rem 1.5rem; }
 .pinned-eyebrow { font-family: var(--font-mono, ui-monospace, monospace); font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; color: var(--gold-400, #f5b942); margin: 0 0 1rem; }
-.pinned-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.4rem; }
-@media (max-width: 720px) { .pinned-grid { grid-template-columns: 1fr; } }
+.pinned-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.4rem; }
+@media (max-width: 480px) { .pinned-grid { grid-template-columns: 1fr; } }
 .pinned-card h3 { margin: 0 0 .4rem; font-size: 1.15rem; color: var(--ink, #eef3fa); }
 .pinned-card p { color: var(--ink-soft, #c7d3e4); line-height: 1.55; margin: 0 0 .9rem; }
 .pinned-card strong { color: var(--gold-300, #f7cd77); }
@@ -189,6 +189,13 @@
             <a class="btn btn-primary" href="/pdfs/government-form-originals/government-forms/access-to-information-request-form-atia.pdf" target="_blank" rel="noopener">Open ATIA form</a>
           </div>
           <p class="pinned-note">Government form — save it, then open in Adobe Reader. It will not open inside a web browser.</p>
+        </div>
+        <div class="pinned-card">
+          <h3>Fix a wrong $200 CDB deduction</h3>
+          <p>Your cheque can be docked $200 for the Canada Disability Benefit even if you were denied it, are still waiting, or were approved for less than the full amount. If that $200 came off but doesn't match your real CDB status, this letter tells AISH to deduct only what you actually receive.</p>
+          <div class="pinned-btns">
+            <a class="btn btn-primary" href="/pdfs/fillable/Fillable_CDB_200_Deduction_Correction_Letter.pdf" target="_blank" rel="noopener">Open letter</a>
+          </div>
         </div>
       </div>
     </div>
