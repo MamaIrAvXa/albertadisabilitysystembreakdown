@@ -9,6 +9,48 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-14",
+  title: "Where Things Stand — June 14, 2026",
+  body: `Before anything else. This has been a heavy week for our community. A lot of you are grieving, and a lot of you are scared. I want to say this plainly: if you are struggling right now, you are not alone, and you do not have to carry it by yourself.
+
+## IF YOU NEED SOMEONE, RIGHT NOW
+You can reach a real person any hour of the day or night.
+
+988 — call or text, any time.
+
+Alberta Mental Health Help Line — 1-877-303-2642.
+
+If you are in immediate danger, 911.
+
+Please reach out to one of those, or to someone you trust, or reach out here. We are here.
+
+## NOW, WHERE THINGS STAND
+The change from AISH to ADAP begins in about two and a half weeks. The program launches July 1, and the law comes into force July 2. It is the biggest change to disability income in this province in a long time, and it is in the news everywhere right now.
+
+Here is what I want you to hold onto. You are not imagining the stakes, and you are not alone in this. The government is defending the change, but the opposition, disability organizations, people living it, and city and town councils across Alberta are all calling for it to be paused or stopped. This community is part of that, and it is being heard.
+
+## WHAT THE PREMIER SAID, AND WHAT THE RECORD SHOWS
+She made three claims worth understanding clearly, because a couple of them can leave people falsely reassured.
+
+She said people can earn up to about $45,000 a year before it affects their benefits. The record: on ADAP, the amount you can earn before your benefits start being reduced is $700 a month. The $45,000 figure is near the point where the benefit disappears entirely, not a level you can earn under with no effect.
+
+She said the $200 cut is made up by the federal government. The record: that only holds if you receive the federal Canada Disability Benefit, which requires an approved Disability Tax Credit that many disabled Albertans are denied. And Alberta is the only province that takes that federal benefit back off your provincial cheque, dollar for dollar. So for many people the $200 is not made up at all, and the lower base becomes permanent in January 2028.
+
+She said Alberta's combined amount is higher than other provinces. The record: that compares Alberta to other provinces, not to the AISH that Albertans already had, which was about the same amount, only now made conditional and temporary.
+
+Every one of those corrections is sourced to government documents and the Premier's own words. Nothing here is guesswork.
+
+## WHAT YOU CAN DO RIGHT NOW
+If you got a letter moving you to ADAP and you want to push back, the appeal window closes June 30. Filing before then puts your objection on the record and keeps your right before that door closes. It is not the only path, and I will help you find the right one for your situation.
+
+You do not have to understand all of this alone. That is what this page is for. Reach out, ask your question, send your letter. If filling out forms is the hard part, I will fill them with you and you just sign.
+
+## WHERE THIS LEAVES US
+We have a clock, and we have a door that is still open. The next two and a half weeks matter, and so does every voice in this community. The thing that carries people through something like this is not facing it alone. It is each other. You found the right place. We are in this together, and I am not going anywhere.
+
+If you are struggling tonight, please use the numbers at the top. They are there for exactly this.`
+},
+{
   date: "2026-06-12",
   title: "Where Things Stand — June 12, 2026",
   body: `Hi everyone. A lot is moving at once right now, so let me lay it all out plain, in one place, so you do not have to chase it. Take the piece that is yours and let the rest sit until you need it.
