@@ -618,7 +618,7 @@ const TESTIMONIALS = [
   {
     title: "In Memory of Bruce",
     by: "Bruce",
-    file: "/pdfs/personal-submission/Bruce Will.pdf",
+    file: "/pdfs/personal-submission/Bruce_Remembrance.pdf",
     readLabel: "Read Bruce's words",
     released: "2026-06-15"
   }
