@@ -614,6 +614,13 @@ const TESTIMONIALS = [
     // body: "paste the story text here to show it inline as a quote (optional)",
     file: "/pdfs/personal-submission/Personal_Story_Submission.pdf",
     released: "2026-06-15"
+  },
+  {
+    title: "In Memory of Bruce",
+    by: "Bruce",
+    file: "/pdfs/personal-submission/Bruce Will.pdf",
+    readLabel: "Read Bruce's words",
+    released: "2026-06-15"
   }
 ];
 
@@ -721,7 +728,7 @@ function renderTestimonials() {
     if (t.title) inner += '<h3 class="tm-title">' + dnEscape(t.title) + "</h3>";
     if (t.body) inner += '<div class="tm-quote">' + dnBodyToHtml(t.body) + "</div>";
     if (byline) inner += '<p class="tm-by">\u2014 ' + dnEscape(byline) + "</p>";
-    if (t.file) inner += '<p class="tm-read"><a class="btn btn-primary" href="' + encodePath(t.file) + '" target="_blank" rel="noopener">Read the full story</a></p>';
+    if (t.file) inner += '<p class="tm-read"><a class="btn btn-primary" href="' + encodePath(t.file) + '" target="_blank" rel="noopener">' + dnEscape(t.readLabel || "Read the full story") + '</a></p>';
     html += '<article class="tm-card">' + inner + "</article>";
   });
   wrap.innerHTML = html;

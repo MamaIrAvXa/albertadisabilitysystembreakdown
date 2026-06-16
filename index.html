@@ -101,6 +101,10 @@
 .tm-read { margin: 1rem 0 0; }
 .tm-notice { margin: 1.4rem 0 0; padding: .85rem 1.1rem; border: 1px solid var(--line,rgba(255,255,255,0.12)); border-left: 3px solid var(--gold-400,#f5b942); border-radius: 10px; background: rgba(245,185,66,0.06); color: var(--ink-soft,#c7d3e4); font-size: .92rem; line-height: 1.55; }
 .tm-notice strong { color: var(--gold-300,#f7cd77); }
+.tm-header { display: grid; grid-template-columns: 230px 1fr; gap: 1.8rem; align-items: center; }
+.tm-rose { width: 100%; max-width: 230px; height: auto; border-radius: 12px; box-shadow: 0 14px 44px rgba(0,0,0,0.45); display: block; }
+.tm-header-text .section-intro { margin-top: .5rem; }
+@media (max-width: 640px) { .tm-header { grid-template-columns: 1fr; justify-items: start; } .tm-rose { max-width: 200px; } }
 </style>
 </head>
 <body>
@@ -273,12 +277,15 @@
 <!-- ───────────── PERSONAL TESTIMONIALS ───────────── -->
 <section id="testimonials" class="testimonials">
   <div class="wrap">
-    <header class="section-head">
-      <p class="eyebrow">In their own words</p>
-      <h2>Personal Testimonials</h2>
-      <p class="section-intro">The numbers tell part of this story. These are the people living it — Albertans sharing, in their own words, what the AISH&nbsp;&rarr;&nbsp;ADAP transition means for their lives. To add yours, reach us at albertadisabilitybreakdown@outlook.com.</p>
-    </header>
-    <p class="tm-notice">Some of these stories are hard to read. If you are struggling, you can call or text <strong>9-8-8</strong> any time, day or night, for support.</p>
+    <div class="tm-header">
+      <img class="tm-rose" src="/pdfs/flyers/posters/785386ff-48b7-485d-8140-3302e6c3a4f7.png" alt="A pink ribbon rose, in remembrance of those who fell without support. We will not forget. We carry you with us.">
+      <div class="tm-header-text">
+        <p class="eyebrow">In their own words</p>
+        <h2>Personal Testimonials</h2>
+        <p class="section-intro">The numbers tell part of this story. These are the people living it — Albertans sharing, in their own words, what the AISH&nbsp;&rarr;&nbsp;ADAP transition means for their lives. To add yours, reach us at albertadisabilitybreakdown@outlook.com.</p>
+        <p class="tm-notice">Some of these stories are hard to read. If you are struggling, you can call or text <strong>9-8-8</strong> any time, day or night, for support.</p>
+      </div>
+    </div>
     <div id="testimonials-feed" class="tm-feed"></div>
   </div>
 </section>
