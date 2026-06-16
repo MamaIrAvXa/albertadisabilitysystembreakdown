@@ -83,6 +83,42 @@ We have a clock, and we have a door that is still open. The next two and a half 
 If you are struggling tonight, please use the numbers at the top. They are there for exactly this.`
 },
 {
+  date: "2026-06-13",
+  title: "Where Things Stand — June 13, 2026",
+  body: `Hi everyone. This has been a heavy and frightening week, and before anything else I want to say this. If it is all feeling like too much, you do not have to carry it alone. The Suicide Crisis Helpline is there day or night, call or text 988, and the Alberta Mental Health Help Line is 1-877-303-2642. Reaching out is not weakness. You matter, and this community has you.
+
+Now let me lay out where things stand, in plain words, so you have solid ground under your feet.
+
+## THE COUNTDOWN
+The switch from AISH to ADAP goes live July 1, with the legal date July 2. That is about eighteen days away. On that day most people on AISH move to the new program, ADAP, unless they fall into a group that stays on AISH automatically.
+
+Here is the part to hold onto. Your money does not drop on July 1. If you are moved to ADAP, a freeze holds your payment at the same amount until the end of December 2027. The $200 cut, from $1,940 down to $1,740, is scheduled to land in January 2028, not now. So you have time, and that time is when the work gets done.
+
+## WHO STAYS ON AISH AUTOMATICALLY
+You stay on AISH without doing anything if you are 60 or older on the change date, have a severe and profound developmental disability or are eligible for PDD, live in continuing care, or have a palliative or terminal condition. If that is you, you will be notified and you do not need to act.
+
+## THE TWO DOORS, AND THIS IS THE IMPORTANT PART
+If you were moved to ADAP and you believe you should be on AISH, you have two separate doors, and you can use both.
+
+The appeal. The window to appeal a decision on your current AISH file closes June 30. If you called and were told there is no appeal, please hear me, that is not the whole truth. You are still an AISH client until July, and you have the right to file. Filing before June 30 keeps that right on the record. I have the form and I will help anyone who needs it.
+
+The reassessment. This is the door back to AISH on the basis that your disability permanently limits your ability to work. It has no deadline, and the government covers the cost of one medical assessment. The appeal and the reassessment are two different paths. Do both.
+
+## THE FEDERAL BENEFIT
+The federal Canada Disability Benefit goes up slightly in July, to $204 a month. Here is the catch. Alberta is the only province that takes that same amount back off your provincial cheque, dollar for dollar. So most people here see no extra money from it. You are still required to apply for it, and a missed application can cost you, so apply, but go in knowing it does not put more in your pocket the way it does everywhere else in Canada.
+
+## WHAT CHANGES IN AUGUST
+Starting the August benefit period, two new rules land. If two people who both receive disability income live together, each will be paid 88 percent of the individual amount instead of the full amount, which cuts some couples by hundreds of dollars a month. And the child benefit rates are being recalculated. If either of these is you, reach out and we will work out what it means for your household.
+
+## THE BIGGER PICTURE
+You are not shouting into nothing. City councils across Alberta, including the ten in our coalition, are on record asking the province to pause this. The pressure to slow it down is growing, not fading. And the next provincial election comes before that permanent 2028 cut, which means none of this is carved in stone yet.
+
+## WHAT YOU CAN DO THIS WEEK
+Get a copy of your AISH file so you can see what they have on record — it is free and I have the form. File your appeal before June 30. Start your reassessment, no rush, no deadline. And ask for everything in writing, every time. Those four things put the power back in your hands.
+
+You found the right place. Bring your questions, your letters, your fear, all of it, here. We do this together.`
+},
+{
   date: "2026-06-12",
   title: "Where Things Stand — June 12, 2026",
   body: `Hi everyone. A lot is moving at once right now, so let me lay it all out plain, in one place, so you do not have to chase it. Take the piece that is yours and let the rest sit until you need it.
