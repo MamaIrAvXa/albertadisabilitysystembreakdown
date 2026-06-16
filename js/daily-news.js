@@ -9,6 +9,38 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-15",
+  title: "Where Things Stand — June 15, 2026",
+  body: `Before anything else today. If you are struggling right now, you are not alone, and help is here this minute.
+
+## IF YOU NEED SOMEONE, RIGHT NOW
+You can call or text 988 any time, day or night. In Alberta you can call 211 to be connected to mental health support, or the Alberta Mental Health Help Line at 1-877-303-2642. If you are in immediate danger, call 911. Please reach for one of these before you reach the end of your rope. You matter to this community, and we need you here.
+
+## WE LOST ONE OF OUR OWN
+This week we lost one of our own. Bruce, an Albertan who had been on disability for many years, died, and he left words about how frightened and worn down this transition left him. I am not going to say more than that, out of respect for him and for all of you who are feeling it. I will only say this: the fear so many of you have carried is real, it is shared, and it is not a weakness in you. It is a rational response to being put through something frightening. If this news has hit you hard, please be gentle with yourself today, and please use the numbers above if you need them. One advocate put it the way I most want you to hear it: we need you here, we need you fighting. Your life matters more than this fight.
+
+## NOW, WHERE THINGS STAND
+Here, plainly, is what is real and what to do.
+
+## THE DATES THAT MATTER IN THE NEXT TWO WEEKS
+June 30 is the last day to file an AISH appeal. This is the one with a hard deadline. If you want to appeal being moved to ADAP, the old appeal process is still open until then. Filing costs you nothing and keeps a right open. We have the form, and I will help you fill it in. Do not let this one slip past.
+
+July 1 is when the ADAP program launches. July 2 is when the legal changes officially take effect. Most people on AISH will be moved to ADAP unless they are in an exempt group.
+
+## ABOUT THE NEWS THAT THE FEDERAL BENEFIT IS "GOING UP"
+You may see headlines this week that the Canada Disability Benefit is rising from $200 to $204 a month in July. That part is true. But here is what the headlines will not tell you, and I want you to hear it from us first.
+
+In Alberta, your total does not go up. Alberta is the only province that takes the federal benefit back, dollar for dollar. Ottawa adds $204, Alberta subtracts $204 from your AISH or ADAP, and your cheque lands in the same place it always does. It is not a new cut, and you are not losing an extra $4. It simply means that the small federal increase everyone else in Canada gets to keep does not reach your pocket here. So if you felt a flicker of hope at "$204," I am sorry to be the one to say it does not turn into dollars for us. That difference, that we are the only province that does this, is exactly what we keep putting on the record.
+
+## THE TWO PATHS, ONE MORE TIME
+If you are being moved to ADAP, there are two separate things you can do, and you can do both. The appeal, with the June 30 deadline, is one. The reassessment to stay on AISH, which rests on your disability permanently limiting your ability to work, is the other, and it has no deadline. The appeal is the one on the clock. If you are not sure which applies to you, ask here and we will sort it together.
+
+## WHAT I AM ASKING OF YOU THIS WEEK
+Get your appeal in before June 30 if you want one. Watch your own statements when payments land, and if a number looks wrong, take a screenshot and ask AISH in writing to explain it. And look out for each other. Check on the people in your life who have gone quiet. We are stronger held together than any of us is alone.
+
+We are still in this, and we are still in it together.`
+},
+{
   date: "2026-06-14",
   title: "Where Things Stand — June 14, 2026",
   body: `Before anything else. This has been a heavy week for our community. A lot of you are grieving, and a lot of you are scared. I want to say this plainly: if you are struggling right now, you are not alone, and you do not have to carry it by yourself.

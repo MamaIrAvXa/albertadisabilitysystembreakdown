@@ -607,6 +607,16 @@ function formatReleaseDate(dateStr) {
   return d.toLocaleDateString("en-CA", { year: "numeric", month: "short", day: "numeric" });
 }
 
+const TESTIMONIALS = [
+  {
+    title: "A Personal Story",
+    by: "A member of our community",
+    // body: "paste the story text here to show it inline as a quote (optional)",
+    file: "/pdfs/personal-submission/Personal_Story_Submission.pdf",
+    released: "2026-06-15"
+  }
+];
+
 function collectJustDropped() {
   const items = [];
 
@@ -682,9 +692,39 @@ function collectJustDropped() {
     }
   });
 
+  // Personal testimonials
+  TESTIMONIALS.forEach(t => {
+    if (withinWindow(t.released)) {
+      items.push({
+        kind: "Story",
+        title: t.title || "A personal story",
+        desc: t.by ? "Shared by " + (t.location ? t.by + ", " + t.location : t.by) : "A personal testimonial.",
+        href: t.file ? encodePath(t.file) : "#testimonials",
+        released: t.released,
+        category: "Personal Testimonial"
+      });
+    }
+  });
+
   // Newest first
   items.sort((a, b) => b.released.localeCompare(a.released));
   return items;
+}
+
+function renderTestimonials() {
+  const wrap = document.getElementById("testimonials-feed");
+  if (!wrap || typeof TESTIMONIALS === "undefined" || !TESTIMONIALS.length) return;
+  let html = "";
+  TESTIMONIALS.forEach(t => {
+    const byline = t.by ? (t.location ? t.by + ", " + t.location : t.by) : "";
+    let inner = "";
+    if (t.title) inner += '<h3 class="tm-title">' + dnEscape(t.title) + "</h3>";
+    if (t.body) inner += '<div class="tm-quote">' + dnBodyToHtml(t.body) + "</div>";
+    if (byline) inner += '<p class="tm-by">\u2014 ' + dnEscape(byline) + "</p>";
+    if (t.file) inner += '<p class="tm-read"><a class="btn btn-primary" href="' + encodePath(t.file) + '" target="_blank" rel="noopener">Read the full story</a></p>';
+    html += '<article class="tm-card">' + inner + "</article>";
+  });
+  wrap.innerHTML = html;
 }
 
 // ─── Daily Accessible News ("Where Things Stand") ───
@@ -1184,6 +1224,17 @@ function buildSearchIndex() {
     label: "Ministerial · " + m.type, title: m.title, desc: m.desc,
     href: "/pdfs/ministerial-correspondence/" + encodeURIComponent(m.file)
   }));
+  // Personal testimonials
+  if (typeof TESTIMONIALS !== "undefined") {
+    TESTIMONIALS.forEach(t => {
+      idx.push({
+        label: "Personal Testimonial",
+        title: t.title || "A personal story",
+        desc: (t.body || "") + " " + (t.by || ""),
+        href: t.file ? encodePath(t.file) : "#testimonials"
+      });
+    });
+  }
   // Take Action fillable forms — read straight from the cards on the page,
   // so every form (current and future) is searchable with no duplicate data.
   if (typeof document !== "undefined") {
@@ -1246,6 +1297,7 @@ function bindSearch() {
 document.addEventListener("DOMContentLoaded", () => {
   renderJustDropped();
   renderDailyNews();
+  renderTestimonials();
   renderFlyers();
   renderReports();
   renderDocs("all");

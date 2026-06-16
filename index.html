@@ -88,6 +88,20 @@
 .event-popup-close:hover { background: #1a2740; }
 @media (max-width: 560px) { .event-popup-close { top: 6px; right: 6px; } }
 </style>
+<style>
+/* Personal Testimonials */
+.testimonials { padding: 4rem 0; }
+.testimonials .section-intro { color: var(--ink-soft,#c7d3e4); max-width:62ch; margin-top:.5rem; line-height:1.6; }
+.tm-feed { margin-top: 1.6rem; display: flex; flex-direction: column; gap: 1.2rem; }
+.tm-card { background: var(--surface,#081a36); border: 1px solid var(--line,rgba(255,255,255,0.08)); border-left: 3px solid var(--gold-400,#f5b942); border-radius: 14px; padding: 1.5rem 1.7rem; }
+.tm-title { margin: 0 0 .8rem; font-size: 1.2rem; color: var(--ink,#eef3fa); }
+.tm-quote p { color: var(--ink,#eef3fa); line-height: 1.7; margin: 0 0 .9rem; font-size: 1.02rem; }
+.tm-quote .dn-h { font-family: var(--font-mono,ui-monospace,monospace); font-size:.8rem; letter-spacing:.07em; text-transform:uppercase; color: var(--gold-300,#f7cd77); margin:1.2rem 0 .5rem; }
+.tm-by { color: var(--gold-300,#f7cd77); font-style: italic; margin: .4rem 0 0; }
+.tm-read { margin: 1rem 0 0; }
+.tm-notice { margin: 1.4rem 0 0; padding: .85rem 1.1rem; border: 1px solid var(--line,rgba(255,255,255,0.12)); border-left: 3px solid var(--gold-400,#f5b942); border-radius: 10px; background: rgba(245,185,66,0.06); color: var(--ink-soft,#c7d3e4); font-size: .92rem; line-height: 1.55; }
+.tm-notice strong { color: var(--gold-300,#f7cd77); }
+</style>
 </head>
 <body>
 
@@ -110,6 +124,7 @@
       <a href="#search">Search</a>
       <a href="#just-dropped" class="nav-new">Just Dropped</a>
       <a href="#daily-news">Daily News</a>
+      <a href="#testimonials">Testimonials</a>
       <a href="#system">The System</a>
       <a href="#numbers">Numbers</a>
       <a href="#appeals">Appeals</a>
@@ -252,6 +267,19 @@
       <p class="section-intro"><strong>Where Things Stand</strong> — a plain-language update on where the AISH&nbsp;&rarr;&nbsp;ADAP transition sits and what it means for you. No jargon. The newest update is first; earlier days are below it.</p>
     </header>
     <div id="daily-news-feed" class="dn-feed"></div>
+  </div>
+</section>
+
+<!-- ───────────── PERSONAL TESTIMONIALS ───────────── -->
+<section id="testimonials" class="testimonials">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="eyebrow">In their own words</p>
+      <h2>Personal Testimonials</h2>
+      <p class="section-intro">The numbers tell part of this story. These are the people living it — Albertans sharing, in their own words, what the AISH&nbsp;&rarr;&nbsp;ADAP transition means for their lives. To add yours, reach us at albertadisabilitybreakdown@outlook.com.</p>
+    </header>
+    <p class="tm-notice">Some of these stories are hard to read. If you are struggling, you can call or text <strong>9-8-8</strong> any time, day or night, for support.</p>
+    <div id="testimonials-feed" class="tm-feed"></div>
   </div>
 </section>
 
@@ -825,6 +853,7 @@
       <ul class="footer-list">
         <li><a href="#just-dropped">Just Dropped</a></li>
         <li><a href="#daily-news">Daily News</a></li>
+        <li><a href="#testimonials">Testimonials</a></li>
         <li><a href="#reports">All reports</a></li>
         <li><a href="#documents">Document library</a></li>
         <li><a href="#ministerial">Ministerial correspondence</a></li>
