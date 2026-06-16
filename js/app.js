@@ -762,20 +762,33 @@ function renderDailyNews() {
   if (!wrap || typeof DAILY_NEWS === "undefined" || !DAILY_NEWS.length) return;
   const latest = DAILY_NEWS[0];
   const rest = DAILY_NEWS.slice(1);
+
+  const dnItem = p => `
+      <details class="dn-archive-item">
+        <summary>${dnFormatDate(p.date)}</summary>
+        <div class="dn-body">${dnBodyToHtml(p.body)}</div>
+      </details>`;
+
   let html = `
     <article class="dn-post dn-latest">
       <p class="dn-date">${dnFormatDate(latest.date)} \u00b7 latest</p>
       <div class="dn-body">${dnBodyToHtml(latest.body)}</div>
     </article>`;
-  if (rest.length) {
+
+  // June and later shown individually; May and earlier grouped into one section
+  const recent = rest.filter(p => p.date >= "2026-06-01");
+  const earlier = rest.filter(p => p.date < "2026-06-01");
+
+  if (recent.length || earlier.length) {
     html += `<h3 class="dn-archive-title">Earlier updates</h3>`;
-    rest.forEach(p => {
-      html += `
-      <details class="dn-archive-item">
-        <summary>${dnFormatDate(p.date)}</summary>
-        <div class="dn-body">${dnBodyToHtml(p.body)}</div>
+  }
+  recent.forEach(p => { html += dnItem(p); });
+  if (earlier.length) {
+    html += `
+      <details class="dn-archive-item dn-month">
+        <summary>May 2026 \u2014 ${earlier.length} earlier updates</summary>
+        <div class="dn-month-inner">${earlier.map(dnItem).join("")}</div>
       </details>`;
-    });
   }
   wrap.innerHTML = html;
 }
