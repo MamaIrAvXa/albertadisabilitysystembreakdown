@@ -9,6 +9,54 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-17",
+  title: "Where Things Stand — June 17, 2026",
+  body: `Here is where things sit right now, in plain words, and what you can actually do about each one.
+
+The big date is two weeks away. On July 1, most people on AISH are moved to ADAP. If you got a letter saying you are moving, here is the thing to hold onto: your total payment does not change right now. There is a top-up that keeps you at the same amount you get today until the end of 2027. So the move itself does not cut your cheque on July 1. Same amount, until 2027.
+
+## THE APPEAL WINDOW CLOSES JUNE 30
+If you want to file an appeal, you have until June 30. Two important things. One, the move to ADAP itself cannot be appealed — that is written into the law, so be clear-eyed about that. Two, the path that actually matters for staying on AISH is the reassessment, which rests on your disability permanently preventing you from working, and that one has no deadline. So if you are going to appeal, do it before June 30, and we can talk about the reassessment any time. The appeal form is in the Take Action section, and it goes to the Appeals Secretariat, not to AISH.
+
+## THE FEDERAL BENEFIT RENEWS IN JULY, BUT YOU WILL NOT FEEL ANY INCREASE
+The Canada Disability Benefit renews for the new year in July. It may rise by a few dollars, but to be straight with you: the official federal page still shows it at $200 a month right now, so we will not promise you a higher number until it is confirmed. And either way, in Alberta the amount is clawed back — they take it off your provincial cheque — so your total does not go up regardless. Alberta is the only province that does this. You still have to apply for it, or you face a separate $200 reduction, so if you have not applied, do.
+
+## COUPLES, WATCH YOUR AUGUST LETTER
+Starting in August, if you and your partner both receive AISH or ADAP and live together, each of you drops to 88 percent of the full individual amount. This is separate from everything above. Some households report losing around $460 a month from this. If this is you, read your August letter closely and send it to us if the numbers do not make sense — we will go through it together.
+
+## NEW TODAY — AN "ENERGY REBATE" WAS ANNOUNCED
+The Province announced a new affordability payment — direct money starting July 1, for people 18 and over who filed a 2025 tax return. We are still confirming the firm details from the government directly, so we will not give you numbers we have not verified. Two things for now. First, if you have not filed your 2025 taxes, file them, because the rebate is tied to having that return on file — the same as the CDB and other supports. No return, no money, even if you owe nothing. Second, we are watching closely whether AISH recipients actually keep this money or whether it gets treated as income and clawed back, because this government has clawed back the CDB and changed housing rules before. So do not count on this money until we confirm it is not clawed back. The moment we know for certain, you will know.
+
+## WHAT TO DO THIS WEEK, SIMPLY
+File your 2025 taxes if you have not. If you want to appeal, do it before June 30 — the form is in the Take Action section. Read any letter you get carefully, and send us anything that does not make sense. And do not spend the rebate money until we confirm you actually get to keep it.
+
+We are here for any of this. If something above is confusing, ask. That is what this page is for.`
+},
+{
+  date: "2026-06-16",
+  title: "Where Things Stand — June 16, 2026",
+  body: `Here is where things sit right now, in plain words, and what you can actually do about each one.
+
+The big date is two weeks away. On July 1, most people on AISH are moved to ADAP. The legal date is July 2. If you got a letter saying you are moving, here is the thing to hold onto: your total payment does not change right now. There is a top-up that keeps you at the same amount you get today until the end of 2027. So the move itself does not cut your cheque on July 1. Same amount, until 2027.
+
+## THE APPEAL WINDOW CLOSES JUNE 30
+If you want to file an appeal, you have until June 30 to do it. Two important things. One, the move to ADAP itself cannot be appealed — that is written into the law, so be clear-eyed about that. Two, the path that actually matters for staying on AISH is the reassessment, which rests on your disability permanently preventing you from working, and that one has no deadline. So if you are going to appeal, do it before June 30, and we can also talk about the reassessment any time. The appeal form is in the Take Action section, and it goes to the Appeals Secretariat, not to AISH.
+
+## THE FEDERAL DISABILITY BENEFIT GOES UP SLIGHTLY, BUT YOU WILL NOT FEEL IT
+The Canada Disability Benefit rises from $200 to $204 a month in July. But Alberta takes that same amount off your provincial cheque, so your total does not go up. Alberta is the only province that does this. You still have to apply for it, or you face a separate $200 reduction, so if you have not applied, do.
+
+## COUPLES, WATCH YOUR AUGUST LETTER
+Starting in August, couples who both receive benefits and live together may see less. This is separate from everything above. If this is you, read your August letter closely and send it to us if the numbers do not make sense — we will go through it together.
+
+## NEW THIS WEEK — AN "ENERGY REBATE" IS BEING ANNOUNCED
+The Province is announcing a new affordability payment — direct money starting July 1, for people 18 and over who filed a 2025 tax return. The amount and the income cutoff are being announced today, so there are no firm numbers yet, and we will not give you any until they come from the government directly. Two things for now. First, if you have not filed your 2025 taxes, file them, because the rebate is tied to having that return on file — the same as the CDB and other supports. No return, no money, even if you owe nothing. Second, we are watching closely whether AISH recipients actually keep this money or whether it gets treated as income and clawed back, because this government has clawed back the CDB and changed housing rules before. So do not count on this money until we confirm it is not clawed back. The moment we know, you will know.
+
+## WHAT TO DO THIS WEEK, SIMPLY
+File your 2025 taxes if you have not. If you want to appeal, do it before June 30 — the form is in the Take Action section. Read any letter you get carefully, and send us anything that does not make sense. And do not spend the rebate money until we confirm you actually get to keep it.
+
+We are here for any of this. If something above is confusing, ask. That is what this page is for.`
+},
+{
   date: "2026-06-15",
   title: "Where Things Stand — June 15, 2026",
   body: `Before anything else today. If you are struggling right now, you are not alone, and help is here this minute.
