@@ -9,6 +9,56 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-18",
+  title: "Where Things Stand — June 18, 2026",
+  body: `It has been a heavy stretch for a lot of us, and before anything else: if this week has weighed on you, you are not carrying it alone. Support is there any time, by call or text at 988. Take what you need.
+
+Here is where things stand right now, in plain words, and what you can do.
+
+## THE BIG ONE: YOU CAN STILL APPEAL, UNTIL JUNE 30
+If you got a letter moving you from AISH to ADAP, you can appeal. Some people are being told on the phone that they cannot. That is not correct right now. The law that takes away appeal rights does not take effect until July 2. Until then, the old AISH rules still apply, and under those rules you can appeal a decision against your file, including the move to ADAP.
+
+So the deadline that matters is June 30. File before then.
+
+There are two paths, and you can do both. The appeal: file it before June 30 to use your right while the window is open. It goes to the Appeals Secretariat, alss.appeals@gov.ab.ca, not to AISH. The reassessment: a separate path to stay on AISH because your disability permanently prevents you from working. This one has no deadline.
+
+The forms and guides are in the Take Action section. If you are not sure which form you need, reach out and we will help you pick.
+
+## THE COUNTDOWN
+ADAP starts July 1. The legal change happens July 2. That is under two weeks away. You do not have to do anything on those days, but it is why the June 30 appeal window matters.
+
+## THE $100 ENERGY REBATE: GOOD NEWS, AND IT IS YOURS TO KEEP
+If you are on AISH, ADAP, or Income Support, you will get the one-time $100 rebate automatically. You do not need to apply. It will not lower your disability cheque, and you do not report it on your taxes. You keep it.
+
+(Everyone else has to have filed their 2025 taxes and apply online through a portal that opens July 1 and closes September 30.)
+
+## THE FEDERAL DISABILITY BENEFIT (CDB)
+The federal Canada Disability Benefit is going up slightly, to about $204 a month. But Alberta takes the same amount back off your provincial cheque, dollar for dollar. Alberta is the only province doing this, so the increase does not put extra money in your pocket here.
+
+## YOUR MONEY THROUGH THE TRANSITION
+If you are moved to ADAP, your amount stays frozen at $1,940 until the end of 2027. After that it is set to drop to $1,740. The government calls this a top-up. It is not a top-up. No new money is being added. Your amount is being held where it is, and then cut, on a timer.
+
+## IF YOU WORK
+On ADAP you can keep less of what you earn before they start clawing it back. The single-person limit drops to $700 a month. Partner limits are also being reduced, but the exact number is not confirmed yet, so please do not rely on a specific figure until we have it pinned down.
+
+## WHO STAYS ON AISH AUTOMATICALLY
+You should stay on AISH automatically, not be moved to ADAP, if you are 60 or older, in continuing care, have a terminal illness, or have a severe or profound developmental disability or are PDD eligible. Check your letter. If you fit one of these and your letter still moved you, that is a correction to ask for, and we can help.
+
+## ABOUT YOUR LETTER
+Read your letter carefully. The ADAP letter does not clearly say work is optional, and it mentions a service navigator contacting you about employment. Being moved to ADAP does not by itself mean you have to take a job right now. If you are unsure what your letter is asking, ask in writing, or reach out.
+
+## COMING IN AUGUST
+Starting in August, if two adults in the same home both get AISH or ADAP, each may get a bit less, because the government will count you as sharing costs. Child-related rates are also changing that month. We are watching for the exact numbers.
+
+## THE CONTRAST WE KEEP POINTING TO
+In the same few weeks these cuts go ahead, the government found money for a $100 rebate for nearly every adult in the province, and the Heritage Savings Fund sits at about $31.9 billion and growing. The money exists. The question is where they choose to point it.
+
+## WHAT TO DO THIS WEEK
+If you take one thing from this: if you were moved to ADAP and want to stay on AISH, file your appeal before June 30. Do not let anyone talk you out of a right you still have. Reach out if you need a hand — the help is free, and the appeal does not go to AISH, it goes to the Appeals Secretariat.
+
+You are not too late, and you are not doing this alone.`
+},
+{
   date: "2026-06-17",
   title: "Where Things Stand — June 17, 2026",
   body: `Here is where things sit right now, in plain words, and what you can actually do about each one.

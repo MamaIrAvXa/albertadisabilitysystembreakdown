@@ -438,6 +438,8 @@ const MINISTERIAL = [
 const FLYERS = [
   { label: "Remembrance", img: "785386ff-48b7-485d-8140-3302e6c3a4f7.png" },
   { label: "The Earnings Exemption — What Changes July 1", img: "The Earnings Exemption What Changes July 1, 2026.png" },
+  { label: "$100 Once vs. $204 Every Month", img: "100 Once vs 204 Every Month.png" },
+  { label: "Where Does the CDB Go?", img: "Where Does the CDB Go.png" },
   { label: "Caseworker Rights", img: "caseworker_flyer.png" },
   { label: "Access Barriers", img: "barrier_flyer.png" },
   { label: "Health Benefits", img: "flyer_health_benefits.png" },
