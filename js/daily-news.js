@@ -9,6 +9,42 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-20",
+  title: "Where Things Stand — June 20, 2026",
+  body: `This has been a heavy week. Many of us are carrying fear and grief, and some of you have shared how frightened you are about what this change means for your life. So before anything else: if the fear is sitting heavy on you right now, you are not alone, and you do not have to carry it by yourself. You can call or text 988 any time, day or night, and a real person will answer. Reaching out is not weakness. It is one of the strongest things a person can do.
+
+Now here is the steady, true picture, because facts and each other are how we get through this.
+
+## THE DATE THAT MATTERS IS JULY 2, NOT JULY 1
+Some letters say July 1, but the real legal change happens July 2. The AISH website is being switched over and a new application opens that day. July 2 is the date to watch.
+
+## IF YOU ARE STAYING ON AISH, CONFIRM IT
+You do not have to do anything new, but please confirm it. You stay on AISH automatically if you are 60 or older, in continuing care, have a palliative or terminal condition, or have a severe and profound developmental disability or are on PDD. Check the letter you got in mid-May. It tells you whether you stay on AISH or move to ADAP. If it is right for you, you are set. If it is wrong, that is the thing to get corrected now, in writing.
+
+## IF YOU ARE BEING MOVED TO ADAP, YOU DO NOT LOSE YOUR MONEY ON JULY 2
+You keep getting paid the same amount you get now. The government adds a top-up that holds your total at the current AISH amount until December 31, 2027. Your cheque does not drop that day.
+
+## YOU CAN ASK TO GO BACK TO AISH, AND YOU KEEP GETTING PAID WHILE YOU DO
+There is no deadline to ask, the government covers the cost of one medical assessment, and the people with the most severe conditions get a faster, streamlined path with no new medical report required. If you believe you belong on AISH, the door is open and it does not close on July 2.
+
+## ABOUT YOUR APPEAL RIGHTS — THIS PART IS TIME-SENSITIVE
+Until July 2, you are still a current AISH recipient, and you still hold the appeal rights you have always had. Some people are being told they cannot appeal. But the rule that takes that right away is not in force until July 2. So if you have a decision about your file that you disagree with, you still have the right to act on it right now. Do not let anyone talk you out of a right you still hold today.
+
+## THERE IS A $100 YOU GET TO KEEP
+The Alberta Energy Rebate opens July 1, and the government has confirmed it will not be taken from your AISH or ADAP. The one thing you must do is have filed your 2025 taxes, or you may get nothing. If you are on AISH you may be signed up automatically, but confirm it — do not assume.
+
+## ABOUT THE FEDERAL DISABILITY BENEFIT
+It is going up a few dollars in July. But in Alberta the province subtracts the same amount, so your total does not change. You still have to apply for it, because if you do not, the province cuts $200 from you. The government has said no one will lose money because Ottawa fills the gap. Read that carefully, because it only holds if you apply for the federal benefit, and the province claws that same money back from most people.
+
+## ON THE LEGAL SIDE, WE ARE NOT SITTING STILL
+A documented package is now in front of disability lawyers, two law professors who specialize in exactly this, a public-interest legal clinic, and others. The question being asked is plain: how can people be told they cannot appeal under a rule that is not even in force yet. Real lawyers are looking at that right now.
+
+## WHAT YOU CAN DO THIS WEEK
+None of this should bury you. Check your May letter and confirm your category. If you are 60-plus, palliative, in continuing care, or on PDD, make sure your file is flagged to keep you on AISH. File your 2025 taxes if you have not, so the rebate and the federal benefit are not lost. And verify your own situation in writing, because every file is different and someone else's answer may not be yours.
+
+And the most important thing of all. You are not alone in this. We are checking on each other, we are catching each other's questions, and we are carrying this together. If today is one of the heavy ones, reach out — to 988, to someone you trust, or to this community. You matter, and not because of what you can earn or whether you can work. You matter because you are one of us.`
+},
+{
   date: "2026-06-18",
   title: "Where Things Stand — June 18, 2026",
   body: `It has been a heavy stretch for a lot of us, and before anything else: if this week has weighed on you, you are not carrying it alone. Support is there any time, by call or text at 988. Take what you need.
