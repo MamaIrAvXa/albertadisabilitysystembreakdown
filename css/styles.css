@@ -1278,6 +1278,73 @@ section + section { border-top: 1px solid var(--line); }
   font-style: italic;
   margin: 1rem 0 0.25rem;
 }
+
+/* ─── Compact subscribe strip (high-visibility, after Search) ─── */
+.sr-only {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+.subscribe-strip {
+  padding-block: 1.5rem;
+  background: var(--surface-2);
+  border-block: 1px solid rgba(212, 160, 23, 0.25);
+}
+.subscribe-strip-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+.subscribe-strip-text {
+  flex: 1 1 320px;
+  min-width: 0;
+}
+.subscribe-strip-text strong {
+  display: block;
+  color: var(--ink);
+  font-size: 1.05rem;
+  margin-bottom: 0.15rem;
+}
+.subscribe-strip-text span {
+  display: block;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+}
+.subscribe-strip-form {
+  flex: 0 1 auto;
+}
+.subscribe-strip-form .subscribe-row {
+  display: flex;
+  gap: 0.5rem;
+}
+.subscribe-strip-form input[type="email"] {
+  flex: 1 1 220px;
+  min-width: 0;
+  padding: 0.7rem 0.9rem;
+  border-radius: var(--radius);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: var(--bg);
+  color: var(--ink);
+  font-size: 0.95rem;
+}
+.subscribe-strip-form input[type="email"]::placeholder { color: var(--ink-mute); }
+.subscribe-strip-form input[type="email"]:focus {
+  outline: none;
+  border-color: var(--gold-500);
+  box-shadow: 0 0 0 3px rgba(212, 160, 23, 0.18);
+}
+@media (max-width: 640px) {
+  .subscribe-strip-inner { flex-direction: column; align-items: stretch; }
+  .subscribe-strip-form { width: 100%; }
+  .subscribe-strip-form input[type="email"] { flex: 1 1 auto; }
+}
+
 @media print {
   .podcast { display: none; }
 }
