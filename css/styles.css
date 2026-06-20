@@ -387,6 +387,36 @@ em { color: var(--gold-300); font-style: italic; }
 }
 .btn-ghost-sm:hover { color: var(--gold-400); }
 
+/* Standout CPP-D appeal button inside the pinned Appeal card */
+.btn-cppd {
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px 14px;
+  font-weight: 700;
+  font-size: 0.92rem;
+  text-align: center;
+  color: var(--gold-300);
+  background: rgba(212, 160, 23, 0.10);
+  border: 2px solid var(--gold-400);
+  border-radius: 10px;
+  box-shadow: 0 0 0 0 rgba(212, 160, 23, 0.4);
+  animation: cppd-pulse 2.6s ease-out infinite;
+}
+.btn-cppd:hover {
+  background: var(--gold-400);
+  color: var(--navy-900);
+  animation: none;
+}
+@keyframes cppd-pulse {
+  0%   { box-shadow: 0 0 0 0 rgba(212, 160, 23, 0.35); }
+  70%  { box-shadow: 0 0 0 8px rgba(212, 160, 23, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(212, 160, 23, 0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .btn-cppd { animation: none; }
+}
+
 .hero-meta { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.5rem 0 0; }
 .meta-pill {
   font-family: var(--font-mono);
