@@ -9,8 +9,8 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
-  date: "2026-06-20",
-  title: "Where Things Stand — June 20, 2026",
+  date: "2026-06-19",
+  title: "Where Things Stand — June 19, 2026",
   body: `This has been a heavy week. Many of us are carrying fear and grief, and some of you have shared how frightened you are about what this change means for your life. So before anything else: if the fear is sitting heavy on you right now, you are not alone, and you do not have to carry it by yourself. You can call or text 988 any time, day or night, and a real person will answer. Reaching out is not weakness. It is one of the strongest things a person can do.
 
 Now here is the steady, true picture, because facts and each other are how we get through this.
