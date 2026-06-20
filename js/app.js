@@ -401,6 +401,29 @@ const AUDIO_SERIES = [
       { num: "01", title: "Rebuttal", file: "1_Consultation_Gap_Rebuttal.mp3" },
       { num: "02", title: "Outro", file: "2_Consultation_Gap_Outro.mp3" }
     ]
+  },
+  {
+    id: "plain-language-audio",
+    title: "The Plain Language Library",
+    blurb: "The plain-language guides, read aloud — the whole library as audio, for anyone who would rather listen than read. Start with the Intro, end with the Outro. Covers your appeal rights, who stays on AISH, fixing a wrong deduction, what your doctor's letter needs to say, and more.",
+    folder: "the-full-plain-language-library",
+    items: [
+      { num: "00", title: "Intro", file: "0_Plain_Language_Intro.mp3", released: "2026-06-20" },
+      { num: "01", title: "Your Right to Appeal", file: "1_Plain_Language_Your_Right_to_Appeal.mp3", released: "2026-06-20" },
+      { num: "02", title: "Appeal vs. Reassessment", file: "2_Plain_Language_Appeal_vs_Reassessment.mp3", released: "2026-06-20" },
+      { num: "03", title: "What the Transition Means", file: "3_Plain_Language_What_The_Transition_Means.mp3", released: "2026-06-20" },
+      { num: "04", title: "Who Stays on AISH Automatically", file: "4_Plain_Language_Who_Stays_On_AISH_Automatically.mp3", released: "2026-06-20" },
+      { num: "05", title: "Get Your Own AISH File", file: "5_Plain_Language_Get_Your_Own_AISH_File.mp3", released: "2026-06-20" },
+      { num: "06", title: "Fix a Wrong CDB Deduction", file: "6_Plain_Language_Fix_A_Wrong_CDB_Deduction.mp3", released: "2026-06-20" },
+      { num: "07", title: "Write to Your MLA and MP", file: "7_Plain_Language_Write_To_Your_MLA_And_MP.mp3", released: "2026-06-20" },
+      { num: "08", title: "What \"No Action Required\" Really Means", file: "8_Plain_Language_What_No_Action_Required_Really_Means.mp3", released: "2026-06-20" },
+      { num: "09", title: "What Your Doctor's Letter Needs to Say", file: "9_Plain_Language_What_Your_Doctors_Letter_Needs_To_Say.mp3", released: "2026-06-20" },
+      { num: "10", title: "Do I Have to Work Now?", file: "10_Plain_Language_Do_I_Have_To_Work_Now.mp3", released: "2026-06-20" },
+      { num: "11", title: "How to Get the Federal $200", file: "11_Plain_Language_How_To_Get_The_Federal_200.mp3", released: "2026-06-20" },
+      { num: "12", title: "The Third Door — Provide Additional Information", file: "12_Plain_Language_The_Third_Door_Provide_Additional_Information.mp3", released: "2026-06-20" },
+      { num: "13", title: "What Happens to Your Health Benefits", file: "13_Plain_Language_What_Happens_To_Your_Health_Benefits.mp3", released: "2026-06-20" },
+      { num: "14", title: "Outro", file: "14_Plain_Language_Outro.mp3", released: "2026-06-20" }
+    ]
   }
 ];
 
@@ -1295,9 +1318,12 @@ function renderSearch(q) {
     if (empty) empty.hidden = true;
     return;
   }
-  const tokens = query.split(/\s+/);
+  const tokens = query.split(/[\s_\-./%]+/).filter(Boolean);
   const results = searchIndex().filter(it => {
-    const hay = (it.title + " " + it.desc + " " + it.label + " " + (it.href || "")).toLowerCase();
+    let hay = (it.title + " " + it.desc + " " + it.label + " " + (it.href || "")).toLowerCase();
+    // Normalize so filenames match too: decode %20 etc., turn separators into spaces
+    try { hay = decodeURIComponent(hay); } catch (e) {}
+    hay = hay.replace(/[_\-./%]+/g, " ");
     return tokens.every(t => hay.includes(t));
   });
   if (count) count.textContent = results.length + (results.length === 1 ? " match" : " matches");
