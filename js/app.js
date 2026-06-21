@@ -802,14 +802,22 @@ function renderDailyNews() {
       <div class="dn-body">${dnBodyToHtml(latest.body)}</div>
     </article>`;
 
-  // June and later shown individually; May and earlier grouped into one section
-  const recent = rest.filter(p => p.date >= "2026-06-01");
+  // June 16+ shown individually; June 1-15 grouped; May and earlier grouped
+  const recent = rest.filter(p => p.date >= "2026-06-16");
+  const earlyJune = rest.filter(p => p.date >= "2026-06-01" && p.date <= "2026-06-15");
   const earlier = rest.filter(p => p.date < "2026-06-01");
 
-  if (recent.length || earlier.length) {
+  if (recent.length || earlyJune.length || earlier.length) {
     html += `<h3 class="dn-archive-title">Earlier updates</h3>`;
   }
   recent.forEach(p => { html += dnItem(p); });
+  if (earlyJune.length) {
+    html += `
+      <details class="dn-archive-item dn-month">
+        <summary>June 1\u201315, 2026 \u2014 ${earlyJune.length} earlier updates</summary>
+        <div class="dn-month-inner">${earlyJune.map(dnItem).join("")}</div>
+      </details>`;
+  }
   if (earlier.length) {
     html += `
       <details class="dn-archive-item dn-month">

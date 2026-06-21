@@ -9,6 +9,46 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-20",
+  title: "Where Things Stand — June 20, 2026",
+  body: `We are twelve days out from July 2, and a lot is moving at once. Here is where things stand, in plain words, with what matters most to you near the top.
+
+## CHECK YOUR MAIL FIRST
+By now most people should have a letter telling you whether you stay on AISH or move to ADAP on July 2. If you have not opened it, open it. If you have it, keep it somewhere safe. That letter is the authority on your own situation, and everything below should be checked against it.
+
+## WHAT HAPPENS JULY 2
+On July 2, if you are on AISH now, you are moved to ADAP automatically, unless you are in a group that stays on AISH. The groups described as staying on are people with a severe or profound developmental disability or who are eligible for PDD (Persons with Developmental Disabilities) services, people with a palliative or terminal condition, people 60 and over, and people in continuing care. If your letter moved you to ADAP but you believe you belong in one of those groups, that may be a wrong category to correct, not a long fight. Reach out and we will help you sort it.
+
+## IF YOU WANT TO APPEAL, THE WINDOW IS CLOSING
+This is the most time-sensitive thing in this update. A new law removes the right to appeal the move to ADAP, and that law takes effect July 2. Until then, you can still file an appeal. So if you want to appeal, file before July 2, and since July 1 is a holiday, treat the end of June as your real deadline. Filing now means you either keep a right or you put it on the record that it was taken from you. You come away with something either way.
+
+After July 2, the move itself cannot be appealed. The route then is to reapply for AISH, which is a reassessment, and the government covers one medical assessment for that. Appealing and reapplying are two separate paths, and you are allowed to do both. The official appeal page is here: https://www.alberta.ca/appeal-aish-decision
+
+## THE MONEY, PLAINLY
+AISH is $1,940 a month. ADAP is $1,740, which is $200 less. If you are moved from AISH to ADAP, a $200 transition top-up holds your total at $1,940 until December 31, 2027. The government's stated plan is that from January 2028 the base drops to $1,740 for those who were moved. So the transition benefit is a top-up on a timer, not new money. Always confirm your own amount against your own letter.
+
+## THE FEDERAL BENEFIT WENT UP, BUT NOT FOR US
+The federal Canada Disability Benefit rises by $4 to $204 in July. But Alberta is the only province that subtracts the federal benefit from your provincial benefit, dollar for dollar. So most AISH and ADAP recipients will not see that extra $4. Alberta simply deducts $4 more on its side.
+
+## SOME REAL GOOD NEWS
+Work earnings. On ADAP you can earn up to $700 a month from a job before it affects your benefit. On AISH that limit was $350. For parents the limit is $1,100, and for a partner who also gets AISH or ADAP it is $1,500. Above $700, earnings start to be reduced on a sliding scale, and the exact rates have not been published yet.
+
+Health coverage. If you ever earn your way off ADAP, you keep your health coverage. That is a real improvement over AISH, where health benefits fall away as your income rises.
+
+The $100 Energy Rebate. If you are on AISH, ADAP, or Income Support, you get the $100 automatically. You do not have to apply, it will not reduce your benefits, and it is not taxable. The portal opens July 1, but you do not even need it.
+
+## YOUR CHILDREN'S BENEFITS
+The child benefit amounts change starting with your August 2026 statement. For many families they go up. Check your August statement to see your new amount.
+
+## A WORD OF CARE
+This has been a heavy and frightening stretch for so many of us. If it is starting to feel like too much, please know you are not alone and you do not have to carry it by yourself. You can reach the national crisis line any time, day or night, at 988 by call or text. You can also reach the Alberta Mental Health Help Line at 1-877-303-2642. Reaching out is a strong thing to do.
+
+## WHERE WE GO FROM HERE
+We are watching every change and turning each one into plain language as fast as we can. If you are confused by your letter, unsure which path is yours, or stuck on a form, that is exactly what we are here for. You found the right place.
+
+We are in this together.`
+},
+{
   date: "2026-06-19",
   title: "Where Things Stand — June 19, 2026",
   body: `This has been a heavy week. Many of us are carrying fear and grief, and some of you have shared how frightened you are about what this change means for your life. So before anything else: if the fear is sitting heavy on you right now, you are not alone, and you do not have to carry it by yourself. You can call or text 988 any time, day or night, and a real person will answer. Reaching out is not weakness. It is one of the strongest things a person can do.
