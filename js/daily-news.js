@@ -9,6 +9,46 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-21",
+  title: "Where Things Stand — June 21, 2026",
+  body: `Here is where things sit tonight, in plain words, with the hard parts told straight and the things you can do laid out clearly. Take it in small pieces. You do not have to take it all in at once.
+
+## THE CLOCK
+The change becomes law on July 2, eleven days from now. You will see the government say July 1, and that is when the new program switches on day to day, but the legal date is July 2. Either way, the next eleven days are the most important stretch we have faced.
+
+## IF YOU MIGHT WANT TO FIGHT YOUR MOVE TO ADAP, THE WINDOW IS NOW
+This is the most time-sensitive thing in this whole update, so it goes first. If your letter says you are being moved to ADAP and you believe you belong on AISH, the time to act is before June 30. The old AISH appeal process is still open until the law changes, and once it changes that door narrows. So if you are going to appeal, do it in the next nine days. We have the forms ready, built to open on a phone, and we will help you fill them out line by line. Do not let the date sneak up on you. Reach out and we start together.
+
+## WHO AUTOMATICALLY STAYS ON AISH, WITH NOTHING TO DO
+You stay on AISH automatically, with no form to fill and nothing to prove, if you are in one of these four groups: a severe or profound developmental disability, or you are eligible for or receiving PDD services; a palliative or terminal condition; living in a continuing care home; or age 60 or older before July 1.
+
+If that is you, you can breathe. You should be kept on AISH without lifting a finger. If you belong in one of these groups but got an ADAP letter anyway, that is a mistake we can fix, so reach out.
+
+## THE MONEY, IN PLAIN WORDS
+The new ADAP base is $1,740 a month, which is $200 less than the AISH base of $1,940. If you are moved, a $200 top-up holds your total at what you get now, but only until December 31, 2027. After that the top-up ends and the $200 cut lands. So it is not extra money. It is a cut on a timer.
+
+A few more numbers that matter. What you can earn from a job before it touches your cheque is $350 on AISH and $700 on ADAP for a single person. If you work, that gap can matter, so ask before you choose anything. Starting in August, if you and your partner both get benefits, each of you gets 88 percent of the full amount, so a couple together gets less than two single people would. Families with children will mostly see their child amounts go up a little, also starting in August.
+
+## THE LETTERS ARE CONFUSING, SO READ THEM CAREFULLY
+Letters are landing now, and advocates are flagging that the wording around work requirements and health benefits is unclear. Please do not assume you must join a work program because of how a letter reads. If your letter confuses you, you are not alone, and you do not have to figure it out by yourself. Send it to us and we read it together.
+
+## THE FEDERAL $200, AND WHY YOU MAY NOT SEE IT
+The federal Canada Disability Benefit is going up to about $204 a month in July. But Alberta takes that same amount back off your cheque, dollar for dollar, and Alberta is the only province doing it. So the federal raise does not land in your pocket here. If you are being docked the $200 and have not received the federal benefit yet, that is a fixable error, and we can help you correct it. And if you are applying for the Disability Tax Credit, which you usually need before you can get that federal benefit, use a current form and apply the normal way before mid-July, because the old upload method and older forms stop working soon.
+
+## THE $100 ENERGY REBATE
+Starting July 1 there is a one-time $100 per adult, $200 per couple. If you are on AISH, ADAP, Income Support or the Seniors Benefit, it comes to you automatically with no application. Some are saying it will not be taxed or clawed back, but the official government page does not confirm that yet, so we cannot fully promise it is protected. We are watching for them to put it in writing.
+
+## THE BIGGER PICTURE
+Here is the contrast worth holding. In the same two weeks the province permanently lowers the disability base rate, it is handing out a universal cash rebate, and it is still adding to the Heritage Savings Fund, which sits at around $31.9 billion. These are choices and priorities, not an empty cupboard. We keep our aim on what the policy does, not on any one person, because the record speaks plainly enough on its own.
+
+## WHAT TO DO THIS WEEK
+If you want to appeal, do it before June 30. If you are in one of the four auto-stay groups, you can rest. If your letter confuses you, send it to us. If your $200 is being taken wrongly, we fix it. And whatever your situation, you do not have to face any of it alone.
+
+The forms, all built to open on a phone, live on this site.
+
+Rest tonight. We have nine days, and we have each other, and that has carried us this far.`
+},
+{
   date: "2026-06-20",
   title: "Where Things Stand — June 20, 2026",
   body: `We are twelve days out from July 2, and a lot is moving at once. Here is where things stand, in plain words, with what matters most to you near the top.
