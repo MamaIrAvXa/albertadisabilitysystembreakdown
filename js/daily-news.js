@@ -9,6 +9,36 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-22",
+  title: "Where Things Stand — June 22, 2026",
+  body: `It is nine days until July 1 and ten days until July 2, so here is where everything sits, in plain terms, and what you can actually do this week.
+
+## THE TWO DATES THAT MATTER
+July 1 is when ADAP starts in the government's messaging. July 2 is the legal date the changes come into force. Until July 2 you are still an AISH recipient under the old rules, and that matters, because some doors are open right now that change on that date. If you have an appeal to file or a correction to send, the time is this week.
+
+## THE TRANSITION ITSELF
+Most people on AISH are being moved to ADAP. The move itself cannot be appealed. What you can do is ask to go back on AISH through a reassessment, and there is no time limit on that. If you believe you were moved in error, especially if you fit one of the keep-AISH-automatically groups, that is worth acting on. Those groups are: a severe and profound developmental disability or PDD eligibility, a palliative or terminal condition, living in continuing care, or being 60 or older.
+
+## THE MONEY, HONESTLY
+ADAP's base is $1,740 a month, which is $200 below AISH's $1,940. If you are moved over, a $200 transition top-up holds your total at $1,940 until December 31, 2027, and then the cut lands. So it is not new money and it is not a raise. It is the same amount, on a timer. New applicants after July 1 get the lower amount right away.
+
+## THE FEDERAL BENEFIT, AND A WARNING
+Alberta is still the only province that claws back the Canada Disability Benefit dollar for dollar, so that federal money does not add to your pocket here. And here is the part to check now: if your CDB application did not get a decision in time, the province may already have cut $200 from your cheque since April, even if you never received the federal money. If that sounds like you, check your CDB application status and your statement.
+
+## SOMETHING NEW I WANT YOU TO HAVE
+A lot of you have hit the same wall: the $200 was deducted from your AISH when you were not actually getting the CDB yet, or you were denied the DTC or CDB but the deduction happened anyway, or more came off than you ever received. Here is the thing. When AISH pays you less than you were owed, that is an underpayment, and by their own law, the rule is not "may," it is "must." The AISH General Regulation says if you were underpaid, the director must pay the outstanding amount back to you, for the entire period.
+
+So we built a form for it. It walks you through stating what was deducted, checks the box for your situation, quotes the law that requires repayment, and asks them to put the calculation in writing and pay you back. It is the mirror of the repayment form. That one is for when you owe them. This one is for when they owe you. It is in the Take Action section now, and we will help you fill it in.
+
+## ONE HARD THING, HELD GENTLY
+Some of you have heard that a man on AISH died this month after expressing fear about these changes. It is a real loss and it has been raised at the highest levels in this province. We are not going to dress it up. We will only say this: if the weight of all of this is sitting heavy on you tonight, you are not alone in it, and you do not have to carry it by yourself. Reach out to someone you trust, or a crisis line — 988 by call or text, any time. You matter here, and not because of a benefit number.
+
+## WHAT TO DO THIS WEEK, IF YOU CAN
+Confirm your status in writing. If you were moved and you fit a keep-AISH group, flag it. If your cheque was cut for a CDB you never got, that is the new form. And keep copies of everything — every email, every letter. In a system this unsettled, your own paper trail is your protection.
+
+We are here all week. If any piece of this is confusing, reach out and we will go through it together, one thing at a time.`
+},
+{
   date: "2026-06-21",
   title: "Where Things Stand — June 21, 2026",
   body: `Here is where things sit tonight, in plain words, with the hard parts told straight and the things you can do laid out clearly. Take it in small pieces. You do not have to take it all in at once.
