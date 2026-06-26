@@ -9,6 +9,40 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-23",
+  title: "Where Things Stand — June 23, 2026",
+  body: `It is seven days until July 1 and eight days until July 2, so here is where everything sits tonight, in plain terms, and what you can do this week.
+
+## THE TWO DATES THAT MATTER
+July 1 is when ADAP starts in the government's messaging. July 2 is the legal date the changes come into force. Until July 2 you are still an AISH recipient under the old rules, and that matters, because some doors are open right now that close on that date. If you have a real decision to appeal or a correction to send, the time is this week.
+
+## THE TRANSITION ITSELF, AND A FINER POINT ON APPEALS
+Most people on AISH are being moved to ADAP, and the move itself cannot be appealed. But there is a distinction worth knowing, because some of you were told flatly that you cannot appeal anything, and that is not quite right. You cannot appeal the move. You can still appeal a real decision about your file, like an eligibility finding or a benefit cut, because those are not on the list of things that are exempt from appeal, and you are still under the old rules until July 2. If a decision was made about you that you disagree with, the strongest first step is to ask for it in writing — who decided, on what basis, and the date — and then you have something solid to appeal. The honest caveat: whether the categorization that moved you counts as an appealable decision is not fully settled, so we will not promise you it wins. But you have not lost the right to ask.
+
+## THE MONEY, PLAINLY
+ADAP's base is $1,740 a month, which is $200 below AISH's $1,940. If you are moved over, a $200 transition top-up holds your total at $1,940 until December 31, 2027, and then the cut lands. It is not new money and it is not a raise. It is the same amount, on a timer. New applicants after July 1 get the lower amount right away.
+
+## THE REASSESSMENT DOOR, AND WHO IT IS STRONG FOR
+If you believe you were moved in error, you can ask to go back on AISH through a reassessment, and there is no time limit on that. The keep-AISH-automatically groups are: a severe and profound developmental disability or PDD eligibility, a palliative or terminal condition, living in continuing care, or being 60 or older. But here is something learned from many of you this week. Reassessment is not only for those groups. The test for AISH is whether your disability permanently prevents employment. If you have a permanent or worsening condition, you were approved once before, and your doctor agrees you cannot work, that is strong footing, even if you are not in one of the four groups. And one more thing: the government has said it will cover the cost of one assessment for people moved to ADAP who reapply. So before you spend money you do not have on a private assessment, ask them in writing what they will cover. Do not book anything until you know.
+
+## A WARNING ABOUT THE $100, BECAUSE IT IS EVERYWHERE TONIGHT
+Many of you are seeing a $100 change on your cheque, some added, some taken off, and there are a dozen guesses going around. We are not going to add a guess. Here is what is true: nobody has it confirmed in writing yet, and the cheques coming Thursday should make the pattern clearer. So please do not budget around it as if you know what it is. The one move that gets you a real answer is to ask AISH in writing what the $100 is on your specific cheque, and keep their reply. There is also a separate Alberta energy rebate of $100 per adult opening July 1 that is exempt and automatic — do not confuse that one with anything coming off your benefit.
+
+## YOU ARE NOT CUT FOR BEING UNABLE TO WORK
+This is the fear under so many of your messages, so hear it clearly. On ADAP, they can only act against you if, in their opinion, you refused or neglected to take part. Trying and not getting hired is not refusing. Being let go through no fault of your own is not refusing. Having surgery or a flare and being medically unable is not refusing. If you cannot take part for a medical reason, get your doctor to put that in writing, send it to your worker, and keep the copy. That note is your protection. It turns a fear into a piece of paper on your file.
+
+## THREE DIFFERENT DOORS — DO NOT LET ONE CLOSE THE OTHERS
+The DTC, the federal Canada Disability Benefit, and AISH are three separate things with three separate tests. A no on the DTC does not mean a no on AISH. They are judged on different things. If you were turned down for one, that does not decide the others.
+
+## ONE HARD THING, HELD GENTLY
+Some of you carry the loss of a community member this month who had expressed fear about these changes. It is a real loss and it has been raised at the highest levels in this province. We will not dress it up. We will only say this: if the weight of all of this is sitting heavy on you tonight, you are not alone in it, and you do not have to carry it by yourself. Reach out to someone you trust, or a crisis line — 988 by call or text, any time. You matter here, and not because of a benefit number.
+
+## WHAT TO DO THIS WEEK, IF YOU CAN
+Confirm your status in writing. If you were moved and you fit a keep-AISH group, flag it. If you have a real decision you disagree with, ask for it in writing and consider an appeal before July 1. If you cannot work and want back on AISH, start the reassessment, and ask what assessment is covered before you pay. Request your own file so you can see what they have, through the ATIA portal — and Alberta Supports at 1-877-644-9992 can help you start it. And keep copies of everything, every email, every letter. In a system this unsettled, your own paper trail is your protection.
+
+We are here all week. If any piece of this is confusing, reach out and we will go through it together, one thing at a time.`
+},
+{
   date: "2026-06-22",
   title: "Where Things Stand — June 22, 2026",
   body: `It is nine days until July 1 and ten days until July 2, so here is where everything sits, in plain terms, and what you can actually do this week.
