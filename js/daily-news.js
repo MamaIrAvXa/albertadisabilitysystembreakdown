@@ -9,6 +9,45 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-25",
+  title: "Where Things Stand — June 25, 2026",
+  body: `We are six days out from July 1, and the waiting is hard. Here is where things stand, in plain words, with no spin. If you read only one line, read this one: you are still on AISH right now, and nothing about your status changes overnight.
+
+## THE DATES
+The new program, ADAP, starts up on July 1. The legal change officially lands July 2. Until then you are an AISH recipient under the current rules, with the appeal rights those rules give you. The letters and the program may say July 1, but the law itself does not change until July 2.
+
+## IF YOU GOT A LETTER MOVING YOU TO ADAP
+Your money stays the same for now. There is a $200 transition amount that holds you at your current level until December 31, 2027.
+
+To be straight with you about what that is, because the wording gets twisted everywhere: it is not extra money, and it is not a bonus. It is your current amount being held in place. The drop from the old base to the new lower one does not land until January 2028. So think of it as a freeze on a cut, not a top-up. Today's cheque is not the cut.
+
+## A BIT OF GOOD NEWS, AND IT IS REAL
+There is a one-time $100 Alberta Energy Rebate. If you are on AISH, ADAP, or Income Support, you do NOT have to apply. You will get it automatically. It will NOT be taxed, and it will NOT be taken off your benefit. This is the rare payment that is safe to keep. (Everyone else has to apply on a website between July 1 and September 30.)
+
+## THE FEDERAL DISABILITY BENEFIT (CDB)
+The federal Canada Disability Benefit goes up a little in July, to $204 a month. Here is the hard part, and we will not sugar-coat it: in Alberta that money is still taken back off your AISH, dollar for dollar. Alberta is the only province that does this. So most people here will not see extra money from it, unlike folks in other provinces.
+
+One thing that matters: you still have to have applied. Not applying can cost you, so if you have not looked into it, please do.
+
+## COMING IN AUGUST: COUPLES AND KIDS
+Starting with the August benefit period, if you and your partner both get disability support, you will each get a bit less — about 88% of the full single amount each — because the government counts you as sharing household costs.
+
+If you have children, the child amounts change in August too, and for a lot of families the child money goes up. Watch your August deposit, and if the numbers look off to you, ask for them in writing. We can help you word that.
+
+## IF YOU ARE APPLYING FOR THE DISABILITY TAX CREDIT (DTC)
+The way you send your DTC application to the CRA is changing on July 14. If you are applying, file it through your CRA account before then, and make sure your doctor uses the newest version of the form, or it can be rejected. The DTC is the key that unlocks the federal benefit, so this one is worth not missing.
+
+## IF YOUR LETTER DOES NOT MAKE SENSE
+A lot of people got confusing letters. If yours does not add up, especially if someone with a very severe disability was moved off AISH, you do not have to just accept it. Keep the letter. Ask, in writing, for the reason behind the decision and who made it. You can request your own file too. We have tools ready to help you do every bit of that, so reach out and we will walk through it with you.
+
+## A WORD ABOUT HOW HEAVY THIS IS
+This is a frightening time, and the weight of it is real. If the letters, the numbers, or the waiting have you feeling like it is all too much, please do not carry that alone.
+
+You can reach out any time, day or night. Call or text 988, or call the Alberta Mental Health Help Line at 1-877-303-2642. Reaching out is not weakness. None of this is your fault, and you matter here, exactly as you are.
+
+We are still in this together, and we are not going anywhere. If you need help reading a letter, writing a request, or just understanding what any of this means for you, ask. That is what we are here for.`
+},
+{
   date: "2026-06-23",
   title: "Where Things Stand — June 23, 2026",
   body: `It is seven days until July 1 and eight days until July 2, so here is where everything sits tonight, in plain terms, and what you can do this week.
