@@ -174,6 +174,7 @@ const DOCUMENTS = [
   { cat: "new", title: "Practical Action Guide — Community Edition", desc: "Community-facing version of the practical action guide.", file: "/pdfs/new-adsb-docs/ADSB_Practical_Action_Guide_Community_Edition_April2026.pdf" },
 
   // Information asymmetry
+  { cat: "info", title: "Warmth, Stick, Law — Three Documents, One Move", desc: "The ADAP move letter read word by word, set beside the friendly brochure and the regulation itself \u2014 so you can see how the tone shifts depending on which document you're reading. The warm version, the disciplinary version, and the binding legal version of the same change, side by side. Don't let gentle wording convince you the rules are softer than they are.", file: "/pdfs/july-2026-docs/ADAP_Warmth_Stick_Law_Three_Documents.pdf", released: "2026-06-26" },
   { cat: "info", title: "Information Asymmetry — Report", desc: "What disabled Albertans are being asked to decide without the information they need to decide it. Information asymmetry as the modern form of paternalism.", file: "/pdfs/information-asymmetry/0_Information_Asymmetry_Report.pdf" },
   { cat: "info", title: "Information Asymmetry — Plain Language", desc: "Plain-language companion document.", file: "/pdfs/information-asymmetry/1_Information_Asymmetry_Plain_Language_Companion.pdf" },
 

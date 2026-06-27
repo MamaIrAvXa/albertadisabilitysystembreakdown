@@ -9,6 +9,40 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-26",
+  title: "Where Things Stand — June 26, 2026",
+  body: `Here is where things sit right now, in plain language, so you do not have to dig through everything to know what matters this week.
+
+## THE BIG DATE IS JULY 2
+That is when the AISH-to-ADAP changes legally come into force. You will hear July 1 in a lot of places, but the binding legal date is July 2. About 46,000 people are being moved from AISH to ADAP.
+
+## THE MOST TIME-SENSITIVE THING: THE APPEAL DEADLINE
+If you want to file an AISH appeal, you have until June 30 — four days away. Here is why this is worth doing. Filing an appeal either keeps a right you have, or it puts on the record that the right was taken from you. Either way, you come away with something. Chantal has already filed hers, and would never ask any of you to do something she has not done herself. If you are thinking about it, do not let the days run out.
+
+## THE NEW ADAP LETTERS ARE LANDING NOW
+They tell people they have been selected for employment services starting July 2. We have already broken one of these letters down for you, word by word, and set it beside the friendly brochure and the regulation itself, so you can see how the tone changes depending on which document you are reading. That breakdown is posted on the site.
+
+## TWO FOREIGN COMPANIES ARE NOW RUNNING THE EMPLOYMENT SIDE
+The government has hired two private multinationals — AKG Canada, owned by an Australian company, and Serco Canada, owned by a UK company — to run the ADAP employment services. They will not hand you your income. The cheque still comes from the government. What they run is the assessment, the plan, and the referrals to job agencies.
+
+## ON THE MONEY, THE SHORT VERSION
+ADAP starts $200 a month below AISH. A temporary top-up hides that cut until the end of 2027, and then it bites. The federal disability benefit is being clawed back here dollar for dollar, and Alberta is the only province doing that. And one economist found that a person on ADAP would have to work 39 hours a week at minimum wage just to match what they had on AISH.
+
+## WHO STAYS ON AISH AUTOMATICALLY
+You are not being moved to ADAP, and you do not need to do anything, if you have a severe or profound developmental disability or PDD eligibility, a palliative or terminal condition, you live in continuing care, or you are 60 or older. If that is you, you stay on AISH.
+
+## A SMALL PIECE OF GOOD NEWS
+Around July 1 a $100 energy rebate goes out. If you are on AISH, ADAP, or Income Support, you are signed up automatically, and it does not reduce your benefits. You just need to have filed your 2025 taxes.
+
+## THE PODCAST
+We go live four days a week now, breaking down the real, sourced information as it comes. You can watch any of the episodes anytime on our YouTube — find the latest in the Podcast section of the site.
+
+## THE SAME ADVICE HOLDS THROUGH ALL OF THIS
+Ask for things in writing. Keep every letter and every answer, with the date on it. Do not let gentle wording convince you the rules are softer than they are. Knowing what is real is how you protect yourself.
+
+And one more thing, person to person. This is a lot to carry. Please be gentle with yourselves this week. You are not alone in it. If it gets heavy, reach out — to each other, to someone you trust, or a crisis line at 988, any time. We get through this together.`
+},
+{
   date: "2026-06-25",
   title: "Where Things Stand — June 25, 2026",
   body: `We are six days out from July 1, and the waiting is hard. Here is where things stand, in plain words, with no spin. If you read only one line, read this one: you are still on AISH right now, and nothing about your status changes overnight.
