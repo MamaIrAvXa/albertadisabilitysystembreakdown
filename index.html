@@ -335,6 +335,64 @@
   </div>
 </section>
 
+<!-- ───────────── ROSE PIN ORDER ───────────── -->
+<section id="rose-pin" class="rose-pin">
+  <div class="wrap">
+    <div class="rose-pin-inner">
+      <div class="rose-pin-text">
+        <p class="eyebrow">A rose, for the ones we carry</p>
+        <h2>Request a remembrance rose pin</h2>
+        <p class="section-intro">The pink ribbon rose is our remembrance — for the ones who fell without support, the people in our community who did not make it through. When you wear one, it tells the living they are not alone, because someone across a room wearing the same rose is someone who understands.</p>
+        <p class="rose-pin-free"><strong>The pins are always free</strong> — no charge, not now, not ever. Request up to five.</p>
+      </div>
+
+      <form
+        name="rose-pin-order"
+        method="POST"
+        data-netlify="true"
+        netlify-honeypot="bot-field"
+        action="/rose-thank-you.html"
+        class="rose-form"
+      >
+        <input type="hidden" name="form-name" value="rose-pin-order">
+        <p class="rose-hp" aria-hidden="true">
+          <label>Don't fill this out if you're human: <input name="bot-field"></label>
+        </p>
+
+        <label class="rose-field">
+          <span>Your name</span>
+          <input type="text" name="name" autocomplete="name" required>
+        </label>
+
+        <label class="rose-field">
+          <span>Mailing address <small>(street, city, province, postal code)</small></span>
+          <textarea name="address" rows="3" autocomplete="street-address" required></textarea>
+        </label>
+
+        <label class="rose-field">
+          <span>How many would you like?</span>
+          <select name="quantity" required>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </label>
+
+        <label class="rose-field">
+          <span>In memory of <small>(optional — a name you're wearing it for)</small></span>
+          <input type="text" name="in-memory-of">
+        </label>
+
+        <button type="submit" class="btn btn-primary">Request my rose</button>
+
+        <p class="rose-privacy">We use your address only to mail your rose. We don't share it, sell it, or add you to anything.</p>
+      </form>
+    </div>
+  </div>
+</section>
+
 <!-- ───────────── NUMBERS ─────────────  -->
 <section id="numbers" class="numbers">
   <div class="wrap">

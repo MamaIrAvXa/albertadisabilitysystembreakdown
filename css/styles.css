@@ -1375,6 +1375,67 @@ section + section { border-top: 1px solid var(--line); }
   .subscribe-strip-form input[type="email"] { flex: 1 1 auto; }
 }
 
+/* ─── Rose pin order form ─── */
+.rose-pin {
+  padding-block: 3rem;
+  background: var(--surface-2);
+  border-top: 1px solid rgba(212, 160, 23, 0.25);
+}
+.rose-pin-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  align-items: start;
+}
+.rose-pin-free {
+  color: var(--gold-300);
+  font-size: 1.05rem;
+  margin-top: 0.75rem;
+}
+.rose-form {
+  background: var(--bg);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.rose-field { display: flex; flex-direction: column; gap: 0.35rem; }
+.rose-field > span { color: var(--ink); font-weight: 600; font-size: 0.95rem; }
+.rose-field small { color: var(--ink-mute); font-weight: 400; }
+.rose-form input[type="text"],
+.rose-form textarea,
+.rose-form select {
+  padding: 0.7rem 0.9rem;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: var(--surface-2);
+  color: var(--ink);
+  font-size: 0.97rem;
+  font-family: inherit;
+  width: 100%;
+}
+.rose-form textarea { resize: vertical; }
+.rose-form input:focus,
+.rose-form textarea:focus,
+.rose-form select:focus {
+  outline: none;
+  border-color: var(--gold-500);
+  box-shadow: 0 0 0 3px rgba(212, 160, 23, 0.18);
+}
+.rose-form .btn { align-self: flex-start; }
+.rose-privacy {
+  font-size: 0.85rem;
+  color: var(--ink-mute);
+  margin: 0;
+}
+/* honeypot — hidden from real users */
+.rose-hp { position: absolute; left: -9999px; opacity: 0; height: 0; overflow: hidden; }
+@media (max-width: 760px) {
+  .rose-pin-inner { grid-template-columns: 1fr; gap: 1.5rem; }
+}
+
 @media print {
   .podcast { display: none; }
 }

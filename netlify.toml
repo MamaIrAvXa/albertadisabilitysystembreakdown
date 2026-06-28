@@ -43,6 +43,12 @@
   status = 301
   force = true
 
+# Rose-pin order success page — must resolve before the catch-all below
+[[redirects]]
+  from = "/rose-thank-you"
+  to = "/rose-thank-you.html"
+  status = 200
+
 # 404 fallback to home
 [[redirects]]
   from = "/*"
