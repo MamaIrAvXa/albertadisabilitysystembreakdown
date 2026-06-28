@@ -1442,6 +1442,16 @@ section + section { border-top: 1px solid var(--line); }
   color: var(--ink-mute);
   margin: 0;
 }
+.rose-note {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--ink-soft);
+  background: rgba(212, 160, 23, 0.08);
+  border-left: 3px solid var(--gold-500);
+  border-radius: 0 8px 8px 0;
+  padding: 0.7rem 0.9rem;
+  margin: 0;
+}
 /* honeypot — hidden from real users */
 .rose-hp { position: absolute; left: -9999px; opacity: 0; height: 0; overflow: hidden; }
 @media (max-width: 760px) {
