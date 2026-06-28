@@ -1392,6 +1392,13 @@ section + section { border-top: 1px solid var(--line); }
   font-size: 1.05rem;
   margin-top: 0.75rem;
 }
+.rose-pin-photo {
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  height: auto;
+  margin-top: 1.5rem;
+}
 .rose-form {
   background: var(--bg);
   border: 1px solid rgba(255, 255, 255, 0.12);
