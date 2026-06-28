@@ -348,6 +348,7 @@
       </div>
 
       <form
+        id="rose-pin-form"
         name="rose-pin-order"
         method="POST"
         data-netlify="true"
@@ -384,7 +385,7 @@
 
         <label class="rose-field">
           <span>Postal code</span>
-          <input type="text" name="postal-code" autocomplete="postal-code" required>
+          <input type="text" name="postal-code" autocomplete="postal-code" pattern="[A-Za-z][0-9][A-Za-z]\s?[0-9][A-Za-z][0-9]" title="Enter a Canadian postal code, like T8N 1L7" required>
         </label>
 
         <label class="rose-field">
@@ -407,6 +408,23 @@
 
         <p class="rose-privacy">We use your address only to mail your rose. We don't share it, sell it, or add you to anything.</p>
       </form>
+      <script>
+        (function () {
+          var f = document.getElementById('rose-pin-form');
+          if (!f) return;
+          f.addEventListener('submit', function (e) {
+            var req = f.querySelectorAll('[required]');
+            for (var i = 0; i < req.length; i++) {
+              if (!req[i].value || !req[i].value.trim()) {
+                e.preventDefault();
+                req[i].focus();
+                if (typeof req[i].reportValidity === 'function') req[i].reportValidity();
+                return false;
+              }
+            }
+          });
+        })();
+      </script>
     </div>
   </div>
 </section>
