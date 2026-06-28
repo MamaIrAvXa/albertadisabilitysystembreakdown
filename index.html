@@ -366,8 +366,25 @@
         </label>
 
         <label class="rose-field">
-          <span>Mailing address <small>(street, city, province, postal code)</small></span>
-          <textarea name="address" rows="3" autocomplete="street-address" required></textarea>
+          <span>Street address</span>
+          <input type="text" name="street-address" autocomplete="street-address" required>
+        </label>
+
+        <div class="rose-field-row">
+          <label class="rose-field">
+            <span>City / town</span>
+            <input type="text" name="city" autocomplete="address-level2" required>
+          </label>
+
+          <label class="rose-field">
+            <span>Province</span>
+            <input type="text" name="province" autocomplete="address-level1" value="Alberta" required>
+          </label>
+        </div>
+
+        <label class="rose-field">
+          <span>Postal code</span>
+          <input type="text" name="postal-code" autocomplete="postal-code" required>
         </label>
 
         <label class="rose-field">

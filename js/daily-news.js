@@ -9,6 +9,46 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-27",
+  title: "Where Things Stand — June 27, 2026",
+  body: `Here is where things sit tonight, in plain words. We are four days out, so this one matters.
+
+## THE BIG DATES
+July 1 is when ADAP starts and the move from AISH to ADAP begins. July 2 is the legal date the law actually takes effect. The program paperwork says July 1, but the binding legal date is July 2. Either way, this is days away now.
+
+## WHAT HAPPENS TO YOUR MONEY
+If you are on AISH now, on July 1 you most likely move to ADAP. You get a $1,740 cheque plus a $200 top-up, so your total stays at $1,940, the same as now, until the end of 2027. After 2027 that $200 top-up stops unless the government changes course. This is confirmed on the government's own website as of tonight.
+
+## WHO STAYS ON AISH AUTOMATICALLY
+You do not go through any of this if you are in one of these four groups: severe developmental disability or PDD eligibility, palliative or terminal conditions, continuing care, and age 60 and over. Everyone else is being moved to ADAP.
+
+## THE PART ABOUT APPEALS, SAID PLAINLY
+You can appeal some ADAP decisions. But you cannot appeal the decision to put you on ADAP instead of AISH. There is no way to fight that one directly. If you believe you belong on AISH, the route is to ask for an AISH assessment, and the government will pay for one medical assessment.
+
+## ABOUT BEING EXPECTED TO TAKE PART
+People moved to ADAP will be expected to take part in employment services to receive their benefits. That is exactly why we built the self-advocacy worksheet posted today. It is so you can arm yourself ahead of time, before you sit in front of an employment worker, with your goals, your accommodations, and your needs already written in your own words. Filling it out is you taking part on your terms, prepared, instead of caught off guard. There are three versions: type on screen, printer-friendly, or print and write by hand. You'll find all three in the Take Action section.
+
+## IF FACEBOOK WILL NOT LET YOU GRAB THE FORMS
+A few of you have had trouble pulling documents from the group. That is Facebook, not you. Every form is also on our website, easy to download and print: albertadisabilitysystembreakdown.netlify.app
+
+## ON THE CANADA DISABILITY BENEFIT, TWO DIFFERENT MONEYS
+This one gets tangled, so here it is split clean. First, if the $200 is being deducted from you right now while you are still waiting for your CDB to be approved, that is money taken for a benefit you are not receiving yet, and you can ask for it back. Report your application status to AISH in writing, then request the correction. There is a ready-made letter for exactly this in the Take Action section. Second, once your CDB is approved and paying, Alberta claws it back dollar for dollar, so it does not add to your income here. Alberta is the only province doing that, and it is one of the things we are fighting. One is money you may be owed back. The other is the clawback. Different moneys.
+
+## THE $100 ENERGY REBATE, A RARE BIT OF GOOD NEWS
+If you are on AISH, ADAP or Income Support, you will get a one-time $100. It comes automatically, you do not apply, and it will not be clawed back or reduce your other benefits. Everyone else has to apply through a portal and must have filed their 2025 taxes.
+
+## WHO IS RUNNING THE JOB HELP
+The employment side of ADAP will be run by large private contractors, not government caseworkers. If you are moved to ADAP, you may be dealing with these companies. Keep a record of every interaction, ask for things in writing, and keep your copies.
+
+## OUTSIDE VOICES BACKING US UP
+A University of Calgary policy school published a new study two days ago on these changes. It is neutral, independent, and it lines up with what we have been saying. That matters, because it is no longer just us. The Opposition is also calling for the switch to be stopped, though they have not been able to stop it — July 1 is still going ahead.
+
+## WHAT TO DO THIS WEEK IF YOU CAN
+Take a breath first. You do not have to absorb all of this at once. If you want to do something, the most useful steps are: grab the worksheet so you walk into any meeting prepared, and if you believe you belong on AISH, ask for that assessment. If you are not sure where you stand, reach out and we will point you to the one or two things that actually apply to you.
+
+You are not facing this alone. We are still in this together, and we will keep sorting it out one step at a time.`
+},
+{
   date: "2026-06-26",
   title: "Where Things Stand — June 26, 2026",
   body: `Here is where things sit right now, in plain language, so you do not have to dig through everything to know what matters this week.
