@@ -9,6 +9,34 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-28",
+  title: "Where Things Stand — June 28, 2026",
+  body: `This is the big one, so let's keep it plain and clear. We are now days away from the change. The program says it goes live July 1, and the legal date is July 2. This is the last weekend before it is real. Here is what matters right now.
+
+## IF YOU WANT TO FIGHT TO STAY ON AISH, THE APPEAL WINDOW CLOSES JUNE 30
+That is the last working day before the change. After that, the old appeal process for the transition closes. So if this is you, file now. There are three forms in the Take Action section: the general AISH appeal, which is the one most people need; a CPP-D version if Canada Pension Plan disability is part of your story; and an exemption-category correction if you clearly fit one of the auto-stay groups. When in doubt, take the general one and reach out.
+
+Two things worth saying every time, because they matter. One, the appeal does not go to the AISH office. It goes to the Appeals Secretariat, a separate office. Send it to the wrong place and it gets tossed. Two, appealing is not pointless. Alberta's own numbers show panels overturned about one in three decisions. That is a real chance, and it is your right while the window is open.
+
+## REASSESSMENT IS A SEPARATE PATH, AND IT HAS NO DEADLINE
+So if you cannot make June 30, you are not out of options. You can ask to be reassessed any time, and the government covers one medical assessment. You can do both: appeal now while the window is open, and pursue reassessment after.
+
+## SOME GOOD NEWS, CONFIRMED IN WRITING
+The $100 Alberta energy rebate. If you are on AISH, ADAP, Income Support or the Seniors Benefit, you are auto-enrolled — no application needed. The province has confirmed it is tax-free, you do not report it to the CRA, and it is not clawed back from your benefits. So this one you actually get to keep. The portal for everyone else opens July 1 and closes September 30.
+
+And hold the contrast. In the same window, the Canada Disability Benefit is being clawed back here dollar-for-dollar, every month, and Alberta is the only province doing that. There is a form in the Take Action section to correct your file. Two separate amounts, and neither one is new money in your pocket.
+
+## THE QUESTION WE'VE BEEN CHASING ALL WEEK
+Who actually got hired to run the new program, where are they from, and how did they get the job? We followed the money, and what we found is all public record. We are bringing the whole story to the live show tomorrow, and it is going to surprise some of you. Come watch with us.
+
+Here is the link for Monday's live show: https://www.youtube.com/live/8CC4K_ngB7o
+
+## THE REMINDER THAT MATTERS MOST
+July 1, 10 AM, the teach-in at the legislature. Wear your rose pins. We show up together.
+
+You are not alone in this. We see you, and we are documenting all of it. Be well, be safe, and most of all — courage.`
+},
+{
   date: "2026-06-27",
   title: "Where Things Stand — June 27, 2026",
   body: `Here is where things sit tonight, in plain words. We are four days out, so this one matters.
