@@ -9,6 +9,58 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-29",
+  title: "Where Things Stand — June 29, 2026",
+  body: `This is a big one, because we are right at the edge of the change now. Here it is, plain and simple, so you know what matters in the next few days.
+
+## THE APPEAL DEADLINE IS TOMORROW
+If you are going to appeal, the window closes June 30. That is tomorrow. After that, the old appeal door is locked.
+
+You do not have to use the official form. A signed letter counts. It just has to say you are appealing, who you are, and what you are appealing — and it has to be signed. Even a handwritten or screenshot-filled form counts, as long as you sign it.
+
+Send your appeal to the Appeals Secretariat, NOT the regular AISH office. If you send it to the AISH office it can get lost.
+
+## THE APPEAL EMAIL ADDRESS HAS CHANGED
+With the transition rolling out, the government is updating its email addresses, and the appeal email has changed. To be safe, send your appeal to BOTH addresses:
+
+To: css.appeals@gov.ab.ca
+CC: alss.appeals@gov.ab.ca
+
+Sending to both means it lands no matter which one is live right now. There is no downside.
+
+You can also fax it to 780-422-1088, or mail it to: Appeals Secretariat, 2nd Floor, Agronomy Centre, 6903 116 Street NW, Edmonton AB T6H 5Z2.
+
+Always keep a copy of what you send. After you send it, call 780-427-2709 to confirm they got it. If you already sent your appeal to one address, do not panic — just call that number to confirm it is on file. One call settles it.
+
+## IF YOU MISS THE DEADLINE, YOU ARE NOT OUT OF OPTIONS
+The appeal is one door. Reassessment is another, and that door never closes. Reassessment to get back on AISH has no deadline at all. So if June 30 passes, you can still ask to be reassessed any time, with medical documentation. You have not lost your chance.
+
+## IF YOU WERE MOVED BUT SHOULD HAVE STAYED
+Some people stay on AISH automatically and do not need to do anything. Those are people with a severe or profound developmental disability or who get PDD services, people with a palliative or terminal condition, people living in a continuing care home, and people 60 or older.
+
+If you are in one of those groups but got a letter moving you to ADAP, that is a mistake, and it is theirs to fix. That is a correction, not an appeal. There is a correction form in the Take Action section for exactly this.
+
+## WHAT IS HAPPENING JULY 1 AND JULY 2
+ADAP goes live July 1. The legal change takes effect July 2. About 46,000 people move from AISH to ADAP.
+
+About the money, so you are not caught off guard. If you move to ADAP, you get a top-up that keeps your amount the same until the end of 2027. Then, unless the plan changes, it drops by $200 a month starting January 2028. So the top-up is not extra money. It is a cut on a timer.
+
+The federal Canada Disability Benefit is going up a little, but Alberta takes it back dollar for dollar, so for most people on AISH or ADAP it does not add money to your pocket.
+
+## THE $100 ENERGY REBATE IS CONFIRMED
+If you are on AISH, ADAP, Income Support, or the Seniors Benefit, you are signed up automatically — no application needed. It is tax-free, it is not reported, and it is not clawed back. It arrives with your July payment. If you have a spouse or partner who is not a recipient, they apply separately.
+
+## WE STAND TOGETHER TOMORROW
+Wednesday, July 1, is our Teach-In at the Alberta Legislature grounds in Edmonton, 10 AM to 4 PM. It is a calm, stationary teach-in — not a march, not a yelling protest. Just steady, structured sharing of exactly what is happening, for anyone willing to stop for five minutes. Come for five minutes or stay six hours. Bring water and a hat — it is Canada Day in Edmonton. If you cannot make it, we will be live on Facebook and YouTube.
+
+## ONE LAST THING
+If all of this feels like a lot, that is because it is. You are not behind, you are not failing. The system did not make this easy, and that is not your fault. Reach out if you are stuck — so none of us does this alone.
+
+If you are struggling tonight, you can call or text 988 any time, or the Alberta Mental Health Help Line at 1-877-303-2642. No judgment, ever.
+
+You have got this. We have got this. Together.`
+},
+{
   date: "2026-06-28",
   title: "Where Things Stand — June 28, 2026",
   body: `This is the big one, so let's keep it plain and clear. We are now days away from the change. The program says it goes live July 1, and the legal date is July 2. This is the last weekend before it is real. Here is what matters right now.
