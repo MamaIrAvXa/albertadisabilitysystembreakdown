@@ -79,6 +79,43 @@
 .pinned-card strong { color: var(--gold-300, #f7cd77); }
 .pinned-btns { display: flex; flex-wrap: wrap; gap: .6rem; }
 .pinned-note { font-size: .8rem; opacity: .75; margin: .7rem 0 0 !important; }
+.appeal-closed-banner {
+  border: 2px solid var(--gold-500, #d4a017);
+  background: rgba(212,160,23,.08);
+  border-radius: 14px;
+  padding: 1.4rem 1.6rem;
+  margin-bottom: 1.6rem;
+}
+.appeal-closed-banner h2 {
+  margin: 0 0 .3rem;
+  font-size: 1.6rem;
+  color: var(--gold-300, #f7cd77);
+  letter-spacing: .01em;
+}
+.appeal-closed-banner .banner-tagline {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--ink, #eef3fa);
+  margin: 0 0 .8rem;
+}
+.appeal-closed-banner p { color: var(--ink-soft, #c7d3e4); line-height: 1.55; margin: 0 0 .7rem; }
+.appeal-closed-banner p:last-child { margin-bottom: 0; }
+.appeal-closed-banner strong { color: var(--gold-300, #f7cd77); }
+.action-closed { opacity: .72; }
+.action-closed .btn { filter: grayscale(.3); }
+.closed-badge {
+  display: inline-block;
+  font-size: .7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--gold-300, #f7cd77);
+  border: 1px solid var(--gold-500, #d4a017);
+  border-radius: 999px;
+  padding: .12rem .5rem;
+  margin-left: .4rem;
+  vertical-align: middle;
+}
 </style>
 <style>
 /* Event pop-up */
@@ -194,17 +231,14 @@
 <section id="act-now" class="pinned-actions">
   <div class="wrap">
     <div class="pinned-inner">
+      <div class="appeal-closed-banner">
+        <h2>Appeal Window Has Closed</h2>
+        <p class="banner-tagline">This is not the end — the fight continues.</p>
+        <p>The deadline to appeal the move to ADAP was June 30, and the new rules block these appeals as of July 2. If you did not file one, please don't carry any guilt — there is another door, and it is still wide open.</p>
+        <p>That door is <strong>reassessment</strong>. If you cannot work because of a permanent disability, you can ask to be reviewed to return to AISH — and that path has <strong>no deadline</strong>. It does not close. More is coming soon on how to ask for a reassessment and put your strongest case forward.</p>
+      </div>
       <p class="pinned-eyebrow">⏳ Time-sensitive — act now</p>
       <div class="pinned-grid">
-        <div class="pinned-card">
-          <h3>Appeal an AISH decision</h3>
-          <p>The window to appeal an existing AISH decision closes <strong>June 30</strong>. The government accepts a signed written letter, so you don't need their online form. The appeal is already written — you just add your details. If you receive CPP Disability, there's a stronger version that appeals on those grounds.</p>
-          <div class="pinned-btns">
-            <a class="btn btn-primary" href="/pdfs/fillable/AISH_Appeal_Letter_Fillable_June2026.pdf" target="_blank" rel="noopener">Open fillable</a>
-            <a class="btn btn-ghost-sm" href="/pdfs/fillable/AISH_Appeal_Letter_ReadyToPrint_and_Sign_June2026.pdf" target="_blank" rel="noopener">Print &amp; sign</a>
-            <a class="btn btn-cppd" href="/pdfs/fillable/Fillable_AISH_Appeal_CPPD_Grounds_June2026.pdf" target="_blank" rel="noopener">★ On CPP Disability? Use this stronger appeal</a>
-          </div>
-        </div>
         <div class="pinned-card">
           <h3>Request your own AISH file</h3>
           <p>Get a free copy of your own AISH file through Access to Information, so you can see what's on record and catch any gaps before a reassessment or appeal. They have 30 days to respond, so request early.</p>
@@ -853,16 +887,18 @@
         <a class="btn btn-primary" href="/pdfs/fillable/Fillable_Community_Story_Submission.pdf" target="_blank" rel="noopener">Open template</a>
         <a class="btn btn-ghost-sm" href="/pdfs/fillable/Fillable_Community_Story_Submission_PRINTABLE.pdf" target="_blank" rel="noopener">Printable version</a>
       </article>
-      <article class="action-card">
-        <h3>Pre-Appeal Submission of New Information</h3>
-        <p>Ask AISH to reconsider a recent decision <em>before</em> you file a Notice of Appeal. Critical: once a Notice of Appeal is filed, the AISH Policy Manual prohibits the Appeal Panel from considering any new information — the pre-appeal stage is the only window where new evidence can change the outcome. Does not pause the 30-day appeal clock.</p>
-        <a class="btn btn-primary" href="/pdfs/fillable/Fillable_Pre_Appeal_Submission.pdf" target="_blank" rel="noopener">Open form</a>
+      <article class="action-card action-closed">
+        <h3>Pre-Appeal Submission of New Information <span class="closed-badge">Closed</span></h3>
+        <p><em>The appeal window closed June 30, 2026. This form is kept for reference. If you cannot work because of a permanent disability, the open path now is reassessment — see the notice at the top of the page.</em></p>
+        <p>Ask AISH to reconsider a recent decision <em>before</em> you file a Notice of Appeal. Once a Notice of Appeal is filed, the AISH Policy Manual prohibits the Appeal Panel from considering any new information.</p>
+        <a class="btn btn-ghost-sm" href="/pdfs/fillable/Fillable_Pre_Appeal_Submission.pdf" target="_blank" rel="noopener">Open form (reference)</a>
       </article>
-      <article class="action-card">
-        <h3>AISH Appeal Letter</h3>
-        <p>A formal Notice of Appeal letter for an AISH decision — fillable to complete on screen, or a ready-to-print-and-sign version. File within 30 days of being notified of the decision and your right to appeal. See the plain-language appeal guides in Documents for which route fits your situation.</p>
-        <a class="btn btn-primary" href="/pdfs/fillable/AISH_Appeal_Letter_Fillable_June2026.pdf" target="_blank" rel="noopener">Open fillable</a>
-        <a class="btn btn-ghost-sm" href="/pdfs/fillable/AISH_Appeal_Letter_ReadyToPrint_and_Sign_June2026.pdf" target="_blank" rel="noopener">Ready to print &amp; sign</a>
+      <article class="action-card action-closed">
+        <h3>AISH Appeal Letter <span class="closed-badge">Closed</span></h3>
+        <p><em>The appeal window closed June 30, 2026. This form is kept for reference. The open path now is reassessment — see the notice at the top of the page.</em></p>
+        <p>A formal Notice of Appeal letter for an AISH decision — fillable, or a ready-to-print-and-sign version.</p>
+        <a class="btn btn-ghost-sm" href="/pdfs/fillable/AISH_Appeal_Letter_Fillable_June2026.pdf" target="_blank" rel="noopener">Open fillable (reference)</a>
+        <a class="btn btn-ghost-sm" href="/pdfs/fillable/AISH_Appeal_Letter_ReadyToPrint_and_Sign_June2026.pdf" target="_blank" rel="noopener">Print &amp; sign (reference)</a>
       </article>
       <article class="action-card">
         <h3>My Individual Plan — Self-Advocacy Worksheet</h3>
@@ -877,10 +913,11 @@
         <a class="btn btn-primary" href="/pdfs/fillable/DISABILITY_Advocacy_Consent_Fillable.pdf" target="_blank" rel="noopener">Fill on screen</a>
         <a class="btn btn-ghost-sm" href="/pdfs/fillable/DISABILITY_Advocacy_Consent_PrintFill.pdf" target="_blank" rel="noopener">Print &amp; fill by hand</a>
       </article>
-      <article class="action-card">
-        <h3>AISH Appeal on CPP-D Grounds</h3>
-        <p>If you have been approved for the Canada Pension Plan Disability benefit, this letter appeals your AISH decision and asks to remain on AISH on those grounds. CPP-D's federal test — severe and prolonged — maps directly onto the AISH severe-handicap test, so your CPP-D approval is strong evidence already on the record. Fill in the blanks, sign, and attach your CPP-D approval letter.</p>
-        <a class="btn btn-primary" href="/pdfs/fillable/Fillable_AISH_Appeal_CPPD_Grounds_June2026.pdf" target="_blank" rel="noopener">Open letter</a>
+      <article class="action-card action-closed">
+        <h3>AISH Appeal on CPP-D Grounds <span class="closed-badge">Closed</span></h3>
+        <p><em>The appeal window closed June 30, 2026. This letter is kept for reference. Your CPP-D approval is still strong evidence for a reassessment — see the notice at the top of the page.</em></p>
+        <p>If you have been approved for CPP Disability, this letter appeals your AISH decision on those grounds. CPP-D's federal test — severe and prolonged — maps directly onto the AISH severe-handicap test.</p>
+        <a class="btn btn-ghost-sm" href="/pdfs/fillable/Fillable_AISH_Appeal_CPPD_Grounds_June2026.pdf" target="_blank" rel="noopener">Open letter (reference)</a>
       </article>
       <article class="action-card">
         <h3>CDB Overpayment Appeal</h3>

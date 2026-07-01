@@ -9,6 +9,46 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-06-30",
+  title: "Where Things Stand — June 30, 2026",
+  body: `This is a big week, so here is where things stand, plainly, no jargon.
+
+## THE BIG CHANGE THIS WEEK
+Most people on AISH are being moved to the new program, ADAP — about 46,000 to 50,000 of us. The new rules are officially in effect July 2.
+
+On the money, here is the real picture. AISH base was $1,940 a month. The ADAP base is $1,740, which is $200 lower. For now there is a $200 top-up that keeps your amount the same, so most people will not feel a cut right away. But that top-up is set to end after 2027, and then the lower amount becomes permanent in 2028. So the cut is real. It is just delayed. Those are the current government figures.
+
+Some people stay on AISH automatically and are not moved: severe or profound developmental disability, PDD eligibility, palliative or terminal conditions, people in continuing care, and people 60 and over. If that is you, you stay.
+
+## WE ARE AT THE LEGISLATURE TODAY
+Today, Canada Day, Gavin and Chantal are at the Alberta Legislature grounds from 10 in the morning to 4 in the afternoon. It is not a march and it is not a yelling protest — it is an information booth, to set the record straight for regular Albertans who have only heard the government's version of this. Come find us. Say hello, grab a card, grab a rose pin, share your story if you want to, even for five minutes. If you cannot make it in person, we are streaming it live on our Facebook page and on the ISH Actions YouTube.
+
+## MONEY YOU GET TO KEEP: THE ENERGY REBATE
+Good news, and it is already done for you. As an AISH or ADAP recipient, you automatically get a one-time $100 Alberta Energy Rebate, and it is already added to your July payment. You do not have to apply, and you do not have to pay it back. It does not count against your benefit either.
+
+One thing to pass along: if you have a partner or an adult family member who is not on AISH or ADAP, they can get their own $100, but they have to apply for it themselves at albertaenergyrebate.alberta.ca, or by phone at 1-844-401-4014.
+
+## THE FEDERAL BENEFIT: DO NOT GET YOUR HOPES UP
+The federal disability benefit goes up a little in July, to about $204 a month. But Alberta subtracts the whole federal payment from your AISH or ADAP, dollar for dollar. So for most of us here, this raise means no extra money in your pocket. Alberta is the only province that does this.
+
+## QUICK TRUTHS TO HOLD ONTO
+No new prescription co-pay for us. If you are on AISH or ADAP, you pay nothing for covered prescriptions. That $35 co-pay in the news is for the seniors and non-group plans, not for us.
+
+Watch out for a scam. There is a fake text going around saying your health card must be replaced by a deadline. It is a phishing scam — do not click it. Health cards are provincial; there is no national replacement.
+
+If your ADAP letter is confusing about whether you must join job programs, or whether your medical benefits are safe, you are not alone. Get the answer in writing before you do anything.
+
+## A NOTE ON APPEALS, AND THE DOOR THAT IS STILL OPEN
+The window to appeal the move to ADAP has now closed. The deadline was June 30, and the new rules block these appeals starting July 2. If you did not file one, please do not carry any guilt about it, because there is another door, and it is still wide open.
+
+That door is reassessment. If you cannot work because of a permanent disability, you can ask to be reviewed to go back on AISH, and that path has no deadline. It does not close on you. It is not too late, and it does not become too late. We will have more soon on how to ask for a reassessment and how to put your strongest case forward. So if the appeal window closing worries you, take a breath. Reassessment is the road now, and we will walk it with you.
+
+## ONE LAST THING
+This is a heavy week for a lot of us, and it is okay to feel it. You are not carrying this alone. If it is weighing on you and you are struggling, please reach out. You can call or text 988 any time, and the Alberta Mental Health Help Line is 1-877-303-2642.
+
+We will keep telling you the truth, plainly, and checking it before we say it. Come see us today if you can.`
+},
+{
   date: "2026-06-29",
   title: "Where Things Stand — June 29, 2026",
   body: `This is a big one, because we are right at the edge of the change now. Here it is, plain and simple, so you know what matters in the next few days.
