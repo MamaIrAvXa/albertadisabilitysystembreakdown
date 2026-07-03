@@ -9,6 +9,46 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-02",
+  title: "Where Things Stand — July 1–2, 2026",
+  body: `The change we have all been bracing for is now law. Here is where things stand, plainly, no jargon.
+
+## THE CHANGE IS NOW OFFICIAL
+As of today, the AISH-to-ADAP change is legally in effect. Most people on AISH — somewhere around 46,000 to 50,000 of us — are being moved to the new ADAP program.
+
+On the money, here is the picture we have confirmed. AISH base was $1,940 a month. The ADAP base is $1,740, which is $200 lower. For now there is a $200 top-up that keeps your amount the same, so most people will not feel a cut right away. That top-up is set to run until the end of 2027, and then the lower amount becomes permanent in 2028. So the cut is real. It is just delayed. One thing worth doing: confirm your own end date on your own letter, because that is the date that matters for you.
+
+Some people stay on AISH automatically and are not moved: severe or profound developmental disability, PDD eligibility, palliative or terminal conditions, people in continuing care, and people 60 and over. If that is you, you stay.
+
+## NEXT MONTH: THE COUPLES RULE
+There is a change coming for couples that we want you to see ahead of time, not get surprised by. Starting with the August benefit period, in a household where two adults both receive disability money — AISH or ADAP — each person may receive 88 percent of the maximum single amount instead of the full amount. This is our last confirmed figure, so if this is you and your partner, ask for your exact numbers in writing before you count on anything.
+
+## MONEY YOU GET TO KEEP: THE ENERGY REBATE
+Good news, and it is already handled for you. As an AISH or ADAP recipient, you get a one-time $100 Alberta Energy Rebate automatically. You do not apply, you do not pay it back, it is not taxed, and it does not reduce your benefit. If you have a partner or an adult family member who is not on AISH or ADAP, they can get their own $100, but they have to apply themselves at energyrebate.alberta.ca by September 30.
+
+## THE FEDERAL BENEFIT: DO NOT GET YOUR HOPES UP
+The federal disability benefit went up a little in July, to about $204 a month. But Alberta subtracts the whole federal payment from your AISH or ADAP, dollar for dollar. So for most of us here, this raise means no extra money in your pocket. Alberta is still the only province doing this. You do still have to apply for it, or you risk losing $200, so make sure your 2025 taxes are filed.
+
+## QUICK TRUTHS TO HOLD ONTO
+No new prescription co-pay for us. If you are on AISH or ADAP, you pay nothing for covered prescriptions. That $35 co-pay in the news is for the seniors and non-group plans, not for us.
+
+Do not guess about earnings. The amount you can earn before it affects your benefit has changed, and the rate they take back above that limit is still not published anywhere. So do not change your work hours based on a rumor or a number off the internet. Ask for your own figures in writing first.
+
+Watch for a scam. There is a fake text going around saying your health card must be replaced by a deadline. It is a phishing scam — do not click it. Health cards are provincial; there is no national replacement.
+
+Check your mail and know the number. Your letter tells you whether you are on AISH or ADAP. If you are unsure, the Alberta Supports line is 1-877-644-9992. Call early, it can be busy, and keep notes on who you spoke to and when.
+
+## IF YOU THINK YOU SHOULD NOT BE ON ADAP
+The window to appeal the move itself has closed. Please do not carry guilt if you did not file, because there is another door and it is still wide open. That door is reassessment. If you cannot work because of a permanent disability, you can ask to be reviewed to go back on AISH, and that path has no deadline. It does not close on you. The application is now one combined form — the DS2444A, which you complete, plus the DS2444B medical report from your health professional. You'll find the links and where to send them in the Take Action section. We will have more soon on how to build your strongest case.
+
+One thing to know going in: if a medical panel places you on ADAP rather than AISH, that placement is final. So when you build your reassessment, build it strong the first time. We will help you do that.
+
+## ONE LAST THING
+This is a heavy week, and it is okay to feel it. You are not carrying this alone. Gavin and Chantal were out at the Legislature this past Canada Day setting the record straight for anyone who would stop and listen, and we will be back on the podcast Friday, July 3rd. If this is weighing on you and you are struggling, please reach out to someone you trust. You can call or text 988 any time, and the Alberta Mental Health Help Line is 1-877-303-2642.
+
+We will keep telling you the truth, plainly, and checking it before we say it.`
+},
+{
   date: "2026-06-30",
   title: "Where Things Stand — June 30, 2026",
   body: `This is a big week, so here is where things stand, plainly, no jargon.
