@@ -621,7 +621,7 @@ const JUST_DROPPED_DAYS = 7;
 const ACTION_FORMS = [
   { title: "Move Fast, Break Things — Accountability Submission", desc: "An accountability submission to send to your MLA, the Minister, or any party leader \u2014 four examples from the government's own record (the ADAP cut, the Access to Information rollback, the 2.9-million-voter data breach, the AHS break-up) and one question: where do you stand, and what will you do?", file: "/pdfs/fillable/MoveFastBreakThings_Accountability_Submission_June2026.pdf", released: "2026-06-09" },
   { title: "Letter to the Minister", desc: "A letter anyone can send to the Minister responsible for AISH and ADAP, making the human-rights case against being moved to ADAP with no new individual assessment and no independent appeal. Fill in your own story; copy your MLA, the Opposition critic, and local media.", file: "/pdfs/fillable/Fillable_Letter_to_the_Minister_AISH_to_ADAP_June2026.pdf", released: "2026-06-06" },
-  { title: "CDB $200 Deduction Correction Letter", desc: "File-correction letter for when the $200 Canada Disability Benefit amount was deducted but does not match the CDB status you reported.", file: "/pdfs/fillable/Fillable_CDB_200_Deduction_Correction_Letter.pdf", released: "2026-06-05" },
+  { title: "CDB $200 Deduction Correction Letter", desc: "File-correction letter for when the $200 Canada Disability Benefit amount was deducted but does not match the CDB status you reported. Updated July 2026 for the ADAP transition.", file: "/pdfs/fillable/Fillable_CDB_Deduction_Correction_Letter_v2_July2026.pdf", released: "2026-07-03" },
   { title: "CDB Underpayment Repayment Request", desc: "For when AISH deducted the $200 CDB amount but you were not actually receiving the federal benefit \u2014 denied, still pending, or more was taken than you received. Cites the AISH General Regulation rule that the director MUST repay an underpayment for the entire period, and asks them to put the calculation in writing and pay it back. The mirror of the repayment form: that one is for when you owe them, this one is for when they owe you.", file: "/pdfs/fillable/Fillable_CDB_Underpayment_Repayment_Request.pdf", released: "2026-06-22" },
   { title: "Disability Advocacy Consent Form", desc: "A consent form authorizing an advocate to act on your behalf \u2014 so someone you trust can speak to AISH, ADAP, the Appeals Secretariat, or a worker for you, and help with your file. You decide what it covers and you can withdraw it any time. Two versions: a fillable copy to complete on screen, or a print-and-fill copy to complete by hand.", file: "/pdfs/fillable/DISABILITY_Advocacy_Consent_Fillable.pdf", released: "2026-06-29" },
   { title: "My Individual Plan — Self-Advocacy Worksheet", desc: "When you move to ADAP, someone will call you about employment services and ask you to help build a plan. This worksheet means you do not walk in cold. Fill it in first, at home, on your own terms, as the expert on your own life \u2014 your goals, what you can and cannot do, the accommodations you need, the barriers in your way, and the letters that back you up. Then the plan gets built around what YOU said. Includes plain-language pages on what to expect, a breakdown of what your ADAP letter really means, the Alberta Supports numbers, and an example for every section. Three versions: fill on screen (colour), fill on screen (printer-friendly), or print and write by hand. It is yours to keep \u2014 bring the original, let your worker take a copy.", file: "/pdfs/fillable/My_Individual_Plan_SelfAdvocacy_Worksheet.pdf", released: "2026-06-26" },
@@ -810,26 +810,34 @@ function renderDailyNews() {
       <div class="dn-body">${dnBodyToHtml(latest.body)}</div>
     </article>`;
 
-  // Latest shown in full; June grouped into one; May and earlier grouped
-  const june = rest.filter(p => p.date >= "2026-06-01" && p.date <= "2026-06-30");
-  const earlier = rest.filter(p => p.date < "2026-06-01");
+  // Latest shown in full; every older post auto-grouped by its own month (newest month first).
+  // Dynamic so new months (July, August, ...) never need a code change and no post is ever dropped.
+  const MONTH_NAMES = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  const monthKeyOf = d => d.slice(0, 7); // "2026-07"
+  const monthLabelOf = key => {
+    const [y, m] = key.split("-");
+    return `${MONTH_NAMES[parseInt(m, 10) - 1]} ${y}`;
+  };
 
-  if (june.length || earlier.length) {
+  // Preserve existing order (already newest-first) while bucketing by month
+  const monthOrder = [];
+  const byMonth = {};
+  rest.forEach(p => {
+    const key = monthKeyOf(p.date);
+    if (!byMonth[key]) { byMonth[key] = []; monthOrder.push(key); }
+    byMonth[key].push(p);
+  });
+
+  if (monthOrder.length) {
     html += `<h3 class="dn-archive-title">Earlier updates</h3>`;
-  }
-  if (june.length) {
-    html += `
+    monthOrder.forEach(key => {
+      const posts = byMonth[key];
+      html += `
       <details class="dn-archive-item dn-month">
-        <summary>June 2026 \u2014 ${june.length} earlier updates</summary>
-        <div class="dn-month-inner">${june.map(dnItem).join("")}</div>
+        <summary>${monthLabelOf(key)} \u2014 ${posts.length} earlier update${posts.length === 1 ? "" : "s"}</summary>
+        <div class="dn-month-inner">${posts.map(dnItem).join("")}</div>
       </details>`;
-  }
-  if (earlier.length) {
-    html += `
-      <details class="dn-archive-item dn-month">
-        <summary>May 2026 \u2014 ${earlier.length} earlier updates</summary>
-        <div class="dn-month-inner">${earlier.map(dnItem).join("")}</div>
-      </details>`;
+    });
   }
   wrap.innerHTML = html;
 }

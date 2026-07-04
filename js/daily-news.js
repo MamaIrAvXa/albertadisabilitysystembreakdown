@@ -9,6 +9,43 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-03",
+  title: "Where Things Stand — July 3, 2026",
+  body: `We are a couple of days into the change now, and a lot of you are staring at July stubs and letters trying to make sense of it. Here is where things stand in plain words. Take what is yours and let the rest float by.
+
+## FIRST, THE TWO DOORS, BECAUSE THIS IS THE BIG ONE
+The change is now in force. The move to ADAP happened, and the door to appeal that move closed on June 30. If you did not appeal, please do not carry guilt about it. That door was built to close, and it did.
+
+Here is what matters now. The other door has no clock on it. Reassessment, the medical route back to AISH, has no deadline. It did not close and it is not closing. If you cannot work because of a permanent disability, you can ask to be reviewed to return to AISH whenever you are ready. Anyone on ADAP can ask if their condition or ability to work has changed. That is the door to keep your eye on now, and there is no rush.
+
+## ABOUT THE MEDICAL FORM COST, BECAUSE THIS KEEPS COMING UP
+Do not assume you are on your own with the cost. If you were moved to ADAP and want back on AISH, the government is supposed to cover the cost of one medical assessment. But you have to ask for it — it is not automatic. And one honest heads up: whether they can later ask you to pay it back is not clear yet, even the phone reps do not seem to know. So the safe way to do it: ask plainly if your assessment is covered, ask whether you would ever have to repay it, and get the answer in writing. If you are on Income Support, the report cost may be covered too — ask your worker.
+
+## THE FEDERAL BENEFIT WENT UP A LITTLE
+The Canada Disability Benefit rose from $200 to about $204 a month for this year. But remember, Alberta still takes the same amount back off your provincial cheque, dollar for dollar, so most of us here see no extra money from that raise.
+
+## AND A NEW ONE, A ONE-TIME FEDERAL $150
+This is new. Ottawa is sending a one-time $150 payment to people who got the Canada Disability Benefit, to help cover the cost of the doctor's form for the Disability Tax Credit. No application needed, and it takes effect September 1. One honest caution: we do not yet know whether Alberta will claw this one back too. So do not count on keeping it until that is confirmed. The moment we know, we will tell you.
+
+## THE $100 ENERGY REBATE, THE GOOD ONE
+If you are on AISH, ADAP, or Income Support, the one-time $100 energy rebate comes to you automatically, no application. It does not count as income and it is not clawed back. This one you keep.
+
+## A FEW THINGS TO WATCH
+If a medication that has always been covered suddenly is not, do not stop it. Call your pharmacist or doctor first, ask about a covered alternative or an exception, and question whether it is even correct — because coverage was supposed to stay the same. Your health comes first.
+
+If you are not sure whether you are on AISH or ADAP right now, that is not you being slow — the system is not making it clear. One call to Alberta Supports at 1-877-644-9992 confirms it, and it matters, because it changes what you should do next.
+
+If you got a move letter but you are 60 or older, in continuing care, terminally ill, or have a severe developmental disability or PDD eligibility, you were supposed to stay on AISH automatically. If you were moved anyway, that may be an error to correct, not a reassessment from scratch. Reach out and we will help.
+
+## THE FORMS ARE ON THE WEBSITE
+The application forms would not open for a lot of you on phones, so they are now on our site, in the reassessment section, built to open on any device. If the tech fights you, call Alberta Supports for a paper copy, and never lose sleep wrestling a website.
+
+## AND TOMORROW, COME SIT WITH US
+Saturday Tea Time is tomorrow at 2 PM. Pour something warm and come settle in. No pressure, no agenda you have to keep up with — just us, together, going over what you have been asking this week. After a heavy stretch, an hour in good company helps. We would love to see you there.
+
+Take care of yourselves tonight. You are not doing this alone.`
+},
+{
   date: "2026-07-02",
   title: "Where Things Stand — July 1–2, 2026",
   body: `The change we have all been bracing for is now law. Here is where things stand, plainly, no jargon.
