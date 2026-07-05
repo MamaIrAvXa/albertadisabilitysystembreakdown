@@ -9,6 +9,33 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-04",
+  title: "Where Things Stand — July 4, 2026",
+  body: `We are a few days into the change now. Here is where things stand, plainly, so you know what matters and what you can do.
+
+## THE CHANGE IS DONE, AND HERE IS THE HONEST PICTURE
+The move from AISH to ADAP is now in effect. If you were moved, your total payment stays the same for now — a $200 top-up holds you at your current amount until the end of 2027, and then the lower ADAP base is set to take over in 2028. So today's cheque is not the cut. The cut is scheduled, not immediate. Check your own letter for your own dates.
+
+## THE DOOR THAT IS STILL OPEN
+The appeal window closed June 30. But reassessment — the medical route back to AISH — has no deadline and did not close. If you cannot work because of a permanent disability, you can ask to be reviewed to return to AISH whenever you are ready. The combined application is the DS2444A, which you complete, plus the DS2444B medical report from your health professional. Both are in the reassessment section of the site, and the submission details are right there with them.
+
+## NEW TODAY: A FORM TO PROTECT YOU AT EMPLOYMENT MEETINGS
+If you have been moved to ADAP, you will be asked to take part in employment programming. For a lot of us, that is not possible — a condition that flares without warning, no reliable transportation, mental health that makes group settings impossible, caregiving that cannot be left. So we built a new form: the ADAP Employment Participation Barriers Notice.
+
+Here is the heart of it. This is not you refusing to take part. It is you formally documenting that you are unable to, and asking for accommodation in writing. And it protects you either way: if they grant the accommodation, you get the exemption you need; if they refuse or go silent, you are left holding written proof that the program demanded participation and would not address the barrier that makes it impossible. Either outcome puts the record on your side. It fills in on a phone, tablet, or computer, or you can print it and write it by hand. It is in the Take Action section now, right alongside the self-advocacy worksheet.
+
+## MONEY NOTES, QUICK AND CLEAR
+The $100 energy rebate is automatic for AISH, ADAP, and Income Support, it is not taxed, and it is not clawed back. You keep it. The federal disability benefit rose slightly, but Alberta still takes it back dollar for dollar, so most of us here see no extra money from it. And there is a new one-time federal $150 coming September 1 to help cover the cost of the Disability Tax Credit doctor's form — we do not yet know if Alberta will claw that one back, so do not count on keeping it until we confirm.
+
+## A FEW THINGS TO WATCH
+If a medication that was always covered suddenly is not, do not stop taking it — call your pharmacist or doctor first, because coverage was supposed to stay the same. If you are unsure whether you are on AISH or ADAP, one call to Alberta Supports at 1-877-644-9992 confirms it. And if you got a move letter but you are 60 or older, in continuing care, terminally ill, or have a severe developmental disability or PDD eligibility, you were supposed to stay on AISH automatically — that may be an error to correct, so reach out.
+
+## COME SIT WITH US TODAY
+Saturday Tea Time is today at 2 PM. Pour something warm and come settle in — no pressure, no agenda to keep up with, just us going over what you have been asking this week. After a heavy stretch, an hour in good company helps.
+
+If today sits heavy on you, you are not carrying it alone. You can call or text 988 any time, or the Alberta Mental Health Help Line at 1-877-303-2642. Take care of yourselves.`
+},
+{
   date: "2026-07-03",
   title: "Where Things Stand — July 3, 2026",
   body: `We are a couple of days into the change now, and a lot of you are staring at July stubs and letters trying to make sense of it. Here is where things stand in plain words. Take what is yours and let the rest float by.
