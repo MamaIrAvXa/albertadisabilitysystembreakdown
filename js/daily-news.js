@@ -9,6 +9,40 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-05",
+  title: "Where Things Stand — July 5, 2026",
+  body: `Here is where we are, in plain words, so nobody has to piece it together from the noise.
+
+## THE CHANGE COMING AT THE END OF THIS MONTH
+There is a new one on the horizon, and we want you to hear it from us first, calmly, before it shows up on a payment and startles anyone.
+
+Starting with the August benefit period — the payment that comes at the end of this month — a new rule takes effect for couples. If two adults in the same home both receive disability benefits, AISH or ADAP, each partner will get 88 percent of the individual amount instead of the full 100. In plain terms, each of you is cut by about 12 percent, so a couple where both are on benefits gets less than two single people would.
+
+Now the part that matters just as much: who this does not touch. This is a couples rule. It is for spouses and partners. It does not apply to a roommate you live with, and it does not apply to a relative like a sibling or an adult child you share a home with — unless you have signed a formal partnership agreement with them, which almost nobody has. So if you live with family or a roommate who is not your partner, this cut is not aimed at you, and you each keep your full amount. If anyone tells you otherwise, reach out and check with us.
+
+## A BIT OF GOOD NEWS IN THE SAME BREATH
+Starting that same August period, the child benefit part goes up for a lot of families. If you have children on your file, you may see a small increase in the child portion. It does not undo the rest, but it is real, and families should know it is coming.
+
+## WHAT IS ALREADY TRUE, SO YOU ARE NOT CAUGHT OFF GUARD
+The move to ADAP has been in force since July 2. If your slip still says AISH, that does not mean anything went wrong.
+
+On AISH now, you can earn $350 a month before they claw back, and above that it is dollar for dollar. On ADAP the exemption is $700 with a gentler clawback. If you work, that difference is worth understanding.
+
+The way back to AISH — a reassessment — has no deadline. There is no clock on it. That door stays open.
+
+## WHAT TO KEEP DOING
+Get things in writing, every time. If they will not confirm something, write down that they would not.
+
+File your taxes and keep your CDB and DTC applications current, so nothing gets paused.
+
+If a payment changes and you cannot see why, do not just accept it. Ask them to show you the math.
+
+## YOU ARE NOT ALONE IN ANY OF THIS
+We will keep watching every change and bringing it to you in plain words, before it lands, not after. When the fear out there gets loud, this is the calm place to come and check what is real.
+
+We carry you. We carry each other.`
+},
+{
   date: "2026-07-04",
   title: "Where Things Stand — July 4, 2026",
   body: `We are a few days into the change now. Here is where things stand, plainly, so you know what matters and what you can do.
