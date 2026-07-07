@@ -9,6 +9,39 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-06",
+  title: "Where Things Stand — July 6, 2026",
+  body: `Here is where things really are right now, checked against the government's own manual and pages, not rumour. It is a lot, so take the parts that apply to you and leave the rest.
+
+## THE TRANSITION IS LIVE
+If you were moved from AISH to ADAP, your monthly amount is the same for now, because a $200 top-up is holding it there. That top-up is set to end December 31, 2027. After that, ADAP pays $200 less. So it is not a top-up. It is a cut on a timer.
+
+## TWO DEADLINES IN THE NEXT TWO WEEKS
+One, the Disability Tax Credit. The way you send in an application changes on July 14. Use your online CRA account, not the old submit-documents upload. And use the newest form, because old versions stop being accepted September 8.
+
+Two, the federal Canada Disability Benefit went up a little, to about $204 a month. But here in Alberta the province takes back the same amount, dollar for dollar, so your total does not go up. You still have to apply for it and report the result to AISH or ADAP, or they can cut $200 from your cheque.
+
+## COUPLES, WATCH YOUR END-OF-JULY CHEQUE
+Starting the August benefit period, if you and your partner both get disability money, each of you drops to 88 percent of the individual amount. Child benefit amounts are also changing, and for some families with kids they go up. Our Living Together guide walks through who this hits and who it does not.
+
+## EARNING MONEY, AND WHY WORKING IS STILL WORTH IT
+Here is what the manual confirms. On AISH, you keep the first $350 you earn, and everything above that comes off dollar for dollar. On ADAP, you keep more — the first $700 if you are single, $1,100 with dependents, $1,500 for a partner — and above that the reduction is gradual. A slope, not a cliff. One catch worth knowing: the government does not publish the exact ADAP rate. They make you use their online estimator to see it. Our new How Earning Works sheet lays all of this out.
+
+## GETTING BACK TO AISH, THE DOOR WITH NO CLOCK
+If you were moved to ADAP, you can ask to be tested for AISH whenever you are ready. There is no deadline, and the government pays for one medical assessment. The manual confirms both of these in writing.
+
+## THE APPEAL DOOR WE THOUGHT WAS SHUT IS OPEN
+There is a Medical Appeal Panel. If an adjudicator decides not to send your file up to be considered for AISH, you can appeal that decision. The government's own manual confirms it. We told you earlier there was no such panel. We were wrong, and this is the correction — because being right matters more than looking right.
+
+## WHAT THE MANUAL SAYS ABOUT FRAUD
+Since this whole change was sold partly on fraud, here is what the manual really says disqualifies someone for it: a criminal conviction for fraud in the past year. Not suspicion. Not gaming. A criminal conviction. That is the actual bar, in their own document.
+
+## WE CHECK EVERY ONE OF THESE
+We check every one of these against the government's own words before we post it. The guides are on our website, and if any of this affects you, reach out and ask. You are not carrying this alone.
+
+We carry you. We carry each other.`
+},
+{
   date: "2026-07-05",
   title: "Where Things Stand — July 5, 2026",
   body: `Here is where we are, in plain words, so nobody has to piece it together from the noise.
