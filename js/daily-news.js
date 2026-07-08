@@ -9,6 +9,37 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-07",
+  title: "Where Things Stand — July 7, 2026",
+  body: `Here is where things stand today, in plain words, each one checked against the government's own manual and pages before we posted it. Take what applies to you and let the rest go by.
+
+## THE TRANSITION IS LIVE, AND HERE IS THE HONEST MONEY PICTURE
+If you were moved from AISH to ADAP, your monthly amount is the same for now. A $200 top-up is holding it there, and that top-up is set to end December 31, 2027. After that, ADAP pays $200 less. So it is not extra money and it is not a raise. It is a cut on a timer. Check your own letter for your own dates.
+
+## THE DOOR BACK TO AISH HAS NO CLOCK
+If you were moved to ADAP and believe you belong on AISH, you can ask to be reassessed whenever you are ready. There is no deadline. The government pays for one medical assessment, and the manual confirms both of those in writing. The application is the DS2444A, which you complete, plus the DS2444B medical report from your health professional. Both forms, plain-language guides for each, and the health-professional's own instructions are all in the reassessment section of the site.
+
+## A CORRECTION WE OWE YOU: THE MEDICAL APPEAL PANEL
+We want to be straight about this because being right matters more than looking right. There is a Medical Appeal Panel. If an adjudicator decides not to send your file up to be considered for AISH, you can appeal that decision — the government's own manual confirms it. We told you earlier there was no such panel. We were wrong, and this is the correction.
+
+## TWO DEADLINES WORTH A NOTE ON YOUR CALENDAR
+The Disability Tax Credit application method changes July 14 — use your online CRA account, not the old document upload, and use the newest form, because older versions stop being accepted September 8. And the DTC is the key that unlocks the federal Canada Disability Benefit, so it is worth not missing.
+
+## THE COUPLES CHANGE LANDS THIS MONTH
+Starting with the August benefit period — the cheque at the end of this month — if you and your partner both receive disability money, each of you drops to 88 percent of the individual amount. This is a couples rule: it does not touch roommates, or a relative you share a home with, unless you have a formal partnership agreement. Our Living Together guide walks through exactly who this hits and who it does not.
+
+## MONEY YOU KEEP, AND MONEY YOU DO NOT
+The $100 energy rebate is automatic for AISH, ADAP, and Income Support — not taxed, not clawed back. You keep it. The federal disability benefit rose to about $204, but Alberta takes back the same amount dollar for dollar, so most of us here see no extra money from it.
+
+## IF YOU WORK
+On AISH you keep the first $350 you earn; on ADAP you keep more — $700 single, $1,100 with dependents, $1,500 for a partner — with a gradual reduction above that. Our How Earning Works sheet lays it all out, including the catch that the government does not publish the exact ADAP rate.
+
+## WE CHECK EVERY ONE OF THESE
+Every item here was checked against the government's own words before we posted it. The guides are all on the site, and if any of this affects you, reach out and ask. You are not carrying this alone.
+
+We carry you. We carry each other.`
+},
+{
   date: "2026-07-06",
   title: "Where Things Stand — July 6, 2026",
   body: `Here is where things really are right now, checked against the government's own manual and pages, not rumour. It is a lot, so take the parts that apply to you and leave the rest.
