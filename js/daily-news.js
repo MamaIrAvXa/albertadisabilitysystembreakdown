@@ -9,6 +9,90 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-10",
+  title: "Where Things Stand — July 10, 2026",
+  body: `A few things are close now, and one thing needs clearing up for good.
+
+## FOUR DAYS ON THE DTC CHANNEL
+July 14 is the last day to use the "submit documents" section of your CRA account for a Disability Tax Credit application. From September 8, the old pre-2023 version of the T2201 form stops being accepted, so make sure you are using the current one.
+
+## THREE WEEKS TO THE AUGUST CHANGES
+The 88% couples rule and the reset child benefit rates land with the August benefit period. Watch your August deposit and your letter.
+
+## THE COUPLES EXEMPTION
+Different figures are circulating for how much a spouse or partner can earn before it affects your benefit. We are not going to give you a number we cannot pin to the regulation. If this affects your household, ask your worker for your figure in writing, and get the answer with your name on it.
+
+## THE REASSESSMENT DOOR, AND WHAT IT COSTS
+This is the one to hold onto. If you were moved to ADAP and your condition means you cannot work, you can ask to be reassessed for AISH. There is no deadline. There is no one shot to waste. The government's own fact sheet says the covered medical assessment for people who moved from AISH is not time limited.
+
+Here is the part that trips people up. The general application page says you are responsible for paying your doctor for the medical report. That is the default rule for everyone. But for people who moved from AISH to ADAP in July, the government has committed to covering the cost of one medical assessment. Both things are true, and the carve-out is not written on the page most people find. So ask for it in writing before your doctor bills you, and ask whether any repayment is attached.
+
+## NOBODY IS COMING TO OFFER IT TO YOU
+There is no evidence that everyone gets an individual sit-down about whether they can work. The move happened by law, not by interview. If you want to be assessed for AISH, that door only opens if you knock.
+
+## ON APPEALS
+The transition itself cannot be appealed. That is real and we will not pretend otherwise. But that bar covers the transition only. Other decisions about your file — your living allowance, health benefits, child benefit and personal benefits — can still go to the Citizen's Appeal Panel. And a Medical Review Panel decision on AISH versus ADAP is final. So if what you want is AISH, reassessment is the road, not an appeal.
+
+## THE BIGGER PICTURE
+While these rates are being cut, Alberta's Heritage Savings fund sits around $32 billion and billions more were added to it this year. City councils across the province have formally asked for a pause. You are not imagining the gap between those two things.
+
+## GOVERNMENT PAGES
+ADAP fact sheet: https://www.alberta.ca/system/files/alss-adap-fact-sheet.pdf
+How to apply: https://www.alberta.ca/how-to-apply-for-aish-and-adap
+Heritage Fund: https://www.alberta.ca/heritage-savings-trust-fund
+
+We carry each other. 🌹`
+},
+{
+  date: "2026-07-09",
+  title: "Where Things Stand — July 9, 2026",
+  body: `The government's own ADAP fact sheet settles a few numbers that have been circulating in different versions. Here is what it says.
+
+## THE MONEY
+ADAP's base is $1,740 a month. If you moved over from AISH, a $200 top-up holds you at your old amount until the end of 2027. After that the top-up ends. Anyone applying new after July 2 gets $1,740 right away.
+
+## TWO THINGS CHANGE WITH YOUR AUGUST PAYMENT
+If two people in one household both receive AISH or ADAP as a couple, each is paid 88% of the single maximum starting the August benefit period. Child benefit amounts are also being reset. If either applies to you, look at your August budget now rather than being caught out.
+
+## WHAT YOU CAN EARN FROM WORK
+The single exemption on ADAP is higher than on AISH. That matters more than people realise. If you are working real hours and you get retained on AISH, the smaller AISH exemption can leave you worse off than someone on ADAP. Do not guess your own number. Ask your worker in writing for the exempt amount that applies to your file before you change your hours.
+
+## THE FEDERAL BENEFIT
+The Canada Disability Benefit rose to $204.20 a month. Alberta deducts the same amount from your provincial payment, so it does not add to your total. But you still have to apply for it, or the province can cut $200 from your cheque. And if your CDB amount changes, tell AISH yourself. Do not assume they adjust it for you. If your file says the wrong amount, that can turn into an overpayment they ask you to pay back later.
+
+## PERSONAL BENEFITS CARRIED OVER
+If you used to claim things like help with travel to medical appointments, those personal benefits still exist on ADAP. Ask your worker for the current form.
+
+## GOVERNMENT PAGES
+ADAP fact sheet: https://www.alberta.ca/system/files/alss-adap-fact-sheet.pdf
+Reporting your CDB and DTC: https://www.alberta.ca/aish-apply-for-federal-disability-supports
+
+We carry each other. 🌹`
+},
+{
+  date: "2026-07-08",
+  title: "Where Things Stand — July 8, 2026",
+  body: `Here is where things sit, in plain words, from the government's own pages.
+
+## THE CHANGE IS IN FORCE
+The move from AISH to ADAP came into force July 2. Your letter tells you which program you are on. Some people stay on AISH automatically: age 60 or older, living in a continuing care home, severe or profound developmental disability or PDD eligible, or a palliative or terminal condition. If that is you and your letter moved you anyway, flag it in writing.
+
+## A DEADLINE THIS WEEK IF YOU ARE APPLYING FOR THE DTC
+As of July 14, you can no longer use the "submit documents" section of your CRA account to send in a Disability Tax Credit application. If you are mid-application, get it in before then. The DTC is what unlocks the federal disability benefit, so a jammed channel can hold up the whole chain.
+
+## ONE PIECE OF GOOD NEWS
+The $100 Alberta energy rebate is yours to keep. If you are on AISH, ADAP, or Income Support, you are enrolled automatically, you do not need to apply, it is not taxed, and it is not deducted from your benefits. That one is confirmed from the government's own factsheet.
+
+## THE RUMOUR GOING AROUND
+There is no new separate reapplication form for former AISH clients, and nothing on any government page tells you to wait for one. The process that exists right now is the Disability Income Assistance application plus the Disability Assistance Medical Report your doctor completes. Do not hold off on the basis of a post.
+
+## GOVERNMENT PAGES
+Energy rebate: https://www.alberta.ca/alberta-energy-rebate
+How to apply: https://www.alberta.ca/how-to-apply-for-aish-and-adap
+
+We carry each other. 🌹`
+},
+{
   date: "2026-07-07",
   title: "Where Things Stand — July 7, 2026",
   body: `Here is where things stand today, in plain words, each one checked against the government's own manual and pages before we posted it. Take what applies to you and let the rest go by.
