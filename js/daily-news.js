@@ -9,6 +9,66 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-11",
+  title: "Where Things Stand — July 11, 2026",
+  body: `Late one tonight. Here is what we have, checked against the government's own pages today.
+
+## THREE DAYS — IF YOU ARE MID-APPLICATION FOR THE DTC, READ THIS NOW
+July 14 is the last day to send Disability Tax Credit documents through the "submit documents" section of your CRA account. After that, the button does not work unless CRA specifically asks you for something.
+
+And separately, from early September, the old pre-2023 version of the T2201 stops being accepted. Make sure you are on the current form.
+
+Every one of us on AISH or ADAP is required to apply for the DTC and the Canada Disability Benefit. If you have papers sitting on a table, send them Monday.
+
+## SOME GOOD NEWS, CHECKED TWICE
+The Alberta Energy Rebate is yours to keep. $100 per adult. $200 per couple.
+
+You do not have to apply. If you are on AISH, ADAP, or Income Support, you are auto-enrolled. No portal, no form, no sign-up.
+
+And it is not counted as income. It will not be clawed back. It will not reduce your AISH, ADAP, Income Support, or Seniors Benefit. It is not taxable and you do not report it to CRA.
+
+Confirmed on the government's own page today. That is safe money, and it is coming to you without you lifting a finger.
+
+## A CORRECTION, AND THIS ONE HAS BEEN CIRCULATING FOR MONTHS
+If you have seen the number $2,612 as the amount a partner can earn before it affects your cheque, that figure is out of date. It was the old AISH spousal exemption.
+
+The current cohabiting partner exemption is $1,500 a month.
+
+We know that is not the news anyone wanted. But you are better off knowing the right number than budgeting around the wrong one.
+
+## THE FULL TABLE, CONFIRMED TODAY
+ADAP base: $1,740 a month
+ADAP single earnings exemption: $700 a month
+ADAP parent: $1,100 a month
+AISH single or parent: $350 a month
+Cohabiting partner, either program: $1,500 a month
+Maximum annual employment income before benefits fully phase out: $45,240
+
+## WHAT CHANGES WITH YOUR AUGUST PAYMENT
+Starting the August benefit period, if two adults in one household both receive AISH or ADAP, each is paid 88% of the maximum individual amount. So a couple receives less than two singles would.
+
+Child benefit rates are also being reset: $300 for the first child, $117 for the second, $88 for the third, $59 for the fourth, $30 for each additional. The province says this raises child benefits for around 7,000 families.
+
+If either of those touches your household, look at your August budget this week — not the day the deposit lands short.
+
+## STILL TRUE, AND WORTH REPEATING
+You stay on AISH automatically if you have a severe or profound developmental disability or PDD eligibility, a palliative or terminal condition, live in a continuing care home, or are 60 or older.
+
+And if you moved to ADAP and want to be looked at for AISH, the government covers one medical assessment and it is not time limited. No clock. No missed window. But nobody is coming to offer it to you. That door opens when you knock.
+
+## ONE PRACTICAL WARNING
+There is a Canada Post disruption affecting government mail. If you are waiting on a letter about your file, it may be slow. If you think you have missed something, phone rather than wait. Alberta Supports is 1-877-644-9992.
+
+## AND THE NUMBER THAT SITS UNDERNEATH ALL OF THIS
+The Heritage Savings Trust Fund holds $31.9 billion, and the province deposited $2.8 billion more into it. In the same window, the base rate for disabled Albertans on ADAP is $200 lower than AISH.
+
+Both of those are choices. Neither of them is an accident.
+
+That is where things stand tonight. This has been a heavy season for a lot of us, and if it is sitting hard on you, please reach out to someone. You can call or text 988 any hour, and there is no shame in it.
+
+We carry each other. 🌹`
+},
+{
   date: "2026-07-10",
   title: "Where Things Stand — July 10, 2026",
   body: `A few things are close now, and one thing needs clearing up for good.
