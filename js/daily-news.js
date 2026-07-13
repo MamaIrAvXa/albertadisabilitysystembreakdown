@@ -9,6 +9,89 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-12",
+  title: "Where Things Stand — July 12, 2026",
+  body: `It has been a heavy day for this community. Before anything else, we want to say something about that.
+
+Something ugly circulated today. A comment telling disabled people to kill themselves and sign up for MAiD to save taxpayers money. Some of you saw it. Some of you are still carrying it.
+
+It is not true. It is one coward behind a fake name. Nothing about your worth depends on whether you can work, and nothing about it is up for a vote.
+
+If today landed harder than you expected, that is not weakness. It is what happens when someone hits a place that has been hit before.
+
+**988. Call or text. Any hour. Free.**
+**Alberta Mental Health Help Line: 1-877-303-2642.**
+
+Or reach out to us. We will answer. We have answered every one of you today and we are not stopping now.
+
+## WHAT IS COMING
+**July 14. Two days away.** The Canada Revenue Agency stops accepting Disability Tax Credit documents through the online "submit documents" option. If you are in the middle of a DTC application, do not use that upload path after Tuesday. They will contact you directly with a case number instead.
+
+**August 1. Three weeks away.** If two adults in the same household both receive AISH or ADAP, each will now receive 88 percent of the maximum individual amount. A couple receives less than two singles would. If that is your home, look at your August budget this week and not on the day the money arrives short.
+
+**September 30.** Alberta Energy Rebate window closes. If you were on AISH or ADAP before July 1, you are enrolled automatically. You do not apply. It is not taxable and it will not reduce your benefit. But if you came onto AISH after July 1, you have to apply yourself, online, by September 30.
+
+**December 31, 2027.** The $200 transition payment ends. On January 1, 2028, $1,740 becomes the permanent rate. That is a cut on a timer, not new money, and we will keep saying so.
+
+## WHAT WE FOUND THIS WEEK
+**The Medical Review Panel is out for tender.** Alberta Purchasing Connection, posting AB-2026-04322. $41.28 million. Three years. The successful company will establish and maintain the panel, including recruiting and contracting the health professionals who decide your AISH medical eligibility. It closed to submissions June 29 and no company has it yet.
+
+The Medical Review Panel's decision is final. It cannot be appealed. And its operation is out to tender.
+
+We read that posting ourselves. You can too. Go to purchasingconnection.ca and search AB-2026-04322.
+
+**The two contractor numbers are different things.** We corrected ourselves on this today. AKG and Serco hold employment services contracts. They do not decide who is disabled. Government adjudicators do that. What we did find in those contracts is that outside Edmonton and Calgary, the service is referral only. Rural Alberta gets a phone number.
+
+**The cohabiting partner rules are two rules, not one.** $1,500 if your partner works. $1,200 plus 25 percent of the remainder if your partner has a pension, CPP, EI, Workers Comp, or the Canada Disability Benefit. And your own pension and CPP are not exempt at all. We got this half right the first time and have corrected it.
+
+## GAS, AND WHAT THE RULE ACTUALLY SAYS
+Several of you have asked why the fuel tax did not come off at the pump.
+
+We went and read the regulation. Alberta Regulation 62/2007, section 4.1.
+
+There is still a rule in there that is supposed to reduce the provincial fuel tax when oil prices are high. It has three brackets: oil at $90 or higher, $85 to $90, and $80 to $85.
+
+Every single bracket now reads $0.00 per litre.
+
+Not reduced. Not partial. Zero, at every price, all the way up.
+
+The rule is still sitting there in the law. It just does not produce anything anymore. And the section was amended this year. We are still pulling the amendment to see exactly what it said before. When we have it, you will have it.
+
+## THE DOORS ARE CLOSING, AND SOMEBODY ELSE JUST SAID SO
+The Government of Alberta has been named the 2025 provincial winner of the Code of Silence Award for government secrecy, by the Canadian Association of Journalists, the Centre for Free Expression, and Canadian Journalists for Free Expression.
+
+It follows a two-year investigation by Alberta's Information and Privacy Commissioner across 27 public bodies. Her May 2025 report found the province had not complied with its own access laws.
+
+Now look at this week in this community. One member's file came back with the decision rationale missing and a letter admitting information was withheld. One has waited over three months with no response at all. Two are still waiting. And one sent registered mail to the address the government publishes on its own website, and it came back stamped "no such address."
+
+That is not five people having bad luck. That is a pattern, and now there is an independent body with a two-year investigation behind it saying the same thing.
+
+## WHAT TO DO ABOUT IT
+**If your file came back with pieces missing**, they are required to tell you what was withheld and under what section. Most of you were not told. There is a template in the Take Action section. Use it.
+
+**You have 60 business days** from the date on your letter to ask the Information and Privacy Commissioner to review it. Check your date.
+
+**If nobody has responded at all**, that is a deemed refusal in law. Call the Commissioner: 1-888-878-4044. It is free.
+
+**And do not mail your request right now.** Use email, SARTR.ATI-CentralIntake@gov.ab.ca, or the portal at portal.ati.alberta.ca.
+
+## THE THINGS THAT HAVE NOT CHANGED
+**Reassessment has no deadline.** None. Nobody has missed anything. If your condition or your ability to work has changed, you can ask, whenever you are ready.
+
+**The government covers one medical assessment** for people moved from AISH. It is not automatic. Ask for it in writing, ask whether any of it is repayable, and get the answer with your name on it before anyone bills you.
+
+**Nothing is on fire.** The doors that close have closed. The one that is open has no clock on it.
+
+## LAST THING
+Today somebody in this community said they were not going to make it. And then they got help, and they are safe tonight, and they are working on housing with a social worker, and they are not giving up.
+
+We are telling you that because that person thought nobody would come. Somebody came.
+
+If you are in that place tonight, say so. Here, or reach out to us, or call or text 988. You do not have to be at the end of your rope to be allowed to ask.
+
+We carry each other. 🌹`
+},
+{
   date: "2026-07-11",
   title: "Where Things Stand — July 11, 2026",
   body: `Late one tonight. Here is what we have, checked against the government's own pages today.
