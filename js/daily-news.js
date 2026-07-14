@@ -9,6 +9,99 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-13",
+  title: "Where Things Stand — July 13, 2026",
+  body: `Two things are happening this week and both have dates on them. Read the first two sections even if you read nothing else.
+
+## TOMORROW. JULY 14. THE DTC UPLOAD DOOR CLOSES.
+If you are in the middle of a Disability Tax Credit application, do not plan to upload your documents through CRA My Account after tomorrow. That option is being switched off.
+
+The only exception is if the CRA has specifically asked you for more information. Then you use the case number they gave you.
+
+The DTC is what gates the Canada Disability Benefit. So this matters even if you have never thought about it.
+
+If you are working on a T2201, get it in tomorrow or use another route.
+
+## JULY 16. THE CANADA DISABILITY BENEFIT LANDS.
+$204.20. Three days away.
+
+And in Alberta it is deducted from your AISH or ADAP payment, dollar for dollar.
+
+So the money arrives, and the same amount leaves. You end up where you started.
+
+Every other province let their people keep it. Alberta is the only one taking it back.
+
+We are not saying that to make you angry. We are saying it because when that money hits your account, you need to know it is not extra, and you should not spend it as though it is.
+
+## AUGUST 1. NINETEEN DAYS.
+If two adults in the same household both get AISH or ADAP, each of you will now receive 88 percent of the maximum individual amount.
+
+A couple gets less than two singles would.
+
+The child rates also change on August 1. If you have children on your file, your amount is being recalculated.
+
+If either of those is your home, look at your August budget this week. Not on the day the money comes in short.
+
+## WHAT WE FOUND IN THE RULES THIS WEEK
+Your school supply money, your bed, your microwave, your physiotherapy. All of these are what the rules call personal benefits. And Alberta Regulation 96/2026, section 12, says the amount of a personal benefit is "the amount determined by the Minister."
+
+There is no figure in the law. There is no protection in the law. One person sets it, and one person can change it, without the Legislature and without telling anyone.
+
+That is why the physiotherapy cap has been $800 since 2004. That is why a bed allowance is $590.
+
+And the yearly cost-of-living increase is gone. Bill 12 removed the requirement in law that benefits go up with inflation. Increases are now a choice, not an obligation.
+
+## REPORT YOUR INCOME ON TIME. THIS ONE COULD COST YOU EVERYTHING.
+There is a clause in the regulation, section 5, that says if income is reported late or misreported, your exemptions do not apply at all.
+
+Not a fine. Not a warning. The whole exemption, gone, and every dollar counted against you.
+
+If you work, if your partner works, if your CDB changes, if anything changes: report it, and write down who you told and when.
+
+## THE DOORS ARE STILL CLOSING
+Alberta was just named the 2025 provincial winner of the Code of Silence Award for government secrecy, by the Canadian Association of Journalists, the Centre for Free Expression, and Canadian Journalists for Free Expression.
+
+It follows a two-year investigation by Alberta's Information and Privacy Commissioner across 27 public bodies. Her May 2025 report found the province had not complied with its own access laws.
+
+Now look at this community over two days. One member got her file back with the decision rationale missing, and a letter admitting information was withheld. One has waited over three months with no reply at all. Two more are still waiting. One sent registered mail to the address on the government's own website and it came back stamped "no such address." One asked Alberta Supports for answers in writing and they deleted her information and told her not to email again.
+
+That is not bad luck. That is a pattern, and now there is an independent body saying so.
+
+## AND THE THING THAT KEEPS COMING BACK
+Someone in this community called ADAP and pushed hard on the questions we all have. What counts as participation. Whether volunteering counts. What "reasonable" means.
+
+The agent could not point to a written rule for a single answer. At one point they said it out loud: "You're assuming, I'm assuming, we don't know."
+
+The obligation is in the regulation. The penalty is in the regulation. The rule itself is nowhere.
+
+That is not you failing to understand. That is a rule nobody wrote down.
+
+## WHAT HAS NOT CHANGED
+Reassessment has no deadline. None. Nobody has missed anything. Whenever you are ready.
+
+The government covers one medical assessment for people moved from AISH. It is not automatic. Ask in writing, ask whether any of it is repayable, and get the answer with your name on it before anyone bills you.
+
+780-415-6300 works for file questions. A member confirmed it. If Alberta Supports says they cannot help, ask for that number.
+
+## THE LAST THING
+This has been a hard few days. Some things circulated that hurt people, and some of you are still carrying them.
+
+So let us say it plainly.
+
+Nothing about your worth depends on whether you can work. Not one thing. It is not up for a vote and it is not up for debate.
+
+If this week has been heavy, and for some of you it has been very heavy, please say so. Here, or reach out to us, or to someone who can sit with you.
+
+**988. Call or text. Any hour. Free.**
+**Alberta Mental Health Help Line: 1-877-303-2642.**
+
+We have answered every person who has come to us this week, and we will answer you.
+
+You do not have to be at the end of your rope to be allowed to ask.
+
+We carry each other. 🌹`
+},
+{
   date: "2026-07-12",
   title: "Where Things Stand — July 12, 2026",
   body: `It has been a heavy day for this community. Before anything else, we want to say something about that.
