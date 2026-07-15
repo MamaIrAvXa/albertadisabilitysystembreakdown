@@ -9,6 +9,58 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-14",
+  title: "Where Things Stand \u2014 July 14, 2026",
+  body: `It has been a long day in this community and a lot came through. Here is where things actually stand tonight, in plain words, with the sources named so you can check any of it.
+
+## The one with a clock on it: your August money.
+Starting with the August benefit period, two rule changes take effect, and August payments usually land in the last days of July. So this is days away, not weeks.
+
+First, if you and your partner both get AISH or ADAP, starting in August each of you drops to 88 percent of the individual maximum. About 88 cents on the dollar each. Two disabled people who live together now receive less than two disabled people who live apart.
+
+Second, the child benefit amounts are being recalibrated. Some families go up, some change. If you get money for kids, watch your late-July deposit closely.
+
+This is in the government's own fact sheet. Watch your end-of-July payment and if it is not what you expect, ask in writing for a breakdown.
+
+## If you were moved to ADAP, your money should be the same right now.
+Roughly 46,000 to 50,000 people were moved from AISH to ADAP on July 2. If you were moved, a $200 a month transition top-up fills the gap, so your total should be unchanged until the end of 2027. After that it drops by $200 unless the rules change. Brand new applicants start at the lower number with no top-up.
+
+If your money changed and you were moved, that is worth a written question. It should not have.
+
+## The energy rebate is safe. This one is good news.
+The one time $100 Alberta energy rebate does not count against AISH, ADAP, or Income Support, and it is not taxable or reportable. If you are on AISH you are auto enrolled and do not have to apply. This is the rare payment that is exempt rather than clawed back. Take it with no worry.
+
+## The federal disability benefit: you still have to apply, even though Alberta takes it back.
+The Canada Disability Benefit is about $204 a month. Alberta still plans to subtract the same amount, so most people here see no net gain. But here is the trap: not applying, or not confirming you applied, can cut your provincial benefit by $200 a month even if you do not qualify. So apply anyway. Applying is what protects you from the penalty.
+
+One heads up on the federal side. As of today the old online way to upload disability tax credit documents to CRA has stopped. If you need to send DTC papers, ask CRA or your doctor's office for the current method before you file anything.
+
+## On appeals, a correction I owe you.
+Earlier this week I told some of you that a benefit cut under the new rules could not be appealed. I read the appeals regulation myself since then and I was wrong. A benefit cut under section 15(4), the employment one, is not on the exempt list. On the published regulation, it is appealable. I fixed the post where I said otherwise, and I would rather tell you plainly than quietly change it.
+
+What genuinely cannot be appealed is different. The move from AISH to ADAP itself is barred. Certain specific denials, like medical supplies and special diets, are on the exempt list. And the medical determination is said to be final, though we have found that particular exemption is not actually in the published regulation, which is its own problem we are still chasing. I posted a full breakdown of what can and cannot be appealed today if you want the detail.
+
+## The door back to AISH has no deadline.
+If you were moved and you believe you belong on AISH, the way back is a reassessment. It has no clock on it, and the government covers one medical assessment for people who were moved. It is not automatic. You have to ask, and ask in writing whether it is fully covered and repayable. If your condition means you cannot work at all, that is the path, and I will walk anyone through it one step at a time.
+
+## Who is actually running the employment side.
+The people who will assess you and build your ADAP job plan work for two large private contractors, one Australian owned and one UK affiliated, hired by the province. AKG Canada in the north, Serco Canada in the south. That is who decides your employment plan now, not your old AISH caseworker. Keep a record of every meeting and everything they ask of you.
+
+## A few things I want you to hold onto.
+Some of what is circulating out there, including some very official sounding posts, is AI generated and mixes real facts with invented numbers. If a number matters to your life, get it from a document or ask us. Our whole strength is that everything we put out traces to a real regulation.
+
+And to the person who caught an AI post today before sharing it, and the people who brought me letters and questions and their own hard stories, thank you. That is this community working exactly the way it should.
+
+If today landed heavy on you, you are not alone.
+
+**988, call or text, any hour, free.**
+**Alberta Mental Health Help Line, 1-877-303-2642.**
+
+Or reach out to us and we will answer.
+
+You are not a burden. Your body is not a failure. We carry each other. 🌹`
+},
+{
   date: "2026-07-13",
   title: "Where Things Stand — July 13, 2026",
   body: `Two things are happening this week and both have dates on them. Read the first two sections even if you read nothing else.
