@@ -66,6 +66,22 @@
 .dn-archive-item .dn-body { padding: 1rem 0 1.2rem; }
 .dn-month > summary { font-weight: 700; }
 .dn-month-inner { display: flex; flex-direction: column; gap: .6rem; padding: .9rem 0 .3rem; }
+/* FAQ — reuses the daily-news accordion look */
+.faq-cat { margin: 1.8rem 0 0; }
+.faq-cat:first-child { margin-top: .4rem; }
+.faq-cat-title { font-size: 1.05rem; color: var(--gold-400, #f5b942); margin: 0 0 .7rem; padding-bottom: .4rem; border-bottom: 1px solid var(--line, rgba(255,255,255,0.08)); }
+.faq-item { margin-bottom: .6rem; }
+.faq-item summary { align-items: flex-start; }
+.faq-a p { margin: 0 0 .8rem; }
+.faq-a p:last-child { margin-bottom: 0; }
+.faq-a ul { margin: 0 0 .8rem; padding-left: 1.3rem; }
+.faq-a li { margin: 0 0 .4rem; }
+.faq-a ul:last-child, .faq-a li:last-child { margin-bottom: 0; }
+.faq-note { color: var(--ink-soft, #c7d3e4); font-size: .92rem; margin-top: .3rem; }
+.faq-footer { margin-top: 2rem; padding: 1.3rem 1.4rem; background: var(--bg, #050d1c); border: 1px solid var(--line, rgba(255,255,255,0.08)); border-radius: 12px; }
+.faq-footer p { margin: 0 0 .5rem; }
+.faq-footer p:last-child { margin-bottom: 0; }
+.faq-footer strong { color: var(--gold-400, #f5b942); }
 </style>
 <style>
 /* Pinned time-sensitive actions — self-contained, var fallbacks */
@@ -171,6 +187,7 @@
       <a href="#search">Search</a>
       <a href="#just-dropped" class="nav-new">Just Dropped</a>
       <a href="#daily-news">Daily News</a>
+      <a href="#faq">FAQ</a>
       <a href="#testimonials">Testimonials</a>
       <a href="#system">The System</a>
       <a href="#numbers">Numbers</a>
@@ -371,6 +388,23 @@
       <p class="section-intro"><strong>Where Things Stand</strong> — a plain-language update on where the AISH&nbsp;&rarr;&nbsp;ADAP transition sits and what it means for you. No jargon. The newest update is first; earlier days are below it.</p>
     </header>
     <div id="daily-news-feed" class="dn-feed"></div>
+  </div>
+</section>
+
+<!-- ───────────── FAQ ───────────── -->
+<section id="faq" class="daily-news">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="eyebrow">Peer information</p>
+      <h2>Frequently Asked Questions</h2>
+      <p class="section-intro">These are the questions our community keeps asking, and the answers we have worked through together. This page exists so that people who are not on Facebook can find the same information. It is peer information, not legal advice — for your own situation, confirm with the program in writing. Alberta Supports: <strong>1-877-644-9992</strong>.</p>
+      <p class="faq-note"><em>Answers reflect the rules as of July 2026 and will be updated as things change. Key figures on this page have been checked against the government's own pages and policy manual.</em></p>
+    </header>
+    <div id="faq-list" class="faq-list"></div>
+    <div class="faq-footer">
+      <p>If you are struggling, support is available any time: call or text <strong>988</strong> (Suicide Crisis Helpline), or the Alberta Mental Health Help Line at <strong>1-877-303-2642</strong>.</p>
+      <p class="faq-signoff">— The Alberta Disability System Breakdown</p>
+    </div>
   </div>
 </section>
 
@@ -1095,6 +1129,7 @@
       <ul class="footer-list">
         <li><a href="#just-dropped">Just Dropped</a></li>
         <li><a href="#daily-news">Daily News</a></li>
+        <li><a href="#faq">FAQ</a></li>
         <li><a href="#testimonials">Testimonials</a></li>
         <li><a href="#reports">All reports</a></li>
         <li><a href="#documents">Document library</a></li>
@@ -1151,6 +1186,7 @@
 })();
 </script>
 <script src="/js/daily-news.js"></script>
+<script src="/js/faq.js"></script>
 <script src="/js/app.js"></script>
 </body>
 </html>

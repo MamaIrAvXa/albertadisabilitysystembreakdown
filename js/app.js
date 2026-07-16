@@ -127,6 +127,7 @@ const DOCUMENTS = [
   { cat: "plain", title: "AISH Taxpayer Truth — Plain Language", desc: "Plain-language version of the taxpayer / Heritage Fund analysis.", file: "/pdfs/plain-language/AISH_Taxpayer_Truth_PlainLanguage_2026.pdf" },
   { cat: "plain", title: "Information Asymmetry — Plain Language Companion", desc: "Plain-language companion to the Information Asymmetry Report.", file: "/pdfs/information-asymmetry/1_Information_Asymmetry_Plain_Language_Companion.pdf" },
   { cat: "plain", title: "Your Right to Appeal — Plain Language", desc: "Plain-language explanation of the right to appeal an AISH decision: what counts as an appealable decision, the 30-day deadline, and how to file before the window closes.", file: "/pdfs/plain-language/Your_Right_to_Appeal_PlainLanguage_June2026.pdf", released: "2026-06-03" },
+  { cat: "plain", title: "If Your Condition Flares \u2014 Plain-Language Explainer (s.15(4))", desc: "A plain-language explainer of the episodic-disability trap in the ADAP rules \u2014 section 16(a) requires you to report when your employment is reduced or ends, and section 15(4)(a) makes that same fact a ground to refuse, suspend, vary or discontinue your benefit. The regulation draws no distinction between someone who will not work and someone who cannot; there is no exemption for illness or a symptom flare, and \u201creasonable employment\u201d is never defined. Written for anyone with an episodic condition \u2014 MS, lupus, ME/CFS, Crohn's, bipolar, long COVID, epilepsy, migraine, fibromyalgia, EDS \u2014 so you can see how the two sections work together and what to do about it. Pairs with the MLA letter. ADAP only, not AISH.", file: "/pdfs/july-2026-docs/ADSB_If_Your_Condition_Flares_Explainer.pdf", released: "2026-07-15" },
   { cat: "plain", title: "Red Deer Community Resources — A Plain-Language Guide", desc: "A plain-language guide to community resources in Red Deer \u2014 local support services, transportation, food and financial help, health and mental-health supports, and how to reach them. Practical, local help for people navigating AISH and ADAP in central Alberta.", file: "/pdfs/july-2026-docs/Red_Deer_Community_Resources_July2026.pdf", released: "2026-07-07" },
   { cat: "plain", title: "How Earning Money Works — AISH vs. ADAP", desc: "A plain-language breakdown of how work earnings are treated on AISH versus ADAP \u2014 what you keep, where the clawback starts ($350 on AISH; $700 single, $1,100 with dependents, $1,500 for a partner on ADAP), and why the ADAP reduction is a gradual slope rather than a cliff. Includes the catch: the government does not publish the exact ADAP rate and makes you use their online estimator. Checked against the manual.", file: "/pdfs/july-2026-docs/How_Earning_Works_AISH_vs_ADAP_July2026.pdf", released: "2026-07-06" },
   { cat: "plain", title: "Living Together and Your Benefits — A Plain-Language Guide", desc: "A plain-language guide to how living with others affects your AISH or ADAP \u2014 the difference between a spouse or partner, a roommate, and a relative you share a home with, and what the August cohabitation rule (each partner at 88 percent) does and does not apply to. Clears up the confusion so you know whether a change is aimed at you.", file: "/pdfs/july-2026-docs/Living_Together_and_Your_Benefits_July2026.pdf", released: "2026-07-05" },
@@ -644,6 +645,7 @@ const ACTION_FORMS = [
   { title: "CDB $200 Deduction Correction Letter", desc: "File-correction letter for when the $200 Canada Disability Benefit amount was deducted but does not match the CDB status you reported. Updated July 2026 for the ADAP transition.", file: "/pdfs/fillable/Fillable_CDB_Deduction_Correction_Letter_v2_July2026.pdf", released: "2026-07-03" },
   { title: "CDB Underpayment Repayment Request", desc: "For when AISH deducted the $200 CDB amount but you were not actually receiving the federal benefit \u2014 denied, still pending, or more was taken than you received. Cites the AISH General Regulation rule that the director MUST repay an underpayment for the entire period, and asks them to put the calculation in writing and pay it back. The mirror of the repayment form: that one is for when you owe them, this one is for when they owe you.", file: "/pdfs/fillable/Fillable_CDB_Underpayment_Repayment_Request.pdf", released: "2026-06-22" },
   { title: "MLA Letter — Episodic Disability and AR 96/2026 s.15(4)", desc: "If your condition flares, read this. Section 16(a) of the ADAP regulation REQUIRES you to report reduced or terminated employment \u2014 and section 15(4)(a) makes that same fact a ground to refuse, suspend, vary or discontinue your benefit. You must report the very thing that can be used against you. The regulation draws no distinction between someone who will not work and someone who cannot; there is no exemption for illness, incapacity or symptom flare anywhere in it, \u201creasonable employment\u201d is never defined, and these decisions are exempt from appeal. This power applies to ADAP only, not to people who stayed on AISH. A ready-to-send letter to your MLA, quoting the regulation verbatim, with space to describe in your own words what a flare does to you. (To be precise: the power is discretionary \u2014 \u201cmay\u201d \u2014 and we are not aware of a case where it has been used. The finding is that the power exists and no protection is written against it.)", file: "/pdfs/fillable/Fillable_MLA_Letter_Episodic_Disability_s15-4.pdf", released: "2026-07-13" },
+  { title: "MLA Letter \u2014 Episodic Disability (s.15(4)) \u2014 Letter Only", desc: "The send-ready version of the episodic-disability MLA letter \u2014 just the fillable letter itself, without the explainer pages, for when you already understand the trap and want to fill it in, sign, and send. Same verbatim regulation quotes (section 16(a) requires you to report reduced or terminated employment; section 15(4)(a) makes that same fact a ground to refuse, suspend, vary or discontinue your benefit), and the same space to describe in your own words what a flare does to you. Pairs with the full version above, which includes the background. ADAP only, not AISH.", file: "/pdfs/fillable/Fillable_MLA_Letter_s15-4_LetterOnly.pdf", released: "2026-07-15" },
   { title: "Request to Record a Medical Appointment (Accommodation)", desc: "A consent-based request to audio-record your own medical appointment, so you have an accurate record of what was said. Built on the College of Physicians and Surgeons of Alberta's own guidance, which tells patients to explain their reason and ask the physician's consent first. You tick why you're asking (memory, cognition, anxiety, pain or medication, multiple providers, sharing with a caregiver) without disclosing a diagnosis, and it sets out fallbacks if recording is declined \u2014 a written summary before you leave, or permission to bring a support person to take notes. Includes your undertakings: you record only your own appointment, tell them each time, stop if asked, and never post it publicly. Two versions: fillable on any device, or a large-print copy to print and complete by hand.", file: "/pdfs/fillable/Fillable_Recording_Accommodation_Request.pdf", released: "2026-07-10" },
   { title: "ADAP Employment Participation — Barriers Notice", desc: "A formal written notice to ADAP that your disability prevents you from taking part in employment programming or training, with a request for accommodation in writing. This is not refusing to participate \u2014 it is documenting that you are unable to. If ADAP grants accommodation, you get the exemption you need; if they refuse or don't respond, you hold written proof the program required participation and would not address the barrier. Either way the record is on your side. Two versions: fillable on any device, or print and write by hand. Current for the program as of July 2, 2026.", file: "/pdfs/fillable/ADAP_Employment_Barriers_Notice_Fillable_July2026.pdf", released: "2026-07-04" },
   { title: "Disability Advocacy Consent Form", desc: "A consent form authorizing an advocate to act on your behalf \u2014 so someone you trust can speak to AISH, ADAP, the Appeals Secretariat, or a worker for you, and help with your file. You decide what it covers and you can withdraw it any time. Two versions: a fillable copy to complete on screen, or a print-and-fill copy to complete by hand.", file: "/pdfs/fillable/DISABILITY_Advocacy_Consent_Fillable.pdf", released: "2026-06-29" },
@@ -802,14 +804,21 @@ function dnFormatDate(d) {
 function dnEscape(s) {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
+// Escape, then apply inline emphasis: **bold**, *italic*, _italic_.
+function mdInline(s) {
+  return dnEscape(s)
+    .replace(/\*\*([^*]+?)\*\*/g, "<strong>$1</strong>")
+    .replace(/\*([^*]+?)\*/g, "<em>$1</em>")
+    .replace(/_([^_]+?)_/g, "<em>$1</em>");
+}
 function dnBodyToHtml(body) {
   const lines = body.split("\n");
   let html = "", para = [];
-  const flush = () => { if (para.length) { html += "<p>" + dnEscape(para.join(" ")) + "</p>"; para = []; } };
+  const flush = () => { if (para.length) { html += "<p>" + mdInline(para.join(" ")) + "</p>"; para = []; } };
   lines.forEach(line => {
     const t = line.trim();
     if (t === "") { flush(); }
-    else if (t.indexOf("## ") === 0) { flush(); html += '<h4 class="dn-h">' + dnEscape(t.slice(3)) + "</h4>"; }
+    else if (t.indexOf("## ") === 0) { flush(); html += '<h4 class="dn-h">' + mdInline(t.slice(3)) + "</h4>"; }
     else { para.push(t); }
   });
   flush();
@@ -862,6 +871,38 @@ function renderDailyNews() {
       </details>`;
     });
   }
+  wrap.innerHTML = html;
+}
+
+function faqAnswerToHtml(a) {
+  const lines = a.split("\n");
+  let html = "", para = [], list = [];
+  const flushP = () => { if (para.length) { html += "<p>" + mdInline(para.join(" ")) + "</p>"; para = []; } };
+  const flushL = () => { if (list.length) { html += "<ul>" + list.map(li => "<li>" + mdInline(li) + "</li>").join("") + "</ul>"; list = []; } };
+  lines.forEach(line => {
+    const t = line.trim();
+    if (t === "") { flushP(); flushL(); }
+    else if (t.indexOf("- ") === 0) { flushP(); list.push(t.slice(2)); }
+    else { flushL(); para.push(t); }
+  });
+  flushP(); flushL();
+  return html;
+}
+function renderFAQ() {
+  const wrap = document.getElementById("faq-list");
+  if (!wrap || typeof FAQ === "undefined" || !FAQ.length) return;
+  let html = "";
+  FAQ.forEach(group => {
+    html += '<div class="faq-cat"><h3 class="faq-cat-title">' + dnEscape(group.cat) + "</h3>";
+    group.items.forEach(item => {
+      html += `
+      <details class="dn-archive-item faq-item">
+        <summary>${dnEscape(item.q)}</summary>
+        <div class="dn-body faq-a">${faqAnswerToHtml(item.a)}</div>
+      </details>`;
+    });
+    html += "</div>";
+  });
   wrap.innerHTML = html;
 }
 
@@ -1418,6 +1459,7 @@ function bindSearch() {
 document.addEventListener("DOMContentLoaded", () => {
   renderJustDropped();
   renderDailyNews();
+  renderFAQ();
   renderTestimonials();
   renderFlyers();
   renderReports();
