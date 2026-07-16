@@ -9,6 +9,56 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-15",
+  title: "Where Things Stand \u2014 July 15, 2026",
+  body: `A lot got confirmed today, and a few things got corrected, including by me. Here is where things stand, in plain words, with the parts that touch your actual money up top.
+
+## ⚠️ THIS ONE HITS YOUR NEXT PAYMENT. IF YOU LIVE WITH A PARTNER, READ THIS FIRST.
+Starting with the August benefit period, a new rule takes effect for couples, and it lands in the payment issued at the end of this month. Here is the plain version.
+
+If you and your partner BOTH receive AISH or ADAP, you will each now get 88 percent of the full individual amount, instead of each getting 100 percent. The government's reason is that two people sharing a household share some costs. The effect is that a two-recipient couple will bring in less together than they did before.
+
+This is not a mistake on your statement, and it is not something you did wrong. It is a rule change, and it starts now, with your end-of-July money. So if this is you, look at that deposit closely so it does not catch you off guard, and plan for the lower combined amount going forward.
+
+This was confirmed today against the government's own ADAP fact sheet. It takes effect the August 2026 benefit period, which is the payment issued late this month.
+
+ALSO CHANGING THE SAME MONTH: the child benefit rates were recalibrated, and they take effect the same August period. Some families will see more, not less. If you have dependent children, check that part of your statement too.
+
+## THE MONEY PICTURE, CONFIRMED.
+The AISH base is 1,940 a month right now. For people moved to ADAP, the base is 1,740, which is 200 less. Right now that gap is filled by a 200 a month transition top-up. That top-up ends December 31, 2027, and the lower base becomes permanent January 1, 2028.
+
+Read that timing out loud. The cushion comes off right at the end of 2027, and the lower amount lands in the new year. A lower base arriving with Christmas. The next provincial election is October 2027, which is only three months before that cliff, so please do not treat "wait and see if it changes" as a plan. Hoping is not a strategy. Deciding is.
+
+## GOOD NEWS ON THE TOP-UP, AND I want this one to land clearly.
+There was a fear going around that if you were kept on AISH and later chose to move to ADAP, you would lose the 200 top-up and drop straight to the lower base. We checked the government's own policy manual today, and that fear is wrong for existing AISH clients. If you were on AISH, or approved for AISH, before July 2, 2026, you keep the 200 top-up until December 31, 2027 whether you moved in July or move later. The only people who start at the lower base with no top-up are brand new applicants who were never on AISH. On top of that, the top-up is not cut to 88 percent for couples, and the usual asset limit is waived for it.
+
+## THE EARNINGS NUMBERS, the real ones.
+Confirmed against the government fact sheet. The amount you can earn before they start reducing your benefit: ADAP single, 700 a month. AISH single or parent, 350 a month. ADAP parent, 1,100 a month. Partner, 1,500 a month. The 1,072 figure some of you saw was the old AISH number, before the cut. That is where the confusion came from, and yes, it was a real figure, just the old one.
+
+One honest limit. The exact rate they claw back above those amounts is not published anywhere. So for your own situation, use the government benefit estimator and ask them in writing. Do not plan your income around a rumour.
+
+## THE CANADA DISABILITY BENEFIT.
+It went up to 204.20 a month in July. But Alberta counts it as income and claws it back dollar for dollar, so AISH and ADAP recipients see none of it. Still report it the way they ask, so you do not end up with an overpayment later.
+
+## THE ENERGY REBATE. Do not panic about this one.
+Up to 100 per adult. If you are on AISH, ADAP, or Income Support, you are signed up automatically, you do not apply, and it does NOT reduce your benefit. Everyone else has to apply by September 30.
+
+## IF YOUR CONDITION FLARES, there is a new tool.
+We found a power in the regulation, section 15(4), that only applies to ADAP and lets a director cut a benefit if you "reduced or terminated" your employment, with no exemption written anywhere for illness. For anyone whose condition comes and goes, that is aimed right at you. There is a fillable letter to your MLA about it in the Take Action section, with the whole thing written for you. And if this ever happens to you, you are not powerless, a cut like that can be appealed. I told some of you the opposite once and I was wrong, and I fixed it the moment I read the rules myself.
+
+## IF YOU MOVED TO ADAP, one thing to check.
+Equipment through Alberta Aids to Daily Living is cost-share exempt for AISH clients. ADAP is not listed for that same exemption. So if you were moved and you need a wheelchair or other equipment, ask AADL in writing whether you are still exempt, before a bill lands. It may be an oversight on their end, but get your answer in writing either way.
+
+## TWO THINGS THAT ARE NOT CHANGING, and both are on your side.
+Reassessment back to AISH has no deadline. None. If you cannot reliably work, that door stays open with no clock on it, and the medical report is the heart of it.
+
+And as of today, our stance is out in the open. We are done shrinking ourselves to be invisible. You have every right to ask AISH and ADAP for accommodations that fit your disability, in writing, and it is not you being difficult. It is the system's job to meet you, not yours to bend to it.
+
+You can read the government's own ADAP fact sheet here: https://www.alberta.ca/system/files/alss-adap-fact-sheet.pdf
+
+That is where things stand. If any of this raises a question about your own situation, reach out to us and we will work it out together, one piece at a time. And if today lands heavy, reach out, **988 any hour**, or **the Alberta Mental Health Help Line at 1-877-303-2642**. We carry each other. 🌹`
+},
+{
   date: "2026-07-14",
   title: "Where Things Stand \u2014 July 14, 2026",
   body: `It has been a long day in this community and a lot came through. Here is where things actually stand tonight, in plain words, with the sources named so you can check any of it.
