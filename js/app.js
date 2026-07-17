@@ -641,7 +641,6 @@ const JUST_DROPPED_DAYS = 7;
 // `released` date when it should also appear in the new-release feed.
 const ACTION_FORMS = [
   { title: "Move Fast, Break Things — Accountability Submission", desc: "An accountability submission to send to your MLA, the Minister, or any party leader \u2014 four examples from the government's own record (the ADAP cut, the Access to Information rollback, the 2.9-million-voter data breach, the AHS break-up) and one question: where do you stand, and what will you do?", file: "/pdfs/fillable/MoveFastBreakThings_Accountability_Submission_June2026.pdf", released: "2026-06-09" },
-  { title: "Letter to the Minister", desc: "A letter anyone can send to the Minister responsible for AISH and ADAP, making the human-rights case against being moved to ADAP with no new individual assessment and no independent appeal. Fill in your own story; copy your MLA, the Opposition critic, and local media.", file: "/pdfs/fillable/Fillable_Letter_to_the_Minister_AISH_to_ADAP_June2026.pdf", released: "2026-06-06" },
   { title: "CDB $200 Deduction Correction Letter", desc: "File-correction letter for when the $200 Canada Disability Benefit amount was deducted but does not match the CDB status you reported. Updated July 2026 for the ADAP transition.", file: "/pdfs/fillable/Fillable_CDB_Deduction_Correction_Letter_v2_July2026.pdf", released: "2026-07-03" },
   { title: "CDB Underpayment Repayment Request", desc: "For when AISH deducted the $200 CDB amount but you were not actually receiving the federal benefit \u2014 denied, still pending, or more was taken than you received. Cites the AISH General Regulation rule that the director MUST repay an underpayment for the entire period, and asks them to put the calculation in writing and pay it back. The mirror of the repayment form: that one is for when you owe them, this one is for when they owe you.", file: "/pdfs/fillable/Fillable_CDB_Underpayment_Repayment_Request.pdf", released: "2026-06-22" },
   { title: "MLA Letter — Episodic Disability and AR 96/2026 s.15(4)", desc: "If your condition flares, read this. Section 16(a) of the ADAP regulation REQUIRES you to report reduced or terminated employment \u2014 and section 15(4)(a) makes that same fact a ground to refuse, suspend, vary or discontinue your benefit. You must report the very thing that can be used against you. The regulation draws no distinction between someone who will not work and someone who cannot; there is no exemption for illness, incapacity or symptom flare anywhere in it, \u201creasonable employment\u201d is never defined, and these decisions are exempt from appeal. This power applies to ADAP only, not to people who stayed on AISH. A ready-to-send letter to your MLA, quoting the regulation verbatim, with space to describe in your own words what a flare does to you. (To be precise: the power is discretionary \u2014 \u201cmay\u201d \u2014 and we are not aware of a case where it has been used. The finding is that the power exists and no protection is written against it.)", file: "/pdfs/fillable/Fillable_MLA_Letter_Episodic_Disability_s15-4.pdf", released: "2026-07-13" },
@@ -904,6 +903,90 @@ function renderFAQ() {
     html += "</div>";
   });
   wrap.innerHTML = html;
+}
+
+// ─── Email a Letter ───
+function elComposeUrl(provider, to, cc, subject, body) {
+  var t = encodeURIComponent(to || ""), c = encodeURIComponent(cc || ""),
+      s = encodeURIComponent(subject || ""), b = encodeURIComponent(body || "");
+  switch (provider) {
+    case "gmail":   return "https://mail.google.com/mail/?view=cm&fs=1&to=" + t + "&cc=" + c + "&su=" + s + "&body=" + b;
+    case "outlook": return "https://outlook.live.com/mail/0/deeplink/compose?to=" + t + "&cc=" + c + "&subject=" + s + "&body=" + b;
+    case "yahoo":   return "https://compose.mail.yahoo.com/?to=" + t + "&cc=" + c + "&subject=" + s + "&body=" + b;
+    default:        return "mailto:" + t + "?cc=" + c + "&subject=" + s + "&body=" + b;
+  }
+}
+function elSend(id, provider) {
+  var to = document.getElementById("el-to-" + id).value;
+  var ccEl = document.getElementById("el-cc-" + id);
+  var cc = ccEl ? ccEl.value : "";
+  var subject = document.getElementById("el-subject-" + id).value;
+  var body = document.getElementById("el-body-" + id).value;
+  try { if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(body); } catch (e) {}
+  var url = elComposeUrl(provider, to, cc, subject, body);
+  if (provider === "default") { window.location.href = url; } else { window.open(url, "_blank", "noopener"); }
+  var t = document.getElementById("el-toast-" + id);
+  if (t) t.textContent = "Opened your email. The full letter is also copied to your clipboard, in case anything looks cut off.";
+}
+function elCopy(id) {
+  var ta = document.getElementById("el-body-" + id);
+  var btn = document.getElementById("el-copy-" + id);
+  var done = function () {
+    btn.textContent = "\u2713 Copied";
+    btn.classList.add("copied");
+    setTimeout(function () { btn.textContent = "Copy the whole letter"; btn.classList.remove("copied"); }, 2200);
+  };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(ta.value).then(done).catch(function () { ta.focus(); ta.select(); try { document.execCommand("copy"); done(); } catch (e) {} });
+  } else { ta.focus(); ta.select(); try { document.execCommand("copy"); done(); } catch (e) {} }
+}
+function renderEmailLetters() {
+  var wrap = document.getElementById("email-letters-list");
+  if (!wrap || typeof EMAIL_LETTERS === "undefined" || !EMAIL_LETTERS.length) return;
+  var html = "";
+  EMAIL_LETTERS.forEach(function (L) {
+    var ccField = (typeof L.cc !== "undefined") ?
+      ('<div class="el-field"><label>Cc</label><input type="text" id="el-cc-' + L.id + '">' +
+       (L.ccHint ? '<p class="el-hint">' + L.ccHint + '</p>' : '') + '</div>') : '';
+    html +=
+      '<article class="el-card">' +
+        '<h3 class="el-title">' + dnEscape(L.title) + '</h3>' +
+        '<p class="el-blurb">' + dnEscape(L.blurb) + '</p>' +
+        '<details class="el-tools">' +
+          '<summary>\u2709\ufe0f Fill it in and email it</summary>' +
+          '<div class="el-body-wrap">' +
+            '<div class="el-field"><label>To</label><input type="text" id="el-to-' + L.id + '">' +
+              (L.toHint ? '<p class="el-hint">' + L.toHint + '</p>' : '') + '</div>' +
+            ccField +
+            '<div class="el-field"><label>Subject</label><input type="text" id="el-subject-' + L.id + '"></div>' +
+            '<div class="el-field"><label>The letter (edit anything in [brackets], then send)</label>' +
+              '<textarea id="el-body-' + L.id + '"></textarea></div>' +
+            '<p class="el-picker-label">Which email do you use?</p>' +
+            '<div class="el-providers">' +
+              '<button class="el-prov" onclick="elSend(\'' + L.id + '\',\'gmail\')"><span class="el-dot g"></span>Gmail</button>' +
+              '<button class="el-prov" onclick="elSend(\'' + L.id + '\',\'outlook\')"><span class="el-dot o"></span>Outlook</button>' +
+              '<button class="el-prov" onclick="elSend(\'' + L.id + '\',\'yahoo\')"><span class="el-dot y"></span>Yahoo</button>' +
+              '<button class="el-prov" onclick="elSend(\'' + L.id + '\',\'default\')"><span class="el-dot m"></span>Other / app</button>' +
+            '</div>' +
+            '<div class="el-btn-row">' +
+              '<button class="btn btn-primary" id="el-copy-' + L.id + '" onclick="elCopy(\'' + L.id + '\')">Copy the whole letter</button>' +
+              '<a class="el-pdf" href="' + encodePath(L.pdf) + '" target="_blank" rel="noopener">Prefer the PDF? \u2192</a>' +
+            '</div>' +
+            '<div class="el-toast" id="el-toast-' + L.id + '"></div>' +
+            (L.note ? '<div class="el-note">' + dnEscape(L.note) + '</div>' : '') +
+          '</div>' +
+        '</details>' +
+      '</article>';
+  });
+  wrap.innerHTML = html;
+  // populate field values from data (avoids HTML-escaping the letter bodies)
+  EMAIL_LETTERS.forEach(function (L) {
+    document.getElementById("el-to-" + L.id).value = L.to || "";
+    var ccEl = document.getElementById("el-cc-" + L.id);
+    if (ccEl) ccEl.value = L.cc || "";
+    document.getElementById("el-subject-" + L.id).value = L.subject || "";
+    document.getElementById("el-body-" + L.id).value = L.body || "";
+  });
 }
 
 function renderJustDropped() {
@@ -1460,6 +1543,7 @@ document.addEventListener("DOMContentLoaded", () => {
   renderJustDropped();
   renderDailyNews();
   renderFAQ();
+  renderEmailLetters();
   renderTestimonials();
   renderFlyers();
   renderReports();

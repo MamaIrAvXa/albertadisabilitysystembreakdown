@@ -74,6 +74,34 @@
 .faq-item summary { align-items: flex-start; }
 .faq-a p { margin: 0 0 .8rem; }
 .faq-a p:last-child { margin-bottom: 0; }
+/* Email a Letter */
+.email-letters-list { display: flex; flex-direction: column; gap: 1rem; }
+.el-card { background: var(--panel, #0b1730); border: 1px solid var(--line, rgba(255,255,255,0.10)); border-radius: 14px; padding: 1.1rem 1.15rem; }
+.el-title { margin: 0 0 .4rem; font-size: 1.1rem; }
+.el-blurb { margin: 0 0 .7rem; color: var(--ink-soft, #aebbd0); font-size: .95rem; }
+.el-tools > summary { cursor: pointer; font-weight: 600; color: var(--gold-400, #f5b942); list-style: none; padding: .55rem .8rem; border: 1px solid var(--line, rgba(255,255,255,0.10)); border-radius: 10px; background: var(--panel-2, #0e1c3a); display: inline-block; }
+.el-tools > summary::-webkit-details-marker { display: none; }
+.el-tools[open] > summary { margin-bottom: .9rem; }
+.el-body-wrap { }
+.el-field { margin-bottom: .8rem; }
+.el-field label { display: block; font-size: .74rem; text-transform: uppercase; letter-spacing: .08em; color: var(--ink-soft, #aebbd0); margin-bottom: .3rem; }
+.el-field input, .el-field textarea { width: 100%; background: #07122a; border: 1px solid var(--line, rgba(255,255,255,0.10)); border-radius: 9px; color: var(--ink, #eaf1fb); padding: .6rem .7rem; font-size: .95rem; font-family: inherit; resize: vertical; }
+.el-field input:focus, .el-field textarea:focus { outline: none; border-color: var(--gold-dim, #caa64f); }
+.el-field textarea { min-height: 300px; white-space: pre-wrap; }
+.el-hint { font-size: .82rem; color: var(--ink-soft, #aebbd0); margin: .35rem 0 0; }
+.el-hint a { color: var(--gold-400, #f5b942); }
+.el-picker-label { font-weight: 600; margin: 1rem 0 .55rem; }
+.el-providers { display: grid; grid-template-columns: repeat(2, 1fr); gap: .55rem; }
+@media (min-width: 520px) { .el-providers { grid-template-columns: repeat(4, 1fr); } }
+.el-prov { padding: .7rem .5rem; border: 1px solid var(--line, rgba(255,255,255,0.10)); background: var(--panel-2, #0e1c3a); color: var(--ink, #eaf1fb); border-radius: 10px; cursor: pointer; font-size: .9rem; font-weight: 600; display: flex; flex-direction: column; align-items: center; gap: .3rem; transition: all .15s; }
+.el-prov:hover { border-color: var(--gold-400, #f5b942); transform: translateY(-1px); }
+.el-dot { width: 10px; height: 10px; border-radius: 50%; }
+.el-dot.g { background: #ea4335; } .el-dot.o { background: #0a7cf0; } .el-dot.y { background: #7b2ff7; } .el-dot.m { background: var(--gold-400, #f5b942); }
+.el-btn-row { display: flex; flex-wrap: wrap; gap: .55rem; margin: .9rem 0 0; align-items: center; }
+.el-pdf { color: var(--gold-400, #f5b942); font-size: .86rem; text-decoration: none; margin-left: auto; }
+.el-toast { margin-top: .7rem; font-size: .86rem; color: var(--ok, #5fce8f); min-height: 1.1em; }
+.el-note { border-left: 3px solid var(--gold-dim, #caa64f); padding: .5rem .8rem; margin: 1rem 0 0; background: rgba(245,185,66,.06); border-radius: 0 8px 8px 0; font-size: .86rem; color: var(--ink-soft, #aebbd0); }
+.el-foot { margin-top: 1.2rem; font-size: .86rem; color: var(--ink-soft, #aebbd0); }
 .faq-a ul { margin: 0 0 .8rem; padding-left: 1.3rem; }
 .faq-a li { margin: 0 0 .4rem; }
 .faq-a ul:last-child, .faq-a li:last-child { margin-bottom: 0; }
@@ -188,6 +216,7 @@
       <a href="#just-dropped" class="nav-new">Just Dropped</a>
       <a href="#daily-news">Daily News</a>
       <a href="#faq">FAQ</a>
+      <a href="#email-letters">Email a Letter</a>
       <a href="#testimonials">Testimonials</a>
       <a href="#system">The System</a>
       <a href="#numbers">Numbers</a>
@@ -1105,6 +1134,19 @@
   </div>
 </section>
 
+<!-- ───────────── EMAIL A LETTER ───────────── -->
+<section id="email-letters" class="email-letters">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">Take Action</p>
+      <h2 class="section-title">Email a letter — the easy way</h2>
+      <p class="section-lede">No printing, no envelopes. Pick a letter, and it opens in your email with the recipient, subject, and words already filled in. Edit anything in [brackets], then send. Nothing sends on its own — you always press send yourself.</p>
+    </header>
+    <div id="email-letters-list" class="email-letters-list"></div>
+    <p class="el-foot">Every button also copies the full letter to your clipboard, so if a long letter ever gets trimmed by your email, just paste. Prefer paper? Every letter still has its fillable PDF.</p>
+  </div>
+</section>
+
 </main>
 
 <!-- ───────────── FOOTER ───────────── -->
@@ -1130,6 +1172,7 @@
         <li><a href="#just-dropped">Just Dropped</a></li>
         <li><a href="#daily-news">Daily News</a></li>
         <li><a href="#faq">FAQ</a></li>
+        <li><a href="#email-letters">Email a Letter</a></li>
         <li><a href="#testimonials">Testimonials</a></li>
         <li><a href="#reports">All reports</a></li>
         <li><a href="#documents">Document library</a></li>
@@ -1187,6 +1230,7 @@
 </script>
 <script src="/js/daily-news.js"></script>
 <script src="/js/faq.js"></script>
+<script src="/js/email-letters.js"></script>
 <script src="/js/app.js"></script>
 </body>
 </html>
