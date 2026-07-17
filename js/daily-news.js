@@ -9,6 +9,33 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-16",
+  title: "Where Things Stand \u2014 July 16, 2026",
+  body: `Here is where things sit tonight, in plain language, with the most useful bits first.
+
+Your money right now is the same. If you were moved to ADAP, your base is $1,740 plus the $200 monthly top-up, which comes to $1,940. That is the same total as AISH for now. The top-up is set to run until the end of December 2027, and the $200 cut is set to become permanent starting January 2028. So the drop is not happening this year. You have time, and we are watching it closely.
+
+Today was a federal disability benefit (CDB) payment day. There is early word that the CDB went up by about $4 a month, to around $204.20. That figure is not yet posted on the official government page, so please treat it as not confirmed. And either way, here is the hard part. Alberta takes the CDB back off your AISH or ADAP cheque dollar for dollar, so even a small increase does not put extra money in your pocket. Alberta is still the only province that claws it back.
+
+A heads up for couples and families about August 1. Starting with your August cheque, if you and your partner both receive AISH or ADAP, each of you will get 88 percent of the full amount instead of 100 percent. That means a two-person disabled household will receive less. Child benefit rates are being adjusted the same month. This is 16 days away, so if this is you, it is worth planning for now.
+
+Now some good news, and it is real. The $100 Alberta Energy Rebate is yours to keep. The province has said it will not be counted against you and will not be taken off your AISH, ADAP, or Income Support cheque, and it is not taxable. If you are on one of those programs you do not even have to apply, it comes to you automatically. Some folks are calling it Dani Dollars. Whatever you call it, keep it.
+
+If you got an ADAP letter and it left you confused, you are not alone. A lot of people found these letters unclear, and there are two things worth knowing. First, the letter does not spell out whether you have to take part in employment services, and a navigator may contact you about work. If that happens, you can ask Alberta Supports, in writing, whether you are required to take part before you agree to anything. Second, your health benefits are protected. The wording is clumsy, but your coverage does not depend on whether you take part in job programming.
+
+About earning money from work. Right now the amount you are allowed to earn before your cheque drops is being reported differently in different places. Please do not lean on any single number you see floating around, including from us. If you are thinking about changing your work hours, ask Alberta Supports for your own figure in writing first, so you have it in your hands.
+
+The door back to AISH is still open, and it has no deadline. If you were moved to ADAP and you cannot work because of a permanent disability, you can ask to be reassessed to return to AISH. There is no clock on this one. It is the DS2444A that you fill out and the DS2444B that your doctor completes. Take your time and build your strongest case. We have guides on the site, and people in this community who will help you.
+
+One more thing on that. If you feel you were put on ADAP by mistake, the placement decision itself is not something you can appeal. That is exactly why the reassessment door matters so much, because it has no deadline and it is the real way back. If this is you, reach out early and let us help.
+
+The bigger picture, briefly. Several city councils, including Red Deer, Edmonton, Lethbridge, Camrose, and Calgary, have formally asked the province to pause and rethink these changes. At the same time, funding is being pulled from disability programs and from some of the groups that speak up for disabled people. We are documenting all of it, and none of it is leaving the record.
+
+That is where things stand tonight. If any of this raises a question about your own situation, the safest move is always to ask the program in writing. Alberta Supports is 1-877-644-9992.
+
+And please, if tonight feels heavy, you do not have to carry it alone. You can call or text **988** any time, or reach the **Alberta Mental Health Help Line at 1-877-303-2642**. We are still in this together, and we are not going anywhere.`
+},
+{
   date: "2026-07-15",
   title: "Where Things Stand \u2014 July 15, 2026",
   body: `A lot got confirmed today, and a few things got corrected, including by me. Here is where things stand, in plain words, with the parts that touch your actual money up top.
