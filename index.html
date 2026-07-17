@@ -92,6 +92,39 @@
 .lp-dl:hover { text-decoration: underline; }
 .lp-foot { margin-top: 1.3rem; font-size: .88rem; color: var(--ink-soft, #aebbd0); }
 .lp-foot a { color: var(--gold-400, #f5b942); }
+/* Send the package */
+.lps { margin-top: 1.6rem; background: var(--panel, #0b1730); border: 1px solid var(--line, rgba(255,255,255,0.10)); border-radius: 14px; padding: 1.2rem 1.2rem 1.3rem; }
+.lps-title { margin: 0 0 .3rem; font-size: 1.15rem; }
+.lps-sub { margin: 0 0 1rem; color: var(--ink-soft, #aebbd0); font-size: .95rem; }
+.lps-step { font-weight: 700; margin: 1.1rem 0 .55rem; font-size: 1rem; display: flex; align-items: center; gap: .5rem; }
+.lps-step .lps-n { width: 1.5rem; height: 1.5rem; border-radius: 50%; background: var(--gold-400, #f5b942); color: #20180a; display: flex; align-items: center; justify-content: center; font-size: .85rem; font-weight: 700; flex: 0 0 auto; }
+.lps-attach { background: rgba(224,96,122,.08); border: 1px solid rgba(224,96,122,.4); border-radius: 12px; padding: .85rem 1rem; font-size: .9rem; color: var(--ink-soft, #aebbd0); }
+.lps-attach strong { color: #e0607a; }
+.lps-attach-files { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .6rem; }
+.lps-attach-files a { font-size: .82rem; color: var(--gold-400, #f5b942); text-decoration: none; border: 1px solid var(--line, rgba(255,255,255,0.10)); border-radius: 8px; padding: .35rem .6rem; background: var(--panel-2, #0e1c3a); }
+.lps-cats { display: flex; flex-wrap: wrap; gap: .45rem; }
+.lps-cat { padding: .55rem .8rem; border: 1px solid var(--line, rgba(255,255,255,0.10)); background: var(--panel-2, #0e1c3a); color: var(--ink-soft, #aebbd0); border-radius: 9px; cursor: pointer; font-size: .86rem; font-weight: 600; transition: all .15s; }
+.lps-cat.active { border-color: var(--gold-400, #f5b942); color: var(--ink, #eaf1fb); }
+.lps-panel { margin-top: .8rem; }
+.lps-field { margin-bottom: .8rem; }
+.lps-field label { display: block; font-size: .74rem; text-transform: uppercase; letter-spacing: .08em; color: var(--ink-soft, #aebbd0); margin-bottom: .3rem; }
+.lps-field select, .lps-field input, .lps-field textarea { width: 100%; background: #07122a; border: 1px solid var(--line, rgba(255,255,255,0.10)); border-radius: 9px; color: var(--ink, #eaf1fb); padding: .6rem .7rem; font-size: .95rem; font-family: inherit; }
+.lps-field select:focus, .lps-field input:focus, .lps-field textarea:focus { outline: none; border-color: var(--gold-dim, #caa64f); }
+.lps-field textarea { min-height: 320px; white-space: pre-wrap; resize: vertical; }
+.lps-why { font-size: .85rem; color: var(--ink-soft, #aebbd0); margin: .5rem 0 0; min-height: 1.1em; }
+.lps-site-note { background: rgba(245,185,66,.07); border: 1px solid rgba(245,185,66,.3); border-radius: 9px; padding: .55rem .8rem; margin-top: .6rem; font-size: .85rem; color: var(--ink-soft, #aebbd0); }
+.lps-site-note a { color: var(--gold-400, #f5b942); }
+.lps-picker-label { font-weight: 600; margin: 1rem 0 .55rem; }
+.lps-providers { display: grid; grid-template-columns: repeat(2, 1fr); gap: .55rem; }
+@media (min-width: 520px) { .lps-providers { grid-template-columns: repeat(4, 1fr); } }
+.lps-prov { padding: .7rem .5rem; border: 1px solid var(--line, rgba(255,255,255,0.10)); background: var(--panel-2, #0e1c3a); color: var(--ink, #eaf1fb); border-radius: 10px; cursor: pointer; font-size: .9rem; font-weight: 600; display: flex; flex-direction: column; align-items: center; gap: .3rem; transition: all .15s; }
+.lps-prov:hover { border-color: var(--gold-400, #f5b942); transform: translateY(-1px); }
+.lps-prov:disabled { opacity: .4; cursor: not-allowed; transform: none; }
+.lps-dot { width: 10px; height: 10px; border-radius: 50%; }
+.lps-dot.g { background: #ea4335; } .lps-dot.o { background: #0a7cf0; } .lps-dot.y { background: #7b2ff7; } .lps-dot.m { background: var(--gold-400, #f5b942); }
+.lps-btn-row { display: flex; flex-wrap: wrap; gap: .55rem; margin: .9rem 0 0; }
+.lps-toast { margin-top: .7rem; font-size: .86rem; color: var(--ok, #5fce8f); min-height: 1.1em; }
+.lps-remind { margin-top: 1rem; font-size: .84rem; color: var(--ink-soft, #aebbd0); }
 /* Email a Letter */
 .email-letters-list { display: flex; flex-direction: column; gap: 1rem; }
 .el-card { background: var(--panel, #0b1730); border: 1px solid var(--line, rgba(255,255,255,0.10)); border-radius: 14px; padding: 1.1rem 1.15rem; }
@@ -1220,7 +1253,67 @@
           <a class="lp-dl" href="/pdfs/july-challenge/4_Comparative_Evidence_Dossier_ADSB.pdf" target="_blank" rel="noopener">Download the evidence dossier (PDF) →</a>
         </div>
       </li>
+      <li class="lp-card">
+        <span class="lp-num">5</span>
+        <div class="lp-body">
+          <div class="lp-head"><h3>Distribution List</h3><span class="lp-tag start">Where to send it</span></div>
+          <p>Who to send the package to and how to tailor the ask for each — legal clinics, disability and anti-poverty organizations, elected officials, oversight bodies, UN mechanisms, physicians, and media. Use the sender below to do it by email, or download the list to work from directly.</p>
+          <a class="lp-dl" href="/pdfs/july-challenge/5_Distribution_List_ADSB.pdf" target="_blank" rel="noopener">Download the distribution list (PDF) →</a>
+        </div>
+      </li>
     </ol>
+
+    <div class="lps">
+      <h3 class="lps-title">Send the package by email</h3>
+      <p class="lps-sub">Pick who you're writing to, and the cover letter tailors its ask to them. Where there's a direct email, it fills in; where there isn't, copy the letter and use the link to find the right contact.</p>
+
+      <div class="lps-step"><span class="lps-n">1</span> Download the four documents to attach</div>
+      <div class="lps-attach">
+        <strong>Email can't attach these for you</strong> — download all four, then attach them to your message before sending. The cover letter goes in the body.
+        <div class="lps-attach-files">
+          <a href="/pdfs/july-challenge/1_Charter_Challenge_ADSB.pdf" target="_blank" rel="noopener">1 · Charter Challenge</a>
+          <a href="/pdfs/july-challenge/2_UN_CRPD_Submission_ADSB.pdf" target="_blank" rel="noopener">2 · UN CRPD Submission</a>
+          <a href="/pdfs/july-challenge/3_Alberta_Human_Rights_Complaint_ADSB.pdf" target="_blank" rel="noopener">3 · Human Rights Complaint</a>
+          <a href="/pdfs/july-challenge/4_Comparative_Evidence_Dossier_ADSB.pdf" target="_blank" rel="noopener">4 · Evidence Dossier</a>
+        </div>
+      </div>
+
+      <div class="lps-step"><span class="lps-n">2</span> Who are you writing to?</div>
+      <div class="lps-cats" id="lps-cats"></div>
+
+      <div class="lps-panel">
+        <div class="lps-field">
+          <label>Recipient</label>
+          <select id="lps-recipient"></select>
+          <p class="lps-why" id="lps-why"></p>
+        </div>
+        <div class="lps-field">
+          <label>To</label>
+          <input type="text" id="lps-to" placeholder="(no direct email — see note below)">
+          <div class="lps-site-note" id="lps-site-note" style="display:none"></div>
+        </div>
+        <div class="lps-field">
+          <label>Subject</label>
+          <input type="text" id="lps-subject">
+        </div>
+        <div class="lps-field">
+          <label>Cover letter (the ask line tailors to your category — edit anything in [brackets])</label>
+          <textarea id="lps-body"></textarea>
+        </div>
+        <p class="lps-picker-label">Which email do you use?</p>
+        <div class="lps-providers">
+          <button type="button" class="lps-prov" id="lps-p-gmail"><span class="lps-dot g"></span>Gmail</button>
+          <button type="button" class="lps-prov" id="lps-p-outlook"><span class="lps-dot o"></span>Outlook</button>
+          <button type="button" class="lps-prov" id="lps-p-yahoo"><span class="lps-dot y"></span>Yahoo</button>
+          <button type="button" class="lps-prov" id="lps-p-default"><span class="lps-dot m"></span>Other / app</button>
+        </div>
+        <div class="lps-btn-row">
+          <button type="button" class="btn btn-primary" id="lps-copy">Copy the cover letter</button>
+        </div>
+        <div class="lps-toast" id="lps-toast"></div>
+      </div>
+      <p class="lps-remind">Reminder: attach all four documents before you send. Keep a simple log of who you sent it to and when — that record becomes part of the case, including for the UN "exhaustion of domestic remedies" analysis.</p>
+    </div>
 
     <p class="lp-foot">These are advocacy documents and drafts for instructing counsel — they are not legal advice. If you can act on any part of this, or connect it with a lawyer or organization, please reach out: <a href="mailto:albertadisabilitybreakdown@outlook.com">albertadisabilitybreakdown@outlook.com</a>.</p>
   </div>
@@ -1311,6 +1404,7 @@
 <script src="/js/daily-news.js"></script>
 <script src="/js/faq.js"></script>
 <script src="/js/email-letters.js"></script>
+<script src="/js/legal-package-sender.js"></script>
 <script src="/js/app.js"></script>
 </body>
 </html>
