@@ -74,6 +74,24 @@
 .faq-item summary { align-items: flex-start; }
 .faq-a p { margin: 0 0 .8rem; }
 .faq-a p:last-child { margin-bottom: 0; }
+/* The Legal Package */
+.lp-note { border: 1px solid rgba(245,185,66,.35); background: rgba(245,185,66,.07); border-radius: 10px; padding: .8rem 1rem; margin-bottom: 1.4rem; font-size: .9rem; color: var(--ink-soft, #aebbd0); }
+.lp-note strong { color: var(--gold-400, #f5b942); }
+.lp-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 1rem; counter-reset: none; }
+.lp-card { display: flex; gap: 1rem; background: var(--panel, #0b1730); border: 1px solid var(--line, rgba(255,255,255,0.10)); border-radius: 14px; padding: 1.1rem 1.15rem; }
+.lp-num { flex: 0 0 auto; width: 2.2rem; height: 2.2rem; display: flex; align-items: center; justify-content: center; border-radius: 50%; background: var(--panel-2, #0e1c3a); border: 1px solid var(--gold-dim, #caa64f); color: var(--gold-400, #f5b942); font-weight: 700; font-size: 1.05rem; }
+.lp-body { flex: 1; }
+.lp-head { display: flex; align-items: baseline; gap: .6rem; flex-wrap: wrap; margin-bottom: .35rem; }
+.lp-head h3 { margin: 0; font-size: 1.12rem; }
+.lp-tag { font-size: .7rem; text-transform: uppercase; letter-spacing: .06em; padding: .16rem .5rem; border-radius: 999px; font-weight: 600; }
+.lp-tag.start { background: rgba(95,206,143,.14); color: #7fe0a5; border: 1px solid rgba(95,206,143,.4); }
+.lp-tag.draft { background: rgba(245,185,66,.12); color: var(--gold-400, #f5b942); border: 1px solid rgba(245,185,66,.35); }
+.lp-tag.evidence { background: rgba(122,47,247,.14); color: #b79bff; border: 1px solid rgba(122,47,247,.4); }
+.lp-body p { margin: 0 0 .6rem; color: var(--ink-soft, #aebbd0); font-size: .95rem; }
+.lp-dl { color: var(--gold-400, #f5b942); text-decoration: none; font-weight: 600; font-size: .9rem; }
+.lp-dl:hover { text-decoration: underline; }
+.lp-foot { margin-top: 1.3rem; font-size: .88rem; color: var(--ink-soft, #aebbd0); }
+.lp-foot a { color: var(--gold-400, #f5b942); }
 /* Email a Letter */
 .email-letters-list { display: flex; flex-direction: column; gap: 1rem; }
 .el-card { background: var(--panel, #0b1730); border: 1px solid var(--line, rgba(255,255,255,0.10)); border-radius: 14px; padding: 1.1rem 1.15rem; }
@@ -217,6 +235,7 @@
       <a href="#daily-news">Daily News</a>
       <a href="#faq">FAQ</a>
       <a href="#email-letters">Email a Letter</a>
+      <a href="#legal-package">Legal Package</a>
       <a href="#testimonials">Testimonials</a>
       <a href="#system">The System</a>
       <a href="#numbers">Numbers</a>
@@ -1147,6 +1166,66 @@
   </div>
 </section>
 
+<!-- ───────────── THE LEGAL PACKAGE ───────────── -->
+<section id="legal-package" class="legal-package">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">The Record</p>
+      <h2 class="section-title">The Legal Package</h2>
+      <p class="section-lede">A complete, sourced package on the AISH-to-ADAP transition: the argument, the evidence, and the routes to act on it. It is built to be handed to a lawyer, a human-rights body, an international mechanism, a journalist, or an elected representative. The documents marked <em>draft</em> are working templates for completion by counsel; the dossier is the evidence they rest on. Everything traces to a primary source.</p>
+    </header>
+
+    <div class="lp-note">
+      <strong>Content note.</strong> These documents discuss the health harms of work-conditionality policies, including suicide and the death of an Albertan. If this touches you personally, you are not alone — in Canada you can call or text <strong>988</strong> any time, or reach the Alberta Mental Health Help Line at <strong>1-877-303-2642</strong>.
+    </div>
+
+    <ol class="lp-list">
+      <li class="lp-card">
+        <span class="lp-num">0</span>
+        <div class="lp-body">
+          <div class="lp-head"><h3>Cover Letter</h3><span class="lp-tag start">Start here</span></div>
+          <p>The letter that introduces the package. It explains what the transition did, why the harm is foreseeable rather than speculative, and what you are asking the recipient to do. Fill in the recipient and your details, and send it on top of the four documents below.</p>
+          <a class="lp-dl" href="/pdfs/july-challenge/0_Cover_Letter_ADSB.pdf" target="_blank" rel="noopener">Download the cover letter (PDF) →</a>
+        </div>
+      </li>
+      <li class="lp-card">
+        <span class="lp-num">1</span>
+        <div class="lp-body">
+          <div class="lp-head"><h3>Charter Challenge</h3><span class="lp-tag draft">Draft for counsel</span></div>
+          <p>A draft Originating Application for the Court of King's Bench of Alberta, arguing the transition unjustifiably infringes sections 7 and 15 of the Charter. The grounds, authorities, and remedy are set out for a lawyer to complete. Not legal advice.</p>
+          <a class="lp-dl" href="/pdfs/july-challenge/1_Charter_Challenge_ADSB.pdf" target="_blank" rel="noopener">Download the Charter challenge (PDF) →</a>
+        </div>
+      </li>
+      <li class="lp-card">
+        <span class="lp-num">2</span>
+        <div class="lp-body">
+          <div class="lp-head"><h3>UN CRPD Submission</h3><span class="lp-tag draft">Draft for counsel</span></div>
+          <p>A draft submission on violations of the UN Convention on the Rights of Persons with Disabilities (Articles 4, 5, 10, 19, 27, 28). It can be adapted as an individual communication, a submission to the UN Special Rapporteur, or a shadow report during Canada's periodic review. Not legal advice.</p>
+          <a class="lp-dl" href="/pdfs/july-challenge/2_UN_CRPD_Submission_ADSB.pdf" target="_blank" rel="noopener">Download the UN submission (PDF) →</a>
+        </div>
+      </li>
+      <li class="lp-card">
+        <span class="lp-num">3</span>
+        <div class="lp-body">
+          <div class="lp-head"><h3>Alberta Human Rights Complaint</h3><span class="lp-tag draft">Draft for counsel</span></div>
+          <p>A draft complaint under the Alberta Human Rights Act — the transition as discrimination in the delivery of a public service, and a failure to accommodate to the point of undue hardship. It can be filed individually or advanced as a systemic complaint. Note the one-year limitation period. Not legal advice.</p>
+          <a class="lp-dl" href="/pdfs/july-challenge/3_Alberta_Human_Rights_Complaint_ADSB.pdf" target="_blank" rel="noopener">Download the human rights complaint (PDF) →</a>
+        </div>
+      </li>
+      <li class="lp-card">
+        <span class="lp-num">4</span>
+        <div class="lp-body">
+          <div class="lp-head"><h3>Comparative Evidence of Harm — Dossier</h3><span class="lp-tag evidence">The evidence</span></div>
+          <p>The evidentiary spine behind the other three: a cited, discipline-tight record of what work-conditionality regimes have done to disabled people in the UK, Australia, New Zealand, and the United States — built to defeat the argument that the harm here is "speculative." It separates firm findings from contested causation, and uses corrected figures throughout.</p>
+          <a class="lp-dl" href="/pdfs/july-challenge/4_Comparative_Evidence_Dossier_ADSB.pdf" target="_blank" rel="noopener">Download the evidence dossier (PDF) →</a>
+        </div>
+      </li>
+    </ol>
+
+    <p class="lp-foot">These are advocacy documents and drafts for instructing counsel — they are not legal advice. If you can act on any part of this, or connect it with a lawyer or organization, please reach out: <a href="mailto:albertadisabilitybreakdown@outlook.com">albertadisabilitybreakdown@outlook.com</a>.</p>
+  </div>
+</section>
+
 </main>
 
 <!-- ───────────── FOOTER ───────────── -->
@@ -1173,6 +1252,7 @@
         <li><a href="#daily-news">Daily News</a></li>
         <li><a href="#faq">FAQ</a></li>
         <li><a href="#email-letters">Email a Letter</a></li>
+        <li><a href="#legal-package">Legal Package</a></li>
         <li><a href="#testimonials">Testimonials</a></li>
         <li><a href="#reports">All reports</a></li>
         <li><a href="#documents">Document library</a></li>
