@@ -9,6 +9,31 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-17",
+  title: "Where Things Stand \u2014 July 17, 2026",
+  body: `Here is where things sit tonight, plainest bits first.
+
+The thing to circle on your calendar is August 1. Starting with your August cheque, if you and your partner both receive AISH or ADAP, each of you drops to 88 percent of the full amount instead of 100 percent. That means less money coming into a two person disabled household. Child benefit rates are being adjusted the same month. That is about two weeks away, so if this is you, plan for it now rather than being surprised.
+
+The CDB number is confirmed. Yesterday's payment, July 16, was the first at the new rate of $204.20 a month, up from $200. That is now confirmed on the federal side, so I can give it to you as solid. But here is the same hard truth as always. Alberta takes the CDB back off your AISH or ADAP cheque dollar for dollar, so that raise does not land in your pocket. Twenty cents more federally, twenty cents more taken off provincially. Alberta is still the only province in the country that does this. Everywhere else, people keep it.
+
+Two things on the Disability Tax Credit, and they matter because the DTC is the gate to the CDB. As of July 14 you can no longer send DTC documents through the general "submit documents" button in your CRA account, so use the DTC process itself. And starting September 8, the old pre 2023 version of the T2201 form will be refused, so make sure you are using the current one. If you are in the middle of applying, check both of those before you send anything.
+
+Good news that is still good. The $100 Alberta Energy Rebate is not counted against you and is not taken off your AISH, ADAP, or Income Support. If you are on one of those programs you are enrolled automatically and do not need to apply. For everyone else, the application window closes September 30.
+
+On what you are allowed to earn from work, I am going to keep being careful with you. There are still different numbers circulating for the single earnings exemption, and I will not hand you one that might be wrong when your cheque depends on it. Same for the partner earnings figure. If you are thinking about changing your hours, ask them in writing for your own number first, and keep their answer.
+
+The door back to AISH is still open, and there is still no deadline on it. If you were moved to ADAP and you cannot work because of a permanent disability, you can ask to be reassessed. It is the DS2444A that you fill out and the DS2444B that your doctor completes. Take the time to build your strongest case. The guides are on the site, and there are people in this community who will help you.
+
+And a reminder on the phone calls, because a few of you have had them this week. If you get asked whether you are willing to take part, the safest answer is yes, followed by a clear statement of what your health does not allow, and ask them to note it on your file. Being unable is not the same as refusing, and the rules treat those very differently. Then follow up in writing so your version is on the record.
+
+The bigger picture in one line. The savings fund sat around $31.9 billion at the end of December and is still growing, while disability supports are being reduced in several ways at once. Councils in Edmonton, Calgary, Red Deer, Lethbridge, Camrose, and St. Albert have all asked the province to pause. It went ahead anyway. We are documenting every bit of it.
+
+That is where things stand tonight. When something touches your own file, the safest move is always to ask in writing. Alberta Supports is 1-877-644-9992.
+
+And if tonight sits heavy on you, please do not carry it alone. You can call or text **988** any time, or reach the **Alberta Mental Health Help Line at 1-877-303-2642**. We are still in this together.`
+},
+{
   date: "2026-07-16",
   title: "Where Things Stand \u2014 July 16, 2026",
   body: `Here is where things sit tonight, in plain language, with the most useful bits first.
