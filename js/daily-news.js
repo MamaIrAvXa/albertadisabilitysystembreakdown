@@ -9,6 +9,46 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-18",
+  title: "Where Things Stand \u2014 July 18, 2026",
+  body: `Tonight I can finally give you something I have been holding back for weeks, because I would not hand you a number I could not stand behind. It is now published on a government page and I have read it with my own eyes.
+
+## The earnings numbers are confirmed.
+Here is the whole table, from the government's own ADAP page:
+
+AISH, single or parent: $350 a month
+
+ADAP, single: $700 a month
+
+ADAP, with one or more dependent children: $1,100 a month
+
+AISH or ADAP, living with a spouse or cohabiting partner: $1,500 a month
+
+That is how much you can earn from work before it starts affecting your cheque.
+
+Now the part I want you to sit with.
+
+The AISH number is $350. Before July it was higher, reported at around $1,072. So if you stayed on AISH, and you were told nothing was changing for you, your earnings rules were cut anyway. No move, no separate letter about it, and most people had no idea.
+
+Whatever the reason, that is the effect. If you are on AISH and you work, check your next cheque carefully.
+
+Two things I still will not give you. The rate they use to take money above those amounts is not published anywhere I can find. And I will not calculate your own cheque for you. Ask them in writing for your number, and keep whatever they send back.
+
+August 1 is still the date to circle. Starting with your August cheque, if you and your partner both receive AISH or ADAP, each of you drops to 88 percent of the full individual amount. And the child benefit rates change the same month. Those are now confirmed too: $300 for the first child, $117 for the second, $88 for the third, $59 for the fourth, and $30 for each child after that. The government says this is an increase for about 7,000 families. Look at your own numbers when the cheque arrives rather than assuming either way.
+
+Something worth knowing if you are thinking about reassessment. The government's own page now says, in plain words, that the covered medical assessment is not time limited and is available whenever you choose to access it. That is the door I keep telling you has no clock on it, said by them rather than by me. If you were moved to ADAP in July and you want to be assessed for AISH, the cost of one medical assessment is covered. Ask for it, and ask in writing whether anything about it is repayable, because that part I still cannot confirm.
+
+Two Disability Tax Credit dates. The general submit documents button in your CRA account stopped taking DTC applications on July 14, so use the DTC process itself. And as of September 8, any version of the T2201 from before 2023 will be refused. If you have a form saved on your computer or printed months ago, throw it out and download a fresh one.
+
+The Alberta Energy Rebate has a catch worth knowing. If you were already on AISH, ADAP, or Income Support before July 1, you are enrolled automatically and do not need to do anything. If you came onto one of those programs after July 1, you have to apply through the portal yourself, and that closes September 30. The portal needs a verified Alberta.ca account, a SIN, a filed 2025 tax return, and a bank verification. If that is you, do not leave it to the last week.
+
+The bigger picture in one line. The savings fund sat around $31.9 billion at the end of December while the earnings exemption for people on AISH was cut to $350. Both of those things are true at the same time, and we are writing all of it down.
+
+That is where things stand tonight. When something touches your own file, the safest move is always to ask in writing. Alberta Supports is 1-877-644-9992.
+
+And if tonight sits heavy on you, please do not carry it alone. You can call or text **988** any time, or reach the **Alberta Mental Health Help Line at 1-877-303-2642**. We are still in this together.`
+},
+{
   date: "2026-07-17",
   title: "Where Things Stand \u2014 July 17, 2026",
   body: `Here is where things sit tonight, plainest bits first.
