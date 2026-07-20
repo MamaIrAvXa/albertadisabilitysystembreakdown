@@ -9,6 +9,61 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-19",
+  title: "Where Things Stand \u2014 July 19, 2026",
+  body: `I have to start tonight with a correction, and it is one that matters.
+
+I have twice told you that the changes start August 1. That was wrong, and the real date is sooner.
+
+The government pays AISH and ADAP four business days before the first of the month. August 1 falls on a Saturday. So the August payment goes out on Tuesday, July 28. That is nine days from tonight.
+
+If you get a paper cheque instead of direct deposit, cheques are mailed six business days before. That is Friday, July 24. Five days.
+
+I should have caught this and I did not. The government says these changes start "in the August benefit period," and every source repeats "August," and I passed that along without checking when the money actually moves. If you were budgeting for the first of the month, please adjust now.
+
+## What lands on that payment.
+The 88 percent rule for couples where both of you receive AISH or ADAP. And the recalibrated child benefit rates.
+
+So the July 28 payment is the one where you will see it for the first time.
+
+## On how much the couples cut is.
+Each of you drops to 88 percent of the full individual amount, so each of you loses 12 percent.
+
+I am not going to put a dollar figure on that tonight, because the government has not published a worked example and I will not hand you a number I calculated myself when your rent depends on it. What I can tell you is that one Alberta couple, both on the program, were told their loss would be about $470 a month between them.
+
+If this is you, phone or email tomorrow and ask them for your exact August figure in writing. Do it before the 28th, not after.
+
+## Something new, and it is a big number.
+We now know who is running the employment side of ADAP. Two companies. AKG Canada, with an Australian parent, has Edmonton and the north, at about $47 million. Serco Canada, an affiliate of a British company, has Calgary and the south, at about $51 million. That is $98 million over five years.
+
+Here is the part worth understanding. These companies do not find you a job. They assess you, write an employment plan, case manage you, and then refer you on to the agencies that already existed. A referral layer has been added between you and the actual help, and about 26,800 people are expected to go through it.
+
+We published a full document on those two companies this weekend. It is on the website and it is free.
+
+## Something I need to be upfront about, because it is unresolved.
+The government's own ADAP page says the covered medical assessment is not time limited. I have been telling you, based on that, that the reassessment door has no deadline.
+
+Some reporting says something different: that transitioned clients can request reassessment for AISH through December 31, 2027.
+
+Those are not the same thing, and I do not yet know which is right. I am chasing it.
+
+Until I know, here is my advice and I want to be plain about why. Do not wait. If you intend to ask for reassessment, start now rather than in a year. If the government page is right, you have lost nothing by starting early. If the other version is right, you have protected yourself. That is the only version of this advice that is safe in both directions.
+
+## Two dates to keep.
+As of September 8, the Canada Revenue Agency stops accepting any version of the Disability Tax Credit form T2201 printed before 2023. Download a fresh one.
+
+The Alberta Energy Rebate portal closes September 30. If you came onto AISH, ADAP or Income Support after July 1, you are not auto-enrolled and you have to apply yourself.
+
+## One line on the bigger picture.
+Alberta's annual report on the savings fund is normally published in late June. It is now about three weeks late and has not appeared. That means the newest public figure for the fund is from December, at $31.9 billion. The report that would tell us what has happened since is the same report that is not out.
+
+That is where things stand tonight. When something touches your own file, the safest move is always to ask in writing. Alberta Supports is 1-877-644-9992.
+
+And if tonight sits heavy on you, please do not carry it alone. You can call or text **988** any time, or the **Alberta Mental Health Help Line at 1-877-303-2642**.
+
+Nine days. Check your payment on the 28th.`
+},
+{
   date: "2026-07-18",
   title: "Where Things Stand \u2014 July 18, 2026",
   body: `Tonight I can finally give you something I have been holding back for weeks, because I would not hand you a number I could not stand behind. It is now published on a government page and I have read it with my own eyes.
