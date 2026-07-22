@@ -9,6 +9,99 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-20",
+  title: "Where Things Stand \u2014 July 20, 2026",
+  body: `Eighteen days since the transition. Here is what is confirmed, what changed, and one thing we got wrong.
+
+## THE DATE THAT MATTERS: AUGUST 1. TWELVE DAYS AWAY.
+Two things start with the August benefit period.
+
+**The couples rule.** In households where two adults both receive disability income assistance, whether that is AISH or ADAP or one of each, each partner will receive 88 per cent of the maximum individual benefit instead of the full amount. This is confirmed in the government's own ADAP fact sheet.
+
+If this is your household, do not work out your own number from a Facebook post and do not let anyone else work it out for you either. Ask the program in writing what your August payment will be and get the answer in writing. That is the only figure worth planning around.
+
+**Child benefit rates change.** Monthly child benefits are now set at $300 for the first child, $117 for the second, $88 for the third, $59 for the fourth, and $30 for each additional child. The government says this will increase child benefits for about 7,000 families. For some households it will go up and for others it will not. Same advice: ask in writing.
+
+## A CORRECTION WE OWE YOU
+We have been telling you the Canada Disability Benefit is $204.20 a month for the year starting July 2026.
+
+We checked the federal government's own amount page today. It still says $200 a month, $2,400 a year, for the period July 2025 to June 2026. The $204.20 figure appears in news coverage as an indexed increase, but it is not on the official page.
+
+So the position is: $200 is what the government's page says today. $204.20 may well be correct for the new year and we cannot confirm it. Treat it as probable, not confirmed.
+
+If you are budgeting, budget on $200 until the page updates.
+
+We would rather tell you we were ahead of the source than let a number sit in your head that we cannot stand behind.
+
+## THE $100 ENERGY REBATE. YOU KEEP THIS ONE.
+This is the good news and it is checked against the government's own page.
+
+If you are on AISH, ADAP, Income Support or the Alberta Seniors Benefit, you are automatically enrolled. You do not apply. And the page states the rebate is non-taxable and will not affect other government benefits.
+
+So it is not clawed back. It does not come off your cheque. This is not the CDB.
+
+One catch. If you started on AISH, ADAP or Income Support after July 1, you are not auto-enrolled and you have to apply yourself through the online portal. That needs a verified Alberta.ca account, your SIN, a filed 2025 tax return, and a driver's licence address matching the account. The window closes September 30.
+
+If that portal is a barrier for you, Alberta Supports offices offer in person help. Do not let $100 go because a website beat you.
+
+alberta.ca/alberta-energy-rebate
+
+## WHAT CHANGED FOR PEOPLE WHO WORK
+If you are single and staying on AISH, you can now earn $350 a month before it affects your cheque. It used to be around $1,072.
+
+If you moved to ADAP, single, the figure is $700. ADAP parent with one or more dependent children, $1,100. Cohabiting partner on either program, $1,500.
+
+That $1,500 figure settles a long running confusion. Some of our older material carried a figure around $2,612. The current government fact sheet says $1,500. Go with $1,500.
+
+## IF YOU GOT A LETTER, CHECK IT
+About 46,000 people were moved from AISH to ADAP at the start of July. Reporting has documented at least one family whose daughter with a severe brain injury was moved off AISH despite appearing to meet an exemption.
+
+You should have stayed on AISH automatically if you have a severe and profound developmental disability or are eligible for or receiving PDD services, if you have a palliative or terminal condition, if you live in a continuing care home, or if you are 60 or older.
+
+If one of those describes you and your letter says you moved to ADAP, that may be an error. Contact the program in writing, say which category you meet, and ask them to correct your file. Keep a copy of what you send.
+
+## WHAT IS STILL NOT PUBLISHED
+The clawback rates for ADAP earnings between $700 and $45,240 a year have never been published. The fact sheet describes the mechanism in words. There is no rate table.
+
+So if you see anyone quoting a specific percentage, they are guessing. Including us. We will not put a number on it until there is one to put.
+
+## COMING IN SEPTEMBER
+The federal CDB page now flags a Supplemental Payment coming in September 2026. Amount and eligibility are not published yet.
+
+We will chase it. Given how Alberta treats the regular CDB, whether this one is clawed back is the question, and nobody can answer it yet.
+
+canada.ca and search Canada Disability Benefit
+
+## THE APPEAL POSITION HAS NOT CHANGED
+If you are moved to ADAP and later apply to return to AISH, a panel of medical professionals decides. That decision is final and cannot be appealed.
+
+The transition itself cannot be appealed either.
+
+The reassessment route is still open and it has no deadline. The province covers the cost of one medical assessment for people who moved from AISH to ADAP. It is not automatic. You have to ask for it, ask in writing, and ask whether it is ever repayable.
+
+## ONE NUMBER FOR CONTEXT
+Alberta's Heritage Savings Trust Fund held about $31.9 billion in net financial assets as of December 31, 2025, and grew by $383 million in that quarter. The long term target is $250 billion by 2050.
+
+We put that beside the $200 a month base reduction without telling you what to think about it. It is a matter of choices and priorities, and you are capable of drawing your own conclusion.
+
+## WHAT TO DO THIS WEEK
+If you and your partner both receive assistance, ask in writing what your August payment will be.
+
+If your letter moved you to ADAP and you meet an auto retention category, write and ask them to correct it.
+
+If you started on a program after July 1, apply for the energy rebate before September 30.
+
+If you have been putting off filling a prescription because you heard benefits were cut, order your medication. Health benefits carry over to ADAP. The government's own fact sheet says so.
+
+And if you have been carrying guilt about not appealing before the June deadline, put it down. That door was built to close. The reassessment door has no clock on it.
+
+Everything above was checked against government sources today, July 20, 2026. Where we could not confirm something, we said so.
+
+If any of this affects you and you are not sure what it means for your situation, reach out to us. That is what we are here for.
+
+If tonight sits heavy on you, please do not carry it alone. You can call or text **988** any time, or the **Alberta Mental Health Help Line at 1-877-303-2642**.`
+},
+{
   date: "2026-07-19",
   title: "Where Things Stand \u2014 July 19, 2026",
   body: `I have to start tonight with a correction, and it is one that matters.
