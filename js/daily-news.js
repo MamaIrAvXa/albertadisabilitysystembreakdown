@@ -9,6 +9,133 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-21",
+  title: "Where Things Stand \u2014 July 21, 2026",
+  body: `Tonight I got hold of the full 214 page AISH and ADAP policy manual, dated July 21, and I sat it beside the version from July 2 and the version from April.
+
+Reading three manuals side by side is not how I wanted to spend the evening, but it turned up things that nobody has told any of us, and one of them is going to matter to a lot of people in this community.
+
+I am going to start with the hardest one.
+
+## THE BIG ONE: HOW MUCH YOU CAN EARN HAS CHANGED, AND IT HIT AISH HARDEST
+Most of us assumed that the people who stayed on AISH came out of this untouched. That is not what the manual says.
+
+**Here is what the rules were in April, for AISH:**
+
+A single person could earn $1,072 a month with none of it counted. Above that, up to $2,009, half of it was still exempt.
+
+A family or a person with a partner had a combined amount of $2,612 fully exempt, with a partial exemption above that.
+
+**Here is what the manual says now:**
+
+**AISH** — fully exempt: $350. Above that amount: **not exempt**.
+
+**ADAP** — fully exempt: $700. Above that amount: partly exempt, reducing gradually.
+
+**ADAP with children** — fully exempt: $1,100. Above that amount: partly exempt, reducing gradually.
+
+**Partner of an AISH or ADAP client** — fully exempt: $1,500. Above that amount: partly exempt, reducing gradually.
+
+Read the AISH row twice.
+
+The fully exempt amount fell from $1,072 to $350. And the partial exemption that used to sit above it is gone. For an AISH client, everything above $350 now counts in full.
+
+ADAP clients keep a gradual reduction above their threshold. AISH clients do not get one at all.
+
+The other change is that a couple used to have one combined family amount. Now each person has their own threshold and, in the manual's words, they cannot be shared between partners.
+
+**What this means in plain terms.** If you stayed on AISH and you work at all, check this before you take another shift. I am not going to work out anyone's individual numbers in a public post, and I would not trust anyone who offered to. Ask the program in writing what your exempt amount is now and get the answer in writing.
+
+## A NEW PENALTY THAT WAS NOT IN THE APRIL MANUAL
+This one is short and it matters.
+
+The manual now says that if income has not been reported in a timely manner, or has been willfully misrepresented, these exemptions are not applied.
+
+Read the two halves of that sentence. Reporting late and deliberately lying are placed side by side, with the same consequence. Lose track of the date, and you can lose the whole exemption.
+
+This was not in the April manual. It is in this one.
+
+So report your income on time, in writing, and keep the proof you sent it. If you are late, say so and explain why rather than hoping it passes.
+
+## A CORRECTION I OWE YOU
+In some of my earlier working notes I said there was no such thing as a Medical Appeal Panel and that the name was an error.
+
+I was wrong. It exists. It is named in the manual, in a policy section of its own, and it is on the alberta.ca ADAP page.
+
+Here is the structure as it stands.
+
+The AISH Medical Review Panel makes the decision about AISH medical eligibility. That decision is final and cannot be appealed. That part has not changed and I will not soften it.
+
+But if the adjudicator decides not to send your application to the Medical Review Panel at all, that decision **can** be appealed, to the Medical Appeal Panel. A full ADAP denial can be appealed too. There is a 30 day window on appeals.
+
+Separately from that, if you are denied you have 12 months to send in more information without starting a whole new application.
+
+Two different clocks. People hear about the 12 months and miss the 30 days. Do not miss the 30 days.
+
+I would rather correct myself in front of all of you than have anyone rely on something I got wrong.
+
+## THINGS IN THE MANUAL THAT ARE GOOD NEWS
+There are some. I was surprised too.
+
+**A nurse practitioner can complete the medical report.** It does not have to be a doctor. In a province where hundreds of thousands of people have no family physician, this is the most useful sentence in the whole document. If your clinic has a nurse practitioner who knows you, that is a real option.
+
+**AISH clients are not required to look for work.** The manual says it outright. The seek and accept work duties belong to ADAP only. If anyone tells an AISH client otherwise, they are wrong.
+
+**Your covered medical assessment is not time limited.** One assessment, covered, available whenever you choose to use it. It is not automatic though. You have to ask. And ask in writing whether any part of it is repayable, because the manual does not say.
+
+**Severe disability does not have to mean permanent.** The test is permanent or expected to continue at least two years. Psychological reports count as evidence in their own right.
+
+**Going to school does not cost you your benefits.** Both programs allow full time and part time training and upgrading. Student loans, scholarships, bursaries and education grants are on the fully exempt list. Tuition, books, supplies and mandatory fees are fully exempt. Report anything you receive and ask them to confirm in writing how each part is treated, because some other student funding may not be exempt.
+
+**There is an emergency benefit and almost nobody knows about it.** Both programs have it. It covers accommodation if you cannot safely stay in your home, repairs to your home, food, replacement clothing, transportation, utility arrears and other essential goods and services. The trigger is a situation where your health or safety is immediately at risk and it is beyond your control. Floods, fires, evictions, a dead furnace. Some parts can be repayable so ask which, in writing. When you call, use the words emergency benefit rather than just describing what happened.
+
+## COMING IN ABOUT ELEVEN DAYS
+The August benefit period brings two changes that are already law.
+
+**The 88 percent rule.** In a household where two adults both receive AISH or ADAP, each partner receives 88 percent of the maximum individual amount instead of the full amount.
+
+**Recalibrated child benefit rates.** These affect roughly 7,000 families.
+
+Neither of these is new news in this community, but they land in about eleven days and I would rather say it twice than have anyone caught out.
+
+## THINGS I CHECKED THAT TURNED OUT TO BE NOTHING
+I think you should see these too, because it tells you what our checking is worth.
+
+**Indexing has not been removed.** The section is now called Benefit Rate Adjustments instead of Indexing of Benefits, and the word indexed has been swapped for adjusted throughout. I went through it line by line. The mechanism is the same, the annual January 1 adjustment is the same, and it now covers ADAP as well as AISH. The wording changed. The protection did not.
+
+If I had gone off the heading alone I would have posted that indexing was gone. It is not, and I am not going to frighten anyone with something I have not read to the bottom of.
+
+**The health care insurance section.** A short standalone section about Alberta Health Care Insurance Plan coverage was dropped from the body of the manual. It was last updated in 2014 and described coverage every Albertan has anyway. It still appears in the health benefits list. As far as I can tell this is housekeeping, not a loss.
+
+## STILL UNKNOWN
+I am not going to pretend these are settled.
+
+**The exact reduction rates for ADAP earnings above the threshold.** The manual says gradual and progressive. The numbers themselves sit in a Ministerial Order that has not been published.
+
+**Whether the covered assessment is repayable.** The manual does not mention repayment. That is not the same as saying it is free. Ask in writing.
+
+**One conflict I have not resolved.** On whether benefit cuts for failing client responsibilities can be appealed, the manual and our reading of the regulation do not agree. Until I can reconcile them I am not going to tell anyone either way, because being confidently wrong about an appeal right is how people lose one.
+
+**What changed between the July 2 manual and the July 21 manual.** Both carry the same internal date stamps, but the newer one is two pages longer. I have not finished tracking down what sits in those two pages. When I have, I will tell you.
+
+## WHAT I WOULD DO THIS WEEK
+If you work and you are on AISH, find out your current exempt amount in writing before you pick up more hours.
+
+If you report income, report it on time and keep the proof.
+
+If you were denied anything and you are inside 30 days, that clock is the one that runs out first.
+
+If your health or your ability to work has changed since you were moved, you can ask for an AISH assessment. There is no deadline on that.
+
+And if you are in an emergency right now, a flood, a fire, an eviction, no heat, call and use the words emergency benefit.
+
+Everything in this update comes from the government's own policy manual and fact sheets. Where I could not confirm something, I have said so rather than filling the gap.
+
+If any of this applies to you and you are not sure what to do with it, reach out to us. That is what we are here for.
+
+If tonight sits heavy on you, please do not carry it alone. You can call or text **988** any time, or the **Alberta Mental Health Help Line at 1-877-303-2642**.`
+},
+{
   date: "2026-07-20",
   title: "Where Things Stand \u2014 July 20, 2026",
   body: `Eighteen days since the transition. Here is what is confirmed, what changed, and one thing we got wrong.
