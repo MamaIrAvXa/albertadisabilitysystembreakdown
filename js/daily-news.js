@@ -9,6 +9,101 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-22",
+  title: "Where Things Stand \u2014 July 22, 2026",
+  body: `It has been a heavy week in this community. Cards landing, letters landing, people opening envelopes and bracing. Here is where things sit, in plain language, with the things that matter soonest first.
+
+## 1. YOUR AUGUST MONEY ARRIVES IN LATE JULY, NOT AUGUST
+This is the one I most want you to read.
+
+Several changes take effect with the August benefit period. That sounds like August. It is not. Benefits are deposited four business days before the first of the month, and cheques are mailed six business days before.
+
+So the August benefit lands in late July. This week.
+
+The government's own letter says it plainly: starting with the August 2026 period of assistance, which is issued in July.
+
+The exact date is on the payment schedule at alberta.ca. Look up AISH, ADAP and Income Support payment dates and check the August line.
+
+Why this matters. People are bracing for changes to arrive in August and are going to see them land days from now instead.
+
+## 2. WHAT CHANGES WITH THAT PAYMENT
+If two adults in your household both receive AISH or ADAP, each of you moves to 88 percent of the maximum individual benefit. This is a reduction and it starts with this payment.
+
+Child benefit amounts change, and this one is an increase for most families. $300 for the first child, $117 for a second, $88 for a third, $59 for a fourth, and $30 for each after that. Around 7,000 families are affected. I have checked these against the regulation itself, not just the fact sheet.
+
+Earnings limits. On AISH it is $350 a month before your cheque is affected. On ADAP it is $700 single, $1,100 if you have children. If you have a partner who is not on AISH or ADAP, their employment exemption is $1,500.
+
+If your partner has pension income, including CPP Disability, the first $1,200 is fully exempt and 25 percent of the rest is exempt too. If you think that has not been applied to your household, ask them in writing.
+
+I do not calculate anyone's individual amount. Too many variables I cannot see. What I will always tell you is to ask them, in writing, to show you how your figure was reached.
+
+## 3. THE CARDS
+Short version: it is just the card.
+
+It is not your deposit slip and it does not tell you what you are getting. Your benefit and deposit information comes separately, closer to the end of the month. If your card came with no money information, nothing is wrong.
+
+The rest of what we have worked out this week:
+
+The new card replaces the monthly one. No more new card every month.
+
+Old cards expired July 31. Present the new one from now on.
+
+It is the same card for AISH and ADAP. Getting it does not mean your program changed.
+
+The list of what you are covered for is no longer printed on the back. Your coverage has not changed. The list is in the letter and on alberta.ca.
+
+Your File Id does not change. Group and Section are not your personal file number.
+
+Cards are arriving in batches. One member's was printed July 13 and arrived July 22. If yours has not come, it is most likely still in the post. If nothing by the end of next week, ring and ask.
+
+And the line with money attached: show the card before you get the service. The letter says reimbursement will not be provided if you choose to pay out of pocket.
+
+One thing I want to add to that, because a member raised it and she was right. That rule is aimed at people who choose to pay privately when they have coverage available. If your card had not arrived yet and you were caught short, keep the receipt and ask in writing before you write the money off.
+
+If you share a photo of your card, cover your name, your birth date, your File Id, and any children's names and birth dates.
+
+## 4. MONEY YOU MIGHT BE LEAVING ON THE TABLE
+The energy rebate, up to $100. If you were on AISH as of July 1 you are enrolled automatically and do not need to apply. If you came onto AISH after July 1, you have to apply, and the portal closes September 30. It is confirmed as not taxable and not deducted from your benefit. You keep it.
+
+The cost of the DTC medical form. The program will cover the cost of the Disability Tax Credit assessment for eligible clients, with an invoice or estimate from the professional. If you paid for that form yourself, ask in writing whether you can still be reimbursed. Get the receipt from the clinic if you no longer have it.
+
+The federal dental plan is not blocked in Alberta. This one comes up a lot. The Canadian Dental Care Plan works alongside AISH and ADAP. The dentist bills the federal plan first, then Alberta Blue Cross for the rest. If you skipped applying because you heard Alberta pulled out, it is worth another look.
+
+## 5. IF YOU ARE THINKING ABOUT REASSESSMENT
+There is no deadline. None. If anyone quotes you eighteen months, that is the $200 transition top-up running to December 31, 2027, and it is not a reassessment deadline. The two get confused constantly.
+
+The cost is covered, but you have to ask first. For people who moved from AISH to ADAP in July, the government covers the cost of one medical report. It is not automatic and it has to be arranged before the report is written, not claimed back after.
+
+Ask your doctor what they charge before you ring. Something we learned this week: the program pays a set rate of $67 for the report plus a small business cost fee, and that rate has not changed since 2012. If your doctor charges more, ask in writing who covers the difference before the appointment.
+
+A nurse practitioner can complete the medical report. It does not have to be a physician.
+
+And when it is being written, ask for it to describe what you cannot do on an ordinary day rather than only listing conditions. A report that names conditions gets filed. A report that describes function gets used.
+
+## 6. TWO THINGS FROM THIS WEEK WORTH KNOWING
+Employment services assessments. A member was told her three hour in person assessment would include a biopsychosocial assessment. That is a clinical framework, and a particular version of it is the documented basis of the UK Work Capability Assessment. I have put together a document of questions to ask in writing before any such meeting, covering what the tool is, who is qualified to run it, where your information goes, and what accommodations you can request. It is in the Take Action section and free to share. If you use it, please bring the answers back.
+
+Health benefit exception refusals. If you have had an exceptional coverage request refused, those decisions are final and exempt from appeal by regulation. But the same letter says a request may be resubmitted where the situation has changed or there is new and compelling information. That is the route, and it goes through your prescriber.
+
+## 7. WHAT I STILL DO NOT KNOW
+I said this in a separate post tonight and I will repeat it here.
+
+I am not a lawyer. I am not an AISH or ADAP worker. I have no inside information. Everything here comes from published government sources, the legislation, the regulation, the handbooks, and your own letters when you send them to me.
+
+I cannot tell you why a decision was made on your file. I cannot calculate your amount. I cannot explain why some people were transitioned and others were not. That information is not public and I will not guess at it.
+
+What I can do is read your letter, tell you what the regulation says, tell you what to ask and how to word it, and tell you which deadlines are real.
+
+Bring me the paper. I can do real work with a document.
+
+## 8. AND THE THING THAT MATTERS MOST
+It has been a frightening month. People in this community have described opening the post and losing a whole day to it. That is not weakness. That is what happens to a nervous system when envelopes have been carrying bad news about your survival for a year.
+
+If it gets too heavy, reach out. To us, to someone in this community, or to the **988 Suicide Crisis Helpline**, call or text, any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**, twenty four hours. **211** for local services.
+
+You belong here. Stay.`
+},
+{
   date: "2026-07-21",
   title: "Where Things Stand \u2014 July 21, 2026",
   body: `Tonight I got hold of the full 214 page AISH and ADAP policy manual, dated July 21, and I sat it beside the version from July 2 and the version from April.
