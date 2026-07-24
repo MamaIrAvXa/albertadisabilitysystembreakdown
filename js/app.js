@@ -977,7 +977,7 @@ function renderEmailLetters() {
             '</div>' +
             '<div class="el-btn-row">' +
               '<button class="btn btn-primary" id="el-copy-' + L.id + '" onclick="elCopy(\'' + L.id + '\')">Copy the whole letter</button>' +
-              '<a class="el-pdf" href="' + encodePath(L.pdf) + '" target="_blank" rel="noopener">Prefer the PDF? \u2192</a>' +
+              (L.pdf ? '<a class="el-pdf" href="' + encodePath(L.pdf) + '" target="_blank" rel="noopener">Prefer the PDF? \u2192</a>' : '') +
             '</div>' +
             '<div class="el-toast" id="el-toast-' + L.id + '"></div>' +
             (L.note ? '<div class="el-note">' + dnEscape(L.note) + '</div>' : '') +

@@ -14,6 +14,67 @@
    ─────────────────────────────────────────────────────────────── */
 const EMAIL_LETTERS = [
   {
+    id: "benefit-breakdown-aug2026",
+    title: "Show me the calculation \u2014 August 2026 benefit breakdown",
+    blurb: "For couples where both partners receive AISH or ADAP. Asks the program, in writing, to show how your August payment was worked out \u2014 the base rate, whether the 88% cohabiting-partner rule was applied, whether the transition benefit is in there and in what order, every deduction itemized, and what authority sets the amount and end date. It is not a dispute. It is a request to be shown the arithmetic.",
+    to: "",
+    cc: "",
+    toHint: "Send this to your own assigned worker or your regional Alberta Supports office \u2014 that is where your file lives. If you do not have a direct address, the general program inbox is adap@gov.ab.ca, and Alberta Supports is 1-877-644-9992.",
+    ccHint: "Optional. Some people copy themselves so they have a timestamped record of what was sent.",
+    subject: "Request for a written breakdown of my benefit calculation \u2014 August 2026 benefit period",
+    note: "Each partner must send their own request. Your partner's file is separate and they cannot release information about it to you without their authorization. Keep a copy and the date you sent it.",
+    body:
+`To: Alberta Supports / AISH / Alberta Disability Assistance Program
+Attention: My assigned worker or the Regional Office
+Office / Region: [office or region]
+
+RE: Request for a written breakdown of my benefit calculation for the August 2026 benefit period
+
+Name: [your full name]
+AISH / ADAP File Number: [your file number]
+Program I am currently on (AISH or ADAP): [AISH or ADAP]
+Mailing Address: [your mailing address]
+Contact Phone: [your phone]
+Contact Email: [your email]
+
+Dear Sir or Madam,
+
+I am writing to request a written breakdown of how my monthly benefit was calculated for the August 2026 benefit period. I understand this benefit was deposited in late July 2026, as benefits are issued in the month preceding the benefit period to which they apply.
+
+I share a residence with a cohabiting partner. I am asking for this breakdown so that I can plan my household expenses and so that any error in the calculation can be identified and corrected promptly. I am not disputing any decision at this time \u2014 I am asking to be shown the calculation.
+
+Please provide the following in writing.
+
+1. Base rate. The base monthly living allowance rate applied to me, and confirmation of whether that rate is the amount set out in section 8(2) or section 8(3) of the Assured Income for the Severely Handicapped General Regulation, AR 96/2026.
+
+2. Cohabiting partner rate. Whether section 8(4) of AR 96/2026 \u2014 the provision setting the living allowance at 88% of the applicable base rate where a client and their cohabiting partner are each an eligible client \u2014 has been applied to my living allowance benefit. Please confirm the resulting monthly amount.
+
+3. Transition benefit \u2014 inclusion and amount. Whether a transition benefit under section 13 of Schedule 3 of AR 96/2026 forms part of my monthly benefit. If it does, please state the monthly amount of that transition benefit for the August 2026 benefit period.
+
+4. Order of calculation. Whether the transition benefit amount was determined before or after the application of section 8(4), and the total monthly amount resulting from that sequence. If the transition benefit is calculated as a top-up to a fixed monthly figure, please state that figure.
+
+5. Deductions. Each amount deducted from my benefit under section 11(1) of AR 96/2026, itemized separately, together with the Schedule 1 provision relied upon for each deduction. This includes any amount deducted in respect of the Canada Disability Benefit. I note that section 11(1) applies to the living allowance benefit, the child benefit, and a personal benefit provided under section 13 of Schedule 3. Please confirm which of my benefit components each deduction was applied against.
+
+6. Duration and authority. The date on which my transition benefit is scheduled to end, and the ministerial determination, policy instrument or published document that establishes both the amount of the transition benefit and that end date. I note that section 12(3) of AR 96/2026 provides that the amount of a personal benefit is the amount determined by the Minister, and that neither the amount nor the end date appears in the regulation itself.
+
+7. Total. Written confirmation of my total monthly benefit for the August 2026 benefit period, after all deductions.
+
+I understand that my cohabiting partner's file is separate from mine and that information about their benefit cannot be released to me without their authorization. My partner is submitting their own request in respect of their own file, and this letter should not be read as a request for information about anyone other than myself.
+
+Please confirm receipt of this request and advise me of the date by which I can expect a written response. If any part of this request cannot be answered, please state which part and the reason, so that I can direct that question to the appropriate office.
+
+I am keeping a copy of this letter and the date it was sent.
+
+Thank you for your assistance.
+
+Yours sincerely,
+[your printed name]
+AISH / ADAP File Number: [your file number]
+Date: [today's date]
+
+Regulation references are to AR 96/2026 as in force July 2, 2026.`
+  },
+  {
     id: "neudorf-individual",
     title: "End / Reverse ADAP — Letter to Minister Neudorf",
     blurb: "The central letter. Sets the government's own May 12 fact-sheet numbers against its public messaging and puts five formal questions on the record. Goes to the Minister, copied to the Premier and your MLA.",
