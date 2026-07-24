@@ -22,7 +22,7 @@ const EMAIL_LETTERS = [
     toHint: "Send to the office that holds your file: Edmonton and area <b>aishedmonton@gov.ab.ca</b> (780-415-6300) \u00b7 Calgary and area <b>calgaryaish@gov.ab.ca</b> \u00b7 new applications <b>ApplyDIA@gov.ab.ca</b> (587-759-6810). Not sure which? Ring Alberta Supports on <b>1-877-644-9992</b>, ask for the email address for written correspondence about your file, and ask them to email you while you are still on the line so you have it in writing. Always use the return address printed on any letter you have received.",
     ccHint: "The Minister is pre-filled. Add your own MLA too \u2014 find yours at contact.assembly.ab.ca.",
     subject: "Formal Notice \u2014 Barriers to Employment Participation and Request for Accommodation",
-    pdf: "/pdfs/fillable/ADAP_Employment_Barriers_Notice_Fillable_JulyUpdate2026.pdf",
+    pdf: "/pdfs/fillable/Fillable_Employment_Barriers_Notice_July2026.pdf",
     note: "After you send it: screenshot the sent email showing date, time, subject line and address, and save any automatic reply \u2014 that is your proof of receipt. If you get no answer by the date you set, reply to your own sent email asking for an update, so the whole thread stays together. If your benefit is reduced or stopped over attendance before anyone has answered this notice, keep the dates and tell the campaign.",
     body:
 `Full legal name: [your full legal name]
