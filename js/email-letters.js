@@ -14,6 +14,70 @@
    ─────────────────────────────────────────────────────────────── */
 const EMAIL_LETTERS = [
   {
+    id: "employment-barriers-notice",
+    title: "Barriers to Employment Participation \u2014 formal notice",
+    blurb: "For ADAP clients. Puts your barriers to employment programming on the record in writing and requests accommodation and answers \u2014 including the travel benefit that exists in the regulation and that nobody is told about. This is not a refusal to participate, and it says so in those words. It works either way: if they accommodate you, you get what you need; if they refuse or go silent, you hold a dated record that the barriers were put to them and not addressed.",
+    to: "",
+    cc: "alss.minister@gov.ab.ca",
+    toHint: "Send to the office that holds your file: Edmonton and area <b>aishedmonton@gov.ab.ca</b> (780-415-6300) \u00b7 Calgary and area <b>calgaryaish@gov.ab.ca</b> \u00b7 new applications <b>ApplyDIA@gov.ab.ca</b> (587-759-6810). Not sure which? Ring Alberta Supports on <b>1-877-644-9992</b>, ask for the email address for written correspondence about your file, and ask them to email you while you are still on the line so you have it in writing. Always use the return address printed on any letter you have received.",
+    ccHint: "The Minister is pre-filled. Add your own MLA too \u2014 find yours at contact.assembly.ab.ca.",
+    subject: "Formal Notice \u2014 Barriers to Employment Participation and Request for Accommodation",
+    pdf: "/pdfs/fillable/ADAP_Employment_Barriers_Notice_Fillable_July2026.pdf",
+    note: "After you send it: screenshot the sent email showing date, time, subject line and address, and save any automatic reply \u2014 that is your proof of receipt. If you get no answer by the date you set, reply to your own sent email asking for an update, so the whole thread stays together. If your benefit is reduced or stopped over attendance before anyone has answered this notice, keep the dates and tell the campaign.",
+    body:
+`Full legal name: [your full legal name]
+File number (if known): [your file number]
+Date of this notice: [today's date]
+City or town: [your city or town]
+
+I am writing to give formal notice of documented barriers that affect my ability to take part in employment programming, and to request accommodation and written answers.
+
+This is not a refusal to participate.
+
+MY BARRIERS
+[Delete any that do not apply to you. One documented barrier is enough to ask for accommodation \u2014 you do not need all of them.]
+- I do not have access to a car.
+- I cannot use public transit because of a documented disability.
+- I cannot afford taxi, rideshare or private transport.
+- I cannot walk the distance required to reach transit or a venue.
+- My condition is episodic and prevents reliable attendance.
+- I have caregiving obligations requiring direct supervision.
+- Telephone contact is itself a barrier for me.
+- I have children or dependants with complex needs and no safe alternative care.
+- My support worker hours are intermittent and come without advance notice.
+- My medical appointments conflict with the programming schedule.
+- I am given no advance notice of scheduling, so I cannot arrange care.
+- A mental health condition prevents attendance in groups or public settings.
+- I follow active medical protocols and must be able to respond to emergencies.
+
+IN MY OWN WORDS
+[Say what happens when you try, and what you need in order to take part. You do not have to be formal.
+
+Two things worth including if they apply to you: if you have already asked for something and been refused, say so, with the date \u2014 a refusal already on record is stronger than a difficulty described in general. And if you are reapplying for AISH, say so.]
+
+I am requesting the following, in writing.
+
+1. What is required of me. Section 15(4) of AR 96/2026 allows a benefit to be refused, suspended, varied or discontinued where a person has refused or neglected to participate in an employment support. Neither reasonable employment nor employment support is defined in that regulation. Please state what specifically is required of me, how I will be told, and by when.
+
+2. A travel benefit. Schedule 3, section 1(1)(d) of AR 96/2026 provides a travel benefit for a client eligible under section 3.02 of the Act who requires access to a training or employment program supporting their efforts to obtain employment. I am requesting that benefit, and confirmation of what it covers.
+
+3. Accommodation of the barriers above. Please confirm what accommodations will be provided in respect of each barrier I have identified.
+
+4. Written contact. I am requesting that contact about employment participation be made in writing rather than by telephone, as an accommodation of my disability. Please confirm this has been noted on my file.
+
+5. The consequences of non-attendance. Please confirm whether non-attendance arising from the barriers documented above would result in any reduction or discontinuation of my benefit, and if so, what the review or appeal route is.
+
+6. Confirmation of receipt. Please confirm in writing that this notice has been received and placed on my file.
+
+I am requesting a written response no later than [choose your own date \u2014 two to three weeks from today is reasonable. A date you have chosen is a date you can point to later].
+
+[your full legal name]
+[your email address]
+[your phone number]
+
+Regulation references are to AR 96/2026 as in force July 2, 2026.`
+  },
+  {
     id: "benefit-breakdown-aug2026",
     title: "Show me the calculation \u2014 August 2026 benefit breakdown",
     blurb: "For couples where both partners receive AISH or ADAP. Asks the program, in writing, to show how your August payment was worked out \u2014 the base rate, whether the 88% cohabiting-partner rule was applied, whether the transition benefit is in there and in what order, every deduction itemized, and what authority sets the amount and end date. It is not a dispute. It is a request to be shown the arithmetic.",
