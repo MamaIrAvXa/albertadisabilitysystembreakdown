@@ -1549,10 +1549,46 @@ function bindSearch() {
   input.addEventListener("input", e => renderSearch(e.target.value));
 }
 
+// ─── Field Notes ───
+let fnActiveCat = "All";
+function fnFilterBtn(c) {
+  return '<button type="button" class="fn-filter' + (fnActiveCat === c ? " active" : "") +
+    '" onclick="fnFilter(\'' + c.replace(/'/g, "\\'") + '\')">' + dnEscape(c) + "</button>";
+}
+function fnFilter(c) { fnActiveCat = c; renderFieldNotes(); }
+function renderFieldNotes() {
+  const wrap = document.getElementById("field-notes-list");
+  if (!wrap || typeof FIELD_NOTES === "undefined" || !FIELD_NOTES.length) return;
+
+  let bar = '<div class="fn-filters">' + fnFilterBtn("All");
+  FIELD_NOTES.forEach(g => { bar += fnFilterBtn(g.cat); });
+  bar += "</div>";
+
+  let html = "";
+  FIELD_NOTES.forEach(group => {
+    const show = (fnActiveCat === "All" || fnActiveCat === group.cat);
+    html += '<div class="fn-cat"' + (show ? "" : ' style="display:none"') + ">";
+    html += '<h3 class="faq-cat-title">' + dnEscape(group.cat) + "</h3>";
+    if (group.blurb) html += '<p class="fn-blurb">' + dnEscape(group.blurb) + "</p>";
+    const items = group.items.slice().sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
+    items.forEach(item => {
+      const src = item.source
+        ? '<p class="fn-source"><a href="' + item.source + '" target="_blank" rel="noopener">View original post</a></p>'
+        : "";
+      html += '<details class="dn-archive-item faq-item"><summary>' +
+        dnEscape(item.title) + ' <span class="fn-date">' + dnFormatDate(item.date) + "</span></summary>" +
+        '<div class="dn-body faq-a">' + dnBodyToHtml(item.body) + src + "</div></details>";
+    });
+    html += "</div>";
+  });
+  wrap.innerHTML = bar + html;
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   renderJustDropped();
   renderDailyNews();
   renderFAQ();
+  renderFieldNotes();
   renderEmailLetters();
   renderTestimonials();
   renderFlyers();

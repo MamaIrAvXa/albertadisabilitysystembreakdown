@@ -1567,3 +1567,19 @@ section + section { border-top: 1px solid var(--line); }
   .hero-headline, .section-title, .pillar-title, .card-title { color: black; }
   a { color: black; text-decoration: underline; }
 }
+
+/* ─── Field Notes filter bar ─── */
+.fn-filters { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 1.25rem; }
+.fn-filter {
+  font: inherit; cursor: pointer; padding: .4rem .9rem; border-radius: 999px;
+  border: 1px solid rgba(212, 160, 23, .35); background: transparent; color: var(--ink-soft);
+}
+.fn-filter:hover { border-color: rgba(212, 160, 23, .6); color: var(--ink); }
+.fn-filter.active {
+  background: rgba(212, 160, 23, .15); color: var(--ink);
+  border-color: rgba(212, 160, 23, .6); font-weight: 600;
+}
+.fn-cat { margin-bottom: 1.75rem; }
+.fn-blurb { color: var(--ink-mute); font-style: italic; margin: -.25rem 0 .9rem; }
+.fn-date { opacity: .6; font-size: .85em; font-weight: 400; white-space: nowrap; }
+.fn-source { margin-top: .85rem; font-size: .9em; }
