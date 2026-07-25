@@ -9,6 +9,62 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-24",
+  title: "Where Things Stand \u2014 July 24, 2026",
+  body: `It has been a big day in this community, and a lot of good questions came through. Here is where things sit tonight, in plain words. Section numbers and the fuller detail live in the documents. This is the map.
+
+## THE ONE DATE TO CIRCLE
+August is a few days away, and two changes start with the August payment.
+
+If two people in the same home both get AISH or ADAP, each of you now gets 88 percent of the full amount instead of 100. This is the couples change. It only affects households where both people receive disability assistance. If you live with a roommate, a family member, an adult child, or a tenant who is not your partner, this does not touch you. That was one of the biggest fears in this community this week, and for most people it is a fear about something that is not happening.
+
+Child benefit amounts also reset with the August payment, to $300 for the first child, $117 for the second, $88 for the third, $59 for the fourth, and $30 for each child after that.
+
+## THE MONEY, HONESTLY
+ADAP pays $1,740 a month. AISH pays $1,940. That is a $200 gap, and there is no point pretending otherwise.
+
+If you were moved from AISH to ADAP, a $200 top-up keeps your total the same for now. That top-up runs until December 31, 2027. After that date, the gap becomes real money for anyone still on ADAP. So December 31, 2027 is the date to hold in your mind.
+
+The one place ADAP is truly more generous is work. On ADAP you can earn $700 a month before your benefit is touched, and $1,100 if you have children. On AISH it is $350. So whether ADAP is better or worse for you comes down to whether you can work.
+
+## THE DOOR BACK TO AISH HAS NO CLOCK
+This matters, so read it twice. If you were moved to ADAP and you believe you belong on AISH, you can ask for a medical reassessment, and the government pays for one medical report. There is no deadline on this. You do not have to rush. You can do it whenever you are ready, this year or next.
+
+You do not need your old paperwork from years ago to do it. A reassessment looks at your condition now, through a current medical report from your doctor or nurse practitioner. Not the file from when you first applied.
+
+## THINGS PEOPLE WORRIED ABOUT TODAY THAT TURNED OUT SMALLER THAN FEARED
+You can go on holiday. Nothing bans a vacation. If you will be gone more than a month, tell them in writing first.
+
+You can have surgery or go into hospital. Your benefit keeps going. A hospital is not treated as an institution.
+
+Living with someone does not make them your partner. The couples rule is about spouses and partners, not roommates or family.
+
+Your medications did not change because of the transition. The drug list is the same for both programs. If something changed at the pharmacy counter, that is a separate issue and worth asking about, but the switch to ADAP did not strip your coverage.
+
+For all of these, the safe move is the same one, every time. Ask in writing, and keep the answer.
+
+## TWO THINGS I AM NOT GOING TO PRETEND TO KNOW
+I would rather tell you plainly what is unsettled than sound confident and be wrong.
+
+The Canada Disability Benefit. The federal amount went up slightly this month. How Alberta treats it, whether it comes off your provincial cheque, is something I want to confirm against the government's own page before I tell anyone they get to keep it. Report your CDB in writing, ask them what they deduct, and hold their answer. Do not count on extra money until you have that in writing.
+
+Whether certain benefit cuts can be appealed. There is a genuine tangle right now between what the manual says and what the regulation says about appealing some decisions. Until that is sorted, I am not going to tell anyone a decision definitely can or cannot be appealed. What I will say is this. If a decision lands on you that you think is wrong, do not accept a cannot be appealed stamp at the counter. Ask which law the decision was made under, get it in writing, and bring it to us.
+
+## THE THREAD UNDER ALL OF IT
+The people running the employment side of ADAP are large contractors now, not government staff. If you are on ADAP, a contractor may be who contacts you. When they do, the first call is just them getting to know you. It is not a test. You cannot fail it by not having something ready.
+
+And if you have not heard anything yet, no letter, no call, you have not been missed and you are not in trouble. These are going out in waves through the summer. Silence right now is normal.
+
+## WHAT TO DO THIS WEEK
+Nothing urgent for most people. If your August payment looks different, that is likely the couples rule or the child rates, not a mistake. Watch your account rather than the old cheque line, which some members reported down this week. The single number for both programs is 1-833-382-4081.
+
+If you are confused about your own situation, ask us, or ask the program in writing and keep what they send. That last part is the whole game. The record is the protection.
+
+You got through another week of this. That is not nothing. Rest where you can.
+
+If today sits heavy on you, you are not carrying it alone. You can call or text **988** any time, or the **Alberta Mental Health Help Line at 1-877-303-2642**.`
+},
+{
   date: "2026-07-22",
   title: "Where Things Stand \u2014 July 22, 2026",
   body: `It has been a heavy week in this community. Cards landing, letters landing, people opening envelopes and bracing. Here is where things sit, in plain language, with the things that matter soonest first.
