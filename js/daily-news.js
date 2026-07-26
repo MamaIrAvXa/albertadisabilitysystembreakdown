@@ -9,6 +9,25 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-25",
+  title: "Where Things Stand \u2014 July 25, 2026",
+  body: `A quieter update tonight, but a few things worth having clear before the week starts, and one correction I owe you first.
+
+The payday. I told you the 29th. It is the 28th. Payday is Tuesday, July 28, four business days before the month ends. Depending on your bank it may land Tuesday or show Wednesday morning, so watch your account across both days. I would rather fix my own mistake out loud than have you sitting at the window on the wrong day. Tuesday the 28th.
+
+The check line. Many of you have called it and found it has not updated, and I know how fast that sets off alarm. Here is what we have learned from members who called in. There is a work order in progress to update the check line itself, so it is running behind right now for everyone, not just for you. Your documents arriving and the line showing it are two separate things, and the line is the one lagging. Give it the weekend and try again Monday. Your payment does not depend on whether the line has caught up.
+
+If your amount looks different. Starting with this payment, two things change for some of you. If you and your partner both receive AISH or ADAP and live together, you each move to 88 percent of the individual amount rather than the full amount. And the child benefit rates have been recalibrated, which for many families with children means a bit more. So if your number is not what you expected, it is most likely one of those two, not a mistake. Bring it to us and we will walk through it together.
+
+The road back to AISH. For anyone carrying worry about this, hear me once more. The door back to AISH through a medical reassessment has no deadline on it. None. You can start it whenever you are ready, your ADAP payments keep coming the whole way through, and you are not racing a clock. If that is your plan, take it at your pace.
+
+And on our side of things, we are still pushing. This week we have been working to get the earnings clawback rates published, the ones that have not been released, that sit in a ministerial order and run inside the government's online calculator where no one can read or check them. And we have been working on the privacy questions around how your information moves through this system. That work is quiet, but it is moving, and it is moving because of the questions you keep bringing us.
+
+That is where things stand. Set the week down for the night. Drink some water, rest whatever is aching, and remember there are a lot of us in this together. If tonight sits heavy on you, you can call or text **988** any time, no shame in it, and someone kind will answer.
+
+See you tomorrow.`
+},
+{
   date: "2026-07-24",
   title: "Where Things Stand \u2014 July 24, 2026",
   body: `It has been a big day in this community, and a lot of good questions came through. Here is where things sit tonight, in plain words. Section numbers and the fuller detail live in the documents. This is the map.
