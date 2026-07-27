@@ -9,6 +9,25 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-26",
+  title: "Where Things Stand \u2014 July 26, 2026",
+  body: `Short one tonight, because what matters this week is few and clear, and I would rather you hold three clear things than ten blurry ones.
+
+The payment first, because it is the big one. Payday is Tuesday, July 28. Two days away. To be plain, it is the 28th, not the 29th I first told you, and I would rather say that twice than have you watching the wrong day. Depending on your bank it may land Tuesday or show Wednesday morning, so watch your account across both days.
+
+The check line. If you have been calling it and finding nothing updated, here is the reason again. There is a work order in progress to fix the line itself, so it is running behind for everyone right now, not a sign anything is wrong with your file. Give it until tomorrow and try again Monday. And remember, the line and your deposit are two different systems. A quiet line does not tell you your payment is late.
+
+If your amount looks different on Tuesday. For some of you this is the first payment under the new rules. Two things can move a number. If you and your partner both receive AISH or ADAP and live together, you each shift to 88 percent of the individual amount. And the child benefit rates have been reset, which for many families means a little more. So if your number surprises you, it is most likely one of those two, not a mistake. Screenshot it, bring it to us, and we will read it together.
+
+The road back to AISH, for anyone still carrying that worry. The reassessment door back to AISH has no deadline on it. You can start whenever you are ready, your payments keep coming while it is looked at, and there is no clock chasing you. Take it at your pace.
+
+And on our side, we are still pushing. The rates that decide how much of your earnings you keep are still not published, they sit inside a ministerial order and the government's own calculator instead of anywhere you can read them, and we are pressing to get them out in the open. We are also asking hard questions about how your private information moves through this system. That is the work, and it moves because you keep bringing us what you see.
+
+That is where things stand. It is Sunday, so if the week let you rest even a little, good. Drink some water, go easy on yourselves, and remember there are a lot of us in this together. If tonight sits heavy, you can call or text **988** any time, no shame in it, and a kind voice will answer.
+
+I will see you tomorrow. Watch the 28th.`
+},
+{
   date: "2026-07-25",
   title: "Where Things Stand \u2014 July 25, 2026",
   body: `A quieter update tonight, but a few things worth having clear before the week starts, and one correction I owe you first.
