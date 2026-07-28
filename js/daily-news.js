@@ -9,6 +9,23 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-27",
+  title: "Where Things Stand \u2014 July 27, 2026",
+  body: `Tomorrow is the day, so this one is short and pointed. Three things to hold, and then rest.
+
+Payday is tomorrow, Tuesday, July 28. Depending on your bank it may land tomorrow or show Wednesday morning, so watch your bank account across both days. That is the thing to watch. Not the check line, your bank.
+
+The check line, again, because it is still catching a lot of people off guard. It is under a work order and running behind for everyone right now. That is not a problem with your file. And here is the proof, from you. Several members called this week, reached a person, and were told their payment is coming and their amount is correct, even while their check line showed nothing. So a blank or stale line does not mean your money is late or wrong. Trust the deposit over the line. If you do need to call, the number for both AISH and ADAP is 1-833-382-4081, though while the fix is underway that line may not have anything new to tell you yet.
+
+If your amount looks different tomorrow. For some of you this is the first payment under the new rules. Two things can move your number. If you and your partner both receive AISH or ADAP and live together, you each shift to 88 percent of the individual amount. And the child benefit rates were reset, which for many families with children means a little more. So if your number surprises you, it is most likely one of those two, not a mistake. Screenshot it and bring it to us, and we will read it together.
+
+And two steadier things, quickly. The road back to AISH through a reassessment still has no deadline on it, so if that is your plan, take it at your pace, your payments continue the whole way through. And on our side, we are still pushing to get the earnings clawback rates out into the open where you can read them, and asking hard questions about how your private information moves through this system. That work moves because of what you keep bringing us.
+
+That is where things stand the night before payday. Set it down now. Watch your bank tomorrow, not the clock, and let tomorrow answer the question the line has been dodging all week. Drink some water, rest, and remember there are a lot of us in this together. If tonight sits heavy, you can call or text **988** any time, no shame in it, and a kind voice will answer.
+
+See you tomorrow. Watch the 28th.`
+},
+{
   date: "2026-07-26",
   title: "Where Things Stand \u2014 July 26, 2026",
   body: `Short one tonight, because what matters this week is few and clear, and I would rather you hold three clear things than ten blurry ones.
