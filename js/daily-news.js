@@ -9,6 +9,57 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-28",
+  title: "Where Things Stand \u2014 July 28, 2026",
+  body: `Payday was yesterday and today was the day we found out what it did. This is a longer one than usual because a lot got answered in the last thirty six hours. Take the parts that apply to you and leave the rest.
+
+Payments. Most of you got paid and most amounts were correct. Some of you did not, and those are real rather than misunderstandings. If your payment has not arrived, do not keep phoning and hoping. Email your own regional office today so the date you reported it is on the record, and ask for an itemized breakdown of the payment in writing. Written is what gets things fixed. If you need the wording, ask us and we will send it.
+
+About that odd deposit label. A member asked the office directly and was told payments are now being issued showing as Government of A, or MSP. That is the new wording. An unfamiliar label is not a sign your file has broken.
+
+The transition benefit, because I was asked this five times yesterday. There is no second payment and there never was. It is a top up folded into your one deposit. ADAP's base is $1,740, the top up carries you to $1,940, which is what AISH paid. So nothing arrives with $200 on it. Check your total against what you were getting before the move, not your statement for a separate line. And write this down: it ends December 31, 2027. That is the cut delayed, not cancelled.
+
+The $200 became $204.20. The federal disability benefit went up this month. Alberta counts it as income and takes it off, and the regulation names the benefit rather than a fixed dollar figure, so the federal raise passed straight through to the province. If your payment moved by about four dollars, that is why. And if you are newly receiving the federal money, your provincial payment gets smaller when it starts. Look at both deposits together before you conclude anything is wrong.
+
+What you are allowed to earn. This is the big one and most people do not know it changed.
+
+From the government's own fact sheet. On AISH, single or a parent, $350 a month. On ADAP, single, $700. On ADAP with children, $1,100. A cohabiting partner on either program, $1,500.
+
+Before this, on AISH, a single person could earn $1,072 and a family $2,612 before it touched their benefit.
+
+Read those two paragraphs again. Everyone who works lost ground. But if you were kept on AISH and you work, you now have half of what a single person on ADAP has, and a third of what a parent on ADAP has. Staying on AISH was presented as the protected outcome. For working people it is the harder one. Three members found that this week from three different directions.
+
+How your income gets counted, which is costing people money.
+
+The regulation says that if your income is reported monthly, it is determined on your prior month's actual income. Not an average. Not your tax return spread across twelve months.
+
+We have members whose bonuses and stat holiday pay were averaged across the year, producing a monthly income hundreds of dollars higher than what they take home. We have someone paid on the 28th who is asked for a pay statement she cannot possibly have yet, every single month since February.
+
+If that sounds like you, write to them and ask that your income be determined under Schedule 1 section 6(2)(a) of AR 96/2026, based on your prior month's actual income. Name the section. Attach your pay stubs. It is much harder to be told that is just how it works when you have quoted the rule that says otherwise.
+
+A correction I owe you.
+
+Our access to information request form, the one for getting your own file, had a gap in it. It did not state on the page that goes to government that the request was being made under the Access to Information Act. Some requests sent on it were processed as informal releases rather than formal ones, and that difference removes your response deadline, removes their duty to say which section justifies each blackout, and removes your right to have the Commissioner review it.
+
+That was our error and it is fixed. The corrected version is up now, marked Version 2, July 2026. If you already sent the old one, check your response letter for the word informal. If it is there, you can send the new version as a fresh formal request. I am sorry, and if you are affected, reach out to us and we will sort it.
+
+Two things worth knowing.
+
+If you are in community housing, the $735 that used to be exempted from your income before rent was calculated was removed in May. Rent is now 30 percent of your total income. It reaches people at their next annual review, which is why some of you have been hit and others have not yet. Personal benefits stay exempt. If any of those got counted into your rent, challenge it.
+
+And if you are thinking about asking to go back to AISH, the Minister confirmed in writing last month that the department covers the cost of the medical assessment, that it is not time-limited, and that it can be accessed at any point. Ask for it in writing before you pay anyone.
+
+And some good news, because there has not been much.
+
+Somebody in this community had the $200 deduction taken for months without ever receiving the federal benefit it was supposedly matching. That has now been corrected and they received their full $1,940 for the first time in months.
+
+I am telling you that because a lot of you have concluded these things cannot be fixed. That one was. It took asking in writing and not letting it go.
+
+Last thing. Yesterday and today were heavy for a lot of people. If tonight sits badly, **988** is there any time, call or text, and the **Alberta Mental Health Help Line is 1-877-303-2642**. No shame in either.
+
+Set it down now. The things with deadlines are handled and the rest keeps until morning.`
+},
+{
   date: "2026-07-27",
   title: "Where Things Stand \u2014 July 27, 2026",
   body: `Tomorrow is the day, so this one is short and pointed. Three things to hold, and then rest.
