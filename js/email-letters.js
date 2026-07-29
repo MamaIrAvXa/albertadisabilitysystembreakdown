@@ -14,6 +14,42 @@
    ─────────────────────────────────────────────────────────────── */
 const EMAIL_LETTERS = [
   {
+    id: "payment-not-received",
+    title: "Payment did not arrive \u2014 urgent",
+    blurb: "For anyone whose payment did not arrive. Send it today, even if you have already phoned \u2014 a phone call leaves no record, an email does. It asks your office to confirm in writing whether your payment was issued and when, requests a response within one business day, and asks to be assessed for an emergency benefit in the meantime. The email in your sent folder becomes dated proof of the day you reported it.",
+    to: "",
+    toHint: "Send it to your own regional AISH and ADAP office: North zone <b>northzoneaish@gov.ab.ca</b> \u00b7 Central region <b>AISH.centralregion@gov.ab.ca</b>. Not sure which is yours? Send it to the one nearest you and say in the email that you are unsure which office holds your file.",
+    subject: "URGENT \u2014 Benefit payment not received \u2014 [YOUR FULL NAME], file [YOUR FILE NUMBER]",
+    note: "Keep the email in your sent folder \u2014 do not delete it. If this goes on, that email is the proof of the date you reported it. And if you are short for food, shelter or medication right now, do not wait on them: the 24-hour emergency income line is 1-866-644-5135. It does not close, and using it is not a mark against you.",
+    body:
+`To whom it may concern,
+
+This is urgent. I have not received my monthly benefit payment and I have no other income.
+
+My name is [FULL NAME]. My file number is [FILE NUMBER] and my date of birth is [DATE OF BIRTH]. I receive [AISH or ADAP].
+
+My payment was due on July 28, 2026. As of [TODAY'S DATE] no deposit has appeared in my account. I have checked my bank account and confirmed nothing has been received. [If you have tried to phone, add: I have attempted to reach the contact centre by telephone on [DATE(S)] and was unable to speak to anyone.]
+
+I am requesting the following, urgently and in writing:
+
+1. Confirmation of whether my payment was issued, and on what date.
+2. If it was issued, the method and the account it was sent to.
+3. If it was not issued, the reason, and the date I will receive it.
+4. Confirmation of what is being done to correct this and when I can expect the funds.
+
+I am asking for a response within one business day. Without this payment I am unable to cover [rent / food / medication / utilities \u2014 delete what does not apply]. This is not a matter that can wait for a routine response time.
+
+I am also requesting to be assessed for an emergency benefit to cover essential needs until this payment is received.
+
+Please confirm receipt of this email and place a copy on my file.
+
+[FULL NAME]
+[PHONE NUMBER]
+[EMAIL ADDRESS]
+[MAILING ADDRESS]
+Date sent: [DATE]`
+  },
+  {
     id: "employment-barriers-notice",
     title: "Barriers to Employment Participation \u2014 formal notice",
     blurb: "For ADAP clients. Puts your barriers to employment programming on the record in writing and requests accommodation and answers \u2014 including the travel benefit that exists in the regulation and that nobody is told about. This is not a refusal to participate, and it says so in those words. It works either way: if they accommodate you, you get what you need; if they refuse or go silent, you hold a dated record that the barriers were put to them and not addressed.",
