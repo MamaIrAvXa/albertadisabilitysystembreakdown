@@ -9,6 +9,99 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-29",
+  title: "Where Things Stand \u2014 July 29, 2026",
+  body: `Long day. A lot of what follows came from members in this community rather than from any announcement, which is worth saying out loud before anything else.
+
+## THE PAYMENT PROBLEM. THERE ARE TWO OF THEM.
+CBC reported today that a fault in the new payment software gave the wrong amount to roughly two percent of AISH and ADAP recipients on the July 28 deposit, the one covering August. Some people got hundreds less. Some got nothing. The government says every affected payment will be corrected in full by July 31.
+
+That is the one being talked about. There is a second one, and nobody is talking about it.
+
+A member here got no payment at all. She called, waited, took the callback, and found there was a hold on her file. Nobody had written down why. Because there were no notes, the worker released it, and her money is coming this week.
+
+That is a completely different problem with a completely different fix. Nobody was ever going to spot it from the inside, because a hold does not look like a fault. It looks like a file doing what it was told.
+
+So if your money did not come, do not assume you are in the first group and wait to be found.
+
+Call and ask this exactly. Is there a hold on my file, and are there any notes explaining why it was placed.
+
+Two things that helped her. Eight in the morning got her nothing twice. Two in the afternoon got her on hold and then a callback within the hour. And she stayed polite with someone who could not have caused it, which is not a moral point, it is a tactical one.
+
+If it is still wrong after July 31, ring and write down who you spoke to and when.
+
+## IF YOU HAVE CHILDREN, READ THIS ONE THIS WEEK
+There is a children's education benefit in the regulation. It covers fees and costs you have to pay for a dependent child to attend school, from pre-school through high school, as long as the child is registered.
+
+The wording is that it may be provided. Not will be. Which in practice means nobody is going to offer it to you.
+
+School costs start landing in about four weeks. Ask now, in writing. Something like: I am requesting the children's education benefit for my dependent children for the coming school year. Please confirm what it covers, what you need from me, and by when.
+
+Also, and this is rare enough that it deserves saying, child benefit rates are going up for around seven thousand families starting with the August period. That is a real increase and it is one of the few pieces of good news this month.
+
+The monthly child benefit is built up per child. Three hundred dollars for the first, one hundred and seventeen for a second, eighty eight for a third, fifty nine for a fourth, and thirty each after that.
+
+One thing that catches people. Income is deducted from the child benefit as well as from your living allowance. They are not separate pots and one is not protected.
+
+## IF YOU LIVE WITH A PARTNER WHO IS ALSO ON THE PROGRAM
+The eighty eight percent rule starts with the August benefit period, so about three days from now. Where both partners are eligible clients, each of you drops to eighty eight percent of the individual rate.
+
+People are reporting losses of several hundred dollars a month. If this is you, plan for August being smaller. I am sorry. There is no softer way to put that.
+
+## IF THEY TELL YOU THAT YOU WERE OVERPAID
+This one is a correction to something a lot of us have been telling each other.
+
+Most people believe they take ten percent and that ten percent is a protection. I went and read the recovery section of the regulation today. There is no ten percent in it.
+
+What it says is that if there is a repayment agreement, they deduct the amount you agreed to. If there is no agreement, they deduct an amount determined by the director.
+
+So the protection is the agreement, not the percentage.
+
+Which means the advice is backwards from what most of us would instinctively do. Ask for a repayment agreement in writing, at a monthly amount you can survive, before any money starts coming off. And ask them for the amount, the period it covers, how it was worked out, and why it happened.
+
+If what they propose would leave you short on rent or food, say so in writing, before it starts.
+
+## IF YOU ARE WORKING
+Be careful with earnings numbers right now, including any you have seen from me.
+
+There are conflicting figures circulating for how much you can earn before your benefit is affected, and I could not pin them to the regulation tonight. More than one number is in the air for the same category.
+
+So do not change your hours on the strength of a figure anybody has quoted you, including this community. Ask them in writing what exemption applies to you and what income figure they used, and get it back in writing before you change anything.
+
+I would rather tell you I do not know than give you a number that costs you money.
+
+## HEALTH COSTS
+There is a route most people are never told about. Alongside the health benefit card, the regulation allows a health benefit where approved by the Minister, and it allows them to cover the difference where another plan pays part but not all.
+
+That is a request, not a list. So if something you need is not covered, or Blue Cross covers only part of it, ask. Ask what it covers, and ask whether any part is repayable, because there is a repayment condition attached to that route. Get all of it in writing before you agree to anything.
+
+## THE ENERGY REBATE
+One hundred dollars per adult. If you are on AISH, ADAP or Income Support you are automatically enrolled, you do not have to apply, and it is not clawed back. You keep it.
+
+## NUMBERS THAT ARE CONFIRMED
+For payment questions, 825-468-4314. This is printed on the ALSS payment statements themselves and it is the right desk for anything about a deposit.
+
+Alberta Supports, 1-877-644-9992, for general AISH and ADAP questions.
+
+AISH Adjudication Unit, 780-644-3680 or 1-833-726-2680, for applications and decisions.
+
+Appeals Secretariat, 780-427-2709.
+
+## A CORRECTION FROM ME
+Earlier this week I gave out a number as the central benefits line. I went looking for the source tonight and could not find one. It is not in any of our verified material.
+
+Use the numbers above instead. If you rang the other one and got nowhere, that was on me and not on you.
+
+I would rather tell you when I have got something wrong than have you find out standing in a phone queue.
+
+## AND ONE LAST THING
+This has been a heavy week, and today more than most. Payments missing, a rule landing on couples in three days, and a lot of people carrying more than anyone should be carrying alone.
+
+If it gets too heavy, the **Alberta Mental Health Help Line is 1-877-303-2642** and **988** is there any hour of the day. You do not have to be at the worst point to use either one.
+
+And if there is something you need help with, ask us. Half of what is in this update came from members asking questions today, which means asking is not taking from the community. It is how the community finds things out.`
+},
+{
   date: "2026-07-28",
   title: "Where Things Stand \u2014 July 28, 2026",
   body: `Payday was yesterday and today was the day we found out what it did. This is a longer one than usual because a lot got answered in the last thirty six hours. Take the parts that apply to you and leave the rest.
