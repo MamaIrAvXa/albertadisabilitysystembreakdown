@@ -9,6 +9,86 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-30",
+  title: "Where Things Stand \u2014 July 30, 2026",
+  body: `This has been the hardest week since the transition. Here is where things sit, what I got wrong, and what we learned.
+
+## THE PAYMENT PROBLEM
+On Wednesday the Minister publicly acknowledged technical issues affecting some August Disability Income Assistance payments, and said the department is working to identify affected clients and correct payment issues in full. It ran in two newspapers on Thursday.
+
+What people are reporting is not one thing. Some got less than they should have. Some got more. Some got nothing. People have had rent and groceries and prescriptions declined.
+
+If your money was wrong this week, it is very likely their mistake and not a change to what you are owed.
+
+## WHAT TO DO IF YOUR MONEY IS WRONG
+Write down what happened today. The date, the amount, who you spoke to, how long you held. Screenshot your call log before it disappears off your phone.
+
+Put it in writing to them. Ask for a full breakdown of your August benefit showing every amount and every deduction, and ask which change accounts for the difference.
+
+If you got more than expected, set it aside and do not spend it until they confirm in writing that it is yours. Several people this week have received unexplained deposits. An unexplained deposit can turn into an overpayment months later.
+
+If you were shorted, the regulation says that where they determine you were underpaid, they must pay the outstanding amount. Must, not may. That is not a favour you are asking for.
+
+Or use the draft email we've prepared, in the Email a Letter section.
+
+## CORRECTIONS I OWE YOU
+I would rather say these plainly than fix them quietly.
+
+Nurse practitioners can complete the medical report. The government's own July guide lists physicians and nurse practitioners. If you have no family doctor and you have been putting off reassessment because of it, that door is open.
+
+There is no 10 percent rule on overpayments. The old regulation was repealed on July 2. What applies now is that where there is a repayment agreement, they deduct the amount agreed in it, and where there is no agreement, the amount is set by them. So the agreement is the thing that gives you a say. Ask for one in writing and do not sign until you understand the amount and the term.
+
+The Citizens Appeal Panel was not eliminated. We said that in letters sent to the Premier, the Minister, MLAs and ten mayors in May. It is an overstatement. The Panel continues. What Bill 12 does is narrower, and it prevents the transition itself from being appealed. I have verified this against the bill.
+
+And if you got a phone number from me starting 1-833, do not use it. I cannot confirm it in any verified source. Use Alberta Supports at 1-877-644-9992, or the number printed on your own statement, or contact your local AISH office.
+
+## THINGS WE FOUND THIS WEEK THAT HELP YOU
+Look for the transition benefit on your stub. If you moved from AISH to ADAP in July, there should be a line saying Transition Benefit. That is what bridges the gap between the two rates. One member found $200 missing from her payment and that line absent. If it is not on yours, ask why in writing.
+
+School expenses. There is a per-child benefit for school costs and a separate one for lunch supervision. From what I can see, it appears you have to ask rather than wait. School starts in five weeks. Put it in writing now, include your children's registration confirmation, and ask whether you need to apply or whether it comes automatically.
+
+Money owed for an earlier period. If a back payment arrives covering past months, there is a provision letting them apply it to the period it relates to rather than counting it all in one month. It says may, not must, so it is worth asking for specifically.
+
+Travel to medical appointments. This exists, and asking is not enough. Your doctor's letter has to address how often you need to go and whether going without it would be life threatening or permanently disabling. Travel outside your community for services not available locally has a lower bar. There is also a benefit for someone to travel with you where your condition requires it, and almost nobody knows that.
+
+If you receive CPP disability and have a child. A portion of what arrives may be a children's benefit, which belongs to the child rather than to you. Your T4A(P) shows the two amounts separately.
+
+Your own pension is counted gross. Before tax comes off. So the figure they use will be higher than what lands in your account, and that gap is normal rather than an error.
+
+## DATES
+Monday August 3 is Heritage Day. Offices closed. If you need something before the long weekend, Friday is your day.
+
+September 6. The old version of the Disability Tax Credit form stops being accepted. If your doctor is filling one out, make sure it is the current one. The DTC is the gateway to the federal benefit.
+
+September 30. Applications close for the $100 energy rebate. If you are on AISH you should have already gotten it automatically last month. The government says it is not deducted from your benefit. Check your own statement when it arrives.
+
+## WHAT WE STILL DO NOT KNOW
+I am not going to pretend to certainty I do not have.
+
+How much you can earn before it affects your benefit. There are at least six different figures circulating for the same categories, and one of them is on our own published material. I will not put a number out until I have settled it against the regulation. If someone gives you a figure, ask them to show you where it comes from.
+
+Whether the covered assessment has to be repaid. Ask, and get the answer in writing before anything is booked.
+
+Whether the school expenses benefit arrives automatically. Ask for it either way. ADAP is a new program and the school expense benefit is not mentioned.
+
+## ONE THING TO START DOING
+A member in this community emails her MLA every time she deals with AISH. Every call, every hold time, every time she gets through and every time she does not. Even when nothing happens.
+
+That is the best practice anyone has described to me. Notes you keep yourself can be treated as something written up afterwards. An email sitting in a constituency office inbox, dated, sent the day it happened, cannot.
+
+Find your MLA. Two minutes per call. Date, time, how long you held, what you were told or that you were told nothing.
+
+Thirty of us doing that is a record nobody can wave off.
+
+This week a member spotted a $200 line missing from her own statement. Another worked out that part of her pension was never her income to begin with. Another caught a deposit that did not match and refused to touch it.
+
+None of that came from me. That is people reading their own paperwork carefully and asking out loud.
+
+Keep asking. Get it in writing. Rest when you can.
+
+And if this week has worn you down, you do not have to carry it alone \u2014 you can call or text **988** any time, or reach the **Alberta Mental Health Help Line at 1-877-303-2642**. There is no shame in it.`
+},
+{
   date: "2026-07-29",
   title: "Where Things Stand \u2014 July 29, 2026",
   body: `Long day. A lot of what follows came from members in this community rather than from any announcement, which is worth saying out loud before anything else.
