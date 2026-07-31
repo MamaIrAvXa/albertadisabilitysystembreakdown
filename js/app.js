@@ -1577,9 +1577,12 @@ function renderFieldNotes() {
       const src = item.source
         ? '<p class="fn-source"><a href="' + item.source + '" target="_blank" rel="noopener">View original post</a></p>'
         : "";
+      const doc = item.doc
+        ? '<p class="fn-source"><a href="' + item.doc + '" target="_blank" rel="noopener">Read the full document (PDF) &rarr;</a></p>'
+        : "";
       html += '<details class="dn-archive-item faq-item"><summary>' +
         dnEscape(item.title) + ' <span class="fn-date">' + dnFormatDate(item.date) + "</span></summary>" +
-        '<div class="dn-body faq-a">' + dnBodyToHtml(item.body) + src + "</div></details>";
+        '<div class="dn-body faq-a">' + dnBodyToHtml(item.body) + doc + src + "</div></details>";
     });
     html += "</div>";
   });

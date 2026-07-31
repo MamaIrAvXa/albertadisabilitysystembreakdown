@@ -16,6 +16,62 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "The floor they set themselves",
+        date: "2026-07-30",
+        doc: "/pdfs/july-2026-docs/ADSB_The_Floor_They_Set_Themselves_July2026.pdf",
+        body: `I have been digging into the Canada Disability Benefit clawback this week, and I found something in the government's own words that I think you should see.
+
+First, what the clawback is.
+
+The Canada Disability Benefit is federal money for disabled Canadians aged 18 to 64. It is up to $204.20 a month now, up from $200 in July.
+
+Alberta deducts it from your benefit, dollar for dollar. Alberta is the only province or territory in Canada doing this.
+
+Now the part I want you to see.
+
+When this was announced in March 2025, the Minister responsible was asked to defend it. His answer was a number.
+
+He said AISH paid $1,901 a month. He said the federal government had set $1,811 as a minimum for provinces to meet. And he said Alberta had already exceeded what was asked of it.
+
+That was the argument. We are above the line, so taking the $200 is fair.
+
+The ADAP base rate is $1,740 a month.
+
+That is below the line he drew.
+
+Right now, most people moved from AISH in July are held at the old amount by the transition benefit. That benefit ends on December 31, 2027. After that, the base rate applies and the deduction keeps running.
+
+So the province will be deducting federal money on an argument its own rate no longer satisfies.
+
+I am not telling you anyone planned that. I do not know and it does not matter. Two numbers, from the same government, two years apart. That is the whole thing.
+
+Second, on being made to apply.
+
+Some of you have told me the deduction comes off even though you have never received a dollar of the federal benefit. You are right, and it was not an accident.
+
+Every AISH recipient was required to report the status of their CDB application by September 5, 2025, and reductions started in October for people who had not applied. Two separate organisations recorded that at the time.
+
+So if you have never applied and it is coming off anyway, that is the design and not a mistake on your file.
+
+Third, a question I cannot answer yet.
+
+All of that happened under the old regulation, which was repealed on July 2.
+
+The new regulation does have a section letting them act when you have not applied for a federal benefit. It names the Canada Pension Plan. It names Old Age Security.
+
+It does not name the Canada Disability Benefit.
+
+I have searched the whole regulation for anything requiring you to apply for the CDB, or letting them count money you do not receive. I have not found it.
+
+That does not mean it is not there somewhere. It could be in the Act or in the policy manual, and I have not finished checking either. So I am not telling you the deduction is unlawful. I am telling you I went looking for the authority and could not find it, and that is worth asking about.
+
+What to do with this.
+
+If you applied and were refused, or you are still waiting, and it is still coming off, use the CDB Deduction Correction Letter on our website. If money came off while you were not receiving the benefit, use the CDB Underpayment Repayment Request. The regulation says a director must repay an outstanding amount where you were underpaid. Must, not may.
+
+If you have never applied, the money comes off regardless, so applying is the fastest way to stop being out of pocket. You need the Disability Tax Credit first. If the forms have defeated you, reach out to us and we will go through them with you.`
+      },
+      {
         title: "The income crossover: how many hours to break even",
         date: "2026-07-11",
         source: "https://www.facebook.com/groups/963489306025962/posts/1039611068413785/",
