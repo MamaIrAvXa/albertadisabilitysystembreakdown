@@ -40,8 +40,8 @@ const REPORTS = [
 
 // ─── Data: Documents (full library beyond the report series) ───
 // To mark something as a new release, add a `released: "YYYY-MM-DD"` field.
-// Items with a release date in the last 7 days will show up in the "Just Dropped" section.
-// After 7 days they roll off Just Dropped automatically and stay in the main library.
+// Items with a release date within JUST_DROPPED_DAYS days will show up in the "Just Dropped" section.
+// After that they roll off Just Dropped automatically and stay in the main library.
 const DOCUMENTS = [
   // ─── May 2026 ADAP Release (forensic + plain-language) ───
   { cat: "may2026", title: "The RDSP, in Plain Language", desc: "That line on your deposit slip, finally explained. The Registered Disability Savings Plan is a long-term savings account for anyone approved for the Disability Tax Credit, and the government builds real money into it: a Bond of up to $1,000 a year that takes none of your own money, and a Grant that matches what you put in up to $3 for every $1 at lower incomes. It is fully exempt from AISH, going in and coming out. The catch they leave out: the Bond and Grant stop at the end of the year you turn 49, so if you are close, it is urgent. Catches included, with a clear line between the RDSP and the separate DTC back-tax refund people confuse it with. Source: canada.ca/rdsp.", file: "/pdfs/may-2026-adap/RDSP_Plain_Language_Guide_June2026.pdf", released: "2026-06-12" },
@@ -127,6 +127,7 @@ const DOCUMENTS = [
   { cat: "plain", title: "AISH Taxpayer Truth — Plain Language", desc: "Plain-language version of the taxpayer / Heritage Fund analysis.", file: "/pdfs/plain-language/AISH_Taxpayer_Truth_PlainLanguage_2026.pdf" },
   { cat: "plain", title: "Information Asymmetry — Plain Language Companion", desc: "Plain-language companion to the Information Asymmetry Report.", file: "/pdfs/information-asymmetry/1_Information_Asymmetry_Plain_Language_Companion.pdf" },
   { cat: "plain", title: "Your Right to Appeal — Plain Language", desc: "Plain-language explanation of the right to appeal an AISH decision: what counts as an appealable decision, the 30-day deadline, and how to file before the window closes.", file: "/pdfs/plain-language/Your_Right_to_Appeal_PlainLanguage_June2026.pdf", released: "2026-06-03" },
+  { cat: "plain", title: "The Floor They Set Themselves \u2014 The CDB Clawback in the Government's Own Numbers", desc: "A four-page analysis of Alberta's dollar-for-dollar clawback of the Canada Disability Benefit, built entirely from the government's own figures. When the deduction was defended in March 2025, the Minister said AISH cleared the $1,811 minimum the federal government set for provinces \u2014 but the ADAP base rate is $1,740, below that line, so once the transition benefit ends on December 31, 2027, the province will be deducting federal money on an argument its own rate no longer meets. Also traces the requirement to apply for the CDB, and the fact that the new regulation names CPP and OAS but not the Canada Disability Benefit. Every source listed.", file: "/pdfs/july-2026-docs/ADSB_The_Floor_They_Set_Themselves_July2026.pdf", released: "2026-07-30" },
   { cat: "plain", title: "What's Covered — AISH and ADAP Health Benefits Reference", desc: "A reference list of what your health benefits actually cover under AISH and ADAP. The new benefit card no longer prints the coverage list on the back, so this is the list in one place — useful at the pharmacy counter, the dental office, or the optician when you need to know before you pay. Coverage is the same on both programs; moving to ADAP did not change it. If something you need is refused, ask in writing for the reason and the route to have it reconsidered.", file: "/pdfs/july-2026-docs/ADSB_Whats_Covered_AISH_ADAP_Reference_July2026.pdf", released: "2026-07-22" },
   { cat: "plain", title: "If Your Condition Flares \u2014 Plain-Language Explainer (s.15(4))", desc: "A plain-language explainer of the episodic-disability trap in the ADAP rules \u2014 section 16(a) requires you to report when your employment is reduced or ends, and section 15(4)(a) makes that same fact a ground to refuse, suspend, vary or discontinue your benefit. The regulation draws no distinction between someone who will not work and someone who cannot; there is no exemption for illness or a symptom flare, and \u201creasonable employment\u201d is never defined. Written for anyone with an episodic condition \u2014 MS, lupus, ME/CFS, Crohn's, bipolar, long COVID, epilepsy, migraine, fibromyalgia, EDS \u2014 so you can see how the two sections work together and what to do about it. Pairs with the MLA letter. ADAP only, not AISH.", file: "/pdfs/july-2026-docs/ADSB_If_Your_Condition_Flares_Explainer.pdf", released: "2026-07-15" },
   { cat: "plain", title: "Red Deer Community Resources — A Plain-Language Guide", desc: "A plain-language guide to community resources in Red Deer \u2014 local support services, transportation, food and financial help, health and mental-health supports, and how to reach them. Practical, local help for people navigating AISH and ADAP in central Alberta.", file: "/pdfs/july-2026-docs/Red_Deer_Community_Resources_July2026.pdf", released: "2026-07-07" },
@@ -632,12 +633,12 @@ const FLYERS = [
   { label: "Impact — Part 2 (DejaVu)", img: "impact_part2_dejavu.png", path: "impact" }
 ];
 
-// ─── Just Dropped: collect everything released in the last 7 days ───
+// ─── Just Dropped: collect everything released within JUST_DROPPED_DAYS days ───
 // One source of truth: each manifest item can carry a `released: "YYYY-MM-DD"` field.
 // This collector reads across DOCUMENTS, REPORTS, AUDIO_SERIES items, and MINISTERIAL,
 // surfaces anything inside the window, and lets it roll off automatically when stale.
 // To change the window length, edit JUST_DROPPED_DAYS.
-const JUST_DROPPED_DAYS = 7;
+const JUST_DROPPED_DAYS = 14;
 
 // Fillable Take Action forms we want to surface in "Just Dropped".
 // They are hardcoded as cards in the Take Action section; add one here with a
@@ -1012,10 +1013,10 @@ function renderJustDropped() {
 
   if (countLabel) {
     countLabel.textContent = items.length === 0
-      ? "Nothing in the last 7 days"
+      ? `Nothing in the last ${JUST_DROPPED_DAYS} days`
       : items.length === 1
-      ? "1 new item in the last 7 days"
-      : `${items.length} new items in the last 7 days`;
+      ? `1 new item in the last ${JUST_DROPPED_DAYS} days`
+      : `${items.length} new items in the last ${JUST_DROPPED_DAYS} days`;
   }
 
   if (items.length === 0) {
