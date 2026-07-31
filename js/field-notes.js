@@ -16,6 +16,105 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "If there are two of you on AISH or ADAP, your amount changed this month",
+        date: "2026-08-02",
+        body: `A member sent me her deposit statement today. She has given permission for it to be shared with her details removed. It is the first couples statement anyone has shown me, and there is something on it that people need to see.
+
+The line on her stub reads AISH Living Allowance with client partner.
+
+That is new. It appeared for the first time on the payment released July 28.
+
+## WHAT CHANGED
+Starting with the August 2026 benefit period, in households where two adults both receive disability income assistance, whether AISH or ADAP, each partner receives 88 per cent of the maximum individual benefit instead of the full amount.
+
+That is on the government's own ADAP page and in their ADAP fact sheet. It is also written into the regulation itself, at section 8(4) of AR 96/2026, which says that where both partners are clients eligible for a living allowance, each receives 88 per cent of the rate that would otherwise apply.
+
+## THEIR STATED REASON, IN THEIR WORDS
+The page says it reflects a couple's shared household expenses and mutual financial responsibility, and that this approach aligns with how other jurisdictions structure disability benefits.
+
+So if you looked at your statement this week and thought this is less because I have a partner, you read it correctly. That is what it says, and that is the reason they have given for it.
+
+## WHO THIS DOES NOT APPLY TO
+This is the part I do not want anyone panicking about unnecessarily.
+
+Section 8(4) applies where both people are clients. If you have a partner who is not on AISH or ADAP, this particular change is not what is happening to you. Your partner's income is handled differently, under a separate part of the regulation. Different rule, different question, and if that is your situation reach out to us rather than reading this one as yours.
+
+## SOMETHING I WANT CHECKED, AND I NEED YOUR HELP
+On the stub I was sent, the living allowance line comes to $1,708.00.
+
+Eighty-eight per cent of $1,940 is $1,707.20.
+
+That is eighty cents. It may be nothing more than how their system rounds. But the regulation sets a percentage, not a dollar figure, and I have exactly one statement in front of me, which is not enough to say anything about how it is being applied.
+
+So if you are a couple where both of you receive AISH or ADAP, look at your statement and let us know what your living allowance line reads. Just that one figure. No file numbers, no totals, no personal details.
+
+If everyone's says $1,708.00, then it is a rounding rule and we all learn how they set it. If they differ, that is a different conversation and we will have it with evidence in hand rather than guesses.
+
+## ONE OTHER THING ON THE SAME PAGE
+Her Canada Disability Benefit deduction shows as $93.08. Not $200.
+
+I have been telling people the clawback is a flat $200 and I was wrong. Alberta counts what you actually receive federally, and what you receive is income tested. If your deduction is smaller than $200, that is not an error.
+
+## WHAT TO DO IF YOURS LOOKS WRONG
+Do not let anyone work out your amount for you, including us. Too many people were handed a confident wrong figure by someone kind this week.
+
+Ask your office in writing:
+
+Please confirm how my living allowance for this benefit period was calculated, including the rate applied and any deductions, and the periods those deductions relate to. Please respond in writing.
+
+Offices are closed until Tuesday because Monday is Heritage Day. Send it anyway. The date on the email is the point.
+
+Thank you to the member who sent this in. She could have looked at a smaller number, felt sick about it, and said nothing. Instead she photographed it so the rest of us would understand what we were looking at.
+
+That is how we find things out here.`
+      },
+      {
+        title: "Money for school that nobody told us about",
+        date: "2026-08-01",
+        body: `A member sent me her deposit statement this week. She has given permission for me to share what is printed on it with her details removed.
+
+There is an additional amount for children's school expenses. The stub says that if you have children in school and you meet the eligibility criteria for personal benefits, this month's benefits should include extra money for school-related costs. The amount depends on your child's age as of September 1, 2026.
+
+$63 per child aged 5
+
+$121 per child aged 6 to 11
+
+$208 per child aged 12 to 17
+
+Hers arrived on its own. She did not apply for it. It came as a separate deposit with its own statement in the mail.
+
+## WHY I AM POSTING THIS
+Because I went looking for those three numbers and I could not find them published anywhere a person could reasonably find them.
+
+The government's page on what you get says only that some costs may be covered for children's education. It does not say how much, or for which ages, or that it may arrive without you doing anything. The figures appear on a piece of paper that reaches you after the money has already moved.
+
+If you never got the paper, you never knew the money existed.
+
+## WHAT I NEED FROM YOU
+Check your statement, and let us know whether you got it. Yes or no, and roughly how many school-age children are on your file. Please do not share amounts or file numbers.
+
+I want to know whether this went out to everyone eligible or only to some people. That is not something I can work out from one member's stub, and it is not something I am willing to guess at.
+
+## IF YOU HAVE SCHOOL-AGE CHILDREN AND NOTHING CAME
+Put it in writing before September. Something like:
+
+I have dependent children in school and understand that a personal benefit for school-related expenses is issued to eligible clients. Please confirm whether this benefit was applied to my file for this period, and if not, on what basis. Please respond in writing.
+
+Offices are closed until Tuesday because Monday is Heritage Day, but send it now. The date on the email is the point.
+
+## AND IF SOMETHING ARRIVED TWICE
+A few people have asked about this. If a payment lands that you were not expecting, or the same one lands twice, do not spend the second one. Report it in writing the day you see it and keep a copy of what you sent.
+
+An overpayment you flagged yourself on the day is a very different conversation from one they find six months later and take back out of a cheque that already does not cover rent.
+
+## ONE MORE THING FROM THE SAME PIECE OF PAPER
+Their reporting reminder lists e-transfers as an example of income to report, alongside CPP, the Canada Disability Benefit, Employment Insurance and student funding. A lot of us move small amounts between family that way. Worth knowing it is on their list.
+
+Thank you to the member who sent this in. She could have banked it and said nothing. She sent it so the rest of us would know it exists.
+
+That is how this works here.`
+      },
+      {
         title: "After the phone call: the email that protects you",
         date: "2026-07-31",
         body: `A member of this community did something on Tuesday that I want everyone to copy. She has given permission for me to share it with her name removed.
