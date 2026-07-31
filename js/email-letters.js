@@ -114,6 +114,36 @@ I am requesting a written response no later than [choose your own date \u2014 tw
 Regulation references are to AR 96/2026 as in force July 2, 2026.`
   },
   {
+    id: "call-confirmation",
+    title: "Confirm what you said on an employment call",
+    blurb: "After any call about ADAP employment services, put your barriers in writing the same day so they land on your file. Phone notes are theirs; a dated email is yours. It asks them to confirm the barriers are recorded and to say what support is available for each \u2014 and it heads off a call being written up as you refusing to participate.",
+    to: "",
+    toHint: "Send it to the navigator or worker you spoke with \u2014 easiest is to reply to their own email. If you do not have one, send it to your regional AISH and ADAP office and ask them to route it to the person on your file, and to confirm receipt.",
+    subject: "Confirmation of our call, [date] | [your name] | File #[number]",
+    note: "After you send it, watch for two things. First: did they confirm the barriers are recorded on your file, not just a 'thanks for letting me know'? If not, ask again. Second: did every barrier get answered, or did some go unmentioned? If any were skipped, reply on the same thread: 'I am following up on my email of [date]. Please confirm in writing that [barrier] and [barrier] have been recorded on my file, and what supports are available for each, as these were not addressed in your reply.' Keep the email in your sent folder; it is your dated proof.",
+    body:
+`Thank you for our call on [date] at approximately [time].
+
+For the completeness of my file, I would like to put in writing the barriers to employment I identified during that call:
+
+- [barrier \u2014 for example, transportation]
+- [barrier \u2014 for example, childcare]
+- [medical or physical barriers, in your own words]
+
+Please confirm in writing that these barriers have been recorded on my file.
+
+Please advise what supports are available for each of the barriers listed above.
+
+I would also ask that a copy of this email be placed on my file.
+
+[Include this paragraph only if it applies: During our call a referral was discussed to [name of provider]. I have previously accessed this provider and it did not address the barriers listed above. I am asking that this not be recorded as a referral, and I am requesting an alternative.]
+
+Please respond in writing.
+
+[Your name]
+[Your file number]`
+  },
+  {
     id: "benefit-breakdown-aug2026",
     title: "Show me the calculation \u2014 August 2026 benefit breakdown",
     blurb: "For couples where both partners receive AISH or ADAP. Asks the program, in writing, to show how your August payment was worked out \u2014 the base rate, whether the 88% cohabiting-partner rule was applied, whether the transition benefit is in there and in what order, every deduction itemized, and what authority sets the amount and end date. It is not a dispute. It is a request to be shown the arithmetic.",

@@ -16,6 +16,78 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "After the phone call: the email that protects you",
+        date: "2026-07-31",
+        body: `A member of this community did something on Tuesday that I want everyone to copy. She has given permission for me to share it with her name removed.
+
+She had a phone call with an employment services navigator. Within the hour, she put in writing what she had told them, asked them to confirm it was recorded, and asked for a copy to go on her file.
+
+That is the single most useful thing you can do after any call about employment services, and here is why.
+
+The reason this matters.
+
+On ADAP, the regulation lets a director refuse, suspend, vary or discontinue your benefit if, in their opinion, you refused or neglected to take part in an employment support.
+
+So the question of what you said, and what you were unable to do, and whether anyone recorded it, can decide your income later.
+
+Phone calls leave no record you can see. Their notes are their notes. Your email is yours, and it is dated.
+
+One thing on your side. The Minister put in writing this week that where a client is not taking part in employment supports, the program will first work with them to understand and address any barriers before any compliance measures are considered. Barriers first, compliance after. That is much easier to rely on when your barriers are already in writing.
+
+## THE EMAIL. SEND IT WITHIN A DAY OF ANY CALL.
+**Subject:** Confirmation of our call, [date] | [your name] | File #[number]
+
+Thank you for our call on [date] at approximately [time].
+
+For the completeness of my file, I would like to put in writing the barriers to employment I identified during that call:
+
+(list them plainly, one per line, for example)
+
+Transportation
+
+Childcare
+
+[medical or physical barriers, in your own words]
+
+Please confirm in writing that these barriers have been recorded on my file.
+
+Please advise what supports are available for each of the barriers listed above.
+
+I would also ask that a copy of this email be placed on my file.
+
+[Include this next part only if it applies:] During our call a referral was discussed to [name of provider]. I have previously accessed this provider and it did not address the barriers listed above. I am asking that this not be recorded as a referral, and I am requesting an alternative.
+
+Please respond in writing.
+
+[Your name]
+
+[Your file number]
+
+## THEN WATCH FOR TWO THINGS.
+One. Did they confirm the barriers are on your file? Not "thanks for letting me know." Confirmation that it is recorded. If that does not come back, ask again.
+
+Two. Did every barrier get answered? In the case that prompted this, three barriers went in and only one came back with anything attached. The other two were not refused. They were simply not mentioned. That is easy to miss and it is worth catching.
+
+If something goes unanswered, reply on the same thread:
+
+I am following up on my email of [date]. Please confirm in writing that [barrier] and [barrier] have been recorded on my file, and please confirm what supports are available for each, as these were not addressed in your reply.
+
+## AND IF AN APPOINTMENT APPEARS THAT YOU DID NOT AGREE TO.
+This happens. You say you would rather not, and a booking turns up anyway.
+
+Do not simply not attend. Silence is what gets written up as refusing to participate.
+
+Either go, and afterwards put in writing what was discussed and which of your barriers were addressed. Or write before the date and say you are unable to attend, why, in terms of barriers rather than preference, and that you are requesting accommodation and an alternative.
+
+Either way there is a record and you are not the person who did not show up.
+
+One last thing.
+
+None of this is being difficult. Nobody at the other end takes it personally, and the good ones welcome it because it gives them something to escalate with.
+
+It is a five-minute email that means, months from now, nobody gets to decide what you said based on a note you never saw.`
+      },
+      {
         title: "The floor they set themselves",
         date: "2026-07-30",
         doc: "/pdfs/july-2026-docs/ADSB_The_Floor_They_Set_Themselves_July2026.pdf",
@@ -263,6 +335,39 @@ I am telling you this because I do not want a single person reading that post an
     cat: "Corrections",
     blurb: "When we get something wrong, we say so out loud and fix it, in plain words. This is that record.",
     items: [
+      {
+        title: "If you have no money this weekend, read this",
+        date: "2026-07-31",
+        body: `I have been giving out the wrong number all week and I am correcting it now, before the long weekend.
+
+There is a 24-hour emergency line. 1-866-644-5135.
+
+Income Support Contact Centre. Open 24 hours a day, every day. It does not close for evenings, weekends, or statutory holidays.
+
+This is on the government's own Contact AISH page. During evenings, weekends or holidays, you can get emergency assistance for basic needs like shelter, food and transportation by calling it.
+
+What it can do tonight.
+
+Outside normal office hours it assesses food and transportation over the phone.
+
+There is also an online route that is faster. Go to emergencybenefits.alberta.ca, apply, then phone 1-866-644-5135 to confirm your eligibility. Emergency food benefits are issued by Interac e-Transfer.
+
+The number I have been giving you.
+
+Alberta Supports, 1-877-644-9992, runs Monday to Friday from 7:30 in the morning until 8 at night, and it closes on statutory holidays.
+
+Monday is Heritage Day. So that line is shut from tonight until Tuesday morning.
+
+I have been telling people to use it all week, including people who told me they had nothing. That was my mistake and I am sorry for it.
+
+So, plainly.
+
+If your payment did not arrive, or arrived short, and you cannot buy food or get to where you need to be this weekend, ring 1-866-644-5135. Any hour. Tonight, tomorrow, Sunday, Monday.
+
+You do not have to wait until Tuesday.
+
+Please share this with anyone who is not in this community.`
+      },
       {
         title: "A correction, and it is good news: the ADAP Medical Appeal Panel is real",
         date: "2026-07-11",
