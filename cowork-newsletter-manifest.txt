@@ -1,5 +1,5 @@
 # ADSB Newsletter Manifest — full PDF list under pdfs/ (incl. pdfs/fillable/)
-# Generated: 2026-07-25 02:13 UTC | Format: <YYYY-MM-DD HH:MM mtime>\t<path>
+# Generated: 2026-08-01 02:13 UTC | Format: <YYYY-MM-DD HH:MM mtime>\t<path>
 2026-06-01 00:01	pdfs/may-2026-adap/Access_Gap_The_200_Trap_May2026.pdf
 2026-05-20 00:03	pdfs/government-form-originals/government-manuals/transforming-disability-income-assistance-2.pdf
 2026-05-20 00:04	pdfs/government-form-originals/government-manuals/transforming-disability-income-assistance.pdf
@@ -93,16 +93,19 @@
 2026-05-26 09:19	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase7_KenneyEra.pdf
 2026-05-26 09:19	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase8_SmithEra.pdf
 2026-05-26 09:19	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase9_Synthesis.pdf
-2026-05-20 10:11	pdfs/fillable/Fillable_ATIA_Personal_File_Request.pdf
 2026-05-20 10:24	pdfs/may-2026-adap/ADSB_What_Dropped_This_Week_PlainLanguage_May2026.pdf
 2026-05-26 10:39	pdfs/may-2026-adap/Whats_On_The_Shelf_May2026.pdf
+2026-07-29 11:23	pdfs/fillable/Fillable_Underpayment_Notice_July2026.pdf
 2026-06-25 11:33	pdfs/government-form-originals/government-manuals/HSP140-ReformingDisabilityIncomeSupportinAlberta-FINAL.pdf
 2026-06-04 11:46	pdfs/government-form-originals/external-reports/Martin_Disability_Workforce_Strategy_Full_Data_Package.pdf
 2026-06-23 11:55	pdfs/fillable/Fillable_CDB_Underpayment_Repayment_Request.pdf
 2026-05-25 12:01	pdfs/fillable/Fillable_Monthly_Income_Status_Report.pdf
 2026-06-23 12:05	pdfs/fillable/Fillable_AISH_Appeal_CPPD_Grounds_June2026.pdf
+2026-07-29 12:14	pdfs/fillable/Fillable_Travel_Benefit_Request_July2026.pdf
+2026-07-31 12:18	pdfs/july-2026-docs/ADSB_The_Floor_They_Set_Themselves_July2026.pdf
 2026-05-09 12:39	pdfs/sourced-briefs/ADSB_Easier_For_Whom_AlbertaCa_Account_May2026.pdf
 2026-05-31 13:44	pdfs/government-form-originals/regulations/assured-income-for-the-severely-handicapped-act-2.pdf
+2026-07-31 13:45	pdfs/july-2026-docs/ADSB_Emergency_Numbers_Card_July2026.pdf
 2026-05-31 13:46	pdfs/government-form-originals/regulations/assured-income-for-the-severely-handicapped-act-3.pdf
 2026-05-20 13:53	pdfs/government-form-originals/government-forms/aish-application-form-aas13358.pdf
 2026-05-31 13:55	pdfs/government-form-originals/government-manuals/your-guide-to-aish-may-2025.pdf
@@ -150,6 +153,7 @@
 2026-07-03 16:50	pdfs/fillable/DS2444A_fillable.pdf
 2026-07-03 16:50	pdfs/fillable/DS2444B_fillable.pdf
 2026-06-14 16:52	pdfs/new-adsb-docs/ADSB_Income_Crossover_Analysis_RevisedMay2026.pdf
+2026-07-28 17:12	pdfs/fillable/Fillable_ATIA_Personal_File_Request.pdf
 2026-07-11 17:14	pdfs/fillable/Fillable_Recording_Accommodation_Request.pdf
 2026-07-11 17:14	pdfs/fillable/LargePrint_Accommodation_Request_PrintAndWrite.pdf
 2026-06-30 17:14	pdfs/government-form-originals/government-manuals/scss-aish-adjudication-guide-2024-04.pdf

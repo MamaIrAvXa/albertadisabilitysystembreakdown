@@ -9,6 +9,116 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-07-31",
+  title: "Where Things Stand \u2014 July 31, 2026",
+  body: `A hard week. Here is everything, in order of what matters tonight.
+
+## 1. IF YOU HAVE NO MONEY THIS WEEKEND
+The 24-hour line is 1-866-644-5135. Income Support Contact Centre. Open every hour of every day, statutory holidays included. Edmonton area 780-644-5135.
+
+I gave out the wrong number earlier this week. I told people to call 1-877-644-9992. That is Alberta Supports, it runs 7:30 to 8 Monday to Friday, and it closes on statutory holidays. Monday is Heritage Day, so it is down until Tuesday. That was my error and I am sorry for it.
+
+After hours the 24-hour line assesses food, transportation, temporary shelter, medication and medical supplies over the phone. Rent and utilities are not on that list and go through your own office, which is closed until Tuesday.
+
+Pre-apply at emergencybenefits.alberta.ca, then phone. Food goes out by e-Transfer. Dial 2-1-1 for food banks and hampers.
+
+You do not have to be on Income Support to call. The Minister's Office put in writing on July 27 that any Albertan unable to meet their basic needs can use that line.
+
+## 2. THE PAYMENT FAILURE, AND WHAT THE GOVERNMENT SAYS ABOUT IT
+This is the big one and I want to lay it out exactly.
+
+The province confirmed on Wednesday that new payment processing software sent out incorrect August amounts. Some people got too much, some too little, some nothing at all. Ministry press secretary Jonah Pickle told CBC roughly two per cent of AISH and ADAP recipients were affected.
+
+Two per cent sounds small. Against a caseload of around 80,000 that is somewhere near 1,600 people. That is my arithmetic on their figure, not theirs.
+
+The Minister acknowledged it in a statement Wednesday. Notices went up on the AISH, ADAP and Disability Income Assistance pages saying outstanding payments would be processed by the end of the month.
+
+Then today, in the Red Deer Advocate, the same press secretary said the issue has been resolved and any payment issues were corrected in full prior to end of day on July 29.
+
+Here is where I have to be careful and plain.
+
+I checked all three government pages tonight. The notice is no longer on any of them.
+
+And in this community tonight, members still have no money. One was told today, on the phone, that her payment will not arrive until Wednesday or Thursday next week. Another has had nothing since June and got told after an hour on hold that a paystub was missing. Another got hers released only because she called and pushed.
+
+I am not saying anyone is lying. I am saying the government's public position is that this was fixed on July 29, and our own record says otherwise for at least some people.
+
+So here is what I am asking. If your August payment is still wrong or missing tonight, reach out to us. Not to complain. To be counted. Because right now the only number in public is theirs.
+
+And put this in writing to your office:
+
+Please confirm in writing whether my August payment was affected by the technical issue acknowledged by the ministry, the date my payment was or will be issued, and the reason for any delay.
+
+Section 20(1) of the regulation says that where a director determines a client was underpaid, the director must pay the outstanding amount. Not may. Must.
+
+## 3. TWO REAL CHANGES THAT ARE NOT THE GLITCH
+Plenty of people looking at a smaller deposit are looking at policy, not a bug. Both started with the August benefit period.
+
+Couples. Where two adults in a household both receive AISH or ADAP, each now receives 88 per cent of the maximum individual benefit. That is section 8(4) of the regulation. The government says it reflects shared household expenses.
+
+Children. Child benefit rates were recalibrated to $300 first child, $117 second, $88 third, $59 fourth, $30 each additional. They say this raises benefits for about 7,000 families.
+
+If your statement changed, work out which of the three things it is before you decide whose fault it is.
+
+## 4. THE CDB IS NOT A FLAT $200, AND I HAVE SAID IT WAS
+A member's deposit statement this week carries Alberta's own program message: effective July 2026 the maximum monthly Canada Disability Benefit has been increased to $204.20.
+
+Alberta's own paperwork, in our hands. Canada's own page telling you how much you could receive still shows $200.
+
+And it is a maximum. The benefit is income tested and recalculated every July against your latest return. A member's stub this week showed a deduction of $93.08. So a smaller deduction is not automatically an error.
+
+Alberta remains the only province or territory clawing this back. The other twelve have committed not to.
+
+## 5. NEW DEADLINE NOBODY HAS TOLD US ABOUT: SEPTEMBER 8
+This one is federal and it is 39 days away.
+
+From September 8, 2026, CRA will no longer accept versions of Form T2201, the Disability Tax Credit certificate, dated before 2023. That is on canada.ca. If you submit an old form after that date you start over, and processing runs around four months.
+
+Also, since July 14 you can no longer use the general submit documents feature in your CRA account for a new DTC application unless CRA has specifically asked for information.
+
+If you have a blank T2201 sitting in a drawer, or a half-finished one, throw it out and download a fresh copy. The DTC is the gateway to the Canada Disability Benefit, so this deadline reaches further than it looks.
+
+## 6. THINGS THAT GOT ANSWERED THIS WEEK
+Nurse practitioners can complete the medical report. The government's own Guide to Disability Income Assistance, updated July 2026, says the professionals who can complete the DIA Medical Report include physicians and nurse practitioners. Print it from open.alberta.ca and hand it to the front desk.
+
+The covered assessment is paid to your doctor. A member's email from a named supervisor sets out the policy: medical professionals are paid $67 to complete the report, plus the Business Cost Program fee at $3.59 per unit up to two units. Still open is whether a comprehensive exam under price list 03.04A is billed separately. Ask before your appointment.
+
+School expenses exist and appear to arrive automatically. $63 per child aged 5, $121 for 6 to 11, $208 for 12 to 17, by age as of September 1. Those figures came off a member's deposit stub. I could not find them published anywhere findable.
+
+## 7. THE SUPREME COURT RULING
+On July 30 the Supreme Court decided Democracy Watch v Canada. Nine judges, unanimous, Chief Justice Wagner writing.
+
+They struck down a provision of a federal statute that barred courts from reviewing an official's findings. The holding is that reviewing the legality of a government decision is the courts' constitutional job, and a legislature cannot take that away.
+
+Wagner's line: under the rule of law, all public powers must be legal, and all legal powers have limits. An unlimited power is not a legal power.
+
+Why it matters here. Bill 12 says the move to ADAP cannot be appealed, and the Medical Review Panel's medical decision is final. This ruling does not strike either of those. Closing a tribunal door is not the same as closing a courthouse door.
+
+But we have been told for months that the door was shut and there was nothing to be done. That was wrong. The lawyer who argued the case says it applies to all government bodies everywhere in Canada, including provincial ministers and civil servants, and that no law can shield them from court oversight.
+
+Being honest about the limit: judicial review is expensive, has tight deadlines, and realistically needs a lawyer. A right nobody here can afford to use is a right on paper.
+
+It goes to Professor Shaun Fluker at the University of Calgary Public Interest Law Clinic on Tuesday, with three questions. Whether it reaches the finality on the Medical Review Panel. Whether judicial review is realistically reachable on our incomes. And whether the notwithstanding clause could touch it, which I suspect it cannot, since this was decided under the Constitution Act 1867 rather than the Charter.
+
+Whatever comes back, this community gets it with the sources attached.
+
+## 8. STILL UNANSWERED
+What you can earn before your benefit is reduced. Figures are circulating and I will not publish one I cannot point to in law. The policy manual is now public at manuals.alberta.ca and I am reading it.
+
+Whether the $100 Alberta Energy Rebate is exempt from your benefit calculation. AISH, ADAP, Income Support and Seniors Benefit recipients are auto-enrolled and do not need to apply, and the window closes September 30. I could not find a source stating plainly that it is not counted as income. Watch your statement.
+
+Whether withdrawing an appeal to get new evidence looked at restores a fresh right of appeal afterwards. A member has asked in writing. That answer matters to everyone with an appeal open.
+
+## LAST THING
+Nothing moves before Tuesday. Offices, the Secretariat, the Alberta Supports line, all closed Monday for Heritage Day.
+
+So send your emails tonight for the date stamp, then put it down. The people in this community have spent the week on hold, in queues, and in front of screens that said error. You have earned two days off.
+
+There are 2,430 of us now. On Tuesday, the day the money was supposed to land, more of you were in this community at once than on any day since I opened it. Nobody organized that. You just came and found each other.
+
+If this week has pressed down on you, you do not have to carry it alone. You can call or text **988** any time, or reach the **Alberta Mental Health Help Line at 1-877-303-2642**. There is no shame in it.`
+},
+{
   date: "2026-07-30",
   title: "Where Things Stand \u2014 July 30, 2026",
   body: `This has been the hardest week since the transition. Here is where things sit, what I got wrong, and what we learned.
