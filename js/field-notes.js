@@ -16,6 +16,50 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "The covered assessment: we finally have an answer in writing",
+        date: "2026-08-03",
+        body: `For weeks I have been telling people the same unsatisfying thing about the medical assessment. Ask about repayment. Get it in writing. I could not tell you the answer because I did not have it.
+
+A member's son received an email this week from a named supervisor at AISH North Zone, setting out the policy. He has given permission for it to be shared with his details removed.
+
+## WHAT IT SAYS
+As of April 1, 2012, medical professionals are paid $67 to complete the AISH Medical Report.
+
+The program also pays the applicable Business Cost Program fee, currently $3.59 per unit, up to a maximum of two units, in accordance with the Alberta Health Care Medical Price List.
+
+So the report fee goes to your doctor from the program. There is nothing in that policy about you repaying it.
+
+That is the first written answer any of us has had on this, and it came from an office, not a web page.
+
+## THE PART THAT STILL NEEDS WATCHING
+The same email ends with this: additional fees may be charged for comprehensive medical exams under the Alberta Health Care Medical Price List 03.04A.
+
+That is the gap, and it is worth understanding before you book anything.
+
+The report is covered at a set rate. A comprehensive examination is a separate item and may be billed separately. If your doctor does a thorough exam to support the report, that part may not be inside the $67.
+
+Nobody is hiding this. It is written in plain sight at the end of the paragraph. But it is exactly the kind of thing that turns into an unexpected bill six weeks later.
+
+## WHAT TO SEND BEFORE YOUR APPOINTMENT
+Copy this to your office:
+
+I have an upcoming appointment for the completion of my Disability Income Assistance Medical Report. Please confirm in writing whether additional fees for comprehensive medical exams under Alberta Health Care Medical Price List 03.04A are paid by the program or billed to the client, and if billed to the client, whether any portion is recoverable or repayable. Please also confirm whether the report fee and the Business Cost Program fee are billed by the physician directly to the program, or whether the client pays and claims reimbursement.
+
+That second question matters as much as the first. If it is a reimbursement model, you pay up front and wait, and on our incomes that is the difference between an appointment happening and not happening.
+
+## AND ONE PRACTICAL THING
+Print the policy wording and hand it to reception when you check in. Not to the doctor, to the front desk. They decide what gets billed to whom, and a great many offices do not know the program pays for this report at all.
+
+A member was told this week that her nurse practitioner was not allowed to complete AISH forms. She was, and the government's own Guide to Disability Income Assistance says so. Same problem, different counter. Bring the paper.
+
+## WHY THIS ONE MATTERS
+Because the fear of a bill is stopping people from starting a reassessment at all. I have heard it half a dozen times this month. I cannot afford to find out.
+
+Now you know the report itself is paid for. You know which piece is still an open question. And you know exactly what to ask before anyone picks up a pen.
+
+Thank you to the member who chased this down and sent it in. He asked the question the rest of us were told to ask and then actually got an answer.`
+      },
+      {
         title: "If there are two of you on AISH or ADAP, your amount changed this month",
         date: "2026-08-02",
         body: `A member sent me her deposit statement today. She has given permission for it to be shared with her details removed. It is the first couples statement anyone has shown me, and there is something on it that people need to see.
