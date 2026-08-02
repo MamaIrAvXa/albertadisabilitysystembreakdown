@@ -9,6 +9,47 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-01",
+  title: "Where Things Stand \u2014 August 1, 2026",
+  body: `Three different things hit your money at the same time this month. Only one of them was a mistake. If your payment looked wrong, this is how to tell which one hit you.
+
+## FIRST, THE MISTAKE
+New payment software sent out wrong amounts for the August period, the money that landed July 28. Some people got too much, some too little, some got nothing. The ministry says about two per cent of AISH and ADAP recipients were affected, and that everything was corrected by the end of July.
+
+That is the government's position. It is not what I am hearing from you.
+
+As of today there are members of this community who have still received nothing. One was told hers will not arrive until Wednesday or Thursday next week. One was released only after she pushed for it. If your money is still wrong or still missing, tell us. Not because we can move it, but because a count of people still waiting after the date the government says it finished is the single most useful thing this community can hold right now.
+
+If you have nothing tonight, the emergency line is 1-866-644-5135 and it runs 24 hours. After hours they can assess food, transportation, temporary shelter, medication and medical supplies.
+
+## SECOND, THE COUPLES CHANGE. THIS ONE IS NOT A MISTAKE.
+From the August period, where two adults in the same household both receive AISH or ADAP, each person now gets 88 per cent of the individual maximum instead of the full amount. On AISH that is $232.80 less each. On ADAP it is $208.80 less each.
+
+Nobody made an error on your file. This is the new rule, and it is in the regulation. If you are a couple and your money dropped, this is very likely why.
+
+## THIRD, CHILD BENEFITS WERE REWRITTEN
+Child benefit amounts were recalibrated against the federal Canada Child Benefit, starting the August period. The government says this increases child amounts for about 7,000 families. Some households will see more, some will see the shape of it change. Again, not an error.
+
+## THE FEDERAL DISABILITY BENEFIT WENT UP. YOU WILL NOT FEEL IT.
+The Canada Disability Benefit rose at its first annual indexation, from $200 to $204.20 a month. Alberta continues to deduct it dollar for dollar from AISH and ADAP. So the extra $4.20 is taken back the same as the rest. Alberta remains the only province or territory doing this.
+
+## THE $100 ENERGY REBATE IS ONE YOU KEEP
+One time, $100. If you are on AISH, ADAP or Income Support you are enrolled automatically. No application, no portal, no tax filing needed. The government states it does not affect your eligibility or your benefit amount. This is the rare one that arrives without a catch.
+
+## WHAT I AM STILL NOT TELLING YOU, AND WHY
+The earnings exemption figures. How much you can earn before your benefit is reduced. There are conflicting numbers circulating for both single recipients and couples, and the actual amounts are not in the regulation at all. I checked. Schedule 1 section 4 says those amounts are set by a Ministerial order, and that order has not been published anywhere I can find.
+
+So I am not putting a number in your hands that might be wrong. If you need to know what applies to you, ask in writing and get the answer in writing. When I can source it properly, you will have it here first.
+
+## AND THE THING WITH NO DEADLINE
+If you transitioned to ADAP and want to be assessed for AISH, there is no clock on that. The government has said the covered assessment is not time limited and is available whenever you choose. The appeal window closed June 30. The reassessment door did not, and it has no closing date.
+
+If you did not appeal in June, please stop carrying that. That door was built to close. This one has no lock on it.
+
+## LAST THING
+If tonight sits heavy on you, you do not have to carry it alone. You can call or text **988** any time, or reach the **Alberta Mental Health Help Line at 1-877-303-2642**. There is no shame in it.`
+},
+{
   date: "2026-07-31",
   title: "Where Things Stand \u2014 July 31, 2026",
   body: `A hard week. Here is everything, in order of what matters tonight.
