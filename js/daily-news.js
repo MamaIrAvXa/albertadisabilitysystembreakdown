@@ -9,6 +9,160 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-02",
+  title: "Where Things Stand \u2014 August 2, 2026",
+  body: `Long one. The first three parts are the ones to read if you read nothing else.
+
+## 1. THE PAYMENT FAILURE IS CONFIRMED, AND IT IS NOT YOUR FAULT
+There is a notice on the Government of Alberta website today, on the AISH page and the Alberta Supports page. I saved copies. It says they are aware of technical issues affecting some August Disability Income Assistance payments.
+
+Reporting on July 30 and 31 said a fault in the new payment software gave the wrong amount to about 2% of recipients. Some too much, some too little, some nothing. People had rent, medicine and groceries declined.
+
+The government told reporters everything was corrected by end of day July 29.
+
+That notice was still up today, August 2nd. And people in this community still have no money. So whatever was fixed by the 29th, it was not everything.
+
+You did nothing wrong. No form you missed, no box you failed to tick.
+
+## 2. A CORRECTION I OWE YOU
+I told two members that reimbursement is not provided if you pay out of pocket. That was wrong and I am sorry.
+
+The policy manual says a benefit is reimbursed where you paid for it yourself and can provide substantiation, such as a receipt. So if you have been paying at the counter and swallowing it because you thought there was no route, there is one.
+
+Two limits worth knowing. The reimbursement wording is tied to the retroactive window rather than being an open-ended claim-anytime scheme, and care received outside Alberta is genuinely not covered.
+
+Keep your receipts. Ask in writing.
+
+## 3. THE NUMBER MOST OF YOU HAVE NEVER BEEN GIVEN
+**1-866-644-5135.** Answered 24 hours a day, seven days a week. Evenings, weekends, holidays.
+
+It covers emergency help with basic needs including shelter, food, clothing and transportation.
+
+Two members used it today. One was offered $26 for food and told there was no help with gas. Another was refused transportation last week and given $63.
+
+Use it, and write down what happens. Date, time, hold length, who you spoke to, what you asked for, what you were offered. If you are told no, that no is worth recording.
+
+Ask about transportation using that word. Asking about gas may get a different answer.
+
+## 4. EMAIL: YOU HAVE PROBABLY BEEN WRITING TO AN ADDRESS THAT DOES NOT EXIST
+This is the finding of the day and it came from a member, not from us.
+
+There are no office-specific email addresses. Every AISH and ADAP office routes to one of four zone inboxes.
+
+**North and Edmonton: northzoneaish@gov.ab.ca**
+
+Edmonton, St. Albert, Sherwood Park, Spruce Grove, Leduc, Vegreville, Westlock, Athabasca, Barrhead, Bonnyville, Cold Lake, Edson, Fort McMurray, Grande Prairie, High Level, High Prairie, Hinton, Lac La Biche, Peace River, Slave Lake, St. Paul, Whitecourt.
+
+**Calgary: calgaryaish@gov.ab.ca**
+
+Airdrie, Calgary, Canmore, Claresholm.
+
+**Central: aish.centralregion@gov.ab.ca**
+
+Red Deer, Camrose, Drayton Valley, Drumheller, Lloydminster, Olds, Rocky Mountain House, Stettler, Vermilion, Wainwright, Wetaskiwin.
+
+**South: southaish@gov.ab.ca**
+
+Brooks, Blairmore, Lethbridge, Medicine Hat, Pincher Creek, Taber.
+
+Three people have told us they emailed repeatedly and got nothing back. If you are one of them, check which address you used. Only these four are monitored. Resend.
+
+## 5. CHILD BENEFITS: GOOD NEWS FOR SOME, A CUT FOR LARGER FAMILIES
+The government says the new rates increase child benefits for about 7,000 families. For families with one, two or three children, that is right.
+
+For families with four or more children, the payment went down.
+
+The old rate was a flat amount for the first child plus the same amount for every additional child. The new rate shrinks with each child: $300 for the first, then $117, $88, $59, and $30 for each after.
+
+Our figures put four children at roughly $19 a month down and five at roughly $106 a month down, starting with the August payment. The $200 transition benefit does not cover it, because that protects the living allowance and not child rates.
+
+If you have four or more children, compare your August payment to July. If it dropped, ask them in writing for a breakdown.
+
+## 6. APPEALS: YOU HAVE MORE RIGHTS THAN YOU ARE BEING TOLD
+A member was told this week by a departmental officer that decisions cannot be appealed. That is wrong for almost everything.
+
+Appeal is the default. Only eleven specific decision types are exempt. The transition itself is one of them, which is why that cannot be appealed.
+
+The policy manual says benefit cuts for failing client responsibilities are not appealable, and cites a provision that turns out to cover only one thing: failing to claim or assign CPP or Old Age Security. Everything else on that responsibilities list appears to remain appealable.
+
+I am not telling you that you will win. I am telling you that a flat "you cannot appeal that" should not be accepted without asking which exemption they are relying on. Ask for it in writing.
+
+## 7. COUPLES: THE 88% IS NARROWER THAN YOU HAVE BEEN TOLD, AND THE TOP-UP IS SAFE
+The 88% applies where a client and their cohabiting partner both qualify. Not any two adults in a household. Roommates, adult siblings and an adult child living with a disabled parent are not caught.
+
+But it reaches beyond living together. A cohabiting partner includes spouses, adult interdependent partners, and people who share a child, where they are financially interdependent, even living at separate addresses.
+
+Good news: the $200 transition benefit is not reduced to 88%. That is stated in the manual. The reduction hits the living allowance only.
+
+## 8. THE $200 DROP LANDS JANUARY 2028. NOT 2027.
+A wrong date is circulating and it is frightening people a year early.
+
+The top-up holds ADAP payments at the current amount until December 31, 2027. The drop to $1,740 arrives with the January 2028 payment.
+
+Worth knowing: neither the $200 nor that date appears in the regulation. They exist only in the manual and fact sheets. That makes them policy rather than law, and policy can move.
+
+## 9. EARNINGS: NO NUMBER IS LAW RIGHT NOW
+There is no employment earnings figure anywhere in the regulation. It hands the number to a ministerial order, and no such order exists in the public record. The Gazette index through the end of May shows nothing.
+
+The only figure with any government source is $700 for a single ADAP client, in a fact sheet from May 12, written in future tense. The rest, $350, $1,072, $1,100, $1,150, $1,500, $2,612, $800, are unsourced.
+
+So do not rely on any of them, ours included. Ask in writing: what exemption applies to my file, what is the rate above it, and what instrument sets those amounts.
+
+And report every pay on time. If income is not reported on time, the exemptions do not apply at all. Not reduced. Do not apply.
+
+## 10. SOME OF YOU WERE MEANT TO STAY ON AISH
+Four groups were supposed to remain on AISH automatically with no action needed: severe and profound developmental disability or PDD eligibility, palliative or terminal conditions, continuing care residents, and people 60 or over.
+
+If you are in one of those groups and got an ADAP letter, that may be an error. It is not an appeal. You write and ask why you were not identified.
+
+The rules do not define terminal or palliative anywhere. No life expectancy cut-off, no test, no named form. It is decided case by case on medical documentation, which means there is no threshold you can be measured against. We are asking them what definition they used.
+
+## 11. WHO IS RUNNING ADAP EMPLOYMENT SERVICES
+Two contracts, both effective April 1, 2026, five year terms.
+
+AKG Canada, north and Edmonton: $46,963,570.
+
+Serco Canada, south and Calgary: $50,941,933.
+
+Just under $98 million between them, to do assessments, action plans and case management. Roughly 26,800 people are expected to be referred.
+
+If you are called by an employment agency, that is who. The government's own line for questions about a referral is 780-644-4336. Do not send file questions through a contractor's website form.
+
+## 12. REPORTING A HOBBY OR SIDE INCOME
+There is no hobby category in the rules. The regulation counts income reportable under the Income Tax Act, so Alberta borrows the federal answer.
+
+If you sell regularly, report it, and keep receipts for your materials. Your costs come off before anything is counted, so an activity that loses money may report as nothing. If you sell the odd thing to a friend out of stock you already had, that is a different situation.
+
+Be careful with search-engine summaries on this. One member was shown an answer this week that told her reporting was not required and attributed it to the Government of Alberta. Nothing we can find says that.
+
+## 13. DISABILITY TAX CREDIT DATES
+July 14 has passed. The submit documents section of your CRA account no longer takes DTC applications.
+
+September 8 is the one to watch. Any T2201 from before 2023 gets rejected after that. Download a fresh one, or apply through the online portal where the form is always current and your doctor accesses it directly.
+
+## 14. TWO SMALLER THINGS
+The $100 energy rebate is automatic for AISH, ADAP and Income Support, with no application, and the government says it is not clawed back. Worth knowing that this exemption is a policy statement rather than something in the regulation.
+
+If you asked for your file and the deadline they gave you has passed, that counts as a refusal, and you can ask the Information and Privacy Commissioner to review it. There is no fee. We have the steps written out and will post them separately.
+
+## 15. ON THE CANADA DISABILITY BENEFIT
+Alberta still deducts it dollar for dollar and remains the only province or territory doing so.
+
+A figure of $204.20 is circulating as the new federal maximum. I went looking and the federal government's own published record still says $200 with an annual July adjustment. So I am holding up to $200 until a primary source publishes the indexed number. I will tell you when it does.
+
+## 16. SOMETHING I WANT TO SAY DIRECTLY
+Almost everything new in this update came from members.
+
+Someone found the four zone inboxes with a plain search after I had told her it would be complicated. Someone caught a date discrepancy in her own file that I had read past twice. Someone logged a phone call so cleanly it is now the template I am asking everyone to use. Someone brought me a search result rather than acting on it, which is how we caught the misinformation early.
+
+Several of you apologised to me today for asking too much. Please stop. You are not a burden here. You are how this works.
+
+## IF TODAY IS HEAVY
+Money vanishing when you were counting on it is frightening, and worse when nobody explains why. If you are struggling, **988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.
+
+Keep your receipts. Write down your dates. Ask in writing.`
+},
+{
   date: "2026-08-01",
   title: "Where Things Stand \u2014 August 1, 2026",
   body: `Three different things hit your money at the same time this month. Only one of them was a mistake. If your payment looked wrong, this is how to tell which one hit you.
