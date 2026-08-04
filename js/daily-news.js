@@ -9,6 +9,102 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-03",
+  title: "Where Things Stand \u2014 August 3, 2026",
+  body: `## 1. THE PAYMENT FAILURE, ONE DAY ON
+The notice is still up on alberta.ca. I checked yesterday and saved copies.
+
+News coverage says a fault in the new payment software gave the wrong amount to about 2% of recipients. Some too much, some too little, some nothing.
+
+The province says all August payments were corrected and issued in full before August 1. People in this community were still without money on August 2.
+
+If yours is still wrong or missing, you did nothing wrong. Call **1-866-644-5135**, answered 24 hours a day, seven days a week, covering emergency basic needs including shelter, food, clothing and transportation. Write down the date, the time, who you spoke to and what you were offered. If you are told no, that no is worth recording.
+
+Ask about transportation by name. Asking about gas has been getting a different answer.
+
+## 2. CHECK YOUR CDB DEDUCTION AGAINST WHAT YOU RECEIVED
+This is tonight's most important item and it came from a member.
+
+Her daughter receives $152 a month from the federal government. AISH deducted $200.
+
+The regulation counts the Canada Disability Benefit as income. It counts the benefit, meaning what you receive. The $200 was a placeholder applied where no decision had been made on someone's application. Once a decision exists, the assessed amount is the amount.
+
+So compare two numbers. What arrives from the federal government, and what comes off your provincial payment. If they are different, tell us.
+
+I cannot say yet whether this is one file or many. That is exactly why I am asking.
+
+## 3. THE FEDERAL AMOUNT IS NOW CONFIRMED AT $204.20
+A member's payment stub states the maximum monthly CDB was increased to $204.20 effective July 2026, on government letterhead, dated 30-Jul-2026.
+
+I have been holding at $200 for weeks because I could not source the higher figure. Now I can. Your amount may be lower than the maximum, because the benefit is income-tested, and that is not a mistake in itself.
+
+## 4. SCHOOL EXPENSE AMOUNTS
+From a government payment statement: $63 for a child aged 5, $121 for ages 6 to 11, $208 for ages 12 to 17, with age taken as at September 1, 2026.
+
+If you have school-aged children and nothing has appeared, contact your office.
+
+## 5. CHILD BENEFITS: CONFIRMED, AND LARGER FAMILIES LOST MONEY
+The old rate was $227 a month per child in 2025 and $232 in 2026, flat. The new rates are $300 first child, $117 second, $88 third, $59 fourth, $30 each after.
+
+So one, two or three children means more. Four or more means less, starting with the August payment. The $200 transition benefit does not cover it, because that protects the living allowance and not child rates.
+
+Compare August to July. If it dropped, ask in writing for a breakdown.
+
+## 6. YOU HAVE BEEN EMAILING THE WRONG ADDRESS
+There are no office-specific inboxes. Four zones cover the province.
+
+**North and Edmonton: northzoneaish@gov.ab.ca**
+
+**Calgary: calgaryaish@gov.ab.ca**
+
+**Central: aish.centralregion@gov.ab.ca**
+
+**South: southaish@gov.ab.ca**
+
+Several people have written repeatedly and had nothing back. Check which address you used and resend.
+
+## 7. IF YOU REQUESTED YOUR FILE ON OUR OLD FORM, CHECK THE RESPONSE
+An earlier version of our request form did not state on the page that goes to government that the request was formal. Some were processed as informal releases, which carry no deadline, no obligation to name the section behind a redaction, and no route to the Commissioner.
+
+Look at your response letter for the word informal, and check whether specific sections of the Act were named for anything blacked out. If either is missing, tell us and we will send a fresh formal request.
+
+And know this: if they do not answer within 30 business days, that counts as a refusal in law. You are not waiting on a slow reply. You are holding a refusal, and you can ask the Information and Privacy Commissioner to review it, for free, at oipc.ab.ca. Silence has no notification date, so missing a deadline does not shut you out.
+
+## 8. APPEALS: YOU HAVE MORE RIGHTS THAN YOU ARE BEING TOLD
+Only eleven specific decision types are exempt from appeal. The transition itself is one of them. Almost everything else is appealable, and a flat "you cannot appeal that" should be met with a written question asking which exemption applies.
+
+## 9. WHO IS RUNNING EMPLOYMENT SERVICES
+Two contracts, effective April 1, 2026, five years. AKG Canada, north and Edmonton, $46.96 million. Serco Canada, south and Calgary, $50.94 million. Just under $98 million.
+
+The government line for questions about a referral is 780-644-4336. Do not send file questions through a contractor's web form.
+
+## 10. TWO DATES
+September 8. Any T2201 from before 2023 is rejected after this. Use the online portal where the form is always current.
+
+September 30. The $100 energy rebate portal closes. AISH, ADAP and Income Support recipients are enrolled automatically. Everyone else has to apply.
+
+And once more, because a wrong version is circulating: the $200 drop lands in January 2028, not 2027.
+
+## 11. ON EARNINGS EXEMPTIONS
+Still no published figure. The regulation hands the number to a ministerial order that does not exist in the public record. Only $700 for a single ADAP client has any government source, and that from a fact sheet written in future tense.
+
+Report every pay on time. If income is not reported on time, the exemptions do not apply at all.
+
+## 12. SOMETHING WORTH LEARNING FROM
+A member won a year-long fight this week. Here is how, because it is copyable.
+
+She asked for everything in writing when she was offered phone calls. She kept asking while being pushed toward a same-day deadline. She spotted that the dates in her claim and the dates in their answer did not match, which I had read straight past. And when she finally gave something up, she set out her own terms in the same message rather than sending a bare form.
+
+That last one is why what arrived covered fourteen months instead of the eleven she had been offered the day before.
+
+When you give something up, say in writing what you are giving it up for. It costs nothing.
+
+## IF TODAY IS HEAVY
+**988** answers by call or text any time. **Alberta Mental Health Help Line, 1-877-303-2642.**
+
+Compare your two CDB numbers. Check your email address. Keep your receipts.`
+},
+{
   date: "2026-08-02",
   title: "Where Things Stand \u2014 August 2, 2026",
   body: `Long one. The first three parts are the ones to read if you read nothing else.
