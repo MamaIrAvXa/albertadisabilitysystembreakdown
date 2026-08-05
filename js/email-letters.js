@@ -238,6 +238,78 @@ Please reply in writing. If any of the above has already been sent to me, please
 Date sent: [DATE]`
   },
   {
+    id: "appeal-status-aish-ineligibility",
+    title: "Appeal status \u2014 AISH ineligibility, appeal filed before 2 July 2026",
+    blurb: "For anyone who appealed a decision that they were not eligible for AISH, filed that appeal before 2 July 2026, and has heard nothing since. This letter names section 12.5(1) of the Assured Income for the Severely Handicapped Act, which provides that an appeal against a director's determination under section 3 of the former Act, not decided before 2 July 2026, continues and must be dealt with under the former Act. Naming the provision is the point: it asks them to confirm which rules your appeal is being handled under, rather than leaving it to sit.",
+    to: "alss.appeals@gov.ab.ca",
+    toHint: "Email <b>alss.appeals@gov.ab.ca</b>, or fax <b>780-422-1088</b>. If you would rather speak to someone, the phone line is <b>780-427-2709</b> \u2014 but send the written one either way, so there is a record.",
+    subject: "Request for status of appeal \u2014 [YOUR FULL NAME], file [YOUR FILE NUMBER]",
+    note: "Use this version if your appeal was against a decision that you were not eligible for AISH. If your appeal was about the move to ADAP itself, use the other version instead \u2014 that one is worded for a different problem. Question 5 is the one that matters most here: it asks them to say in writing whether they are treating your appeal under section 12.5(1), and if not, under what provision. A general question gets a general answer. This one does not leave that room. Send it, and send us what comes back.",
+    body:
+`To the Appeals Secretariat,
+
+My name is [FULL NAME]. My file number is [FILE NUMBER]. I submitted a notice of appeal on [DATE OF APPEAL], against the decision of [DATE OF DECISION] that I was not eligible for AISH.
+
+I have received no acknowledgement, no correspondence and no hearing date, and I am writing to ask for a written update.
+
+Section 12.5(1) of the Assured Income for the Severely Handicapped Act provides that where a person appealed a director's determination that they were not eligible under section 3 of the former Act, and the appeal was not decided before 2 July 2026, the appeal continues and must be dealt with in accordance with the former Act. My appeal falls within that provision.
+
+Please confirm in writing:
+
+1. Whether my notice of appeal was received and registered, and my appeal file number.
+
+2. Whether the program has completed its review, and whether a senior representative has been assigned to contact me.
+
+3. Whether a Review of Decision has been issued, and if so on what date and to what address.
+
+4. Whether a hearing date has been set, and if not, when one is expected.
+
+5. Whether my appeal is being dealt with under section 12.5(1), and if not, under what provision.
+
+Please resend anything already sent, as I have received nothing.
+
+[FULL NAME]
+[MAILING ADDRESS]
+[PHONE NUMBER]
+[EMAIL ADDRESS]
+Date sent: [DATE]`
+  },
+  {
+    id: "appeal-status-adap-move",
+    title: "Appeal status \u2014 appealed the move to ADAP",
+    blurb: "For anyone who filed a notice of appeal before 2 July 2026, while still receiving AISH, and has heard nothing since. This version does not assume what your appeal is understood to be against, because that is one of the things it asks. It is written for the situation where an appeal may have been quietly set aside rather than decided.",
+    to: "alss.appeals@gov.ab.ca",
+    toHint: "Email <b>alss.appeals@gov.ab.ca</b>, or fax <b>780-422-1088</b>. If you would rather speak to someone, the phone line is <b>780-427-2709</b> \u2014 but send the written one either way, so there is a record.",
+    subject: "Request for status of appeal \u2014 [YOUR FULL NAME], file [YOUR FILE NUMBER]",
+    note: "Question 5 is the safety net, and it is why this letter is worth sending even if the answer is bad. If they tell you the appeal is not proceeding, that question has already asked them to treat your correspondence as a request for a determination of your AISH eligibility \u2014 or to tell you what you must do to make that request. So a refusal comes back with the next step attached rather than leaving you at the beginning again. And whatever the answer, reassessment for AISH has no deadline on it. That road stays open. Send it, and send us what comes back.",
+    body:
+`To the Appeals Secretariat,
+
+My name is [FULL NAME]. My file number is [FILE NUMBER]. I submitted a notice of appeal on [DATE OF APPEAL], before 2 July 2026, at a time when I was receiving AISH.
+
+I have received no acknowledgement, no correspondence and no hearing date. I am writing to ask for a written answer.
+
+Please confirm:
+
+1. Whether my notice of appeal was received and registered, and my appeal file number.
+
+2. What decision the Secretariat understands my appeal to be against.
+
+3. Whether the appeal is proceeding, and if so, at what stage it currently sits.
+
+4. If the appeal is not proceeding, on what basis, under which provision, and whether that determination has been communicated to me in writing.
+
+5. If the appeal is not proceeding, whether any part of my correspondence is being treated as a request for a determination of my eligibility for AISH, and if not, what I must do to make that request.
+
+Please resend anything already sent, as I have received nothing.
+
+[FULL NAME]
+[MAILING ADDRESS]
+[PHONE NUMBER]
+[EMAIL ADDRESS]
+Date sent: [DATE]`
+  },
+  {
     id: "neudorf-individual",
     title: "End / Reverse ADAP — Letter to Minister Neudorf",
     blurb: "The central letter. Sets the government's own May 12 fact-sheet numbers against its public messaging and puts five formal questions on the record. Goes to the Minister, copied to the Premier and your MLA.",
