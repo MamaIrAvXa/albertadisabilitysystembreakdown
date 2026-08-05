@@ -9,6 +9,95 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-04",
+  title: "Where Things Stand \u2014 August 4, 2026",
+  body: `A long one tonight, because a great deal landed today and some of it has dates attached.
+
+## IF YOUR MONEY IS STILL MISSING
+Start here and read the rest later.
+
+The province says every August payment was corrected and issued before August 1. There are members of this community who had nothing on the 2nd and at least one who still had nothing today. If that is you, ring **1-866-644-5135**. It is answered around the clock and it covers food, shelter, clothing and transportation.
+
+When you get through, ask for an emergency benefit by name. It is in the regulation, Schedule 3 section 11, for essential goods or services needed urgently where a person is at serious health or safety risk through circumstances beyond their control. A payment the government did not send is beyond your control. It is discretionary, so I cannot promise it, but asking for a thing by its name gets a different conversation.
+
+Write down every date, every number you rang, and who you spoke to. That notebook is the difference between still nothing and a documented failure.
+
+## TWO DEADLINES
+**September 8.** Old Disability Tax Credit forms stop being accepted. After that date the CRA will reject any T2201 issued before 2023. Check the bottom corner of your copy. The current one reads T2201 E (23). If yours is older and sitting unprocessed somewhere, start a fresh one now. Also, since July 14 the submit documents option in CRA accounts no longer takes DTC paperwork at all.
+
+**September 30.** The energy rebate portal closes. $100 per adult, $200 per couple. If you were on AISH, ADAP, Income Support or the Alberta Seniors Benefit on July 1 you are enrolled automatically and need do nothing. And it is not clawed back. You keep it. Tell anyone not on those programs to apply before the 30th or they get nothing.
+
+## THE EMAIL ADDRESSES NOBODY PUBLISHES CLEARLY
+These are current, decoded off the government's own contact page today.
+
+**North: northzoneaish@gov.ab.ca**
+
+Including all four Edmonton offices, St. Albert, Sherwood Park, Leduc, Spruce Grove, Grande Prairie, Fort McMurray, Cold Lake.
+
+**Central: aish.centralregion@gov.ab.ca**
+
+Including Red Deer, Camrose, Drumheller, Olds, Stettler, Wetaskiwin, Lloydminster, Wainwright, Rocky Mountain House.
+
+**Calgary: calgaryaish@gov.ab.ca**
+
+Calgary, Airdrie, Canmore, Claresholm.
+
+**South: southaish@gov.ab.ca**
+
+Including Lethbridge, Medicine Hat, Brooks, Taber, Pincher Creek.
+
+Applications and application status go to PO Box 17000 Station Main, Edmonton T5J 4B3, phone 1-877-759-6810, fax 1-877-969-3006. That office publishes no email address at all.
+
+## SOMETHING SIGNIFICANT ABOUT APPEALS
+Two documents landed today and they belong side by side.
+
+A member received a letter from Minister Neudorf confirming, in writing, how appeals now work. Decisions by an adjudicator not to refer your application to the AISH Medical Review Panel can be appealed to the new ADAP Medical Appeal Panel. So can a decision that you are not eligible for ADAP. The Citizen's Appeal Panel keeps non-medical appeals. And decisions by the AISH Medical Review Panel to deny AISH eligibility are final and not subject to appeal.
+
+Separately, another member found the government's procurement site. On August 1 the province awarded a contract to establish and maintain that Medical Review Panel, including recruiting and contracting the doctors who sit on it, to Medavie Health Services of Moncton, New Brunswick. $41,280,000 over three years.
+
+So the one panel with no appeal from it is now assembled under contract. Three days ago.
+
+I am not going to tell you what that means about anyone's intentions. I am telling you what the documents say, and both are public.
+
+It changes nothing about what you should do. Reassessment for AISH still has no deadline on it. It is still worth doing. You just know more now than you did yesterday.
+
+## THE $200 THAT IS NOT COMING
+There is no compensation payment for the payment failure. I have checked every piece of coverage from last week and there is nothing. Please do not budget on it.
+
+The rumour exists because three different $200s are in play. The transition benefit of $200 a month until December 2027. The $200 gap between AISH at $1,940 and ADAP at $1,740. And the $200 Canada Disability Benefit deduction coming off since April. Three real ones and a rumour.
+
+One related thing. If you see anything online saying Alberta has stopped clawing back the Canada Disability Benefit, it is wrong. The clawback stands.
+
+## THREE ANSWERS
+**The 88 per cent rule for couples.** Section 8(4) applies it to the living allowance set out in section 8(2) or (3), which are the $1,940 and $1,740 figures. The transition benefit sits in a different part of the regulation entirely and section 8(4) does not reach it. So on the face of the law it comes off the core rate and the transition benefit should not be reduced. Check your statement against that.
+
+**The doctor's fee for going back to AISH.** The government pays your doctor $67 for the report plus a business cost fee, and nothing published says you repay it. The open question is the comprehensive examination, which is billed separately and can only be claimed once every 365 days by the same doctor. So ask your clinic, before booking: have I had a comprehensive visit with this doctor in the last twelve months, and if so what happens to the examination fee. You are entitled to be told any charge before the service, not after.
+
+**Personal benefits.** Most people have never been told these exist. They sit on top of your monthly payment, they are in Schedule 3 of the regulation, and you have to ask. Nothing is automatic. Special goods and services covers medical equipment essential to managing your condition, including its maintenance, special diets and specialised clothing. The employment and training allowance covers registration and testing fees and then, in the regulation's own words, tools, goods, services or any other matter that enhances your employability. That last phrase is the widest sentence in the whole document.
+
+Ask in writing, name what you want, say why it is essential. Written request, written answer.
+
+## ABOUT OUR OWN DOCUMENTS
+I found an old version of one of our forms still live on the site yesterday, routing to a minister who left the portfolio in May and to office inboxes that no longer exist. A member was about to send it.
+
+I am going through everything this week. Until I am done: if you are about to send something you downloaded from us, message me first and I will confirm it is current. That is mine to keep straight, not yours to catch.
+
+And while I am at it, the government's own application form will not open on most phones and the doctor's version now sits behind a staff login. If you tried and got an error, your phone is fine. The form is the problem.
+
+## FINALLY
+Several people today told me they have been dropping things. Appointments not booked. Prescriptions not collected. Forms sitting unopened for weeks. One person has been stuck for a month since the woman who used to help her died.
+
+If that is you, you are not failing. Six systems are asking you things at once and two of them are contradicting each other.
+
+Pick one thing. Do that one. Tell me the rest and I will hold it.
+
+I am doing the same tonight. I have been letting my own treatment slide and it has caught up with me, so I am off my feet this evening and back at it tomorrow. (I'm really not sitting here at the laptop again making sure this community and the website are updated... I am a figment of your imagination.)
+
+And if tonight is heavier than that, please do not sit with it alone. **988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.
+
+Nothing on your list expires overnight.`
+},
+{
   date: "2026-08-03",
   title: "Where Things Stand \u2014 August 3, 2026",
   body: `## 1. THE PAYMENT FAILURE, ONE DAY ON

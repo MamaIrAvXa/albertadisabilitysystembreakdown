@@ -205,6 +205,39 @@ Date: [today's date]
 Regulation references are to AR 96/2026 as in force July 2, 2026.`
   },
   {
+    id: "appeal-status-update",
+    title: "Appeal status update \u2014 where does my appeal sit",
+    blurb: "For anyone who has filed a notice of appeal and heard nothing. The appeal process has named stages: your notice goes in, the program reviews the file, a senior representative may ring to see whether it can be settled without a hearing, and if it cannot you receive a Review of Decision setting out their reasons. Only then does the Secretariat schedule a hearing, and the appeal package goes out at least a week before it. Ask where your file is generally and you will get a general answer. This letter asks which of five specific things has happened, so they have to tell you.",
+    to: "alss.appeals@gov.ab.ca",
+    toHint: "Email <b>alss.appeals@gov.ab.ca</b>, or fax <b>780-422-1088</b>. If you would rather speak to someone, the phone line is <b>780-427-2709</b> \u2014 but send the written one either way, so there is a record.",
+    subject: "Request for status update on appeal \u2014 [YOUR FULL NAME], file [YOUR FILE NUMBER]",
+    note: "Question 5 is there on purpose, and we would rather you knew why. The regulation says the move from AISH to ADAP is not itself appealable \u2014 section 12.8 \u2014 so there is a chance the answer that comes back is about jurisdiction rather than a hearing date. We are not telling you that is what will happen. We are telling you it is on the table, and it is better to have that in writing in August than to sit waiting until November for a hearing that was never going to be scheduled. If that is the answer that comes back, it is not the end of anything: reassessment has no deadline attached to it, and that road stays open no matter what the panel says about this one. Send it, and send us what comes back. If several of us get the same reply, that tells us something none of us can see alone.",
+    body:
+`To whom it may concern,
+
+My name is [FULL NAME]. My file number is [FILE NUMBER]. I submitted a notice of appeal on [DATE SUBMITTED] by [EMAIL / FAX / MAIL / IN PERSON].
+
+I am writing to ask for a written update on where my appeal currently sits. Specifically:
+
+1. Has my notice of appeal been received and registered, and what is my appeal file number.
+
+2. Has the program completed its review, and has a senior program representative been assigned to contact me.
+
+3. Has a Review of Decision been issued, and if so, when was it sent and to what address.
+
+4. Has a hearing date been set, and if not, when do you expect one to be scheduled.
+
+5. Has any question been raised about whether my appeal falls within the panel's jurisdiction, and if so, what is that question and when will it be decided.
+
+Please reply in writing. If any of the above has already been sent to me, please resend it, as I have not received it.
+
+[FULL NAME]
+[MAILING ADDRESS]
+[PHONE NUMBER]
+[EMAIL ADDRESS]
+Date sent: [DATE]`
+  },
+  {
     id: "neudorf-individual",
     title: "End / Reverse ADAP — Letter to Minister Neudorf",
     blurb: "The central letter. Sets the government's own May 12 fact-sheet numbers against its public messaging and puts five formal questions on the record. Goes to the Minister, copied to the Premier and your MLA.",
