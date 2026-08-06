@@ -16,6 +16,98 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "AKG has put it in writing: their assessments are voluntary",
+        date: "2026-08-06",
+        body: `One wording fix before anything else. I used the phrase ADAP worker earlier and it caused confusion, fairly. There is no assigned worker and nobody has failed to give you one. Everything below says the office, which is what I meant. More on that at the bottom.
+
+A member has been going back and forth with AKG Canada, who operate as Alberta Employment Connect in Edmonton and the north, and she has got something in writing that none of us had.
+
+Here is their wording, from their own email:
+
+**"All of our assessments are voluntary and completed with your informed consent."**
+
+They wrote it once. Then, a few days later, they wrote it again.
+
+That word does not appear on any government page I can find. It is not in the letters people have been receiving. And it is not what another member was told last week, when she asked the same question and was told that the goal set by the government is to have an assessment on the books.
+
+So please read what follows carefully, because this matters and it is also easy to misread.
+
+## WHAT THEY SAID
+Three things, all in writing.
+
+The assessments are voluntary and completed with informed consent.
+
+They do not make decisions about ADAP benefits or eligibility, and any question about how participating or withdrawing might affect your payment should go to the office that holds your file.
+
+And the Biopsychosocial Assessment is not used to determine eligibility or decide participation. Its stated purpose is to work out what supports would suit you.
+
+They also gave out the north zone contacts, 780-415-6300 and northzoneaish@gov.ab.ca, which matches what I confirmed off the government's own contact page this week.
+
+## WHAT IT DOES NOT MEAN, AND I NEED YOU TO HEAR THIS PART
+Voluntary is the contractor's word about the contractor's service. It is not the department's word about your benefit.
+
+The regulation still says a director may refuse, suspend, vary or discontinue an ADAP benefit where, in their opinion, a client has refused or neglected to participate in or make use of an employment support.
+
+AKG cannot protect you from that, and they have said so themselves. They do not decide benefits.
+
+So please do not read this as permission to ignore the calls. What we have is a company saying its own service is voluntary. What we do not have is the department saying that declining costs you nothing. Those are two different statements and only one of them has been made.
+
+## THE PART THAT SHOULD GIVE PEOPLE HOPE
+She asked for accommodations. She got them.
+
+One of the two assessments dropped entirely. The questions for the remaining one sent to her in advance, with the handbook appendix explaining what each section is looking for. Virtual appointments. Extended hours until seven in the evening on Tuesdays and Wednesdays, and Saturdays from ten until two.
+
+Their reply ended with a line I want everyone to see: that they appreciated her advocating for her needs and were happy to accommodate wherever possible.
+
+She had to ask, and she had to ask in writing, and she had to ask more than once. But it was there the whole time.
+
+If you have been told that accommodations are not on offer, that is not what this contractor says when a person asks in writing.
+
+## WHAT WE STILL DO NOT KNOW
+Their answers went vague in exactly one direction, and it is the direction that matters.
+
+They say participation is voluntary but do not say what happens if you decline. They say they do not decide benefits but do not say what they report back, to whom, or what is written down. They say the length of participation varies but give no end point.
+
+None of that is dishonesty. It is a contractor declining to speak for the department. But it means the only question that matters is answered by nobody.
+
+## SO ASK THE DEPARTMENT, NOT THE CONTRACTOR
+Email your zone inbox and ask these three, in writing.
+
+1. AKG has confirmed in writing that their assessments are voluntary. Does declining an assessment have any effect on my ADAP benefits, and if so, under which provision?
+
+2. What information is reported to ADAP about a client following an assessment, and what is recorded on my file?
+
+3. What is the process where a client's medical condition prevents them from participating?
+
+**North zone: northzoneaish@gov.ab.ca**
+
+**Central: aish.centralregion@gov.ab.ca**
+
+**Calgary: calgaryaish@gov.ab.ca**
+
+**South: southaish@gov.ab.ca**
+
+## AND DO THIS ONE THING REGARDLESS
+If your health means you may not be able to attend or complete something, write to the office that holds your file and say so now, before anything is missed.
+
+Not as a refusal. As notification. Section 16 of the regulation requires a client to notify a director of any matter that could lead to a benefit being refused, suspended, varied or discontinued. So putting it in writing is not you asking for a favour. It is you doing what the regulation asks of you.
+
+A letter cannot be read as neglect. Silence can.
+
+## ON THE WORD WORKER, SINCE IT CAME UP
+There is no assigned worker in either program and you have not missed a letter saying otherwise. The government calls it your local AISH/ADAP office. One office, both programs, the same staff answering whether you are on AISH or ADAP. The combined contact page is at alberta.ca/contact-aish-and-adap.
+
+The word the regulation uses for whoever decides anything about your file is director. It appears well over a hundred times in AR 96/2026. The word worker appears once.
+
+So write to the office, addressed to whoever is handling it. That is why the forms say send it to the office rather than naming a person.
+
+The people who may ring you out of the blue are a separate thing. AKG covers Edmonton and the north, Serco covers Calgary and the south. They are contractors. If one of them gives you a named person, that person works for the contractor, not the department, and they do not decide your benefit. Both have said so in writing.
+
+Two doors, and it matters which one you knock on. Money, eligibility, your file, anything with consequences: the AISH/ADAP office. Appointments, assessments, programming: whoever contacted you from the contractor.
+
+Thank you to the member who spent weeks on this and asked the same question until she got an answer in writing. She was not fobbed off, and the rest of us now know something we did not know yesterday because she kept going.`
+      },
+      {
         title: "The covered assessment: we finally have an answer in writing",
         date: "2026-08-03",
         body: `For weeks I have been telling people the same unsatisfying thing about the medical assessment. Ask about repayment. Get it in writing. I could not tell you the answer because I did not have it.
