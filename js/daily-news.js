@@ -9,6 +9,92 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-05",
+  title: "Where Things Stand \u2014 August 5, 2026",
+  body: `A lot has happened this week and I want it all in one place. Read the first section even if you read nothing else.
+
+## AUGUST PAYMENTS WENT WRONG FOR SOME PEOPLE
+New payment software went in with the transition and it produced wrong amounts. Some people were overpaid, some underpaid, and some received nothing at all. The ministry says roughly two percent of AISH and ADAP recipients were affected. The Minister has acknowledged it publicly and said the government will identify who was affected and correct it in full.
+
+If your payment was wrong, that is their computer. It is not something you did and it is not a decision about your file.
+
+Three things to do, in order. Write down what you got and the date. Ring Alberta Supports on **1-877-644-9992**, which is the line they have given for this. Then send a short email to the office that holds your file saying what you received, what you expected, and asking for written confirmation of the correction and when it will arrive.
+
+Do the email even if the call goes well. A call lives in one person's memory. An email lives in your sent folder.
+
+## BUT TWO RULES ALSO CHANGED IN AUGUST
+Before you assume yours is an error, check these, because both started with the August benefit period.
+
+If you and your partner both receive AISH or ADAP and live together, you each now receive 88 percent of the full amount rather than two full amounts. That is section 8(4) of the regulation, and I have read it. If both your payments dropped, that is the new rule rather than the software.
+
+And the child benefit rates were recalibrated from August, affecting around seven thousand families. For many the amount went up. Check your statement against last month.
+
+If your payment dropped by more than either of those explains, chase it as an error.
+
+## THE $100 ENERGY REBATE IS YOURS TO KEEP
+Good news, and there is not much this week.
+
+It does not get clawed back and does not affect your eligibility for anything. If you are on AISH, ADAP, Income Support or the Alberta Seniors Benefit, you are enrolled automatically and there is nothing to apply for.
+
+The exception is people who came onto AISH or ADAP after 1 July. They do have to apply, and applications close on 30 September.
+
+If an email arrives about it, do not tap the link. Type energyrebate.alberta.ca yourself or go through alberta.ca. The real wording is easy to copy, so open it the safe way.
+
+## A CORRECTION ON EARNINGS, BECAUSE A WRONG FIGURE IS CIRCULATING
+You may have seen that ADAP only exempts the first $350 a month you earn. That is the AISH figure, not the ADAP one.
+
+The published table is:
+
+**AISH, single or parent: $350.**
+
+**ADAP, single: $700.**
+
+**ADAP, parent: $1,100.**
+
+**Cohabiting partner on either programme: $1,500.**
+
+So yes, you can earn more on ADAP before your benefit is reduced. I am telling you that even though it is the government's best argument, because you are going to find it out anyway and I would rather you heard it from me.
+
+Here is the rest of that picture. The base rate on ADAP is $200 a month lower regardless. And a higher earnings exemption is worth exactly nothing to someone who cannot work, which is most of us. So it helps a smaller group and costs everyone else. Do not let anyone show you that table on its own.
+
+## THE FEDERAL BENEFIT WENT UP AND ALBERTA STILL TAKES IT BACK
+The Canada Disability Benefit was indexed upward for this benefit year. Alberta deducts it dollar for dollar under Schedule 1 section 1(1)(e). The statements members have shown me this month all have the deduction at $200 flat, listed as CDB Deduction Client.
+
+Apply anyway. The regulation lets a director act where someone has not claimed income they are entitled to, so the risk sits in not applying. And the Disability Tax Credit is not income. Nothing is deducted for holding it and it is the gateway to the federal side.
+
+## WHAT WE LEARNED FROM EACH OTHER THIS WEEK
+A member had prescriptions declined at the pharmacy. The group number on the benefits card changed with the move to ADAP, from an X number to an A number. Once the pharmacy updated it, everything went through. Nobody was told. Take your new card with you.
+
+A member has written confirmation her daughter remains on AISH, and a July payment issued at the ADAP rate. If your paperwork says one thing and your money says another, you are not the only one and it is worth an email.
+
+A member held an automatic reply proving her email arrived and was offered firewall settings as the explanation for why it could not be found. Keep every auto-reply. That is your proof of receipt.
+
+A member's doctor said he does not understand how already proven disabled people are expected to complete this process. If your clinician says something like that, ask them to write it down, because it describes your capacity and that is what is being assessed.
+
+## SOMETHING I FOUND IN THE REGULATION TONIGHT
+I went through AR 96/2026 line by line to check our own figures. Four things are not in it.
+
+What counts as an employment support is left to the Minister to determine. The earnings exemption amounts are left to a ministerial order. The transition benefit has no amount written anywhere, only that one *may* be provided. And the categories that decided who stayed on AISH, the developmental disability one, palliative, continuing care, age sixty, appear nowhere in the regulation at all.
+
+What is in the regulation is the machinery. What decides where you land and what you get is held in fact sheets, a guide, and orders.
+
+Those can change without amending the regulation, without a gazette notice, and without anybody being told.
+
+I am not telling you what anyone intended by that. I am telling you where the rules that govern your life are kept, because I checked.
+
+## WHAT NOBODY WILL ANSWER
+Whether declining a contractor assessment affects your benefit. That question has now been put three times, to two contractors and to the Minister's office. Three answers came back and none of them answered it.
+
+So do this regardless. If your health means you might not manage something, write to the office and say so now, before anything is missed. Not as a refusal. As notification. Section 16 asks it of you. A letter cannot be read as neglect. Silence can.
+
+## AND ONE THING TO HOLD ONTO
+There is no deadline on a reassessment. No clock, nothing expiring, nothing closing behind you while you are not looking.
+
+Whatever else went wrong this month, that door stays open, and it will still be open when you have the energy for it.
+
+If this week has been heavier than the paperwork, you do not have to sit with that alone. **988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-04",
   title: "Where Things Stand \u2014 August 4, 2026",
   body: `A long one tonight, because a great deal landed today and some of it has dates attached.
