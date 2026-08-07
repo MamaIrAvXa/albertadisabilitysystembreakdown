@@ -16,6 +16,54 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "How to get someone authorized to act for you: a new guide",
+        date: "2026-08-07",
+        body: `This is the question I get more than any other. Someone needs help managing their file, or a parent needs to act for an adult son or daughter, and the answer nobody can find is where to start.
+
+Most people assume the only option is a full court application. It is not. Alberta law runs on a spectrum, from very light to very heavy, and the law itself says to use the least restrictive thing that will work.
+
+There was nothing out there that laid the whole spectrum out in plain language, so I built one. It is up on the website now.
+
+## START WITH THE THING MOST OF YOU ACTUALLY NEED
+If what you want is permission for a family member to phone or email about your AISH or ADAP file, that is not guardianship and it is not trusteeship. It is the program's own written consent authorizing a named person on your file. Ask your zone office for it.
+
+I want to be clear about one thing, because it is the sort of detail that sends people down the wrong road for months. The lightest option in the guardianship legislation, called supported decision-making, covers personal matters only. It does not extend to finances. AISH and ADAP are financial. So that form will not put your mother or your daughter onto your benefits file, whatever anyone tells you.
+
+Start with the department's consent, not the court.
+
+## WHAT IS IN THE GUIDE
+The full spectrum, lightest to heaviest, on both the personal side and the financial side. Supported decision-making, co-decision-making, one-time decisions, guardianship. Informal options, the new Public Trustee power, trusteeship.
+
+What a capacity assessment is, who can do one, and what it costs.
+
+What the court process costs and how long it takes. Up to $300 to file. The capacity assessment capped at $500, or $700 for a combined one. About six months from paperwork ready to a decision. And if the cost is a hardship, you can apply to have some of it covered.
+
+For families with a young person approaching eighteen: you can apply in the twelve months before their birthday, and the order takes effect the day they turn eighteen. No gap. That single fact is why so many families end up stuck, because nobody tells them until after the door has closed.
+
+How to plan ahead and skip the court entirely, with a personal directive and an enduring power of attorney.
+
+What to do when a decision-maker is not doing their job.
+
+And what changed on April 1 this year, because the law was amended and anything you read from before then may be out of date.
+
+## SOMETHING I FOUND WHILE WRITING IT
+The same statute did both.
+
+The Act that produced the July 2 transition of AISH recipients onto ADAP is the same Act that rewrote the guardianship and Public Trustee framework. Different sections, different dates in force, one piece of legislation.
+
+I am not telling you what anyone intended by that. I am telling you it is on the record, because I went and checked.
+
+## ON THE SOURCING
+Every point in the guide has a section number beside it so you can look it up yourself rather than taking my word for it. I checked the figures against the Act, the regulation and the government's own pages before it went up.
+
+There was one number I could not confirm from a primary source, so I took it out rather than print something I had not verified. That is the standard. If I cannot check it, it does not go in.
+
+## NOT LEGAL ADVICE
+This is a plain-language summary. It is not the law and it is not a lawyer. Where the guide and the legislation differ, the legislation governs.
+
+Free to share. Free to print. If you work somewhere people need this, take it and put it on your counter.`
+      },
+      {
         title: "AKG has put it in writing: their assessments are voluntary",
         date: "2026-08-06",
         body: `One wording fix before anything else. I used the phrase ADAP worker earlier and it caused confusion, fairly. There is no assigned worker and nobody has failed to give you one. Everything below says the office, which is what I meant. More on that at the bottom.

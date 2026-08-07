@@ -9,6 +9,104 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-06",
+  title: "Where Things Stand \u2014 August 6, 2026",
+  body: `A good day for finding things. Most of it came from members, and some of it is doors nobody told us were there.
+
+## PHONE NUMBERS, AND ONE I GOT WRONG
+I gave the wrong number yesterday for the payment problems. Fixing it properly, because a wrong number costs someone a day they cannot spare.
+
+Missing payment or any question about your benefit: **1-833-382-4081**.
+
+Help filling out a Disability Income Assistance application: **1-877-644-9992**.
+
+Checking on an application already sent in: **1-877-759-6810**, or **587-759-6810** around Edmonton.
+
+Emergency help with food, shelter or transportation, any hour including weekends: **1-866-644-5135**.
+
+And one I have not seen anywhere. Questions about referrals to ADAP employment services: **780-644-4336**. If you get a call you cannot identify, that is the number to ring and ask whether a referral has been made on your file.
+
+Zone emails, all confirmed today.
+
+**North: northzoneaish@gov.ab.ca**
+
+**Central: aish.centralregion@gov.ab.ca**
+
+**Calgary: calgaryaish@gov.ab.ca**
+
+**South: southaish@gov.ab.ca**
+
+## IF YOUR FILE CLOSED, ASK ABOUT REOPENING BEFORE YOU REAPPLY
+This one may save somebody months.
+
+The government's own page says that if you leave AISH or ADAP, your file may be reopened quickly if it has been under two years since your last benefits and you did not leave because your medical condition changed.
+
+Reopening a file and applying from scratch are very different amounts of work. If both of those apply to you, ring and ask about reopening first.
+
+I am pushing this hard because more than one person here has been told they may have to reapply, and at least one file closed over a letter that never reached the person.
+
+## WHERE THE APPLICATION GOES
+Three routes, and email is not one of them whatever an older form says.
+
+Online at dia.alberta.ca. Fax 1-877-969-3006. Or mail to AISH and ADAP, PO Box 17000 Station Main, Edmonton, Alberta T5J 4B3.
+
+Your part is the DS2444A. The medical report is the DS2444B, and your health professional can send that in themselves to the same fax or box.
+
+## A FEDERAL DEADLINE, ONE MONTH OUT
+If you are applying for the Disability Tax Credit, CRA stops accepting pre-2023 versions of Form T2201 after September 6, 2026.
+
+An old form sent after that can be bounced back, and the DTC is the gateway to the federal Canada Disability Benefit. Use the current form, or apply through CRA My Account, which always uses the newest one.
+
+## THE ENERGY REBATE
+The $100 is not clawed back and does not affect your eligibility for anything. On AISH, ADAP, Income Support or the Alberta Seniors Benefit you are enrolled automatically.
+
+If you came onto AISH or ADAP after July 1, you do have to apply, and applications close September 30.
+
+Now the open question. I have read two July statements from two unrelated people. Both carry the message saying the rebate was automatically applied to the July payment. Neither shows the line. If yours does not either, ask about it in writing. If enough of us ask, we find out whether it was missed.
+
+## THE FEDERAL BENEFIT AND WHAT ALBERTA TAKES
+The Canada Disability Benefit went up to $204.20 a month for this benefit year.
+
+Both July statements I have read show Alberta deducting $200.00 flat.
+
+And a member who has walked two people through the whole process reports one of them received $187 from Ottawa and still had $200 taken off.
+
+If that holds, the deduction is a flat $200 regardless of what Ottawa actually pays you. Which matters most for anyone receiving less than $200, because the difference comes out of your provincial money.
+
+I am not stating that as settled. I have two statements and one member account, and I want more before I put a figure in a document. If you have a federal letter showing your amount, send us a photo with your details covered.
+
+Apply for it anyway. The regulation lets a director act where someone has not claimed income they are entitled to, so the risk sits in not applying.
+
+## GETTING SOMEONE AUTHORIZED TO SPEAK FOR YOU
+The question I get most, and I finally have a decent answer.
+
+People assume the only option is a court application. It is not. Alberta law runs on a spectrum and the law itself says to use the lightest thing that works.
+
+For everyday help with your AISH or ADAP file, what you need is the program's own written consent authorizing a named person to receive information and speak to the office for you. That is a departmental form, not a court order. Ask your zone office for it.
+
+Above that sit supported decision-making, co-decision-making, guardianship for personal decisions and trusteeship for money. And a personal directive plus enduring power of attorney, signed while you have capacity, usually removes the need for court entirely.
+
+Two practical things for families with a young person turning 18. You can apply in the 12 months before the birthday and the order takes effect the day they turn 18, so there is no gap. And it is easier at 18 than at 25.
+
+The law here changed April 1, 2026, so anything you read from before then may be out of date. A full plain-language guide is nearly finished.
+
+## WHAT WE LEARNED FROM EACH OTHER TODAY
+A member went in to ask about school funding and came out with three things. Staff have been told to return calls the same day. Lines open at 8:15 in the morning and some staff work until 7:30 in the evening. And the wait for employment services contact may run to years, because of how many people transitioned against how many staff there are.
+
+That last one matches what another member was told by a supervisor this week. Two conversations, two staff, same answer. It is not published policy and I will not present it as such. But nobody should be panicking about a call that has not come.
+
+A member worked out there are two different drug approval routes and which one you get depends on the medication. A benefit exception request goes through AISH, where there is someone to chase. A drug special authorization goes to Blue Cross, where there is not. Same coverage, completely different amount of leverage.
+
+A member pointed out that a generic auto-reply cannot tell you which of your emails it belongs to. She is right. Put your file number, the topic and the date in every subject line, and keep your sent copy as well as the reply.
+
+A member had prescriptions refused because the section letter on the benefits card changed with the move to ADAP. Nobody told the pharmacies. Take your new card in and ask them to update it.
+
+## ONE THING TO HOLD ONTO
+There is no deadline on a reassessment. No clock, nothing expiring, nothing closing behind you while you are not looking.
+
+And if today has been heavier than the paperwork, you do not have to sit with it alone. **988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-05",
   title: "Where Things Stand \u2014 August 5, 2026",
   body: `A lot has happened this week and I want it all in one place. Read the first section even if you read nothing else.
