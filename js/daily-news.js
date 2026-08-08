@@ -9,6 +9,79 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-07",
+  title: "Where Things Stand \u2014 August 7, 2026",
+  body: `A long week. Here is everything that matters, in order of what is most likely to affect you.
+
+## IF YOUR AUGUST PAYMENT WAS WRONG
+About two percent of AISH and ADAP recipients got the wrong amount this month. Some got too much, some too little, some nothing at all.
+
+The ministry has said it was a payment-processing software failure connected to the transition, and that corrections are being made. This is a known government computer problem. It is not something you did and it is not a mistake on your file.
+
+If yours was wrong, phone and ask them to correct it. Write down the date, the time, and the name of who you spoke to. Then send yourself an email saying what you were told, so the call becomes a record.
+
+I am not going to publish a list of phone numbers tonight, because I have several in circulation and I want to confirm which one handles this before I send four hundred people to the wrong line. Use the number on your most recent letter or statement. If you cannot find one, reach out to us.
+
+## THREE SEPARATE CHANGES LANDED ON YOUR AUGUST STATEMENT AT ONCE
+This is the part I most want you to understand, because it is where confusion is going to come from.
+
+If two adults in a household both receive AISH or ADAP, each of you now gets 88 percent of the individual amount rather than the full amount. That rule is in the regulation at section 8(4). August is the first payment cycle under it.
+
+Child benefit amounts have been recalibrated as of the August period, and the government says roughly 7,000 families will see their child amount go up.
+
+And if you are in community housing where rent is set at 30 percent of your income, new regulations raise what you pay. Reporting puts one worked example at about $220 more per month.
+
+Any one of those could explain a change in your total. So could the payment error. Do not assume the first explanation you land on is the right one. Check every line of the statement, and if the numbers do not add up, ask them in writing for a breakdown.
+
+## SOMETHING THAT IS ACTUALLY GOOD NEWS
+The Alberta Energy Rebate is not clawed back.
+
+If you are on AISH, ADAP, or Income Support, you are enrolled automatically. You do not apply. It does not count as income, it does not reduce your benefit, it is not taxable, and it is not reported to CRA.
+
+That is a real positive and it is a departure from the pattern, so I want it said clearly.
+
+If you know somebody who is not on one of those programs, they do have to apply, they must have filed a 2025 tax return, and the window closes September 30.
+
+## THE FEDERAL DISABILITY BENEFIT WENT UP
+The Canada Disability Benefit maximum rose with the July benefit-year indexation and is now a little over $204 a month.
+
+I want to be careful here. Alberta has been treating the CDB as countable income and deducting it. There is now some conflicting material circulating online claiming Alberta does not reduce benefits for the CDB, and I have not been able to pin that down to an Alberta government source.
+
+So until I can, assume the deduction still applies and ask your worker for your own figures. If you see a website saying otherwise, do not act on it.
+
+## THE MEDICAL REPORT COST, AND A CORRECTION I OWE THIS COMMUNITY
+Earlier this week I asked a member not to repeat a $67 figure until we had a source. The source turned out to be my own post from July 31. Patricia found it. My apologies to Pat.
+
+Where that leaves us. Physicians are paid $67 to complete the AISH Medical Report, a rate in place since 2012, plus a small business cost fee. But additional fees may be charged for comprehensive medical exams under a separate price list item, and that is likely where the gap sits between what is covered and what a doctor actually charges.
+
+And on August 7 a program supervisor confirmed in writing that the process for requesting the covered report has not yet been finalized, and suggested checking back in about a month.
+
+So: ask your doctor's office to bill the program directly. Ask what they charge before you book. Do not pay out of pocket expecting a refund on a set date. Keep every receipt.
+
+I am still confirming whether the AISH Medical Report and the DIA Medical Report are the same document, because if they are not, that 2012 rate may not apply to the form you are handed.
+
+## REASSESSMENT
+Still no deadline. Still the door with no clock on it.
+
+A nurse practitioner can complete the medical report. It does not have to be a physician.
+
+If anyone tells you that you have missed your window, tell us who said it and what exactly they said.
+
+## THINGS I AM WORKING ON AND DO NOT HAVE ANSWERS TO YET
+Whether reinstatement applies to people who were moved from AISH to ADAP on July 2. I have found the provision and read it, and on a plain reading I do not think it was drafted with transferred clients in mind. The question is with the department. I will not guess.
+
+Whether the employment income exemption figures circulating are correct. There are several in circulation and they do not agree with each other. I have not been able to pin any of them to the regulation. Do not rely on any number you see for this, including from me, until I can source it.
+
+The exact MLA accommodation allowance figure. Two Assembly sources give different numbers. Checking.
+
+## LAST THING
+This week this community produced a written answer from a government supervisor that nobody had before, found two Orders in Council that had not been parsed, caught a correction on my own work, and got several members' files unstuck.
+
+That is all of you, not me. Thank you.
+
+And if this week has been heavier than the paperwork, you do not have to sit with it alone. **988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-06",
   title: "Where Things Stand \u2014 August 6, 2026",
   body: `A good day for finding things. Most of it came from members, and some of it is doors nobody told us were there.

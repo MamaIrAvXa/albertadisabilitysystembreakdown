@@ -16,6 +16,51 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Before you pay for a medical report: read this",
+        date: "2026-08-07",
+        body: `If you were moved from AISH to ADAP and you are thinking about reapplying for AISH, this affects you. Please read it before you book anything.
+
+## WHAT WE HAVE BEEN TOLD
+The government has said it will cover the cost of one medical report for people in this situation. That has been in the Minister's correspondence and in the policy material, and I have repeated it here.
+
+That part still stands. One report, covered.
+
+## WHAT IS NEW
+A member wrote to the ministry and asked the practical questions. Does the report get billed directly. Is pre-approval needed. Which section of the policy manual sets out the process.
+
+A Program Delivery Supervisor replied in writing on August 7, 2026. The answer confirmed that one report is covered, and then said the process for requesting it has not yet been finalized. She suggested checking back in about a month.
+
+That is a straight answer and I am not criticizing her for giving it. It is more useful than a vague one would have been.
+
+But sit with what it means. More than a month after the transition took effect, people are being told to reapply, and being told the assessment is covered, and there is currently no mechanism through which anyone can request that coverage.
+
+## SO HERE IS MY ADVICE
+If your doctor charges you for the report, you can pay it if you need to move now. But do not pay it expecting a refund on a set date, because right now there is no process to claim one.
+
+If you can wait, wait. Ask your zone office in writing what the current process is for having the covered report paid for. Ask them to reply in writing. Keep the answer.
+
+If you have already paid, keep the receipt, keep any email where you asked about coverage, and do not throw anything out. When a process does exist, the people with dated paperwork will be in a much better position than the people relying on memory.
+
+## THREE THINGS STILL UNANSWERED
+Whether the ministry pays the full amount your doctor charges, or only up to the fee schedule. Some physicians charge above it. Nobody has told us who covers the difference.
+
+Whether the doctor bills the ministry or whether you pay and claim back.
+
+What happens for people who paid during this period when no process existed.
+
+I have asked. I do not have answers. I will not guess at them and you should not accept a guess from anyone else either.
+
+## TWO OTHER THINGS WORTH KNOWING
+Reassessment has no deadline. There is no clock on this. If you are being rushed by anyone, including your own worry, you are not actually late.
+
+And a nurse practitioner can complete the DIA Medical Report. It does not have to be a physician. If getting to a doctor is part of your problem, that may open a door.
+
+## ONE USEFUL TIP FROM THE SAME MEMBER
+Dial **310-0000** first and any Government of Alberta number is free from anywhere in Alberta. Works for your MLA, the Ombudsman, the Disability Advocate, any of it. If you are rural and long distance charges have been stopping you from calling, that removes it.
+
+This came from a member who asked good questions through the general inquiries channel and got a real answer within a day. Sometimes the front door works. Thank you to her.`
+      },
+      {
         title: "How to get someone authorized to act for you: a new guide",
         date: "2026-08-07",
         body: `This is the question I get more than any other. Someone needs help managing their file, or a parent needs to act for an adult son or daughter, and the answer nobody can find is where to start.
