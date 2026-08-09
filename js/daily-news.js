@@ -9,6 +9,114 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-08",
+  title: "Where Things Stand \u2014 August 8, 2026",
+  body: `Welcome in. This has been a heavy week and there is a lot moving at once, so I have put it all in one place. Take what is yours and leave the rest. Nothing here has a deadline attached to it.
+
+If this week has sat hard on you, the numbers are at the bottom. There is no shame in using them.
+
+## FIRST, THE THING I MOST WANT YOU TO HEAR
+**Reassessment has no deadline. None.**
+
+I am putting that at the top because I nearly let a wrong version of it past me this week, and I want it said plainly instead of buried.
+
+You may see something somewhere about an eighteen month window for reassessment. That is not a reassessment deadline. Eighteen months is how long the $200 transition benefit lasts, which is a different thing entirely.
+
+There is no clock on asking to be reassessed. There is no date you can miss. If your condition changes, or your ability to work changes, you can ask. That door was never built to close.
+
+If you did not appeal by June 30, you did not lose your chance at anything. That door was built to close. This one is not.
+
+## WHY YOUR AUGUST STATEMENT MAY NOT MAKE SENSE
+Several separate things landed on the same period, which is why so many people opened their statement and could not work out what happened.
+
+**The payment error.** August payments went out wrong for about two percent of AISH and ADAP recipients. Some too much, some too little, some nothing at all. The ministry says it was a payment processing software failure and that corrections are being made.
+
+That was their computer. Not your file, not something you forgot to send, not a punishment.
+
+**The couple rule, which is new this month.** If two adults in a household both receive AISH or ADAP, each of you now receives 88 percent of the individual amount instead of the full amount. On the $1,940 rate that is $1,707.20 each, so about $233 less per person.
+
+This is new. Before this, two people who both qualified each received the full amount. I checked the old rules directly to be sure of that, and then saw it reported independently at the same figure.
+
+**Recalibrated child benefit rates**, which the government says increase the child amount for roughly 7,000 families.
+
+**And housing**, if you are in community housing where rent is 30 percent of your income.
+
+So four different things could explain a change. Please do not land on the first explanation and stop. Check every line. If it does not add up, ask them in writing for a breakdown of what income was counted and what was deducted.
+
+I will not calculate anyone's individual amount, and I would be careful of anybody who offers to. What I will do is read their answer with you.
+
+## THE $150 FROM THE FEDERAL GOVERNMENT
+A one time payment of $150. Not a raise, not a reimbursement of what you spent. A flat amount, the same for everybody, whether you paid nothing for your DTC or paid four hundred dollars.
+
+**Who gets it.** It follows the Canada Disability Benefit. You already need an approved DTC to receive the CDB, so this is not a second hurdle. If the CDB reaches you, the $150 reaches you. There is no application. It comes automatically.
+
+If you received CDB payments at any point between July 2025 and June 2026 and have since come off it, you are still in line. Do not assume you are out.
+
+**Who does not.** If you hold an approved DTC but receive no CDB because your income is too high, this does not come to you.
+
+The federal government listed in its own analysis who this will not reach. People who could not afford to apply for the DTC in the first place. People who paid and were turned down. People approved for the DTC whose income is too high for the benefit. So a payment meant to remove a cost barrier does not reach anybody the barrier stopped. That is their document, not my framing.
+
+**When.** September 2026 if you received a CDB payment between July 2025 and June 2026. February 2027 if your first payment came after July 1 2026, or you were re-certified in that stretch. From March 2027 it comes with a first payment. If nothing arrives in September, that is likely why, and it is not a problem with your file.
+
+**What I am still asking.** Whether it will be identified separately when income is reported, so it does not get counted by mistake. And what happens for people who had their DTC assessment covered as a repayable advance. Those questions are with the department in writing. Please do not budget on this money until I have the answers.
+
+## SEPTEMBER 1 DOES NOT STOP THE CLAWBACK
+Five different people asked me this week about the CDB being reclassified so it can no longer be clawed back. Every one of them read the announcement the same way, and not one of them was being careless.
+
+The change is real and it takes effect September 1. But the federal department listed it under a heading called Other changes, above which it says those changes do not affect how the benefit is administered. It calls them clarifications.
+
+Here is why it does not reach us. The Alberta rule that counts your CDB has two parts. One part counts income reportable under the federal Income Tax Act. The other part names the Canada Disability Benefit directly, by name, without going through the Income Tax Act at all. So on September 1 the first part lets go and the second part is still holding it.
+
+Nothing about your AISH or ADAP payment changes that day. I am sorry to be the one saying it.
+
+What it does do is protect your other federal benefits. If you have children, your Canada Child Benefit stops being reduced because of your CDB, and Alberta does not touch your CCB. That money is yours.
+
+**The thing that would end the clawback is Alberta changing its own rule.** Alberta wrote it, Alberta can rewrite it, and nobody in Ottawa needs to agree. That is why I keep pointing people at their MLA rather than their MP on this one.
+
+## THE CDB AMOUNT WENT UP
+The maximum is now $204.20 a month, up from $200, following the July indexation. It re-indexes every July.
+
+It is a maximum, not a flat amount. It is worked out from your tax return. A single person receives the full amount below $23,000 in adjusted family net income, and it reduces by twenty cents for every dollar above that.
+
+So if yours is less than the maximum, that is normal and it is not a mistake. And Alberta deducts what you receive, not the maximum. If your CDB is $143, then $143 is what is counted, not $204.
+
+## A DOCUMENT I TOOK DOWN
+Our guide on what you can and cannot appeal has come off the website.
+
+It was built in July from a version of the regulation that had not been updated since 2022, and the list it reproduced is out of date. I am working through exactly what changed and a proper correction is coming, with the current list and what to do instead.
+
+I am telling you now rather than quietly swapping it out. If you relied on it for anything, message me and I will go through it with you.
+
+## SHORTER NOTES
+**Your doctor does not bill you for the DIA Medical Report.** The province pays the health professional directly and they invoice the region. If a clinic tries to charge you for that report, that is not right. Keep the letter they sent you, because it is the letter that tells your doctor how to invoice.
+
+That is a different thing from the Disability Tax Credit assessment, which is where the money people have been paying out of pocket has gone. Two different forms, two different governments, two different processes. I had them closer together in my own head than they should have been.
+
+**Psychological reports count.** The regulation says both AISH and ADAP accept relevant medical or psychological reports. What I do not yet know is whether a psychologist can complete the DIA form itself. I have asked. Until I hear back, if your strongest evidence is psychological, send it in alongside whatever else you have, and do not let anyone tell you it is lesser evidence.
+
+**Housing.** If you are in community housing, the change that raised rents already happened, back in October 2025. The Canada Child Benefit and Alberta Child and Family Benefit are announced to start counting as income for rent in 2027 and 2028. That has not been written into law yet, and I am watching for the moment it is.
+
+**Why nobody can give you a straight answer about earnings.** Because the amount you can earn before your benefit is reduced is not in the regulation at all. It is set by a Ministerial order. That is why every source you read gives a different number. I am trying to get the order.
+
+## IF YOU NEED SOMEBODY
+**Income Support Contact Centre 1-866-644-5135.** 24 hours, every day, including weekends and holidays.
+
+**211.** Call or text any time. Counselling, food, financial help, local supports. Text INFO to 211 if talking is hard.
+
+**Health Link 811.** Nurses and health advisors, always open.
+
+**Mental Health Help Line 1-877-303-2642.** 24 hours.
+
+**988.** Suicide crisis helpline, call or text, any time.
+
+## BEFORE YOU GO
+This week this community found a government recruitment page nobody had looked at. Somebody sent me a letter that corrected something I had wrong. Somebody caught an error in my own work. People got payments fixed, files unstuck, and questions answered because they asked out loud here.
+
+I mostly just check things afterwards.
+
+If your head is full, you do not have to hold all of this. Pick the one piece that is yours and let me carry the rest until you need it.`
+},
+{
   date: "2026-08-07",
   title: "Where Things Stand \u2014 August 7, 2026",
   body: `A long week. Here is everything that matters, in order of what is most likely to affect you.
