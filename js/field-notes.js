@@ -16,6 +16,66 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "What this community is for",
+        date: "2026-08-08",
+        body: `Welcome. This community exists for one reason: Alberta's disability income system changed, and people are being asked to navigate it without a map. We build the map together.
+
+A few things have come up enough times this month that they are worth writing down, so nobody has to guess and nobody feels singled out when I mention them.
+
+## WHAT WE COVER
+AISH and ADAP. Appeals, reassessments, medical reports, income rules, deductions, forms, letters and deadlines.
+
+The federal programs that connect to them. The Disability Tax Credit, the Canada Disability Benefit, the Canada Child Benefit, the RDSP.
+
+Housing, health benefits, AADL and the other systems that sit alongside disability income, because they interact and people get caught in the seams.
+
+And each other. Not everything here has to be a section number.
+
+## WHAT WE DO NOT DO
+**Individual benefit calculations.** I will not work out what your payment should be, and I would be careful of anybody who offers to. There are too many moving pieces, and if I get it wrong it costs you and not me. What I will do is help you ask them in writing for a breakdown, and read their answer with you.
+
+**Party politics.** We criticize policies, decisions and outcomes, with sources, all day long. What we do not do is line up behind or against a political party. The reason is practical: our documents get read by MLAs from more than one party, and by reporters, and by people looking for a reason to dismiss us. The moment this community reads as belonging to a side, everything we have documented gets waved off without being looked at.
+
+**Comparisons to Hitler, the Nazis or the Holocaust.** Not for any politician, not for any policy. Two reasons. We have members whose families were sterilized under Alberta's own eugenics laws within living memory, and members who lost family in the Holocaust. That language lands on them differently. And it costs us everything above. Stay angry. Aim it where it does something.
+
+**Medical advice, legal advice or diagnosis.** I am not a lawyer, a doctor or a benefits worker. Everything here is plain-language summary. Where it differs from the legislation, the legislation governs.
+
+## IMAGES
+Images of hate movements, violence, weapons or paramilitary displays need a written warning as the first line of your post, or share a link instead of the image. People scroll on hard days. Give them the choice.
+
+## HOW WE HANDLE INFORMATION
+**What a member was told is a lead, not a finding.** If a worker told you something, that is worth knowing and worth bringing here. It does not become guidance until it is sourced. This is not doubting you. It is protecting you, because guidance built on one phone call falls apart when somebody relies on it.
+
+**Sources beat confidence.** If you bring a claim with a link, I can check it. If you bring a claim without one, I will go looking. Either is welcome. Bringing the source makes it faster.
+
+**Corrections are made out loud.** When I get something wrong, I say so in the same thread, under my own name, and I do not quietly edit the original. I hold myself to that and it is why you can trust the rest.
+
+**On AI.** Plenty of us use it, myself included. It cannot see the Alberta regulations, so it will give you a confident answer built on federal announcements and get the provincial part wrong. That has happened here more than once. Use it, then bring what it told you here and I will check it against the source. Ask, always.
+
+## PRIVACY
+Do not post your file number, your full address, your phone number or your bank details, even in a screenshot. Cover them before you post. If you have already posted something like that, reach out to us and we will help you take it down.
+
+If you want to share your story publicly, I will ask you first, every time, and I will not use your name without you saying yes.
+
+## IF YOU ARE STRUGGLING
+**211.** Call or text any time, day or night. Counselling, food, financial help, local supports. Text INFO to 211 if talking is hard.
+
+**Health Link 811.** Nurses and health advisors, always open.
+
+**Mental Health Help Line 1-877-303-2642.** 24 hours.
+
+**988.** Suicide crisis helpline, call or text, any time.
+
+**Income Support Contact Centre 1-866-644-5135.** 24 hours, every day, including weekends and holidays.
+
+No shame in any of those numbers. We look after each other here.
+
+## ONE LAST THING
+If you turned up here confused, or apologizing for asking, or convinced everyone else understands this better than you do: you found the right place. That is why I am here.
+
+Nobody understands this system. It was not built to be understood. We work it out together and we write down what we learn so the next person does not start from nothing.`
+      },
+      {
         title: "Before you pay for a medical report: read this",
         date: "2026-08-07",
         body: `If you were moved from AISH to ADAP and you are thinking about reapplying for AISH, this affects you. Please read it before you book anything.
@@ -613,6 +673,74 @@ If you work and you are on AISH, save this. And if you know someone who works wh
     cat: "Myth-busting",
     blurb: "Scams, rumours, and official-looking posts, checked against the real source so the fear has somewhere to land.",
     items: [
+      {
+        title: "The federal change and the Alberta rule: why September 1 does not stop the clawback",
+        date: "2026-08-08",
+        body: `If you have seen something saying the Canada Disability Benefit is being reclassified so it can no longer be clawed back, you are not imagining it and you did not misread it. That announcement is real.
+
+Five different people asked me about it in one week. Every one of them read it the same way. Not one of them was being careless. The announcements read that way.
+
+So here is the whole thing, plainly, in the order it matters.
+
+## START WITH THE GOVERNMENT'S OWN WORDS
+The federal department listed the tax change under a heading called **Other changes**, and the line above that heading says those changes **do not affect how the Canada Disability Benefit is administered**. It calls them clarifications.
+
+That is the federal government describing its own amendment as housekeeping.
+
+If it had been built to end provincial clawbacks, it would not be sitting under that heading.
+
+## WHAT THE CHANGE DOES DO
+From September 1, 2026, the Canada Disability Benefit stops being treated as income under the federal Income Tax Act.
+
+The purpose, as the federal government explains it, is so that receiving the CDB does not reduce your other federal benefits. The Canada Child Benefit is the one they name.
+
+That is worth having. If you have children, your CCB stops being pulled down because of your CDB, and Alberta does not touch your CCB at all. That money is yours.
+
+It is a real gain. It is just not the gain people are hoping for.
+
+## WHY IT DOES NOT REACH ALBERTA
+The Alberta rule that counts your CDB has two separate parts.
+
+**The first part** counts income that is reportable under the federal Income Tax Act. That part does run through the federal tax system.
+
+**The second part** names the Canada Disability Benefit directly, by name, all on its own. It does not go through the Income Tax Act at all.
+
+So on September 1, the first part lets go of your CDB, and the second part is still holding it.
+
+Alberta does not need your CDB to be taxable income in order to count it. It wrote the benefit into the rule itself.
+
+That is the whole answer. Nothing about your AISH or ADAP payment changes that day.
+
+## WHAT OTTAWA SAYS ABOUT THIS
+This is the part I most want people to have, because it is the answer to anyone who says the campaign is aiming at the wrong government.
+
+The federal government's own briefing material says that provinces and territories are ultimately responsible for deciding how their programs treat the Canada Disability Benefit, and that the federal government has called on them to exempt it.
+
+Called on. Asked.
+
+That is the entire tool. There is no federal switch sitting unused. There is no switch.
+
+Two years after this benefit was created, with the clawback known and documented the whole time, nothing was built that would stop it.
+
+## SO WHAT WOULD END IT
+Alberta changing its own rule.
+
+The provision is in a schedule to an Alberta regulation. Alberta wrote it. Alberta can rewrite it. Nobody in Ottawa needs to agree, sign anything, or be persuaded.
+
+That is why I keep pointing people at their MLA rather than their MP on this one. Not because Ottawa has behaved well. Because your MLA is the address where a letter can change something.
+
+## THE SHORT VERSION, IF YOU ONLY REMEMBER ONE THING
+**The federal change was aimed at federal benefits, not at provinces.**
+
+If you hold onto that single sentence, the next announcement will not catch you out either.
+
+## WHAT THIS DOES NOT COVER
+There is a separate $150 payment coming from the federal government, starting September 2026 for some people and February 2027 for others. That is a different thing with different rules and I have written about it separately.
+
+Nothing here is legal advice. It is a plain-language summary. Where this and the legislation differ, the legislation governs.
+
+If your own amounts do not look right, ask the program in writing for a breakdown of what income was counted and what was deducted, and keep the reply. Written is the version that helps you later.`
+      },
       {
         title: "That phone number from the video \u2014 not verified",
         date: "2026-07-18",

@@ -238,6 +238,89 @@ Please reply in writing. If any of the above has already been sent to me, please
 Date sent: [DATE]`
   },
   {
+    id: "written-questions-department",
+    title: "Written questions to the department \u2014 medical report, DTC cost, $150 supplemental, appeal panel",
+    blurb: "The open questions the community has not been able to get answered, put to the department in writing. Five parts: the federal $150 supplemental and whether it is excluded from income; the Disability Tax Credit assessment cost and the repayable advance; the DIA Medical Report and who pays the examination component; whether the Medical Appeal Panel has actually been constituted; and whether reinstatement reaches people transferred on July 2. Every question asks for the policy manual section the answer rests on, because a verbal answer cannot be relied on later when a decision is reviewed. This is long on purpose. You are not expected to send all of it \u2014 delete every part that does not apply to you and send the rest.",
+    to: "adapengagement@gov.ab.ca",
+    cc: "alss.minister@gov.ab.ca",
+    toHint: "Send to <b>adapengagement@gov.ab.ca</b>, copied to <b>alss.minister@gov.ab.ca</b>. Keep your sent copy and any automatic reply \u2014 that is your proof of the date.",
+    subject: "Written questions \u2014 DIA Medical Report, DTC assessment cost, Canada Disability Benefit supplemental payment, Medical Appeal Panel",
+    note: "This is the long version. Almost nobody needs all five parts. Pick the ones that touch your own situation, delete the rest, and renumber if you like \u2014 a short letter that gets sent beats a complete one that sits in drafts. The thirty day line at the end matters: if they do not answer within thirty business days that counts as a refusal, and you can ask the Information and Privacy Commissioner to review it, free, at oipc.ab.ca. And if several of us send the same questions and get different answers back, that tells us something none of us can see alone. Send us what comes back.",
+    body:
+`Dear Sir or Madam,
+
+I am one of the Albertans affected by the transition from the Assured Income for the Severely Handicapped program to the Alberta Disability Assistance Program.
+
+The questions below concern amounts of money recipients are being asked to pay or repay, and whether an appeal route is currently operational. I am asking in writing so that the answer can be relied on. I would be grateful for a written response and, where an answer rests on policy, the manual section that states it. Verbal answers cannot be relied on by a recipient when a decision is later reviewed.
+
+PART A \u2014 THE FEDERAL SUPPLEMENTAL PAYMENT OF $150
+
+The Government of Canada begins paying a supplemental amount of $150 to Canada Disability Benefit recipients in September 2026, with further phases from February 2027. Its stated purpose is to offset the cost of applying for the Disability Tax Credit.
+
+Schedule 1, section 1(1)(e)(i) of AR 96/2026 excludes from income a Canada Disability Benefit payment made for the purpose of offsetting a person's cost of applying for a disability tax credit under section 118.3(1) of the Income Tax Act (Canada).
+
+A1. Will the $150 supplemental payment be identified separately from a recipient's regular Canada Disability Benefit payment when income is reported and assessed, so that the exclusion at Schedule 1 section 1(1)(e)(i) is applied?
+
+A2. If a report shows a single combined figure for a month in which the supplemental payment arrives, what process ensures the supplemental portion is excluded rather than counted?
+
+A3. What should a recipient do, and what documentation should they retain, if the supplemental payment is counted as income in error?
+
+PART B \u2014 THE DISABILITY TAX CREDIT ASSESSMENT COST AND THE REPAYABLE ADVANCE
+
+I understand from the Minister's correspondence that where the province covers the cost of a Disability Tax Credit assessment for a person moving from AISH to ADAP, that coverage is provided as a repayable advance. I am aware of a recipient who paid $400 for a Disability Tax Credit application to be completed, received that amount as an advance, and had it recovered in full across two subsequent payments.
+
+B1. Where a client received the Disability Tax Credit assessment cost as a repayable advance, and subsequently receives the federal $150 supplemental payment for that same cost, is the advance recovered, and if so by what mechanism and under which provision?
+
+B2. Is the amount advanced capped, and if so at what amount and under what authority? Where a practitioner charges more than the covered amount, who bears the difference?
+
+B3. What is the position of clients who paid their own Disability Tax Credit assessment costs before provincial coverage was made available? Is any reimbursement or credit available to them, and if not, is that outcome intended?
+
+B4. A Program Delivery Supervisor confirmed in writing on August 7, 2026 that the process for requesting the covered assessment has not been finalized. What is the current status of that process, when will it be finalized, and what should a client who requires an assessment now be advised to do in the interim?
+
+PART C \u2014 THE DISABILITY INCOME ASSISTANCE MEDICAL REPORT
+
+I understand that form 1587 (Rev. 2026-07), "Confirmation of Payment Disability Assistance Medical Report," issued by a regional Disability Income Assistance Coordinator, states that the Government of Alberta will pay the health professional completing the DIA Medical Report on a fee-for-service equivalent to the Alberta Health Schedule of Medical Benefits, Code 03.04A or equivalent specialty code, for the examination, plus the fee agreed with the Alberta Medical Association for report completion, and that the practitioner invoices the region directly.
+
+C1. Is form 1587 the standard letter issued to all clients required to provide a DIA Medical Report, and is the payment mechanism it describes, the practitioner invoicing the department directly with no charge to the client, the standard mechanism province-wide?
+
+C2. What amount does the examination component (Code 03.04A or equivalent specialty code) pay? I ask because this component appears to be where any gap arises between the amount covered and the amount a practitioner charges, and no figure for it appears in any published material I have been able to find.
+
+C3. Where a practitioner charges a client directly rather than invoicing the department, what recourse does the client have?
+
+C4. Are the DIA Medical Report and the AISH Medical Report the same instrument? If they are not, which fee schedule applies to each?
+
+C5. Form 1587 names a physician or nurse practitioner as the health professional whose completion of the report will be paid for. Sections 3(2)(a)(i) and 4(2)(a)(i) of AR 96/2026 both accept relevant medical or psychological reports that diagnose and substantiate the existence and likely duration of an impairment. May a registered psychologist complete the DIA Medical Report? If not, will a psychologist's report be accepted as a report under sections 3(2)(a)(i) or 4(2)(a)(i), and will the province pay for it?
+
+PART D \u2014 THE MEDICAL APPEAL PANEL
+
+A recruitment posting for the Medical Appeal Panel (competition 875) opened on March 10, 2026 and closed on April 28, 2026, seeking a Chair, two Vice-Chairs and up to 30 members. As at August 8, 2026 the posted status remains "Approval in Progress." The AISH to ADAP transition took legal effect on July 2, 2026.
+
+D1. Has the Medical Appeal Panel been constituted? If so, when were the Chair, Vice-Chairs and members appointed?
+
+D2. If it has not been constituted, how are medical appeals filed on or after July 2, 2026 being handled, and what is being communicated to appellants about timelines?
+
+D3. The posting requires experience as a health professional under the Health Professions Act for every position, and lists knowledge of disabilities and experience in the employment of persons with disabilities only as assets. Is there any requirement or provision for lived experience of disability among panel members?
+
+PART E \u2014 REINSTATEMENT AND THE TRANSFER
+
+E1. Does the transfer of a client from AISH to ADAP on July 2, 2026 constitute ceasing to meet an eligibility requirement for the purposes of section 2(2) of AR 89/2007?
+
+E2. Where the discretionary waiver at section 2(2) applies, does it waive the requirement for a fresh application and a new medical report, or does it prioritize an application that must still be made in full?
+
+I would be grateful for a response within thirty days. Where a question cannot be answered within that time, I would appreciate an acknowledgement identifying which questions remain outstanding and when an answer can be expected.
+
+I intend to share any answer I receive with other recipients affected, accurately and in full, including any answer that is unwelcome. If any part of this letter has misdescribed a departmental position, I would welcome the correction.
+
+Yours sincerely,
+
+[FULL NAME]
+[FILE NUMBER, IF YOU HAVE ONE]
+[MAILING ADDRESS]
+[PHONE NUMBER]
+[EMAIL ADDRESS]
+Date sent: [DATE]`
+  },
+  {
     id: "appeal-status-aish-ineligibility",
     title: "Appeal status \u2014 AISH ineligibility, appeal filed before 2 July 2026",
     blurb: "For anyone who appealed a decision that they were not eligible for AISH, filed that appeal before 2 July 2026, and has heard nothing since. This letter names section 12.5(1) of the Assured Income for the Severely Handicapped Act, which provides that an appeal against a director's determination under section 3 of the former Act, not decided before 2 July 2026, continues and must be dealt with under the former Act. Naming the provision is the point: it asks them to confirm which rules your appeal is being handled under, rather than leaving it to sit.",
