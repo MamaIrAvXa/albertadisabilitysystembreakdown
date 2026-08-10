@@ -16,6 +16,120 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "If your payment hasn't arrived, here is what worked today",
+        date: "2026-08-10",
+        body: `A member of this community went thirteen days past her deposit date. Days of high call volume messages and no answers.
+
+Today she went above the call centre. Within hours: a supervisor on the phone, a deposit confirmed for tomorrow, an email confirming it in writing, and an emergency food benefit approved.
+
+Here is the ladder, because most people don't know there is one.
+
+## 1. THE CALL CENTRE IS THE BOTTOM RUNG, NOT THE ONLY RUNG
+AISH and ADAP benefit inquiries: **1-833-382-4081**
+
+If you're getting nowhere, stop redialing. Go up.
+
+## 2. ALBERTA SUPPORTS CAN ROUTE YOU
+**1-877-644-9992**, Monday to Friday, 7:30 am to 8:00 pm.
+
+Say plainly that you want the matter escalated to a program supervisor.
+
+## 3. THE MINISTRY'S MEDIA LINE, AND YES, REALLY
+**780-643-6210**
+
+I want to be straight about what this is, so nobody is caught off guard. This is the publicly listed contact for the press secretary at Assisted Living and Social Services. It's on alberta.ca's media inquiries page. It is not a client service line and it is not staffed to handle your file.
+
+Our member called it today after the client lines gave her nothing. She left a message describing what had happened. She had a call back from an AISH program supervisor, and her payment was confirmed.
+
+If you call, keep it short and factual. Your name, that your payment is overdue, how many days, and that you've been unable to get an answer through the regular lines. You will most likely be routed rather than helped on the spot. Routed is the point.
+
+And notice what this means. The press secretary at that number is the person who told CBC that every payment issue would be corrected in full by July 31. Our member was still unpaid on August 10. The office that made the promise is the office that finally moved her file.
+
+## 4. EMERGENCY BENEFITS EXIST AND YOU CAN GET THEM TODAY
+The 24-hour Income Support Contact Centre runs every day, evenings, weekends and holidays.
+
+**780-644-5135** or toll free **1-866-644-5135**
+
+Email: css.iscc@gov.ab.ca
+
+Emergency help for basic needs including food, shelter and transportation. Food and transportation can be sent by Interac e-Transfer.
+
+Pre-apply online at emergencybenefits.alberta.ca, then phone to confirm eligibility. Doing the online part first speeds up the call.
+
+## 5. YOUR MLA'S CONSTITUENCY OFFICE
+A call from a constituency office moves faster than anything you can do alone. They do this every week. They'll need your written consent to speak about your file, so ask for the form on the first call.
+
+## 6. THE ALBERTA OMBUDSMAN
+**1-888-455-2756**
+
+For procedural failures once you've tried the program. Slower, and not the tool for money this week, but it builds the record.
+
+Within Alberta, dial **310-0000** first and any toll free number is free.
+
+## TWO THINGS, EVERY TIME
+Get it in writing. Our member has an email confirming her deposit. A verbal promise from a call centre is worth almost nothing three weeks later.
+
+Write down who you spoke to and when.
+
+## AND THIS PART MATTERS
+The department stated publicly that all August payment errors were corrected in full by July 31. One of our members was still unpaid on August 10. If you are still waiting, you are not an isolated case and you have done nothing wrong.
+
+If you're in this, tell us. Your town, and roughly when your deposit was due. No file numbers, no personal details. The official position is that nobody is still waiting. The only way to change that is to show otherwise.
+
+Waiting on money you were counting on is frightening, and thirteen days of it is worse. If tonight is heavy, **988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
+        title: "Money you may already qualify for and nobody told you about",
+        date: "2026-08-10",
+        body: `A member of this community found something by accident that she'd been eligible for the whole time. She's given me permission to share it because she wants the rest of you to know.
+
+It's called the **CPP Child Rearing Provision**.
+
+## WHAT IT IS
+If you stopped working, or cut your hours, to care for a child under seven, those low earning years drag down your CPP calculation. The Child Rearing Provision takes them out of the math.
+
+It isn't a separate benefit. Nobody hands you a new cheque. It changes how your CPP is worked out, and Service Canada only applies it if it makes your amount higher. It can never make anything lower.
+
+## WHY THIS MATTERS RIGHT NOW
+Our member applied about ten months ago, after finding out about it by chance. She'd stayed home with three kids. Service Canada recalculated her benefit and paid her the difference going back. Just over $7,000 landed in her account shortly before she retired.
+
+She told her friends afterward. Not one of them had heard of it either.
+
+## WHO MIGHT QUALIFY
+- Your children were born after December 31, 1958
+- You were the main person looking after a child under seven
+- Your earnings dropped, or stopped, during that time
+- You or your partner received Family Allowance, or qualified for the Canada Child Benefit, even if you didn't actually receive it
+
+It doesn't only apply to people who quit work entirely. Reduced hours count.
+
+Either parent can claim it, but not both for the same period.
+
+## TWO DIFFERENT SITUATIONS, AND THEY MATTER
+If you're already receiving CPP or CPP disability and never applied for this, you're in the same position she was. Contact Service Canada and ask them to apply the provision. They can adjust it retroactively. This is where the lump sums come from.
+
+If you're not receiving CPP or CPP disability yet, there's no benefit to recalculate, so don't expect a payment. What it does instead is sit on your record and raise whatever you eventually receive.
+
+But there's something in it for you too, and it may matter more. The provision can help someone meet the contribution requirements for CPP disability who otherwise wouldn't. If a gap in your work history is what's been standing between you and CPP disability, this could change that answer. Ask Service Canada directly whether, with the child-rearing provision applied, you meet the contributory requirements.
+
+## HOW TO ASK
+Through your My Service Canada Account, or by calling Service Canada. It is not applied automatically and nobody will offer it. You have to raise it.
+
+If you're applying for a CPP benefit now, the child-rearing section is part of the application. If you're already collecting, there's a separate request form.
+
+## BEFORE YOU SPEND ANYTHING
+If money does come your way, and especially a retroactive lump sum, a lump sum sitting in a bank account is treated differently than monthly income, and ADAP has an asset limit. Ask the program in writing how it will be treated before it arrives. Get the answer on paper.
+
+Ask Service Canada first. There's no point asking Alberta about money that may not exist.
+
+## WHY I'M POSTING THIS
+Our member's words, and I can't put it better: it's all about helping people in different ways, and financial is very important.
+
+She found this by accident. So did every friend she told. That's a federal provision paying real money that you have to already know about in order to get.
+
+If you raised kids and your earnings dropped while you did it, make the call.`
+      },
+      {
         title: "What this community is for",
         date: "2026-08-08",
         body: `Welcome. This community exists for one reason: Alberta's disability income system changed, and people are being asked to navigate it without a map. We build the map together.
