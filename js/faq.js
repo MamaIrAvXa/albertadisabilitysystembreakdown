@@ -14,11 +14,17 @@ const FAQ = [
     items: [
       {
         q: `What happened on July 2, 2026?`,
-        a: `Alberta split its disability income support into two programs. On July 2, roughly 46,000 to 50,000 people were moved from AISH to the new Alberta Disability Assistance Program (ADAP). If you were one of them, you did not have to do anything for the move itself — it happened automatically.`
+        a: `Alberta split its disability income support into two programs. On July 2, a large share of AISH clients were moved to the new Alberta Disability Assistance Program (ADAP). If you were one of them, you did not have to do anything for the move itself — the government identified and notified people who met the automatic-approval criteria before July 2026, and no action was needed.
+
+One thing we want to be straight about. The figure "roughly 46,000 to 50,000 people" has been repeated in a lot of places, including here. We have gone looking for it three times now and cannot trace it to any government document, so we have taken it out rather than keep passing it along. The 26,800 figure you may also see is from the employment contracts — an estimate of referrals over three years, not a count of who moved in July. _(automatic-approval process confirmed against the ADAP fact sheet, August 2026; transitioned headcount not confirmed against any primary source)_`
       },
       {
         q: `If I was moved to ADAP, should my payment be different right now?`,
-        a: `No — not right now. If you were moved, a $200-a-month transition top-up fills the gap, so your total should stay the same until the end of 2027. After that it drops by $200 unless the rules change. Brand-new applicants — people who were never on AISH and apply for the first time after the switch — start at the lower amount with no top-up. If your money *did* change and you were moved, that is worth a written question to the program; it should not have. _(as of July 2026)_`
+        a: `No — not right now. If you were moved, a $200-a-month transition top-up fills the gap, so your total should stay the same through to December 31, 2027.
+
+Be careful with the date here, because a wrong one is circulating. The drop arrives with the **January 2028** payment, not January 2027. If someone has told you your money falls next winter, they are a year out.
+
+Brand-new applicants — people who were never on AISH and apply for the first time after the switch — start at the lower amount with no top-up. If your money *did* change and you were moved, that is worth a written question to the program; it should not have. _(top-up and its December 31, 2027 end date confirmed against the ADAP page and fact sheet, August 2026)_`
       },
       {
         q: `If I stay on AISH but choose to move to ADAP later, do I keep the $200 transition top-up?`,
@@ -27,7 +33,7 @@ const FAQ = [
 - If you and your partner both get AISH or ADAP, the $200 top-up is **not** cut down to 88% the way the base living allowance is — you keep the full $200.
 - The usual $5,000 non-exempt asset limit that applies to most personal benefits is **waived** for the transition benefit — you can hold more than $5,000 and still receive it.
 
-As a general habit with any benefit, it never hurts to ask the program to note your top-up in writing — but this is a confirmed entitlement, not an uncertain one. _(confirmed against the DIA Policy Manual, as of July 2026)_`
+As a general habit with any benefit, ask the program to note your top-up in writing. One caution on those two bonuses: we confirmed both against the policy manual in July 2026 and have not been able to re-open it since. If your own deposit does not match, ask for a written breakdown rather than assuming. _(confirmed against the DIA Policy Manual in July 2026; not re-verified since)_`
       }
     ]
   },
@@ -36,7 +42,9 @@ As a general habit with any benefit, it never hurts to ask the program to note y
     items: [
       {
         q: `My partner and I both get AISH or ADAP — when and why does our money drop?`,
-        a: `When two adults in the same home both get AISH or ADAP, each of you moves to 88 percent of the individual maximum — about 88 cents on the dollar each. It means two disabled people who live together receive less than two disabled people who live apart. On the amounts: an AISH couple move to $1,708 each and an ADAP couple to $1,532 each (88% of the $1,940 and $1,740 maximums).
+        a: `When two adults in the same home both get AISH or ADAP, each of you moves to 88 percent of the individual maximum — about 88 cents on the dollar each. It means two disabled people who live together receive less than two disabled people who live apart. On the amounts: 88% of the $1,940 AISH maximum works out to **$1,707.20** each, and 88% of the $1,740 ADAP maximum to **$1,531.20** each. Treat those as our arithmetic, not official figures — the government publishes the 88% rule and it publishes the maximums, but it does not publish couple dollar amounts anywhere we can find.
+
+One thing to watch if you were moved from AISH. We confirmed against the policy manual in July 2026 that the $200 transition top-up is **not** cut to 88% the way the base rate is, but we have not been able to re-open the manual since. If that still holds, your amount will be higher than the figure above. Ask in writing for a breakdown of how your own amount was calculated.
 
 Timing matters here so you watch the right deposit: ADAP's base rate itself began July 2, 2026, but the **88% couple reduction specifically starts the August 2026 benefit period**, and August payments usually land in the last days of July. So watch your late-July deposit, and if it is not what you expect, ask in writing for a breakdown. _(88% couple rule effective August 2026 benefit period, per the government's ADAP page and fact sheet)_`
       },
@@ -47,6 +55,14 @@ Timing matters here so you watch the right deposit: ADAP's base rate itself bega
       {
         q: `Does the $100 Alberta energy rebate count against my AISH or ADAP?`,
         a: `No — this one is good news. The one-time $100 Alberta Energy Rebate is non-taxable and, in the government's own words, "will not affect other government benefits" — so it does not reduce AISH, ADAP, or Income Support. If you are on AISH, ADAP, Income Support, or the Alberta Seniors Benefit, you are **automatically enrolled** and do not have to apply. (People who start on these programs after July 1, 2026 need to apply through the online portal.) Take it with no worry. _(confirmed on the government's Alberta Energy Rebate page)_`
+      },
+      {
+        q: `My partner gets a pension — how much of it counts against my benefits?`,
+        a: `Less than it used to, and this is one of the few recent changes that went the right way. As of July 2026, the first **$1,200 a month** of a spouse or cohabiting partner's pension income is fully exempt, and **25 percent of whatever is left** is exempt as well. Only the remainder is counted.
+
+Pension income here means things like CPP Disability, Employment Insurance and Workers' Compensation paid to your partner — not their wages from a job.
+
+Be careful not to mix this up with employment income. There are figures circulating for how much a partner can *earn* from work before it affects your benefits, and we have not been able to trace those to any government document. This pension exemption we can. _(confirmed on the government's ADAP fact sheet, August 2026)_`
       },
       {
         q: `Do I have to apply for the Canada Disability Benefit if Alberta just takes it back?`,
@@ -124,6 +140,20 @@ Timing matters here so you watch the right deposit: ADAP's base rate itself bega
       {
         q: `What if my disability means I cannot take part in the employment programming at all?`,
         a: `You can send a formal written notice to ADAP saying so and requesting accommodation in writing. Here is why it is worth doing: if they accommodate you, you get the exemption you need; if they refuse or go silent, you now hold written proof that they required participation and would not address the barrier that makes it impossible. Either way, the record lands on your side.`
+      },
+      {
+        q: `How much can I earn before it affects my AISH or ADAP?`,
+        a: `There are published figures for some situations, and gaps we will not guess at.
+
+- **On AISH**, with or without dependents: **$350** a month is exempt, and anything above that comes off dollar for dollar.
+- **On ADAP, single**: **$700** a month is fully exempt.
+- **On ADAP**, you can earn up to **$45,240** a year in employment income and still receive some financial benefit. The government calls this the highest such limit in Canada.
+
+Above $700, ADAP earnings are deducted on a sliding scale the government describes as starting at less than a cent per dollar and increasing sharply as you approach $45,000 a year. It has not published that schedule, so nobody can tell you what your deduction will be at a given wage.
+
+For a cohabiting partner's employment income, and for clients with dependents, there are several figures circulating and they do not agree with each other. Some come from advocacy analysis of the program as it was originally proposed rather than from the government. We are not repeating a number we cannot source. Ask in writing what exemption applies to your file and what instrument sets it.
+
+One hard rule underneath all of this: report every pay on time. If income is not reported on time, the exemptions may not apply at all — not reduced, do not apply. We are still checking which instrument sets that, so treat it as a reason to report on time rather than a penalty we can quote to you. _(AISH $350 per Your Guide to Disability Income Assistance, July 2026 edition; ADAP $700 and $45,240 per the government's ADAP page and fact sheet, August 2026)_`
       },
       {
         q: `Can they cut my ADAP benefit if my health forces me to reduce my work hours?`,
