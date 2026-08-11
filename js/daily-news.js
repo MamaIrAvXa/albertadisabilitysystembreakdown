@@ -9,6 +9,108 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-10",
+  title: "Where Things Stand \u2014 August 10, 2026",
+  body: `Today was a big day in this community, so this one leads with what we learned rather than what was announced.
+
+## THE PAYMENT PROBLEM IS NOT FIXED
+The government has said the August payment errors were corrected in full. The date has been given as July 29 in one place and July 31 in another.
+
+Today, in this community, one member was still unpaid on August 10. Thirteen days past her deposit date. She has written confirmation from a program supervisor that her payment was reissued on August 7 and is scheduled to land August 11. Another member wrote in tonight to say his wife still hasn't been paid either.
+
+So whatever the government's records show, people in this community are still waiting. If that's you, you're not an isolated case and you haven't done anything wrong.
+
+There is now a full escalation ladder in the Field Notes section, with every route verified against the government's own pages. The short version is that the call centre is the bottom rung and there are five more above it. Please use it rather than sitting on hold.
+
+And if money is tight while you wait, the 24 hour line is **780-644-5135** or **1-866-644-5135**. Emergency food and transportation can go out by e-transfer. You can pre-apply at emergencybenefits.alberta.ca first to speed up the call. Do not wait until everything is gone.
+
+## THE COUPLE RULE IS LIVE
+If two adults in one household both get AISH or ADAP, each of you now gets 88% of the individual maximum. That's a cut of about $233 each, roughly $466 for the two of you, starting with this month's payment.
+
+One thing nobody has explained is why this starts in the August benefit period rather than at the transition on July 2. I've asked.
+
+## THE FEDERAL $150
+The one time $150 supplement on the Canada Disability Benefit is confirmed, with the first wave scheduled for September 17. No application needed federally.
+
+Whether Alberta recipients keep any of it is still not confirmed. I wrote at length about this a few days ago and my position hasn't changed. Don't budget on it. If it arrives, keep whatever paperwork shows it landing as its own separate amount.
+
+The regular CDB amount is $204.20 a month, not $200. If you see $200 anywhere, including on one of Alberta's own pages, that's last year's number.
+
+## THE ENERGY REBATE
+If you're on AISH, ADAP or Income Support you're enrolled automatically and don't need to apply. For anyone else in your household who isn't on a benefit, the application window closes September 30.
+
+## THE EARNINGS NUMBER, AGAIN
+The government's ADAP fact sheet says $700 a month is exempt for a single person. But the ministerial order that actually sets these amounts in law still hasn't been published anywhere I can find, and the figures circulating for partners and for people with dependents can't be traced to any government document at all.
+
+So if someone quotes you a confident number for a partner's earnings, ask them where it's written down. I've been chasing it for weeks and I can't find it.
+
+One thing that is settled and matters more than the number. Report every pay on time. If you report late, you can lose the entire earnings exemption, not just part of it.
+
+## THE THING I KEEP SAYING
+There is no reassessment deadline. The eighteen months people keep hearing about is the transition benefit, which is how long moved clients keep the $1,940 amount. It is not a clock on anything you have to do.
+
+If you moved to ADAP and want to be assessed for AISH, the government covers one medical assessment, it has no expiry, and you have to ask for it. Your nurse practitioner can complete the medical report. It is not physician only, whatever a clinic tells you.
+
+## TWO THINGS WE ARE ASKING FOR
+If you are still waiting on an August payment, tell us your town and roughly when your deposit was due. No file numbers, no personal details. The official position is that nobody is still waiting.
+
+If you've had contact from an employment services contractor since July 2, a call, a letter or an appointment, tell us that too. Your town, the month, and the company name if they gave one.
+
+Nobody outside the department can see either pattern. Together we can.
+
+## IF TONIGHT IS HEAVY
+Waiting on money you were counting on is frightening, and nearly two weeks of it is worse. **988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
+  date: "2026-08-09",
+  title: "Where Things Stand \u2014 August 9, 2026",
+  body: `Here is where things sit tonight.
+
+## THE AUGUST PAYMENT ERRORS
+The new payment software paid roughly 2% of AISH and ADAP recipients the wrong amount in August. Some got too much, some too little, some got nothing at all. The government now says every case was corrected in full by July 31.
+
+That's the government's statement, not something anyone outside the department has checked. So please look at your own deposit. If yours is still wrong, call Alberta Supports and ask for the correction in writing.
+
+## THE COUPLE RULE IS NOW LIVE
+If two adults in one household both receive AISH or ADAP, each of you now gets 88% of the individual maximum. That's $1,707.20 each on the $1,940 rate, which is $232.80 less per person, or about $466 less for the two of you together. It started with this month's payment.
+
+## CHILD BENEFIT CHANGES
+Child benefit rates were recalibrated this month. The government says about 7,000 families will see an increase. What that announcement leaves out is that families with four or more children can come out worse under the new per-child schedule. Check your own statement against last month's rather than assuming.
+
+## THE FEDERAL BENEFIT IS $204.20, NOT $200
+The Canada Disability Benefit went up to $204.20 a month for the benefit year running July 2026 to June 2027. If you see $200 quoted anywhere, that's last year's number.
+
+Alberta still subtracts the full amount off your provincial cheque. We remain the only province doing this.
+
+## SEPTEMBER 1: A ONE TIME $150
+Changes to the federal benefit rules take effect September 1, and a one time $150 payment goes out to recipients in September. It's meant to help with the cost of getting the Disability Tax Credit form filled in.
+
+Whether Alberta recipients keep any of it is not confirmed. I'm not going to tell you it's safe when I don't know. Watch for it, and tell us what happens on your statement.
+
+## THE $100 ENERGY REBATE
+If you're on AISH, ADAP, or Income Support, you're enrolled automatically. You don't need to apply. The government says it will not be deducted from your benefits. If it shows up as a deduction on your statement, that's an error and you should report it.
+
+For everyone else in your household who isn't on a benefit, the application portal closes September 30.
+
+## THE EARNINGS NUMBER STILL ISN'T PUBLISHED
+How much you can earn before your cheque gets cut is set by a ministerial order. That order still hasn't been issued or published anywhere I can find. That means every figure circulating right now, and there are several, is not law.
+
+Two things that matter while we wait. Report your earnings on time, every time. If you report late, you can lose the whole earnings allowance, not just part of it. And if anyone tells you a specific number with confidence, ask them where it's written down.
+
+## THE THING I KEEP REPEATING
+There is no reassessment deadline. The 18 months people keep hearing about is the transition benefit period, which is how long transferred clients keep the $1,940 amount. It is not a clock on asking for an AISH reassessment.
+
+If you moved to ADAP and want to be assessed for AISH, the government covers one medical assessment. It has no expiry date. It also isn't automatic, so you have to ask for it.
+
+## ONE THING WE ARE ASKING FOR
+If you've had contact from an employment services contractor since July 2, a call, a letter, or an appointment, please tell us. We'd like to know your town, the month, how they reached you, and the company name if they gave one. No file numbers and no personal details.
+
+Nobody outside the department can see the pattern in who's being contacted first. If enough of us report it, we can.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**. The **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day if you have no money tonight.`
+},
+{
   date: "2026-08-08",
   title: "Where Things Stand \u2014 August 8, 2026",
   body: `Welcome in. This has been a heavy week and there is a lot moving at once, so I have put it all in one place. Take what is yours and leave the rest. Nothing here has a deadline attached to it.
