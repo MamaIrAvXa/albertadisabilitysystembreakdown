@@ -207,6 +207,96 @@ Date: [today's date]
 Regulation references are to AR 96/2026 as in force July 2, 2026.`
   },
   {
+    id: "disclosure-mla",
+    title: "Disclosure at an employment assessment \u2014 raise it with your MLA",
+    blurb: "For anyone who has been asked to hand a diagnosis and medical history to AKG or Serco during an ADAP employment assessment. This raises it with your MLA as a pattern affecting constituents, not just one file, and asks them to put three specific questions to the Minister in writing. Works whether you are writing about your own assessment or raising it on behalf of disabled people in your community.",
+    to: "",
+    toHint: "Find your own MLA at <b>contact.assembly.ab.ca</b>. This has to go to the MLA for the constituency you live in \u2014 a constituency office can only act for its own constituents. If you are a constituent, say so in the first line; it matters.",
+    cc: "alss.minister@gov.ab.ca",
+    ccHint: "Copying the Minister for Assisted Living and Social Services puts the concern on the record directly as well as through your MLA.",
+    subject: "Constituent concern \u2014 disabled Albertans being asked to disclose medical information to ADAP employment contractors",
+    note: "Your MLA will usually need your written consent before they can ask the department anything about your own file, so expect a consent form to come back \u2014 ask for it on the first contact if you want to move quickly. Two things make this letter land: say in the first line that you live in the constituency, and keep any account of your own experience factual and short. The three numbered questions are the part that does the work, because they are answerable and specific. Send us whatever comes back \u2014 if several MLAs ask the same three questions and the answers differ, that tells us something none of us can see alone.",
+    body:
+`Dear [MLA NAME],
+
+My name is [FULL NAME] and I live in [TOWN], in your constituency. [CHOOSE ONE AND DELETE THE OTHERS: I receive ADAP. / I am writing on behalf of a family member who receives ADAP. / I am raising a concern on behalf of disabled people in our community.]
+
+I am writing about the employment assessments that ADAP recipients are being sent to, run by private contractors (AKG in the north, Serco in the south). I have a specific concern about them, and I am asking for your help.
+
+People who were already found eligible for disability benefits are being asked, during these employment assessments, to disclose their diagnosis and medical history to the contractor. In at least one documented case, the person was told the medical part was voluntary, and then the assessment kept asking for the diagnosis anyway until the person had to refuse.
+
+This concerns me for a few reasons. The contractor does not decide eligibility \u2014 that was already decided by a government adjudicator before the person ever reached them. So it is not clear why an employment contractor needs a person's diagnosis at all. And being told something is voluntary and then pressed for it anyway is not a fair process for people who are, by definition, in a vulnerable position.
+
+[OPTIONAL, IF THIS HAPPENED TO YOU: In my own case, [DESCRIBE BRIEFLY AND FACTUALLY WHAT HAPPENED, ONE OR TWO SENTENCES].]
+
+I am asking you to:
+
+1. Ask the Minister of Assisted Living and Social Services, in writing, what medical information ADAP recipients are required to disclose to employment contractors, and under what authority.
+
+2. Ask whether declining to disclose a diagnosis to a contractor can affect a person's benefits.
+
+3. Ask what information the contractors receive from the department, and what they send back.
+
+Two documents setting out the concern and the relevant law in detail are published at albertadisabilitysystembreakdown.netlify.app \u2014 a plain-language guide and a full rights map with every provision quoted from the primary instrument.
+
+I would be grateful for a written response, and for your help getting clear answers from the department.
+
+Thank you for your time.
+
+[FULL NAME]
+[MAILING ADDRESS, SO THEY CAN CONFIRM YOU ARE A CONSTITUENT]
+[PHONE NUMBER OR EMAIL]
+Date sent: [DATE]`
+  },
+  {
+    id: "disclosure-lawyer",
+    title: "Disclosure at an employment assessment \u2014 asking a lawyer for advice",
+    blurb: "An intake message, not a legal argument. It describes what happened to you and asks whether a lawyer can advise or refer you. Good places to start: your local legal aid or community legal clinic, a lawyer who does administrative or human rights law, or a disability advocacy organisation that can refer you. Your job here is to say clearly what happened; working out the legal questions is theirs.",
+    to: "",
+    toHint: "There is no single address for this one \u2014 it goes to whichever clinic, lawyer or advocacy organisation you are approaching. Legal Aid Alberta and community legal clinics are the usual starting points, and many offer a free or low-cost first consultation.",
+    cc: "",
+    subject: "Requesting advice \u2014 ADAP employment assessment and medical disclosure",
+    note: "Keep it to the facts: what happened, when, and what you were told. You do not need to argue the law, and a lawyer will generally prefer that you did not \u2014 they will work out what the legal questions are from a clear account. Fill in every bracketed line with your own details and delete the ones that do not apply, so it reads as yours rather than as a template. The cost line at the end is there on purpose; say it plainly, because many clinics work on exactly that basis.",
+    body:
+`Dear [LAWYER OR CLINIC NAME],
+
+My name is [FULL NAME] and I live in [TOWN], Alberta. I am asking whether you are able to advise me, or refer me to someone who can, about a situation involving my disability benefits.
+
+I receive ADAP (Alberta Disability Assistance Program). As part of that program I was sent to an employment assessment run by a private contractor [NAME THE CONTRACTOR IF YOU KNOW IT]. During that assessment I was asked to disclose my diagnosis and medical history to the contractor.
+
+Here is what happened, as clearly as I can put it:
+
+- [WHEN THE ASSESSMENT WAS, AND HOW MANY SESSIONS]
+
+- [WHAT YOU WERE TOLD ABOUT WHETHER THE MEDICAL QUESTIONS WERE VOLUNTARY]
+
+- [WHAT YOU WERE ASKED TO SHARE]
+
+- [WHETHER YOU SHARED IT, DECLINED, OR FELT PRESSURED]
+
+- [ANYTHING YOU WERE TOLD ABOUT CONSEQUENCES FOR YOUR BENEFITS]
+
+My understanding is that my eligibility for disability benefits was already decided by a government adjudicator before I was sent to this contractor, so I do not understand why an employment contractor needs my diagnosis. I am concerned about my privacy and about whether declining to share could affect my benefits.
+
+There are two documents setting out the issue and the relevant Alberta and federal law, published at albertadisabilitysystembreakdown.netlify.app, which I can send you. I am not asking you to rely on those, only offering them as background.
+
+My questions are:
+
+1. Am I required to disclose my diagnosis to this contractor?
+
+2. Can my benefits be affected if I decline?
+
+3. Is there anything wrong with how my information was collected, and do I have any recourse?
+
+Please let me know whether you are able to help, whether you offer a free or low-cost consultation, and what you would need from me. I am on a disability income, so cost is a real factor for me.
+
+Thank you.
+
+[FULL NAME]
+[PHONE NUMBER OR EMAIL]
+Date sent: [DATE]`
+  },
+  {
     id: "appeal-status-update",
     title: "Appeal status update \u2014 where does my appeal sit",
     blurb: "For anyone who has filed a notice of appeal and heard nothing. The appeal process has named stages: your notice goes in, the program reviews the file, a senior representative may ring to see whether it can be settled without a hearing, and if it cannot you receive a Review of Decision setting out their reasons. Only then does the Secretariat schedule a hearing, and the appeal package goes out at least a week before it. Ask where your file is generally and you will get a general answer. This letter asks which of five specific things has happened, so they have to tell you.",
