@@ -16,6 +16,48 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "If you applied for AISH before July, here is how your application is being handled",
+        date: "2026-08-11",
+        body: `A member of this community spent nearly a month chasing an answer to one question. If you applied for AISH before the program changed on July 2, does your application go to AISH or to the new ADAP program?
+
+She now has a letter from the Minister answering it. And because we have had trouble in the past with people citing sections that turned out to be wrong, I went and checked the sections his letter names against the actual law before writing this. They are real and they are in force. Here is what it all means in plain words.
+
+## THE SHORT VERSION
+If you applied before July 2, your application gets assessed under the old rules first. If you are approved, you start on AISH, and then you are moved to ADAP.
+
+It is a roundabout path and I understand why it looks backward. But there are two things inside it that are worth knowing before you get discouraged.
+
+## THE PART THAT MAY WORK IN YOUR FAVOUR
+Being assessed under the old rules means being measured against the old medical criteria, not the new ones.
+
+And if you are approved this way, you get the transition allowance. That is the $200 a month that holds you at the old $1,940 rate. Someone applying fresh today, under the new rules, starts at $1,740 with no top-up at all.
+
+So this path, convoluted as it is, can leave you better off than a brand new application would. Slower and stranger does not mean worse.
+
+## ONE DATE TO BE CAREFUL WITH
+The letter says the transition allowance runs until December 31, 2027. That date is almost certainly correct, but I want to be straight about something I found when I checked. That exact date is not written in the Act the letter is citing. If it is the operative date, it lives in a regulation or a fact sheet, not in the law itself.
+
+I am not telling you the date is wrong. I am telling you not to treat that one letter as the final word on it, because the letter presents the date as part of the law when it is not.
+
+## THE QUESTION THE LETTER DOES NOT ANSWER
+Here is the gap, and it matters if it is you.
+
+Some people stay on AISH automatically. That is the categories for severe or profound developmental disability or PDD services, palliative or terminal conditions, continuing care, and age 60 and over.
+
+The letter says an approved application moves to ADAP. It does not say what happens if you are in one of those automatic-AISH categories and you applied before the change. On the wording of the law, the default is that everyone moves to ADAP, and staying on AISH needs a separate decision. The categories that keep people on AISH are not in the law itself, they are in a regulation, and that is the piece nobody has confirmed for people in this exact situation.
+
+So if you applied before July 2 and you belong in one of those automatic categories, that is the question to put to the Minister's office in writing. If my application is approved under the old rules and I meet an automatic AISH retention category, do I stay on AISH or am I moved to ADAP, and which rule decides it.
+
+## WHAT TO DO
+If this is your situation, you do not need to do anything different with your application. It is already in the queue and it will be assessed.
+
+If you are in one of the automatic-AISH categories, ask that question above in writing and keep the answer.
+
+And the thing I say every time, because it is still true. There is no deadline to be assessed for AISH. If you end up on ADAP and believe you belong on AISH, the government covers one medical assessment, it has no expiry, and you have to ask for it.
+
+Thank you to the member who chased this for a month and brought the letter back. A month of one person's persistence just became something the whole community can use.`
+      },
+      {
         title: "If your payment hasn't arrived, here is what worked today",
         date: "2026-08-10",
         body: `A member of this community went thirteen days past her deposit date. Days of high call volume messages and no answers.

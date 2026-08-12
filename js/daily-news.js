@@ -9,6 +9,64 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-11",
+  title: "Where Things Stand \u2014 August 11, 2026",
+  body: `Busy day in this community, so this one leads with what came from you.
+
+## PAYMENTS ARE STILL NOT FIXED
+The government says the August payment errors were all corrected by the end of July. Here is what today looked like in this community. One member finally got paid after thirteen days. Another member's wife is still waiting. A third is two and a half weeks out with nothing. A fourth was paid on time but had over $800 taken off with no explanation and is still waiting on the breakdown she asked for in writing.
+
+So there are two separate problems running at once. Some people are not being paid. Some are being paid the wrong amount.
+
+If you are in either one, do not sit on hold with the benefit line all day. There is a full escalation ladder in the Field Notes section now, with every route checked against the government's own pages. The short version is Alberta Supports at **1-877-644-9992**, then the Office of the Minister at **780-643-6210** if that goes nowhere. Ask for a payment date in writing every time.
+
+And get emergency help now rather than waiting for the payment to sort itself out. **780-644-5135** or **1-866-644-5135**, twenty four hours a day. Set up your digital ID first if you have not, because that is what turned an hour into groceries for the member who used it last night instead of a long wait.
+
+## THE COUPLE RULE IS LIVE
+Two adults in one household both on AISH or ADAP now get 88 percent of the individual maximum each. That is about $233 less per person, roughly $466 for the two of you, starting this month.
+
+Nobody has explained why this starts in the August period rather than at the transition on July 2. I have asked.
+
+## THE FEDERAL BENEFIT WENT UP, AND ALBERTA'S PAGE HAS NOT CAUGHT UP
+The Canada Disability Benefit is now $204.20 a month for this benefit year. Alberta still subtracts it dollar for dollar, and Alberta's own page still lists the old $200 figure.
+
+I want to be careful here rather than get anyone's hopes up. If Alberta keeps deducting $200 while Ottawa pays $204.20, the difference is a few dollars. I am not going to tell you to count on that. Alberta may deduct whatever you actually receive, and the gap could close without notice. What I can tell you plainly is that we are currently more up to date than the government's own page, and that is worth knowing.
+
+And a heads up. Some websites are now saying Alberta does not deduct the CDB at all. That is wrong. We are the only province that does, and the Canadian Down Syndrome Society is still running a live campaign to stop it. Do not budget on a website that tells you otherwise.
+
+## SEPTEMBER: THE $150
+Federal rule changes take effect September 1, and the one time $150 supplement is scheduled for September 17. No application needed federally.
+
+Whether Alberta recipients keep any of it is still not confirmed. Do not budget on it. If it arrives, keep whatever paperwork shows it landing as its own separate amount.
+
+## THE ENERGY REBATE
+If you are on AISH, ADAP or Income Support you are enrolled automatically. For anyone else in your household who is not on a benefit, the application window closes September 30.
+
+## THE EARNINGS NUMBER STILL IS NOT PUBLISHED LAW
+The government's fact sheet says $700 a month is exempt for a single person on ADAP. But the order that actually sets these amounts in law still has not been confirmed published anywhere. So every figure going around, including $700, is a fact sheet number rather than something you can point to in the law.
+
+The part under this that matters more. Report every pay on time. If you report late, you can lose the entire earnings exemption, not part of it.
+
+## ONE THING TO BE CLEAR ABOUT
+The legal package on our website, the one with the Charter arguments, the UN submission and the human rights complaint, is a letter you can send. It is not a lawsuit that has been filed. It is a pressure tool and a good one, but please do not tell anyone a court case is underway, because none is.
+
+## SOMETHING I AM STILL CHECKING
+A question came in this week about people being told they will get nothing for August because the department looked at last year's employment income and ran the new exemption against it. I have not been able to source properly how that calculation is being done, and I am not going to put numbers in front of you until I can. If this happened to you, tell us your town and the month, and watch for it in an update soon.
+
+## THE THING I KEEP SAYING
+There is no reassessment deadline. The eighteen months is the transition benefit period, not a clock on anything you have to do. If you moved to ADAP and want to be assessed for AISH, the government covers one medical assessment, it has no expiry, and you have to ask for it.
+
+Your nurse practitioner can complete the medical report. It is not physician only, whatever a clinic tells you.
+
+## STILL ASKING
+If you are waiting on a payment, or had money taken off without explanation, tell us your town and roughly when. If you have had contact from an employment services contractor since July 2, tell us that too.
+
+No file numbers, no personal details. Nobody outside the department can see either pattern. Together we can.
+
+## IF TONIGHT IS HEAVY
+Weeks of waiting on money you were counting on wears a person down. **988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-10",
   title: "Where Things Stand \u2014 August 10, 2026",
   body: `Today was a big day in this community, so this one leads with what we learned rather than what was announced.
