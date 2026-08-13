@@ -9,6 +9,40 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-12",
+  title: "Where Things Stand \u2014 August 12, 2026",
+  body: `Two kinds of update tonight. Some things I can now confirm against the actual law, and some things that came from you today.
+
+## WHAT I CAN CONFIRM, CHECKED AGAINST THE REGULATION
+I went back through the core numbers against the regulation itself, not against what a fact sheet says, and here is where things stand.
+
+The AISH base is $1,940 a month. The ADAP base is $1,740. Both are written into the regulation. The couple rule, where two people in one household each get 88 percent of the individual amount, applies to the base living allowance only. All confirmed in the law.
+
+The transition benefit is different, and this matters. The regulation creates it but does not name a dollar amount or an end date. The $200 figure and the December 31, 2027 end date come from a government fact sheet, not from the law. That is worth knowing, because a fact sheet can change more easily than a regulation. So when I say the top-up holds you at $1,940 until the end of 2027, understand that the specific number and date live in policy, not in law.
+
+The earnings exemption, the $700 figure everyone quotes, is the same situation but more so. The regulation says the amount is set separately by a ministerial order. That order has not been published anywhere I can find. So the $700 is a fact-sheet number, not law, and I cannot point you to it in the regulation. What the regulation does say plainly is that if you report your earnings late or misreport them, you can lose the whole exemption. Report on time, every time.
+
+The federal Canada Disability Benefit is $204.20 a month for this benefit year. Not $200. If you see $200 anywhere, that is last year.
+
+And the one that matters most for anyone thinking about their options: reassessment for AISH has no deadline. The policy manual says it plainly, that this help is not time limited and is available whenever you choose to access it. The 18 months you may have heard is the transition benefit period, not a clock on getting reassessed. There is no rush and no window closing.
+
+## WHAT CAME FROM YOU TODAY
+Two patterns surfaced from this community today, both worth everyone checking on their own file.
+
+**Read your deductions, not just your total.** More than one person this month has seen a large deduction labelled employment income while being retired and not working. That may be a pension or insurance benefit entered in the wrong category, and it can cost hundreds a month. Look at the breakdown, and if a deduction does not make sense, ask in writing what it actually is and demand the arithmetic.
+
+**Check what is actually recorded on your file.** A member found today that something she reported to a worker by phone years ago was never entered. She only found out because her payment was cut. If you reported a change, a service animal, a dependent, and you are not certain it was recorded, ask for written confirmation. A phone call leaves no proof. This is why I keep saying to put everything in writing.
+
+## IF YOU ARE SHORT RIGHT NOW
+If your payment came through wrong and you cannot cover food or rent, call the emergency line: **780-644-5135** or **1-866-644-5135**, 24 hours. If the food help runs out before the month does, call back and ask what else is available. One round is not the limit when the problem is their error. And if you have a service animal you are struggling to feed, dial **211** and ask about food banks that carry pet food. You should not be sharing your own meals with a working dog.
+
+## STILL CHECKING
+The employment-income deduction pattern is one I am now tracking. If it happened to you, tell us your town, the month, and whether the deduction was labelled employment income while you are retired or not working. No names, no file numbers. A few together is something I can put in front of people who can act on it.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-11",
   title: "Where Things Stand \u2014 August 11, 2026",
   body: `Busy day in this community, so this one leads with what came from you.
