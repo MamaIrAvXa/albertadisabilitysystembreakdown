@@ -9,6 +9,35 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-13",
+  title: "Where Things Stand \u2014 August 13, 2026",
+  body: `No new policy changes to report tonight, and I would rather tell you that plainly than dress up old news as new. When something solid lands, you will have it. Tonight's update is about what came up in this community today, because that is where the useful stuff was.
+
+## WHEN YOU HAVE TO SHARE INFORMATION, AND WHEN YOU DON'T
+This was the big theme today, so let me put it simply. If you are on ADAP and you get sent to an employment assessment with a contractor like AKG or Serco, you take part, and you do not have to hand over your medical diagnosis to them. Those are two separate things.
+
+The contractor is not deciding whether you are disabled. That was already decided before you were ever sent to them. They are checking what work might suit you, and to do that they need your functional limitations, what you can and cannot do, not the name of your condition or the dates you were diagnosed. They are not medically trained, so the diagnosis would not even mean anything to them. It would just sit in a file.
+
+If a contractor tells you that you must disclose your diagnosis, ask them, in writing, to show you the rule that requires it. There is a full guide on this in the Take Action section, with the exact wording to use in a meeting and the questions to send them, plus a shorter plain-language version to read before you go in. If this has happened to you, and you were told disclosure was mandatory, please tell us. We are tracking it.
+
+## CHECK WHAT IS ACTUALLY ON YOUR FILE
+More than one person this week found something they reported years ago was never recorded, a diagnosis, a document, a service animal, and they only discovered it because a payment went wrong. If you reported something by phone in the past and you are not certain it was entered, ask for written confirmation that it is on your file. A phone call leaves no proof. Put things in writing wherever you can, and keep copies.
+
+## READ YOUR DEDUCTIONS, NOT JUST YOUR TOTAL
+If your payment came in lower than expected, look at the breakdown, not just the final number. Some people are seeing large deductions labelled as employment income when they are retired and not working, which may be a pension or insurance benefit entered in the wrong category. If a deduction does not make sense, ask in writing for the full arithmetic and what income each line represents. Do not make any big decision, especially about your home, while a deduction like that is still unexplained.
+
+## AISH OR ADAP, WHICH FITS
+A few people asked this today, so, briefly. AISH is for a disability that permanently prevents work. ADAP is for one that substantially impedes work. If you are on ADAP but you believe you belong on AISH, you can be reassessed, there is no deadline, and the government covers one medical report. Your doctor or specialist is the person who documents which standard fits you, in their own words, honestly. If your doctor is leaving Alberta, get that report done before they go.
+
+## TWO NUMBERS WORTH KEEPING
+To check your payment information any time, day or night, the automated line is **1-866-232-0214**, open 24 hours. To reach a person, Alberta Supports is **1-877-644-9992**, 7:30 in the morning to 8 at night. And if a payment does not come and you are stuck without food or rent, the emergency line is **780-644-5135** or **1-866-644-5135**, 24 hours.
+
+That is the day. Thank you all for looking out for each other, and for asking the questions that help the next person. Rest well tonight.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-12",
   title: "Where Things Stand \u2014 August 12, 2026",
   body: `Two kinds of update tonight. Some things I can now confirm against the actual law, and some things that came from you today.
