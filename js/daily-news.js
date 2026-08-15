@@ -9,6 +9,40 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-14",
+  title: "Where Things Stand \u2014 August 14, 2026",
+  body: `No new policy changes tonight, and I would rather tell you that plainly than dress up old news as new. Here is what is worth knowing as the week closes.
+
+## THE AUGUST PAYMENT PROBLEM IS DOCUMENTED NOW
+This is the one that matters. The Medicine Hat News reported this week that some people were still waiting on their August payment two weeks after the date the government said everything had been paid out. Marie Renaud's office said it received fresh requests for help from unpaid clients this same week.
+
+So if your August money came in wrong, or late, or short, you are not imagining it and you are not the only one. That gap between what the government said and what people are living is now on the public record, not just in this community.
+
+If yours is still wrong, put it in writing. Ask for confirmation of what was paid, on what date, and what is still owed. A written record matters much more now that there is a public account of people still waiting.
+
+## IF YOUR RENT IS PAID THROUGH THE TRUSTEE SYSTEM, CHECK IT
+This is the one with a clock on it, so please read it even if nothing else applies to you.
+
+I came across something about rent that was being paid automatically through the AISH trustee system maybe stopping when a file moves to ADAP. I have not been able to confirm it with the government yet, so I am flagging it as a heads up, not a fact.
+
+If your rent was set up to come out automatically through the trustee system, check now that it actually went out this month. Do not wait to hear from your landlord. Unpaid rent turns into a bigger problem fast, and this is the kind of thing you want to catch early.
+
+If yours did stop, tell us. We are keeping track of who this is happening to, and there will be more on it in tomorrow's update.
+
+## TWO NUMBERS
+To ask about a payment, Alberta Supports is **1-877-644-9992**.
+
+If a payment does not come and you are stuck without food or rent, the urgent line is **1-866-644-5135**.
+
+## THE REASSESSMENT DOOR IS STILL OPEN
+Same as always, because it is still true. If you moved to ADAP and believe you belong on AISH, you can be assessed, there is no deadline, and the government covers one medical report. It has to be asked for, so ask in writing and keep the answer.
+
+That is the week. Thank you for looking out for each other, especially those of you checking on people whose payments went sideways this month. It matters more than you know. Rest well tonight.
+
+## IF TONIGHT IS HEAVY
+A month of chasing money that should have arrived wears anyone down. **988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-13",
   title: "Where Things Stand \u2014 August 13, 2026",
   body: `No new policy changes to report tonight, and I would rather tell you that plainly than dress up old news as new. When something solid lands, you will have it. Tonight's update is about what came up in this community today, because that is where the useful stuff was.
