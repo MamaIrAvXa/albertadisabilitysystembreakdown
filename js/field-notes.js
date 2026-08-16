@@ -948,6 +948,43 @@ I am telling you this because I do not want a single person reading that post an
     blurb: "When we get something wrong, we say so out loud and fix it, in plain words. This is that record.",
     items: [
       {
+        title: "Long term disability and your benefits: the rule nobody explains",
+        date: "2026-08-16",
+        body: `A few people have been hit hard by how LTD income gets handled, so let me lay it out plainly, because there is a rule here that can make a huge difference and almost nobody gets told about it.
+
+I also want to own something. I told one member this week that LTD is just deducted dollar for dollar, full stop. I went and checked the actual policy, and I was wrong. It is not that simple, and the correction is in your favour, so here it is properly.
+
+The thing that decides how your LTD is treated is one question. **Who paid the premiums on the policy.**
+
+## IF YOU PAID THE PREMIUMS YOURSELF
+If the premiums on your LTD, income protection, wage-loss, or disability insurance were paid entirely by you or your partner, out of your own pocket, then that money is **fully exempt**.
+
+Fully exempt means it does not reduce your AISH or ADAP at all. They do not take it. You keep your benefit and you keep the LTD.
+
+## IF YOUR EMPLOYER PAID THE PREMIUMS
+If your employer paid all the premiums, or you and your employer split them, then the LTD is treated as employment income instead. That means the earnings exemption applies. A set amount is protected, and money above that gets deducted.
+
+This is the only place the program matters. The earnings exemption is different on each. On AISH the fully exempt earnings amount is smaller than on ADAP. But which program you are on does not change the who-paid-the-premiums rule. That rule comes first.
+
+## WHY THIS MATTERS SO MUCH
+Because the two treatments are opposite, and a wrong classification costs you real money.
+
+If your premiums were yours, that LTD should be fully exempt. If it gets filed as employment income by mistake, they will start deducting money that was supposed to be untouched. That is the difference between keeping your LTD and watching most of your cheque disappear.
+
+So this is worth checking even if you think it is fine.
+
+## WHAT TO DO
+If you get LTD and it is being deducted from your benefits, ask them this, in writing.
+
+Who paid the premiums on my long term disability policy, and how is it classified. If the premiums were paid by me, please explain why it is being deducted as employment income rather than treated as fully exempt.
+
+Get the answer in writing and keep it. If your premiums were yours and it was filed as employment income, that is a mistake worth correcting, and it could put real money back in your pocket.
+
+One honest note. This is peer information, not a ruling on your specific file. I am pointing you at the right question to ask. The office confirms the answer for your situation, in writing, which is exactly where you want it.
+
+If you go through this and the answer does not add up, bring it to us and we will work out the next step together.`
+      },
+      {
         title: "If you have no money this weekend, read this",
         date: "2026-07-31",
         body: `I have been giving out the wrong number all week and I am correcting it now, before the long weekend.
