@@ -9,6 +9,43 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-15",
+  title: "Where Things Stand \u2014 August 15, 2026",
+  body: `No new policy changes tonight, so I will not pretend otherwise. But there is a bit of solid ground to stand on this week, and one thing I want you to check on your own file. Here is where things sit.
+
+## THE AUGUST PAYMENT PROBLEM IS STILL NOT OVER
+Three weeks on, this is still in the news, and it is still happening to people. Coverage this week reported clients who were still receiving wrong or missing August payments well past the date the government said it was fixed, and Marie Renaud's office said it was still getting requests for help from unpaid people in mid August.
+
+So if your August money came in wrong, late, or short, you are not behind on the news and you are not imagining it. It is documented, and you are not the only one.
+
+If yours is still not right, put it in writing. Ask for confirmation of what was paid, on what date, and what is still owed. Call Alberta Supports at **1-877-644-9992**, and if you are stuck without food or rent, the urgent line is **1-866-644-5135**.
+
+## IF YOUR RENT IS PAID THROUGH THE TRUSTEE SYSTEM, PLEASE CHECK IT
+I flagged this yesterday and I said I would come back to it, so here I am.
+
+The report is that some people whose rent was paid automatically through the AISH trustee system had that stop when their file moved to ADAP, leaving the rent unpaid. I still have not been able to confirm it with the government, so I am treating it as a heads up, not a fact, and I am asking them about it directly.
+
+While I chase that answer, please just check. If your rent was set up to come out automatically, make sure it actually went out this month. Do not wait to hear from your landlord. If yours did stop, tell us, because that is exactly what helps get a straight answer out of them.
+
+## A LITTLE SOLID GROUND ON THE NUMBERS
+Not news, but worth saying plainly because people keep being told different things. This week I checked the core amounts against the regulation itself, not a fact sheet, the actual law.
+
+The AISH and ADAP living allowance amounts you keep hearing are the real ones. If two adults in a home are both on the programs, the rule that each gets a reduced share started with the August payment, so if your household total moved this month, that may be why. And the child benefit amounts are confirmed as well.
+
+The one number I still cannot give you is how much you can earn before it affects your benefits, because that figure is set by a separate order the government has not published. So if anyone hands you a firm earnings number, be careful, because it is not settled in law yet.
+
+## THE FEDERAL DISABILITY BENEFIT WENT UP A LITTLE
+The Canada Disability Benefit is now a maximum of $204.20 a month, a small rise from the old $200. I will be straight with you though, Alberta still subtracts it from your AISH or ADAP, so for most people here it does not put more in your pocket. It is worth knowing the correct current number, but I do not want anyone budgeting for a raise that the province takes back.
+
+## THE REASSESSMENT DOOR IS STILL OPEN
+Same as always, because it stays true. If you moved to ADAP and believe you belong on AISH, you can be assessed, there is no deadline, and the government covers one medical report. It has to be asked for, so ask in writing and keep the answer.
+
+That is the week. Thank you for looking out for each other, and to the people who chased answers and brought them back so the next person did not have to start from nothing. Rest well tonight.
+
+## IF TONIGHT IS HEAVY
+Three weeks of chasing money that should have arrived wears anyone down. **988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-14",
   title: "Where Things Stand \u2014 August 14, 2026",
   body: `No new policy changes tonight, and I would rather tell you that plainly than dress up old news as new. Here is what is worth knowing as the week closes.
