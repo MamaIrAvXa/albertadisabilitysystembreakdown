@@ -9,6 +9,38 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-16",
+  title: "Where Things Stand \u2014 August 16, 2026",
+  body: `No new policy changes tonight, so I will not pretend there are. It has been a quiet news day, which after the last few weeks is not the worst thing. Here is where things sit, and one promise I am keeping to you.
+
+## THE AUGUST PAYMENT PROBLEM IS NOW THREE WEEKS OLD
+This is still the live story. It has now been three weeks since the government said the August payment problem was fixed before the long weekend, and people are still reporting wrong or missing amounts. Marie Renaud has called the rollout a disaster, and her office was still getting requests for help from unpaid people this past week.
+
+So if your August money is still not right, you are not behind, you are not imagining it, and you are not the only one. If yours is wrong, put it in writing. Ask them to confirm what was paid, on what date, and what is still owed. Call Alberta Supports at **1-877-644-9992**, and if you are stuck without food or rent, the urgent line is **1-866-644-5135**.
+
+## THE TRUSTEE RENT QUESTION, AND WHAT I PROMISED
+I told you I would come back on this, so here I am.
+
+The report is that some people whose rent was paid automatically through the AISH trustee system had that stop when their file moved to ADAP, leaving the rent unpaid. I still have not been able to confirm it with the government, so it stays a heads up, not a fact.
+
+Here is the update. I am now writing to the department directly to get a straight answer, whether trustee-managed automatic rent payments carry over when a file moves to ADAP, and if not, what a person has to do to set them back up. When they answer, you will have it, either way.
+
+While I wait on them, please just check. If your rent was set up to come out automatically, make sure it actually went out this month. Do not wait to hear from your landlord. And if yours did stop, tell us, because a real account from someone it happened to is exactly what helps pin this down.
+
+## ONE THING WORTH KNOWING IF YOU WORK
+A small but important one. If you earn work income and you report it late, or report it wrong on purpose, you can lose your entire earnings exemption for that period, not just a part of it. So whatever you are allowed to keep from working, late or careless reporting can wipe out the whole thing.
+
+The lesson is the same one I say every week. Report your income on time, report it accurately, and keep proof that you sent it. That habit protects the money you are entitled to keep.
+
+## THE REASSESSMENT DOOR IS STILL OPEN
+Same as always, because it stays true. If you moved to ADAP and believe you belong on AISH, you can be assessed, there is no deadline, and the government covers one medical report. It has to be asked for, so ask in writing and keep the answer.
+
+That is the week. Thank you all for looking out for each other, and to everyone who chased an answer this week and brought it back so the next person did not have to start from nothing. That is the whole thing, right there. Rest well tonight.
+
+## IF TONIGHT IS HEAVY
+Three weeks of chasing money that should have arrived wears anyone down. **988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-15",
   title: "Where Things Stand \u2014 August 15, 2026",
   body: `No new policy changes tonight, so I will not pretend otherwise. But there is a bit of solid ground to stand on this week, and one thing I want you to check on your own file. Here is where things sit.
