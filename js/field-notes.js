@@ -16,6 +16,27 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Something coming in 2027 if you live in subsidized housing",
+        date: "2026-08-17",
+        body: `Read the first line twice before anything else.
+
+**This does not affect your AISH or ADAP cheque.** The Canada Child Benefit is still exempt there and nothing about that is changing. If you do not live in community housing and do not get the Rent Assistance Benefit, this does not touch you at all.
+
+Still here? Then this is about how your rent gets worked out.
+
+Right now the child benefits, the federal Canada Child Benefit and the Alberta Child and Family Benefit, are not counted as income when your rent or your rent assistance is calculated. That changes.
+
+From **January 1, 2027**, they get counted for the Rent Assistance Benefit. From **January 1, 2028**, they get counted for everyone in community housing.
+
+What that means in practice is that for a household with children, the income figure used to set your rent goes up, without a single extra dollar coming in. Money meant for your kids becomes money that sets your rent.
+
+You do not have to do anything today. It does not start until your first income review on or after that date. I am telling you now because a year of warning is better than a letter you were not expecting.
+
+What I would do is this. If you are in community housing or on the Rent Assistance Benefit and you have children at home, work out roughly what your child benefits come to in a year, and know that number. When your review letter arrives, you will be able to tell straight away whether what they have used matches.
+
+I will keep watching this one and I will post again closer to the date.`
+      },
+      {
         title: "If you applied for AISH before July, here is how your application is being handled",
         date: "2026-08-11",
         body: `A member of this community spent nearly a month chasing an answer to one question. If you applied for AISH before the program changed on July 2, does your application go to AISH or to the new ADAP program?
