@@ -9,6 +9,105 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-18",
+  title: "Where Things Stand \u2014 August 18, 2026",
+  body: `Quiet day for news, busy day in this community. A few practical things worth having.
+
+## IF YOUR OFFICE PHONE NUMBER HAS STOPPED WORKING
+Two people today, in different corners of the province, could not reach their AISH office by phone. It turns out the offices have been consolidated, so a lot of old numbers no longer exist.
+
+For AISH and ADAP benefit questions or changes, the offices now share email addresses by region.
+
+If you are in Edmonton, St. Albert, or Sherwood Park: **northzoneaish@gov.ab.ca**
+
+If you are in Medicine Hat, Lethbridge, Brooks, Taber, Pincher Creek, or Crowsnest Pass: **southaish@gov.ab.ca**
+
+Alberta Supports is still **1-877-644-9992**. If your question is about an application you have in rather than an existing file, that is a different place, and the number is **1-877-759-6810**.
+
+Email beats the phone right now, and not only because the lines are bad. When you email, you have a record of what you asked and when you asked it. You cannot be told later that there is no note of it.
+
+If your area is not on that list, tell us where you are and we will find yours.
+
+## A WORD THAT MATTERS MORE THAN IT SHOULD
+Someone told me today that they were appealing being moved to ADAP. I want to sort this out for everyone, because getting the word wrong can get you turned away.
+
+You cannot appeal the move. That door closed on July 2.
+
+What you can do is ask to be assessed for AISH. That is called a **reassessment**, and it has no deadline at all. No window, no clock, nothing running out.
+
+So if you go in saying appeal, you may be told there is no appeal and that you are too late. Both of those are true about an appeal and neither is true about what you are actually asking for. Use the word reassessment, and say you want to be assessed for AISH eligibility.
+
+## YOU CAN WATCH THE POLICY CHANGES YOURSELF
+A member got an emailed policy update from the department today that took effect back in April. Four months between the rule changing and anyone being told.
+
+You do not have to wait to be told. The AISH and ADAP policy manual is public and the updates go on it: alberta.ca/aish-policy-manual
+
+Two things to know. That is the manual, not the law, and when the two disagree the regulation wins. And most updates will not apply to you, so do not read every one as bad news.
+
+## THE PAYMENT PROBLEM
+Still not resolved, three weeks on. If yours is still wrong, put it in writing and ask them to confirm what was paid, on what date, and what is still owed. Alberta Supports **1-877-644-9992**. If you are without food or rent, the urgent line is **1-866-644-5135**.
+
+## THE TRUSTEE RENT LETTER
+I said Sunday I was writing to the department about whether automatic rent payments carry over when a file moves to ADAP. I said yesterday it would go today. It has not gone.
+
+That is twice now, and I am not going to dress it up. It is written and it goes tomorrow.
+
+Meanwhile, if your rent comes out automatically, check that it went out.
+
+## THE REASSESSMENT DOOR IS STILL OPEN
+No deadline. The government covers one medical report but you have to ask for it. Ask in writing and keep the answer.
+
+That is the day. Thank you to everyone who brought back a letter, an email, or a phone number today. Nearly everything useful in this post came from one of you, not from me.
+
+Rest well.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
+  date: "2026-08-17",
+  title: "Where Things Stand \u2014 August 17, 2026",
+  body: `Busy day in this community, and a few useful things came out of it. One of them could put a hundred dollars in someone's pocket, so start there.
+
+## THE $100 ENERGY REBATE, AND THE CATCH
+If you were on AISH, ADAP, Income Support, or the Seniors Benefit on July 1, your $100 comes to you automatically. You do not apply. You do not fill anything in. And it does not count against your other payments, so nothing gets deducted because of it.
+
+Here is the catch, and it is the reason I am posting this. If you came onto one of those programs after July 1, it does not come automatically. You have to apply yourself, online, and the deadline is **September 30**.
+
+That is the part that will catch people. The ones who most need help with an online portal are the ones now being told to use one. If that is you, an Alberta Supports centre can sit and do it with you. Ask them.
+
+## IF YOU HAVE ASKED FOR YOUR FILE, CHECK ONE LINE
+This came from two members today who shared their response letters, and it is worth everyone's attention.
+
+When you request your file, the letter back has a line that says **Timeframe**. That is the range of records they will pull. One member asked for her whole file and the timeframe on her letter covers about ten weeks. Once they process it on that wording, it closes as complete and that is what you get.
+
+So look at your letter. If the timeframe is narrower than what you asked for, write back now. Ask them to correct it and confirm the corrected wording to you. Do not wait for the records to show up.
+
+And two things people keep getting told wrong. There is no fee to ask for your own file. And these go through the central access to information office, not through AISH, whatever anyone tells you on the phone.
+
+## THE PAYMENT PROBLEM, WEEK THREE
+Still not resolved. It has now been more than three weeks since it was supposed to be fixed before the long weekend and people are still reporting wrong or missing amounts.
+
+If yours is still not right, put it in writing and ask them to confirm what was paid, on what date, and what is still owed. Alberta Supports is **1-877-644-9992**. If you are without food or rent, the urgent line is **1-866-644-5135**.
+
+## THE TRUSTEE RENT LETTER
+I told you Sunday I was writing to the department about whether automatic rent payments carry over when a file moves to ADAP. The letter is written. It has not gone yet. Today ran away from me and I am not going to pretend otherwise.
+
+It goes tomorrow, and you will get the answer either way.
+
+In the meantime, the same thing stands. If your rent comes out automatically, check that it went out. Do not wait to hear from your landlord.
+
+## THE REASSESSMENT DOOR IS STILL OPEN
+Same as always. If you moved to ADAP and believe you belong on AISH, you can be assessed, there is no deadline, and the government covers one medical report. You have to ask for it, so ask in writing and keep the answer.
+
+That is the day. A lot of you helped each other today without waiting for me, and a few of you brought back letters that are going to save the next person a great deal of trouble. Thank you.
+
+Rest well.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-16",
   title: "Where Things Stand \u2014 August 16, 2026",
   body: `No new policy changes tonight, so I will not pretend there are. It has been a quiet news day, which after the last few weeks is not the worst thing. Here is where things sit, and one promise I am keeping to you.

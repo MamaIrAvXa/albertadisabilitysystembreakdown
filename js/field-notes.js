@@ -16,6 +16,42 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Something different: a national call for submissions",
+        date: "2026-08-18",
+        body: `This is not about a form, a deadline, or a deduction. It is an invitation, and I think some of you should take it.
+
+Disability Without Poverty is a national organization. They are holding their second annual symposium on December 2 and 3, timed with the UN International Day for Persons with Disabilities. The theme is the determinants of disability poverty, meaning what actually causes it. Financial security. How policy gets designed. Whether systems can be accessed at all. Social inequity. Political will.
+
+They are asking for submissions, and the deadline is **September 30**.
+
+Here is the part I want you to read twice. They are not only asking for academics. They say plainly that they want independent contributors and people with lived experience, and they particularly want to hear from disabled researchers, students, and people at intersections that usually get left out.
+
+And it does not have to be a paper. You can submit:
+
+- A recorded talk about something you have found or lived
+- A creative piece, a podcast, a video, art
+- A short video of five to seven minutes about something you are working on or something you have learned
+- Or you can take part in a live panel
+
+Videos need captions, and they say support is available if you need help with that.
+
+The form asks for an abstract of 500 words or less, and there is a space on it to say what accommodations you need to take part.
+
+The form is here: https://docs.google.com/forms/d/e/1FAIpQLSf5uRhJGmbou-LtBdNQ6BthvFlGHvjEJSbSWcg_NSU5GCaAHA/viewform
+
+Two honest things before anyone jumps in.
+
+This is not somewhere to get help with your own file. It is a place to contribute what you know. Different thing, and both matter, but I do not want anyone thinking this is a route to a resolution.
+
+And it is public and it is national. So do not put anything in a submission that you would not want permanently attached to your name. No file numbers, no medical detail you would regret sharing, nothing about anyone else without their say-so.
+
+What I would love to see from this community is somebody talking about what it is like trying to use these systems from the inside. The waiting. The forms that come back. The phone lines that go nowhere. That is the administrative accessibility theme, and there is nobody better placed to speak to it than the people here.
+
+I am putting a submission in on behalf of the campaign. I would rather not be the only voice from Alberta in that room.
+
+If you are thinking about it and are not sure where to start, say so and I will help you shape it. That offer is real and it is open to everyone.`
+      },
+      {
         title: "Something coming in 2027 if you live in subsidized housing",
         date: "2026-08-17",
         body: `Read the first line twice before anything else.
