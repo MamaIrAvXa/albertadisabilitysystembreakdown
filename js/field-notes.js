@@ -16,6 +16,47 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "How to get your own medical records",
+        date: "2026-08-18",
+        body: `This is a different thing from requesting your AISH or ADAP file, so read the first bit carefully.
+
+Your AISH or ADAP file comes from the government, and that is the access to information request. There are forms and a walkthrough for that elsewhere on this site.
+
+Your medical records come from your doctor or the hospital. Different place, different request, different form. This is about that second one.
+
+Three people this week have told us their doctor retired and their new doctor is starting from nothing. If you are facing a fresh medical report, getting your old records is one of the most useful things you can do, because it gives your new doctor the history to work from instead of one appointment's worth of impressions.
+
+## YOUR FAMILY DOCTOR OR CLINIC
+Put your request in writing. An email or a letter, not a conversation at the front desk.
+
+Ask if they have their own form. Every clinic does it differently and there is no universal one, so ask rather than guess.
+
+Ask what it costs before they start. Clinics are allowed to charge for copying records and the amount varies. Get the number first so it does not arrive as a surprise.
+
+## IF YOUR DOCTOR HAS RETIRED
+This is the one people think is hopeless, and it is not.
+
+Try the clinic first. Records very often stay at the practice even after a doctor leaves.
+
+If the clinic has closed, or nobody there can tell you where your file went, call the College of Physicians and Surgeons of Alberta at **1-800-561-3899**.
+
+When a doctor closes or leaves a practice, they have to tell the College where their patient records went. And whoever ends up holding them stays responsible for them, retirement included. So your file has a keeper by law. The College can point you to who that is.
+
+## HOSPITAL RECORDS
+These are separate again, and they do not come from any doctor. You contact the hospital or facility directly and ask for their health records or release of information department.
+
+If you have been treated at several hospitals, that is a separate request to each one.
+
+## A FEW PRACTICAL THINGS
+Ask for a complete copy, not a summary. A summary is somebody else deciding what matters.
+
+Say what you need it for if you are comfortable doing so. Records for a disability application sometimes get handled differently from a routine request.
+
+Start now if you have a medical report coming. These take time, and if you are working to a deadline you do not want the records arriving after it.
+
+And keep whatever you get. Once you have your own copy, you have it for every application, reassessment, and new doctor after this one.`
+      },
+      {
         title: "Something different: a national call for submissions",
         date: "2026-08-18",
         body: `This is not about a form, a deadline, or a deduction. It is an invitation, and I think some of you should take it.
