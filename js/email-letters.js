@@ -207,6 +207,57 @@ Date: [today's date]
 Regulation references are to AR 96/2026 as in force July 2, 2026.`
   },
   {
+    id: "adap-employment-participation",
+    title: "ADAP employment participation \u2014 what is actually required, in writing",
+    blurb: "Clients are being told at Alberta Supports offices that an ADAP client with employment income or long term disability income satisfies the employment participation requirement by taking a single phone call and saying they already have income. That rule is not in the policy manual, the program guide, AR 96/2026, or on any Government of Alberta webpage. Meanwhile the manual says plainly that AISH clients are not required to seek or accept employment or make use of an employment support \u2014 and no equivalent exemption is published for ADAP clients. This letter asks five specific questions and asks for the answer in writing.",
+    to: "adapengagement@gov.ab.ca",
+    cc: "alss.minister@gov.ab.ca",
+    toHint: "Send to <b>adapengagement@gov.ab.ca</b>, copied to the Minister. Add your own MLA to the copy line as well \u2014 find yours at <b>contact.assembly.ab.ca</b>. A constituency office can only act for its own constituents, so it has to be your MLA, not someone else's.",
+    ccHint: "Copying the Minister for Assisted Living and Social Services puts the discrepancy on the record above the office giving the verbal answers.",
+    subject: "Request for written clarification: ADAP employment participation requirements",
+    note: "Question 5 is the one that matters most, and it is why this is worth sending even if none of it applies to you directly. If there is no published exemption, then people have transferred to ADAP on the strength of something a worker said, and that question asks in writing whether those people will be contacted. Keep the reply. If you are told something different on the phone afterwards, you will have the written version to hold it against. Send us whatever comes back \u2014 if several of us ask the same five questions and the answers do not match each other, that is itself the finding.",
+    body:
+`To the Alberta Disability Assistance Program,
+
+I am writing to request written clarification about the employment participation requirements under ADAP. I am asking because the information being given verbally at Alberta Supports offices does not match what is published in your own policy manual, and people are making decisions about their income based on the difference.
+
+WHAT YOUR MANUAL SAYS
+
+The Disability Income Assistance Policy Manual, under Maintaining Eligibility, states that it is the responsibility of ADAP clients to seek and accept reasonable employment, to not reduce or terminate reasonable employment, and to participate in or make use of an employment support.
+
+The same page states that AISH clients are not required by the program to make use of an employment support or seek or accept employment.
+
+That exemption is written for AISH clients. I can find no published exemption of any kind for ADAP clients.
+
+WHAT CLIENTS ARE BEING TOLD
+
+Clients are being told at Alberta Supports offices that an ADAP client who has employment income or long term disability income satisfies the employment participation requirement by taking a single telephone call, stating that they already have income, and that no further participation is required.
+
+I cannot locate that rule in the policy manual, the program guide, the Assured Income for the Severely Handicapped General Regulation, or on any Government of Alberta webpage.
+
+MY QUESTIONS
+
+1. Is there any exemption from the employment participation responsibility for ADAP clients who have employment income or long term disability income? If there is, where is it published?
+
+2. Section 15(4) of AR 96/2026 permits a director to act where a client has refused to seek or accept reasonable employment, or has refused or neglected to participate in or make use of an employment support. Does having employment income satisfy the second of those, and if so, where is that stated?
+
+3. Long term disability income is not employment income. Does a client receiving LTD income carry the same employment participation responsibility as any other ADAP client?
+
+4. What participation is expected of an ADAP client, how is it communicated, and where is it published so that a client can read it before agreeing to anything?
+
+5. If there is no published exemption, what steps are being taken to correct the information being given verbally at offices, and will clients who transferred to ADAP on the strength of that information be contacted?
+
+WHAT I AM ASKING FOR
+
+A written reply. Not a phone call. I need something I can keep and refer to, because I am being asked to make a decision about my income based on information that is not written down anywhere I can find it.
+
+Thank you for your time.
+
+[FULL NAME]
+[YOUR CITY OR TOWN], Alberta
+Date sent: [DATE]`
+  },
+  {
     id: "disclosure-mla",
     title: "Disclosure at an employment assessment \u2014 raise it with your MLA",
     blurb: "For anyone who has been asked to hand a diagnosis and medical history to AKG or Serco during an ADAP employment assessment. This raises it with your MLA as a pattern affecting constituents, not just one file, and asks them to put three specific questions to the Minister in writing. Works whether you are writing about your own assessment or raising it on behalf of disabled people in your community.",
