@@ -16,6 +16,85 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "The new Alberta health card, and what nobody has been told",
+        date: "2026-08-19",
+        body: `A few people have raised this in the last day or two and there is a fair bit of confusion, so I had the government pages and the legislation read properly today. Here is what they say, what they do not say, and the one thing you should do this week.
+
+Start with the good news, because there is some and it matters most.
+
+**Your AISH or ADAP health benefits are a separate thing from your Alberta health card.** Your prescriptions, dental, optical, diabetic supplies, ambulance and AADL come from the disability program, not from the health card. There is nothing published anywhere saying those depend on your health card being current.
+
+So if you have been worrying that a health card problem could take your medication coverage, it does not appear to work that way. That is one thing off the pile.
+
+Now the rest of it.
+
+Since July 2 this year, new health cards carry an expiry date. If your health number is printed on the back of your driver's licence or ID card, that is the integrated card, and your health coverage expires the same day your licence does. One date for both. If you have a separate card, that one carries its own date printed on it.
+
+Before your card expires you have to revalidate. That means going in person to a registry office with photo identification, proof of an Alberta address dated within the last ninety days, and proof of your legal entitlement to be in Canada. For everyone on your account, including your children.
+
+If you do not do it by the expiry date, coverage is cancelled.
+
+An expired card can mean being turned away at a clinic or paying out of pocket. Emergency care is never refused, but you can be billed for it if your card has expired, and there is nothing published saying you get that money back once you sort it out.
+
+## THE QUESTION NOBODY HAS ANSWERED
+A lot of us are holding old paper cards with no expiry date printed on them at all. I checked my own and my children's tonight and there is no date on any of them.
+
+The government pages say new cards will have an expiry date, and that a card is valid if the expiry date has not passed. Neither of those sentences tells you what an old undated card is. I searched for it nine different ways and it is not published anywhere.
+
+So I do not know, and I am not going to pretend I do.
+
+What I am going to do is ask, in writing, and post whatever comes back. And what I would suggest you do is call and check your own coverage rather than guess.
+
+AHCIP is at **780-427-1432**, or dial **310-0000** first for toll free in Alberta. Open 8:15 to 4:30, Monday to Friday. TTY is **780-427-9999** or **1-800-232-7215** toll free. Anything to do with your own health information has to be by phone or in person, not email, so this is a call. Have your health numbers with you.
+
+Two questions. Is my coverage active for me and everyone on my account. And is this undated card still valid, or do I need a new one. Write down the name of the person you spoke to and the date.
+
+## THE PART THAT WILL HIT OUR COMMUNITY HARDEST
+Look at the list of what you need in order to keep your coverage. Photo identification. Proof of an address dated within ninety days. Proof of legal entitlement to be in Canada. Your current card, to hand in. A mailing address that reliably receives mail. The ability to physically get to a registry office.
+
+And money, if it happens through a licence or ID renewal. An ID card is $54.45 for five years. Exchanging a card to add your health number is $28.65. There is no fee waiver published for any of it.
+
+Now think about who is in this community. People without current identification. People who moved recently and have nothing in their own name. People whose mail does not reach them. People who cannot leave the house. People who do not have thirty dollars spare at the end of a month.
+
+Every one of those is a requirement someone has to meet to keep basic health coverage, and none of them has anything to do with whether that person is sick.
+
+One thing worth knowing if you cannot get to a registry. There is a remote application route for an ID card, for people who are medically homebound or temporarily outside Alberta. It is **form REG11197**. That will not be obvious to anyone and it may be the difference for a few people reading this.
+
+## AND THERE IS NO SIGN ANYBODY IS BEING TOLD
+I could not find a government news release announcing any of this. The information sits on webpages. There is nothing published describing a personal notice being sent to cardholders.
+
+So the likely way most people find out is when they are turned away at a clinic, or when they go to renew a licence.
+
+## WHERE THIS CAME FROM, AND WHERE IT WENT FURTHER
+This traces back to a 2015 Auditor General report. That report recommended one thing: a proactive check that people holding an Alberta health number still meet the residency requirements.
+
+It did not recommend expiry dates. It did not recommend putting health numbers on driver's licences. It did not recommend tying your health coverage to your licence renewal.
+
+And as of the Auditor General's own tracking in April this year, that 2015 recommendation is still not marked as done.
+
+I am not telling you what to make of that. I am telling you what was recommended and what was built, and both of those are on the public record where anyone can check them.
+
+## ONE MORE THING, FROM SOMEONE WHOSE JOB IT IS TO SAY IT
+Alberta's Information and Privacy Commissioner publicly recommended against putting health numbers on these cards. The Commissioner's office has said the Registrar of Motor Vehicles is not subject to Alberta's privacy laws, has no corresponding duty to protect that information, faces no consequences for a breach, and is not overseen by the Privacy Commissioner.
+
+That is the Commissioner's position, not mine. I am passing it on because it comes from the independent office whose job is exactly this, and because most people will never see a privacy news release.
+
+## WHAT I AM ASKING THE GOVERNMENT, IN WRITING
+Is an old paper card with no expiry date still valid, and if not, what is the deadline to replace it.
+
+How is a person notified that revalidation is due, how far in advance, and what happens if that notice does not reach them.
+
+Is there any fee waiver, or any accommodation, for someone who cannot attend in person.
+
+Are you reimbursed for what you paid while your coverage was lapsed.
+
+Was a privacy impact assessment done for the integrated card, and will it be released.
+
+I will post the answers, or the silence, either way.
+
+Check your cards tonight. Call tomorrow if there is no date on them. And write down what they tell you.`
+      },
+      {
         title: "How to get your own medical records",
         date: "2026-08-18",
         body: `This is a different thing from requesting your AISH or ADAP file, so read the first bit carefully.
