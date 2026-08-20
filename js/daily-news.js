@@ -9,6 +9,149 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-19",
+  title: "Where Things Stand \u2014 August 19, 2026",
+  body: `Long one tonight. There is a correction I owe you at the top, then the health card business, then what the employment calls actually look like now that we have people who have had them.
+
+## FIRST, A CORRECTION, AND IT IS OURS
+Some of our forms and letters have been telling you to email adapengagement@gov.ab.ca. That address is dead. It was the inbox used during the consultation and it stopped working when the AISH and ADAP offices merged.
+
+If you sent something there and heard nothing back, that is why. It was not you and it was not them ignoring you. Please send it again.
+
+We spent today going through the government contact page properly and here is what is actually there. There are four inboxes, one per zone, and no office has its own.
+
+**North** \u2014 Edmonton, St. Albert, Sherwood Park, Leduc, Spruce Grove, Fort McMurray, Grande Prairie and everything up that way: **northzoneaish@gov.ab.ca**, phone **1-888-644-1802**. The Edmonton offices list 780-415-6300.
+
+**Central** \u2014 Red Deer, Camrose, Drumheller, Olds, Wetaskiwin, Lloydminster, Stettler, Wainwright, Vermilion, Drayton Valley and Rocky Mountain House: **aish.centralregion@gov.ab.ca**, phone **1-833-698-9959**. Note the dot in that address.
+
+**Calgary** \u2014 Airdrie, Canmore, Claresholm and all four Calgary offices: **calgaryaish@gov.ab.ca**, phone **1-866-334-6950**.
+
+**South** \u2014 Lethbridge, Medicine Hat, Brooks, Taber, Pincher Creek and Crowsnest Pass: **southaish@gov.ab.ca**, phone **1-833-382-4081**.
+
+One more correction while I am at it. We have been giving out 1-833-382-4081 as a general number. It is the south zone line only. If you are in Edmonton or Red Deer and you called it, you were phoning the wrong zone. Sorry about that.
+
+The corrected forms are next on the list. In the meantime, the Email a Letter tool on the site has a zone picker in it, so it fills the right address in for you.
+
+## SOMETHING WORTH KNOWING ABOUT THAT CONTACT PAGE
+Every single office email on the government page is scrambled so you cannot copy it. All forty-eight of them. You have to read it off the screen and type it in by hand.
+
+Think about who that lands on. Anyone with a tremor. Anyone using a screen reader. Anyone with a cracked phone. That is not a small thing and it is going in the written questions.
+
+## THE HEALTH CARD
+Lots of talk about this and a fair bit of it is muddled, so here it is as clearly as I can put it.
+
+**Your personal health number is yours for life.** It is never given to anyone else. That has not changed and it is not changing.
+
+What can lapse is your registration, which is the part that says you currently live here and are covered.
+
+If your health number is printed on the back of your driver's licence or ID card, your registration runs on the licence date. Renew the licence and your registration is renewed with it.
+
+If you have a separate card, cards issued since July 2 this year carry their own date printed on them.
+
+The old paper cards have no date on them at all. I checked mine and my children's and there is nothing on any of them. What nobody has published is what those undated cards are. Whether they are still fine, or whether they need replacing, and by when. I have searched for that answer every way I can think of and it is not written down anywhere. It is going in the written questions this week.
+
+Nobody loses their health number over any of this. What it can cost you is money in the gap between a registration lapsing and getting it sorted, because during that gap you can be billed. Emergency care is never refused, but you can still be billed for it, and nothing published says you get that money back.
+
+So if you have a test, a procedure, or a specialist appointment coming up, check before you go rather than at the desk.
+
+AHCIP is **780-427-1432**, or dial **310-0000** first for toll free. Open 8:15 to 4:30 weekdays. It has to be a phone call or in person, not email, because it involves your own health information.
+
+Renewing means going in person with photo identification, proof of an Alberta address dated within the last ninety days, and proof of your legal entitlement to be in Canada, for everyone on your account. If none of the usual address documents fit your situation, the government's own page says the list is not complete and to ask a registry agent what else they will take. Call before you make the trip.
+
+## THE EMPLOYMENT CALLS, FROM PEOPLE WHO HAVE HAD THEM
+This is the first week we have had real accounts instead of dread, and the picture is calmer than what people were bracing for.
+
+One member got a letter in the mail with a date on it, about two weeks ahead. So it comes with notice.
+
+Another had her call this week. Under ten minutes. They asked whether she wanted help with things like a resume or computer training, then referred her on to a local employment agency that has been operating in her area for years. She was told to expect a follow-up in about a month.
+
+So the pattern seems to be that the government centre is a first step that sorts you and passes you on, and the actual service comes from an existing local organization.
+
+That is two people, not a rule. But it is two more than we had a week ago.
+
+Some things worth doing on those calls. Get the name of the person and their organization, and write down the date. If they tell you something that matters to your file, ask them to email it. If an assessment comes up, ask what it is called, how long it takes, and whether you can see it beforehand. Nobody has been able to find a published name for any assessment tool, so if you get one, tell us.
+
+And you can ask what information they were given about you, who gave it to them, and under what authority. One member asked for her records at the start of her call, was told no, pushed back, and got a yes within the same conversation. Asking works more often than people expect.
+
+## WHAT YOU CAN EARN, AND THE PART NOBODY CAN SHOW YOU
+Since the employment side is live now, people are asking what they are allowed to earn before it comes off their benefit.
+
+The government's policy manual gives these amounts as fully exempt. For an AISH client, **$350**. For an ADAP client, **$700**. For an ADAP client with dependants, **$1,100**. For a cohabiting partner, **$1,500**.
+
+Two things to know about those numbers.
+
+Above the exempt amount, the two programs work differently. On ADAP the exemption reduces gradually, so you keep some of what you earn past the threshold. On AISH it does not. Above $350 there is no partial exemption at all.
+
+Read that again if you are on AISH, because it surprises most people. On earnings specifically, AISH is the harsher of the two programs.
+
+And the second thing. Those amounts are not in the regulation. The regulation hands them to a Ministerial order, and Ministerial orders are not published in the Gazette. So the manual is the only place you can read them, and the instrument that actually sets them is not something you or I can open.
+
+The regulation also says they go up automatically whenever minimum wage goes up. That is the one bit of good news in this. It means the figures above can only be too low, never too high. But it also means they can change with no announcement and no way to check.
+
+So treat those as the manual's current numbers, use the benefit estimator, and confirm anything that matters in writing before you rely on it.
+
+I am asking for that order in writing. It is the second one now. There is another unpublished order that sets which decisions you are allowed to appeal. One decides what you may earn, the other decides what you may challenge, and neither can be read by the person it applies to.
+
+## THE THING I CANNOT CONFIRM, AND PEOPLE ARE ACTING ON IT
+Some of you have been told that if you have employment income or long term disability income, you take one phone call, say you already have income, and you are done with employment participation.
+
+I have had the policy manual read through page by page. It lists three responsibilities for ADAP clients. Seek and accept reasonable employment. Do not reduce or end reasonable employment. Take part in an employment support. And it names exactly one group excused from all of it, which is AISH clients.
+
+There is no published exemption for anyone on ADAP with employment or LTD income. Not in the manual, not in the guide, not in the regulation.
+
+That does not mean the people saying it are wrong. Offices sometimes run on internal direction that never reaches a public page. But it is not written down, and if it turns out to work differently, the person who acted on it carries the loss.
+
+So we are asking, in writing. There is an email anyone can send in the Take Action section. It quotes the manual, sets out what people are being told, and asks which is correct. It does not accuse anyone of anything, on purpose, because a letter that blames a worker gets handled as a staffing matter and the policy question never gets answered.
+
+If they confirm the exemption exists, that is a real win for a lot of people and I will shout it from the rooftops. If they confirm it does not, that reaches people before somebody misses a meeting.
+
+## PAYMENTS
+Somebody sat on hold for an hour and a half today and the recorded message said they are still working on processing and correcting mistakes for recent payments.
+
+That is the department saying it, on its own line, to everyone who calls. We have been collecting accounts of payments going wrong for weeks and every one of them has been one person's word. This is different.
+
+If you call and hear that message, write down the wording, the date, the time and the number you called. That goes into the written questions and it cannot be waved away, because they said it themselves.
+
+## A HEADS UP ON RENT, AND IT IS A HEADS UP RATHER THAN A FACT
+I came across something about rent that was being paid automatically through the AISH trustee system possibly stopping when a file moves to ADAP. I have not been able to confirm it with the government and I am not going to state it as true.
+
+But if your rent was set up to come out automatically, please check that it went out this month. I am writing to the department for a straight answer and I will report back either way.
+
+## ACCESS REQUESTS ARE RUNNING LATE
+Four people in this community are now past the time limit on a request for their own file.
+
+The rule is that they must make every reasonable effort to respond within 30 business days. They can extend it, and under the current law there is no cap on how many times they extend, but they have to tell you they are doing it.
+
+If your time limit has passed, you can ask the Information and Privacy Commissioner to review the failure to respond. It costs nothing and you do not need a lawyer. There is a time limit on asking, which is 60 business days from the failure, so do not sit on it. The form is at oipc.ab.ca under Information Access Review, and they have a disability accommodation policy if the form itself is a barrier.
+
+## SOMETHING USEFUL, AND IT IS MONEY
+The $100 Alberta Energy Rebate. If you were on AISH, ADAP, Income Support or the Seniors Benefit on July 1, you are enrolled automatically and you do not have to do anything.
+
+If you joined one of those programs after July 1, you have to apply yourself, and the deadline is **September 30**.
+
+It is not taxable and it does not reduce any of your other benefits. Confirmed against the government page today.
+
+## AND SOMETHING WORTH SIGNING UP FOR
+Somebody found this and it is a good find. The policy manual has a page where you can subscribe to be notified when it changes. It is at manuals.alberta.ca/dia-policy-manual/subscribe-program. It is public, it only asks for an email, and it means you hear about changes from the source instead of from a screenshot that has been around the internet three times.
+
+## WHAT I AM DOING THIS WEEK
+The written questions go to the department. Whether a pending reassessment affects employment participation. What participation is expected and where it is published. Whether the first meeting has to be in person and how accommodation works. Whether a reassessment needs a full application or just a new medical report. What information goes to the employment contractors and under what authority. What an undated health card is. Both of the unpublished Ministerial orders. And what is going on with the payment errors the department's own phone line is talking about.
+
+I will post the answers. If there are no answers, I will post that too.
+
+## ONE LAST THING
+Several people this week have described losing an entire day to a phone call that lasted ten minutes. Braced all morning, wrung out all afternoon.
+
+That cost is real and it does not appear in any policy document anywhere. It will never show up in a program evaluation. It happened before anyone had asked you to do a single thing.
+
+I see it. It counts. And the reason we keep asking for everything in writing is so that fewer of you have to spend a day bracing for something nobody will explain in advance.
+
+Ask in writing. Keep the answer.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-18",
   title: "Where Things Stand \u2014 August 18, 2026",
   body: `Quiet day for news, busy day in this community. A few practical things worth having.
