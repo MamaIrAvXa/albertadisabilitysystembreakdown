@@ -207,6 +207,58 @@ Date: [today's date]
 Regulation references are to AR 96/2026 as in force July 2, 2026.`
   },
   {
+    id: "atia-followup",
+    title: "Your file request came back late, narrow, or with parts missing",
+    blurb: "This is not the form for making a request \u2014 use this when you already asked for your own AISH or ADAP file and the response arrived late, covered a narrower period than you asked for, or came back with pages blank and no reason given. Three lettered sections; keep the ones that match your situation and delete the rest. Every section number is from the Access to Information Act in force June 11, 2025 \u2014 not the old FOIP numbers, which are repealed and let them answer nothing.",
+    to: "",
+    toHint: "Send it the same way you sent your request, to the same office \u2014 that is the central access to information office, not your AISH or ADAP office. Use the return address on the response letter you received. Keep a copy and note the date you sent it.",
+    cc: "",
+    subject: "Access request follow-up \u2014 [YOUR REFERENCE NUMBER]",
+    note: "READ THIS FIRST, BECAUSE THERE MAY BE A DEADLINE. If you received a response you are unhappy with, you have 60 business days from the day you were notified to ask the Information and Privacy Commissioner for a review (section 59(2)(a)). Business days, so weekends and holidays do not count. If you received nothing at all, that counts as a refusal (section 13(2)) and the 60 day limit does not apply to you (section 59(3)) \u2014 nothing is closing behind you. Sending this letter does NOT pause the clock. The letter and the review are separate things, so if you are running low on time, file the review and send this as well. You can withdraw a review if they fix the problem; you cannot get the window back. The review is free, you do not need a lawyer, and the form is at oipc.ab.ca under Information Access Review \u2014 ask them for accommodation if the form itself is a barrier, they have a policy for it. On the tone: this letter is short, cold and numbered on purpose. A letter carrying feeling gets read as a complaint about a person and routed away from your question. Keep the anger out of the letter so the letter works. That is not the same as the anger being unwarranted. And if your concern is that they did not search properly, the Commissioner expects you to raise it with the department first and wait 30 business days \u2014 sending this starts that running.",
+    body:
+`I am writing about my access request for my own personal information, reference [YOUR REFERENCE NUMBER], and about the response dated [DATE ON THEIR LETTER]. I am asking for the following, in writing.
+
+[KEEP THE SECTIONS BELOW THAT APPLY TO YOU AND DELETE THE REST. IF MORE THAN ONE APPLIES, KEEP THEM ALL AND SEND ONE LETTER.]
+
+SECTION A \u2014 LATE, OR NO RESPONSE AT ALL
+
+1. Under section 13(1) of the Access to Information Act, a public body must make every reasonable effort to respond within 30 business days after a complete request. I submitted my request on [DATE YOU SUBMITTED]. As of today I have received [WHAT YOU HAVE RECEIVED SO FAR].
+
+2. Under section 12(1), the public body must make every reasonable effort to assist me and to respond openly, accurately and completely.
+
+3. If the time for responding was extended, section 16(5) requires that I be told the reason, when a response can be expected, and that I may ask for a review of the extension. [WHAT YOU WERE TOLD ABOUT ANY EXTENSION, IF ANYTHING.]
+
+Please provide, in writing, (a) the decision on my request, or the date I will receive it, and (b) if the time was extended, the reason and the new expected date under section 16(5).
+
+I note that under section 13(2) a failure to respond in time is treated as a refusal.
+
+SECTION B \u2014 THEY SEARCHED A NARROWER PERIOD THAN I ASKED FOR
+
+4. My request asked for records covering [THE TIMEFRAME YOU ASKED FOR]. The response states that the search covered [THE TIMEFRAME THEIR LETTER STATES], which is narrower than what I asked for.
+
+5. Under section 12(1) of the Access to Information Act, the public body must make every reasonable effort to assist me and to respond openly, accurately and completely. Section 7(3) permits a public body to ask me for more detail where a request is unclear. I was not asked for more detail before the search was narrowed.
+
+Please provide, in writing, (a) the provision of the Act relied on to search a timeframe narrower than the one I requested, or confirmation that the full timeframe I requested will now be searched, and (b) if you consider my request unclear, the further detail you require under section 7(3).
+
+SECTION C \u2014 BLANK PAGES, REMOVALS WITH NO REASON, OR MISSING RECORDS
+
+6. Under section 14(1)(c)(i) of the Access to Information Act, where access to a record or part of a record is refused, I must be told the reasons and the provision of the Act on which the refusal is based. The response contains pages that are entirely blank, or from which content has been removed, with no provision cited. The affected pages are [YOUR PAGE NUMBERS].
+
+7. Under section 6(2), where information is severed, I have a right of access to the remainder of the record.
+
+8. The response does not appear to include [THE RECORDS YOU EXPECTED BUT DID NOT RECEIVE]. Under sections 4(1) and 6(1) the right of access reaches all records in the public body's custody or control, including my own personal information.
+
+Please provide, in writing, (a) for each blank or removed portion, the specific provision of the Act relied on, as required by section 14(1)(c)(i), (b) confirmation of whether the records named above were located, and if withheld, the provision relied on, and (c) if any records could not be located, a description of the search conducted, consistent with the duty to assist under section 12(1).
+
+CLOSING
+
+I ask for a written reply by [YOUR REPLY DATE \u2014 ALLOW ABOUT 10 BUSINESS DAYS]. If I do not receive one, or if the provisions relied on are not supplied, I will ask the Information and Privacy Commissioner to review this under section 58(1).
+
+[FULL NAME]
+[CONTACT DETAILS FOR THEIR REPLY]
+Date sent: [DATE]`
+  },
+  {
     id: "adap-employment-participation",
     title: "ADAP employment participation \u2014 what is actually required, in writing",
     blurb: "Clients are being told at Alberta Supports offices that an ADAP client with employment income or long term disability income satisfies the employment participation requirement by taking a single phone call and saying they already have income. That rule is not in the policy manual, the program guide, AR 96/2026, or on any Government of Alberta webpage. Meanwhile the manual says plainly that AISH clients are not required to seek or accept employment or make use of an employment support \u2014 and no equivalent exemption is published for ADAP clients. This letter asks five specific questions and asks for the answer in writing.",
