@@ -961,6 +961,27 @@ function elCopy(id) {
     navigator.clipboard.writeText(ta.value).then(done).catch(function () { ta.focus(); ta.select(); try { document.execCommand("copy"); done(); } catch (e) {} });
   } else { ta.focus(); ta.select(); try { document.execCommand("copy"); done(); } catch (e) {} }
 }
+// AISH and ADAP offices have merged. There are no office-specific inboxes any
+// more \u2014 every office routes to one of four zone inboxes. Letters that should go
+// to a person's own office carry zonePicker:true and get this dropdown.
+var AISH_ZONES = [
+  { email: "northzoneaish@gov.ab.ca",      label: "North \u2014 Edmonton, St. Albert, Sherwood Park, Spruce Grove, Leduc, Grande Prairie, Fort McMurray, Cold Lake and the north" },
+  { email: "calgaryaish@gov.ab.ca",        label: "Calgary \u2014 Calgary, Airdrie, Canmore, Claresholm" },
+  { email: "aish.centralregion@gov.ab.ca", label: "Central \u2014 Red Deer, Camrose, Drumheller, Olds, Stettler, Wetaskiwin, Lloydminster, Wainwright, Rocky Mountain House" },
+  { email: "southaish@gov.ab.ca",          label: "South \u2014 Lethbridge, Medicine Hat, Brooks, Taber, Pincher Creek, Crowsnest Pass" }
+];
+function elZoneOptions() {
+  var o = '<option value="">Choose the zone that covers where you live\u2026</option>';
+  AISH_ZONES.forEach(function (z) {
+    o += '<option value="' + z.email + '">' + z.label + '</option>';
+  });
+  return o;
+}
+// Writes the chosen zone address into that letter's To box.
+function elPickZone(id, email) {
+  var to = document.getElementById("el-to-" + id);
+  if (to) to.value = email;
+}
 function renderEmailLetters() {
   var wrap = document.getElementById("email-letters-list");
   if (!wrap || typeof EMAIL_LETTERS === "undefined" || !EMAIL_LETTERS.length) return;
@@ -976,6 +997,11 @@ function renderEmailLetters() {
         '<details class="el-tools">' +
           '<summary>\u2709\ufe0f Fill it in and email it</summary>' +
           '<div class="el-body-wrap">' +
+            (L.zonePicker ?
+              '<div class="el-field"><label>Your AISH and ADAP office</label>' +
+                '<select class="el-zone" id="el-zone-' + L.id + '" style="width:100%;padding:.6rem;font:inherit" onchange="elPickZone(\'' + L.id + '\', this.value)">' + elZoneOptions() + '</select>' +
+                '<p class="el-hint">AISH and ADAP offices have merged, so there are no office-specific addresses any more. Pick your zone and it will fill in the To box below.</p>' +
+              '</div>' : '') +
             '<div class="el-field"><label>To</label><input type="text" id="el-to-' + L.id + '">' +
               (L.toHint ? '<p class="el-hint">' + L.toHint + '</p>' : '') + '</div>' +
             ccField +
