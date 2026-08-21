@@ -207,6 +207,68 @@ Date: [today's date]
 Regulation references are to AR 96/2026 as in force July 2, 2026.`
   },
   {
+    id: "health-card-coverage-ahcip",
+    title: "Health coverage \u2014 ask Alberta Health to confirm your status in writing",
+    blurb: "For anyone told at a desk that their coverage is not active, or anyone holding one of the older paper cards with no expiry date printed on it. Cards issued since July 2, 2026 carry an expiry date, and where a personal health number sits on a driver's licence the registration runs on the licence date. Nothing published says what an undated older card is \u2014 not that it is invalid, and nobody has said that either. Question 2 in this letter is the one that matters beyond your own file: if enough people ask it in writing, one of the answers that comes back can be shared with everybody.",
+    to: "",
+    toHint: "This one is <b>post or phone, not email</b>. Alberta Health will not take health information by email. Print it and send to <b>Alberta Health Care Insurance Plan, PO Box 1360 Station Main, Edmonton, Alberta T5J 2N3</b>, or ring <b>780-427-1432</b> (dial 310-0000 first for toll free in Alberta), 8:15 am to 4:30 pm weekdays. If you phone, ask them to send the answer in writing as well, and note the date you asked.",
+    cc: "",
+    subject: "Re: Confirmation of coverage status",
+    note: "Do NOT type your personal health number into this letter. Give it by phone or in person only, or add it by hand to the printed copy after you print it. Three things are settled and worth holding on to: your personal health number is yours for life and is never reissued to anyone else; what can lapse is your registration, which is a separate thing from your number; and emergency care is never refused, though you can still be billed for it if your registration has lapsed. If you were also charged, send the second letter to the clinic at the same time \u2014 that one asks them to hold the account while this question is answered. Whatever comes back, send it to us. Nobody has a written answer about undated cards yet, and one member getting one helps everybody.",
+    body:
+`Alberta Health Care Insurance Plan
+PO Box 1360 Station Main
+Edmonton, Alberta T5J 2N3
+
+Re: Confirmation of coverage status
+
+I am writing to ask for written confirmation of my Alberta Health Care Insurance Plan coverage status.
+
+On [DATE IT HAPPENED] I attended [NAME OF THE CLINIC OR LAB] and was told [WHAT YOU WERE TOLD]. I hold an Alberta Personal Health Card that does not have an expiry date printed on it. My photo identification is current.
+
+Please confirm in writing:
+
+1. Whether my coverage is currently active.
+
+2. Whether a health card issued before July 2, 2026 that carries no printed expiry date remains valid.
+
+3. If it does not, what I must do to restore or maintain coverage, and by when.
+
+4. Whether I will be reimbursed for [AMOUNT YOU WERE CHARGED], which I was charged on the date above.
+
+I would be grateful for a written reply. Thank you.
+
+[FULL NAME]
+[MAILING ADDRESS]
+[PHONE NUMBER AND EMAIL]
+Date sent: [DATE]`
+  },
+  {
+    id: "health-card-billing-hold",
+    title: "Health coverage \u2014 ask a clinic to hold a bill while your status is confirmed",
+    blurb: "Send this if you were charged because your coverage could not be confirmed. It asks for the account to be held without collection activity while Alberta Health answers the real question, rather than demanding a refund. That is deliberate: a hold is something a billing clerk can grant on the spot, and a refund usually is not. It gets you out of collections while the real question is being answered somewhere else.",
+    to: "",
+    toHint: "This goes to the billing or accounts contact at the clinic, lab, pharmacy or hospital that charged you. Use the address or email printed on the invoice. If there is only a phone number, ring and ask where to send it in writing.",
+    cc: "",
+    subject: "Re: Account for services on [DATE IT HAPPENED]",
+    note: "Keep it short and do not blame the staff. The clinic followed what its system told it \u2014 the problem is upstream of them, and a letter that says so gets a better result than one that does not. Send this at the same time as the letter to Alberta Health, because this one buys you time while that one answers the question. Before you leave any appointment where this happens, write down the date and time, the name of the place, the name of the person you spoke to, exactly what you were told, and whether you were billed and how much. Do it while you are still in the car park \u2014 you will not remember it accurately by the evening, and if this goes anywhere it is the detail that carries it.",
+    body:
+`Re: Account for services on [DATE IT HAPPENED]
+
+I attended on [DATE IT HAPPENED] and was charged [AMOUNT YOU WERE CHARGED] on the basis that my Alberta Health Care Insurance Plan coverage could not be confirmed.
+
+I hold an Alberta Personal Health Card that carries no printed expiry date, and my photo identification is current. I have written to Alberta Health to confirm my coverage status and I have asked for a written reply.
+
+I am asking you to hold this account without collection activity until Alberta Health confirms my status. If my coverage is confirmed as active for that date, I ask that the charge be reversed and the amount refunded.
+
+Please confirm in writing that the account is on hold. Thank you for your help.
+
+[FULL NAME]
+[MAILING ADDRESS]
+[PHONE NUMBER AND EMAIL]
+Date sent: [DATE]`
+  },
+  {
     id: "atia-followup",
     title: "Your file request came back late, narrow, or with parts missing",
     blurb: "This is not the form for making a request \u2014 use this when you already asked for your own AISH or ADAP file and the response arrived late, covered a narrower period than you asked for, or came back with pages blank and no reason given. Three lettered sections; keep the ones that match your situation and delete the rest. Every section number is from the Access to Information Act in force June 11, 2025 \u2014 not the old FOIP numbers, which are repealed and let them answer nothing.",
