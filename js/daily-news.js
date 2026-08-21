@@ -9,6 +9,91 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-20",
+  title: "Where Things Stand \u2014 August 20, 2026",
+  body: `Shorter one tonight. Yesterday's update covered the contacts, the health cards and the employment calls, and all of that still stands. Here is what has moved since.
+
+## THE MOST IMPORTANT THING I HAVE FOUND THIS WEEK
+There is a clause in the regulation about reporting your income, and almost nobody knows it is there.
+
+If a director decides your income was not reported in a timely manner, or was misreported on purpose, the exemptions do not apply. Not reduced. **Switched off entirely.**
+
+And it is broader than just work income. That one clause covers three things at once.
+
+The exemption on money you earn from work.
+
+The exemptions on investment, rental and trust income.
+
+And the exemptions on a cohabiting partner's pension, CPP, Employment Insurance and Workers' Compensation.
+
+I want to be careful. I am not saying this is happening to people, and I have not seen a case of it. I am saying it is in the regulation, it arrived on July 2 with everything else, and it did not exist before then. The old regulation had the same deductions and no clause like this.
+
+Three more things about it.
+
+**You can appeal it.** I had this checked against the list of decisions that cannot be appealed. That list is exhaustive and it has eleven items, and this is not on any of them. So if your exemption is voided over reporting, that decision can be appealed, within 30 days of being notified. Nobody would think to try that.
+
+**Nobody has published what late means.** There is no date attached to it anywhere. Not the regulation, not the Act, not the policy manual. The closest thing is the manual telling you to report changes immediately, and immediately is not a deadline.
+
+**And there is no published exception for having a good reason.** Nothing saying a director can accept a late report because you were in hospital, or too unwell, or your letter did not arrive.
+
+So here is what to do, and it is simple.
+
+Report your income every reporting period, on time, even when it is nothing. Ask your worker in writing what your reporting period is and when your report is due, and keep the answer. If you report by phone, write down the date, the time and the name of the person you spoke to. If there is any way to report in writing, use it.
+
+That one habit protects the whole thing.
+
+## A CORRECTION TO SOMETHING PEOPLE KEEP REPEATING, INCLUDING ME AT TIMES
+There is no 18 month deadline to ask for an AISH reassessment. There is no deadline at all.
+
+The 18 months people are thinking of is the transition benefit, the $200 a month that runs from August 2026 to December 2027. That is a different thing entirely.
+
+The manual says the covered medical assessment for someone who transferred is not time limited and is available whenever a client chooses to access it. Those are the department's own words and I checked them again tonight.
+
+So if you have been panicking about a clock, there is not one. Take the time you need to get your medical evidence right, because getting it right matters far more than getting it in fast.
+
+## NEW ON THE SITE
+There are now health card and coverage letters up. Five pages. What to check before an appointment, what to say if somebody questions your card at the desk, and two letters ready to send if you get billed or turned away. One goes to Alberta Health about your coverage, one goes to the clinic about the bill.
+
+The letter to Alberta Health carries the question nobody has answered, which is whether an old card with no expiry printed on it is still valid. If enough of us ask individually, somebody gets an answer before the official one arrives.
+
+There is nowhere on that form to type your health number, deliberately. Print it and write it on by hand if a letter needs it.
+
+## SOMETHING ABOUT THE ENERGY REBATE I DID NOT KNOW YESTERDAY
+If more than one adult in your household is eligible, **each adult applies separately.** It is not one payment per home.
+
+That matters for anyone in a shared house or a supported living arrangement, because it means somebody in that house may be waiting on a payment that will never come unless they apply themselves.
+
+The rest stands. If you were on AISH, ADAP, Income Support or the Seniors Benefit on July 1, yours is automatic. If you joined after July 1, you apply, and the deadline is **September 30**.
+
+It also replaces the old Fuel Tax Relief Program, which is why some of you will have been expecting something different.
+
+## THE PAYMENTS
+It has now been about a week since the last piece of reporting on the payment problems, and there has been no statement from the government saying it is resolved.
+
+Our own MLA for St. Albert called the rollout a disaster in that coverage, and people were still unpaid at that point. Since then, nothing. No update, no numbers, no all clear.
+
+That silence is now part of the story. If you are still short or still waiting, you are not an isolated case and you should not be treated as one.
+
+## WHAT IS GOING TO THE DEPARTMENT THIS WEEK
+The written questions are going. What the reporting deadline is and where it is published, what happens if you miss it by one day, and whether there is any allowance for someone who could not report because of their disability. Employment participation and where it is published. Whether a pending reassessment lets you defer training. Whether the first meeting has to be in person and how accommodation works. What information goes to the employment contractors and under what authority. What an undated health card is. How a retroactive Canada Disability Benefit payment is treated. Whether PDD supports depend on which income program you are on. The two unpublished Ministerial orders. And whether rent that was paid automatically through the AISH trustee system carries over to ADAP.
+
+That last one I have been chasing for a week without being able to confirm it either way, so it is going as a straight question rather than as a claim.
+
+I will post the answers. If there are no answers, I will post that too.
+
+## ONE LAST THING
+A few people this week have asked me about leaving Alberta.
+
+I am not going to try to talk anyone out of it, and I am not going to encourage it either. That is nobody's decision but yours.
+
+What I will say is that the forms are on the site and they have been since April. One for each province, ready to fill in. If that is where you land, you should not have to go looking for the paperwork on top of everything else.
+
+Report on time. Keep proof. Ask in writing.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-19",
   title: "Where Things Stand \u2014 August 19, 2026",
   body: `Long one tonight. There is a correction I owe you at the top, then the health card business, then what the employment calls actually look like now that we have people who have had them.
