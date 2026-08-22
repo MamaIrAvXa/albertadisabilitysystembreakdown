@@ -1,5 +1,5 @@
 # ADSB Newsletter Manifest — full PDF list under pdfs/ (incl. pdfs/fillable/)
-# Generated: 2026-08-15 02:13 UTC | Format: <YYYY-MM-DD HH:MM mtime>\t<path>
+# Generated: 2026-08-22 02:12 UTC | Format: <YYYY-MM-DD HH:MM mtime>\t<path>
 2026-05-20 21:28	pdfs/access-gap/Access_Gap_Penalized_for_NonAbility.pdf
 2026-05-21 00:13	pdfs/access-gap/Access_Gap_Plain_Language.pdf
 2026-05-26 09:19	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Complete_May2026.pdf
@@ -45,6 +45,7 @@
 2026-05-01 23:11	pdfs/adsb-report-series/9_Three_Years_and_Counting_FSCD_PDD_Crisis_Report.pdf
 2026-05-09 21:06	pdfs/adsb-report-series/9b_Intergenerational_Family_Report.pdf
 2026-05-09 21:06	pdfs/adsb-report-series/9c_Intergenerational_Contradiction_Report.pdf
+2026-08-19 16:36	pdfs/august-2026-docs/ADSB_What_You_Can_Appeal_August2026.pdf
 2026-07-21 22:10	pdfs/august-2026-docs/AISH_Manual_Comparison.pdf
 2026-08-07 19:18	pdfs/august-2026-docs/Bill53_Breakdown_August2026.pdf
 2026-08-11 21:50	pdfs/august-2026-docs/MAID_Report_Sections_1to4_DRAFT_August2026.pdf
@@ -157,6 +158,7 @@
 2026-08-04 10:10	pdfs/fillable/Fillable_Community_Story_Submission_PRINTABLE.pdf
 2026-08-05 15:59	pdfs/fillable/Fillable_Employment_Barriers_Notice_July2026.pdf
 2026-08-04 10:10	pdfs/fillable/Fillable_Formal_Complaint_Template.pdf
+2026-08-20 21:06	pdfs/fillable/Fillable_Health_Card_Coverage_Letters_August2026.pdf
 2026-06-07 20:04	pdfs/fillable/Fillable_Letter_to_the_Minister_AISH_to_ADAP_June2026.pdf
 2026-07-15 21:51	pdfs/fillable/Fillable_MLA_Letter_Episodic_Disability_s15-4.pdf
 2026-07-15 21:51	pdfs/fillable/Fillable_MLA_Letter_s15-4_LetterOnly.pdf
@@ -345,7 +347,6 @@
 2026-07-11 19:22	pdfs/july-2026-docs/ADSB_The_CPPD_Bind_July2026.pdf
 2026-07-31 12:18	pdfs/july-2026-docs/ADSB_The_Floor_They_Set_Themselves_July2026.pdf
 2026-07-14 16:35	pdfs/july-2026-docs/ADSB_What_The_Law_Says_July2026.pdf
-2026-07-14 17:32	pdfs/july-2026-docs/ADSB_What_You_Can_Appeal_July2026.pdf
 2026-07-22 23:10	pdfs/july-2026-docs/ADSB_Whats_Covered_AISH_ADAP_Reference_July2026.pdf
 2026-07-18 01:27	pdfs/july-2026-docs/ADSB_When_They_Call_Phone_Script.pdf
 2026-07-06 01:54	pdfs/july-2026-docs/AISH_ADAP_Key_Features_Verified_July2026.pdf

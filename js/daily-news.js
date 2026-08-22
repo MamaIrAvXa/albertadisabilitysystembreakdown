@@ -9,6 +9,75 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-21",
+  title: "Where Things Stand \u2014 August 21, 2026",
+  body: `Here is where things sit at the end of the week.
+
+## FIRST, SOMETHING I GOT WRONG
+On August 6, and again in the escalation ladder on August 10, I published 1-833-382-4081 as though it were a general provincial line. It is not. It is the south zone only, covering Brooks, Crowsnest Pass, Lethbridge, Medicine Hat, Pincher Creek and Taber. If you are anywhere else and you called it, that is on me.
+
+The four zones are the only inboxes that exist. There are no office specific ones.
+
+**North** \u2014 1-888-644-1802, **northzoneaish@gov.ab.ca**. This covers St. Albert and all of Edmonton.
+
+**Central** \u2014 1-833-698-9959, **aish.centralregion@gov.ab.ca**. Note the dot in the middle.
+
+**Calgary** \u2014 1-866-334-6950, **calgaryaish@gov.ab.ca**.
+
+**South** \u2014 1-833-382-4081, **southaish@gov.ab.ca**.
+
+One thing nobody tells you. If you moved to a different part of the province this year, your zone moved with you. Somebody found that out this week after months of writing to the wrong office.
+
+## NEW THIS WEEK: A ONE-TIME FEDERAL PAYMENT STARTING SEPTEMBER 1
+Ottawa is adding a one-time $150 payment to the Canada Disability Benefit. It takes effect September 1. You do not apply for it, it is automatic, and if you have ever received a CDB payment, even a single one, you qualify. It is meant to help with the cost of getting the Disability Tax Credit.
+
+That part is confirmed and it comes from the federal government's own page.
+
+Here is what I cannot tell you. Alberta takes back the regular monthly Canada Disability Benefit dollar for dollar, and it is the only province in the country that does. Whether Alberta will also take back this one-time $150 is not answered anywhere. I went looking and there is nothing.
+
+So please do not count on keeping it yet. I am not promising you either way, and I will tell you the moment I have a straight answer.
+
+## SOMETHING WORTH KNOWING ABOUT THE $200 TRANSITION BENEFIT
+The $200 a month that keeps transitioned clients whole until the end of December 2027 is not in the regulation. The regulation creates the benefit but states no amount and no end date. The $200 and the December 2027 date come from the policy manual.
+
+I am not telling you this to frighten anybody. It has been paid and it is being paid. I am telling you because a number set by policy and a number set by law are two different things, and you should know which one yours is.
+
+One piece of good news attached to it. If two adults in your household both receive AISH or ADAP, the 88 percent rule that started with the August benefit period applies to the living allowance only. **The $200 top-up is not cut to 88 percent.**
+
+## A MYTH I WANT TO PUT DOWN
+There is no eighteen month window to ask for a reassessment. There is no clock on it at all.
+
+The eighteen months people keep repeating is the length of the transition benefit period, July 2026 to December 2027. It is not a deadline to apply for AISH. The government's own material says the covered medical report is not time limited and is available whenever a client chooses to use it.
+
+If you have been rushing because you thought a door was closing, it is not.
+
+## ON THE PAYMENT PROBLEMS
+The government's position is that the payment issues have been corrected in full. Independent reporting says otherwise, including clients still unpaid into August. There has been no new reporting in about a week and nobody outside government has confirmed it is fixed.
+
+So do not assume yours is sorted because somebody said the problem is over. Check. And if something is wrong, put it in writing and keep the date.
+
+## THE THING I NOTICED MOST THIS WEEK
+Five different people this week made a real decision based on a rule that is not written down anywhere.
+
+Somebody nearly cancelled a paid trip because of a rumour about needing travel approval. Somebody is holding off on applying for a whole year on a belief about turning sixty. Somebody has been batching medical travel claims for months to be considerate, and may have been putting them at risk. Somebody was told on the phone that declining employment services could get them removed from the program. Somebody nearly bought a cane that would not be reimbursed if they bought it first.
+
+Every one of those people guessed. And in every single case, the guess they made was more restrictive, or more expensive, than the rule probably is.
+
+That is not people being foolish. That is what happens when the rules are not published. The silence gets filled in, and it always gets filled in against you.
+
+So here is my ask. If somebody tells you a rule and you cannot find it written down, ask them where it is published. Ask in writing. If they cannot point you at anything, that is worth knowing too, and it is worth telling us.
+
+A letter is going to the Minister with fourteen questions on it, and most of them are some version of the same question. What is the rule, and where can the person it applies to read it.
+
+## ONE DEADLINE
+If you started on AISH or ADAP after July 1 this year, the $100 Alberta energy rebate is not automatic for you and the window closes **September 30**. Everyone enrolled before July 1 was signed up automatically and does not need to do anything.
+
+That is the week. Thank you to everyone who called somewhere, asked a plain question and came back and told the rest of us what they were told. That is most of how we learn anything here.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-20",
   title: "Where Things Stand \u2014 August 20, 2026",
   body: `Shorter one tonight. Yesterday's update covered the contacts, the health cards and the employment calls, and all of that still stands. Here is what has moved since.

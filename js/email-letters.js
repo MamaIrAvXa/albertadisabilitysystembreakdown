@@ -207,6 +207,126 @@ Date: [today's date]
 Regulation references are to AR 96/2026 as in force July 2, 2026.`
   },
   {
+    id: "minister-fourteen-questions",
+    title: "Fourteen questions to the Minister \u2014 what is the rule, and where can I read it",
+    blurb: "Fourteen questions on the administration of ADAP and AISH, each one about a rule clients are being asked to comply with that cannot be found in published form, or a point on which people have been given conflicting answers. Covers the Calgary office statement about employment income, third-party rent payments, participation while a reassessment is pending, in-person attendance and accommodation, what a reassessment requires and who pays for it, what is disclosed to employment contractors and what they report back, the assessment tool, income reporting deadlines, undated health cards, retroactive CDB lump sums, PDD supports, and the two unpublished Ministerial orders. Every question names the section it rests on, and asks the department to name the section its answer rests on.",
+    to: "alss.minister@gov.ab.ca",
+    toHint: "Goes to the Minister of Assisted Living and Social Services. This is long on purpose, but you are not expected to send all of it \u2014 keep the questions that touch your own situation, delete the rest, and renumber if you like. A short letter that gets sent beats a complete one that sits in drafts.",
+    cc: "",
+    ccHint: "Copy your own MLA \u2014 find yours at <b>contact.assembly.ab.ca</b>. It has to be the MLA for the constituency you live in; a constituency office can only act for its own constituents. If you are in St. Albert, that is <b>St.Albert@assembly.ab.ca</b>.",
+    subject: "Written questions on the administration of ADAP and AISH \u2014 request for a written response",
+    note: "The ask underneath all fourteen is the same one: what is the rule, and where can the person it applies to read it. That is why each question names an authority and asks the department to name its own. Question 1 is time-sensitive and the letter says so \u2014 other people may be relying on the same information right now. If you send this, send us whatever comes back. Where several people ask the same question and get different answers, the difference is itself the finding. And if a reply says something that contradicts what is published, keep it: a written answer you can hold up later is worth more than a phone call that agrees with you.",
+    body:
+`Minister,
+
+I am one of the Albertans affected by the transition from the Assured Income for the Severely Handicapped program to the Alberta Disability Assistance Program.
+
+The questions below concern rules that clients are being asked to comply with and that I have been unable to locate in published form, or points on which clients have received conflicting information from the department. I am not asking for an interpretation of any individual file. I am asking, in each case, what the rule is and where it is published.
+
+What I am requesting: a written response to each numbered question, identifying for each answer the section of the Act, the regulation, the Ministerial order or the published policy document that the answer rests on. Where an answer rests on an unpublished document, please say so and provide the document. Where the department's position is that a question falls outside its responsibility, please say which body it falls to.
+
+Where a question below rests on a mistaken reading of the law on my part, I would welcome the correction.
+
+THE QUESTIONS
+
+1. THE AUGUST 18 STATEMENT AT THE CALGARY OFFICE
+On August 18, 2026, a client attending a Calgary office was told by staff that a client who has long-term disability income or employment income satisfies the ADAP employment requirement with a single telephone call and is not required to participate further.
+
+Is that statement correct? If it is correct, where is it published, and what income level or income type triggers it? If it is not correct, what steps will the department take to ensure clients who were given that information are not later found to have failed to meet a requirement they were told did not apply to them?
+Authority: AR 96/2026 s.15(4) and s.16(a).
+
+2. PAYMENT OF BENEFITS TO A THIRD PARTY FOR ACCOMMODATION
+Section 12.7(1) of the Act provides that where a director was paying a third party all or part of a benefit immediately before the section came into force, the director may continue to do so. Section 12.7(3) uses the same permissive language for a financial administrator appointed by a director.
+
+The provision is permissive on its face. On what basis does a director decide to continue or to discontinue such an arrangement, is a client's request to end it determinative, and what is the process and the timeline for a client who wants the arrangement to stop?
+Authority: Assured Income for the Severely Handicapped Act, s.12.7(1) and s.12.7(3), in force July 2, 2026.
+
+3. EMPLOYMENT PARTICIPATION WHILE A REASSESSMENT IS PENDING
+A client who has transitioned to ADAP and has applied to be assessed for AISH may wait several months for that assessment to conclude.
+
+During that period, is the client expected to meet ADAP employment participation requirements? Where is the answer published? If participation is expected, what happens to a client whose medical condition is the subject of the pending assessment and who cannot participate for the same reason the assessment was requested?
+Authority: AR 96/2026 s.15(4); ADAP fact sheet, July 23, 2026, transition approach.
+
+4. WHAT EMPLOYMENT PARTICIPATION REQUIRES
+Please provide the department's statement of what a client on ADAP is required to do to meet the employment participation requirement, and the published location of that statement.
+
+If the requirement is set out only in internal policy or in an agreement with a service provider rather than in a public document, please confirm that, and provide the internal document.
+Authority: AR 96/2026 s.15(4); Act s.12.1(a).
+
+5. IN-PERSON ATTENDANCE AND ACCOMMODATION
+Where a client is directed to attend an appointment in person, what is the process for requesting an accommodation, who decides the request, on what criteria, and is the decision recorded in the client's file?
+
+Is a client who is unable to attend in person and whose accommodation request is refused at risk of a reduction under section 15(4)?
+Authority: AR 96/2026 s.15(4); Alberta Human Rights Act, s.4.
+
+6. WHAT A REASSESSMENT FOR AISH REQUIRES
+Does a client on ADAP seeking assessment for AISH file a complete new application, or a new medical report only?
+
+Please confirm in writing that the department covers the cost of one medical assessment for a client who transitioned to ADAP in July 2026 and later seeks AISH, and state whether that cost is a grant or a repayable advance recovered from future benefits. The July 23, 2026 fact sheet says the government will cover the cost. It does not say whether the client repays it.
+Authority: ADAP fact sheet, July 23, 2026, transition approach; AR 96/2026 s.3(1)(a).
+
+7. CLIENT INFORMATION DISCLOSED TO EMPLOYMENT SERVICE PROVIDERS
+What categories of client information are disclosed by the department to contracted employment service providers, under what statutory authority, and on what basis is the scope of that disclosure limited?
+
+Is medical information among the categories disclosed? Can a client obtain a written list of what was disclosed about them and to whom, and by what route?
+Authority: Act s.12.1(c); Alberta's public-sector access and privacy legislation.
+
+8. WHAT SERVICE PROVIDERS REPORT BACK TO THE DEPARTMENT
+What is a contracted employment service provider required to report to the department about a client, on what schedule, and in what form?
+
+Is a provider's report capable of triggering a reduction under section 15(4), and if so, is the client given the report and an opportunity to respond before a decision is made?
+Authority: AR 96/2026 s.15(4); Act s.12.1(c).
+
+9. THE EMPLOYMENT ASSESSMENT TOOL
+Please name the assessment tool or instrument used to determine a client's employment capacity or to set employment expectations, identify its publisher, and state whether it has been validated for use with a population of people with severe disabilities.
+
+Is the completed assessment provided to the client?
+Authority: AR 96/2026 s.3(1)(a); ADAP fact sheet, July 23, 2026, medical eligibility.
+
+10. INCOME REPORTING DEADLINES AND WHAT FOLLOWS A LATE REPORT
+What is the deadline for a client to report income for a benefit period, and where is that deadline published?
+
+What is the consequence of reporting one day late? Is any exemption, extension or disability-related allowance available where a client's disability is the reason the report was late, and if so, who decides it and on what criteria?
+Authority: AR 96/2026 Schedule 1 s.5 and s.6; AR 96/2026 s.16(a).
+
+11. UNDATED HEALTH BENEFIT CARDS
+Clients have received health benefit cards carrying no expiry date. What does an undated card indicate about the status of the client's registration, is the card valid for presentation to a pharmacy or provider, and what should a client do if a provider declines it?
+Authority: AR 96/2026 s.13; Schedule 2.
+
+12. RETROACTIVE CANADA DISABILITY BENEFIT LUMP SUMS
+The Canada Disability Benefit is counted as income under Schedule 1 s.1(1)(e). Where a client receives a retroactive lump sum covering earlier months, is the lump sum applied to the month of receipt or prorated over the months to which it relates?
+
+If it is applied to the month of receipt, does the client incur an overpayment for a period during which the department had already deducted an amount on account of the same benefit?
+Authority: AR 96/2026 Schedule 1 s.1(1)(e) and Schedule 1 s.6(5).
+
+13. PERSONS WITH DEVELOPMENTAL DISABILITIES SUPPORTS AND INCOME PROGRAM
+Does a client's eligibility for, or level of, PDD supports depend in any way on whether the client receives AISH or ADAP?
+
+If a client transitions between the two programs, is any PDD assessment, service plan or funding level reopened, reviewed or changed as a consequence?
+Authority: Persons with Developmental Disabilities Services Act; ADAP fact sheet, July 23, 2026, automatic AISH retention criteria.
+
+14. THE TWO UNPUBLISHED MINISTERIAL ORDERS
+Schedule 1 s.4(2) of AR 96/2026 provides that the Minister may by order determine the employment and self-employment income amounts a director must deduct, and the method for determining additional amounts. I have not been able to locate that order in published form.
+
+Separately, AR 89/2007 s.6(e), as replaced by AR 87/2026, exempts from appeal a decision under AR 96/2026 s.3(1)(a) as to whether a person has a severe disability that permanently prevents employment, unless the Minister has specified that decision under s.10(2)(e) of the Act as a type an appeal panel may hear. I have not been able to locate any such specification.
+
+Please provide both instruments, or confirm that no specification under s.10(2)(e) has been made. If no specification has been made, please confirm that a determination that a person is not permanently prevented from working carries no right of appeal.
+Authority: AR 96/2026 Schedule 1 s.4(2); AR 89/2007 s.6(e) as replaced by AR 87/2026 s.4; Act s.10(2)(e).
+
+RESPONSE
+
+I would be grateful for a written response within 30 calendar days. If the department needs longer for any question, an interim response identifying which questions will take longer, and by when, would be appreciated.
+
+Question 1 concerns information given to a client at a departmental office, and other clients may be relying on the same information now. I ask that it be answered first if the remainder must wait.
+
+Sincerely,
+
+[FULL NAME]
+[YOUR CITY OR TOWN], Alberta
+[EMAIL ADDRESS OR PHONE NUMBER]
+Date sent: [DATE]`
+  },
+  {
     id: "health-card-coverage-ahcip",
     title: "Health coverage \u2014 ask Alberta Health to confirm your status in writing",
     blurb: "For anyone told at a desk that their coverage is not active, or anyone holding one of the older paper cards with no expiry date printed on it. Cards issued since July 2, 2026 carry an expiry date, and where a personal health number sits on a driver's licence the registration runs on the licence date. Nothing published says what an undated older card is \u2014 not that it is invalid, and nobody has said that either. Question 2 in this letter is the one that matters beyond your own file: if enough people ask it in writing, one of the answers that comes back can be shared with everybody.",
