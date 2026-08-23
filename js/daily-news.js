@@ -9,6 +9,51 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-22",
+  title: "Where Things Stand \u2014 August 22, 2026",
+  body: `Tea Time was today and it was a good one. This is the shorter version for anyone who missed it, plus a few things that came up after.
+
+## FIRST, THE THING NOBODY TOLD US
+Alberta health cards now expire.
+
+As of July 2, every new health card has an expiry date on it. If you have the new combined driver's licence or ID card, your health coverage expires the same day that card does. If you have a standalone card or the mobile one, the date is printed right on it. The Premier confirmed today it runs on a five year cycle.
+
+Here is the part to pay attention to. Alberta's own website says that using an expired card can mean being turned away at a doctor's office or paying out of pocket. You will never be refused emergency care, but you may get a bill for it.
+
+Two things worth knowing before you go to a registry. When you get the combined card, you hand your paper card over and you do not get it back. And if you swap a standalone card for the mobile version, you can keep the old paper one, but you can never ask for a replacement paper card again.
+
+On children, I can only take you part way. Kids get a standalone card and it has an expiry date on it like everyone else's. If your child is 12 or older and getting an ID card, a parent or guardian has to be there. What is not published anywhere is how long a child's card runs, or how you revalidate a child when your licence and their card expire on different dates. That one is going on the list.
+
+## IF YOU HAVE ALREADY FILED AN APPEAL AND SOMEBODY FROM THE PROGRAM PHONES YOU
+This came up today and it worried the person it happened to, so here it is for everyone.
+
+That call is normal. Alberta's appeal page says that after you file, the program goes back over the documents it used to make the original decision to see if the thing can be settled without a hearing, and that someone from the program may call you to talk about it. It is a step in the process.
+
+**But do not agree to withdraw your appeal on that call.** The same page says that if you have new information you want them to look at, you may need to withdraw your appeal to give it to them. If you say yes to that on the phone, your appeal is gone and there is no putting it back.
+
+Your appeal stays filed until you are holding the outcome in writing. Write down the date and the name. You do not have to decide anything that day.
+
+## IF YOU WERE TURNED DOWN FOR HELP WITH A ONE TIME COST
+Things like a damage deposit, moving costs, an emergency. There is a published test for these and it has four parts. You have to be under the asset limit or in financial hardship. You have to show you need it. You have to not be able to get it somewhere else. And you have to meet the specific requirements for that particular benefit.
+
+That is the list. If you were turned down for some other reason, ask them which of the four you failed, and if it is the fourth one, ask where that requirement is published so you can read it.
+
+## STILL TRUE FROM EARLIER THIS WEEK
+If your payment was cut or stopped, the window to appeal is 30 days and it starts from the day you were told, not the day the statement shows up. You can appeal while you are still waiting for information. That is their own guide, not my opinion.
+
+If you started on AISH or ADAP after July 1, the $100 energy rebate is not automatic for you and the window closes **September 30**.
+
+## AND THE GOOD NEWS, WHICH CAME FROM ONE OF YOU
+A member of this community read the regulation herself and found the answer to the $150 question I have been chasing for two days. The one time federal $150 coming September 1 is money paid to cover the cost of applying for the disability tax credit, and the rules say that kind of money does not get counted as your income. She was right and I was still looking.
+
+Nothing in the Alberta rules changed today. The base amounts, the $200 top up, the couples rule and the child amounts are all still exactly as they were this morning.
+
+Rest up. We go again tomorrow.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-21",
   title: "Where Things Stand \u2014 August 21, 2026",
   body: `Here is where things sit at the end of the week.
