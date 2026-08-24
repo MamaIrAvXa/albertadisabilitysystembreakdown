@@ -9,6 +9,58 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-23",
+  title: "Where Things Stand \u2014 August 23, 2026",
+  body: `Quiet Sunday on the government side. Nothing in the Alberta rules changed today. The base amounts, the $200 top up, the couples rule and the child amounts are all exactly as they were yesterday.
+
+So tonight's update is mostly things that came from you.
+
+## THE REPORTING DEADLINE THAT ISN'T WRITTEN DOWN
+One of you asked a plain question this week. What date each month do pay stubs have to be in by? She remembered being told the 14th back when it was just AISH, went looking for it in the policy and the legislation, and couldn't find it.
+
+I went looking too. It is not published. Not on the AISH pages, not on the ADAP pages, not on the report a change page. Alberta publishes the payment date but not the reporting deadline.
+
+Here's why that one bothers me more than most. The regulation says that if income is reported late, the earnings exemption is voided entirely. Not reduced. Gone. So there's a deadline nobody publishes, sitting on top of a penalty that is written into law.
+
+If you work and you report income, ask your office in writing what the cut off date is for your file. And keep their reply.
+
+## A TIP IF YOU EMAIL THEM AND GET BOUNCED
+She got an automatic reply saying general inquiries won't be answered through that inbox, with a link to the website. The website doesn't have the answer. That's a loop.
+
+The way out is to make the question about your file rather than about the program. Not "what is the rule," but "regarding my file, what date do my pay stubs need to be received by for that month's payment." Same question, much harder to file under general inquiry.
+
+And keep the auto reply. It's dated and it proves you asked.
+
+## IF YOU'VE BEEN GIVEN AN ACTION PLAN
+One of us shared what's on hers. There's no review date on it. Nothing about what happens if a goal isn't met. Nothing about who sees it or what goes back to ADAP. She wasn't told about parking or travel costs either.
+
+That's one person's experience, so I'm not calling it a pattern yet. But if you've been given a plan, three questions are worth asking in writing. When is this reviewed and by whom. What happens if a goal is not met. Does a copy go to ADAP, and what's in it.
+
+Ask about your travel and parking too. Employment and training expenses are on the list of things that can be covered. Nobody seems to be mentioning that.
+
+## ONE THING WORTH CLEARING UP
+Qualifying for PDD does not put someone on AISH. They're separate programs with separate tests. AISH turns on the medical question and the medical report answers it.
+
+So if you're waiting on a PDD outcome before starting an AISH reapplication, you don't have to. Both can run at the same time and the same records feed both.
+
+## A NUMBER TO WATCH OUT FOR
+If you see **$1,901** quoted anywhere as the AISH rate, that's out of date. It's the pre July figure. The current base is **$1,940**.
+
+## TWO DATES
+The federal $150 goes live **September 1**, nine days out. Automatic, no application. It's money for the cost of getting the disability tax credit, and that kind of money doesn't get counted as your income.
+
+The $100 energy rebate window closes **September 30** if you started on AISH or ADAP after July 1.
+
+That's it for tonight. Short one, and I'm glad of it.
+
+Thank you to everyone who asked something this week instead of assuming they were the only one. Every single item above came from somebody doing that.
+
+Rest well. Back tomorrow.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-22",
   title: "Where Things Stand \u2014 August 22, 2026",
   body: `Tea Time was today and it was a good one. This is the shorter version for anyone who missed it, plus a few things that came up after.
