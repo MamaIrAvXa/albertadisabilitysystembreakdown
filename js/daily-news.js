@@ -9,6 +9,64 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-24",
+  title: "Where Things Stand \u2014 August 24, 2026",
+  body: `Not a quiet night. Five things, and the first one has a deadline on it.
+
+## IF YOU'RE PARTWAY THROUGH A DISABILITY TAX CREDIT APPLICATION, READ THIS FIRST
+From **September 8**, the Canada Revenue Agency stops accepting old versions of Form T2201. Anything printed before 2023 will not be processed, and you would have to start over with your doctor.
+
+That's fifteen days.
+
+If your form is sitting at a clinic waiting to be filled in, or filled in and waiting to be sent, check the version. If it's an old one, get a current copy and get it in.
+
+There's a second change already in force. Since July 14, you can no longer send a disability tax credit application through the "submit documents" part of your CRA account. That route only takes documents CRA has specifically asked you for. Apply online through the DTC section or by mail.
+
+This matters to a lot of us, because the disability tax credit is the gate to the federal disability benefit.
+
+## THE $150 ANSWER IS NOW CONFIRMED TWICE
+On Saturday I told you the regulation says money paid to cover the cost of applying for the disability tax credit doesn't get counted as your income. That's Schedule 1, section 1(1)(e)(i).
+
+Tonight the government's own staff manual turned up saying the same thing in different words. Two separate documents, same answer.
+
+So the one-time $150 arriving this fall should not be clawed back. If yours is reduced, you now have two places to point.
+
+The catch I mentioned before still stands. If AISH or ADAP paid for your medical report, they can ask for that money back when the federal payment arrives. That's them recovering what they spent, not counting the $150 as income. Ask in writing whether it applies to you.
+
+## DO NOT USE THE FEDERAL BENEFIT CALCULATOR RIGHT NOW
+The government's own online estimator is running on last year's numbers. Canada.ca says so on its own page.
+
+Here's what is current. The Canada Disability Benefit maximum is **$204.20** a month for July 2026 to June 2027, up from $200. If you work, **$10,210** of your pay is set aside if you're single, or **$14,294** for a couple. Both went up a little this year.
+
+But the income cut-offs on that page have not been updated, so anything the calculator tells you today is a 2025 answer. Don't plan around it.
+
+## THE EARNINGS NUMBERS, AND WHAT'S MISSING BEHIND THEM
+The amounts you can earn before your benefit comes down are written in the staff manual. AISH **$350**. ADAP **$700**. ADAP with dependants **$1,100**. A partner of an AISH or ADAP client **$1,500**.
+
+Those are real numbers from a real document and I'd rather you had them than guessed.
+
+Here's the part worth knowing. The regulation says a worker must apply these deductions in accordance with a ministerial order. That order is not published anywhere. So the numbers exist as policy, and the legal instrument they're supposed to come from isn't on the public record.
+
+That's now the third time this month we've found a consequence written into law with the trigger written nowhere. Same shape as the reporting deadline. Same shape as the employment expectations.
+
+## ONE THAT'S CAUGHT SOMEBODY ALREADY
+If anyone tells you there's more money for you on Income Support under a handicap benefit, please check before you move. A government bulletin dated July 2 says the Handicap Benefit and Client Sub-Type 43 Severe Handicap have both been discontinued. That same bulletin encourages people to apply for AISH or ADAP instead.
+
+Somebody in this community was told last week it was still active. She checked before acting. Not everyone would.
+
+## TWO QUICK THINGS
+The $100 energy rebate closes **September 30** if you were approved after July 1. If you moved from AISH to ADAP in July, it's not clear which side of that line you're on, so ask.
+
+And if you're waiting on money, check Chequeline and tell us what date it shows. Two people now have seen August 21 sitting there while nothing landed, and in one case the worker had no idea Chequeline was showing it. If a few more of you get the same date, that's a system doing something rather than bad luck.
+
+That's tonight. Longest one in a while, sorry.
+
+The T2201 deadline is the one to act on. Everything else can wait for morning.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-08-23",
   title: "Where Things Stand \u2014 August 23, 2026",
   body: `Quiet Sunday on the government side. Nothing in the Alberta rules changed today. The base amounts, the $200 top up, the couples rule and the child amounts are all exactly as they were yesterday.
