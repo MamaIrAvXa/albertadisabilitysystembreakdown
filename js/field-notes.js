@@ -16,6 +16,40 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "If your August or September payment came in short, read this",
+        date: "2026-08-26",
+        body: `I've now had several people tell me the same thing, and the reason they're being given is the same each time.
+
+The situation looks like this. Somebody earned employment income during 2025. Their payment gets reduced, sometimes by hundreds of dollars, sometimes twice in a row. When they ask why, they're told it relates to the income they earned last year.
+
+Here's what's worth knowing.
+
+The earnings exemption structure changed on July 2, 2026, when the new regulation came into force. Income earned in 2025 was earned when a different structure was in place.
+
+Whether the current rules can be applied to income earned before they existed depends on the transitional provisions, and I have not read them, so I'm not going to tell you it's wrong. What I will say is that it's a real question with a real answer, and the answer has to come from them in writing.
+
+## IF THIS IS HAPPENING TO YOU, HERE'S WHAT TO ASK
+Send this to your zone office:
+
+"Please confirm in writing what income amount was used to calculate my [MONTH] benefit, what period that income covers, what exemption amount was applied to income earned before July 2, 2026, and under what transitional provision. Please also confirm the date I was notified of this decision."
+
+That last line matters as much as the rest. If they reduced your benefit and never told you, that's a separate problem.
+
+## AND WATCH THE CLOCK
+A reduction is a decision. **The window to appeal is 30 days and it runs from the day you were told**, not from the day you work out what happened. If you were told in early August, some of that window is already gone.
+
+Filing an appeal is not the same as fighting. It can be a letter rather than the form. Your name, your file number, what you're appealing, and the date you were told. That's enough to stop the clock, and you can withdraw at any time. What it does is make somebody senior pull your file and look at it.
+
+One caution. Once an appeal is filed, the program won't consider new information, and the panel can only look at what they had when they decided. So if you have anything they haven't seen, send it in before you file.
+
+## IF YOU ARE SHORT RIGHT NOW
+If you're short on food or rent because of this, the 24 hour line is **1-866-644-5135** and emergencybenefits.alberta.ca works without phoning.
+
+And please tell us. If your payment was reduced and you were told it was because of last year's income, reach out. We want to know the month, the rough amount, and what they told you. Two people is bad luck. Several is a pattern, and a pattern with dates on it is something that can be put in front of the Minister.
+
+Money vanishing without an explanation is frightening, and chasing it while you are already unwell is worse. If tonight is heavy, **988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
         title: "The new Alberta health card, and what nobody has been told",
         date: "2026-08-19",
         body: `A few people have raised this in the last day or two and there is a fair bit of confusion, so I had the government pages and the legislation read properly today. Here is what they say, what they do not say, and the one thing you should do this week.
@@ -269,7 +303,7 @@ The 24-hour Income Support Contact Centre runs every day, evenings, weekends and
 
 **780-644-5135** or toll free **1-866-644-5135**
 
-Email: css.iscc@gov.ab.ca
+Email: alss.iscc@gov.ab.ca
 
 Emergency help for basic needs including food, shelter and transportation. Food and transportation can be sent by Interac e-Transfer.
 
