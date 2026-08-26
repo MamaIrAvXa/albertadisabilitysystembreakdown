@@ -9,6 +9,53 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-25",
+  title: "Where Things Stand \u2014 August 25, 2026",
+  body: `Five things tonight, and the first one is for tomorrow morning.
+
+## YOUR SEPTEMBER MONEY GOES OUT TOMORROW, WEDNESDAY AUGUST 26
+That's from the government's payment schedule. Direct deposits land four business days before the first of the month, cheques go in the post six.
+
+This is the first full payment run since August, when the new payment software sent out wrong amounts and left some people with nothing. Nobody has said publicly that the fault is fixed.
+
+So please check your account tomorrow instead of assuming it arrived. If it's wrong, write down three things before you phone anyone. The date, what landed, and what you expected. That written record is what turns a complaint into something that gets sorted, and it's a lot harder to reconstruct a week later.
+
+## THE $150 ANSWER GOT STRONGER
+On Saturday I told you the rules say money paid to cover the cost of applying for the disability tax credit doesn't get counted as your income. That came from Schedule 1 of the regulation, and a member found it before I did.
+
+Tonight it turns out to be even firmer than that. The same carve-out appears twice in the regulation, once for your own income and again for a partner's. So this isn't a staff handbook or a policy decision somebody could change quietly. It's the law as it currently stands.
+
+There's one small gap left. Ottawa describes the $150 as covering the cost of obtaining the tax credit. Alberta's regulation says cost of applying for it. Those are almost certainly the same thing, but the department still hasn't confirmed it in writing and I'm still asking.
+
+## SOMETHING NOBODY HAS BEEN TOLD, AND IT'S GOOD NEWS
+From January 1, 2027, the AISH and ADAP monthly amounts, the child benefit amounts and the personal benefit amounts **must** be adjusted every year for inflation.
+
+Not may be, at the government's discretion, the way it used to work. Must be. It's written as a duty in the regulation.
+
+Nobody can tell you how much yet, because the size depends on a rate set under the provincial income tax act that hasn't been published.
+
+What it means practically is that every number we've all been quoting is this year's number. $1,940, $1,740, the child benefit amounts. They all move in the new year. I'd suggest we all start saying "current to the end of 2026" when we quote them, myself included.
+
+## TWO CLEAR ANSWERS ON THE $100 ENERGY REBATE
+It will not be counted against your AISH, ADAP or Income Support, and it's not taxable. That's on the government's own rebate page, so you can point at it if anybody tells you different.
+
+And if you moved from AISH to ADAP in July, that page says you're enrolled automatically and don't need to apply. There's a line further down that could be read the other way, so if you haven't seen $100 arrive, just apply anyway. Applications close **September 30**, and applying when you didn't need to is far better than missing it.
+
+One warning that came with it. If you get a text about the rebate, don't tap the link. The government doesn't send money by text.
+
+## AND THE DOCTORS HAVE PUT IT IN WRITING
+The Alberta Medical Association's own magazine has run a long piece on the AISH to ADAP move. The president of its family medicine section says her patients are being made to prove a disability they already proved, through a process that took months or years the first time, and that the fee for the new assessment almost certainly won't cover the work involved. The article also notes that around 700,000 Albertans don't have a family doctor at all.
+
+That's not us saying it. That's the doctors' own publication.
+
+One thing before you go looking for it. That article discusses a death by suicide connected to fears about the transition. I'd rather you knew that before you clicked than found it partway through.
+
+## IF ANY OF TONIGHT HAS SAT HEAVY
+You can call or text **988** any hour, and texting works the same as calling. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. There is no shame in using either of them, and you do not have to be in crisis to call.
+
+That's tonight. Check your account in the morning.`
+},
+{
   date: "2026-08-24",
   title: "Where Things Stand \u2014 August 24, 2026",
   body: `Not a quiet night. Five things, and the first one has a deadline on it.
