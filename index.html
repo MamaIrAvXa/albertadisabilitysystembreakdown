@@ -244,16 +244,76 @@
 .tm-header-text .section-intro { margin-top: .5rem; }
 @media (max-width: 640px) { .tm-header { grid-template-columns: 1fr; justify-items: start; } .tm-rose { max-width: 200px; } }
 </style>
+<style>
+/* Alert bar — payments, emergency line, DTC denials */
+.alert-bar{background:#8a1c2b;color:#fdefe6;padding:.7rem 1.1rem .55rem;font-size:1rem;line-height:1.55;border-bottom:3px solid var(--gold-500,#d4a017);}
+.alert-bar .alert-line{max-width:1100px;margin:0 auto .45rem;text-align:center;}
+.alert-bar .alert-line:last-of-type{margin-bottom:.15rem;}
+.alert-bar strong{color:#fff;}
+.alert-bar em{font-style:italic;}
+.alert-bar a{color:#ffd98a;text-decoration:underline;font-weight:700;white-space:nowrap;}
+.alert-bar a:hover{color:#fff;}
+.alert-dates{max-width:1100px;margin:.35rem auto 0;border-top:1px solid rgba(255,217,138,.35);padding-top:.4rem;}
+.alert-dates summary{cursor:pointer;text-align:center;color:#ffd98a;font-weight:700;font-size:.95rem;list-style:none;}
+.alert-dates summary::-webkit-details-marker{display:none;}
+.alert-dates summary::after{content:" \25be";}
+.alert-dates[open] summary::after{content:" \25b4";}
+.alert-dates-body{max-width:620px;margin:.6rem auto 0;text-align:left;font-size:.95rem;}
+.alert-dates-body p{margin:0 0 .5rem;}
+.alert-dates table{width:100%;border-collapse:collapse;margin:.5rem 0;font-size:.95rem;}
+.alert-dates caption{text-align:left;font-weight:700;color:#fff;padding-bottom:.3rem;}
+.alert-dates th,.alert-dates td{text-align:left;padding:.32rem .5rem;border-bottom:1px solid rgba(255,217,138,.25);}
+.alert-dates th{color:#ffd98a;font-size:.85rem;text-transform:uppercase;letter-spacing:.05em;}
+.alert-dates tbody tr:first-child td{font-weight:700;color:#fff;}
+.alert-dates-note{font-size:.88rem;opacity:.9;}
+.alert-dates-note a{white-space:nowrap;}
+@media(max-width:640px){.alert-bar{font-size:.95rem;} .alert-bar a{white-space:normal;}}
+</style>
 </head>
 <body>
 
 <a class="skip" href="#main">Skip to main content</a>
 
-<!-- EMERGENCY LONG-WEEKEND BAR — remove after Tue Aug 4, 2026 -->
-<div class="emergency-bar" aria-label="Emergency support this long weekend" style="background:#8a1c2b;color:#fdefe6;text-align:center;padding:.7rem 1.1rem;font-size:1rem;line-height:1.55;border-bottom:3px solid var(--gold-500,#d4a017);">
-  <strong style="color:#fff;">No money this long weekend?</strong> The Income Support line is open 24 hours, every day — including Heritage Day Monday: <a href="tel:18666445135" style="color:#ffd98a;font-weight:700;text-decoration:underline;white-space:nowrap;">1-866-644-5135</a> · <a href="/pdfs/july-2026-docs/ADSB_Emergency_Numbers_Card_July2026.pdf" target="_blank" rel="noopener" style="color:#ffd98a;text-decoration:underline;white-space:nowrap;">the one-page card &rarr;</a>
+<!-- ALERT BAR — payment problems, payment dates, DTC denials.
+     Review when the September/October cycle settles. Payment dates are the
+     government's published 2026 schedule, checked 2026-08-26. -->
+<div class="alert-bar" aria-label="Urgent help with payments and the disability tax credit">
+  <p class="alert-line">
+    <strong>Payment wrong this cheque?</strong>
+    Check the <em>amount</em>, not just that something arrived. Write down the date, what landed and what you expected, then ask your office in writing what was deducted and <strong>the date you were notified</strong> &mdash; a reduction is a decision, and the 30 days to appeal runs from that date.
+    <a href="#field-notes">what to do &rarr;</a>
+  </p>
+  <p class="alert-line">
+    <strong>No money right now?</strong>
+    The Income Support line is open 24 hours, every day:
+    <a href="tel:18666445135">1-866-644-5135</a> &middot;
+    <a href="/pdfs/july-2026-docs/ADSB_Emergency_Numbers_Card_July2026.pdf" target="_blank" rel="noopener">the one-page card &rarr;</a>
+  </p>
+  <p class="alert-line">
+    <strong>Denied for the Disability Tax Credit?</strong>
+    You are not finished. If you have medical information CRA has not seen, ask for a <em>second review</em> in writing &mdash; there is no deadline, but do not sit on it. If you believe they were wrong on what they already had, you can file a formal objection, and that one has a hard limit of <strong>90 days from the date on your notice of determination</strong>. You can also simply reapply at any time.
+    <a href="/pdfs/august-2026-docs/What_You_Must_Disclose_PLAIN_LANGUAGE_August2026.pdf" target="_blank" rel="noopener">reading first &rarr;</a>
+  </p>
+  <details class="alert-dates">
+    <summary>Payment dates &mdash; when your money is due</summary>
+    <div class="alert-dates-body">
+      <p>Payment is <strong>4 business days before the first of the month</strong>, and it pays for the month ahead. Cheques are posted 6 business days before, then take normal mail time on top. Same schedule for AISH, ADAP and Income Support.</p>
+      <table>
+        <caption>Remaining 2026 payment dates</caption>
+        <thead><tr><th scope="col">Month it covers</th><th scope="col">Paid on</th></tr></thead>
+        <tbody>
+          <tr><td>September 2026</td><td>Wednesday, August 26, 2026</td></tr>
+          <tr><td>October 2026</td><td>Thursday, September 24, 2026</td></tr>
+          <tr><td>November 2026</td><td>Tuesday, October 27, 2026</td></tr>
+          <tr><td>December 2026</td><td>Wednesday, November 25, 2026</td></tr>
+          <tr><td>January 2027</td><td>Tuesday, December 22, 2026</td></tr>
+        </tbody>
+      </table>
+      <p class="alert-dates-note">Source: the government's published payment schedule, checked August 26, 2026. If your deposit has not arrived on the date above, ring Alberta Supports on <a href="tel:18776449992">1-877-644-9992</a>.</p>
+    </div>
+  </details>
 </div>
-<!-- /EMERGENCY LONG-WEEKEND BAR -->
+<!-- /ALERT BAR -->
 
 <header class="site-header" id="top">
   <div class="wrap nav-wrap">
