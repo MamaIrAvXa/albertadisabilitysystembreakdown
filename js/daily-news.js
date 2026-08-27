@@ -9,6 +9,63 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-26",
+  title: "Where Things Stand \u2014 August 26, 2026",
+  body: `Four things tonight, and the first one is not what I hoped to be writing.
+
+## SEPTEMBER'S PAYMENT WENT OUT TODAY, AND IT IS NOT CLEAN
+I said yesterday I'd report back on whether this month went better than August. Here's the honest answer.
+
+There is nothing in the news about it. No coverage anywhere today. But I've spent the day with people in this community, and this is what came in.
+
+Somebody short by $249.33 with no explanation. Somebody short the same amount two months running, and told it relates to a federal benefit letter they sent in back in June. Somebody short by roughly $800 in August and again in September, and told it relates to income they earned last year. Somebody who submitted their pay stubs twice, confirmed by phone that the office had them, and got nothing at all. Somebody who was overpaid, reported it in writing, and has had no reply. Somebody who got no statement and so has no way of knowing whether their amount is right.
+
+That's one day, from one community. So please do not read a quiet news cycle as a fixed system, because the failures this month are landing on individual people quietly rather than making headlines.
+
+**Check your account, and check the amount, not just that something arrived.** A payment that shows up short is easy to miss if you're relieved to see anything at all.
+
+## IF YOURS IS WRONG
+Write down three things first. The date, what landed, and what you expected. Then send this to your zone office:
+
+"My September payment was $[AMOUNT] less than expected. Please confirm in writing what amount was deducted, why, what income or period it relates to, and the date I was notified of that decision."
+
+Ask for the notification date specifically. If they reduced your benefit and never told you, that's a separate problem from the deduction being wrong.
+
+And watch the clock. A reduction is a decision. **There's a 30 day window to appeal and it runs from the day you were told**, not the day you work out what happened.
+
+Tell us. The month, roughly how much, and what they told you. We're keeping count, and a pattern with dates on it is something that can be put in front of the Minister. Several people separately is a story. Several people with numbers and dates is evidence.
+
+## SOMETHING COMING IN JANUARY IF YOU'RE IN SUBSIDISED HOUSING WITH CHILDREN
+Your Canada Child Benefit is going to start counting as income when they work out your rent. For the Rent Assistance Benefit that starts January 1, 2027. For community housing rent, January 1, 2028.
+
+Rent is worked out at 30 percent of household income. So roughly, for every $100 of child benefit counted, about $30 more goes to rent.
+
+This comes from the housing body that will be doing the calculating, and a newspaper column mentioned it the same day, so two separate sources. I don't have the regulation itself yet and I'm still chasing it.
+
+Nothing changes today. I want this in next year's plan rather than turning up as a shock at your annual review. And note how it arrives: one person at a time, on their own review date, which is why it will never be reported as news.
+
+## A CORRECTION, AND PLEASE HELP ME WITH THIS ONE
+A newspaper column today said couples where both partners are on disability are cut to between 80 and 88 percent.
+
+The 88 is right. **The 80 does not exist.** I read the regulation again tonight and it gives one figure, 88 percent, and it applies to the living allowance only, not the $200 top up.
+
+If you see the 80 figure going round, please don't pass it on. We lose more from one wrong number than we gain from a dozen right ones.
+
+## THE $150 BECOMES LAW IN SIX DAYS
+September 1 is when the rules take effect. Alberta's regulation says what gets counted is Canada Disability Benefit money that is not paid to cover the cost of applying for the disability tax credit. The $150 is paid for exactly that, so it should sit outside what they deduct. That part is solid.
+
+What isn't solid is when it lands. The federal page says the timing will be posted soon. There's a September 17 date circulating that is not on any government page, so please don't budget against it.
+
+One more thing. An editor at the Stettler Independent has written about all of this today. Not an advocacy group, a newspaper editor. Worth pointing people at, and it's where the 80 percent figure came from, so read it knowing that.
+
+It also discusses a death by suicide connected to fears about the transition. I'd rather you knew before you clicked.
+
+## IF ANY OF TONIGHT IS SITTING CLOSE TO HOME
+**988** is there any hour, by call or text. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. You do not have to be in crisis to call either of them.
+
+Check the amount, not just that it arrived.`
+},
+{
   date: "2026-08-25",
   title: "Where Things Stand \u2014 August 25, 2026",
   body: `Five things tonight, and the first one is for tomorrow morning.
