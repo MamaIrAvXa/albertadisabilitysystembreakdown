@@ -39,7 +39,7 @@ When income drops, the need does not go away. It moves. It shows up at the food 
 
 So this is not us asking them for a favour. It is us pointing out that this is already landing on them, and that fixing the income is cheaper than cleaning up after it. That's their own logic, we're just saying it back.
 
-**The date. Saturday September 26, at noon.** After that we wait a full year.
+**The filing deadline is Saturday September 26.** But the date that actually matters is earlier: FCSSAA can send a resolution back if there is no sign the council endorsed it, and councils meet about twice a month with agendas closing a week ahead. So aim for the **first week of September**. If the 26th does pass there is an emergent route, but it is harder and not guaranteed.
 
 ## WHAT'S ON THE SITE
 Four things, all free, all under the FCSSAA Resolution section.
