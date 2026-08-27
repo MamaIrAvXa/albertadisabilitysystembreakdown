@@ -16,6 +16,52 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Something we can put forward, and there's a deadline",
+        date: "2026-08-26",
+        body: `Most of what I ask of you is defensive. Write this letter because something went wrong. Keep that record in case they say you never reported. Appeal that decision before the clock runs out.
+
+This one is different. This is us putting something on the table before anything has gone wrong.
+
+## WHAT IT IS
+Once a year, the Family and Community Support Services Association of Alberta meets and votes on resolutions. A resolution is a formal request. If it passes, the whole association carries it to the government.
+
+FCSS is the preventive services arm in nearly every town in Alberta. Parenting programs, seniors' support, help getting to appointments. Their whole job is to stop a problem before it becomes a crisis.
+
+We want disability income on that list this year.
+
+## THE CATCH, AND IT'S THE WHOLE THING
+You and I cannot submit a resolution. Only a town council or an FCSS board can.
+
+So the job is to ask them. **One councillor saying yes is all it takes.**
+
+## WHY FCSS IS THE RIGHT ROOM
+When income drops, the need does not go away. It moves. It shows up at the food bank, the housing office, the crisis line, and the FCSS desk.
+
+So this is not us asking them for a favour. It is us pointing out that this is already landing on them, and that fixing the income is cheaper than cleaning up after it. That's their own logic, we're just saying it back.
+
+**The date. Saturday September 26, at noon.** After that we wait a full year.
+
+## WHAT'S ON THE SITE
+Four things, all free, all under the FCSSAA Resolution section.
+
+Start with the plain-language guide. It explains what FCSS is, what a resolution is, and what to do, in short sentences with no jargon.
+
+Then there's the resolution itself as its own file, so you can attach it to an email. There's the full package with the whole argument and the sourcing, for when somebody asks for detail. And there's the contact list.
+
+There's also an email tool. Pick who you're writing to, fill in your town and your name, and the letter writes itself. Then attach the resolution and send.
+
+## WHAT YOU DO. ABOUT FIFTEEN MINUTES.
+Search your town's name and the word council. Then your town's name and FCSS. Send the email. If you can't find the right person, reach out to us and we'll look for you.
+
+Twelve councils have already spoken up. Barrhead, Calgary, Camrose, Claresholm, Cochrane, Cold Lake, Edmonton, Grande Prairie, Lethbridge, Red Deer, Rocky Mountain House and St. Albert have all either passed a motion or written to the Minister. If you live in one of those, say so in your email. "Our council has already written to the Minister. I'm asking you to take the next step."
+
+Medicine Hat isn't on that list but our council has been engaged there, so it's worth a letter too.
+
+One line worth adding if you can manage it. After the ask, one or two sentences about what this has meant for you. Not because it's sad. Because it's real, and it's from somebody who lives in their town. That's the strongest thing in the email.
+
+And tell us who you wrote to. Not to keep score. So nobody gets missed, and no council gets three emails from three of us while the next town gets none.`
+      },
+      {
         title: "If your August or September payment came in short, read this",
         date: "2026-08-26",
         body: `I've now had several people tell me the same thing, and the reason they're being given is the same each time.
