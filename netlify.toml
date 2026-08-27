@@ -49,6 +49,12 @@
   to = "/rose-thank-you.html"
   status = 200
 
+# FCSSAA resolution package — short shareable link. Must resolve before the catch-all.
+[[redirects]]
+  from = "/fcssaa"
+  to = "/fcssaa.html"
+  status = 200
+
 # 404 fallback to home
 [[redirects]]
   from = "/*"
