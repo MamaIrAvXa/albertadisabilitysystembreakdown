@@ -1,0 +1,298 @@
+<!--
+  FCSSAA PACKAGE — site section
+  Drop-in section for albertadisabilitysystembreakdown.netlify.app
+  Built to match the Legal Package pattern (#legal-package).
+
+  BEFORE PUBLISHING:
+  1. Upload the four PDFs to /pdfs/august-2026-docs/
+  2. Add <a href="#fcssaa-package">FCSSAA Resolution</a> to the nav and to the footer Quick links
+  3. CSS below is scoped to #fcssaa-package so it will not collide with site styles.
+     If the site's own card styles are preferred, strip the <style> block and
+     reuse the existing .package-card / .step-card classes instead.
+-->
+
+<style>
+#fcssaa-package { --navy: #0d2c54; --gold: #c9a227; --cream: #f6f5f1; }
+#fcssaa-package .fc-eyebrow { text-transform: uppercase; letter-spacing: .08em; font-size: .78rem; color: var(--gold); font-weight: 700; }
+#fcssaa-package h2 { color: var(--navy); margin: .2rem 0 1rem; }
+#fcssaa-package .fc-intro { max-width: 62ch; line-height: 1.6; }
+#fcssaa-package .fc-deadline { background: var(--navy); color: #fff; border-radius: 10px; padding: 1rem 1.25rem; margin: 1.25rem 0; }
+#fcssaa-package .fc-deadline strong { color: #ffd75e; }
+#fcssaa-package .fc-note { background: var(--cream); border-left: 4px solid var(--gold); padding: .9rem 1.1rem; border-radius: 0 8px 8px 0; margin: 1.25rem 0; line-height: 1.55; }
+#fcssaa-package ol.fc-steps { list-style: none; counter-reset: fc; padding: 0; margin: 1.5rem 0; }
+#fcssaa-package ol.fc-steps > li { counter-increment: fc; position: relative; border: 1px solid #dcdcd4; border-radius: 12px; padding: 1.1rem 1.25rem 1.1rem 4.2rem; margin-bottom: .9rem; background: #fff; }
+#fcssaa-package ol.fc-steps > li::before { content: counter(fc); position: absolute; left: 1.1rem; top: 1.1rem; width: 2.1rem; height: 2.1rem; border-radius: 50%; background: var(--navy); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; }
+#fcssaa-package .fc-card-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: .6rem; }
+#fcssaa-package .fc-card-head h3 { margin: 0; color: var(--navy); font-size: 1.08rem; }
+#fcssaa-package .fc-badge { font-size: .7rem; text-transform: uppercase; letter-spacing: .06em; font-weight: 700; padding: .2rem .55rem; border-radius: 999px; background: var(--cream); color: var(--navy); border: 1px solid var(--gold); }
+#fcssaa-package .fc-desc { margin: .5rem 0 .75rem; line-height: 1.55; }
+#fcssaa-package .fc-links a { display: inline-block; margin: .2rem .45rem .2rem 0; padding: .45rem .85rem; border-radius: 8px; background: var(--navy); color: #fff; text-decoration: none; font-size: .9rem; }
+#fcssaa-package .fc-links a.secondary { background: #fff; color: var(--navy); border: 1px solid var(--navy); }
+#fcssaa-package .fc-sender { border: 1px solid #dcdcd4; border-radius: 12px; padding: 1.25rem; margin-top: 1.75rem; background: #fff; }
+#fcssaa-package .fc-sender label { display: block; font-weight: 600; color: var(--navy); margin: .85rem 0 .3rem; }
+#fcssaa-package .fc-sender select, #fcssaa-package .fc-sender input, #fcssaa-package .fc-sender textarea { width: 100%; padding: .55rem .7rem; border: 1px solid #c9c9c0; border-radius: 8px; font: inherit; }
+#fcssaa-package .fc-sender textarea { min-height: 15rem; line-height: 1.5; }
+#fcssaa-package .fc-actions { margin-top: .9rem; display: flex; flex-wrap: wrap; gap: .5rem; }
+#fcssaa-package .fc-actions button, #fcssaa-package .fc-actions a { padding: .55rem 1rem; border-radius: 8px; border: 1px solid var(--navy); background: var(--navy); color: #fff; font: inherit; cursor: pointer; text-decoration: none; }
+#fcssaa-package .fc-actions button.secondary { background: #fff; color: var(--navy); }
+#fcssaa-package .fc-contacts { margin-top: 1.5rem; }
+#fcssaa-package .fc-contacts details { border: 1px solid #dcdcd4; border-radius: 10px; padding: .75rem 1rem; margin-bottom: .6rem; background: #fff; }
+#fcssaa-package .fc-contacts summary { font-weight: 700; color: var(--navy); cursor: pointer; }
+#fcssaa-package .fc-contacts p { margin: .55rem 0 0; line-height: 1.55; font-size: .93rem; }
+</style>
+
+<section id="fcssaa-package">
+  <p class="fc-eyebrow">Take Action</p>
+  <h2>The FCSSAA Resolution Package</h2>
+
+  <p class="fc-intro">
+    Once a year, the Family and Community Support Services Association of Alberta votes on
+    <strong>resolutions</strong> — formal asks that the whole association then carries to the Government of
+    Alberta. We want one on disability income this year. This package is everything needed to make that
+    happen in your town: the plain-language guide, the resolution itself, the full argument, and the people
+    to send it to.
+  </p>
+
+  <div class="fc-deadline">
+    <strong>The deadline is real: noon, Saturday, September 26, 2026.</strong><br>
+    Resolutions go to <a href="mailto:director@fcssaa.org" style="color:#ffd75e">director@fcssaa.org</a>.
+    The vote is at the FCSSAA Annual General Meeting on <strong>November 25, 2026</strong>.
+    After September 26, we wait a full year.
+  </div>
+
+  <div class="fc-note">
+    <strong>The one rule that shapes everything.</strong> Only FCSS member programs and municipal or Métis
+    Settlement councils can submit a resolution. Not individuals, not campaigns, not advocacy organizations
+    however large. So the only way this reaches the floor is if a councillor or an FCSS board
+    <strong>sponsors</strong> it — and the only way that happens is if they hear from us. One sponsor is all
+    it takes.
+  </div>
+
+  <ol class="fc-steps">
+    <li>
+      <div class="fc-card-head">
+        <h3>Ask Your Town To Carry This</h3>
+        <span class="fc-badge">Start here</span>
+      </div>
+      <p class="fc-desc">
+        The plain-language version. What FCSS is, what a resolution is, why disability income belongs in
+        that room, and what to do in about fifteen minutes. No jargon, short sentences, and the questions
+        people have already asked. Read this one first if you read nothing else.
+      </p>
+      <p class="fc-links">
+        <a href="/pdfs/august-2026-docs/ADSB_FCSSAA_Plain_Language_Guide_2026.pdf">Plain language guide (PDF) →</a>
+      </p>
+    </li>
+
+    <li>
+      <div class="fc-card-head">
+        <h3>The Resolution</h3>
+        <span class="fc-badge">For a sponsor to submit</span>
+      </div>
+      <p class="fc-desc">
+        The resolution itself, on its own, in FCSSAA's required <em>BE IT RESOLVED / RATIONALE</em> format,
+        with a note for the sponsoring council or board and the sources for every figure. This is the file to
+        attach when you write to a councillor. Free to adapt and submit — no attribution required.
+      </p>
+      <p class="fc-links">
+        <a href="/pdfs/august-2026-docs/ADSB_FCSSAA_Resolution_ReadyToSubmit_2026.pdf">The resolution (PDF) →</a>
+      </p>
+    </li>
+
+    <li>
+      <div class="fc-card-head">
+        <h3>The Prevention Case</h3>
+        <span class="fc-badge">The full argument</span>
+      </div>
+      <p class="fc-desc">
+        The complete package: why FCSS is the right room, the resolution, both email templates, the contact
+        lists, and a sourcing section so every figure holds up. Built from the government's own published
+        numbers and this campaign's documentation. Send this one when somebody asks for the detail.
+      </p>
+      <p class="fc-links">
+        <a href="/pdfs/august-2026-docs/ADSB_FCSSAA_Prevention_Case_Package_2026.pdf">The full package (PDF) →</a>
+      </p>
+    </li>
+
+    <li>
+      <div class="fc-card-head">
+        <h3>Who To Contact</h3>
+        <span class="fc-badge">Where to send it</span>
+      </div>
+      <p class="fc-desc">
+        Start with your own municipality — your own town's voice carries the most weight. Then work the warm
+        list: councils that have already passed a pause motion or written to the Minister about the
+        disability-income changes. They understand the issue already, which makes them the most likely yes.
+      </p>
+      <div class="fc-contacts">
+        <details>
+          <summary>Warm list — councils that have already spoken up</summary>
+          <p>
+            <strong>Barrhead</strong> — Cllr Steven Fylyshtan sfylyshtan@barrhead.ca · Cllr Anthony Oswald aoswald@barrhead.ca · FCSS staff reception@barrheadfcss.org<br>
+            <strong>Calgary</strong> — Cllr Nathaniel Schmidt (also FCSSAA board) ward8@calgary.ca · Mayor Jeromy Farkas mayor@calgary.ca · staff CommunityWellbeingPartners@calgary.ca<br>
+            <strong>Camrose</strong> — Cllr Agnes Hoveland ahoveland@camrose.ca · Cllr Joy-Anne Murphy jmurphy@camrose.ca · Director Lyndel Kasa director@camrosefcss.ca<br>
+            <strong>Claresholm</strong> — Director Barbara Bell fcss.director@claresholm.ca · Cllr David Knox david.knox@claresholm.ca · Cllr Kandice Meister kandice.meister@claresholm.ca · Cllr Seth Wagner seth.wagner@claresholm.ca<br>
+            <strong>Cochrane</strong> — Theresa Bolton (FCSSAA board) fcss@cochrane.ca · Manager Kim Krawec kim.krawec@cochrane.ca · Cllr Marni Singh marni.singh@cochrane.ca<br>
+            <strong>Cold Lake</strong> — Director Kim Schmidtz kschmidtz@coldlake.com · Cllr Raymond Cowell rcowell@coldlake.com<br>
+            <strong>Edmonton</strong> — Judy Smith judy.smith@edmonton.ca · Cllr Jo-Anne Wright jo-anne.wright@edmonton.ca · Cllr Keren Tang keren.tang@edmonton.ca<br>
+            <strong>Grande Prairie</strong> — Cllr Brian Peterson (FCSSAA board) · Director Melodie McCracken fcss@countygp.ab.ca · Mayor Jackie Clayton jclayton@cityofgp.com<br>
+            <strong>Lethbridge</strong> — Danielle Lenaour Danielle.lenaour@lethbridge.ca · Cllr Belinda Crowson belinda.crowson@lethbridge.ca · Mayor Blaine Hyggen mayor@lethbridge.ca · Cllr Jenn Schmidt-Rempel jenn.schmidt-rempel@lethbridge.ca<br>
+            <strong>Medicine Hat</strong> — FCSS Director Shona Dickie shodic@medicinehat.ca · 403-502-8718<br>
+            <strong>Red Deer</strong> — Manager Bobby-Jo Stannard culturemailbox@reddeer.ca · Cllr Cassandra Curtis cassandra.curtis@reddeer.ca · Cllr Jaelene Tweedle jaelene.tweedle@reddeer.ca<br>
+            <strong>Rocky Mountain House</strong> — Mayor Shane Boniface sboniface@trmh.ca · Manager Andrea Hardy fcssmanager@trmh.ca<br>
+            <strong>St. Albert</strong> — Manager Connie Smigielski csmigielski@stalbert.ca · Cllr Shelley Biermanski sbiermanski@stalbert.ca · Cllr Amanda Patrick apatrick@stalbert.ca
+          </p>
+        </details>
+        <details>
+          <summary>FCSSAA provincial board — worth a note as well</summary>
+          <p>
+            President Kayla Blanchette (Bonnyville) bdfcss@town.bonnyville.ab.ca · Nathaniel Schmidt (Calgary) ward8@calgary.ca ·
+            George Glazier (Paintearth County) gglazier@countypaintearth.ca · Philip Penrod (Beaumont) keep.reaching.beaumont@gmail.com ·
+            Darlene Reimer (Athabasca County) info@athabascacounty.com · Kathleen Waxer (Jasper) kwaxer@jasper-alberta.ca ·
+            Tara Gilchrist (Canmore) tara.gilchrist@canmore.ca · Zakk Morrison (Barons-Eureka-Warner) zakk.morrison@fcss.ca ·
+            Tracy Proulx (Westlock) tproulx@westlock.ca · Crystal Tremblay (Smoky River, Secretary) srfcss@live.ca
+          </p>
+        </details>
+      </div>
+    </li>
+  </ol>
+
+  <!-- ── Email sender ─────────────────────────────────────────── -->
+  <div class="fc-sender">
+    <p class="fc-eyebrow">Send it by email</p>
+    <h3 style="color:var(--navy); margin:.2rem 0 .6rem;">Pick who you're writing to</h3>
+    <p style="line-height:1.55; margin:0;">
+      The letter changes depending on who receives it. Fill in the brackets, then open it in your email or
+      copy it. Nothing sends on its own — you always press send yourself.
+      <strong>Attach the resolution</strong> from step 2 before you send.
+    </p>
+
+    <label for="fc-role">Who are you writing to?</label>
+    <select id="fc-role">
+      <option value="councillor">A municipal councillor or mayor</option>
+      <option value="fcss">FCSS staff or a local FCSS board member</option>
+      <option value="board">An FCSSAA provincial board member</option>
+    </select>
+
+    <label for="fc-to">Their email address</label>
+    <input id="fc-to" type="email" placeholder="name@yourtown.ca">
+
+    <label for="fc-town">Your town</label>
+    <input id="fc-town" type="text" placeholder="e.g. Camrose">
+
+    <label for="fc-name">Your name</label>
+    <input id="fc-name" type="text" placeholder="Your name">
+
+    <label for="fc-subject">Subject</label>
+    <input id="fc-subject" type="text" readonly>
+
+    <label for="fc-body">The letter (edit anything in [brackets])</label>
+    <textarea id="fc-body"></textarea>
+
+    <div class="fc-actions">
+      <a id="fc-mailto" href="#">Open in my email</a>
+      <button type="button" class="secondary" id="fc-copy">Copy the letter</button>
+      <a class="secondary" href="/pdfs/august-2026-docs/ADSB_FCSSAA_Resolution_ReadyToSubmit_2026.pdf">Download the resolution to attach</a>
+    </div>
+    <p style="margin-top:.9rem; font-size:.9rem; line-height:1.5;">
+      Reminder: attach the resolution before you send, and tell us who you wrote to at
+      <a href="mailto:albertadisabilitybreakdown@outlook.com">albertadisabilitybreakdown@outlook.com</a>
+      so no council gets missed and none gets three emails while the next town gets none.
+    </p>
+  </div>
+</section>
+
+<script>
+(function () {
+  var SUBJ = {
+    councillor: "Please sponsor an FCSSAA resolution on disability income — due September 26",
+    fcss: "Support for a proposed FCSSAA resolution on disability income and prevention",
+    board: "Proposed FCSSAA resolution on disability income and prevention"
+  };
+
+  function letter(role, town, name) {
+    town = town || "[your municipality]";
+    name = name || "[Your name]";
+    var sign = "\n\n" + name + "\n" + town + "\n[Phone or email, if you wish]";
+
+    if (role === "councillor") {
+      return "Dear Councillor [name],\n\n"
+        + "I'm a resident of " + town + ". I'm writing to ask you to sponsor a resolution at this year's "
+        + "FCSSAA Annual General Meeting. Resolutions are due to FCSSAA by noon on September 26, 2026, at "
+        + "director@fcssaa.org.\n\n"
+        + "Recent changes to Alberta's disability income are pushing more disabled Albertans toward poverty. "
+        + "When income falls, the need doesn't vanish. It lands on food banks, housing programs, and the "
+        + "FCSS-funded supports meant to prevent those crises in the first place.\n\n"
+        + "FCSS exists to strengthen people and communities through prevention, which makes this a fair and "
+        + "fitting thing for FCSSAA to carry. The proposed resolution is attached. I would be grateful if you "
+        + "would bring it forward through your council or local FCSS board before the September 26 deadline.\n\n"
+        + "[Optional: one or two lines about what this has meant for you or your household.]\n\n"
+        + "Thank you for your time, and for standing up for our community." + sign;
+    }
+
+    if (role === "fcss") {
+      return "Dear [name],\n\n"
+        + "As someone involved in Family and Community Support Services, you see the link between income "
+        + "security and the demand placed on local preventive services every day. I'm writing to ask you to "
+        + "support, and where you can help bring forward, a resolution for this year's FCSSAA AGM. "
+        + "Resolutions are due by noon on September 26, 2026, at director@fcssaa.org.\n\n"
+        + "The proposed resolution asks FCSSAA to advocate that disability income assistance meet basic needs "
+        + "as measured by the Market Basket Measure plus the added costs of living with a disability, preserve "
+        + "the full value of the federal Canada Disability Benefit, maintain access to health and "
+        + "disability-related benefits, and be designed so it prevents rather than shifts hardship onto "
+        + "municipal and community services.\n\n"
+        + "This is squarely within the preventive, community-building purpose of FCSS. The resolution is "
+        + "attached. I would be grateful if you would discuss it with your local FCSS board, advisory "
+        + "committee, or regional representative.\n\n"
+        + "Thank you for your ongoing commitment to stronger, more inclusive communities." + sign;
+    }
+
+    return "Dear [name],\n\n"
+      + "I'm writing as a resident of " + town + " about a resolution I hope FCSSAA will consider at this "
+      + "year's Annual General Meeting. Resolutions are due by noon on September 26, 2026, at "
+      + "director@fcssaa.org.\n\n"
+      + "The resolution asks FCSSAA to advocate that Alberta's disability income assistance provide income "
+      + "measured against the Market Basket Measure plus the additional costs of disability, preserve the full "
+      + "value of the federal Canada Disability Benefit, maintain access to health and disability-related "
+      + "benefits, and be designed to prevent rather than shift hardship onto municipal and community-based "
+      + "services.\n\n"
+      + "As a provincial board member you will know better than most how income inadequacy shows up as demand "
+      + "on local preventive services. I would be grateful if you would raise it with your regional programs, "
+      + "or advise which member program would be best placed to sponsor it.\n\n"
+      + "The resolution is attached, written in the required BE IT RESOLVED and RATIONALE format." + sign;
+  }
+
+  var role = document.getElementById("fc-role"),
+      to = document.getElementById("fc-to"),
+      town = document.getElementById("fc-town"),
+      name = document.getElementById("fc-name"),
+      subject = document.getElementById("fc-subject"),
+      body = document.getElementById("fc-body"),
+      mailto = document.getElementById("fc-mailto"),
+      copy = document.getElementById("fc-copy");
+
+  var edited = false;
+  body.addEventListener("input", function () { edited = true; });
+
+  function render() {
+    subject.value = SUBJ[role.value];
+    if (!edited) body.value = letter(role.value, town.value.trim(), name.value.trim());
+    mailto.href = "mailto:" + encodeURIComponent(to.value.trim())
+      + "?subject=" + encodeURIComponent(subject.value)
+      + "&body=" + encodeURIComponent(body.value);
+  }
+
+  role.addEventListener("change", function () { edited = false; render(); });
+  [to, town, name].forEach(function (el) { el.addEventListener("input", render); });
+  body.addEventListener("input", render);
+
+  copy.addEventListener("click", function () {
+    navigator.clipboard.writeText(subject.value + "\n\n" + body.value).then(function () {
+      copy.textContent = "Copied";
+      setTimeout(function () { copy.textContent = "Copy the letter"; }, 2000);
+    });
+  });
+
+  render();
+})();
+</script>
