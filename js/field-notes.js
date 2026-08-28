@@ -1087,6 +1087,62 @@ If you work and you are on AISH, save this. And if you know someone who works wh
     blurb: "Scams, rumours, and official-looking posts, checked against the real source so the fear has somewhere to land.",
     items: [
       {
+        title: "Don't get hung up on the shiny words \u2014 and a fact-check of this week's Live",
+        date: "2026-08-27",
+        body: `I say it a lot, and I'm leading with it today, because there was a Live this week about AISH and ADAP, and it is worth watching. There was real, solid information in it, especially from the lawyer on how the appeals work and what the law says. I fact-checked the whole thing against the regulations, and most of it holds up. The fact-check is below, so you can see what's right, what to correct, and where to check for yourself.
+
+But here is the thing I need you to hold onto: **shiny words are not law.**
+
+Every party, every leader, every side is going to say the right-sounding things right now. "We'll fix it." "We'll bring it back." "We put the person first." Some of them may even mean it. But a promise at a town hall is not a benefit in your bank account, and it is not a protection you can point to when a worker makes a decision about your file. Hope is not a plan, and it is not a paper trail.
+
+So watch the Live. Learn from it. But don't let the good feelings, or the fear, pull your eyes off what you have to do right now.
+
+Report everything, in writing. Keep every letter and every date. Get your file. Appeal within the clock. And write down every effort you make toward work, because the word "reasonable" isn't even defined in the regulation. It's whatever a director decides, case by case. The only "reasonable" you control is the one you can prove.
+
+The folks on that Live are doing real work for this community, and I am glad they are. But nobody is coming to save you fast enough to skip the careful, boring stuff. The careful, boring stuff is what protects you.
+
+Don't fall for the shiny words. Hold the facts. Keep your records. And keep going.
+
+## THE FACT-CHECK
+I went through the whole conversation and checked it against the real laws and the government's own pages. Here's what holds up, what doesn't, and where you can check for yourself. I am not partisan. This is just about getting the facts right for the people living it.
+
+## WHAT'S RIGHT, AND IT'S THE PART THAT MATTERS FOR YOUR FILE
+- The lawyer's legal quotes are accurate. The "severe disability" definition he reads is almost word for word from the regulation, AR 96/2026.
+- The appeals are described correctly. If the AISH Medical Review Panel denies you, that decision is final, with no appeal. But an ADAP medical denial, and a decision **not** to refer you to AISH, **can** be appealed. Non-medical decisions go to the appeal panel.
+- ADAP's core benefit is $1,740 a month. AISH was $1,940. That's the $200 drop people are feeling.
+- The $200 transition benefit only goes to people who were moved off AISH in July 2026, and it runs until December 31, 2027. New applicants do not get it.
+- Alberta counts the federal Canada Disability Benefit as income and takes it off your cheque. The only province in Canada that does this.
+- Trusts, including a Henson trust, are still treated as exempt, same as before.
+- The government will cover the cost of one medical assessment if you were moved to ADAP and want to be assessed for AISH.
+- ADAP does not force you to get a job, only to make reasonable efforts. There is no rule that removes you at the end of 2027 just for not having one.
+
+## BUT KNOW THIS
+The word "reasonable" is **not defined anywhere in the regulation.** What counts as reasonable efforts is left to the director's opinion, decided case by case, with no set standard you can point to.
+
+So protect yourself. Keep a dated record of every job-search effort, every call, and every accommodation you ask for, so "reasonable" is documented on your side.
+
+## ONE THING TO CORRECT
+The companies running ADAP's employment side were called U.S. firms. The dollar figure, around $100 million, is right. But the companies are not American. They are **Serco**, which is UK-based, and **AKG**, which is Australia-based. Worth getting right if you're going to quote it.
+
+## ALSO CHECKED OUT
+There really is a provincial surplus. Alberta's first-quarter update reported about $2.9 billion, so "$2 billion" was if anything low. The October 19 referendum and the mail-in ballot advice are real. And Bill 206, the Accessible Alberta Act, is a real bill, though note it was already voted down, so it's a promise to bring it back rather than a bill waiting to pass.
+
+## STILL COULDN'T CONFIRM
+The "$40 million in savings" figure and the "about 60 community organizations" number. We couldn't find those in any government source, so please don't quote them as settled.
+
+## THE X AND A CARD TIP
+On your card, the Section shows **A** if you were moved to ADAP and **X** if you're still on AISH.
+
+That's something we figured out by comparing a lot of people's cards. It's a real pattern we've documented, not something the government has published. If your coverage gets rejected at the pharmacy, it's worth checking that letter.
+
+## CHECK IT YOURSELF
+- The ADAP benefit, the $200 transition and the one-assessment promise: alberta.ca, search "Alberta Disability Assistance Program"
+- The legal definitions and the appeal rules: the regulation AR 96/2026 on the Alberta King's Printer site
+- Who the contractors are: search "CBC multinational contractors Alberta disability employment"
+
+Everything above is sourced. If I have got something wrong, tell me and I'll fix it. That's the whole point of doing this.`
+      },
+      {
         title: "The federal change and the Alberta rule: why September 1 does not stop the clawback",
         date: "2026-08-08",
         body: `If you have seen something saying the Canada Disability Benefit is being reclassified so it can no longer be clawed back, you are not imagining it and you did not misread it. That announcement is real.

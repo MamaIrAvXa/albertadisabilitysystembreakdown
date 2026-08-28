@@ -9,6 +9,72 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-27",
+  title: "Where Things Stand \u2014 August 27, 2026",
+  body: `I owe you a correction first, and it is mine.
+
+My nightly check came back again tonight saying September's payments looked clean. It searched the newspapers, found nothing, and I passed that along as cautious good news.
+
+It was wrong, and you are the reason I know.
+
+The failures did not make the news because they landed on people one at a time. Just today: someone with no payment at all and rent due in days. Someone short by the same amount two months running. Someone whose bank shows one number and whose statement from the program shows a different one entirely. Someone still waiting on a service dog benefit, a small benefit payment, and a $100 energy rebate that her own statement says was applied automatically.
+
+The tool searches news channels. It cannot see this community. So from tonight, your reports get checked before I say anything about payments in either direction. That is the fix and it is on me.
+
+## THE SHORTFALL THE CUTS WERE FOR HAS GONE
+In February the government said it would be $9.4 billion short this year. That was the backdrop to all of it. The $200 cut. The couples rule. Taking the federal disability money off your cheque.
+
+Today the province published its quarterly update. It now expects to finish about $2 billion ahead instead, because oil prices went up. That is an $11.5 billion turnaround in six months. Nothing has been given back.
+
+A reporter asked the Finance Minister today whether there would be more help with the cost of living. He said no, that he did not want to create long-term problems across the budget.
+
+I want to be fair about one thing before someone says it back to you. He also said there is no cash sitting in a bank account, because the province is still borrowing. That is true and worth repeating. But a forecast shortfall was the reason we were given, and the forecast shortfall is not there anymore. Say that calmly, and say it often.
+
+## IF YOUR PAYMENT IS WRONG, HERE IS WHAT TO DO
+Check the amount, not just that something arrived. Write down the date, what landed, and what you expected.
+
+New this month, and it caught me out too: **check your statement against your bank.** This week a member had a statement showing one figure and a deposit showing another. So the statement is not always a reliable way to check the payment. If they disagree, that is a problem on its own and worth raising by itself.
+
+Email rather than only phoning. The lines are jammed and an email carries a timestamp.
+
+Ask for the calculation, not just the total. Here is wording you can use:
+
+"Please confirm in writing what amount was deducted from my payment, why, what income or period it relates to, and the date I was notified of that decision."
+
+That last part matters as much as the rest. If they reduced a benefit and never told you, that is a separate problem.
+
+And the clock. A reduction is a decision, and **there are 30 days to appeal it, counted from when they told you**, not from when you work out what happened. Filing is not fighting. It can be a letter and you can withdraw any time.
+
+## THE WORK EARNINGS NUMBERS, FROM THE GOVERNMENT ITSELF
+Before your benefits are affected you can earn **$350** a month on AISH, **$700** on ADAP if you are single, **$1,100** on ADAP with children, and **$1,500** with a partner. These are on the government's own website.
+
+If you have seen $1,072 or $2,612 going around, those are not the government's numbers and I would stop using them.
+
+Here is the strange part. The regulation says those deductions have to follow an order signed by the Minister. That order has never been published anywhere. So the numbers are on a website, and the paper that makes them lawful is not something you or I can read. I am still asking for it.
+
+## THE $200 IS A CEILING, NOT A FLAT AMOUNT
+This one needs saying plainly, because I have seen it going around the wrong way.
+
+The Canada Disability Benefit is not the same for everyone. People receive anywhere from $0 up to the maximum, and that maximum went up in July. What Alberta announced in April was that it would claw back **up to** the maximum. That is not the same as $200 coming off every cheque.
+
+So check your own statement rather than assuming. A member this week has a Service Canada letter showing one monthly amount and an AISH statement deducting a smaller one. I do not yet know what explains the gap, and I have asked. If your letter and your statement disagree, please send it to us with your details covered, because we would like to know how common this is.
+
+## TWO THINGS ARE PUSHING UP RENT IN SUBSIDISED HOUSING
+The first has already started. The $735 of AISH that used to be left out when they worked out your rent is not left out anymore. That came in through an order signed back in May, and it reaches you at your own annual review rather than on a set date. CBC reported it could take someone from $349 rent to $570.
+
+The second starts in January next year, when the Canada Child Benefit begins counting as income too. That one lands on parents.
+
+Nothing to do today. But put both in next year's plan rather than meeting them at your review appointment.
+
+## ONE LAST THING
+Every payment failure I heard about this month landed on somebody who thought they were the only one. They were not. That is the whole reason this community exists.
+
+Tell us. Month, rough amount, what they said. Several people separately is a story. Several people with numbers and dates is evidence, and it goes to the Minister with the dates attached.
+
+## IF ANY OF THIS IS LANDING CLOSE TO HOME
+That is a reasonable reaction to it and you are not being dramatic. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-08-26",
   title: "Where Things Stand \u2014 August 26, 2026",
   body: `Four things tonight, and the first one is not what I hoped to be writing.
