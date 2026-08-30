@@ -1,5 +1,5 @@
 # ADSB Newsletter Manifest — full PDF list under pdfs/ (incl. pdfs/fillable/)
-# Generated: 2026-08-22 02:12 UTC | Format: <YYYY-MM-DD HH:MM mtime>\t<path>
+# Generated: 2026-08-29 06:28 UTC | Format: <YYYY-MM-DD HH:MM mtime>\t<path>
 2026-05-20 21:28	pdfs/access-gap/Access_Gap_Penalized_for_NonAbility.pdf
 2026-05-21 00:13	pdfs/access-gap/Access_Gap_Plain_Language.pdf
 2026-05-26 09:19	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Complete_May2026.pdf
@@ -45,6 +45,9 @@
 2026-05-01 23:11	pdfs/adsb-report-series/9_Three_Years_and_Counting_FSCD_PDD_Crisis_Report.pdf
 2026-05-09 21:06	pdfs/adsb-report-series/9b_Intergenerational_Family_Report.pdf
 2026-05-09 21:06	pdfs/adsb-report-series/9c_Intergenerational_Contradiction_Report.pdf
+2026-08-27 17:07	pdfs/august-2026-docs/ADSB_FCSSAA_Plain_Language_Guide_2026.pdf
+2026-08-27 17:07	pdfs/august-2026-docs/ADSB_FCSSAA_Prevention_Case_Package_2026.pdf
+2026-08-27 17:07	pdfs/august-2026-docs/ADSB_FCSSAA_Resolution_ReadyToSubmit_2026.pdf
 2026-08-19 16:36	pdfs/august-2026-docs/ADSB_What_You_Can_Appeal_August2026.pdf
 2026-07-21 22:10	pdfs/august-2026-docs/AISH_Manual_Comparison.pdf
 2026-08-07 19:18	pdfs/august-2026-docs/Bill53_Breakdown_August2026.pdf

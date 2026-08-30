@@ -9,6 +9,81 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-29",
+  title: "Where Things Stand \u2014 August 29, 2026",
+  body: `I have to start by correcting myself, because I got something wrong last night and I would rather you hear it from me.
+
+Last night I told you that the government's public register of ministerial orders had nothing at all from the disability ministry. Not one order. I said it plainly, so I have to unsay it just as plainly.
+
+It was wrong. The register does have them. Eight orders from Assisted Living and Social Services, six of them from this year. The reason I missed them is that the register opens on a short recent list, and I read that list as if it were the whole thing. It was not. Tonight I made the full search work and there they were.
+
+Here is why the corrected version is stronger, not weaker. We can now see the orders, and some of them matter to us. One of them, from June 29, is the housing change, the one that starts counting child benefits as income for rent. It has an order number now, **M.O. 2026-018**. That is not a rumour anymore. It is a signed, numbered, findable thing, and we can point straight at it.
+
+What is still missing is different, and it is the one that counts. The order that sets how much you are allowed to earn before your benefits are cut is still not in that register, and not on the law website either. The number is on a government web page, but the paper that makes it lawful is not anywhere you or I can read it. So the earnings rules remain the thing they will not show us. That question stands, and now it stands on firmer ground, because I can show you they publish these orders when they want to, and this is the one they have not.
+
+## A CLEANER WAY TO SAY THE CLAWBACK, NOW THAT I HAVE READ THE ACTUAL WORDING
+The rule does not call your Canada Disability Benefit exempt and then take it. It does something plainer. It says the director **must count your CDB as income.** That is the clawback, written in law, in one line. Count it as income, and income reduces your cheque.
+
+The one piece that is not counted is the small $150 supplement, the part meant to cover the cost of applying for the disability tax credit. That one is carved out and left alone. So the regular monthly amount is taken, the $150 helper is not. That is the whole picture, and it is simpler than I have been making it sound.
+
+## TWO NUMBERS THAT KEEP GETTING MIXED TOGETHER, AND SHOULD NOT BE
+There is a $1,200 figure and a $1,500 figure floating around and they are not the same thing, so do not let anyone put them in the same sentence.
+
+The **$1,200** is real and it is in the law. If you have a partner who is not on disability themselves, the first $1,200 of their income is fully protected before any of it counts against you. That one you can rely on.
+
+The **$1,500** is a work-earnings number for a person with a cohabiting partner, and it comes from that same unpublished order we cannot read. So one of these is settled law and one is not, and mixing them just muddies what you can actually count on.
+
+## A REMINDER THAT DATES MATTER NOW
+Every dollar figure I give you, the benefit amounts, the deductions, all of it, is current to December 31 this year. On January 1 the rates move. So if you are writing something down to keep, write **current to end of 2026** beside it, so future you knows it had an expiry.
+
+## AND THE THING WORTH HOLDING ONTO TONIGHT
+I spent this week getting things wrong and correcting them in front of you, twice now, the payment failures and this register. I would rather do it that way than be smoothly confident and wrong in private. You deserve someone who shows their work, including the parts they had to fix. That is the whole difference between us and the system we are up against. They will not show us the order that sets our own earnings. I will show you my own mistakes on a Saturday night.
+
+If any of this sat heavy, be gentle with yourself. Reach out any time, for a form, for the wording, or just to talk. Rest this weekend. We pick it up again.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money this weekend, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day, including weekends.`
+},
+{
+  date: "2026-08-28",
+  title: "Where Things Stand \u2014 August 28, 2026",
+  body: `Four things tonight, and two of them are good news, which does not happen often.
+
+## I OWE YOU AN ADMISSION FIRST, BECAUSE IT IS MINE
+For a week I have been telling you the government's register of ministerial orders returns nothing, and I let that harden into a claim that the paperwork behind the work earnings rules was being hidden. That was my mistake. The register works fine. I was reading it the wrong way.
+
+Tonight I opened it properly. It is up to date as of today, it covers 13 departments, and Assisted Living and Social Services is not in it at all. Their own search box knows that department exists. So the honest position is not that the order is hidden, it is that the order is not in the register, and that is a sharper question to put to them than the one I had a week ago. I would rather tell you I got something wrong than let you carry a claim I cannot stand behind.
+
+## THE MONEY NUMBERS GOT CLEARER TODAY, AND THEY ARE WORTH HOLDING ONTO
+The province gave a fuller picture of its finances. Two figures stood out. There is $1.5 billion in contingency that has not been assigned to anything yet. And the $100 energy rebate, the one nearly everyone gets, cost $357 million in three months.
+
+The Finance Minister's answer to all of this is that oil money is temporary and they will not build permanent programs on money that could disappear. I want you to hear that said fairly, because it is a reasonable thing to say. The price of oil went up because of a war, and wars end.
+
+But here is the part it does not answer. The $200 a month taken off disabled people was permanent. It was decided on a forecast that has since moved by $11.5 billion. If temporary money should not pay for permanent promises, then a temporary shortfall is a thin reason for a permanent cut. Say that one calmly. It holds up.
+
+## THE SEPTEMBER DISABILITY BENEFIT DATE IS CONFIRMED, AND I CAN FINALLY PROVE IT
+The Canada Disability Benefit pays on **September 17**. It is on the Service Canada payment calendar now, a real government page, not just something going round online. Last week I would not give you that date because nothing was behind it. Now I will.
+
+One caution, and please hold on to it. The calendar gives the payment date. It does not say the extra $150 lands that same day. It very likely does. But nobody official has said so, so plan for your normal payment on the 17th and treat the $150 as a bonus whenever it turns up.
+
+And the $200 clawback figure some of you asked me to pin down: the maximum Canada Disability Benefit for this year, July 2026 to June 2027, is **$204.20**. That is the ceiling. People get anywhere from $0 up to that, and Alberta claws back up to that maximum, not a flat $200 off every cheque. Check your own statement against what Service Canada says you get.
+
+## A QUIET FINDING THAT MATTERS IF IT IS YOU OR SOMEONE YOU LOVE
+If you are terminally ill or receiving palliative care, the rules treat you very differently, and much better. You skip the medical panel. The medical report does not have to be filled in. Your file goes to the front of the queue.
+
+The trouble is that nowhere in the regulation, the manual, or the adjudicator's guide does anyone define what terminal or palliative actually means. No time frame, no form, no standard. So it rests on whoever reads your file. If they read it differently than you would, there is nothing written down to point at. I am asking about that one.
+
+If you or someone close to you is in that situation and being made to jump through the ordinary hoops anyway, tell us. That should not be happening, and it is exactly the kind of thing this community can help push on.
+
+## ONE LAST THING, AND IT IS ABOUT YOU, NOT THE NUMBERS
+This week a lot of you sent in your payment problems, your statements, your bounced emails, and your questions. Some of you sent the thing that was scaring you at eleven at night. Every one of those mattered. The failures this month did not make the news because they landed on people one at a time, and the only reason we know the real picture is because you told us.
+
+So keep telling us.
+
+## IF ANY OF THIS IS LANDING CLOSE TO HOME TONIGHT
+That is a reasonable way to feel about it, and you are not alone in it. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-08-27",
   title: "Where Things Stand \u2014 August 27, 2026",
   body: `I owe you a correction first, and it is mine.
