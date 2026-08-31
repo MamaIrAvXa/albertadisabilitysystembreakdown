@@ -16,6 +16,36 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "How much your partner can earn while you are on AISH or ADAP",
+        date: "2026-08-31",
+        body: `A few of you have asked this, and there has been a $1,200 number going around. That number is real, but it is being used for the wrong thing, so let me sort it out, because if you are budgeting you need the right one.
+
+There are two different rules, and which one applies depends on how your partner gets their money.
+
+## IF YOUR PARTNER WORKS
+The first **$1,500 a month** of their job income is fully protected before it touches your cheque. Above $1,500, it is a gradual reduction, not dollar for dollar and not a cliff.
+
+The government's own example: a partner earning $1,800 a month has the first $1,500 fully exempt and only the last $300 partially reduced. So a working partner can bring in a fair amount before it affects you.
+
+## IF YOUR PARTNER'S MONEY COMES FROM CDB, CPP, EI, WCB OR A PENSION
+That is a different rule. The first **$1,200 a month** is fully protected, and then a quarter of anything above $1,200 is protected too, so only 75% of the part over $1,200 counts.
+
+This one is written right into the regulation, so it is the one you can point to on paper.
+
+## THE QUICK VERSION
+- Partner works: **$1,500** protected.
+- Partner gets CDB, CPP, EI, WCB or a pension: **$1,200** protected, plus a bit more.
+
+That is the same under both AISH and ADAP.
+
+## TWO HONEST NOTES
+The $1,500 working-partner number is set by a ministerial order the government has not published, so it is the current figure in their own manual and website, but I would run your real numbers through the AISH and ADAP benefit estimator before locking a budget to it. The $1,200 one you can rely on hard: it is in the regulation itself.
+
+And neither is frozen. The $1,200 goes up January 1, 2027. The $1,500 goes up whenever minimum wage rises. So if you are writing your budget down, put **current to end of 2026** beside these, and recheck in January.
+
+If you are trying to work out where your own household lands, reach out and tell us how your partner earns their income, and we will walk through it with you. And as always, the safest thing is to ask the program in writing and keep their answer.`
+      },
+      {
         title: "Something we can put forward, and there's a deadline",
         date: "2026-08-26",
         body: `Most of what I ask of you is defensive. Write this letter because something went wrong. Keep that record in case they say you never reported. Appeal that decision before the clock runs out.
