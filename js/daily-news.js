@@ -9,6 +9,49 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-30",
+  title: "Where Things Stand \u2014 August 30, 2026",
+  body: `Big night. The earnings numbers we have been chasing for weeks turned up, printed on the government's own pages. And I have three corrections to make, one of them to something I told you last night. I would rather own all three up front than bury them.
+
+## CORRECTION ONE, AND READ THIS BEFORE ANYTHING ELSE. THE ENERGY REBATE.
+Last night I told you the $100 energy rebate is not automatic and you have to apply. For most of you, that was wrong, and I am sorry.
+
+If you are on AISH, on ADAP as a transferred client, or on Income Support, **you are enrolled automatically.** No application. The government's own page and fact sheet say so plainly, and they also say the rebate does not affect your other benefits. So for most of you there is nothing to do and nothing to worry about.
+
+The one group that does have to apply is people approved for these programs **after July 1** this year. If you came on after July 1, you are not auto-enrolled, you have to apply through the portal, you need your 2025 taxes filed, and the window closes **September 30**. So that warning was real, it just applies to new clients, not to everyone.
+
+## CORRECTION TWO. THE CDB CLAWBACK. I HAVE BEEN TELLING YOU THE WRONG THING ABOUT THE MATH.
+I had been saying Alberta takes $200 and the most you get is $204.20, so you net a few dollars. That is not how it works, and the real answer is simpler and worse.
+
+There are two separate things. The **$200 is a penalty**, and only a penalty, for not applying for the Canada Disability Benefit or not telling them what happened with your application. It is not the normal deduction.
+
+The normal deduction is **dollar for dollar**. Whatever CDB you actually receive, they take all of it. So there is no few dollars left over. The federal increase to $204.20 does not reach you at all, unless you are on a modified living allowance. I got this wrong before and I want it corrected cleanly.
+
+## CORRECTION THREE, AND THIS ONE IS GOOD NEWS WEARING BAD CLOTHES. THE EARNINGS FIGURES ARE REAL AND THEY ARE FINALLY PUBLISHED.
+For weeks I have said the amounts you can earn were not written down anywhere official. As of a page updated August 21, they are. All of them, in one table on the government site and in two new July guides.
+
+Here is what you can earn before it affects your cheque. On AISH, **$350** a month. On ADAP single, **$700**. On ADAP with children, **$1,100**. With a partner, **$1,500**.
+
+And here is the part that matters most, said plainly in their own guide. On AISH, every dollar you earn above $350 comes straight off your cheque. All of it. You keep nothing above $350. On ADAP it is gentler: above your limit they take a slowly rising share rather than all of it.
+
+So if you have seen $1,072 or $2,612 going around as the earnings numbers, drop them. They are not in any government source. The real ones are the four above.
+
+What has still not changed, and it is the whole point. The numbers are now printed everywhere you would look. The signed order that is supposed to make them law is still published nowhere. So they will show you the rules but not the paper that makes them binding. That question stays open and it is sharper now, not weaker.
+
+## TWO MORE THINGS WORTH KNOWING, QUICKLY
+If you are on AISH and you work enough that your cheque drops a lot for long enough, they can move you to ADAP, which pays $200 a month less. What counts as a lot and long enough is not defined anywhere I can find. So it is worth asking before you pick up extra shifts.
+
+And the housing change coming January 2027 is a bit different than I thought. The core of it is a new power for the minister to count money that never shows up on your tax return when they work out your rent. That is the door the child benefit and the disability benefit walk through. There is also a new $25,000 limit on what you can own and still qualify for community housing. Nothing to do today, but put it in next year's plan.
+
+## THE THING TO HOLD ONTO TONIGHT
+Three corrections in one night is a lot, and I thought about softening that. But you deserve the opposite. When I get something wrong, you will hear it from me, in the same place I said it, as plainly as I can. That is the whole difference between us and what we are up against. They will not show us the order behind our own earnings rules. I will show you every correction I owe you on a Sunday night.
+
+Be gentle with yourselves. Reach out any time, for a form, for the wording, or just to talk.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-08-29",
   title: "Where Things Stand \u2014 August 29, 2026",
   body: `I have to start by correcting myself, because I got something wrong last night and I would rather you hear it from me.
