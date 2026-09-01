@@ -9,6 +9,99 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-08-31",
+  title: "Where Things Stand \u2014 August 31, 2026",
+  body: `## FIRST, A CORRECTION, AND IT TURNED OUT TO BE WORSE THAN I THOUGHT
+Last night I told you the government says AISH clients who earn too much will be moved to ADAP. I went and read the policy manual today. It does not say that. It says **may** be moved.
+
+Then I kept reading, and it got stranger. Three separate pages of the same manual, all stamped July 2, 2026, say three different things. One says you may be moved to ADAP. One says you may be moved to ADAP or to the Alberta Adult Health Benefit. One says you are transferred to ADAP, flat, like it is automatic.
+
+So the manual disagrees with itself, on the same day, about what happens to you if you earn too much. And no public page on alberta.ca addresses the question at all. Not the ADAP fact sheet, not Your Guide to Disability Income Assistance.
+
+Neither "significant" nor "prolonged" is defined anywhere. I checked. The word "prolonged" appears exactly once in the whole manual, in that one sentence, and nowhere else. No number of months, no dollar figure, nothing.
+
+What I said out loud yesterday was "they can move you," and that still holds. But you deserve to know the government has not decided what its own rule is.
+
+## THE RAMP GRANTS WENT UP, AND I HAVE A CORRECTION TO SOMETHING I SAID ABOUT THEM
+On August 21 the province raised the Residential Access Modification Program grants from $7,500 to **$12,000** a year, and from $15,000 to **$24,000** over 10 years.
+
+Last night I warned you the guidelines document still showed the old numbers. That was wrong, and I want to fix it properly. The guidelines linked from the program page have been updated and show $12,000 and $24,000 correctly.
+
+Here is the real trap. There is a second copy of that guidelines document sitting on the Open Government site, and it is from 2019, and it still says $7,500. If you search for it instead of clicking through from the program page, that old copy is what you will land on. So go to alberta.ca/residential-access-modification-program and follow the link from there. The application form may still be the old version.
+
+**What RAMP covers:** ramps, stair lifts, door widening, flooring changes, bath lifts, bathtub door inserts. New this time, you can also get funding to modify a caregiver's home, not only your own.
+
+**Who qualifies:** anyone at any age who uses a wheelchair, seniors 65 and up who use a 4 wheel walker, and people with MS, muscular dystrophy, ALS, COPD, Parkinson's, Alzheimer's, spina bifida, spinal cord injuries or a non recovering stroke. Homeowners, renters, and people living with family all count. Indigenous people on and off reserve count.
+
+**Income limits:** $36,900 single, $46,500 for a single parent with 1 child or a couple with no children, $56,100 for a couple with 1 child, going up by $9,600 for each additional child to $94,500. An extra $7,131 if the family includes a child who permanently uses a wheelchair. They can make exceptions within $1,200 of the limit.
+
+Two things the web page does not tell you. There is a second test on top of income, based on the value of your property, and it is only in the guidelines document. The caps run from $660,000 down to $276,000 depending on your situation. You can be refused on a number you never saw. And the guidelines say wheelchair or walker use must be "on a permanent basis" where the web page says "ongoing basis." If you get refused, that wording difference is worth arguing about.
+
+RAMP has no appeal. If you are turned down you reapply with new information.
+
+## IF SOMEONE HAS TOLD YOU A CUT CANNOT BE APPEALED
+I read the appeals regulation tonight, all 11 exempt categories, and then the section they point to.
+
+There are 3 grounds in the regulation for cutting your benefit over something you did or did not do. Only 1 of them is protected from appeal, and it is failing to apply for CPP or Old Age Security, or failing to sign it over.
+
+So if they cut you for supposedly using your benefit for the wrong thing, that is appealable. If they cut you because you were out of the province for a while, that is appealable. If they cut you over information you did or did not give them, that is appealable.
+
+Now the part I have to be careful about, because I do not want anyone walking into an office with the wrong idea. That list of 3 is one part of a longer list of 11 things you cannot appeal, and 2 others on that longer list are serious. A decision about whether you have a severe disability that permanently prevents employment is not appealable. And a decision to take money off your cheque to recover a debt or an overpayment is not appealable.
+
+So the narrow point is this. The manual talks about client responsibility cuts in a broad way that makes them all sound unchallengeable, and that is not what the regulation says. If someone tells you a cut cannot be appealed, **ask them which paragraph of section 6 they are relying on. Make them name it.**
+
+## WHAT IT WOULD TAKE TO BREAK EVEN ON ADAP
+Gillian Petit at the University of Calgary published the arithmetic. To have ADAP benefits equal to or higher than AISH, a client has to earn at least **$2,136 a month**, which after tax and deductions works out to about 39 hours a week at minimum wage.
+
+One important thing about timing. That break even applies from January 2028, when the transition top up ends. If you moved from AISH to ADAP this year, you are held at the $1,940 AISH amount until then. So this is not describing your cheque this month. It is describing what is coming.
+
+She also reports about 16% of AISH clients are employed, which is roughly 1 in 6, a share her work describes as having held steady for years. So for about 5 in 6 people the arithmetic has no answer available.
+
+I said last night I had not read her published work myself. I have now, and both figures are in it.
+
+## AND THE $1,072 NUMBER, CORRECTED PROPERLY
+That number was not invented. I found it in the repealed regulation tonight. But it needs a qualifier I did not give you last night.
+
+$1,072 was the fully exempt earnings amount for an AISH client with **no partner and no dependent child**. If you had a partner or a child, your exempt amount was $2,612, more than twice as much.
+
+And the old rule had a second layer that is now gone. Above the exempt amount, half your earnings were still protected, up to $2,009 for a single client. The new AISH rule is $350 fully exempt and then nothing above it.
+
+So the drop is worse than $1,072 to $350 makes it sound. All of this changed on July 2, not July 1.
+
+## THE EXTRA $150 BECOMES LAW TOMORROW
+The $150 supplement to the Canada Disability Benefit takes legal effect September 1. You do not apply for it. It comes as a lump sum, one for each approved disability tax credit certificate that qualifies you for a monthly CDB payment.
+
+On timing, the federal page changed on August 19 and now says "Starting in Fall 2026." No date attached. Alberta's own fact sheet says by March 2027. Those are 2 different answers from 2 different governments and neither one is a date. **Please do not budget it for September.**
+
+Two other things you should know. Alberta's regulation counts your regular monthly CDB as income, but it only requires counting CDB money that is not paid to offset the cost of applying for the disability tax credit. This $150 is paid for exactly that purpose, so on the face of the regulation it falls outside. That is my reading of the text, and it is the right reading, but I will say plainly it has not been confirmed to me by the department.
+
+And if AISH paid for your DTC medical assessment upfront, Alberta's own fact sheet says clients will be required to repay that amount. So for some people the $150 may go straight back rather than staying with you. Worth knowing before you count on it.
+
+## DATES TO WATCH
+**September 8, 8 days.** The CRA stops accepting versions of Form T2201 from before 2023. Their wording is that older versions will no longer be accepted and you will need to submit a new application. Also, since July 14 you cannot send a DTC application through the "submit documents" section of your CRA account. It has to go through the digital application or by mail.
+
+**September 24, 24 days.** The October AISH, ADAP and Income Support payment. This is the cycle I am watching to see whether August's payment problems are behind us. 6 clean checks so far.
+
+**September 30, 30 days.** Alberta Energy Rebate applications close. $100 per eligible person. If you were on AISH, ADAP, Income Support or the Seniors Benefit before July 1, you are enrolled automatically. If you came onto a program after July 1, you have to apply through the portal. You need to be 18 as of July 1, an Alberta resident, have filed a 2025 tax return, and have household income of $225,000 or less.
+
+**October 27, 57 days.** The legislature comes back. It has been adjourned since May 14, which is why so many of my questions have had nowhere to go.
+
+## WHAT I STILL CANNOT TELL YOU
+The Canada Disability Benefit income cutoffs for 2026-27 are still not published. To be precise, since I was too broad last night: the monthly maximum of $204.20 and the working income exemptions of $10,210 single and $14,294 for a couple are published for July 2026 to June 2027. What is missing is the family net income level where the benefit starts being reduced. That page still shows last year's $23,000 and $32,500 with no year label, and the federal estimator still says it calculates on 2025-26 data.
+
+There are 2 numbers circulating for that missing threshold, $23,483 single and $33,182.50 for a couple. They do not appear on any federal government page I can find. If you see them presented as this year's numbers, they are not sourced.
+
+The 2027 Alberta indexing figure is not published either, and here I want to be fair. The measuring window for a January 2027 adjustment runs October 2025 to September 2026, so it has not finished yet. That silence is timing, not withholding. I will say when it is not.
+
+The ministerial order that sets the earnings exemption amounts still does not exist publicly. I searched the ministerial orders register tonight. There is exactly 1 order under the AISH Act in 2026, and it is not this. Every exemption figure the government publishes traces back to an order nobody outside the department has seen.
+
+## ON TONIGHT'S CHECKING
+Everything above was re-opened against a primary source tonight, including 2 pieces I had wrong last night. The RAMP warning and the legislature date were both corrected before this went out rather than after. I would rather tell you when I fix something than let it sit.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-08-30",
   title: "Where Things Stand \u2014 August 30, 2026",
   body: `Big night. The earnings numbers we have been chasing for weeks turned up, printed on the government's own pages. And I have three corrections to make, one of them to something I told you last night. I would rather own all three up front than bury them.
