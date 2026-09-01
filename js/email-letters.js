@@ -207,6 +207,70 @@ Date: [today's date]
 Regulation references are to AR 96/2026 as in force July 2, 2026.`
   },
   {
+    id: "privacy-misdirected-files",
+    title: "Somebody else's file arrived instead of yours \u2014 the misdirected disclosure letter",
+    blurb: "Albertans who asked for their own AISH or ADAP file have received, in place of it, the complete file of another person \u2014 in one account more than 500 pages of another individual's medical, financial and identifying information. In more than one account the recipient was told by staff to shred the records, and that was the whole of the response: no confirmation that the person whose file it was had been told, and no confirmation the incident was reported. This letter asks the Minister for the figures, because only the ministry holds the authoritative count, and asks for two actions. Send it whether or not it happened to you \u2014 the seven questions are answerable either way.",
+    to: "alss.minister@gov.ab.ca",
+    cc: "premier@gov.ab.ca, generalinfo@oipc.ab.ca",
+    toHint: "Goes to the Minister of Assisted Living and Social Services.",
+    ccHint: "Copied to the Premier's office and, as a matter of record, to the Office of the Information and Privacy Commissioner. Add your own MLA as well \u2014 find yours at <b>contact.assembly.ab.ca</b>. If you are in St. Albert, that is <b>St.Albert@assembly.ab.ca</b>.",
+    subject: "Repeated disclosure of AISH/ADAP personal files to the wrong recipients \u2014 request for figures and independent review of the access-to-information release process",
+    note: "IF THIS HAPPENED TO YOU, TWO THINGS BEFORE YOU SEND. Do not put the other person's name, file number, medical details or any identifying information in this email, or in anything you send us \u2014 they have already had their privacy breached once and it should not happen twice. Describe what arrived in general terms only. And you have your own right to complain directly to the Information and Privacy Commissioner about it, free and without a lawyer, at oipc.ab.ca. On the shredding: this letter does not tell you to keep or to destroy anything. What it says is that instructing a member of the public to shred misdirected records does not discharge the ministry's obligations, because it destroys the evidence of the disclosure and leaves the person whose file it was unaware it ever happened. Ask the ministry in writing what you should do with the records and keep their answer. Whatever comes back, send it to us.",
+    body:
+`Minister,
+
+I am writing about a pattern of misdirected disclosures in your ministry's handling of access-to-information requests for AISH and ADAP files.
+
+Albertans with disabilities who requested their own file have received, in place of it, the complete file of another person. In one account, the package ran to more than 500 pages and contained another individual's medical, financial and identifying information. That is not an isolated report: there are multiple separate accounts of the same failure since the ADAP transition took effect on July 2, 2026, including accounts in which more than one third party's information arrived in a single release, and accounts in which the disclosure came by email.
+
+[IF THIS HAPPENED TO YOU, ADD ONE OR TWO SENTENCES HERE. WHAT DATE THE PACKAGE ARRIVED, HOW IT CAME, AND THAT IT CONTAINED ANOTHER PERSON'S RECORDS. DO NOT INCLUDE THAT PERSON'S NAME OR ANY OF THEIR DETAILS. IF IT DID NOT HAPPEN TO YOU, DELETE THIS PARAGRAPH.]
+
+I want to be precise about what these are. They are accounts given by the people who received the records. They are not, on their own, a finding. Your ministry holds the authoritative count. That is why this letter asks for it rather than asserting it.
+
+What concerns me most is not the error itself, which any large release process can make once. It is what happened next.
+
+In more than one account, the recipient was instructed by ministry staff to shred the other person's records, and that was the whole of the response. No confirmation that the person whose file it was had been told. No confirmation that the incident was reported. In at least one of those accounts the recipient contacted their MLA and was again told to shred the papers.
+
+Instructing a member of the public to destroy misdirected records does two things. It destroys the evidence of the disclosure, and it leaves the person whose information was released unaware that it was released. It does not discharge the ministry's obligations.
+
+Section 10(2) of the Protection of Privacy Act requires a public body to notify affected individuals, the Information and Privacy Commissioner, and the Minister following the loss of, unauthorized access to, or unauthorized disclosure of personal information in its custody or under its control, where a reasonable person would consider that there exists a real risk of significant harm. The unsolicited release of a complete disability file \u2014 medical history, income details, identifiers \u2014 to a stranger is not a clerical matter. It is the category of disclosure the section exists to capture.
+
+So my first question is a simple one, and only your office can answer it.
+
+I request a written response to the following:
+
+1. Since July 2, 2026, how many privacy incidents has your ministry recorded in which records belonging to one AISH or ADAP client were released to a different individual, whether by mail, email, or in person?
+
+2. In how many of those incidents was the Information and Privacy Commissioner notified?
+
+3. In how many of those incidents were you, as Minister, notified under section 10(2)?
+
+4. In how many of those incidents was the person whose information was disclosed notified that their file had been released to someone else?
+
+5. In how many incidents was the recipient asked or instructed to destroy or shred the records, and under what authority is that instruction given?
+
+6. What verification step exists before an access-to-information release package leaves your ministry \u2014 specifically, is any release reviewed by a second person against the requester's identity before dispatch?
+
+7. Given the volume of requests generated by the AISH-to-ADAP transition, what change in staffing, training, or process accompanied the increase, and when?
+
+I also ask for two actions.
+
+First, that every recipient who was told to shred misdirected records be contacted, and that every individual whose file was released to another person be notified directly, whether or not the records were destroyed. A person cannot protect themselves from a disclosure nobody told them about.
+
+Second, that the access-to-information release process for AISH and ADAP files be placed under independent review, and that bulk release be paused until a verification step is confirmed in writing. Albertans on disability benefits are being asked to trust this ministry with everything about themselves. That trust is not optional for them. They cannot take their file elsewhere.
+
+I am copying the Information and Privacy Commissioner as a matter of record. Individuals affected retain their own right to complain to that office.
+
+I would appreciate a written response within 30 days.
+
+Regards,
+
+[FULL NAME]
+[YOUR CITY OR TOWN], Alberta
+[EMAIL ADDRESS OR PHONE NUMBER]
+Date sent: [DATE]`
+  },
+  {
     id: "minister-fourteen-questions",
     title: "Fourteen questions to the Minister \u2014 what is the rule, and where can I read it",
     blurb: "Fourteen questions on the administration of ADAP and AISH, each one about a rule clients are being asked to comply with that cannot be found in published form, or a point on which people have been given conflicting answers. Covers the Calgary office statement about employment income, third-party rent payments, participation while a reassessment is pending, in-person attendance and accommodation, what a reassessment requires and who pays for it, what is disclosed to employment contractors and what they report back, the assessment tool, income reporting deadlines, undated health cards, retroactive CDB lump sums, PDD supports, and the two unpublished Ministerial orders. Every question names the section it rests on, and asks the department to name the section its answer rests on.",
