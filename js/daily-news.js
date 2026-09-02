@@ -9,6 +9,104 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-01",
+  title: "Where Things Stand \u2014 September 1, 2026",
+  body: `## FIRST, A CORRECTION, AND THIS ONE IS AWKWARD BECAUSE I HAVE NOW HAD IT BOTH WAYS
+Saturday night I told you the RAMP guidelines document still showed the old $7,500 figure. Sunday night I corrected myself and told you the guidelines had been updated and showed $12,000 correctly, and that the trap was an old 2019 copy sitting on a different site.
+
+Tonight's check says the alberta.ca RAMP page still carries a notice that the guidelines and the application form will be updated in the next several weeks and that existing forms should be used in the meantime. And that the published guidelines PDF is still the pre-increase document.
+
+So I have told you 2 different things on 2 nights, and tonight's reading was taken from search results rather than from opening the page directly, which means I cannot even tell you with confidence which of my 2 answers was right.
+
+Here is what I am going to do instead of guessing a third time. **Do not rely on either version of what I said.** If you are applying to RAMP, go to alberta.ca/residential-access-modification-program, open whatever guidelines document is linked there that day, and read the dollar figure with your own eyes. If it says $7,500, the increase to $12,000 was announced on August 21 and you can say so in your application.
+
+I will open the page myself and give you a settled answer. Until I do, that item is unreliable and I would rather say that plainly than keep flip-flopping at you.
+
+## NOW THE THING I MOST WANT YOU TO READ, BECAUSE IT AFFECTS A DECISION SOME OF YOU ARE MAKING RIGHT NOW
+The $200 transition benefit has 2 exclusions written into the regulation that appear on no government web page.
+
+**The first:** if you live in a facility and receive the modified living allowance, you do not get the transition benefit at all. Not reduced. Excluded.
+
+**The second, and this is the one that matters if you are thinking about work:** if you come off ADAP and later go back on, the transition benefit does not come back. Earn your way off for a few months, or lose eligibility for any reason and get re-approved later, and the $200 is gone permanently. Even though the transition period is supposed to run to December 31, 2027.
+
+The alberta.ca ADAP page was read in full tonight. It describes the transition benefit without either qualification.
+
+So if you are weighing a job that might briefly lift you off ADAP, that is a permanent $200 a month decision and nobody has told you.
+
+## SOMETHING THE REGULATION GETS RIGHT, AND YOU SHOULD KNOW ABOUT IT
+An AISH client cannot have their benefit cut for refusing work.
+
+The provision that lets a director cut a benefit for refusing to seek or accept reasonable employment applies only to benefits under section 3.02 of the Act, and section 3.02 is ADAP. The old regulation had no such limit. It let a director act against any client who refused reasonable employment. That ground has been removed for AISH entirely.
+
+So on AISH, refusing a job is not a ground to touch your benefit. On ADAP, it is.
+
+That is one of the few places the new rules are better than the old ones, and it deserves to be said accurately instead of swallowed up in the general alarm.
+
+## THE ACT SAYS THE QUIET PART IN WRITING
+Two sentences from the statute itself, quoted tonight.
+
+The first says the amount of a benefit under ADAP may be less than the amount of the same type of benefit the person received under AISH.
+
+The second says that for greater certainty, a person has no right of appeal with respect to their transition to ADAP.
+
+Read those together. The reduction was not an administrative side effect that nobody foresaw. It was written into the statute in advance, and the same statute removed the ability to challenge the move that produces it.
+
+If you have been carrying guilt about missing the appeal window, put it down. That door was built to close.
+
+## THE OLD EARNINGS RULES, NOW COMPLETE
+Last night I gave you $1,072 and $2,612. Tonight I can give you the whole structure, because the repealed regulation itself was opened.
+
+A single person could keep 100% of employment income up to $1,072 a month, and 50% of everything between $1,072 and $2,009.
+
+A person with a partner or a dependent child could keep 100% up to $2,612, and 50% between $2,612 and $3,349.
+
+Passive income had its own layer, 100% up to $300 single or $875 with a partner or child, then 25% of the rest.
+
+Now compare. AISH is $350 fully exempt. ADAP is $700. There is no partial band above either one that anyone has published.
+
+And here is the part that matters most and gets the least attention. The old numbers were written into the regulation. They were law, and changing them required an Order in Council on the public record. The new numbers are not in any regulation. They sit in a ministerial order that has not been issued.
+
+One point of care about sourcing. The repealed regulation is difficult to open right now, because the site that hosts it is behind a verification wall. So these figures rest on our own archived copy of the regulation and on Gillian Petit at the University of Calgary, who published the same numbers from the same instrument. Two sources, matching exactly. I would rather tell you that than imply a cleaner chain than I have.
+
+## WHAT HAPPENS ABOVE $350, AND HOW I KNOW IT
+Nobody outside government has been given the rate at which your benefit drops when you work, because it lives in that unissued order.
+
+So Petit went and got it out of the government's own AISH and ADAP benefit estimator instead. What she found for AISH is that above $350 a month the clawback becomes 100%. Every dollar earned above $350 comes straight off your cheque.
+
+I am telling you that as something a researcher pulled from a calculator, not as something I have read in law, because there is no law to read. I am going to run the estimator myself and publish the curve, so we are not relying on someone else having run it.
+
+## THE $150 BECAME LAW TODAY
+The federal $150 supplement to the Canada Disability Benefit took legal effect today, September 1. It is fixed at $150, paid as a lump sum, and there is nothing to apply for.
+
+The federal page still says more information about when to expect payment will be available soon. So the law started and the payment date did not. Please do not budget it.
+
+Whether Alberta claws it back, I still cannot tell you. No Alberta source addresses it either way, and I will not guess at your money.
+
+## DATES
+**September 8, 7 days.** The CRA stops accepting versions of Form T2201 from before 2023. An older version will not be processed, you will need to submit a new application. I have seen September 6 circulating. The primary source says September 8. Use September 8.
+
+**September 15, 14 days.** The next Alberta Gazette. This is the next chance for that missing ministerial order to appear.
+
+**September 24, 23 days.** October AISH, ADAP and Income Support payment. The cycle I am watching to see whether August's payment failures are behind us.
+
+**September 30, 29 days.** Alberta Energy Rebate applications close. $100 per person. Auto-enrolled if you were on a program before July 1. Anyone enrolled after July 1 has to apply.
+
+**October 26, 55 days.** The legislature is expected back. The list of questions is long and growing.
+
+## ONE MORE THING, ON THE MONEY
+Alberta is now on track for a $2 billion surplus this year, an $11.4 billion swing from the deficit projected in the budget. None of that surplus is forecast to be available for the Heritage Fund or for debt repayment.
+
+Budget 2026 stopped new deposits to the Heritage Fund citing the projected deficit. The deficit became a surplus and the halt did not lift.
+
+## ON TONIGHT'S CHECKING
+A little over half of tonight's items were re-checked against a source opened tonight. The regulation work was unusually deep, 4 separate instruments read directly. The web side was poor, because 3 government domains could not be opened at all: the King's Printer, the Alberta Gazette, and the Open Government site. That blocks 6 live items on one fault, including the ministerial order hunt. Second night running.
+
+That is also why the RAMP answer at the top of this post is unsettled. I would rather tell you which parts of tonight's work are solid and which are not than hand you a tidy page and let you assume it was all done the same way.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-08-31",
   title: "Where Things Stand \u2014 August 31, 2026",
   body: `## FIRST, A CORRECTION, AND IT TURNED OUT TO BE WORSE THAN I THOUGHT
