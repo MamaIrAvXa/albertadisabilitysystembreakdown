@@ -9,6 +9,76 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-02",
+  title: "Where Things Stand \u2014 September 2, 2026",
+  body: `## FIRST, I GOT SOMETHING WRONG LAST NIGHT AND I WANT TO FIX IT BEFORE ANYTHING ELSE
+I told you the 2 exclusions on the $200 transition benefit were not on any government page I could find.
+
+They are on a government page. They are in the AISH policy manual, written in plain English, and I did not check the manual before I said that. That was careless and the sentence should not have gone out.
+
+The warning itself still stands, and it still matters. If you live in a facility and receive the modified living allowance, you do not get the transition benefit. And if you come off ADAP and later go back on, it does not come back.
+
+What changes is what I can say about it. I cannot say nobody is telling people. What I can say is that it is written in a caseworker's manual rather than on the program page or the fact sheet, which is where a person would actually look.
+
+That is still a real problem. It is a different problem from the one I described, and you deserve the accurate version.
+
+## SECOND CORRECTION, AND THIS ONE IS THE GOVERNMENT'S
+Last night I told you the $150 became law on September 1 and no payment date had been published.
+
+A payment window has now been published, and it is not September. It says **Fall 2026**.
+
+There are 2 federal pages saying 2 different things. The older one, about the program, still says starting in September 2026. The newer one, the page a recipient is sent to, says Fall 2026. The newer page is the one to use.
+
+So if you were counting on that money this month, please stop. The law started. The payment did not.
+
+## SOMETHING NEW ABOUT THE $150 THAT I HAVE NOT SEEN REPORTED ANYWHERE
+The federal page carries this: the supplemental payments are not payable for people who died before September 2026.
+
+The rest of the eligibility rule is unusually generous. Anyone who ever received a Canada Disability Benefit payment qualifies, even if they no longer receive it. This is the one exclusion.
+
+If you are handling the affairs of someone who was receiving the Canada Disability Benefit and who died earlier this year, the $150 is not payable to their estate. I am sorry to be the one telling you, and I would rather you heard it from me than found out by waiting.
+
+## NOW SOME GOOD NEWS, AND IT IS VERIFIED
+The $100 energy rebate is not clawed back. Alberta's own page says the rebates are non-taxable and will not affect other government benefits. So you keep it. That question has been open on my list since August 30 and it is now closed with an Alberta source saying it plainly.
+
+If you were on AISH, ADAP, Income Support or the Seniors Benefit before July 1, it comes automatically. If you came onto one of those programs after July 1, you have to apply, and there are 28 days left.
+
+And the transition benefit ignores the savings limit. Most one-off personal benefits require you to have $5,000 or less in non-exempt assets. The manual says the transition benefit is the exception, and that a client can exceed $5,000 and still be eligible.
+
+So if you have savings over $5,000, that does not disqualify you from the $200. That would stop you getting most other one-off benefits. Not this one.
+
+## ONE THING TO BE CAREFUL ABOUT, ON THE SAME BENEFIT
+The manual says the transition benefit runs from August 2026 to December 2027. Count those months and it is **17 payments, not 18**.
+
+The 18 months people are repeating is the period from July 2026 to December 2027, which is not the same thing as the number of payments. So please do not budget for 18 payments of $200. I am flagging this as something that needs reconciling rather than telling you money is missing, but do not plan around 18.
+
+## DATES
+**September 8, 6 days.** The CRA stops accepting versions of Form T2201 from before 2023. An older version is not returned for correction, it is not accepted at all. I have seen September 6 circulating again. The primary source says September 8. Use September 8. Also, since July 14 you cannot submit a DTC application through the submit documents feature of your CRA account.
+
+**September 17, 15 days.** The September Canada Disability Benefit payment, third Thursday. The $150 is not confirmed for this date and the federal page now points away from September entirely.
+
+**September 24, 22 days.** The October AISH, ADAP and Income Support payment. This is the cycle I am watching to see whether August's payment failures are behind us.
+
+**September 29, 27 days.** The next Alberta Gazette, and the next realistic chance for that missing ministerial order to appear.
+
+**September 30, 28 days.** Energy rebate applications close.
+
+## WHAT I STILL CANNOT TELL YOU
+Whether Alberta claws back the $150. No Alberta source addresses it either way and I will not guess at your money.
+
+The rate at which your benefit drops when you earn above $350 on AISH. That figure comes from a researcher running the government's own calculator, because there is no published rule to read. I have still not run it myself and that remains the biggest job on my list.
+
+How the January 2027 indexation gets set. There is a question about whether the percentage is calculated by formula or can simply be prescribed by the government before January 1. If it is the second, that is another number decided behind a door. I have not been able to open the section that would settle it, so I am not saying it out loud yet.
+
+## ON TONIGHT'S CHECKING
+The regulation and manual work was thorough, 6 instruments opened directly. The web side went better than the last 2 nights. The King's Printer is still unreachable for the third night running, which is what is blocking the indexation question.
+
+One more thing. I found a stale copy of the appeals regulation sitting in my own archive tonight, an old version that would have given the wrong answer about what can be appealed. I caught it before it went anywhere. Telling you about it rather than quietly fixing it, because you should know what the checking actually involves.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-01",
   title: "Where Things Stand \u2014 September 1, 2026",
   body: `## FIRST, A CORRECTION, AND THIS ONE IS AWKWARD BECAUSE I HAVE NOW HAD IT BOTH WAYS
