@@ -507,6 +507,14 @@ const MINISTERIAL = [
 
 // ─── Data: Featured flyers (subset of /pdfs/flyers/posters/) ───
 const FLYERS = [
+  { label: "If Your Payment Came In Short \u2014 Read This", img: "f49c5cc8-46cb-479c-944a-a9fa18de4f6e.png" },
+  { label: "If Your Payment Came In Short \u2014 The Full Version", img: "1e565b94-ba42-4f65-8702-72a5bc0be3f9.png" },
+  { label: "Somebody Else's File Arrived Instead Of Yours", img: "5cabdaf8-e2dc-45f1-8a1c-6f19a0eaa8b3.png" },
+  { label: "Know The Manual. Get It In Writing.", img: "a3456998-1d2d-49b2-9b96-48d454b158eb.png" },
+  { label: "Ask Your Town To Carry This \u2014 The FCSSAA Resolution", img: "1545a3ea-f941-4224-9758-04a5ff1fa762.png" },
+  { label: "The Referendum In Plain Language \u2014 October 19, 2026", img: "3a5aa76f-b12b-4b77-905e-a57082b16a24.png" },
+  { label: "You Are Not Alone \u2014 Facts, Support, Community", img: "87ce8365-a194-4b43-895a-403cbc4c9914.png" },
+  { label: "You Are Not Alone \u2014 Your Payment Does Not Drop Today", img: "355b3bc0-ec95-44bb-8ae8-a4e66868704f.png" },
   { label: "If Your Payment Is Missing", img: "missing_payment.png" },
   { label: "Remembrance", img: "785386ff-48b7-485d-8140-3302e6c3a4f7.png" },
   { label: "The ADAP Employment Letter", img: "ADAP EMPLOYMENT LETTER.jpg" },
