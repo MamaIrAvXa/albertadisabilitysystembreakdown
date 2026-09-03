@@ -16,6 +16,139 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "The referendum in plain language (October 19, 2026)",
+        date: "2026-09-02",
+        body: `Fourteen people asked me to explain these questions, and then more asked me to go further, because the ballot uses words like Constitution and Senate as though everyone already knows them.
+
+So here is the whole thing in one place.
+
+**I am not telling anyone how to vote and I will not.** This campaign is non-partisan and stays that way. What I am doing is making sure nobody here has to vote on questions they could not read. That is the same work we do with every other government document.
+
+## THE DATES, BECAUSE ONE OF THEM CATCHES PEOPLE
+If you are voting by mail, your completed package has to be **received** by Elections Alberta before 5pm on **October 16**. Not mailed by then. Received. Post takes days, so send it early.
+
+You must include copies of your ID. Copies, not originals.
+
+Requests for a mail-in ballot close **October 9**.
+
+Advance voting is **October 13 to 17**, 9am to 8pm, at any advance voting location in your electoral division.
+
+Election day is **October 19**, 9am to 8pm, and you have to vote in the electoral division where you live.
+
+Two things worth knowing if getting to a polling place or filling in a form is hard for you. A special ballot package can be picked up in person, and **a designate may pick one up on your behalf**. And a person may apply for a special ballot **on behalf of an elector who requires assistance due to disability or illness**. Also note that vouching is no longer accepted as identification, so you need your own ID.
+
+## HOW THE BALLOT WORKS
+Questions 1 through 9 are yes or no. Question 10 asks you to pick 1 of 2 options.
+
+## THREE THINGS TO KNOW BEFORE THE QUESTIONS
+**What the Constitution is.** It is the rulebook for how Canada is run, and its main job is dividing up who makes which laws. Ottawa handles things like criminal law and the armed forces. Provinces handle health care, education and social services. AISH and ADAP exist because income assistance for disabled people is a provincial responsibility.
+
+That division was written in 1867. In 1982 Canada added the Charter of Rights and Freedoms, and for the first time a set of rules for changing the Constitution ourselves. Before that, changing it meant asking the British Parliament.
+
+**How changing it works.** Questions 6, 7, 8 and 9 all ask whether Alberta should work with other provinces to amend the Constitution, so this matters.
+
+There is no single route. The common one is called the 7/50 rule: you need the House of Commons, the Senate, and at least 7 of the 10 provinces adding up to at least half of Canada's population. Because Ontario and Quebec hold a large share of the population, reaching half without one of them is difficult.
+
+For changes considered fundamental there is a unanimity rule. Those need the Commons, the Senate, and every single province. All 10. One province saying no ends it.
+
+So a yes on any of those questions is a vote for Alberta to try. It is not a vote for the change to happen, because Alberta cannot do any of it alone.
+
+**Who controls immigration now.** Immigration is one of the few areas the Constitution gives to both levels at once. Provinces can make immigration laws, Ottawa can too, and where they conflict the federal law wins.
+
+In practice Ottawa sets overall levels, runs the main programs, and makes all decisions about citizenship and refugee claims. Provinces already have a role through nominee programs, and Alberta runs one.
+
+Also worth knowing: immigration status is not one thing. Citizens, permanent residents, work permit holders, students and refugee claimants are different categories with different rights. Several questions draw a line between permanent status and temporary status.
+
+## QUESTION 1, IMMIGRATION LEVELS
+Asking: should Alberta take more control over immigration, with the stated purposes of lowering immigration numbers, favouring people coming for work, and putting Albertans first for new jobs.
+
+Yes means you support Alberta seeking that control. No means you do not.
+
+Note that this is not asking whether Alberta should be involved in immigration. It already is. It is asking about more control, for those stated purposes.
+
+## QUESTION 2, WHO CAN USE PROVINCIAL PROGRAMS
+Asking: should there be a law saying only Canadian citizens, permanent residents, and people with an Alberta-approved immigration status can use provincially-funded programs, including health care, education and other social services.
+
+Yes means you support that law. No means you do not.
+
+**One factual note, because it is my subject.** AISH and ADAP are provincially-funded social services. The question gives examples rather than a list, so disability income assistance falls inside what it describes. I am saying that because the ballot does not. What you make of it is yours.
+
+This question is also not about who comes to Canada. Access to provincial programs is already Alberta's responsibility, so this is about how Alberta uses power it already has.
+
+## QUESTION 3, A WAITING PERIOD
+Asking: assuming citizens and permanent residents keep qualifying as they do now, should people with a temporary immigration status have to live in Alberta for at least 12 months before they can get any provincially-funded social support.
+
+Yes means you support the 12 month wait. No means you do not.
+
+That opening assumption is written into the question. Read it and decide what weight to give it.
+
+## QUESTION 4, CHARGING FEES
+Asking: assuming citizens and permanent residents keep qualifying as they do now, should Alberta charge a fee or premium to people with a temporary immigration status, and their families, for using health care and education.
+
+Yes means you support charging that fee. No means you do not.
+
+## QUESTION 5, ID TO VOTE
+Asking: should there be a law requiring proof of citizenship, such as a passport, birth certificate or citizenship card, in order to vote in an Alberta election.
+
+Yes means you support requiring it. No means you do not.
+
+**Something to have in front of you.** Documents cost money and take time to replace. There is a member of this community right now who cannot use a food bank because her birth certificate is lost and she is waiting on a replacement. That is not an argument for either answer. It is a fact about who is affected when documents are required.
+
+## QUESTION 6, WHO PICKS JUDGES
+Asking: should Alberta work with other willing provinces to change the Constitution so provinces, not the federal government, choose the judges appointed to Alberta's King's Bench and Court of Appeal.
+
+Yes means you support pursuing that change. No means you do not.
+
+**Background.** Alberta has 2 levels of court. The Provincial Court handles most day to day matters, and Alberta already appoints those judges. The Court of King's Bench and the Court of Appeal are the higher courts, handling serious criminal cases, larger civil disputes and appeals. Their judges are appointed by the federal government, even though the courts are provincial institutions that Alberta pays to run. That arrangement dates from 1867, and the reasoning at the time was that judges appointed by one level of government and ruling on the other's laws are harder to pressure.
+
+## QUESTION 7, THE SENATE
+Asking: should Alberta work with other willing provinces to change the Constitution to abolish the Senate.
+
+Yes means you support pursuing that. No means you do not.
+
+**Background.** Canada's Parliament has 2 chambers. The House of Commons is the elected one. The Senate is the second chamber: 105 seats, of which Alberta holds 6. Senators are appointed rather than elected and serve until they turn 75.
+
+A bill must pass both chambers to become law. The Senate reviews what the Commons has passed. It can amend bills and delay them, and rarely blocks them outright.
+
+The main criticisms are that senators are unelected and that seats are not distributed by population. The main defence is that a second chamber catches problems and that a body not facing re-election can take unpopular positions.
+
+**One thing specific to this question.** In 2014 the Supreme Court of Canada ruled that abolishing the Senate requires the unanimous consent of the House of Commons, the Senate, and every provincial legislature. All 10 provinces. That is not an argument either way. It is the process this question asks Alberta to begin.
+
+## QUESTION 8, OPTING OUT OF FEDERAL PROGRAMS
+Asking: should Alberta work with other willing provinces to change the Constitution so a province can opt out of federal programs in areas like health care, education and social services, and still keep the federal money attached to them, to spend on its own programs instead.
+
+Yes means you support pursuing that change. No means you do not.
+
+**Background.** Ottawa sends provinces large amounts every year for health and social programs, and that money comes with conditions. The best known are in the Canada Health Act, which requires things like universal coverage and no user fees for insured services if a province wants its full health transfer.
+
+The phrase to notice is "without losing any of the associated federal funding." That is what the question asks Alberta to pursue. Whether Ottawa would agree is a separate matter, and one an amendment would have to settle.
+
+## QUESTION 9, WHOSE LAW WINS
+Asking: should Alberta work with other willing provinces to change the Constitution so that in areas where both governments can make law, provincial law takes priority over federal law when the 2 conflict.
+
+Yes means you support pursuing that change. No means you do not.
+
+**Background.** Right now, where both can legislate and the laws conflict, the federal law takes priority. This question asks about reversing that.
+
+## QUESTION 10, SEPARATION. THIS ONE IS NOT YES OR NO.
+You pick 1 of 2 options.
+
+Option 1: Alberta should remain a province of Canada.
+
+Option 2: Alberta should start the legal process required under the Constitution to hold a second, binding referendum on whether to separate from Canada.
+
+So option 2 is not a vote to separate. It is a vote to begin a process toward a later vote that would be binding.
+
+A binding referendum is one the government is legally required to act on. A non-binding one is advice. The Order in Council for Question 10 states that the result of this question is not binding on the government.
+
+## A LAST WORD
+This is the campaign doing what it always does, which is take documents written in a register most people cannot use and put them in plain words. Nothing here is an endorsement of anything.
+
+Nine of these are yes or no. One is a choice between 2 options. All of them are yours.
+
+If any part of this is still unclear, reach out and we will explain it again a different way. That is the whole point.`
+      },
+      {
         title: "How much your partner can earn while you are on AISH or ADAP",
         date: "2026-08-31",
         body: `A few of you have asked this, and there has been a $1,200 number going around. That number is real, but it is being used for the wrong thing, so let me sort it out, because if you are budgeting you need the right one.
