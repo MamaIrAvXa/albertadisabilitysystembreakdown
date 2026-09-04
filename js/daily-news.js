@@ -9,6 +9,72 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-03",
+  title: "Where Things Stand \u2014 September 3, 2026",
+  body: `Six things tonight. Two of them are dates coming up fast, and one of them is a headline going around that isn't true.
+
+## 1. THE $150 FEDERAL SUPPLEMENT IS NOT DEDUCTED, AND NOW WE CAN SAY IT'S THE LAW
+I posted about this earlier today. Ottawa is sending a one time $150 to people on the Canada Disability Benefit, meant to cover what doctors charge to fill out the disability tax credit form.
+
+**Alberta does not count it as income.**
+
+Until today I could only say the policy manual pointed that way. Now I can say something stronger. The same rule sits in the regulation itself, **AR 96/2026, Schedule 1, section 1(1)(e)**. That's law, not a manual anyone can quietly rewrite.
+
+Two things to keep straight. The money has not gone out yet. The federal page says fall and gives no date. And your regular monthly CDB, now $204.20, is still deducted dollar for dollar. Nothing there has changed.
+
+Ann Nicol found this. She read the federal page, opened the regulation, and spotted a qualifier the rest of us had read straight past.
+
+## 2. THE DISABILITY TAX CREDIT RULES HAVE NOT CHANGED. IGNORE WHAT YOU'RE READING.
+This one matters and I want to be blunt about it.
+
+There are law firm summaries and news articles circulating saying the federal government has streamlined the DTC for people with certain long lasting conditions, and that it applies for the 2026 tax year. Some of them state it as done.
+
+**It isn't done.** I read the statute tonight, the Spring Economic Update 2026 Implementation Act, which got royal assent in June. There's no disability tax credit amendment anywhere in it. The change was announced and costed. It was not passed.
+
+So if someone tells you the rules changed and you qualify automatically now, they've read a summary that got it wrong. Fill out the form the same way you would have last month.
+
+I'm flagging this because if I'd trusted the coverage instead of the statute, I'd have told 3,000 people something false today.
+
+## 3. SEPTEMBER 8 IS TUESDAY, AND TWO THINGS HAPPEN
+The CRA stops accepting old versions of the disability tax credit form, the T2201. If you're mid application on an older version, that's five days.
+
+And the fuel tax holiday ends. Gas goes back up about 10 cents a litre, diesel about 4. If you drive and you can fill up before Tuesday, do.
+
+## 4. SEPTEMBER 30 FOR THE ENERGY REBATE
+If you came onto a program after July 1, you have to apply for that $100 yourself. It doesn't come automatically. That's four weeks out.
+
+## 5. EARNINGS EXEMPTIONS, THE FOUR REAL NUMBERS
+I've been holding these while I checked. They're confirmed now.
+
+AISH, **$350** a month. ADAP single, **$700**. ADAP with dependants, **$1,100**. With a cohabiting partner, **$1,500**.
+
+The hard part for AISH. Above $350, nothing is exempt. There's no partial band, no gentle taper. Earn $351 and that whole amount counts.
+
+And couples, this one catches people. **Exempt amounts cannot be shared.** If one partner earns $200 and the other earns $1,800, the unused part of the first person's exemption doesn't transfer to the second.
+
+If you've seen $1,072 or $2,612 anywhere, those are from the old rules that were repealed. Don't plan around them.
+
+## 6. THE TRANSITION BENEFIT RUNS TO THE END OF DECEMBER 2027
+I've seen 18 payments quoted around. It's 17, running from August 2026 to the end of December 2027. I'd stop counting payments and just hold the end date.
+
+## A CORRECTION I OWE YOU
+Back in August I published 1-833-382-4081 as a general Alberta line. It isn't. It's South zone only. If you're not in the south, that number won't help you and I shouldn't have printed it that way.
+
+## AND WHAT I'M STILL NOT TELLING YOU
+There are three things I could put in this post tonight that I'm leaving out, because I can't open the source.
+
+How much AISH and ADAP rise each year, and whether it's capped at 2 percent. The exact rate at which ADAP tapers earnings above the exemption. And two Orders in Council from today that I can describe but haven't verified the numbers on.
+
+I'd rather you got those late and right.
+
+Two dates. Tuesday and the 30th.
+
+Rest if you can.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-02",
   title: "Where Things Stand \u2014 September 2, 2026",
   body: `## FIRST, I GOT SOMETHING WRONG LAST NIGHT AND I WANT TO FIX IT BEFORE ANYTHING ELSE
