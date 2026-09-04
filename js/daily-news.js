@@ -48,7 +48,9 @@ I've been holding these while I checked. They're confirmed now.
 
 AISH, **$350** a month. ADAP single, **$700**. ADAP with dependants, **$1,100**. With a cohabiting partner, **$1,500**.
 
-The hard part for AISH. Above $350, nothing is exempt. There's no partial band, no gentle taper. Earn $351 and that whole amount counts.
+**Your exemption is always safe.** If you're on AISH and you earn $351, the $350 is still exempt and only the $1 above it counts. You never lose the exemption by going over it.
+
+What AISH doesn't have is any partial exemption above the line. Every dollar over $350 counts in full. ADAP works differently, with a partial exemption above its threshold, which is why the two programs aren't the same shape even before you compare the numbers.
 
 And couples, this one catches people. **Exempt amounts cannot be shared.** If one partner earns $200 and the other earns $1,800, the unused part of the first person's exemption doesn't transfer to the second.
 
@@ -57,8 +59,10 @@ If you've seen $1,072 or $2,612 anywhere, those are from the old rules that were
 ## 6. THE TRANSITION BENEFIT RUNS TO THE END OF DECEMBER 2027
 I've seen 18 payments quoted around. It's 17, running from August 2026 to the end of December 2027. I'd stop counting payments and just hold the end date.
 
-## A CORRECTION I OWE YOU
+## TWO CORRECTIONS I OWE YOU
 Back in August I published 1-833-382-4081 as a general Alberta line. It isn't. It's South zone only. If you're not in the south, that number won't help you and I shouldn't have printed it that way.
+
+And an earlier version of this post said "earn $351 and that whole amount counts." That was badly written and at least two people read it to mean you lose the $350 exemption entirely by going over it. **You don't.** Section 5 above is the corrected version. If you saw the first one and it scared you, I'm sorry, and please read that section again.
 
 ## AND WHAT I'M STILL NOT TELLING YOU
 There are three things I could put in this post tonight that I'm leaving out, because I can't open the source.
