@@ -16,6 +16,95 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "The $150 federal supplement is not deducted. Here is where it says so.",
+        date: "2026-09-03",
+        body: `Short version first, because a lot of people have been asking and bracing for the answer.
+
+Ottawa is sending a one time $150 payment to people who get the Canada Disability Benefit. It's meant to cover what doctors charge to fill out the disability tax credit form. It started going out this month. It's automatic and there's nothing to apply for.
+
+**Alberta does not count that $150 as income. It should not be deducted from your AISH or ADAP payment.**
+
+I know that's not what most of us expected, so here's where it comes from.
+
+## WHERE IT SAYS SO
+It's in the new regulation, AR 96/2026, in Schedule 1, section 1(1)(e). That's the part that lists what a director has to count as income.
+
+Clause (e) covers the Canada Disability Benefit. But it only counts a CDB payment as income if the payment meets two conditions, and the first one is that it **wasn't** paid to cover the cost of applying for the disability tax credit.
+
+The $150 was paid for exactly that. So it doesn't meet the description, and it doesn't get counted.
+
+You can read it yourself here. Go to Schedule 1, and look at clause (e).
+
+https://kings-printer.alberta.ca/1266.cfm?page=2026_096.cfm&leg_type=Regs&isbncln=9780779862221&display=html
+
+## DO NOT MIX THIS UP WITH YOUR MONTHLY CDB
+This is the part I want to be really clear about, because getting it backwards will cost somebody money.
+
+Your regular monthly CDB, currently up to $204.20, is still deducted dollar for dollar. Nothing about that has changed. Alberta is still the only province doing it.
+
+The $150 is a separate one time payment for a different purpose, and that one is not deducted. Same federal program, two different treatments.
+
+## WHAT TO DO WHEN IT LANDS
+Look at your next deposit statement.
+
+If the $150 isn't showing as a deduction, good, nothing to do.
+
+If it is showing as a deduction, that's an error and it's one of the cleanest ones we've ever been able to point at, because the regulation says it plainly. Send an email to your zone office, say the September supplemental payment appears to have been deducted, and ask for it to be reviewed against **Schedule 1 section 1(1)(e) of AR 96/2026**. Then tell us, because if it happened to you it's happening to other people.
+
+Put it in writing. Always in writing.
+
+## ONE MORE THING
+You don't apply for this. There's no form, no phone call, no website. If anyone contacts you asking you to apply for the $150 or asking for your banking details to release it, **that's a scam and you should ignore it.**
+
+## AND CREDIT WHERE IT BELONGS
+I didn't find this. Ann Nicol did. She read the federal page, went and opened the actual regulation, and noticed a qualifier sitting inside clause (e) that everybody else had read straight past, including me. Then she went back and got a clear photo of the whole clause so it could be checked properly.
+
+That's how this works. One person reads the thing nobody reads and the rest of us stop worrying about $150 we were never going to lose.
+
+Thanks Ann.`
+      },
+      {
+        title: "Won the appeal. Still didn't get paid.",
+        date: "2026-09-02",
+        body: `I want to tell you a story, and it isn't from our community. It's from the Alberta Ombudsman's own annual report, the one that just came out.
+
+A man on AISH, the report calls him Victor, needed to move a wood-burning stove so his pipes wouldn't freeze over the winter. He applied for an Emergency Needs Allowance. AISH agreed to pay for the move but turned down the $420 deposit the contractor needed up front.
+
+So he appealed. And he won. The Appeals Secretariat ruled that AISH had to pay the deposit, because it was in essence a down payment on work they had already agreed to.
+
+Then nothing happened. He didn't get the money. Months went by. He was only paid after he complained to the Ombudsman, who found what the report calls an oversight in the repayment process.
+
+So he was right. A review panel said he was right. And $420 still didn't move until a provincial watchdog asked about it.
+
+That is why I keep telling you to put things in writing and keep your dates. **Winning the decision is not the same as getting the money.** The paper trail is what you have when a decision gets ignored.
+
+## HERE'S THE OTHER THING IN THAT REPORT
+In the year covered, the ministry that runs AISH, Assisted Living and Social Services, drew more complaints to the Ombudsman than any other ministry in the province. **378** of them, out of 3,134 complaints opened in total. Ahead of Jobs and Immigration at 231, Justice at 209, Children and Family Services at 177.
+
+I want to be careful and fair about that number, because the care is what makes it worth something.
+
+The report covers the year that ended March 31, 2026. That is **before** the ADAP transition started. So the 378 is the picture from before. None of the payment holds, the misdirected files, the letters that never came, none of what has landed since July is in that figure.
+
+Which means the honest version is this. Even before the transition, this was already the most-complained-about ministry in Alberta.
+
+And here is the part I would sit with.
+
+Everything happening to us since July 2 will not appear in an Ombudsman report until roughly this time next year. That is a year between what is happening now and when anyone official counts it.
+
+That gap is why what you send us matters. When that report lands, we want to have our own record ready to sit beside it.
+
+## ONE PRACTICAL THING, BECAUSE THIS IS USEFUL AND NOT ONLY MADDENING
+If a decision has gone your way and the money hasn't followed, that is a complaint the Ombudsman can take. They will want to see that you tried to sort it with the program first, which for most people means asking in writing and keeping the answer.
+
+That is the whole reason I keep saying get it in writing. Not because paper is satisfying. Because it is what you need to hand somebody when the decision alone isn't enough.
+
+So don't get discouraged and don't go quiet. Keep your letters. Keep your dates. Victor's $420 is proof that the road does not end when a program ignores a ruling in your favour.
+
+You are not imagining the problem. It is in the government's own report.
+
+## READ IT YOURSELF\nThe report is public and free. Victor's case and the complaint figures are both in it.\n\nhttps://www.ombudsman.ab.ca/wp-content/uploads/2026/09/Alberta-Ombudsman-2025-2026-Annual-report-web.pdf\n\n_Source: Alberta Ombudsman 2025-2026 Annual Report, published September 2026._`
+      },
+      {
         title: "The referendum in plain language (October 19, 2026)",
         date: "2026-09-02",
         body: `Fourteen people asked me to explain these questions, and then more asked me to go further, because the ballot uses words like Constitution and Senate as though everyone already knows them.
