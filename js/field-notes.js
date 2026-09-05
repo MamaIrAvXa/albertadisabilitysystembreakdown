@@ -20,7 +20,15 @@ const FIELD_NOTES = [
         date: "2026-09-03",
         body: `Short version first, because a lot of people have been asking and bracing for the answer.
 
-Ottawa is sending a one time $150 payment to people who get the Canada Disability Benefit. It's meant to cover what doctors charge to fill out the disability tax credit form. It started going out this month. It's automatic and there's nothing to apply for.
+Ottawa is sending a $150 payment to people who get the Canada Disability Benefit. It's meant to cover what doctors charge to fill out the disability tax credit form. It's automatic and there's nothing to apply for.
+
+**Corrected September 4.** This note first said it was a one time payment arriving this month for everyone. Neither is right. It is paid again each time your disability tax credit is re-certified, because that is when the doctor's fee comes round again. And the timing depends on when your CDB started:
+
+- **September 2026** if you received a CDB payment between July 1, 2025 and June 30, 2026, including if you no longer receive it.
+- **February 2027** if your first CDB payment landed on or after July 1, 2026, or you were re-certified between July 2025 and January 2027.
+- **From March 2027** it arrives with your first payment, and again after each re-certification.
+
+If you applied for the CDB this summer, you are in the February group. If yours does not arrive this month, that is not an error and not something you did wrong.
 
 **Alberta does not count that $150 as income. It should not be deducted from your AISH or ADAP payment.**
 
@@ -106,25 +114,31 @@ You are not imagining the problem. It is in the government's own report.
       },
       {
         title: "The referendum in plain language (October 19, 2026)",
-        date: "2026-09-02",
-        body: `Fourteen people asked me to explain these questions, and then more asked me to go further, because the ballot uses words like Constitution and Senate as though everyone already knows them.
+        date: "2026-09-04",
+        body: `**UPDATED SEPTEMBER 4: THE MAIL-IN DEADLINE MOVED.** It is now **September 25**, not October 9. Elections Alberta changed it on September 3, after this note first went up. If you want a mail-in ballot, request it now. Details in the dates section below.
+
+Fourteen people asked me to explain these questions, and then more asked me to go further, because the ballot uses words like Constitution and Senate as though everyone already knows them.
 
 So here is the whole thing in one place.
 
 **I am not telling anyone how to vote and I will not.** This campaign is non-partisan and stays that way. What I am doing is making sure nobody here has to vote on questions they could not read. That is the same work we do with every other government document.
 
 ## THE DATES, BECAUSE ONE OF THEM CATCHES PEOPLE
-If you are voting by mail, your completed package has to be **received** by Elections Alberta before 5pm on **October 16**. Not mailed by then. Received. Post takes days, so send it early.
+**Requests for a mail-in ballot close September 25.** This changed. It was October 9 when this note first went up, and Elections Alberta moved it forward on September 3 because request volumes surged and Thanksgiving falls on Monday, October 12. Thank you to Theresa Mae Donaldson for catching it.
+
+If you are voting by mail, your completed package has to be **received** by Elections Alberta before 5pm on **October 16**. Not mailed by then. Received. Post takes days, so send it early. That date has not changed.
 
 You must include copies of your ID. Copies, not originals.
 
-Requests for a mail-in ballot close **October 9**.
+**If you miss September 25, you have not lost your vote.** Advance voting and election day are both still open to you, and the voting register is updated so nobody can vote twice.
+
+Two small things Elections Alberta clarified. If the declaration in your package has outdated wording on it, you can cross it out. And they will accept your ballot however it is folded.
 
 Advance voting is **October 13 to 17**, 9am to 8pm, at any advance voting location in your electoral division.
 
 Election day is **October 19**, 9am to 8pm, and you have to vote in the electoral division where you live.
 
-Two things worth knowing if getting to a polling place or filling in a form is hard for you. A special ballot package can be picked up in person, and **a designate may pick one up on your behalf**. And a person may apply for a special ballot **on behalf of an elector who requires assistance due to disability or illness**. Also note that vouching is no longer accepted as identification, so you need your own ID.
+Two things worth knowing if getting to a polling place or filling in a form is hard for you. A special ballot package can be picked up in person, and **a designate may pick one up on your behalf**. And a person may apply for a special ballot **on behalf of an elector who requires assistance due to disability or illness**. Note that vouching is no longer accepted as identification, so you need your own ID, and apply under your **legal name** or the request cannot be processed.
 
 ## HOW THE BALLOT WORKS
 Questions 1 through 9 are yes or no. Question 10 asks you to pick 1 of 2 options.

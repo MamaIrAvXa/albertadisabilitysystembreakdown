@@ -9,6 +9,78 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-04",
+  title: "Where Things Stand \u2014 September 4, 2026",
+  body: `Tonight is a correcting night. Two things I published yesterday were wrong, and there are three federal changes that came into force on Tuesday that nobody told any of us about.
+
+## FIRST, THE CORRECTIONS
+**The $150 is being paid this month.** Yesterday I told you it was coming in the fall with no date, and that the articles saying September were wrong. It was the other way round. I was reading the client-facing page, which says fall, when the government's own regulation published on July 1 sets out the exact schedule. I never opened it. The articles were closer to right than I was.
+
+**And it is not a one-time payment.** I said it was. It is paid again each time your disability tax credit is re-certified, because that is when the doctor's fee comes around again. So if you are re-certified in 2028, you get another $150.
+
+Both of those came from a source I had cited for two months and never actually read. Owning that plainly.
+
+## SECOND, WHO GETS THE $150 AND WHEN, BECAUSE IT IS NOT EVERYONE THIS MONTH
+This is the part that matters most tonight.
+
+**This month, September 2026.** Everyone who received a Canada Disability Benefit payment between July 1, 2025 and June 30, 2026. That includes people who got it during that period but are no longer receiving it now.
+
+**February 2027.** Two groups. Anyone whose first CDB payment landed on or after July 1, 2026. And anyone who was re-certified for the disability tax credit between July 2025 and January 2027.
+
+**March 2027 onward.** After that it arrives in the same month as your first payment, and again after each re-certification.
+
+Read that second group again, because a lot of you are in it. If you applied for the CDB this summer, which many of us were pushed into doing during the transition, your first payment came after July 1. That puts you in February, not September.
+
+The federal document acknowledges the delay and says it will negatively affect a small proportion of recipients who may expect the payment sooner.
+
+So if yours does not arrive this month, it is not an error and it is not something you did wrong.
+
+And it is still not deducted. That part has not changed. AR 96/2026, Schedule 1, section 1(1)(e). Ann Nicol found it.
+
+## THIRD, THREE FEDERAL CHANGES THAT LANDED SEPTEMBER 1
+These came into force on Tuesday and I have not seen a single person mention them.
+
+**If your spouse will not or cannot file a tax return, you can be treated as single.** There is a waiver, and someone granted it is now calculated as a single person for the Canada Disability Benefit. Single threshold, single rate, single working income exemption. That usually means more money.
+
+This matters most for people who are separated, estranged, fleeing, or living with someone who will not file. If that is you, ask Service Canada about the spousal filing waiver. I do not yet have the application route and I am looking for it.
+
+**You can apply six months before turning 18.** If you are helping a young person move toward adult supports, the CDB application no longer has to wait for the birthday.
+
+**Interest stops on a federal overpayment while you dispute it.** If you are fighting a federal debt through reconsideration, appeal or judicial review, it does not grow while you fight.
+
+Alberta has no equivalent rule that I have been able to find.
+
+## FOURTH, AND THIS ONE IS WORTH SITTING WITH
+Ottawa has amended the Income Tax Act so that Canada Disability Benefit payments are not treated as income.
+
+Alberta counts them as income and deducts them from your cheque.
+
+Alberta is allowed to, because Alberta's deduction runs on its own regulation. But the federal government has now written down that this money is not income, and the province still treats it as income. Somebody should have to explain that, and I intend to ask.
+
+## DATES
+**Monday, September 7.** Fuel tax holiday ends. Gas up about 10 cents a litre, diesel about 4, from Tuesday.
+
+**Tuesday, September 8.** The CRA stops accepting old versions of the T2201. Look at the bottom left corner of your form for a year in brackets. If it is 23 or higher you are fine. If it is lower, get a new one. Already approved certificates are not affected.
+
+**September 30.** Energy rebate applications close. If you were on AISH, ADAP, Income Support or the Seniors Benefit before July 1, the $100 comes automatically and does not count against your benefits. If you came on after July 1, you have to apply and you have 26 days.
+
+Applying needs a verified Alberta.ca account, a mailing address matching your ID, your SIN and your partner's SIN, and either online banking, a phone camera, or your 2025 notice of assessment. If any of that is a wall, an Alberta Supports centre will sit down and do it with you.
+
+And a scam warning, which is on the government's own page. Text messages about the energy rebate are circulating. **The government does not send money by text. Do not click those links.**
+
+## WHAT I AM STILL NOT TELLING YOU
+The ministerial order that sets the earnings deduction amounts still does not exist publicly. The Alberta Gazette comes out in 11 days, on September 15, and its filing deadline has already passed. If the order is not in that issue, that gets harder to explain.
+
+I still cannot give you the rate at which ADAP tapers earnings above $700, or the exact indexation formula. Both come from documents I cannot open.
+
+Two dates. Tuesday and the 30th.
+
+Rest if you can.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-03",
   title: "Where Things Stand \u2014 September 3, 2026",
   body: `Six things tonight. Two of them are dates coming up fast, and one of them is a headline going around that isn't true.

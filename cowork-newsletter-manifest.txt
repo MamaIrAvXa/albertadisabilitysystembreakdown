@@ -1,474 +1,764 @@
-# ADSB Newsletter Manifest — full PDF list under pdfs/ (incl. pdfs/fillable/)
-# Generated: 2026-08-29 06:28 UTC | Format: <YYYY-MM-DD HH:MM mtime>\t<path>
-2026-05-20 21:28	pdfs/access-gap/Access_Gap_Penalized_for_NonAbility.pdf
-2026-05-21 00:13	pdfs/access-gap/Access_Gap_Plain_Language.pdf
-2026-05-26 09:19	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Complete_May2026.pdf
-2026-05-25 20:42	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase1.pdf
-2026-05-26 09:19	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase1_TributeAndLougheed.pdf
-2026-05-26 09:19	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase2_GettyEra.pdf
-2026-05-26 09:19	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase3_KleinEra.pdf
-2026-05-26 09:19	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase4_StelmachEra.pdf
-2026-05-26 09:19	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase5_LatePCPeriod.pdf
-2026-05-26 09:19	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase6_NotleyEra.pdf
-2026-05-26 09:19	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase7_KenneyEra.pdf
-2026-05-26 09:19	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase8_SmithEra.pdf
-2026-05-26 09:19	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase9_Synthesis.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/0_Complete_Report_Series_Compilation.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/10_Taxpayer_and_Heritage_Fund_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/10a_Follow_The_Money_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/10b_The_Plot_Thickens_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/11_Human_Cost_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/12_Prior_Finding_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/12bAssured_Statement_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/13_Employment_Reality_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/13b_Employment_Assumption_Who_Are_The_Workshops_For_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/13c_The_Workshops_Question_ADAP_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/13dGovernments_Case_Against_Itself_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/14_Addendum_FSCD_PDD_Closures.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/15_Addendum_Government_Job_Postings.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/16_Addendum_Coalition_and_UN_CRPD.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/17_Campaign_and_Action_Kit.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/18_Media_Pitch_Sheet.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/19_Practical_Action_Guide.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/1_Do_You_Know_Your_Minister_Nixon.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/2_Do_You_Know_Your_Premier_Smith.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/3_Financial_Reality_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/4_Health_Benefits_Erosion_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/5_Alberta_Housing_Crisis_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/5b_Payment_Instability_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/6_Access_Barrier_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/7_Caseworker_Appeal_Rights_HumanRights.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/7b_Appeal_Overturn_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/7c_Charter_Mobility_Rights_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/8_Healthcare_Worker_Shortage_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/9_ADSB_Employment_Reality_Report.pdf
-2026-05-01 23:11	pdfs/adsb-report-series/9_Three_Years_and_Counting_FSCD_PDD_Crisis_Report.pdf
-2026-05-09 21:06	pdfs/adsb-report-series/9b_Intergenerational_Family_Report.pdf
-2026-05-09 21:06	pdfs/adsb-report-series/9c_Intergenerational_Contradiction_Report.pdf
-2026-08-27 17:07	pdfs/august-2026-docs/ADSB_FCSSAA_Plain_Language_Guide_2026.pdf
-2026-08-27 17:07	pdfs/august-2026-docs/ADSB_FCSSAA_Prevention_Case_Package_2026.pdf
-2026-08-27 17:07	pdfs/august-2026-docs/ADSB_FCSSAA_Resolution_ReadyToSubmit_2026.pdf
-2026-08-19 16:36	pdfs/august-2026-docs/ADSB_What_You_Can_Appeal_August2026.pdf
-2026-07-21 22:10	pdfs/august-2026-docs/AISH_Manual_Comparison.pdf
-2026-08-07 19:18	pdfs/august-2026-docs/Bill53_Breakdown_August2026.pdf
-2026-08-11 21:50	pdfs/august-2026-docs/MAID_Report_Sections_1to4_DRAFT_August2026.pdf
-2026-08-07 00:00	pdfs/august-2026-docs/OPGT_Guardianship_Trusteeship_Guide.pdf
-2026-08-12 15:43	pdfs/august-2026-docs/What_You_Must_Disclose_And_What_You_Dont_August2026.pdf
-2026-08-12 15:43	pdfs/august-2026-docs/What_You_Must_Disclose_PLAIN_LANGUAGE_August2026.pdf
-2026-05-06 21:44	pdfs/building-up/0_Building_Up_May2026.pdf
-2026-05-06 21:44	pdfs/building-up/ADSB_BuildingUp_OnePage_Introduction_May2026.pdf
-2026-05-06 21:44	pdfs/building-up/ADSB_BuildingUp_What_This_Means_For_Me_May2026.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part1_Section1.1.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part1_Section1.10.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part1_Section1.2.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part1_Section1.3.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part1_Section1.3a.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part1_Section1.4.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part1_Section1.5.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part1_Section1.6.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part1_Section1.7.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part1_Section1.8.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part1_Section1.9.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part1_SourceIndex.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part2_Section2.1.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part2_Section2.2.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part2_Section2.3.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part2_Section2.4.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part2_Section2.5.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part2_Section2.6.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part2_Section2.7.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part2_Section2.7a.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part2_Section2.8.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part2_SourceIndex.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part3_Section3.1.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part3_Section3.10.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part3_Section3.2.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part3_Section3.3.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part3_Section3.4.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part3_Section3.4_Component9.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part3_Section3.5.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part3_Section3.6.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part3_Section3.6_Amendment.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part3_Section3.7.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part3_Section3.8.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part3_Section3.9.pdf
-2026-05-06 21:44	pdfs/building-up/Building_Up_Part3_SourceIndex.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/0_Cage_Doesnt_End_Compilation_May2026.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/ADSB_Cage_Doesnt_End_Plain_Language_Guide_May2026.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_1.1.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_1.2.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_1.3.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_1.4.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_1.5.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_1.6.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.1.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.2.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.3.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.4.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.5.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.6.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.7.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.8.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.9.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_3.1.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_3.2.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_3.3.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_3.4.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_4.1.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_4.2.pdf
-2026-05-06 21:44	pdfs/cage-doesnt-end/Cage_Doesnt_End_Source_Index.pdf
-2026-05-01 23:11	pdfs/compound-failure/0_Compound_Failure_Brief_COMPLETE.pdf
-2026-05-01 23:11	pdfs/compound-failure/1_Compound_Failure_Introduction_Section.pdf
-2026-05-01 23:11	pdfs/compound-failure/2_Compound_Failure_Pillar_I.pdf
-2026-05-01 23:11	pdfs/compound-failure/3_Compound_Failure_Pillar_II_FINAL.pdf
-2026-05-01 23:11	pdfs/compound-failure/4_Compound_Failure_Pillar_III_FINAL.pdf
-2026-05-01 23:11	pdfs/compound-failure/5_Compound_Failure_Section_V_FINAL.pdf
-2026-05-01 23:11	pdfs/compound-failure/6_Compound_Failure_Section_VI_FINAL.pdf
-2026-05-01 23:11	pdfs/consultation-gap-rebuttal/Consultation_Gap_Rebuttal_April2026.pdf
-2026-08-04 10:10	pdfs/fillable/10_Fillable_Disability_Refugee_Newfoundland_and_Labrador.pdf
-2026-08-04 10:10	pdfs/fillable/1_Fillable_Disability_Refugee_British_Columbia.pdf
-2026-08-04 10:10	pdfs/fillable/2_Fillable_Disability_Refugee_Saskatchewan.pdf
-2026-08-04 10:10	pdfs/fillable/3_Fillable_Disability_Refugee_Northwest_Territories.pdf
-2026-08-04 10:10	pdfs/fillable/4_Fillable_Disability_Refugee_Manitoba.pdf
-2026-08-04 10:10	pdfs/fillable/5_Fillable_Disability_Refugee_Ontario.pdf
-2026-08-04 10:10	pdfs/fillable/6_Fillable_Disability_Refugee_Quebec.pdf
-2026-08-04 10:10	pdfs/fillable/7_Fillable_Disability_Refugee_New_Brunswick.pdf
-2026-08-04 10:10	pdfs/fillable/8_Fillable_Disability_Refugee_Nova_Scotia.pdf
-2026-08-04 10:10	pdfs/fillable/9_Fillable_Disability_Refugee_Prince_Edward_Island.pdf
-2026-07-23 21:35	pdfs/fillable/ADAP_Employment_Barriers_Notice_PrintAndWrite_July2026.pdf
-2026-06-14 18:00	pdfs/fillable/ADSB_ATIA_Portal_Walkthrough_May2026.pdf
-2026-06-03 15:50	pdfs/fillable/ADSB_Exemption_Category_Correction_Request.pdf
-2026-06-25 15:26	pdfs/fillable/AISH_Appeal_Letter_Fillable_June2026.pdf
-2026-06-01 22:31	pdfs/fillable/AISH_Appeal_Letter_ReadyToPrint_and_Sign_June2026.pdf
-2026-07-19 20:05	pdfs/fillable/Before_You_See_Your_Doctor_Worksheet_July2026.pdf
-2026-06-30 14:29	pdfs/fillable/DISABILITY_Advocacy_Consent_Fillable.pdf
-2026-06-30 14:29	pdfs/fillable/DISABILITY_Advocacy_Consent_PrintFill.pdf
-2026-07-03 16:50	pdfs/fillable/DS2444A_fillable.pdf
-2026-07-03 16:50	pdfs/fillable/DS2444B_fillable.pdf
-2026-07-06 01:04	pdfs/fillable/Fillable_ADAP_Exemption_Caregiver_Statement.pdf
-2026-07-06 01:04	pdfs/fillable/Fillable_ADAP_Exemption_Recipient_Statement.pdf
-2026-06-23 12:05	pdfs/fillable/Fillable_AISH_Appeal_CPPD_Grounds_June2026.pdf
-2026-08-04 09:51	pdfs/fillable/Fillable_AISH_File_Correction_Letter.pdf
-2026-08-03 17:25	pdfs/fillable/Fillable_ATIA_Personal_File_Request.pdf
-2026-07-06 01:04	pdfs/fillable/Fillable_Active_Application_Stop_Deduction_Letter.pdf
-2026-08-04 10:10	pdfs/fillable/Fillable_Ally_Advocacy_Submission.pdf
-2026-08-04 09:51	pdfs/fillable/Fillable_CDB_200_Deduction_Correction_Letter.pdf
-2026-08-04 10:09	pdfs/fillable/Fillable_CDB_Clawback_Documentation.pdf
-2026-08-04 09:51	pdfs/fillable/Fillable_CDB_Deduction_Correction_Letter_v2_July2026.pdf
-2026-08-04 09:51	pdfs/fillable/Fillable_CDB_Overpayment_Appeal_Form.pdf
-2026-08-04 09:51	pdfs/fillable/Fillable_CDB_Underpayment_Repayment_Request.pdf
-2026-05-01 23:11	pdfs/fillable/Fillable_Community_Story_Submission.pdf
-2026-08-04 10:10	pdfs/fillable/Fillable_Community_Story_Submission_PRINTABLE.pdf
-2026-08-05 15:59	pdfs/fillable/Fillable_Employment_Barriers_Notice_July2026.pdf
-2026-08-04 10:10	pdfs/fillable/Fillable_Formal_Complaint_Template.pdf
-2026-08-20 21:06	pdfs/fillable/Fillable_Health_Card_Coverage_Letters_August2026.pdf
-2026-06-07 20:04	pdfs/fillable/Fillable_Letter_to_the_Minister_AISH_to_ADAP_June2026.pdf
-2026-07-15 21:51	pdfs/fillable/Fillable_MLA_Letter_Episodic_Disability_s15-4.pdf
-2026-07-15 21:51	pdfs/fillable/Fillable_MLA_Letter_s15-4_LetterOnly.pdf
-2026-08-04 10:09	pdfs/fillable/Fillable_MLA_MP_Contact_Letter.pdf
-2026-08-04 09:51	pdfs/fillable/Fillable_Monthly_Income_Status_Report.pdf
-2026-07-16 18:11	pdfs/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Caregiver_Edition.pdf
-2026-07-16 18:11	pdfs/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Letter.pdf
-2026-05-22 17:50	pdfs/fillable/Fillable_Neudorf_STOP_ADAP_Letter.pdf
-2026-06-23 15:29	pdfs/fillable/Fillable_Neudorf_STOP_ADAP_Letter_Caregiver_Edition.pdf
-2026-08-04 10:10	pdfs/fillable/Fillable_Personal_Impact_Statement.pdf
-2026-08-04 09:51	pdfs/fillable/Fillable_Pre_Appeal_Submission.pdf
-2026-07-11 17:14	pdfs/fillable/Fillable_Recording_Accommodation_Request.pdf
-2026-08-04 09:51	pdfs/fillable/Fillable_Travel_Benefit_Request_July2026.pdf
-2026-08-04 09:51	pdfs/fillable/Fillable_Underpayment_Notice_July2026.pdf
-2026-07-11 17:14	pdfs/fillable/LargePrint_Accommodation_Request_PrintAndWrite.pdf
-2026-06-10 15:01	pdfs/fillable/MoveFastBreakThings_Accountability_Submission_June2026.pdf
-2026-06-27 19:08	pdfs/fillable/My_Individual_Plan_SelfAdvocacy_Worksheet.pdf
-2026-06-27 19:08	pdfs/fillable/My_Individual_Plan_SelfAdvocacy_Worksheet_PrintAndWrite.pdf
-2026-06-27 19:08	pdfs/fillable/My_Individual_Plan_SelfAdvocacy_Worksheet_PrinterFriendly.pdf
-2026-07-24 15:16	pdfs/fillable/Notice_of_Absence_From_Alberta.pdf
-2026-07-24 15:16	pdfs/fillable/Notice_of_Temporary_Change_of_Availability.pdf
-2026-05-01 23:11	pdfs/flyers/posters/Ally_Flyer_ADSB_v3.pdf
-2026-05-01 23:11	pdfs/flyers/posters/Were_Still_In_This_Together_AISH_Breakdown_2026.pdf
-2026-05-20 00:20	pdfs/government-form-originals/adap-engagement/adap-engagement-14.pdf
-2026-05-20 00:27	pdfs/government-form-originals/adap-engagement/adap-engagement-22.pdf
-2026-05-20 00:37	pdfs/government-form-originals/adap-engagement/adap-engagement-apr122026.pdf
-2026-05-20 00:45	pdfs/government-form-originals/adap-engagement/adap-engagement-aug132025.pdf
-2026-05-20 00:46	pdfs/government-form-originals/adap-engagement/adap-engagement-aug142025.pdf
-2026-05-20 00:47	pdfs/government-form-originals/adap-engagement/adap-engagement-aug142025green.pdf
-2026-05-20 00:47	pdfs/government-form-originals/adap-engagement/adap-engagement-aug142025green2.pdf
-2026-05-20 00:33	pdfs/government-form-originals/adap-engagement/adap-engagement-dec192025.pdf
-2026-05-20 00:35	pdfs/government-form-originals/adap-engagement/adap-engagement-dec252025.pdf
-2026-05-20 00:37	pdfs/government-form-originals/adap-engagement/adap-engagement-feb182026.pdf
-2026-05-20 00:40	pdfs/government-form-originals/adap-engagement/adap-engagement-oct212025.pdf
-2026-05-20 00:39	pdfs/government-form-originals/adap-engagement/adap-engagement-sept192025.pdf
-2026-05-20 00:38	pdfs/government-form-originals/adap-engagement/adap-engagement-sept52025.pdf
-2026-05-20 00:16	pdfs/government-form-originals/adap-engagement/adap-engagement.pdf
-2026-05-16 22:09	pdfs/government-form-originals/advocacy/inclusion-alberta-media-release-adap-could.pdf
-2026-06-04 11:46	pdfs/government-form-originals/external-reports/Martin_Disability_Workforce_Strategy_Full_Data_Package.pdf
-2026-06-29 00:25	pdfs/government-form-originals/external-reports/The Work Capability Assessment for Employment and Support Allowance - House of Commons Library.pdf
-2026-05-21 23:52	pdfs/government-form-originals/external-reports/auditor-general-report-cpp-disability.pdf
-2026-05-03 19:04	pdfs/government-form-originals/external-reports/disability-poverty-report-card-2024.pdf
-2026-05-10 20:10	pdfs/government-form-originals/external-reports/disability-poverty-report-card-2025.pdf
-2026-06-03 19:23	pdfs/government-form-originals/external-reports/mha-alberta-recovery-model-compassionate-intervention-path-to-recovery-2025-04.pdf
-2026-05-16 22:26	pdfs/government-form-originals/external-reports/oapd-strategic-plan-2025-2027.pdf
-2026-05-18 16:08	pdfs/government-form-originals/financial-statements/Audited-Financial-Statements-signed.pdf
-2026-05-18 16:07	pdfs/government-form-originals/financial-statements/audited-financial-statements-2018-2019.pdf
-2026-05-18 16:06	pdfs/government-form-originals/financial-statements/audited-financial-statements-2019-2020.pdf
-2026-05-18 16:07	pdfs/government-form-originals/financial-statements/consolidated-financial-statements-2017-2018.pdf
-2026-05-18 16:06	pdfs/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements-2.pdf
-2026-05-18 16:05	pdfs/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements-3.pdf
-2026-05-18 16:05	pdfs/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements-4.pdf
-2026-05-18 16:05	pdfs/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements-5.pdf
-2026-05-18 16:06	pdfs/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements.pdf
-2026-07-02 22:32	pdfs/government-form-originals/government-forms/DS2444A – Disability Income Assistance Application.pdf
-2026-07-02 22:32	pdfs/government-form-originals/government-forms/DS2444B – Disability Assistance Medical Report.pdf
-2026-07-23 11:40	pdfs/government-form-originals/government-forms/Health Information Access Request Form AHS.pdf
-2026-06-25 16:12	pdfs/government-form-originals/government-forms/T2201_DTC_PartA.pdf
-2026-05-09 17:35	pdfs/government-form-originals/government-forms/access-to-information-request-form-atia.pdf
-2026-05-29 15:08	pdfs/government-form-originals/government-forms/aish-appeal-form-aas13358.pdf
-2026-05-20 13:53	pdfs/government-form-originals/government-forms/aish-application-form-aas13358.pdf
-2026-05-29 15:11	pdfs/government-form-originals/government-forms/alss-appeals-secretariat-authorization-form.pdf
-2026-05-29 15:11	pdfs/government-form-originals/government-forms/alss-time-extension-request-worksheet.pdf
-2026-07-02 22:20	pdfs/government-form-originals/government-manuals/AISH Manual 07-02-2026.pdf
-2026-07-02 23:25	pdfs/government-form-originals/government-manuals/ALBERTA REGULATION 122-2011.pdf
-2026-06-25 11:33	pdfs/government-form-originals/government-manuals/HSP140-ReformingDisabilityIncomeSupportinAlberta-FINAL.pdf
-2026-05-13 16:30	pdfs/government-form-originals/government-manuals/adap-fact-sheet-may-12-2026.pdf
-2026-07-06 00:56	pdfs/government-form-originals/government-manuals/aish-benefits-summary.pdf
-2026-04-15 18:19	pdfs/government-form-originals/government-manuals/aish-policy-manual.pdf
-2026-07-06 21:26	pdfs/government-form-originals/government-manuals/alss-health-professionals-guide-completing-disability-income-assistance-application-2026-07.pdf
-2026-06-26 21:01	pdfs/government-form-originals/government-manuals/alss-welcome-to-adap-brochure-2026-06.pdf
-2026-07-06 00:56	pdfs/government-form-originals/government-manuals/employnext-info-package-june-2026.pdf
-2026-05-31 14:30	pdfs/government-form-originals/government-manuals/fscd-policy-and-procedures-manual-october-2023.pdf
-2026-07-06 00:56	pdfs/government-form-originals/government-manuals/income-employment-supports-manual-2026-06.pdf
-2026-05-19 15:20	pdfs/government-form-originals/government-manuals/pdd-family-guide-and-checklist-c2n2.pdf
-2026-06-30 17:14	pdfs/government-form-originals/government-manuals/scss-aish-adjudication-guide-2024-04.pdf
-2026-05-16 22:26	pdfs/government-form-originals/government-manuals/supporting-safe-and-inclusive-lives-pdd.pdf
-2026-05-20 00:03	pdfs/government-form-originals/government-manuals/transforming-disability-income-assistance-2.pdf
-2026-05-20 00:04	pdfs/government-form-originals/government-manuals/transforming-disability-income-assistance.pdf
-2026-05-31 13:55	pdfs/government-form-originals/government-manuals/your-guide-to-aish-may-2025.pdf
-2026-05-31 13:55	pdfs/government-form-originals/government-manuals/your-guide-to-aish-september-2025.pdf
-2026-06-30 15:18	pdfs/government-form-originals/info-pages/Balancing drug coverage for the long-term _ alberta.ca.pdf
-2026-06-30 15:18	pdfs/government-form-originals/info-pages/Coverage for Seniors Program _ Alberta.ca.pdf
-2026-07-05 15:29	pdfs/government-form-originals/info-pages/Foot Care Help in Alberta for a Low-Income Adult.pdf
-2026-07-03 00:19	pdfs/government-form-originals/info-pages/Mail - Outlook.pdf
-2026-06-30 15:18	pdfs/government-form-originals/info-pages/Non-Group Coverage _ Alberta.ca.pdf
-2026-06-30 15:17	pdfs/government-form-originals/info-pages/Pharmacy providers _ Alberta Blue Cross®.pdf
-2026-05-16 22:30	pdfs/government-form-originals/info-pages/about-the-citizens-appeal-panel-alberta-ca.pdf
-2026-05-16 22:11	pdfs/government-form-originals/info-pages/alberta-disability-assistance-program-alberta-ca.pdf
-2026-05-16 22:13	pdfs/government-form-originals/info-pages/citizens-appeal-panel-alberta-ca.pdf
-2026-05-16 22:13	pdfs/government-form-originals/info-pages/empowering-albertans-with-disabilities-alberta.pdf
-2026-05-16 22:31	pdfs/government-form-originals/info-pages/expanding-support-for-albertans-with.pdf
-2026-06-30 15:17	pdfs/government-form-originals/info-pages/pharmacy-benefact-1256.pdf
-2026-05-28 21:03	pdfs/government-form-originals/info-pages/the-tribunal-process-alberta-human-rights.pdf
-2026-06-17 22:49	pdfs/government-form-originals/internal-forms/AEHB3487_Health_Benefit_Exception_FILLABLE.pdf
-2026-06-17 22:37	pdfs/government-form-originals/internal-forms/AEHB3810_Prescriber_Exception_FILLABLE.pdf
-2026-07-02 23:26	pdfs/government-form-originals/internal-forms/INCOME AND EMPLOYMENT.pdf
-2026-06-03 19:22	pdfs/government-form-originals/legislature/20230530_bill-053.pdf
-2026-06-03 19:22	pdfs/government-form-originals/legislature/20250415_1330_01_han.pdf
-2026-06-03 19:22	pdfs/government-form-originals/legislature/20250429_1930_01_han.pdf
-2026-06-03 19:23	pdfs/government-form-originals/legislature/20250501_1330_01_han.pdf
-2026-06-03 19:23	pdfs/government-form-originals/legislature/20250506_1330_01_han.pdf
-2026-06-03 19:23	pdfs/government-form-originals/legislature/20250507_1930_01_han.pdf
-2026-06-03 19:23	pdfs/government-form-originals/legislature/20250513_1930_01_han.pdf
-2026-05-03 19:03	pdfs/government-form-originals/news-articles/backgrounder-supporting-canadians-with.pdf
-2026-05-16 22:10	pdfs/government-form-originals/news-articles/disabled-albertans-to-receive-aish-eligibility.pdf
-2026-05-10 21:01	pdfs/government-form-originals/news-articles/motion-passed-to-request-paused-adap.pdf
-2026-05-16 22:32	pdfs/government-form-originals/news-articles/st-albert-to-discuss-asking-province-to-pause.pdf
-2026-06-19 21:37	pdfs/government-form-originals/regulations/SA 2006, c A-45.1 _ Assured Income for the Severely Handicapped Act _ CanLII.pdf
-2026-05-16 22:29	pdfs/government-form-originals/regulations/aish-act-applications-and-appeals-ministerial.pdf
-2026-05-16 22:29	pdfs/government-form-originals/regulations/aish-act-general-regulation-ar-91-2007.pdf
-2026-05-16 22:29	pdfs/government-form-originals/regulations/aish-act-general-regulation-ar-96-2026-in-force.pdf
-2026-05-31 19:20	pdfs/government-form-originals/regulations/alberta-gazette-part-i-may-30-2026.pdf
-2026-05-31 19:05	pdfs/government-form-originals/regulations/alberta-gazette-part-ii-2026-cumulative-index.pdf
-2026-05-31 00:04	pdfs/government-form-originals/regulations/alberta-gazette-part-ii-may-15-2026.pdf
-2026-05-31 00:19	pdfs/government-form-originals/regulations/alberta-kings-printer-publications-page.pdf
-2026-05-31 13:44	pdfs/government-form-originals/regulations/assured-income-for-the-severely-handicapped-act-2.pdf
-2026-05-31 13:46	pdfs/government-form-originals/regulations/assured-income-for-the-severely-handicapped-act-3.pdf
-2026-05-16 22:29	pdfs/government-form-originals/regulations/assured-income-for-the-severely-handicapped-act.pdf
-2026-05-16 22:15	pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-2.pdf
-2026-05-16 22:16	pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-3.pdf
-2026-05-16 22:15	pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-adoption.pdf
-2026-05-16 22:15	pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-court.pdf
-2026-05-16 22:16	pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-resource.pdf
-2026-05-16 22:15	pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-rsa-2000.pdf
-2026-05-16 22:15	pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act.pdf
-2026-05-16 22:16	pdfs/government-form-originals/regulations/continuing-care-act-ministerial-regulation-ar.pdf
-2026-05-16 22:17	pdfs/government-form-originals/regulations/continuing-care-act-regulation-ar-21-2024.pdf
-2026-05-16 22:16	pdfs/government-form-originals/regulations/continuing-care-act-sa-2022-c-c-26-7.pdf
-2026-05-16 22:23	pdfs/government-form-originals/regulations/convention-on-the-rights-of-persons-with.pdf
-2026-05-16 22:23	pdfs/government-form-originals/regulations/crpd-optional-protocol-english.pdf
-2026-05-16 22:16	pdfs/government-form-originals/regulations/early-learning-and-child-care-act-regulation-ar.pdf
-2026-05-16 22:16	pdfs/government-form-originals/regulations/early-learning-and-child-care-act-sa-2007-c-e-0.pdf
-2026-05-16 22:27	pdfs/government-form-originals/regulations/family-support-for-children-with-disabilities-2.pdf
-2026-05-16 22:27	pdfs/government-form-originals/regulations/family-support-for-children-with-disabilities.pdf
-2026-05-16 22:28	pdfs/government-form-originals/regulations/income-and-employment-supports-act-child-and.pdf
-2026-05-16 22:28	pdfs/government-form-originals/regulations/income-and-employment-supports-act-disability.pdf
-2026-05-16 22:28	pdfs/government-form-originals/regulations/income-and-employment-supports-act-recovery.pdf
-2026-05-16 22:28	pdfs/government-form-originals/regulations/income-and-employment-supports-act-sa-2003-c-i.pdf
-2026-05-16 22:28	pdfs/government-form-originals/regulations/income-and-employment-supports-act-support.pdf
-2026-05-16 22:28	pdfs/government-form-originals/regulations/income-and-employment-supports-act-training.pdf
-2026-05-16 22:14	pdfs/government-form-originals/regulations/mental-health-services-protection-act-sa-2018-c.pdf
-2026-05-16 22:14	pdfs/government-form-originals/regulations/mental-health-services-protection-act.pdf
-2026-05-29 16:28	pdfs/government-form-originals/regulations/ministerial-order-2026-001-assisted-living-and.pdf
-2026-05-16 22:17	pdfs/government-form-originals/regulations/pdd-services-act-developmental-disabilities.pdf
-2026-05-16 22:17	pdfs/government-form-originals/regulations/pdd-services-act-pdd-services-regulation-ar-228.pdf
-2026-05-31 14:08	pdfs/government-form-originals/regulations/persons-with-developmental-disabilities.pdf
-2026-05-16 22:14	pdfs/government-form-originals/regulations/protection-for-persons-in-care-act-ministerial.pdf
-2026-05-16 22:14	pdfs/government-form-originals/regulations/protection-for-persons-in-care-act-protection.pdf
-2026-05-16 22:15	pdfs/government-form-originals/regulations/protection-for-persons-in-care-act-sa-2009-c-p.pdf
-2026-05-16 22:14	pdfs/government-form-originals/regulations/public-health-act-aids-to-daily-living-and.pdf
-2026-05-16 22:29	pdfs/government-form-originals/regulations/public-sector-compensation-transparency-act-2.pdf
-2026-05-16 22:29	pdfs/government-form-originals/regulations/public-sector-compensation-transparency-act-sa.pdf
-2026-05-16 22:29	pdfs/government-form-originals/regulations/public-sector-compensation-transparency-act.pdf
-2026-05-16 22:16	pdfs/government-form-originals/regulations/seniors-benefit-act-general-regulation-ar-213.pdf
-2026-05-01 23:11	pdfs/indigenous-sections/0_Indigenous_Disability_Alberta_COMPLETE_Collection.pdf
-2026-05-01 23:11	pdfs/indigenous-sections/10_Indigenous_Disability_Alberta_SECTION_10_Justice.pdf
-2026-05-01 23:11	pdfs/indigenous-sections/11_Indigenous_Disability_Alberta_SECTION_11_MMIWG2S.pdf
-2026-05-01 23:11	pdfs/indigenous-sections/12_Indigenous_Disability_Alberta_SECTION_12_UNDRIP.pdf
-2026-05-01 23:11	pdfs/indigenous-sections/13_Indigenous_Disability_Alberta_SECTION_13_Sovereignty.pdf
-2026-05-01 23:11	pdfs/indigenous-sections/14_Indigenous_Disability_Alberta_SECTION_14_TRC_Health.pdf
-2026-05-02 00:17	pdfs/indigenous-sections/15_Indigenous_Disability_Alberta_SECTION_15_July1_Synthesis.pdf
-2026-05-01 23:10	pdfs/indigenous-sections/16_Indigenous_Disability_Alberta_SECTION_16_Closing.pdf
-2026-05-02 00:17	pdfs/indigenous-sections/17_Indigenous_Disability_Alberta_SECTION_17_Federal_Provincial_Clawback.pdf
-2026-05-01 23:10	pdfs/indigenous-sections/1_Indigenous_Disability_Alberta_PREFACE.pdf
-2026-05-01 23:10	pdfs/indigenous-sections/2_Indigenous_Disability_Alberta_SECTION_2_Mortality_Gap.pdf
-2026-05-02 00:17	pdfs/indigenous-sections/3_Indigenous_Disability_Alberta_SECTION_3_Jurisdictional_Fracture.pdf
-2026-05-01 23:10	pdfs/indigenous-sections/4_Indigenous_Disability_Alberta_SECTION_4_Housing.pdf
-2026-05-02 00:17	pdfs/indigenous-sections/5_Indigenous_Disability_Alberta_SECTION_5_Contaminated_Land.pdf
-2026-05-01 23:10	pdfs/indigenous-sections/6_Indigenous_Disability_Alberta_SECTION_6_Water.pdf
-2026-05-01 23:10	pdfs/indigenous-sections/7_Indigenous_Disability_Alberta_SECTION_7_Healthcare.pdf
-2026-05-01 23:10	pdfs/indigenous-sections/8_Indigenous_Disability_Alberta_SECTION_8_JordansPrinciple.pdf
-2026-05-01 23:10	pdfs/indigenous-sections/9_Indigenous_Disability_Alberta_SECTION_9_ChildWelfare.pdf
-2026-05-01 23:10	pdfs/information-asymmetry/0_Information_Asymmetry_Report.pdf
-2026-05-01 23:10	pdfs/information-asymmetry/1_Information_Asymmetry_Plain_Language_Companion.pdf
-2026-07-03 00:22	pdfs/july-2026-docs/1_July2_Policy_Update_Plain_Language.pdf
-2026-07-03 00:22	pdfs/july-2026-docs/2_AR122-2011_ISTHBR_Plain_Language.pdf
-2026-07-03 00:22	pdfs/july-2026-docs/3_IESA_Act_Plain_Language.pdf
-2026-07-03 00:22	pdfs/july-2026-docs/4_AISH_Manual_Readers_Guide_Plain_Language.pdf
-2026-06-28 21:50	pdfs/july-2026-docs/ADAP_Contractor_Forensic_Chronology_AG_Companion_June2026.pdf
-2026-06-28 21:50	pdfs/july-2026-docs/ADAP_Contractor_Forensic_Chronology_Public_June2026.pdf
-2026-06-28 21:50	pdfs/july-2026-docs/ADAP_Contractor_Timeline_Graphic_June2026.pdf
-2026-06-26 22:02	pdfs/july-2026-docs/ADAP_Warmth_Stick_Law_Three_Documents.pdf
-2026-08-10 15:49	pdfs/july-2026-docs/ADSB_Emergency_and_Escalation_Numbers.pdf
-2026-07-15 21:52	pdfs/july-2026-docs/ADSB_If_Your_Condition_Flares_Explainer.pdf
-2026-07-11 19:22	pdfs/july-2026-docs/ADSB_The_CPPD_Bind_July2026.pdf
-2026-07-31 12:18	pdfs/july-2026-docs/ADSB_The_Floor_They_Set_Themselves_July2026.pdf
-2026-07-14 16:35	pdfs/july-2026-docs/ADSB_What_The_Law_Says_July2026.pdf
-2026-07-22 23:10	pdfs/july-2026-docs/ADSB_Whats_Covered_AISH_ADAP_Reference_July2026.pdf
-2026-07-18 01:27	pdfs/july-2026-docs/ADSB_When_They_Call_Phone_Script.pdf
-2026-07-06 01:54	pdfs/july-2026-docs/AISH_ADAP_Key_Features_Verified_July2026.pdf
-2026-07-03 22:42	pdfs/july-2026-docs/AISH_to_ADAP_Support_Resources_Guide.pdf
-2026-07-08 01:55	pdfs/july-2026-docs/Appeal_and_Reassessment_Rights_July2026.pdf
-2026-07-06 01:28	pdfs/july-2026-docs/Calgary_Getting_Around_Guide_July2026.pdf
-2026-07-21 18:49	pdfs/july-2026-docs/DS2444A_How_To_Fill_It_Out.pdf
-2026-08-03 21:30	pdfs/july-2026-docs/DS2444B_Medical_Report_Guide.pdf
-2026-07-05 17:17	pdfs/july-2026-docs/Disability_Tax_Credit_PlainLanguage_July2026.pdf
-2026-07-06 01:31	pdfs/july-2026-docs/Edmonton_Getting_Around_Guide_July2026.pdf
-2026-07-05 19:34	pdfs/july-2026-docs/Foot_Care_Help_PlainLanguage_July2026.pdf
-2026-07-06 21:19	pdfs/july-2026-docs/How_Earning_Works_AISH_vs_ADAP_July2026.pdf
-2026-07-06 21:19	pdfs/july-2026-docs/Living_Together_and_Your_Benefits_July2026.pdf
-2026-07-07 22:24	pdfs/july-2026-docs/Red_Deer_Community_Resources_July2026.pdf
-2026-07-19 19:16	pdfs/july-2026-docs/The_Contractor_Record_Serco_AKG_v2_July2026.pdf
-2026-07-06 14:35	pdfs/july-2026-docs/The_Premiers_Words_And_The_Record_June2026.pdf
-2026-07-17 02:01	pdfs/july-challenge/0_Cover_Letter_ADSB.pdf
-2026-07-17 02:01	pdfs/july-challenge/1_Charter_Challenge_ADSB.pdf
-2026-07-17 02:01	pdfs/july-challenge/2_UN_CRPD_Submission_ADSB.pdf
-2026-07-17 02:01	pdfs/july-challenge/3_Alberta_Human_Rights_Complaint_ADSB.pdf
-2026-07-17 02:01	pdfs/july-challenge/4_Comparative_Evidence_Dossier_ADSB.pdf
-2026-07-17 03:59	pdfs/july-challenge/5_Distribution_List_ADSB.pdf
-2026-07-17 14:47	pdfs/july-challenge/AHRC_Complaint_TEMPLATE_ADSB_public.pdf
-2026-07-17 14:48	pdfs/july-challenge/complaint-form -human-rights-complaint-guide.pdf
-2026-05-01 23:11	pdfs/legalese/ADAP_DATA_Analysis_.pdf
-2026-05-01 23:10	pdfs/legalese/ADSB_Charter_Constitutional_Analysis_Legal.pdf
-2026-05-01 23:10	pdfs/legalese/ADSB_Employment_Assumption_Policy_Legal.pdf
-2026-05-01 23:10	pdfs/legalese/ADSB_Sorochan_Heritage_Fund_Analysis.pdf
-2026-05-01 23:10	pdfs/legalese/Sorochan_Knibbs_Collaborative_Synthesis.pdf
-2026-05-29 18:35	pdfs/may-2026-adap/ADSB_ADAP_Welfare_to_Work_May2026.pdf
-2026-05-30 02:13	pdfs/may-2026-adap/ADSB_Cut_From_The_Top_May2026.pdf
-2026-06-01 05:12	pdfs/may-2026-adap/ADSB_Designed_Based_On_Input_June2026.pdf
-2026-05-22 18:39	pdfs/may-2026-adap/ADSB_Do_You_Know_Minister_Neudorf.pdf
-2026-06-13 02:02	pdfs/may-2026-adap/ADSB_Do_You_Know_Minister_Nixon.pdf
-2026-05-22 18:56	pdfs/may-2026-adap/ADSB_Do_You_Know_Neudorf_Flyer.pdf
-2026-05-22 19:43	pdfs/may-2026-adap/ADSB_Do_You_Know_Nixon_Flyer.pdf
-2026-05-20 00:59	pdfs/may-2026-adap/ADSB_Engagement_Page_Record_May2026.pdf
-2026-05-20 03:49	pdfs/may-2026-adap/ADSB_Engagement_Page_Record_PlainLanguage_May2026.pdf
-2026-06-01 03:46	pdfs/may-2026-adap/ADSB_Heritage_Fund_Choices_June2026.pdf
-2026-05-28 22:42	pdfs/may-2026-adap/ADSB_PDD_Was_Exempt_Then_It_Wasnt_May2026.pdf
-2026-06-03 17:26	pdfs/may-2026-adap/ADSB_Paid_To_Govern_Paid_To_Survive.pdf
-2026-06-06 23:00	pdfs/may-2026-adap/ADSB_Promised_Supports_Shifted_Responsibility.pdf
-2026-05-21 23:53	pdfs/may-2026-adap/ADSB_What_Dropped_This_Week_May2026.pdf
-2026-05-20 10:24	pdfs/may-2026-adap/ADSB_What_Dropped_This_Week_PlainLanguage_May2026.pdf
-2026-05-29 18:51	pdfs/may-2026-adap/ADSB_Who_Made_The_Determination_May2026.pdf
-2026-06-01 00:01	pdfs/may-2026-adap/Access_Gap_The_200_Trap_May2026.pdf
-2026-06-01 05:11	pdfs/may-2026-adap/Appeal_or_Reassess_PlainLanguage_June2026.pdf
-2026-06-12 16:05	pdfs/may-2026-adap/RDSP_Plain_Language_Guide_June2026.pdf
-2026-05-26 10:39	pdfs/may-2026-adap/Whats_On_The_Shelf_May2026.pdf
-2026-05-01 23:10	pdfs/ministerial-correspondence/Ministerial_Response_Analysis_April28_2026.pdf
-2026-05-01 23:10	pdfs/ministerial-correspondence/Nixon_Response_April28_2026_REDACTED.pdf
-2026-05-23 15:55	pdfs/modern-day-eugenics/Consent was never the point/Consent_Bibliography_Standalone_May2026.pdf
-2026-05-22 21:52	pdfs/modern-day-eugenics/Consent was never the point/Consent_Chapter_III_Standalone_May2026.pdf
-2026-05-22 21:34	pdfs/modern-day-eugenics/Consent was never the point/Consent_Chapter_II_Standalone_May2026.pdf
-2026-05-22 22:43	pdfs/modern-day-eugenics/Consent was never the point/Consent_Chapter_IV_Standalone_May2026.pdf
-2026-05-22 23:03	pdfs/modern-day-eugenics/Consent was never the point/Consent_Chapter_VII_Standalone_May2026.pdf
-2026-05-22 22:54	pdfs/modern-day-eugenics/Consent was never the point/Consent_Chapter_VI_Standalone_May2026.pdf
-2026-05-22 22:43	pdfs/modern-day-eugenics/Consent was never the point/Consent_Chapter_V_Standalone_May2026.pdf
-2026-05-22 21:34	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Ch1-2_May2026.pdf
-2026-05-22 21:52	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Ch1-3_May2026.pdf
-2026-05-22 22:43	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Ch1-4_May2026.pdf
-2026-05-22 22:43	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Ch1-5_May2026.pdf
-2026-05-22 22:54	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Ch1-6_May2026.pdf
-2026-05-22 23:03	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Ch1-7_May2026.pdf
-2026-05-22 21:18	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Ch1_May2026.pdf
-2026-05-23 15:55	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Complete_May2026.pdf
-2026-05-23 21:03	pdfs/modern-day-eugenics/Consent_Was_Never_the_Point_ADDENDUM_The_Architecture_Returns_May2026.pdf
-2026-06-06 01:20	pdfs/modern-day-eugenics/Consent_Was_Never_the_Point_FINAL_June2026.pdf
-2026-06-05 23:03	pdfs/modern-day-eugenics/Consent_Was_Never_the_Point_Plain_Language_Guide.pdf
-2026-05-01 23:10	pdfs/new-adsb-docs/ADSB_73_Reviews_A_Day_April2026.pdf
-2026-05-01 23:10	pdfs/new-adsb-docs/ADSB_Financial_Analysis_Community_Version_April2026.pdf
-2026-05-01 23:10	pdfs/new-adsb-docs/ADSB_Health_Benefits_Erosion_Community_Edition_April2026.pdf
-2026-05-01 23:10	pdfs/new-adsb-docs/ADSB_Income_Crossover_Analysis_April2026.pdf
-2026-06-14 16:52	pdfs/new-adsb-docs/ADSB_Income_Crossover_Analysis_RevisedMay2026.pdf
-2026-05-01 23:10	pdfs/new-adsb-docs/ADSB_Practical_Action_Guide_Community_Edition_April2026.pdf
-2026-05-01 23:10	pdfs/new-adsb-docs/ADSB_Structural_Cage_Expanded_April2026.pdf
-2026-05-01 23:10	pdfs/new-adsb-docs/ADSB_The_Core_Findings_Point_Form.pdf
-2026-07-06 01:04	pdfs/new-adsb-docs/AISH_ADAP_Not_In_Force_Pattern_LegalMemo_June2026.pdf
-2026-07-06 01:04	pdfs/new-adsb-docs/AISH_vs_ADAP_Cheat_Sheet.pdf
-2026-07-06 01:04	pdfs/new-adsb-docs/AISH_vs_ADAP_Language_Deep_Dive.pdf
-2026-07-06 01:04	pdfs/new-adsb-docs/AR96-2026_Key_Sections_Highlighted.pdf
-2026-07-06 01:04	pdfs/new-adsb-docs/Bill12_Section6_Key_Provisions_Highlighted.pdf
-2026-06-16 02:38	pdfs/personal-submission/Bruce_Remembrance.pdf
-2026-06-16 01:19	pdfs/personal-submission/Personal_Story_Submission.pdf
-2026-05-01 23:10	pdfs/plain-language/AISH_Plain_Language_Guide_v2_18pages.pdf
-2026-05-01 23:10	pdfs/plain-language/AISH_Taxpayer_Truth_PlainLanguage_2026.pdf
-2026-06-19 23:24	pdfs/plain-language/AR96-2026_Plain_Language_Breakdown.pdf
-2026-06-20 03:30	pdfs/plain-language/Appeal_or_Reassess_PlainLanguage_June2026.pdf
-2026-06-20 03:27	pdfs/plain-language/Appeal_vs_Reassessment_Guide_June2026.pdf
-2026-06-19 23:24	pdfs/plain-language/Bill12_Section6_Plain_Language_Breakdown.pdf
-2026-05-01 23:10	pdfs/plain-language/Charter_of_Rights_Plain_Language_Guide_2026.pdf
-2026-05-01 23:10	pdfs/plain-language/Compound_Failure_Plain_Language_Guide.pdf
-2026-05-01 23:10	pdfs/plain-language/Employment_Assumption_Plain_Language_2026.pdf
-2026-05-01 23:10	pdfs/plain-language/Indigenous_Disability_Plain_Language_Guide.pdf
-2026-06-01 21:10	pdfs/plain-language/Your_Right_to_Appeal_PlainLanguage_June2026.pdf
-2026-05-06 21:44	pdfs/separation-risk/ADSB_Separation_Risk_Analysis_May2026.pdf
-2026-05-09 12:39	pdfs/sourced-briefs/ADSB_Easier_For_Whom_AlbertaCa_Account_May2026.pdf
-2026-05-01 23:10	pdfs/sourced-briefs/AISH_Campaign_Kit_2026.pdf
-2026-05-01 23:10	pdfs/sourced-briefs/AISH_Intergenerational_Contradiction_Report_2026.pdf
-2026-05-01 23:10	pdfs/sourced-briefs/AISH_Media_Pitch_2026.pdf
-2026-05-01 23:10	pdfs/sourced-briefs/Alberta_Daycare_Barriers_Research_Analysis.pdf
-2026-05-01 23:10	pdfs/sourced-briefs/Fiscal_Hypocrisy_Addendum_SOURCED.pdf
-2026-05-01 23:10	pdfs/sourced-briefs/JobPostings_Addendum_April6_2026.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/0_Systematic_Exclusion_Alberta_COMPLETE_Collection.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/10_Systematic_Exclusion_SECTION_9_Human_Cost_Report.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/11_Systematic_Exclusion_SECTION_10_Prior_Findings_Report.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/12_Systematic_Exclusion_SECTION_11_Employment_Reality_Report.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/13_Systematic_Exclusion_SECTION_12_Campaign_Action_Kit.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/14_Systematic_Exclusion_SECTION_13_Media_Pitch.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/15_Systematic_Exclusion_SECTION_14_Practical_Action_Guide.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/16_Systematic_Exclusion_SECTION_15_Analysis.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/1_Systematic_Exclusion_PREFACE.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/2_Systematic_Exclusion_SECTION_1_Financial_Reality_Report.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/3_Systematic_Exclusion_SECTION_2_Health_Benefits_Erosion_Report.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/4_Systematic_Exclusion_SECTION_3_Alberta_Housing_Crisis_Report.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/5_Systematic_Exclusion_SECTION_4_Access_Barrier_Report.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/6_Systematic_Exclusion_SECTION_5_Caseworker_Appeal_Rights_HumanRights.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/7_Systematic_Exclusion_SECTION_6_Healthcare_Worker_Shortage_Report.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/8_Systematic_Exclusion_SECTION_7_FSCD_PDD_Crisis_Report.pdf
-2026-05-02 00:17	pdfs/systematic-exclusion-sections/9_Systematic_Exclusion_SECTION_8_This_Is_A_Choice.pdf
-2026-05-02 20:19	pdfs/what-disability-actually-means/What_Disability_Actually_Means.pdf
-2026-05-03 03:26	pdfs/what-disability-actually-means/What_Disability_Actually_Means_Plain_Language.pdf
+# ADSB Newsletter Manifest — FULL SITE (every git-tracked file, not PDFs only)
+# Generated: 2026-09-05 02:24 UTC | HEAD: 69a269b | Format: <sha1-12>\t<path>
+# Next run: diff this list, AND run `git diff <last HEAD> HEAD` to catch content added inside js/*.js data files.
+7ad15316886e	.gitignore
+a1ea988b5180	README.md
+908a1b337bd3	accommodation-emails.html
+5727c3a8a739	alertbar.png
+e1d3f60e4976	assets/card-front-facebook.png
+4858d83e595a	assets/rose-pins.png
+cbbe41bdd131	assets/wild-rose-mark.png
+fe5a7be85655	assets/wild-rose.png
+f492e5ebd40d	assets/wild-rose.svg
+467e8ee45554	audio/README.md
+22373f97187f	audio/adsb-report-series/00_ADSB_Audio_00_Intro.mp3
+4ffdefb30bab	audio/adsb-report-series/01_ADSB_Audio_Do_You_Know_Your_Minister_Nixon.mp3
+4621bd2e3cac	audio/adsb-report-series/02_ADSB_Audio_Do_You_Know_Your_Premier_Smith.mp3
+9b88c78c0bbd	audio/adsb-report-series/03_ADSB_Audio_Financial_Reality.mp3
+e43a7c4a47b6	audio/adsb-report-series/04_ADSB_Audio_Health_Benefits_Erosion.mp3
+fdd0d3342177	audio/adsb-report-series/05_ADSB_Audio_Alberta_Housing_Crisis.mp3
+67f88f59ee6e	audio/adsb-report-series/05b_ADSB_Audio_Payment_Instability.mp3
+0e0009c91eed	audio/adsb-report-series/06_ADSB_Audio_Access_Barrier.mp3
+f80d89f2518e	audio/adsb-report-series/07_ADSB_Audio_Caseworker_Appeal_Rights_HumanRights.mp3
+39144615a243	audio/adsb-report-series/07b_ADSB_Audio_Appeal_Overturn.mp3
+4ad09291da91	audio/adsb-report-series/07c_ADSB_Audio_Charter_Mobility_Rights.mp3
+3145f62e899e	audio/adsb-report-series/08_ADSB_Audio_Healthcare_Worker_Shortage.mp3
+c6957664cc9a	audio/adsb-report-series/09_ADSB_Audio_Three_Years_and_Counting_FSCD_PDD_Crisis.mp3
+549c78a65af9	audio/adsb-report-series/09a_ADSB_Audio_ADSB_Employment_Reality.mp3
+c6a974f449ef	audio/adsb-report-series/09c_ADSB_Audio_Intergenerational_Family.mp3
+ece328ca8687	audio/adsb-report-series/09d_ADSB_Audio_Intergenerational_Contradiction.mp3
+1e256f03977b	audio/adsb-report-series/10_ADSB_Audio_Taxpayer_and_Heritage_Fund.mp3
+b89841cf3420	audio/adsb-report-series/10a_ADSB_Audio_Follow_The_Money.mp3
+404ee49be2b8	audio/adsb-report-series/10b_ADSB_Audio_The_Plot_Thickens.mp3
+44520c40c7fe	audio/adsb-report-series/11_ADSB_Audio_Human_Cost.mp3
+f06db54fa4b7	audio/adsb-report-series/12_ADSB_Audio_Prior_Finding.mp3
+ec739ccf0020	audio/adsb-report-series/12b_ADSB_Audio_Assured_Statement.mp3
+92b60615114d	audio/adsb-report-series/13_ADSB_Audio_employment_Reality_Government_Postings.mp3
+ec86bd805ab7	audio/adsb-report-series/13b_ADSB_Audio_Employment_Assumption.mp3
+9bb0805bcdb9	audio/adsb-report-series/13c_ADSB_Audio_The_Workshops_Question.mp3
+7bdc849ffa1b	audio/adsb-report-series/13d_ADSB_Audio_Governments_Case_Against_Itself.mp3
+6c4e3070efc5	audio/adsb-report-series/14_ADSB_Audio_Addendum_FSCD_PDD_Closures.mp3
+55d79a2d1290	audio/adsb-report-series/15_ADSB_Audio_Addendum_Government_Postings.mp3
+9aca3d2e3246	audio/adsb-report-series/16_ADSB_Audio_Addendum_Coalition_and_UN.mp3
+84f06762a5ad	audio/adsb-report-series/17_ADSB_Audio_Campaign_and_Action_Kit.mp3
+3747a3a8ed9a	audio/adsb-report-series/18_ADSB_Audio_Media_Pitch_Sheet.mp3
+7513e5bd0c1a	audio/adsb-report-series/19_ADSB_Audio_Practical_Action_Guide.mp3
+b45a6652969c	audio/adsb-report-series/20_ADSB_Audio_00_Outro.mp3
+866f4c1b6ef8	audio/compound-failure/00_Compound_Failure_Intro.mp3
+b98e0c66c2a1	audio/compound-failure/1_Compound_Failure_Part_1.mp3
+97c6e1e3eea1	audio/compound-failure/2_Compound_Failure_Part_2.mp3
+9a194a574472	audio/compound-failure/3_Compound_Failure_Part_3.mp3
+94440c9d4690	audio/compound-failure/4_Compound_Failure_Part_4.mp3
+380366ae3c00	audio/compound-failure/5_Compound_Failure_Part_5.mp3
+e147cc7b32aa	audio/compound-failure/6_Compound_Failure_Part_6.mp3
+d1f19c33cdf7	audio/compound-failure/7_Compound_Failure_Part_7.mp3
+5f3f7a17f51e	audio/consultation-gap-rebuttal/0_Consultation_Gap_Intro.mp3
+3f26868f2801	audio/consultation-gap-rebuttal/1_Consultation_Gap_Rebuttal.mp3
+5e9514eb6d81	audio/consultation-gap-rebuttal/2_Consultation_Gap_Outro.mp3
+6755dbecb8f1	audio/indigenous-series/0_Indigenous_Disability_Alberta_Series_Intro.mp3
+f85c0a245cf5	audio/indigenous-series/10_Indigenous_Disability_Alberta_SECTION_9_ChildWelfare.mp3
+beeab91807f4	audio/indigenous-series/11_Indigenous_Disability_Alberta_SECTION_10_Justice.mp3
+ec6933bcaa4b	audio/indigenous-series/12_Indigenous_Disability_Alberta_SECTION_11_MMIWG2S.mp3
+e6432a3077a0	audio/indigenous-series/13_Indigenous_Disability_Alberta_SECTION_12_UNDRIP.mp3
+3c1ddc6a048c	audio/indigenous-series/14_Indigenous_Disability_Alberta_SECTION_13_Sovereignty.mp3
+5026290ec3ac	audio/indigenous-series/15_Indigenous_Disability_Alberta_SECTION_14_TRC_Health.mp3
+ae60d654404e	audio/indigenous-series/16_Indigenous_Disability_Alberta_SECTION_15_July1_Synthesis.mp3
+17992df197d6	audio/indigenous-series/17_Indigenous_Disability_Alberta_SECTION_16_Closing.mp3
+c111089e75d3	audio/indigenous-series/18a_Indigenous_Disability_Alberta_SECTION_17_Federal_Provincial_Clawback_Part1.mp3
+932091984618	audio/indigenous-series/18b_Indigenous_Disability_Alberta_SECTION_17_Federal_Provincial_Clawback_Part2.mp3
+5213b6720061	audio/indigenous-series/19_Indigenous_Disability_Alberta_Series_Outro.mp3
+efeb818daf6a	audio/indigenous-series/1_Indigenous_Disability_Alberta_PREFACE.mp3
+eaf6118fb096	audio/indigenous-series/2_Indigenous_Disability_Alberta_SECTION_1_Historical_Context.mp3
+654226ac96b9	audio/indigenous-series/3_Indigenous_Disability_Alberta_SECTION_2_Mortality_Gap.mp3
+9328abc34be9	audio/indigenous-series/4_Indigenous_Disability_Alberta_SECTION_3_Jurisdictional_Fracture.mp3
+e8c7b839c4dd	audio/indigenous-series/5_Indigenous_Disability_Alberta_SECTION_4_Housing.mp3
+79651e246aa8	audio/indigenous-series/6_Indigenous_Disability_Alberta_SECTION_5_Contaminated_Land.mp3
+09d7db31ad95	audio/indigenous-series/7_Indigenous_Disability_Alberta_SECTION_6_Water.mp3
+ccc70f482215	audio/indigenous-series/8_Indigenous_Disability_Alberta_SECTION_7_Healthcare.mp3
+ed023abfe5ab	audio/indigenous-series/9_Indigenous_Disability_Alberta_SECTION_8_JordansPrinciple.mp3
+b9feee27892b	audio/information-asymmetry/0_Information_Asymmetry_Report_Part1_of_8.mp3
+5441be8c96c1	audio/information-asymmetry/0_Information_Asymmetry_Report_Part2_of_8.mp3
+d26e89d32631	audio/information-asymmetry/0_Information_Asymmetry_Report_Part3_of_8.mp3
+fc9d7799244b	audio/information-asymmetry/0_Information_Asymmetry_Report_Part4_of_8.mp3
+f1a082e28763	audio/information-asymmetry/0_Information_Asymmetry_Report_Part5_of_8.mp3
+c6e9af6f0a93	audio/information-asymmetry/0_Information_Asymmetry_Report_Part6_of_8.mp3
+d7cbd4ac83be	audio/information-asymmetry/0_Information_Asymmetry_Report_Part7_of_8.mp3
+3f0fafe3219d	audio/information-asymmetry/0_Information_Asymmetry_Report_Part8_of_8.mp3
+42c4e21cd926	audio/songs-for-the-movement/CAN YOU HEAR US.mp3
+b16ec0916fc6	audio/songs-for-the-movement/Kitchen Table Map.mp3
+35ee1d19de85	audio/songs-for-the-movement/Paperwork on the Steps.mp3
+78d6e9492859	audio/songs-for-the-movement/Raise the Banner.mp3
+f8a5a3ad18e4	audio/songs-for-the-movement/Still-Here March.mp3
+dcfc3a844cc3	audio/songs-for-the-movement/UCP Still Here.mp3
+ad45cea11e95	audio/the-full-plain-language-library/0_Plain_Language_Intro.mp3
+fcfcb767e40d	audio/the-full-plain-language-library/10_Plain_Language_Do_I_Have_To_Work_Now.mp3
+9cd1d43723d1	audio/the-full-plain-language-library/11_Plain_Language_How_To_Get_The_Federal_200.mp3
+2a9c7ea42169	audio/the-full-plain-language-library/12_Plain_Language_The_Third_Door_Provide_Additional_Information.mp3
+54ac4ba84a7f	audio/the-full-plain-language-library/13_Plain_Language_What_Happens_To_Your_Health_Benefits.mp3
+945c439f43cf	audio/the-full-plain-language-library/14_Plain_Language_Outro.mp3
+8821809359f3	audio/the-full-plain-language-library/1_Plain_Language_Your_Right_to_Appeal.mp3
+fe861b582b13	audio/the-full-plain-language-library/2_Plain_Language_Appeal_vs_Reassessment.mp3
+8653e53ffead	audio/the-full-plain-language-library/3_Plain_Language_What_The_Transition_Means.mp3
+a5566e1e0019	audio/the-full-plain-language-library/4_Plain_Language_Who_Stays_On_AISH_Automatically.mp3
+e438e7100435	audio/the-full-plain-language-library/5_Plain_Language_Get_Your_Own_AISH_File.mp3
+81c5b434c1d3	audio/the-full-plain-language-library/6_Plain_Language_Fix_A_Wrong_CDB_Deduction.mp3
+1c9fbb897398	audio/the-full-plain-language-library/7_Plain_Language_Write_To_Your_MLA_And_MP.mp3
+14e7f8c5cd15	audio/the-full-plain-language-library/8_Plain_Language_What_No_Action_Required_Really_Means.mp3
+a0db6ce003ac	audio/the-full-plain-language-library/9_Plain_Language_What_Your_Doctors_Letter_Needs_To_Say.mp3
+02cebc4dfca6	cowork-newsletter-manifest.txt
+9f2ccc5944f0	css/styles.css
+4dcafd8303d8	cta-card.html
+90095b86efb3	fcssaa-package-section.html
+2082d2df8fa8	fcssaa.html
+eee79b6ce429	index.html
+fd4e5bf1c54d	js/app.js
+36cd6b227ef0	js/daily-news.js
+d99799d22135	js/email-letters.js
+24b1cc0fdee5	js/faq.js
+a29b166423fb	js/field-notes.js
+a4bd59dab381	js/legal-package-sender.js
+5ecb9c78ee8e	netlify.toml
+3a08030dea62	pdfs/PROJECT_LEFTOVERS_not_uploaded.txt
+a69f06d23499	pdfs/access-gap/Access_Gap_Penalized_for_NonAbility.pdf
+8264e116f493	pdfs/access-gap/Access_Gap_Plain_Language.pdf
+720aac91cbbc	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Complete_May2026.pdf
+e9f931d91da2	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase1.pdf
+b2ffad7cf463	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase1_TributeAndLougheed.pdf
+d4ab4e2401fe	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase2_GettyEra.pdf
+3735a647d4e2	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase3_KleinEra.pdf
+4932c6e3778f	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase4_StelmachEra.pdf
+029c715a5de3	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase5_LatePCPeriod.pdf
+5c192cf004df	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase6_NotleyEra.pdf
+bbc723aad210	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase7_KenneyEra.pdf
+4c24e6e404c6	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase8_SmithEra.pdf
+727d58cf6fc5	pdfs/adsb-from-greatness-to-betrayal/ADSB_From_Greatness_to_Betrayal_Phase9_Synthesis.pdf
+c23c12f30b14	pdfs/adsb-report-series/0_Complete_Report_Series_Compilation.pdf
+3cdaac291001	pdfs/adsb-report-series/10_Taxpayer_and_Heritage_Fund_Report.pdf
+6cc0cda83711	pdfs/adsb-report-series/10a_Follow_The_Money_Report.pdf
+fc1d6b9e5630	pdfs/adsb-report-series/10b_The_Plot_Thickens_Report.pdf
+49d50dfec049	pdfs/adsb-report-series/11_Human_Cost_Report.pdf
+f5b539f5086f	pdfs/adsb-report-series/12_Prior_Finding_Report.pdf
+df5c7029289c	pdfs/adsb-report-series/12bAssured_Statement_Report.pdf
+579ed2588cb8	pdfs/adsb-report-series/13_Employment_Reality_Report.pdf
+1482f6c395f0	pdfs/adsb-report-series/13b_Employment_Assumption_Who_Are_The_Workshops_For_Report.pdf
+83667de1ee2a	pdfs/adsb-report-series/13c_The_Workshops_Question_ADAP_Report.pdf
+1ae9cd800fc7	pdfs/adsb-report-series/13dGovernments_Case_Against_Itself_Report.pdf
+66b9323a0694	pdfs/adsb-report-series/14_Addendum_FSCD_PDD_Closures.pdf
+3124830edba1	pdfs/adsb-report-series/15_Addendum_Government_Job_Postings.pdf
+102df1890ccf	pdfs/adsb-report-series/16_Addendum_Coalition_and_UN_CRPD.pdf
+6ae648cf24d8	pdfs/adsb-report-series/17_Campaign_and_Action_Kit.pdf
+e8f6881f862b	pdfs/adsb-report-series/18_Media_Pitch_Sheet.pdf
+2bfae6e45020	pdfs/adsb-report-series/19_Practical_Action_Guide.pdf
+79153ac52aed	pdfs/adsb-report-series/1_Do_You_Know_Your_Minister_Nixon.pdf
+c9c13f3e24cd	pdfs/adsb-report-series/2_Do_You_Know_Your_Premier_Smith.pdf
+ca702bd9a22e	pdfs/adsb-report-series/3_Financial_Reality_Report.pdf
+1d8be5e2cf4d	pdfs/adsb-report-series/4_Health_Benefits_Erosion_Report.pdf
+c5f0e2e555ce	pdfs/adsb-report-series/5_Alberta_Housing_Crisis_Report.pdf
+6fc7d57dc467	pdfs/adsb-report-series/5b_Payment_Instability_Report.pdf
+505c86880cc1	pdfs/adsb-report-series/6_Access_Barrier_Report.pdf
+c80227ce87f3	pdfs/adsb-report-series/7_Caseworker_Appeal_Rights_HumanRights.pdf
+483ededb5210	pdfs/adsb-report-series/7b_Appeal_Overturn_Report.pdf
+f2f1182c750d	pdfs/adsb-report-series/7c_Charter_Mobility_Rights_Report.pdf
+dc1cc8632e4b	pdfs/adsb-report-series/8_Healthcare_Worker_Shortage_Report.pdf
+2e505019c0d5	pdfs/adsb-report-series/9_ADSB_Employment_Reality_Report.pdf
+54787855c636	pdfs/adsb-report-series/9_Three_Years_and_Counting_FSCD_PDD_Crisis_Report.pdf
+bc864f58da82	pdfs/adsb-report-series/9b_Intergenerational_Family_Report.pdf
+e8182d21d5df	pdfs/adsb-report-series/9c_Intergenerational_Contradiction_Report.pdf
+49c72541a9ce	pdfs/august-2026-docs/ADSB_FCSSAA_Plain_Language_Guide_2026.pdf
+09cc8c41ec11	pdfs/august-2026-docs/ADSB_FCSSAA_Prevention_Case_Package_2026.pdf
+37828c7b13cc	pdfs/august-2026-docs/ADSB_FCSSAA_Resolution_ReadyToSubmit_2026.pdf
+c70ebdccbb53	pdfs/august-2026-docs/ADSB_Financial_Administrator_No_Consent_2026.pdf
+5c159a250a20	pdfs/august-2026-docs/ADSB_Housing_Rent_Rule_Now_Law_2026.pdf
+9e4959ef75d6	pdfs/august-2026-docs/ADSB_Medical_Appeal_Panel_Members_2026.pdf
+3bbaae37ae1d	pdfs/august-2026-docs/ADSB_What_You_Can_Appeal_August2026.pdf
+74826ffb1bae	pdfs/august-2026-docs/AISH_Manual_Comparison.pdf
+56fc5615303a	pdfs/august-2026-docs/Bill53_Breakdown_August2026.pdf
+b756c1650ce8	pdfs/august-2026-docs/MAID_Report_Sections_1to4_DRAFT_August2026.pdf
+68c7bd4732ff	pdfs/august-2026-docs/OPGT_Guardianship_Trusteeship_Guide.pdf
+03900161749f	pdfs/august-2026-docs/What_You_Must_Disclose_And_What_You_Dont_August2026.pdf
+9a67d1163b21	pdfs/august-2026-docs/What_You_Must_Disclose_PLAIN_LANGUAGE_August2026.pdf
+d1c613c2bf1b	pdfs/building-up/0_Building_Up_May2026.pdf
+d06686a49559	pdfs/building-up/ADSB_BuildingUp_OnePage_Introduction_May2026.pdf
+78455be877f5	pdfs/building-up/ADSB_BuildingUp_What_This_Means_For_Me_May2026.pdf
+867408409f51	pdfs/building-up/Building_Up_Part1_Section1.1.pdf
+88f7863c2bef	pdfs/building-up/Building_Up_Part1_Section1.10.pdf
+9333f8d4e4e9	pdfs/building-up/Building_Up_Part1_Section1.2.pdf
+21f6704907ca	pdfs/building-up/Building_Up_Part1_Section1.3.pdf
+f08488228861	pdfs/building-up/Building_Up_Part1_Section1.3a.pdf
+c62b250d7e01	pdfs/building-up/Building_Up_Part1_Section1.4.pdf
+580bff393478	pdfs/building-up/Building_Up_Part1_Section1.5.pdf
+03ac2db7be42	pdfs/building-up/Building_Up_Part1_Section1.6.pdf
+c1ac5955676b	pdfs/building-up/Building_Up_Part1_Section1.7.pdf
+2d13b823bb87	pdfs/building-up/Building_Up_Part1_Section1.8.pdf
+eab0f1c02501	pdfs/building-up/Building_Up_Part1_Section1.9.pdf
+c95fed514c60	pdfs/building-up/Building_Up_Part1_SourceIndex.pdf
+1979bf5ebaec	pdfs/building-up/Building_Up_Part2_Section2.1.pdf
+767dc2e1bf86	pdfs/building-up/Building_Up_Part2_Section2.2.pdf
+e2c96bcc2f00	pdfs/building-up/Building_Up_Part2_Section2.3.pdf
+ab73cfa9f5b6	pdfs/building-up/Building_Up_Part2_Section2.4.pdf
+3c68f78598b3	pdfs/building-up/Building_Up_Part2_Section2.5.pdf
+eb4ada8b9537	pdfs/building-up/Building_Up_Part2_Section2.6.pdf
+f3c23aaf7c98	pdfs/building-up/Building_Up_Part2_Section2.7.pdf
+b8c10e1cd585	pdfs/building-up/Building_Up_Part2_Section2.7a.pdf
+e60d3399e7a8	pdfs/building-up/Building_Up_Part2_Section2.8.pdf
+863cd8613982	pdfs/building-up/Building_Up_Part2_SourceIndex.pdf
+9e540ed3cacb	pdfs/building-up/Building_Up_Part3_Section3.1.pdf
+2b60f2cda24d	pdfs/building-up/Building_Up_Part3_Section3.10.pdf
+551bc3dcb294	pdfs/building-up/Building_Up_Part3_Section3.2.pdf
+e9f692d150a0	pdfs/building-up/Building_Up_Part3_Section3.3.pdf
+7c97f2164e14	pdfs/building-up/Building_Up_Part3_Section3.4.pdf
+06eb07981e96	pdfs/building-up/Building_Up_Part3_Section3.4_Component9.pdf
+7dac2c57ccec	pdfs/building-up/Building_Up_Part3_Section3.5.pdf
+ceb7b9e0611d	pdfs/building-up/Building_Up_Part3_Section3.6.pdf
+35a8029d7c8c	pdfs/building-up/Building_Up_Part3_Section3.6_Amendment.pdf
+bb4905befa8b	pdfs/building-up/Building_Up_Part3_Section3.7.pdf
+b8a755c6f4df	pdfs/building-up/Building_Up_Part3_Section3.8.pdf
+7381c58d868d	pdfs/building-up/Building_Up_Part3_Section3.9.pdf
+aba9237d0d4b	pdfs/building-up/Building_Up_Part3_SourceIndex.pdf
+4ca5a38c2597	pdfs/cage-doesnt-end/0_Cage_Doesnt_End_Compilation_May2026.pdf
+823fcbdf2b27	pdfs/cage-doesnt-end/ADSB_Cage_Doesnt_End_Plain_Language_Guide_May2026.pdf
+1bc3ec7e09e9	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_1.1.pdf
+2074a87debf4	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_1.2.pdf
+ee0cc39b2a6a	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_1.3.pdf
+990000fb3563	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_1.4.pdf
+91ec232ab832	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_1.5.pdf
+6688a8dab6fa	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_1.6.pdf
+107ae8d7ea40	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.1.pdf
+c3b34aa8fdd5	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.2.pdf
+f1376e45393b	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.3.pdf
+621fe8e0e9ec	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.4.pdf
+e60a2a12a920	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.5.pdf
+353c26a2f701	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.6.pdf
+97175577bf4f	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.7.pdf
+eb992c0c200c	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.8.pdf
+12d836a7a87d	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_2.9.pdf
+ce28c9b59442	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_3.1.pdf
+9992ddbb5c75	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_3.2.pdf
+2569f8ec6fec	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_3.3.pdf
+6e2277bc02cc	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_3.4.pdf
+9f14e7ab95d0	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_4.1.pdf
+898726f7138d	pdfs/cage-doesnt-end/Cage_Doesnt_End_Section_4.2.pdf
+b72ef34ea3a3	pdfs/cage-doesnt-end/Cage_Doesnt_End_Source_Index.pdf
+aeba4fb91ce3	pdfs/cage-doesnt-end/images/cage_image_01.png
+d1d181770e5c	pdfs/cage-doesnt-end/images/cage_image_02.png
+15161cb5f861	pdfs/cage-doesnt-end/images/cage_image_03.png
+b15a002d8e4e	pdfs/cage-doesnt-end/images/cage_image_04.png
+2b0e84b5460d	pdfs/cage-doesnt-end/images/cage_image_05.png
+d8a6128c4ddd	pdfs/cage-doesnt-end/images/cage_image_06.png
+0e385356702b	pdfs/cage-doesnt-end/images/cage_image_07.png
+488064cfb761	pdfs/cage-doesnt-end/images/cage_image_08.png
+dd240e2606fd	pdfs/cage-doesnt-end/images/cage_image_09.png
+592c89546abc	pdfs/cage-doesnt-end/images/cage_image_10.png
+a3092a4d06a6	pdfs/cage-doesnt-end/images/cage_image_11.png
+a6c5930b2fb1	pdfs/cage-doesnt-end/images/cage_image_12.png
+cb086f002a6f	pdfs/cage-doesnt-end/images/cage_image_13.png
+e6a145829aa7	pdfs/cage-doesnt-end/images/cage_image_14.png
+cc53c20ad488	pdfs/cage-doesnt-end/images/cage_image_15.png
+bace80df770a	pdfs/cage-doesnt-end/images/cage_image_16.png
+53168032f43e	pdfs/cage-doesnt-end/images/cage_image_17.png
+003bcc5eda92	pdfs/cage-doesnt-end/images/cage_image_18.png
+c2ff0423fe28	pdfs/cage-doesnt-end/images/cage_image_19.png
+ceaeae29ca8b	pdfs/cage-doesnt-end/images/cage_image_20.png
+d16ec0c9756a	pdfs/cage-doesnt-end/images/cage_image_21.png
+cbd20a1b73f9	pdfs/compound-failure/0_Compound_Failure_Brief_COMPLETE.pdf
+fcc88ddf3889	pdfs/compound-failure/1_Compound_Failure_Introduction_Section.pdf
+5d4fc79ec438	pdfs/compound-failure/2_Compound_Failure_Pillar_I.pdf
+d604797af034	pdfs/compound-failure/3_Compound_Failure_Pillar_II_FINAL.pdf
+d4532cc6f219	pdfs/compound-failure/4_Compound_Failure_Pillar_III_FINAL.pdf
+91d1e866911f	pdfs/compound-failure/5_Compound_Failure_Section_V_FINAL.pdf
+324de986897e	pdfs/compound-failure/6_Compound_Failure_Section_VI_FINAL.pdf
+08eb77bfaa22	pdfs/consultation-gap-rebuttal/Consultation_Gap_Rebuttal_April2026.pdf
+d42653c36778	pdfs/fillable/10_Fillable_Disability_Refugee_Newfoundland_and_Labrador.pdf
+d6943fb3d03e	pdfs/fillable/1_Fillable_Disability_Refugee_British_Columbia.pdf
+d7f801173078	pdfs/fillable/2_Fillable_Disability_Refugee_Saskatchewan.pdf
+b18ab525c689	pdfs/fillable/3_Fillable_Disability_Refugee_Northwest_Territories.pdf
+41b789804cef	pdfs/fillable/4_Fillable_Disability_Refugee_Manitoba.pdf
+632b95fafba2	pdfs/fillable/5_Fillable_Disability_Refugee_Ontario.pdf
+ef0daf580325	pdfs/fillable/6_Fillable_Disability_Refugee_Quebec.pdf
+1b95ac47e12e	pdfs/fillable/7_Fillable_Disability_Refugee_New_Brunswick.pdf
+db48ec29cd04	pdfs/fillable/8_Fillable_Disability_Refugee_Nova_Scotia.pdf
+5137096af348	pdfs/fillable/9_Fillable_Disability_Refugee_Prince_Edward_Island.pdf
+a2be69b9850c	pdfs/fillable/ADAP_Employment_Barriers_Notice_PrintAndWrite_July2026.pdf
+923ff0aba523	pdfs/fillable/ADSB_ATIA_Portal_Walkthrough_May2026.pdf
+f12ad88cf389	pdfs/fillable/ADSB_Exemption_Category_Correction_Request.pdf
+8861b09d2f73	pdfs/fillable/AISH_Appeal_Letter_Fillable_June2026.pdf
+d81b795d97da	pdfs/fillable/AISH_Appeal_Letter_ReadyToPrint_and_Sign_June2026.pdf
+07780d531ba8	pdfs/fillable/Before_You_See_Your_Doctor_Worksheet_July2026.pdf
+baac4dc3d53d	pdfs/fillable/DISABILITY_Advocacy_Consent_Fillable.pdf
+4df40b085217	pdfs/fillable/DISABILITY_Advocacy_Consent_PrintFill.pdf
+229845c5678b	pdfs/fillable/DS2444A_fillable.pdf
+4da3a67601ec	pdfs/fillable/DS2444B_fillable.pdf
+fd9089e6cc53	pdfs/fillable/Fillable_ADAP_Exemption_Caregiver_Statement.pdf
+2754ccca805e	pdfs/fillable/Fillable_ADAP_Exemption_Recipient_Statement.pdf
+be5ee28caab2	pdfs/fillable/Fillable_AISH_Appeal_CPPD_Grounds_June2026.pdf
+16523b5e2121	pdfs/fillable/Fillable_AISH_File_Correction_Letter.pdf
+1f103290155c	pdfs/fillable/Fillable_ATIA_Personal_File_Request.pdf
+9411de6c80f6	pdfs/fillable/Fillable_Active_Application_Stop_Deduction_Letter.pdf
+3ef8d0a0c85e	pdfs/fillable/Fillable_Ally_Advocacy_Submission.pdf
+834e17f6f8ff	pdfs/fillable/Fillable_CDB_200_Deduction_Correction_Letter.pdf
+b358ed4bcc34	pdfs/fillable/Fillable_CDB_Clawback_Documentation.pdf
+b56fedf9ac87	pdfs/fillable/Fillable_CDB_Deduction_Correction_Letter_v2_July2026.pdf
+a16ef097d333	pdfs/fillable/Fillable_CDB_Overpayment_Appeal_Form.pdf
+223fa948dc0d	pdfs/fillable/Fillable_CDB_Underpayment_Repayment_Request.pdf
+ac1b18f49586	pdfs/fillable/Fillable_Community_Story_Submission.pdf
+fc90af375d22	pdfs/fillable/Fillable_Community_Story_Submission_PRINTABLE.pdf
+1ab9cf0c1cc9	pdfs/fillable/Fillable_Employment_Barriers_Notice_July2026.pdf
+a17125412347	pdfs/fillable/Fillable_Formal_Complaint_Template.pdf
+2c5653d5ccb4	pdfs/fillable/Fillable_Health_Card_Coverage_Letters_August2026.pdf
+aa8e701c16ed	pdfs/fillable/Fillable_Letter_to_the_Minister_AISH_to_ADAP_June2026.pdf
+151525ee4e08	pdfs/fillable/Fillable_MLA_Letter_Episodic_Disability_s15-4.pdf
+b85bc57c7b73	pdfs/fillable/Fillable_MLA_Letter_s15-4_LetterOnly.pdf
+92254a09daaa	pdfs/fillable/Fillable_MLA_MP_Contact_Letter.pdf
+5dcb76a9d8b8	pdfs/fillable/Fillable_Monthly_Income_Status_Report.pdf
+b9430ce87424	pdfs/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Caregiver_Edition.pdf
+df3a2a458b43	pdfs/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Letter.pdf
+ff5b48e9a0be	pdfs/fillable/Fillable_Neudorf_STOP_ADAP_Letter.pdf
+fad576018829	pdfs/fillable/Fillable_Neudorf_STOP_ADAP_Letter_Caregiver_Edition.pdf
+bb4245f26ab8	pdfs/fillable/Fillable_Personal_Impact_Statement.pdf
+7d3a6733a270	pdfs/fillable/Fillable_Pre_Appeal_Submission.pdf
+d19f5c10eb8c	pdfs/fillable/Fillable_Recording_Accommodation_Request.pdf
+222e7139bfad	pdfs/fillable/Fillable_Travel_Benefit_Request_July2026.pdf
+39c13e6aad33	pdfs/fillable/Fillable_Underpayment_Notice_July2026.pdf
+bc3e3e9c737c	pdfs/fillable/LargePrint_Accommodation_Request_PrintAndWrite.pdf
+27fce4c49a8c	pdfs/fillable/MoveFastBreakThings_Accountability_Submission_June2026.pdf
+9225f4db37f1	pdfs/fillable/My_Individual_Plan_SelfAdvocacy_Worksheet.pdf
+38931714fca9	pdfs/fillable/My_Individual_Plan_SelfAdvocacy_Worksheet_PrintAndWrite.pdf
+b8f5cb721b1b	pdfs/fillable/My_Individual_Plan_SelfAdvocacy_Worksheet_PrinterFriendly.pdf
+f00680ba3db5	pdfs/fillable/Notice_of_Absence_From_Alberta.pdf
+f3e3120dd0d6	pdfs/fillable/Notice_of_Temporary_Change_of_Availability.pdf
+6dbeeea91030	pdfs/flyers/comics/15fdf9c2-e35d-432b-ba7e-7e07e194cbedQR.jpg
+0457bf7c786e	pdfs/flyers/comics/5d5b1eed-2c68-4a5b-9aa0-8bb2137ae32fQR.jpg
+c36fa82f4dff	pdfs/flyers/comics/667409808_1575319973579544_3786217956361830580_n.jpg
+0718db90fe3c	pdfs/flyers/comics/91a548b1-7fec-4bd8-a0fe-61d3597aa47eqr.jpg
+d3f562f41446	pdfs/flyers/comics/AISH_Access_Barrier.jpg
+7a491b74204f	pdfs/flyers/comics/AISH_Assured_Flyer.jpg
+ba3aef4798ef	pdfs/flyers/comics/AISH_Caseworker_Appeal_Rights_HumanRights.jpg
+1c23e49fa560	pdfs/flyers/comics/ChatGPT_Image_Apr_23,_2026,_10_19_23_PM.jpg
+866daef1b1df	pdfs/flyers/comics/ChatGPT_Image_Apr_23,_2026,_10_20_20_PM.jpg
+2e2d95e0ee22	pdfs/flyers/comics/ChatGPT_Image_Apr_23,_2026,_10_21_10_PM.jpg
+84ddecf56c17	pdfs/flyers/comics/ChatGPT_Image_Apr_23,_2026,_10_22_10_PM.jpg
+5ec4c7850e57	pdfs/flyers/comics/ChatGPT_Image_Apr_23,_2026,_10_23_00_PM.jpg
+b2ed88770d70	pdfs/flyers/comics/ChatGPT_Image_Apr_23,_2026,_10_23_54_PM.jpg
+b6cee4ef01e1	pdfs/flyers/comics/ChatGPT_Image_Apr_23,_2026,_10_25_04_PM.jpg
+1b8c385ece28	pdfs/flyers/comics/ChatGPT_Image_Apr_23,_2026,_10_26_01_PM.jpg
+27b39aca1211	pdfs/flyers/comics/ChatGPT_Image_Apr_23,_2026,_10_43_11_PM.jpg
+d18cc30136f8	pdfs/flyers/comics/ChatGPT_Image_Apr_23,_2026,_10_46_54_PM.jpg
+29fb8668e3b9	pdfs/flyers/comics/ChatGPT_Image_Apr_23,_2026,_10_48_12_PM.jpg
+07d6d953ebb0	pdfs/flyers/comics/ChatGPT_Image_Apr_26,_2026,_06_36_35_PM.jpg
+0d6ad11a9e99	pdfs/flyers/comics/ChatGPT_Image_Apr_26,_2026,_06_38_39_PM.jpg
+fc547548cf8d	pdfs/flyers/comics/ChatGPT_Image_Apr_26,_2026,_06_40_43_PM.jpg
+57d9fc7fef1f	pdfs/flyers/comics/ChatGPT_Image_Apr_26,_2026,_06_42_34_PM.jpg
+be5658629761	pdfs/flyers/comics/ChatGPT_Image_Apr_26,_2026,_06_44_40_PM.jpg
+a25757e5ecd9	pdfs/flyers/comics/ChatGPT_Image_Apr_26,_2026,_06_45_56_PM.jpg
+cbba965df2d6	pdfs/flyers/comics/ChatGPT_Image_Apr_26,_2026,_06_49_49_PM.jpg
+c8cf935766fe	pdfs/flyers/comics/ChatGPT_Image_Apr_26,_2026,_06_51_53_PM.jpg
+9c67335386fc	pdfs/flyers/comics/ChatGPT_Image_Apr_26,_2026,_06_53_18_PM.jpg
+40836f7cdd92	pdfs/flyers/comics/ChatGPT_Image_Apr_26,_2026,_06_54_32_PM.jpg
+b8f82e23e48c	pdfs/flyers/comics/ChatGPT_Image_Apr_26,_2026,_06_56_03_PM.jpg
+f44fe4dd533e	pdfs/flyers/comics/Image 1 May 2, 2026, 08_35_36 PM.png
+db0b9187b353	pdfs/flyers/comics/Image 1 May 3, 2026, 02_43_12 AM.png
+9dd6905be9ad	pdfs/flyers/comics/Image 10 May 2, 2026, 08_55_41 PM.png
+9ed7896027c8	pdfs/flyers/comics/Image 10 May 3, 2026, 02_55_47 AM.png
+921d226cc251	pdfs/flyers/comics/Image 11 May 2, 2026, 09_06_21 PM.png
+7d9004438739	pdfs/flyers/comics/Image 11 May 3, 2026, 02_56_49 AM.png
+e153e43078da	pdfs/flyers/comics/Image 12 May 2, 2026, 09_07_23 PM.png
+17c5f624a100	pdfs/flyers/comics/Image 12 May 3, 2026, 02_59_00 AM.png
+e6a0448b8959	pdfs/flyers/comics/Image 13 May 3, 2026, 03_00_41 AM.png
+f0b2a55fb7d8	pdfs/flyers/comics/Image 14 May 3, 2026, 03_02_00 AM.png
+61c97389a99d	pdfs/flyers/comics/Image 15 May 3, 2026, 03_03_20 AM.png
+ecead4355dfe	pdfs/flyers/comics/Image 16 May 3, 2026, 03_04_23 AM.png
+a95c141d2d23	pdfs/flyers/comics/Image 2 May 2, 2026, 08_37_32 PM.png
+47ff5bdefaec	pdfs/flyers/comics/Image 3 May 2, 2026, 08_38_59 PM.png
+5e9a9dbfc4fc	pdfs/flyers/comics/Image 3 May 3, 2026, 02_46_33 AM.png
+66b65d288275	pdfs/flyers/comics/Image 4 May 2, 2026, 08_40_21 PM.png
+b89bc23734fc	pdfs/flyers/comics/Image 4 May 3, 2026, 02_48_58 AM.png
+2c663b129e5d	pdfs/flyers/comics/Image 5 May 2, 2026, 08_41_56 PM.png
+4b585a1fffec	pdfs/flyers/comics/Image 5 May 3, 2026, 02_50_10 AM.png
+68563aa7bd9e	pdfs/flyers/comics/Image 6 May 2, 2026, 08_43_40 PM.png
+ae8d5a64bcb9	pdfs/flyers/comics/Image 6 May 3, 2026, 02_51_14 AM.png
+dbcabe37267b	pdfs/flyers/comics/Image 7 May 2, 2026, 08_45_55 PM.png
+94f4f61ab7a7	pdfs/flyers/comics/Image 7 May 3, 2026, 02_52_22 AM.png
+1f5816da7142	pdfs/flyers/comics/Image 8 May 2, 2026, 08_50_26 PM.png
+be589519a416	pdfs/flyers/comics/Image 8 May 3, 2026, 02_53_31 AM.png
+2f4d1e6d6968	pdfs/flyers/comics/Image 9 May 2, 2026, 08_53_12 PM.png
+e940c00fc3b4	pdfs/flyers/comics/Image 9 May 3, 2026, 02_54_26 AM.png
+6ca0577a65ea	pdfs/flyers/comics/Nixon.jpg
+f73ad778a7ab	pdfs/flyers/comics/image-17743700-0cef-4788-bf79-7a49825cda31.jpg
+bdc3623bdfe7	pdfs/flyers/comics/image-b97253df-5939-47d4-9d21-c81dc3bd0fa1.jpg
+e0cee66d2fb1	pdfs/flyers/comics/image_17c7a66.jpg
+35d8dde21454	pdfs/flyers/comics/image_1c771669.jpg
+59aacef6274a	pdfs/flyers/comics/image_1f73883f.jpg
+aa5a59eee3ee	pdfs/flyers/comics/image_23ddd50a.jpg
+c7acd01b70b8	pdfs/flyers/comics/image_25005b72.jpg
+0f367defd924	pdfs/flyers/comics/image_27787e80.jpg
+bc6b3ee80a1d	pdfs/flyers/comics/image_32bb6bc0.jpg
+97c97fcdc326	pdfs/flyers/comics/image_3329b7f0.jpg
+21b0fa5f2d8b	pdfs/flyers/comics/image_4771b2ee.jpg
+7457e116c06e	pdfs/flyers/comics/image_487572de.jpg
+5b41953c1db5	pdfs/flyers/comics/image_496ff693.png
+aa1c17448996	pdfs/flyers/comics/image_4a9e9ab0.jpg
+f91814fb04b6	pdfs/flyers/comics/image_4e276cce.jpg
+bd705823402f	pdfs/flyers/comics/image_5eda8ba9.jpg
+36cbacdbe83c	pdfs/flyers/comics/image_624a842f.jpg
+da17f2ea6245	pdfs/flyers/comics/image_630a5976.jpg
+1f4ffbd06341	pdfs/flyers/comics/image_6447dfda.jpg
+b91b396a2f5d	pdfs/flyers/comics/image_67a4528d.jpg
+97928f8b00c2	pdfs/flyers/comics/image_6a951449.jpg
+3c26ea8341fa	pdfs/flyers/comics/image_6fabf0d9.jpg
+bc860a9145ad	pdfs/flyers/comics/image_75ec6658.jpg
+4513e9e42a0a	pdfs/flyers/comics/image_7abaa3f9.jpg
+d552ad617d78	pdfs/flyers/comics/image_863c100.jpg
+509d23bd5cb7	pdfs/flyers/comics/image_8ba69427.jpg
+0a7c115b18da	pdfs/flyers/comics/image_97b320d8.jpg
+d4ef28fb7318	pdfs/flyers/comics/image_99613912.jpg
+bceb0e49342f	pdfs/flyers/comics/image_9ebf0ed3.jpg
+996c56c7d315	pdfs/flyers/comics/image_9ff446ce.jpg
+c105849c0406	pdfs/flyers/comics/image_a77ac83a.jpg
+a5276fd6e202	pdfs/flyers/comics/image_ac1aeed4.jpg
+5388ff3fb6db	pdfs/flyers/comics/image_b19a76bb.jpg
+9da35a0c3845	pdfs/flyers/comics/image_b6105209.jpg
+01723df8220b	pdfs/flyers/comics/image_bc40692.jpg
+dcf45c3ea373	pdfs/flyers/comics/image_c048a1c3.jpg
+c045f3f634cb	pdfs/flyers/comics/image_c3e453c3.jpg
+34c8dd20d14d	pdfs/flyers/comics/image_cf575801.jpg
+c760fc37f66c	pdfs/flyers/comics/image_cfba5ff5.jpg
+8020b87bd562	pdfs/flyers/comics/image_d1ccce6d.jpg
+62a67bedb730	pdfs/flyers/comics/image_d2670a96.jpg
+0d152dd95e4d	pdfs/flyers/comics/image_d5d6321c.jpg
+0edf6dd825ea	pdfs/flyers/comics/image_e5ec5911.jpg
+ef1b5b78a64e	pdfs/flyers/comics/image_ec0be382.jpg
+fc3f6b9750fc	pdfs/flyers/comics/image_f01eb275.jpg
+16bbb38c21e8	pdfs/flyers/comics/image_f62730fc.png
+e8e1fbd2ad2e	pdfs/flyers/comics/image_f668ace4.jpg
+050150548b89	pdfs/flyers/impact/impact_part1.png
+94bd9e8e26af	pdfs/flyers/impact/impact_part1_dejavu.png
+19491b9e720f	pdfs/flyers/impact/impact_part2.png
+0fb4911cb66f	pdfs/flyers/impact/impact_part2_dejavu.png
+7c36ca691486	pdfs/flyers/posters/$100 Once vs. $204 Every Month.png
+886fbee8ca62	pdfs/flyers/posters/1545a3ea-f941-4224-9758-04a5ff1fa762.png
+83e21849de3a	pdfs/flyers/posters/1e565b94-ba42-4f65-8702-72a5bc0be3f9.png
+4fdbed715e53	pdfs/flyers/posters/355b3bc0-ec95-44bb-8ae8-a4e66868704f.png
+0db7a82eedc3	pdfs/flyers/posters/3a5aa76f-b12b-4b77-905e-a57082b16a24.png
+b483ff9aa607	pdfs/flyers/posters/5cabdaf8-e2dc-45f1-8a1c-6f19a0eaa8b3.png
+1fb111f36cad	pdfs/flyers/posters/709658781_1614464422998432_2483624504561697905_n.jpg
+30fa75c46a70	pdfs/flyers/posters/785386ff-48b7-485d-8140-3302e6c3a4f7.png
+931bb14d7fe1	pdfs/flyers/posters/87ce8365-a194-4b43-895a-403cbc4c9914.png
+f0d4207923cd	pdfs/flyers/posters/ADAP EMPLOYMENT LETTER.jpg
+ee1889bfdd53	pdfs/flyers/posters/ATIA_Form_Announcement_Flyer.png
+11a2e50c4fbc	pdfs/flyers/posters/Ally_Flyer_ADSB_v3.pdf
+aba9d828fabc	pdfs/flyers/posters/Flyer_DTC_Loan_Not_Grant.png
+242de17a4a7e	pdfs/flyers/posters/Leadership_Accountability_Flyer.png
+6a9600c52e85	pdfs/flyers/posters/The Earnings Exemption What Changes July 1, 2026.png
+5246d2ca66d6	pdfs/flyers/posters/Were_Still_In_This_Together_AISH_Breakdown_2026.pdf
+5664dc56427e	pdfs/flyers/posters/Where Does the CDB Go.png
+89f509f8d37b	pdfs/flyers/posters/a3456998-1d2d-49b2-9b96-48d454b158eb.png
+94bfc5bdbd63	pdfs/flyers/posters/barrier_flyer.png
+61ed70fb0511	pdfs/flyers/posters/caseworker_flyer.png
+142b535089d6	pdfs/flyers/posters/f49c5cc8-46cb-479c-944a-a9fa18de4f6e.png
+8ad77b6fbc6e	pdfs/flyers/posters/flyer_campaign.png
+095c7431fe57	pdfs/flyers/posters/flyer_employment.png
+7733b3d49145	pdfs/flyers/posters/flyer_follow_money.png
+9992355f3c6b	pdfs/flyers/posters/flyer_fscd_pdd.png
+67001ec07ccb	pdfs/flyers/posters/flyer_health_benefits.png
+cc29747c1fd2	pdfs/flyers/posters/flyer_healthcare_worker.png
+c2c6661ea1a7	pdfs/flyers/posters/flyer_human_cost.png
+2c53ccdbeaa8	pdfs/flyers/posters/flyer_prior_finding.png
+29532c1743d9	pdfs/flyers/posters/flyer_taxpayer.png
+122d788b7a7a	pdfs/flyers/posters/housing_flyer.png
+55c29a12b9c5	pdfs/flyers/posters/missing_payment.png
+2906e05d1ec4	pdfs/flyers/posters/nixon_flyer.png
+0ee2895c5ed4	pdfs/flyers/posters/preview.webp
+52d9207ce649	pdfs/flyers/posters/smith_flyer.png
+5df9367840e5	pdfs/government-form-originals/adap-engagement/adap-engagement-14.pdf
+4c7e451e0db9	pdfs/government-form-originals/adap-engagement/adap-engagement-22.pdf
+5a0973b76f34	pdfs/government-form-originals/adap-engagement/adap-engagement-apr122026.pdf
+258d70648e18	pdfs/government-form-originals/adap-engagement/adap-engagement-aug132025.pdf
+fa46edab61aa	pdfs/government-form-originals/adap-engagement/adap-engagement-aug142025.pdf
+d16a98dfbc64	pdfs/government-form-originals/adap-engagement/adap-engagement-aug142025green.pdf
+2e72efa543aa	pdfs/government-form-originals/adap-engagement/adap-engagement-aug142025green2.pdf
+54fb7e6fda8c	pdfs/government-form-originals/adap-engagement/adap-engagement-dec192025.pdf
+7e84fc7013b6	pdfs/government-form-originals/adap-engagement/adap-engagement-dec252025.pdf
+dcb12917c90a	pdfs/government-form-originals/adap-engagement/adap-engagement-feb182026.pdf
+d3537b0f6762	pdfs/government-form-originals/adap-engagement/adap-engagement-oct212025.pdf
+9641cc0af44f	pdfs/government-form-originals/adap-engagement/adap-engagement-sept192025.pdf
+85d07b120932	pdfs/government-form-originals/adap-engagement/adap-engagement-sept52025.pdf
+2220b2b4dd44	pdfs/government-form-originals/adap-engagement/adap-engagement.pdf
+6122bac4d121	pdfs/government-form-originals/advocacy/inclusion-alberta-media-release-adap-could.pdf
+4dd09442b5a3	pdfs/government-form-originals/external-reports/Martin_Disability_Workforce_Strategy_Full_Data_Package.pdf
+3261276b4a0e	pdfs/government-form-originals/external-reports/The Work Capability Assessment for Employment and Support Allowance - House of Commons Library.pdf
+ee3d7ce242ef	pdfs/government-form-originals/external-reports/auditor-general-report-cpp-disability.pdf
+bd7a1be55777	pdfs/government-form-originals/external-reports/disability-poverty-report-card-2024.pdf
+c8349af9875a	pdfs/government-form-originals/external-reports/disability-poverty-report-card-2025.pdf
+eb7a6748fe9e	pdfs/government-form-originals/external-reports/mha-alberta-recovery-model-compassionate-intervention-path-to-recovery-2025-04.pdf
+0deb2fc20748	pdfs/government-form-originals/external-reports/oapd-strategic-plan-2025-2027.pdf
+c28f58cf1648	pdfs/government-form-originals/financial-statements/Audited-Financial-Statements-signed.pdf
+2b01dd9b328a	pdfs/government-form-originals/financial-statements/audited-financial-statements-2018-2019.pdf
+b141eed11593	pdfs/government-form-originals/financial-statements/audited-financial-statements-2019-2020.pdf
+cfb57820715a	pdfs/government-form-originals/financial-statements/consolidated-financial-statements-2017-2018.pdf
+19576d509a32	pdfs/government-form-originals/financial-statements/goa-expenses-extract.csv
+1293176ac8be	pdfs/government-form-originals/financial-statements/goa_expenses.csv
+665d6fd3d21e	pdfs/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements-2.pdf
+43d4ed890c44	pdfs/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements-3.pdf
+0cd364ba7a34	pdfs/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements-4.pdf
+def71ef4930b	pdfs/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements-5.pdf
+1ff2a3a8ffdd	pdfs/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements.pdf
+3db777f95939	pdfs/government-form-originals/government-forms/Health Information Access Request Form AHS.pdf
+1f094933150a	pdfs/government-form-originals/government-forms/T2201_DTC_PartA.pdf
+39d31fa1e215	pdfs/government-form-originals/government-forms/access-to-information-request-form-atia.pdf
+7d2499fb6cb7	pdfs/government-form-originals/government-forms/aish-appeal-form-aas13358.pdf
+7d2499fb6cb7	pdfs/government-form-originals/government-forms/aish-application-form-aas13358.pdf
+3382f2d1a0cb	pdfs/government-form-originals/government-forms/alss-appeals-secretariat-authorization-form.pdf
+a0c13f8c9e96	pdfs/government-form-originals/government-forms/alss-time-extension-request-worksheet.pdf
+3614269029b9	pdfs/government-form-originals/government-manuals/AISH Manual 07-02-2026.pdf
+1760ca0f9667	pdfs/government-form-originals/government-manuals/ALBERTA REGULATION 122-2011.pdf
+f06e1f3d8309	pdfs/government-form-originals/government-manuals/HSP140-ReformingDisabilityIncomeSupportinAlberta-FINAL.pdf
+5313983fa55f	pdfs/government-form-originals/government-manuals/adap-fact-sheet-may-12-2026.pdf
+bb3e8ae68f85	pdfs/government-form-originals/government-manuals/aish-benefits-summary.pdf
+60c4fb4e7864	pdfs/government-form-originals/government-manuals/aish-policy-manual.pdf
+73cf20fee248	pdfs/government-form-originals/government-manuals/alss-health-professionals-guide-completing-disability-income-assistance-application-2026-07.pdf
+fe7a1075d34e	pdfs/government-form-originals/government-manuals/alss-welcome-to-adap-brochure-2026-06.pdf
+d3b39114bc73	pdfs/government-form-originals/government-manuals/employnext-info-package-june-2026.pdf
+5c5eb280e844	pdfs/government-form-originals/government-manuals/fscd-policy-and-procedures-manual-october-2023.pdf
+23adc2e8bfe5	pdfs/government-form-originals/government-manuals/income-employment-supports-manual-2026-06.pdf
+7a458acd3fc1	pdfs/government-form-originals/government-manuals/pdd-family-guide-and-checklist-c2n2.pdf
+b8e704fffb7c	pdfs/government-form-originals/government-manuals/scss-aish-adjudication-guide-2024-04.pdf
+5e6e99ef45b1	pdfs/government-form-originals/government-manuals/supporting-safe-and-inclusive-lives-pdd.pdf
+d0ed93ad0455	pdfs/government-form-originals/government-manuals/transforming-disability-income-assistance-2.pdf
+d6b4aeb25797	pdfs/government-form-originals/government-manuals/transforming-disability-income-assistance.pdf
+df422431cc07	pdfs/government-form-originals/government-manuals/your-guide-to-aish-may-2025.pdf
+501acf1c295b	pdfs/government-form-originals/government-manuals/your-guide-to-aish-september-2025.pdf
+e33057f368e6	pdfs/government-form-originals/info-pages/Balancing drug coverage for the long-term _ alberta.ca.pdf
+bdb3f57003c2	pdfs/government-form-originals/info-pages/Coverage for Seniors Program _ Alberta.ca.pdf
+c9bb567f00b8	pdfs/government-form-originals/info-pages/Foot Care Help in Alberta for a Low-Income Adult.pdf
+dde9c2cf23a4	pdfs/government-form-originals/info-pages/Mail - Outlook.pdf
+a3faff1a900d	pdfs/government-form-originals/info-pages/Non-Group Coverage _ Alberta.ca.pdf
+3c95cc1d8a03	pdfs/government-form-originals/info-pages/about-the-citizens-appeal-panel-alberta-ca.pdf
+926ff160bb77	pdfs/government-form-originals/info-pages/alberta-disability-assistance-program-alberta-ca.pdf
+cb62a322161a	pdfs/government-form-originals/info-pages/citizens-appeal-panel-alberta-ca.pdf
+c1a8c4529623	pdfs/government-form-originals/info-pages/citizens-appeal-panel-compensation-disclosure.csv
+3c60d17fa1fc	pdfs/government-form-originals/info-pages/empowering-albertans-with-disabilities-alberta.pdf
+4ad656ccc5bb	pdfs/government-form-originals/info-pages/expanding-support-for-albertans-with.pdf
+ef6871d0d9d8	pdfs/government-form-originals/info-pages/pharmacy-benefact-1256.pdf
+5dca9f89ea51	pdfs/government-form-originals/info-pages/the-tribunal-process-alberta-human-rights.pdf
+a21f254ab13e	pdfs/government-form-originals/internal-forms/AEHB3487_Health_Benefit_Exception_FILLABLE.pdf
+a0f072918d47	pdfs/government-form-originals/internal-forms/AEHB3810_Prescriber_Exception_FILLABLE.pdf
+b8ee3a7316f8	pdfs/government-form-originals/internal-forms/INCOME AND EMPLOYMENT.pdf
+93a2a45b64ba	pdfs/government-form-originals/legislature/20230530_bill-053.pdf
+b1694ff08df3	pdfs/government-form-originals/legislature/20250415_1330_01_han.pdf
+04db7ec83605	pdfs/government-form-originals/legislature/20250429_1930_01_han.pdf
+9fdad0c7ce46	pdfs/government-form-originals/legislature/20250501_1330_01_han.pdf
+cd9f9536e7a3	pdfs/government-form-originals/legislature/20250506_1330_01_han.pdf
+8f1eab77a2c1	pdfs/government-form-originals/legislature/20250507_1930_01_han.pdf
+24b145447709	pdfs/government-form-originals/legislature/20250513_1930_01_han.pdf
+9278fe21efe6	pdfs/government-form-originals/news-articles/backgrounder-supporting-canadians-with.pdf
+f2b0ae315997	pdfs/government-form-originals/news-articles/disabled-albertans-to-receive-aish-eligibility.pdf
+88724226a34d	pdfs/government-form-originals/news-articles/motion-passed-to-request-paused-adap.pdf
+10e4602cc85d	pdfs/government-form-originals/news-articles/st-albert-to-discuss-asking-province-to-pause.pdf
+b1050d2af8cd	pdfs/government-form-originals/regulations/SA 2006, c A-45.1 _ Assured Income for the Severely Handicapped Act _ CanLII.pdf
+16a622335c86	pdfs/government-form-originals/regulations/aish-act-applications-and-appeals-ministerial.pdf
+7994ab5868fd	pdfs/government-form-originals/regulations/aish-act-general-regulation-ar-91-2007.pdf
+ab685fc21df2	pdfs/government-form-originals/regulations/aish-act-general-regulation-ar-96-2026-in-force.pdf
+23cbe73b03ff	pdfs/government-form-originals/regulations/alberta-gazette-part-i-may-30-2026.pdf
+6e2f097e3d58	pdfs/government-form-originals/regulations/alberta-gazette-part-ii-2026-cumulative-index.pdf
+1b649b9d46c9	pdfs/government-form-originals/regulations/alberta-gazette-part-ii-may-15-2026.pdf
+d5a977e1416b	pdfs/government-form-originals/regulations/alberta-kings-printer-publications-page.pdf
+ef659c3e9ce2	pdfs/government-form-originals/regulations/assured-income-for-the-severely-handicapped-act-2.pdf
+636309b82871	pdfs/government-form-originals/regulations/assured-income-for-the-severely-handicapped-act-3.pdf
+6f3726aa051d	pdfs/government-form-originals/regulations/assured-income-for-the-severely-handicapped-act.pdf
+43d137b1b99e	pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-2.pdf
+6826c41ede1f	pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-3.pdf
+331fadfe53af	pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-adoption.pdf
+15806c4d6877	pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-court.pdf
+517907f745f4	pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-resource.pdf
+2fb28c77b7ad	pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act-rsa-2000.pdf
+12bfe7a808de	pdfs/government-form-originals/regulations/child-youth-and-family-enhancement-act.pdf
+06b16018c898	pdfs/government-form-originals/regulations/continuing-care-act-ministerial-regulation-ar.pdf
+cd724da78891	pdfs/government-form-originals/regulations/continuing-care-act-regulation-ar-21-2024.pdf
+597c1bcd2e5f	pdfs/government-form-originals/regulations/continuing-care-act-sa-2022-c-c-26-7.pdf
+e56d11e74299	pdfs/government-form-originals/regulations/convention-on-the-rights-of-persons-with.pdf
+29a01dd8191d	pdfs/government-form-originals/regulations/crpd-optional-protocol-english.pdf
+52f7228d6674	pdfs/government-form-originals/regulations/early-learning-and-child-care-act-regulation-ar.pdf
+af207329edbb	pdfs/government-form-originals/regulations/early-learning-and-child-care-act-sa-2007-c-e-0.pdf
+24637ef3f121	pdfs/government-form-originals/regulations/family-support-for-children-with-disabilities-2.pdf
+18f0d67e982c	pdfs/government-form-originals/regulations/family-support-for-children-with-disabilities.pdf
+803db9bbbab6	pdfs/government-form-originals/regulations/income-and-employment-supports-act-child-and.pdf
+4764e3dc1c94	pdfs/government-form-originals/regulations/income-and-employment-supports-act-disability.pdf
+0353083a7e0f	pdfs/government-form-originals/regulations/income-and-employment-supports-act-recovery.pdf
+a69f81f08db3	pdfs/government-form-originals/regulations/income-and-employment-supports-act-sa-2003-c-i.pdf
+087b7ba423cd	pdfs/government-form-originals/regulations/income-and-employment-supports-act-support.pdf
+2eaf958deb08	pdfs/government-form-originals/regulations/income-and-employment-supports-act-training.pdf
+a0fe0ad51e67	pdfs/government-form-originals/regulations/mental-health-services-protection-act-sa-2018-c.pdf
+965628b42dd3	pdfs/government-form-originals/regulations/mental-health-services-protection-act.pdf
+859afcac8543	pdfs/government-form-originals/regulations/ministerial-order-2026-001-assisted-living-and.pdf
+8b56c152b72c	pdfs/government-form-originals/regulations/pdd-services-act-developmental-disabilities.pdf
+402efc9ebdbf	pdfs/government-form-originals/regulations/pdd-services-act-pdd-services-regulation-ar-228.pdf
+41bd978eca51	pdfs/government-form-originals/regulations/persons-with-developmental-disabilities.pdf
+e34f8d27b437	pdfs/government-form-originals/regulations/protection-for-persons-in-care-act-ministerial.pdf
+8f7545551265	pdfs/government-form-originals/regulations/protection-for-persons-in-care-act-protection.pdf
+0afccb6886a2	pdfs/government-form-originals/regulations/protection-for-persons-in-care-act-sa-2009-c-p.pdf
+38113226b49f	pdfs/government-form-originals/regulations/public-health-act-aids-to-daily-living-and.pdf
+9addd41358ac	pdfs/government-form-originals/regulations/public-sector-compensation-transparency-act-2.pdf
+9aa0b6c49a10	pdfs/government-form-originals/regulations/public-sector-compensation-transparency-act-sa.pdf
+1e9e64270dc5	pdfs/government-form-originals/regulations/public-sector-compensation-transparency-act.pdf
+25f96af1e478	pdfs/government-form-originals/regulations/seniors-benefit-act-general-regulation-ar-213.pdf
+bfd125170591	pdfs/indigenous-sections/0_Indigenous_Disability_Alberta_COMPLETE_Collection.pdf
+daa5a4ade0cf	pdfs/indigenous-sections/10_Indigenous_Disability_Alberta_SECTION_10_Justice.pdf
+90a4af9a99f5	pdfs/indigenous-sections/11_Indigenous_Disability_Alberta_SECTION_11_MMIWG2S.pdf
+d89fed249bde	pdfs/indigenous-sections/12_Indigenous_Disability_Alberta_SECTION_12_UNDRIP.pdf
+d71ca0dad18d	pdfs/indigenous-sections/13_Indigenous_Disability_Alberta_SECTION_13_Sovereignty.pdf
+c4040038b966	pdfs/indigenous-sections/14_Indigenous_Disability_Alberta_SECTION_14_TRC_Health.pdf
+b65c3fc13b4a	pdfs/indigenous-sections/15_Indigenous_Disability_Alberta_SECTION_15_July1_Synthesis.pdf
+7ef880ab7121	pdfs/indigenous-sections/16_Indigenous_Disability_Alberta_SECTION_16_Closing.pdf
+e09eb7c266a7	pdfs/indigenous-sections/17_Indigenous_Disability_Alberta_SECTION_17_Federal_Provincial_Clawback.pdf
+a4f4c6be42f4	pdfs/indigenous-sections/1_Indigenous_Disability_Alberta_PREFACE.pdf
+903fca2b8781	pdfs/indigenous-sections/2_Indigenous_Disability_Alberta_SECTION_2_Mortality_Gap.pdf
+56e603310aa9	pdfs/indigenous-sections/3_Indigenous_Disability_Alberta_SECTION_3_Jurisdictional_Fracture.pdf
+d4980fe3485d	pdfs/indigenous-sections/4_Indigenous_Disability_Alberta_SECTION_4_Housing.pdf
+19c0011b1a12	pdfs/indigenous-sections/5_Indigenous_Disability_Alberta_SECTION_5_Contaminated_Land.pdf
+7d4675919946	pdfs/indigenous-sections/6_Indigenous_Disability_Alberta_SECTION_6_Water.pdf
+9fbcff1698cd	pdfs/indigenous-sections/7_Indigenous_Disability_Alberta_SECTION_7_Healthcare.pdf
+394c2734493c	pdfs/indigenous-sections/8_Indigenous_Disability_Alberta_SECTION_8_JordansPrinciple.pdf
+010d978281c7	pdfs/indigenous-sections/9_Indigenous_Disability_Alberta_SECTION_9_ChildWelfare.pdf
+403dce1f0207	pdfs/information-asymmetry/0_Information_Asymmetry_Report.pdf
+83c69f388ecc	pdfs/information-asymmetry/1_Information_Asymmetry_Plain_Language_Companion.pdf
+1a8355d7df28	pdfs/july-2026-docs/1_July2_Policy_Update_Plain_Language.pdf
+5111a1e31e3d	pdfs/july-2026-docs/2_AR122-2011_ISTHBR_Plain_Language.pdf
+f85475ba6805	pdfs/july-2026-docs/3_IESA_Act_Plain_Language.pdf
+e9a170d3229f	pdfs/july-2026-docs/4_AISH_Manual_Readers_Guide_Plain_Language.pdf
+76a7bc2018e7	pdfs/july-2026-docs/ADAP_Contractor_Forensic_Chronology_AG_Companion_June2026.pdf
+c3a8c54864bb	pdfs/july-2026-docs/ADAP_Contractor_Forensic_Chronology_Public_June2026.pdf
+64ac0f1358f0	pdfs/july-2026-docs/ADAP_Contractor_Timeline_Graphic_June2026.pdf
+015b3b37aa64	pdfs/july-2026-docs/ADAP_Warmth_Stick_Law_Three_Documents.pdf
+c1cadd777d11	pdfs/july-2026-docs/ADSB_Emergency_and_Escalation_Numbers.pdf
+d76e1204678f	pdfs/july-2026-docs/ADSB_If_Your_Condition_Flares_Explainer.pdf
+b9ef28f160b2	pdfs/july-2026-docs/ADSB_The_CPPD_Bind_July2026.pdf
+9b0f9e834183	pdfs/july-2026-docs/ADSB_The_Floor_They_Set_Themselves_July2026.pdf
+0b7dd66c71c8	pdfs/july-2026-docs/ADSB_What_The_Law_Says_July2026.pdf
+f1c701629577	pdfs/july-2026-docs/ADSB_Whats_Covered_AISH_ADAP_Reference_July2026.pdf
+70758f5b2a84	pdfs/july-2026-docs/ADSB_When_They_Call_Phone_Script.pdf
+d66116a13315	pdfs/july-2026-docs/AISH_ADAP_Key_Features_Verified_July2026.pdf
+c860c4479f65	pdfs/july-2026-docs/AISH_to_ADAP_Support_Resources_Guide.pdf
+0b48797e5365	pdfs/july-2026-docs/Appeal_and_Reassessment_Rights_July2026.pdf
+6972a8fbd50a	pdfs/july-2026-docs/Calgary_Getting_Around_Guide_July2026.pdf
+b122fb414e82	pdfs/july-2026-docs/DS2444A_How_To_Fill_It_Out.pdf
+77436a72d485	pdfs/july-2026-docs/DS2444B_Medical_Report_Guide.pdf
+95a9a62862b7	pdfs/july-2026-docs/Disability_Tax_Credit_PlainLanguage_July2026.pdf
+c052b6887746	pdfs/july-2026-docs/Edmonton_Getting_Around_Guide_July2026.pdf
+a0489c4fdb2b	pdfs/july-2026-docs/Foot_Care_Help_PlainLanguage_July2026.pdf
+193fea9a598d	pdfs/july-2026-docs/How_Earning_Works_AISH_vs_ADAP_July2026.pdf
+4a845fd4d5d9	pdfs/july-2026-docs/Living_Together_and_Your_Benefits_July2026.pdf
+a1aee03d293d	pdfs/july-2026-docs/Red_Deer_Community_Resources_July2026.pdf
+a4e38a3cdcd8	pdfs/july-2026-docs/The_Contractor_Record_Serco_AKG_v2_July2026.pdf
+4c8febdd0c20	pdfs/july-2026-docs/The_Premiers_Words_And_The_Record_June2026.pdf
+8d0711a8f243	pdfs/july-challenge/0_Cover_Letter_ADSB.pdf
+483b0574f3f5	pdfs/july-challenge/1_Charter_Challenge_ADSB.pdf
+7536086e7007	pdfs/july-challenge/2_UN_CRPD_Submission_ADSB.pdf
+f64e290727a5	pdfs/july-challenge/3_Alberta_Human_Rights_Complaint_ADSB.pdf
+37fc1e12d9da	pdfs/july-challenge/4_Comparative_Evidence_Dossier_ADSB.pdf
+59c1e3b2ff36	pdfs/july-challenge/5_Distribution_List_ADSB.pdf
+82f33515236b	pdfs/july-challenge/AHRC_Complaint_TEMPLATE_ADSB_public.pdf
+0acfe1d57c25	pdfs/july-challenge/complaint-form -human-rights-complaint-guide.pdf
+6e2ccdf33357	pdfs/legalese/ADAP_DATA_Analysis_.pdf
+0dec5635a746	pdfs/legalese/ADSB_Charter_Constitutional_Analysis_Legal.pdf
+031b94792fc8	pdfs/legalese/ADSB_Employment_Assumption_Policy_Legal.pdf
+39ba91e36618	pdfs/legalese/ADSB_Sorochan_Heritage_Fund_Analysis.pdf
+908da6130f99	pdfs/legalese/Sorochan_Knibbs_Collaborative_Synthesis.pdf
+19a3957cce84	pdfs/may-2026-adap/ADSB_ADAP_Welfare_to_Work_May2026.pdf
+80b6649c9111	pdfs/may-2026-adap/ADSB_Cut_From_The_Top_May2026.pdf
+ac95e1cd151b	pdfs/may-2026-adap/ADSB_Designed_Based_On_Input_June2026.pdf
+850471df95a6	pdfs/may-2026-adap/ADSB_Do_You_Know_Minister_Neudorf.pdf
+9e79b69d24b9	pdfs/may-2026-adap/ADSB_Do_You_Know_Minister_Nixon.pdf
+81dd292a3077	pdfs/may-2026-adap/ADSB_Do_You_Know_Neudorf_Flyer.pdf
+740ed8674029	pdfs/may-2026-adap/ADSB_Do_You_Know_Nixon_Flyer.pdf
+e7f698534621	pdfs/may-2026-adap/ADSB_Engagement_Page_Record_May2026.pdf
+cb0982f2d497	pdfs/may-2026-adap/ADSB_Engagement_Page_Record_PlainLanguage_May2026.pdf
+e45f38623d5f	pdfs/may-2026-adap/ADSB_Heritage_Fund_Choices_June2026.pdf
+377db6e4872e	pdfs/may-2026-adap/ADSB_PDD_Was_Exempt_Then_It_Wasnt_May2026.pdf
+8a9125a5fa60	pdfs/may-2026-adap/ADSB_Paid_To_Govern_Paid_To_Survive.pdf
+c87f54f8eb60	pdfs/may-2026-adap/ADSB_Promised_Supports_Shifted_Responsibility.pdf
+145fbdf0fdb4	pdfs/may-2026-adap/ADSB_What_Dropped_This_Week_May2026.pdf
+ccce705ca068	pdfs/may-2026-adap/ADSB_What_Dropped_This_Week_PlainLanguage_May2026.pdf
+48e2821d67c0	pdfs/may-2026-adap/ADSB_Who_Made_The_Determination_May2026.pdf
+ddbc20a68e49	pdfs/may-2026-adap/Access_Gap_The_200_Trap_May2026.pdf
+f1fe9c94811a	pdfs/may-2026-adap/Appeal_or_Reassess_PlainLanguage_June2026.pdf
+1057523d4189	pdfs/may-2026-adap/RDSP_Plain_Language_Guide_June2026.pdf
+9e009d5895c7	pdfs/may-2026-adap/Whats_On_The_Shelf_May2026.pdf
+b5ed5edccad4	pdfs/ministerial-correspondence/Ministerial_Response_Analysis_April28_2026.pdf
+6e9f466bd24e	pdfs/ministerial-correspondence/Nixon_Response_April28_2026_REDACTED.pdf
+282a862ec389	pdfs/modern-day-eugenics/Consent was never the point/Consent_Bibliography_Standalone_May2026.pdf
+e2703cb0a5f5	pdfs/modern-day-eugenics/Consent was never the point/Consent_Chapter_III_Standalone_May2026.pdf
+972cda62b1e2	pdfs/modern-day-eugenics/Consent was never the point/Consent_Chapter_II_Standalone_May2026.pdf
+22f57f9701a1	pdfs/modern-day-eugenics/Consent was never the point/Consent_Chapter_IV_Standalone_May2026.pdf
+862456ce4fa3	pdfs/modern-day-eugenics/Consent was never the point/Consent_Chapter_VII_Standalone_May2026.pdf
+0c6880c93837	pdfs/modern-day-eugenics/Consent was never the point/Consent_Chapter_VI_Standalone_May2026.pdf
+22c957440e9b	pdfs/modern-day-eugenics/Consent was never the point/Consent_Chapter_V_Standalone_May2026.pdf
+c41ff6516f73	pdfs/modern-day-eugenics/Consent was never the point/Consent_Source_Index_May2026.md
+46fe479d2910	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Ch1-2_May2026.pdf
+1c0f5e23f294	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Ch1-3_May2026.pdf
+fbf05570a534	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Ch1-4_May2026.pdf
+7366974137b0	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Ch1-5_May2026.pdf
+a562766f669f	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Ch1-6_May2026.pdf
+743fdb59f8d7	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Ch1-7_May2026.pdf
+b21a97a62ee5	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Ch1_May2026.pdf
+5c9a6cf50ff0	pdfs/modern-day-eugenics/Consent was never the point/Consent_Was_Never_the_Point_Complete_May2026.pdf
+ee03d1417a1d	pdfs/modern-day-eugenics/Consent was never the point/Eugenics_Historical_Piece_Spine_Notes.md
+f39ba3630ff8	pdfs/modern-day-eugenics/Consent_Was_Never_the_Point_ADDENDUM_The_Architecture_Returns_May2026.pdf
+0902d149ceb1	pdfs/modern-day-eugenics/Consent_Was_Never_the_Point_FINAL_June2026.pdf
+b0fb4f648b2f	pdfs/modern-day-eugenics/Consent_Was_Never_the_Point_Plain_Language_Guide.pdf
+01b22de0466c	pdfs/new-adsb-docs/ADSB_73_Reviews_A_Day_April2026.pdf
+0d2e69ec87de	pdfs/new-adsb-docs/ADSB_Financial_Analysis_Community_Version_April2026.pdf
+8a0b438bef40	pdfs/new-adsb-docs/ADSB_Health_Benefits_Erosion_Community_Edition_April2026.pdf
+8a5e0cf9ed39	pdfs/new-adsb-docs/ADSB_Income_Crossover_Analysis_April2026.pdf
+4176e684d68d	pdfs/new-adsb-docs/ADSB_Income_Crossover_Analysis_RevisedMay2026.pdf
+deab557b8c9a	pdfs/new-adsb-docs/ADSB_Practical_Action_Guide_Community_Edition_April2026.pdf
+fbcfb1923bc6	pdfs/new-adsb-docs/ADSB_Structural_Cage_Expanded_April2026.pdf
+6b50e9cbab62	pdfs/new-adsb-docs/ADSB_The_Core_Findings_Point_Form.pdf
+a85e155468e3	pdfs/new-adsb-docs/AISH_ADAP_Not_In_Force_Pattern_LegalMemo_June2026.pdf
+b19a8db93889	pdfs/new-adsb-docs/AISH_vs_ADAP_Cheat_Sheet.pdf
+db5f2a016953	pdfs/new-adsb-docs/AISH_vs_ADAP_Language_Deep_Dive.pdf
+12aeac284b22	pdfs/new-adsb-docs/AR96-2026_Key_Sections_Highlighted.pdf
+cd2a2b1bfaf7	pdfs/new-adsb-docs/Bill12_Section6_Key_Provisions_Highlighted.pdf
+53d5111b4156	pdfs/personal-submission/Bruce_Remembrance.pdf
+8165697ec9f7	pdfs/personal-submission/Personal_Story_Submission.pdf
+b27bb1b678fc	pdfs/personal-submission/desktop.ini
+a19a4c4c9afe	pdfs/plain-language/AISH_Plain_Language_Guide_v2_18pages.pdf
+08d607b2481c	pdfs/plain-language/AISH_Taxpayer_Truth_PlainLanguage_2026.pdf
+831742b982ae	pdfs/plain-language/AR96-2026_Plain_Language_Breakdown.pdf
+78b76c2a6470	pdfs/plain-language/Appeal_or_Reassess_PlainLanguage_June2026.pdf
+83aaced4dd7f	pdfs/plain-language/Appeal_vs_Reassessment_Guide_June2026.pdf
+424e138ebb70	pdfs/plain-language/Bill12_Section6_Plain_Language_Breakdown.pdf
+2e0b0d13a4fd	pdfs/plain-language/Charter_of_Rights_Plain_Language_Guide_2026.pdf
+ec396be1e4d2	pdfs/plain-language/Compound_Failure_Plain_Language_Guide.pdf
+724dceaa1b72	pdfs/plain-language/Employment_Assumption_Plain_Language_2026.pdf
+0f5e82d764d1	pdfs/plain-language/Indigenous_Disability_Plain_Language_Guide.pdf
+03f3ddccc050	pdfs/plain-language/Your_Right_to_Appeal_PlainLanguage_June2026.pdf
+1420d9285383	pdfs/separation-risk/ADSB_Separation_Risk_Analysis_May2026.pdf
+c537e7627723	pdfs/sourced-briefs/ADSB_Easier_For_Whom_AlbertaCa_Account_May2026.pdf
+e75d1443fdd4	pdfs/sourced-briefs/AISH_Campaign_Kit_2026.pdf
+c8d4f1b1617a	pdfs/sourced-briefs/AISH_Intergenerational_Contradiction_Report_2026.pdf
+e8f6881f862b	pdfs/sourced-briefs/AISH_Media_Pitch_2026.pdf
+a5b580844a2c	pdfs/sourced-briefs/Alberta_Daycare_Barriers_Research_Analysis.pdf
+a259d94f29d7	pdfs/sourced-briefs/Fiscal_Hypocrisy_Addendum_SOURCED.pdf
+3124830edba1	pdfs/sourced-briefs/JobPostings_Addendum_April6_2026.pdf
+082eb583d4d2	pdfs/systematic-exclusion-sections/0_Systematic_Exclusion_Alberta_COMPLETE_Collection.pdf
+a53c2eebaeda	pdfs/systematic-exclusion-sections/10_Systematic_Exclusion_SECTION_9_Human_Cost_Report.pdf
+c5be02651e9a	pdfs/systematic-exclusion-sections/11_Systematic_Exclusion_SECTION_10_Prior_Findings_Report.pdf
+ae92513c54c4	pdfs/systematic-exclusion-sections/12_Systematic_Exclusion_SECTION_11_Employment_Reality_Report.pdf
+4a87247a1def	pdfs/systematic-exclusion-sections/13_Systematic_Exclusion_SECTION_12_Campaign_Action_Kit.pdf
+e8f6881f862b	pdfs/systematic-exclusion-sections/14_Systematic_Exclusion_SECTION_13_Media_Pitch.pdf
+2bfae6e45020	pdfs/systematic-exclusion-sections/15_Systematic_Exclusion_SECTION_14_Practical_Action_Guide.pdf
+fb58ca7c4fcb	pdfs/systematic-exclusion-sections/16_Systematic_Exclusion_SECTION_15_Analysis.pdf
+bcaac43b9376	pdfs/systematic-exclusion-sections/1_Systematic_Exclusion_PREFACE.pdf
+4f7ddf538260	pdfs/systematic-exclusion-sections/2_Systematic_Exclusion_SECTION_1_Financial_Reality_Report.pdf
+c4d1531f0832	pdfs/systematic-exclusion-sections/3_Systematic_Exclusion_SECTION_2_Health_Benefits_Erosion_Report.pdf
+ee0ba01cd573	pdfs/systematic-exclusion-sections/4_Systematic_Exclusion_SECTION_3_Alberta_Housing_Crisis_Report.pdf
+505c86880cc1	pdfs/systematic-exclusion-sections/5_Systematic_Exclusion_SECTION_4_Access_Barrier_Report.pdf
+c80227ce87f3	pdfs/systematic-exclusion-sections/6_Systematic_Exclusion_SECTION_5_Caseworker_Appeal_Rights_HumanRights.pdf
+2346938fa5e4	pdfs/systematic-exclusion-sections/7_Systematic_Exclusion_SECTION_6_Healthcare_Worker_Shortage_Report.pdf
+54787855c636	pdfs/systematic-exclusion-sections/8_Systematic_Exclusion_SECTION_7_FSCD_PDD_Crisis_Report.pdf
+d447428f7e19	pdfs/systematic-exclusion-sections/9_Systematic_Exclusion_SECTION_8_This_Is_A_Choice.pdf
+79896c6fb9ac	pdfs/what-disability-actually-means/What_Disability_Actually_Means.pdf
+9920e811cdb0	pdfs/what-disability-actually-means/What_Disability_Actually_Means_Plain_Language.pdf
+6654393fc5c1	robots.txt
+edd471de80f6	rose-thank-you.html
+17c8ddf95c1f	sitemap.xml
