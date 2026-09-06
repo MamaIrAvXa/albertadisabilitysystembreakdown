@@ -9,6 +9,79 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-05",
+  title: "Where Things Stand \u2014 September 5, 2026",
+  body: `Correction first, and it's a good one, because it means something you were bracing for is not happening.
+
+## GAS IS NOT GOING UP ON TUESDAY
+I told you the fuel tax holiday ends Monday and prices jump about 10 cents a litre on Tuesday. That was wrong.
+
+Ottawa extended it on September 2, the day before I wrote that. The holiday now runs to **January 31, 2027**. Then from February 1 to March 31 the tax comes back at half, so about 5 cents on gasoline and 2 cents on diesel. Full rate returns April 1, 2027.
+
+So nothing happens Tuesday. Don't rush to fill up. You have four more months.
+
+A member caught this and she was right.
+
+This is the federal tax only. Alberta's provincial fuel tax is separate and untouched by any of it.
+
+## AND I WANT TO NAME WHAT KEEPS GOING WRONG
+That's three times this week. The $150 timing, the wording on the earnings exemption, and now this.
+
+Two of the three are the same mistake wearing different clothes. I opened a primary source, read what it said, and treated that as the end of the job.
+
+The statute says the fuel rates are zero before September 8. That is what it says. It was true when it was written and it stopped being true on September 2, when the government announced an extension the statute has not caught up to yet.
+
+So **checking a source is not the same as checking whether it's current.** On anything with a date in it, a rate, a deadline, a cutoff, the source tells you what the rule was and it doesn't tell you whether somebody changed it last Wednesday.
+
+I'm adding that step. Any dated item gets a second check for whether it's been overtaken before it goes anywhere near you.
+
+## TUESDAY STILL MATTERS, THOUGH, FOR A DIFFERENT REASON
+Don't let the gas correction wash this one away.
+
+**September 8 is still the last day the CRA accepts old versions of the T2201.** Look at the bottom left corner of your form for a year in brackets. 23 or higher is fine. Anything lower gets rejected outright rather than sent back for fixing.
+
+Already approved certificates are not affected. This is only about forms being submitted now.
+
+## IF AN AGENT TELLS YOU THE $150 IS COMING IN THE FALL
+Worth knowing before you get into an argument with somebody on the phone.
+
+Two federal pages disagree with each other right now. The older amount page still says fall. The About page, updated September 1, and the regulation itself both say September. September is the better sourced answer.
+
+So if someone quotes you fall, they're reading the older page. Politely point them to the newer one rather than assuming you've been told something official.
+
+## A QUESTION I'M ASKING, NOT AN ANSWER I HAVE
+On September 3 Alberta signed an Order in Council consenting to federal amendments to the Canada Pension Plan. Provincial consent is required for CPP changes, so an Order in Council is the normal way it's done.
+
+What I can say is that it happened and it wasn't announced. What I'm not going to tell you is what it means for anyone's CPP or CPP Disability, because I don't know yet and I'm not guessing about pension money.
+
+I'm asking. When I have something solid you'll get it, and if it turns out to be nothing, you'll get that too.
+
+## WHAT I'M STILL NOT TELLING YOU
+The ministerial order setting the earnings deduction amounts still isn't published anywhere. The Gazette comes out September 15, and its filing deadline has passed. If it isn't in that issue, that gets harder to explain.
+
+I still can't give you the ADAP taper rate above $700, or the exact indexation formula. Both live in documents I can't open.
+
+## DATES
+**Tuesday the 8th.** Last day for old T2201 versions.
+
+**Tuesday the 15th.** Alberta Gazette.
+
+**Thursday the 17th.** September CDB payment.
+
+**Friday the 25th.** Last day to request a mail-in referendum ballot. Moved up from October 9.
+
+**Saturday the 26th.** FCSSAA resolution deadline. Aim earlier: a council has to endorse it first, and agendas close about a week before a meeting.
+
+**Wednesday the 30th.** Energy rebate applications close. Automatic if you were on a program before July 1. If you came on after, you apply yourself.
+
+Nothing happens Tuesday except the form deadline.
+
+Rest if you can.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-04",
   title: "Where Things Stand \u2014 September 4, 2026",
   body: `Tonight is a correcting night. Two things I published yesterday were wrong, and there are three federal changes that came into force on Tuesday that nobody told any of us about.
