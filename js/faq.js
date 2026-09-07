@@ -26,7 +26,9 @@ Be careful with the date here, because a wrong one is circulating. The drop arri
 
 One timing detail so you are watching the right deposit: AISH and ADAP pay **4 business days before the first of the month**. So the January 2028 payment is the one that lands in the last days of December 2027 — that is the deposit where the top-up stops, not a January one.
 
-Brand-new applicants — people who were never on AISH and apply for the first time after the switch — start at the lower amount with no top-up. If your money *did* change and you were moved, that is worth a written question to the program; it should not have. _(top-up and its December 31, 2027 end date confirmed against the ADAP page and fact sheet; payment timing confirmed against the government's AISH and ADAP payment details page, August 2026)_`
+There is one wrinkle at the other end worth checking. The government's own two sources do not quite line up: the ADAP page says clients who moved in July 2026 receive the top-up, while the policy manual dates the benefit "from August 2026 to December 2027." If you moved in July and your July deposit looked light, that is worth a written question — do not assume it was correct.
+
+Brand-new applicants — people who were never on AISH and apply for the first time after the switch — start at the lower amount with no top-up. If your money *did* change and you were moved, that is worth a written question to the program; it should not have. _(top-up and its December 31, 2027 end date confirmed against the ADAP page and fact sheet; the August 2026 start and the payment window per the DIA Policy Manual, Transition Benefit; payment timing per the government's AISH and ADAP payment details page, September 2026)_`
       },
       {
         q: `If I stay on AISH but choose to move to ADAP later, do I keep the $200 transition top-up?`,
@@ -52,11 +54,15 @@ We can now give you the government's own numbers rather than our arithmetic. The
 
 Good news on one point, and this is confirmed in the manual: the $200 transition top-up is **not** cut to 88% the way the base rate is. If you were moved from AISH, your amount is the couple rate **plus** the full $200.
 
-Timing matters here so you watch the right deposit: ADAP's base rate itself began July 2, 2026, but the **88% couple reduction specifically starts the August 2026 benefit period**, and payments land 4 business days before the first of the month. So watch that late-July deposit, and if it is not what you expect, ask in writing for a breakdown of how your own amount was calculated. _(couple amounts and the top-up exception confirmed against the DIA Policy Manual, Monthly Living Allowance and Transition Benefits; 88% start date per the government's ADAP page and fact sheet, August 2026)_`
+Mark your calendar for one thing. Every one of these numbers changes on **January 1, 2027**. AISH and ADAP rates are adjusted each January 1 by the Alberta escalator — the lesser of 2% or the Alberta cost-of-living figure. So if you are reading this in 2027, check the current rate before you rely on $1,708 or $1,532.
+
+Timing matters here so you watch the right deposit: ADAP's base rate itself began July 2, 2026, but the **88% couple reduction specifically starts the August 2026 benefit period**, and payments land 4 business days before the first of the month. So watch that late-July deposit, and if it is not what you expect, ask in writing for a breakdown of how your own amount was calculated. _(couple amounts and the top-up exception confirmed against the DIA Policy Manual, Monthly Living Allowance and Transition Benefits; annual January 1 adjustment per the DIA Policy Manual, Benefit Rate Adjustments; 88% start date per the government's ADAP page and fact sheet, September 2026)_`
       },
       {
         q: `Are the child benefit amounts changing, and to what?`,
-        a: `Yes. The child benefit rates under AISH and ADAP were recalibrated starting the August 2026 benefit period. The monthly amounts are: $300 for the first child, $117 for the second, $88 for the third, $59 for the fourth, and $30 for each additional child. The government says this raises child benefits for about 7,000 families, though not every household changes the same way — so if you get money for children, check your late-July deposit and ask for a breakdown if it looks off. _(figures per the government's ADAP page and fact sheet, effective August 2026 benefit period)_`
+        a: `Yes. The child benefit rates under AISH and ADAP were recalibrated starting the August 2026 benefit period. The monthly amounts are: $300 for the first child, $117 for the second, $88 for the third, $59 for the fourth, and $30 for each additional child. The government says this raises child benefits for about 7,000 families, though not every household changes the same way — so if you get money for children, check your late-July deposit and ask for a breakdown if it looks off.
+
+One date to keep: child benefit rates are on the same annual escalator as the living allowance, so these five amounts change again on **January 1, 2027**. _(figures per the government's ADAP page and fact sheet, effective August 2026 benefit period; annual January 1 adjustment per the DIA Policy Manual, Benefit Rate Adjustments)_`
       },
       {
         q: `Does the $100 Alberta energy rebate count against my AISH or ADAP?`,
@@ -72,7 +78,9 @@ One more thing: the government has warned about scam texts pretending to be this
 
 Pension income here means things like the Canada Disability Benefit, CPP and CPP Disability, Employment Insurance and Workers' Compensation paid to your partner — not their wages from a job.
 
-Wages are a separate rule, and we can now point you at it. Your partner's **employment** income has its own exemption of **$1,500 a month**, published in the government's earnings table. See the earnings question further down for the full table. _(pension exemption confirmed on the government's ADAP fact sheet; the $1,500 partner employment exemption per the ADAP page earnings table and the DIA Policy Manual, August 2026)_`
+A small piece of good news buried in the policy: that $1,200 is not frozen. The manual says it is adjusted every year in line with the core benefit adjustments, so it rises with the rates each January 1.
+
+Wages are a separate rule, and we can now point you at it. Your partner's **employment** income has its own exemption of **$1,500 a month**, published in the government's earnings table. See the earnings question further down for the full table. _(pension exemption and its annual adjustment confirmed on the DIA Policy Manual, Pension Income, and the ADAP fact sheet; the $1,500 partner employment exemption per the ADAP page earnings table and the DIA Policy Manual, September 2026)_`
       },
       {
         q: `Do I have to apply for the Canada Disability Benefit if Alberta just takes it back?`,
@@ -80,7 +88,11 @@ Wages are a separate rule, and we can now point you at it. Your partner's **empl
 
 Watch for this: Alberta's own "Apply for federal disability supports" page still says the CDB pays "up to $200 per month." That is last year's rate. If a worker quotes you $200, the federal page is the one to go by.
 
-Alberta counts the CDB as income and deducts it dollar for dollar, so for most people there is no net gain from it at all — the federal increase to $204.20 does not reach you. Keep that separate from the $200 below, which is a penalty for not applying, not the ordinary deduction. But applying is not optional: the AISH/ADAP rules require you and your partner to apply for the CDB and the Disability Tax Credit and to tell the program the outcome. Alberta has already reduced provincial benefits for people who did not have a CDB decision in time — clients without a CDB decision by February 28, 2026 had $200 taken off their benefits starting in April 2026. Applying and reporting is what protects you from that reduction. _(CDB maximum per canada.ca, August 2026; apply-and-report requirement and the $200 reduction per the government's "Apply for federal disability supports" page)_`
+Alberta counts the monthly CDB as income and deducts it dollar for dollar, so for most people there is no net gain from it at all — the federal increase to $204.20 does not reach you. Keep that separate from the $200 below, which is a penalty for not applying, not the ordinary deduction.
+
+But there is one piece of clear good news, and we have checked it in the policy itself. The federal government's **$150 supplement**, paid to help cover the cost of the DTC medical form, is **not** deducted. Alberta's rule counts CDB money except money "not paid for the purpose of offsetting a person's cost of applying for a disability tax credit" — which is precisely what the $150 is. You keep it. See the separate question below for the timing.
+
+Applying is not optional: the AISH/ADAP rules require you and your partner to apply for the CDB and the Disability Tax Credit and to tell the program the outcome. Alberta has already reduced provincial benefits for people who did not have a CDB decision in time — clients without a CDB decision by February 28, 2026 had $200 taken off their benefits starting in April 2026. Applying and reporting is what protects you from that reduction. _(CDB maximum and the supplement per canada.ca, September 2026; the exemption for DTC-cost money per the DIA Policy Manual, Pension Income; apply-and-report requirement and the $200 reduction per the government's "Apply for federal disability supports" page)_`
       },
       {
         q: `I need to send disability tax credit papers to CRA — has that changed?`,
@@ -89,6 +101,36 @@ Alberta counts the CDB as income and deducts it dollar for dollar, so for most p
 Here is the part people miss. Your doctor can charge you for filling in that medical section, and **AISH and ADAP will cover that cost** for eligible clients. Bring an invoice or a written cost estimate from the medical professional to your worker; the program issues it as a supplemental benefit and you pay the practitioner. Be ready for the catch: you are required to repay the program once the federal government reimburses you for the fee. If the up-front cost is what is stopping you from applying, say so to your worker — that is the exact situation this is for.
 
 One more, if you were turned down before: if you were denied the DTC **before 2025**, you are required to reapply, because the federal government broadened the eligibility criteria in 2025. An old "no" is not a current no. _(confirmed on the government's "Apply for federal disability supports" page, August 2026; CRA upload method not re-confirmed this month — ask CRA directly)_`
+      },
+      {
+        q: `There is a $150 federal payment — is it real, when does it come, and will Alberta take it?`,
+        a: `It is real, you do not have to apply for it, and Alberta does not take it. Three pieces of good news in one answer, which does not happen often around here.
+
+The federal government has added a **$150 supplement** to the Canada Disability Benefit, to help cover what a doctor charges for filling in the medical part of the Disability Tax Credit form. The rule change took legal effect on **September 1, 2026**, and payments began that month. The regular CDB deposit date for September 2026 is **September 17**.
+
+Two things people are getting wrong about it. **It is not a one-time payment** — it is paid again each time your Disability Tax Credit is re-certified, because that is when the doctor's fee comes round again. And **it does not reach everyone this month.** September 2026 is for people who received a CDB payment between July 1, 2025 and June 30, 2026, including people who no longer receive it. If your first CDB payment landed on or after July 1, 2026, or you were re-certified between July 2025 and January 2027, yours comes in **February 2027**. From March 2027 it arrives with a first payment and again after each re-certification. So if yours does not turn up this month, that is not an error and not something you did wrong.
+
+Who gets it: anyone with an approved DTC certificate that entitles them to a monthly CDB payment — including people whose payment is small enough that it comes as a single lump sum. And if you received a CDB payment at any point before September 2026 but are not receiving one now, you are still eligible. **There is nothing to apply for.**
+
+Now the part that matters most here. Alberta counts your monthly CDB as income and deducts it dollar for dollar — but the rule has a carve-out written into it. Alberta counts CDB money *except* money "not paid for the purpose of offsetting a person's cost of applying for a disability tax credit." That is exactly what this $150 is. So it should not be deducted, and it should not reduce your AISH or ADAP.
+
+As always: check your statement. If $150 shows up as income against you, that looks wrong to us — ask in writing for a breakdown and point at the pension income policy. Bring it here and we will help you word it. _(the supplement, its September 1, 2026 legal effect and the no-application rule per canada.ca, About the Canada Disability Benefit program and How much you could receive; the September 17, 2026 payment date per the Service Canada benefits payment dates calendar; the exemption from Alberta's deduction per the DIA Policy Manual, Pension Income — all confirmed September 2026)_`
+      },
+      {
+        q: `I heard my child benefits will start counting toward my rent — is that true?`,
+        a: `Yes, and we have now read the instrument rather than the reporting, so we can tell you exactly what it does.
+
+The rule is **Alberta Regulation 180/2026**, the Social Housing Accommodation Amendment Regulation, made by **Ministerial Order 2026-018** on June 29, filed July 9, published in the Gazette on July 31, 2026, and in force **January 1, 2027**.
+
+What it actually does is wider than the announcement suggested. It lets the Minister count any income **not included in line 15000 of your Notice of Assessment** — the total income line — when your rent is worked out. Child benefits are not reported on line 15000. That phrase reaches exactly the money that does not appear on a tax return, and it has no other obvious purpose.
+
+Notice what it does **not** do. It names no benefit at all. So the decision to count a specific one does not have to be filed, published or indexed anywhere, and there is no second rule to watch for. Once this is in force, the counting can begin with nothing further made public.
+
+The practical effect: rent in social housing is 30 percent of household income, so as a rough guide about **$30 a month more rent for every $100 counted**. The announced dates are January 1, 2027 for the Rent Assistance Benefit and January 1, 2028 for all community housing.
+
+Two other things came in the same regulation, on the same date. Government-sponsored refugees and people with a pending refugee or immigration claim are no longer named as an eligible group for community housing. And a minimum rent floor was set, so basic rent cannot go below a prescribed minimum, which limits reductions some seniors previously received.
+
+Nothing changes on your rent today, and none of this reaches you until your own annual review. What you can do now: if you are in community housing or on the Rent Assistance Benefit and you get child benefits, ask your housing provider **in writing** what your rent will be on January 1, 2027 and on what basis, and keep the answer. The first sign that child benefits are being counted will not be a new law. It will be a rent notice. _(AR 180/2026 made by Ministerial Order 2026-018, amending AR 244/1994; The Alberta Gazette, Part II, July 31, 2026; verified against the King's Printer, August 2026)_`
       }
     ]
   },
@@ -97,7 +139,9 @@ One more, if you were turned down before: if you were denied the DTC **before 20
     items: [
       {
         q: `I was moved to ADAP but I cannot work — how do I get back to AISH?`,
-        a: `The way back is a reassessment. It is not automatic — you have to ask. The government covers one medical assessment for people who were moved, but ask in writing whether it is fully covered and whether you would ever have to repay it. If your condition means you cannot work at all, this is the path, and you do not have to do it alone.`
+        a: `The way back is a reassessment. It is not automatic — you have to ask. The government now says plainly that it covers the cost of **one** medical assessment for people who were moved to ADAP and later choose to be assessed for AISH, and that this support **is not time-limited** — it is there whenever you decide to use it.
+
+Ask for it in writing anyway, and keep the answer. Not because we doubt the policy, but because a written record of what you were promised is what protects you if a worker tells you something different later. If your condition means you cannot work at all, this is the path, and you do not have to do it alone. _(one covered medical assessment and the "not time-limited" wording confirmed on the government's ADAP page, ADAP fact sheet and ADAP appeal page, September 2026)_`
       },
       {
         q: `Is there a deadline to move back to AISH?`,
@@ -116,7 +160,9 @@ One more, if you were turned down before: if you were denied the DTC **before 20
         q: `Can I appeal a benefit cut under the new employment rules?`,
         a: `Yes. A benefit cut under the employment provision — section 15(4) — is **not** on the list of decisions that are exempt from appeal. On the published regulation, that kind of cut **is** appealable. If your benefit is reduced under the new employment rules, you have the right to appeal it — in writing, within 30 days of being told.
 
-We have now read the exempt list ourselves, word for word. Of the eleven exempt items, exactly one is a decision to refuse, suspend, vary or discontinue a benefit: a cut for not claiming or assigning a federal benefit like CPP or Old Age Security. The employment cut is not there. If anyone tells you otherwise, ask them in writing which instrument makes it non-appealable. _(read from the Applications and Appeals (Ministerial) Regulation, section 6, as replaced by AR 87/2026 — Alberta Gazette Part II, May 15, 2026, pages 236 to 238)_`
+We have now read both regulations side by side, word for word. Section 15(4) is the provision that lets a director cut an ADAP benefit if they believe you refused, reduced or ended reasonable employment, or would not take part in an employment support. The exempt list has eleven items. Exactly one of them is a decision to refuse, suspend, vary or discontinue a benefit — and it is a cut under section 15(1)(b)(i), for failing to claim or assign a federal benefit like CPP or Old Age Security. Section 15(4) is not on the list anywhere.
+
+If anyone tells you otherwise, ask them in writing which instrument makes it non-appealable. _(read from the Applications and Appeals (Ministerial) Regulation, AR 89/2007, section 6, as amended by AR 87/2026 — consolidated text current as of July 2, 2026, Alberta King's Printer; section 15(4) read from the Assured Income for the Severely Handicapped General Regulation, AR 96/2026)_`
       },
       {
         q: `What cannot be appealed?`,
@@ -129,7 +175,24 @@ Two big ones are barred outright:
 
 The regulation also shuts out nine narrower things, mostly about money already paid: whether to let you off repaying a benefit, how a debt gets collected, a demand to repay a personal benefit, deducting a debt out of your benefit, spreading your income over a different period, a finding that you refused a transfer out of hospital, two specific exemption decisions, and the decision **to grant** a personal benefit.
 
-Now the part worth your attention. That list is narrow, and a great deal is **not** on it — including the employment-related cut under section 15(4). The program's own policy manual carries one loose line saying cuts for not meeting client responsibilities "are not appealable," which is broader than the regulation supports. So if you are told a decision cannot be appealed, do not take it as final: ask, in writing, **which instrument makes this decision exempt from appeal**. Get the answer in writing. And whatever else you do, file within **30 days** — the deadline runs whether or not anyone argues about it. Bring it to this community and we will help you word it. _(exempt list read from the Applications and Appeals (Ministerial) Regulation, section 6, as replaced by AR 87/2026 — Alberta Gazette Part II, May 15, 2026, pages 236 to 238; transition and medical-panel bars also confirmed on the government's ADAP appeal page, August 2026)_`
+Here is a distinction worth holding onto, because it is where people get talked out of appealing. Two different things can put a decision out of reach, and they are not the same. Some decisions are on the regulation's exempt list. Others are simply not the Director's to make — they belong to the Minister, and an appeal panel cannot touch a Minister's decision at all. There is a third limit too: a panel has no power to rule on whether a decision is constitutional. So "you cannot appeal that" can mean three quite different things, and only one of them is the exempt list.
+
+That is why the question to ask is always the same. If you are told a decision cannot be appealed, do not take it as final: ask, in writing, **which instrument makes this decision exempt from appeal**. Get the answer in writing. A great deal is **not** barred — including the employment-related cut under section 15(4). And whatever else you do, file within **30 days**. Bring it to this community and we will help you word it. _(exempt list read from the Applications and Appeals (Ministerial) Regulation, AR 89/2007, section 6, as amended by AR 87/2026 — consolidated text current as of July 2, 2026, Alberta King's Printer; the three limits on the panel's reach per the DIA Policy Manual, Limits to the Appeal Panel's Authority; transition and medical-panel bars also confirmed on the government's ADAP appeal page, September 2026)_`
+      },
+      {
+        q: `I have new medical evidence — should I send it in or file my appeal first?`,
+        a: `Send it in first. This is the trap in the whole appeal system, and almost nobody is told about it.
+
+The moment your Notice of Appeal is filed, two doors shut at once. The program stops considering new information about the decision you are appealing. And the appeal panel is barred by the regulation from looking at **anything** the program did not already have when it made the decision. So if your fresh report from your specialist arrives after you file, the panel is not allowed to read it — no matter how much it would have changed the outcome.
+
+So the order matters:
+
+- **First**, give the program every piece of new information you have — the new report, the changed diagnosis, the corrected financial detail. Tell them in writing if something is coming and you are still waiting on it.
+- **Then**, if the answer is still wrong, file your appeal.
+
+If you have already filed and then something new comes in, you are not stuck — but you may have to **withdraw** the appeal so the program can look at the new material and make a fresh decision. Contact the Appeals Secretariat right away if that is your situation, and ask them in writing what withdrawing does to your timeline before you do it.
+
+And if the 30 days is the thing standing in your way: you can ask for more time. Put the reason on the Notice of Appeal form or write to the Appeals Secretariat, saying when you got the decision, when you learned about the 30 days, and why you could not file in time. It is decided by the Minister's delegate and you get the answer in writing. Do not treat it as a reason to relax — ask early, and file as soon as you can. Bring it here and we will help you word either one. _(the bar on new information from the Applications and Appeals (Ministerial) Regulation, AR 89/2007, section 5(1.1), current to July 2, 2026; the withdraw route and the time extension from the government's ADAP appeal page and the DIA Policy Manual, Appealing a Decision, September 2026)_`
       }
     ]
   },
@@ -187,15 +250,31 @@ On AISH, anything above $350 comes off dollar for dollar. On ADAP, earnings abov
 
 Here is what is still missing, and we will not guess at it. The government describes the sliding scale as starting at less than a cent per dollar and increasing sharply as you approach $45,000 a year, but **it has never published the schedule**. So nobody — not us, not a worker reading off a screen — can tell you what your deduction will be at a given wage. The government's benefit estimator will give you a figure for your own situation; that is the closest thing to an answer that exists right now.
 
-One hard rule underneath all of this: **report every pay on time**. The policy manual is blunt — if income has not been reported in a timely manner, or has been misrepresented, "these exemptions are not applied." Not reduced. Not applied. That is the single most expensive mistake available to you, and it is entirely avoidable.
+One hard rule underneath all of this: **report every pay on time**. The policy manual is blunt — if income has not been reported in a timely manner, or has been **willfully** misrepresented, "these exemptions are not applied." Not reduced. Not applied. That is the single most expensive mistake available to you, and it is entirely avoidable. Note the word *willfully*: a plain mistake you own and correct is not the same thing as hiding income, so if you got something wrong, tell them and fix it rather than saying nothing.
 
-A note on how partners are counted: if you and your partner are both on AISH or ADAP, your income is assessed separately on each file and you do not report each other's earnings. If your partner is not on the program, you each get your own fully exempt amount, they cannot be shared, and whatever is left over from both of you is added together for the partial exemption. _(AISH $350, ADAP $700, ADAP parent $1,100 and cohabiting partner $1,500 per the government's ADAP page earnings table and the ADAP fact sheet; reporting rule and partner treatment per the DIA Policy Manual, Employment and Self-Employment Income, August 2026. These are published government policy — the ministerial order that sets them has still not been published)_`
+A note on how partners are counted: if you and your partner are both on AISH or ADAP, your income is assessed separately on each file and you do not report each other's earnings. If your partner is not on the program, you each get your own fully exempt amount, they cannot be shared, and whatever is left over from both of you is added together for the partial exemption. _(AISH $350, ADAP $700, ADAP parent $1,100 and cohabiting partner $1,500 per the government's ADAP page earnings table and the ADAP fact sheet; reporting rule and partner treatment per the DIA Policy Manual, Employment and Self-Employment Income, September 2026. These are published government policy — the ministerial order that sets them has still not been published, and the figures are subject to the annual January 1 adjustment)_`
       },
       {
         q: `Can they cut my ADAP benefit if my health forces me to reduce my work hours?`,
         a: `If your benefit is cut because your health affects your work, that kind of cut — the employment one under section 15(4) — is appealable, so you do not have to accept it without a fight. File in writing within 30 days.
 
-Better still, get ahead of it. Put your limits in writing before anything happens and request accommodation, so the barrier is on record before any cut is made. The policy manual is on your side here: it says the program should first work with you to identify and address barriers, and that supportive approaches come before compliance measures. Quote that back at them. Bring it to this community and we will help you word it. _(appealability read from the Applications and Appeals (Ministerial) Regulation, section 6, as replaced by AR 87/2026; barriers-first language from the DIA Policy Manual, Employment Supports, August 2026)_`
+Read the wording, because it matters to you specifically. The provision reaches someone who "refused to seek or accept or has reduced or terminated" their reasonable employment. Cutting your hours is named in there. But it turns on what the director *thinks* you did — and a reduction forced on you by your health is not a refusal. That is the argument, and it is a good one.
+
+Better still, get ahead of it. Put your limits in writing before anything happens and request accommodation, so the barrier is on record before any cut is made. The policy manual is on your side here: it says the program should first work with you to identify and address barriers, and that supportive approaches come before compliance measures. Quote that back at them. Bring it to this community and we will help you word it. _(section 15(4) read from the Assured Income for the Severely Handicapped General Regulation, AR 96/2026; appealability from the Applications and Appeals (Ministerial) Regulation, AR 89/2007, section 6, as amended by AR 87/2026, current to July 2, 2026; barriers-first language from the DIA Policy Manual, Employment Supports — carried forward from an earlier review, not re-confirmed this run)_`
+      },
+      {
+        q: `If I earn too much and lose my benefits, do I lose my health coverage too?`,
+        a: `No — and this is worth knowing before you turn down a shift out of fear.
+
+If your earnings rise to the point where you no longer qualify for the monthly living allowance, your health coverage does not simply stop. The policy manual sets out where you land:
+
+- If you were on **AISH** and your employment, self-employment or CPP-Disability income takes you off the program, you are enrolled in the **Alberta Adult Health Benefit** and keep the same coverage you had. That benefit year runs October 1 to September 30 and is renewed annually — so keep an eye on the renewal.
+- If you were on **ADAP** and your earnings take you off, you may receive **Enduring Health Benefits**.
+- The ADAP page also says plainly that Albertans on ADAP keep their health benefits regardless of employment income.
+
+There is a second safety net underneath that one. If your earnings later drop back down, AISH and ADAP can be **reinstated within two years** without starting from scratch. The manual calls this rapid reinstatement.
+
+One caution, because it is not all good news. The manual also says an AISH client whose employment income causes a significant and prolonged reduction in their AISH benefit **may be moved to ADAP**. So earning more can change which program you are on, not only how much you receive. If a job is likely to push you near that line, ask in writing what it does to your program before you commit — and get the answer in writing. _(AAHB, Enduring Health Benefits, rapid reinstatement and the move-to-ADAP caution per the DIA Policy Manual, Employment and Self-Employment Income and Pension Income; the health-benefits-regardless-of-income statement per the government's ADAP page, September 2026)_`
       }
     ]
   },

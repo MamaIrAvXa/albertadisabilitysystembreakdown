@@ -9,6 +9,103 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-06",
+  title: "Where Things Stand \u2014 September 6, 2026",
+  body: `Tonight is a closing night. Three things that have been sitting open for weeks got answered, one of them by opening a document I should have opened a month ago.
+
+## FIRST, A CORRECTION, AND THIS ONE MAKES THINGS SIMPLER
+For weeks I've been telling you there were competing earnings exemption numbers floating around, $350 and $700 and $1,072 and $2,612, and that they couldn't be reconciled. I called it a muddle.
+
+It was never a muddle. I just hadn't opened the old regulation.
+
+I opened it tonight. Under AR 91/2007, the rules that governed until July 2, a single AISH client had 100 percent exempt up to $1,072, then 50 percent of anything between $1,072 and $2,009. Someone with a partner or a dependent child had 100 percent up to $2,612, then 50 percent up to $3,349.
+
+And $1,072 and $2,612 appear nowhere in the new regulation and nowhere in the current manual. Zero times in both.
+
+So here's the whole story in three sentences.
+
+$1,072 and $2,612 were the amounts written into law and binding until July 2. $350, $700, $1,100 and $1,500 are what replaced them. **They are not competing claims about the same thing. They are before and after.**
+
+And there's a difference between the two that matters more than the amounts. The old numbers were in a regulation, which means they could not be changed without an Order in Council on the public record. The new numbers are on a webpage and in a policy manual, and the instrument that would make them law has still never been published.
+
+I made that sound uncertain when it isn't. Owning that.
+
+## SECOND, A CAUTION, BECAUSE I'D RATHER YOU DIDN'T LOSE THIS ARGUMENT
+I read the Canada Disability Benefit Act tonight, all of it.
+
+Section 9 says the benefit cannot be taken by way of deduction, set-off or compensation under any Act of Parliament other than this Act.
+
+I know how that reads. It reads like the clawback is illegal.
+
+It isn't, and here's the phrase that decides it. **Act of Parliament means a federal statute.** Alberta's deduction runs on a provincial regulation, and a provincial regulation is not an Act of Parliament.
+
+So if you go into a phone call and tell a worker the clawback breaks federal law, you'll be wrong and you'll lose that exchange. Worse, you'll hand them a reason to stop listening to everything else you say.
+
+The argument against the clawback is a real one. It's about policy, and possibly about the Charter. It is not a section 9 argument. I'd rather tell you that tonight than have you find out in the middle of a call.
+
+## AND A RELATED CORRECTION TO MYSELF
+On Thursday I told you Ottawa has amended the Income Tax Act so the Canada Disability Benefit isn't treated as income, and I framed it as part of the September changes.
+
+The amendment is real. The timing was mine. It was enacted in 2023 and came into force in June 2024. It isn't new and it didn't happen this month.
+
+The point still stands. Ottawa says this money is not income. Alberta counts it as income. But it's been that way for two years, not two weeks.
+
+## THIRD, I RAISED AN ALARM ON FRIDAY AND I OWE YOU THE ANSWER
+Friday I told you Alberta had quietly consented to federal CPP changes and said somebody should ask what it means.
+
+I found the actuary's report. It's the 33rd Actuarial Report on the Canada Pension Plan, signed by the Chief Actuary on May 28.
+
+It says the reduced contribution rate of 9.5 percent from 2027 onward is sufficient to finance the base CPP over the long term. And it says all other provisions of the Canada Pension Plan remain unchanged.
+
+So the thing I was worried about looks smaller than I made it sound.
+
+One honest note. The report is silent on disability benefits specifically. Silence is not a promise. But I raised the question loudly on Friday and the answer deserves to be just as loud, so there it is.
+
+## SOMETHING SPREADING THAT ISN'T TRUE
+This one needs correcting before it gets away.
+
+Search results are starting to surface material in a way that reads like there's a filed Charter challenge to Bill 12 or the new regulation.
+
+**There isn't. No court case has been filed.** What's being picked up is analysis, including some of our own, being surfaced by search engines in a format that looks like news.
+
+If you see it, or if someone tells you a court challenge is underway, that's what happened. I'll tell you the day anything real is filed.
+
+## TWO THINGS FROM THE GOVERNMENT'S OWN PAGES
+The reassessment has no deadline, and it's now confirmed in their words. The funded medical assessment is described as not time-limited and available whenever clients choose to access it. The 18 months people keep quoting is the transition benefit period. It is not a reassessment window and there is no clock on asking.
+
+And the ADAP page now has a section headed changes in your benefit amount, telling people they may see a change because of recent changes to how much you can earn from working. So the department has acknowledged in writing that amounts moved.
+
+The remedy it offers is the benefit estimator. Which is a calculator whose formula nobody outside the department can see, including me. That's the access problem in one paragraph.
+
+## AND NOTHING HAPPENS AT THE PUMP TOMORROW
+Saying it once more because I got it wrong twice. The fuel tax holiday was extended to January 31. Gas is not going up Monday.
+
+## DATES
+**Tuesday the 8th.** Last day the CRA accepts old T2201 versions. Year in brackets, bottom left. 23 or higher is fine.
+
+**Tuesday the 15th.** Alberta Gazette. Still watching for the order that would make the earnings numbers law.
+
+**Thursday the 17th.** September CDB payment.
+
+**Friday the 25th.** Last day to request a mail-in referendum ballot.
+
+**Saturday the 26th.** FCSSAA resolution deadline. Aim earlier: a council has to endorse it first, and agendas close about a week before a meeting.
+
+**Wednesday the 30th.** Energy rebate applications close.
+
+## STILL NOT TELLING YOU
+The ADAP taper rate above $700. The government describes it as less than a cent per dollar, which is a description and not a rate, and I won't publish a description as a number.
+
+The indexation formula. And the ministerial order that would make any of the new exemption amounts binding, because it still doesn't exist publicly.
+
+One date this week. Tuesday.
+
+Rest if you can.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-05",
   title: "Where Things Stand \u2014 September 5, 2026",
   body: `Correction first, and it's a good one, because it means something you were bracing for is not happening.
