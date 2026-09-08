@@ -9,6 +9,96 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-07",
+  title: "Where Things Stand \u2014 September 7, 2026",
+  body: `Four things tonight, and the first one is the one I want you to read twice.
+
+## 1. THE HELP WITH YOUR DOCTOR'S FEE IS A LOAN
+I found the government's own fact sheet tonight, the one on the Canada Disability Benefit and the disability tax credit for AISH recipients, dated April.
+
+It says AISH will cover the full cost of the DTC medical assessment. Good.
+
+Then it says AISH issues the money to you, you pay the doctor, and, in its own words, **clients will be required to repay the full amount provided.**
+
+So Alberta fronts the doctor's fee and takes it back off you afterward. That's a loan, not a benefit, and I have not seen it described that way anywhere a person would look.
+
+And there's a question underneath it that nobody has answered. Ottawa's $150 exists to cover that same doctor's fee. If Alberta already fronted you the money and wants it back, does the $150 go to repaying Alberta, or does it stay with you?
+
+Nothing I can find says. I'm asking, and I'm not going to guess in the meantime.
+
+**What to do if this is you.** Before you accept any help with a DTC assessment fee, ask in writing whether it is repayable and how. Get the answer on paper. And keep this separate in your head from the reassessment medical report, which is a different thing and is not described as repayable.
+
+## 2. HOUSING. SOMETHING ALREADY PASSED THAT NOBODY ANNOUNCED
+This one takes a minute to explain and it's worth it.
+
+Rent in social housing is based on your income, and income is defined by line 15000 of your tax assessment. Child benefits don't appear on line 15000. That's why they've never counted toward your rent.
+
+On June 29 the Minister signed an order, filed July 9 as **AR 180/2026**, that comes into force **January 1, 2027**. It gives the Minister a new power to include any income or amount not on line 15000 when calculating your household income for setting basic rent.
+
+It doesn't name child benefits. It doesn't have to. That's what isn't on line 15000.
+
+Three things follow.
+
+Once that power is in force, nothing further needs to be passed. No new regulation, no notice, no consultation. The Minister can simply decide to start counting.
+
+The power is broader than child benefits. It reads as any income or any other amount not on line 15000.
+
+And if you go and look up the regulation online right now, you will see the old text and conclude nothing has happened. That's because the change doesn't take effect until January. Something has happened.
+
+As a rough guide, rent in social housing is 30 percent of household income, so roughly $30 more a month for every $100 counted.
+
+You have about sixteen weeks. If you're signing a lease this fall, ask in writing before you sign what income will be counted from January 1 and what your rent would be.
+
+## 3. THE $350 WALL IS PUBLISHED, AND IT IS 100 PERCENT
+I've been calling the AISH deduction above $350 an unpublished taper. That was wrong and I'm fixing it.
+
+The manual says it plainly. Amounts earned in excess of the threshold are not exempt for AISH clients. Not exempt means all of it. Every dollar over $350 comes off dollar for dollar.
+
+So the AISH side is knowable and it is a **wall, not a slope**. What remains unpublished are the taper rates on the three ADAP tiers. All four thresholds are public. Only one deduction rate is.
+
+## 4. THE 2 PERCENT CAP
+I've been holding this for weeks because I couldn't open the statute. I can now cite it through counsel's analysis instead, so here it is with the source named.
+
+There is a thing called the Alberta escalator, created by Bill 32 in 2024, and it caps the annual increase on AISH at **the lesser of 2 percent or Alberta inflation**. It also reaches the Alberta Child and Family Benefit, the Seniors Benefit and lodge rates.
+
+That means if inflation runs above 2 percent, your benefit falls behind by design. Not by accident, by formula.
+
+The law firm that wrote the analysis also notes the contradiction with a mandate letter promising AISH would be adjusted for inflation. That's their observation and I'm passing it on as theirs.
+
+## ONE MORE FROM THE REGULATION
+The carve-out that keeps the $150 from being counted as income now appears in a third place. It's in section 1(1)(e), it's in the manual, and it's also in section 3, which covers a partner who isn't a client.
+
+Three places, same words. That's the strongest indication yet that the $150 isn't meant to be deducted. Still an indication rather than a statement from the department, but three is better than one.
+
+## AND NOTHING HAPPENED AT THE PUMP TODAY
+Third time saying it because I got it wrong three days running. The fuel tax holiday runs to January 31. Gas did not go up.
+
+## DATES
+**Tomorrow, the 8th.** Last day the CRA accepts old T2201 versions. Year in brackets, bottom left. 23 or higher is fine.
+
+**Tuesday the 15th.** Alberta Gazette.
+
+**Thursday the 17th.** September CDB payment.
+
+**Friday the 25th.** Last day to request a mail-in referendum ballot.
+
+**Saturday the 26th.** FCSSAA resolution deadline. Aim earlier: a council has to endorse it first, and agendas close about a week before a meeting.
+
+**Wednesday the 30th.** Energy rebate applications close.
+
+**January 1.** The housing rule.
+
+## STILL NOT TELLING YOU
+The ADAP taper rates on any of the three tiers. The ministerial order that would make the exemption amounts binding, which still doesn't exist publicly. And what happens to the $150 if Alberta has already fronted you the assessment fee.
+
+One date tomorrow.
+
+Rest if you can.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-06",
   title: "Where Things Stand \u2014 September 6, 2026",
   body: `Tonight is a closing night. Three things that have been sitting open for weeks got answered, one of them by opening a document I should have opened a month ago.

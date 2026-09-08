@@ -104,7 +104,7 @@ One more, if you were turned down before: if you were denied the DTC **before 20
       },
       {
         q: `There is a $150 federal payment — is it real, when does it come, and will Alberta take it?`,
-        a: `It is real, you do not have to apply for it, and Alberta does not take it. Three pieces of good news in one answer, which does not happen often around here.
+        a: `It is real, you do not have to apply for it, and Alberta does not deduct it. That is genuinely good, with one caution at the end that you should read before you count the money as yours.
 
 The federal government has added a **$150 supplement** to the Canada Disability Benefit, to help cover what a doctor charges for filling in the medical part of the Disability Tax Credit form. The rule change took legal effect on **September 1, 2026**, and payments began that month. The regular CDB deposit date for September 2026 is **September 17**.
 
@@ -114,7 +114,9 @@ Who gets it: anyone with an approved DTC certificate that entitles them to a mon
 
 Now the part that matters most here. Alberta counts your monthly CDB as income and deducts it dollar for dollar — but the rule has a carve-out written into it. Alberta counts CDB money *except* money "not paid for the purpose of offsetting a person's cost of applying for a disability tax credit." That is exactly what this $150 is. So it should not be deducted, and it should not reduce your AISH or ADAP.
 
-As always: check your statement. If $150 shows up as income against you, that looks wrong to us — ask in writing for a breakdown and point at the pension income policy. Bring it here and we will help you word it. _(the supplement, its September 1, 2026 legal effect and the no-application rule per canada.ca, About the Canada Disability Benefit program and How much you could receive; the September 17, 2026 payment date per the Service Canada benefits payment dates calendar; the exemption from Alberta's deduction per the DIA Policy Manual, Pension Income — all confirmed September 2026)_`
+As always: check your statement. If $150 shows up as income against you, that looks wrong to us — ask in writing for a breakdown and point at the pension income policy. Bring it here and we will help you word it. One caution before you count it as yours. If AISH covered the cost of your Disability Tax Credit medical assessment, the government's own fact sheet says that money is issued to you to pay the doctor and that clients will be required to repay the full amount provided. That makes it an advance, not a grant. What nobody has yet answered is whether the federal $150 then goes to repaying Alberta or stays with you. We are asking. In the meantime, if you are offered help with an assessment fee, ask in writing whether it is repayable and how, and keep the answer. Keep this separate from the covered medical report for a reassessment, which is a different thing and is not described as repayable.
+
+_(the supplement, its September 1, 2026 legal effect and the no-application rule per canada.ca, About the Canada Disability Benefit program and How much you could receive; the September 17, 2026 payment date per the Service Canada benefits payment dates calendar; the exemption from Alberta's deduction per the DIA Policy Manual, Pension Income — all confirmed September 2026)_`
       },
       {
         q: `I heard my child benefits will start counting toward my rent — is that true?`,

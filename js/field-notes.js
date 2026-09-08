@@ -16,6 +16,75 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Your rent could go up in January. The rule is already signed.",
+        date: "2026-09-07",
+        body: `This one is for anyone in social housing or community housing, especially if you have children. It hasn't been announced anywhere I can find, and if you go looking it up yourself you'll conclude nothing has happened.
+
+Something has happened.
+
+## HOW RENT WORKS NOW
+Rent in social housing is based on your income, roughly 30 percent of it. Income is defined by **line 15000** of your tax assessment.
+
+The Canada Child Benefit doesn't appear on line 15000. Neither does the Alberta Child and Family Benefit. That's why they've never counted toward your rent.
+
+## WHAT CHANGED
+On June 29, 2026 the Minister of Assisted Living and Social Services signed **Ministerial Order 2026-018**. It was filed on July 9 as **Alberta Regulation 180/2026**. It comes into force **January 1, 2027**.
+
+It adds one new subsection to the Social Housing Accommodation Regulation. Here it is in full:
+
+"The Minister may include any income or any other amount received by a member of a household that is not included in line 15000 of the member's Notice of Assessment in the calculation of the total annual income of a household for the purposes of setting basic rent."
+
+That's it. That's the whole change.
+
+## WHAT IT MEANS IN PLAIN TERMS
+It doesn't mention child benefits. It doesn't need to. Child benefits are exactly what isn't on line 15000.
+
+Before this, the Minister could only take income **out** of the calculation. Now the Minister can add income **in**.
+
+## THREE THINGS THAT FOLLOW, AND THE SECOND IS THE IMPORTANT ONE
+**It's already law.** Signed, filed, done. The only thing still to come is the date.
+
+**Once it's in force, nothing further has to happen.** No new regulation. No notice. No consultation. No public step of any kind. From January 1 the Minister can decide to start counting child benefits, and the decision may leave no public trace at all.
+
+**It's broader than child benefits.** It says any income or any other amount not on line 15000. Child benefits are the obvious use. They aren't the limit of it.
+
+## WHY YOU CAN'T FIND IT
+If you look up the regulation online today, you'll see the old text with none of this in it. That's because a change doesn't appear in the consolidated version until it comes into force.
+
+So the version you can check says nothing has changed. It's out of date and won't catch up until January.
+
+That's how this nearly got past us. It was found in the Ministerial Orders register and the Gazette index, not in the regulation itself.
+
+## ROUGHLY WHAT IT COULD COST
+Rent is about 30 percent of household income, so as a rough guide, roughly **$30 more a month for every $100 counted**.
+
+If your child benefits are $500 a month, that's in the neighbourhood of $150 more in rent. I'm not going to do anyone's individual number, but that's the scale.
+
+## WHAT TO DO, AND YOU HAVE ABOUT SIXTEEN WEEKS
+If you're signing or renewing a lease this fall, ask your housing provider **in writing, before you sign**, what income will be counted from January 1, 2027 and what your rent would be under the new calculation. Get the number before you commit, not after.
+
+If you're already in a unit, ask the same question in writing now. An answer in writing is what you point at if the number changes later.
+
+And if you get an answer, tell us. Housing providers may not all know this is coming, and what they say will tell us how it's actually being applied.
+
+## ONE NARROW PIECE OF GOOD NEWS
+The new power is written for setting **basic rent only**. The older power reaches eligibility and prioritisation as well, and this one doesn't. Read literally, that means income added under this rule raises your rent but shouldn't affect whether you qualify for housing at all.
+
+That's my reading of the words and it hasn't been tested against how they apply it. Worth knowing, not worth relying on.
+
+## TWO OTHER THINGS IN THE SAME INSTRUMENT, BOTH ALSO STARTING JANUARY 1
+The exempt asset list is rewritten. First home savings accounts, pension funds, RDSPs, RESPs, RRIFs, RRSPs and TFSAs.
+
+And lodge rates get a new calculation with a minimum monthly disposable income amount of $375, indexed annually from January 1, 2027 by the Alberta escalator. Management bodies have to be charging the minimum basic lodge rate by January 1, 2028.
+
+## WHERE THIS CAME FROM
+Ministerial Order 2026-018, Alberta Regulation 180/2026, on the King's Printer Ministerial Orders register, and confirmed in the Alberta Gazette Part II cumulative index of August 17, 2026.
+
+You can read it yourself. That's always the point.
+
+Sixteen weeks. Ask before you sign.`
+      },
+      {
         title: "The $150 federal supplement is not deducted. Here is where it says so.",
         date: "2026-09-03",
         body: `Short version first, because a lot of people have been asking and bracing for the answer.
@@ -536,7 +605,7 @@ You do not have to do anything today. It does not start until your first income 
 
 What I would do is this. If you are in community housing or on the Rent Assistance Benefit and you have children at home, work out roughly what your child benefits come to in a year, and know that number. When your review letter arrives, you will be able to tell straight away whether what they have used matches.
 
-I will keep watching this one and I will post again closer to the date.`
+**Update, September 7.** We have now found and read the instrument. It is Ministerial Order 2026-018, filed as Alberta Regulation 180/2026, in force January 1, 2027 \u2014 and it is wider than described here: it lets the Minister count any income not on line 15000 of your Notice of Assessment, without naming any benefit at all. The full breakdown is in the note "Your rent could go up in January. The rule is already signed."`
       },
       {
         title: "If you applied for AISH before July, here is how your application is being handled",
