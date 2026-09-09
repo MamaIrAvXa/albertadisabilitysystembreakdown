@@ -9,6 +9,100 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-08",
+  title: "Where Things Stand \u2014 September 8, 2026",
+  body: `Four things tonight. One of them is the hardest thing I've found in this regulation, and I want to put it first.
+
+## 1. IF YOU'RE IN A HOSPITAL BED AND THEY DECIDE YOU REFUSED TO MOVE, YOUR CHEQUE DROPS TO $373
+I'm going to say this plainly because there's no soft way to say it.
+
+There's a rule in the regulation that covers people who are in a hospital bed they're not being charged for. If someone at the program decides you refused to transfer to a continuing care home, or refused to be discharged home, your monthly living allowance drops from **$1,940 to $373 a month**.
+
+That's a cut of **$1,567**. It's a decision made on one person's opinion. And their own appeals regulation puts that decision on the list of things you cannot appeal.
+
+I looked for a definition of what counts as refusing. There isn't one. Not in the regulation, not in the policy manual. There's no test, no notice requirement, no process written down, and nothing saying anyone has to give you reasons.
+
+Think about who this touches. Someone in a hospital bed being told there's a placement available. Maybe it's in another town, away from everyone they know. Maybe it can't handle their needs. Maybe they're waiting for a different bed. Maybe they're frightened, which is a reasonable thing to be. None of that is written into the rule as a defence, because there's no test written into the rule at all.
+
+If you or someone you love is in hospital and being pushed to accept a placement, get every one of those conversations in writing, and talk to someone before you say no to anything. Reach out to us. This is one where I don't want anyone finding out afterward.
+
+## 2. THE $200 TRANSITION TOP-UP HAS A TRAPDOOR IN IT
+If you were moved from AISH to ADAP in July, the $200 a month transition benefit is what's keeping your payment where it was until **December 31, 2027**.
+
+Here's what nobody has told you. If you come off ADAP for any reason and get back on later, you don't get that $200 back. Not reduced. **Gone.**
+
+It's written into the regulation and repeated in the policy manual in plain words. Anyone who becomes ineligible after July 2, 2026 and is later found eligible again doesn't get the transition benefit.
+
+Sit with what that means alongside the earnings rules. ADAP is sold to you as the program where you can work. But if working income ever tips you off the program, even briefly, and you come back, you come back at $1,740 instead of $1,940. Permanently, and more than a year before anyone else drops.
+
+So if you're on ADAP and something is about to change that might make you ineligible for a while, a job, a settlement, a reporting problem, ask about the transition benefit before you do anything else. Ask in writing.
+
+## 3. THE $100 ENERGY REBATE, AND A DEADLINE 22 DAYS OUT
+Good news first. If you were on AISH, ADAP or Income Support before July 1, you're enrolled automatically. No form, no application. And Alberta's own page says the rebates are non-taxable and will not affect other government benefits. I've been careful about that claim for weeks because no Alberta source said it. Now one does.
+
+The part that matters. If you came onto AISH, ADAP or Income Support **after July 1, 2026**, you are not enrolled. You have to apply yourself, through the portal, and it closes **September 30**.
+
+To apply you need a verified Alberta.ca account, your SIN, and your 2025 taxes filed. Which is a lot to put in front of someone who joined the program eight weeks ago.
+
+If that's you, or you know someone new to the program, an Alberta Supports centre will let you use a computer and help you through it. Don't leave it to the last week.
+
+## 4. THERE'S A GOVERNMENT FACT SHEET LISTING WHAT YOU CAN CLAIM, AND ALMOST NOBODY KNOWS IT EXISTS
+It's called the **AISH and ADAP Financial Benefits Summary**, dated July 2, 2026, and it's two pages. It's buried at the bottom of the ADAP page on alberta.ca. I'd never followed the link until today.
+
+It's the clearest single list I've found of what you can actually ask for. Medical equipment up to $2,351. Medical supplies up to $473 a month. Power wheelchair or scooter maintenance up to $802 a year. Manual wheelchair maintenance up to $519. Service animal $63 a month. Specialised clothing up to $354 a year. Private vehicle travel at 37 cents a kilometre. Prenatal needs $117 a month from 14 weeks. Funeral benefit up to $4,601.08.
+
+Two things worth knowing from it. Employment and training supports are ADAP clients only, and they're capped at **$500 over a 12-month period**. Set that beside the government's talk about a quarter of a billion dollars for employment supports and ask which number a person actually sees.
+
+And one warning. The couples figures on that sheet don't quite reconcile with the regulation's own arithmetic. The sheet prints $1,708 and $1,532. The regulation says 88 percent, and 88 percent works out to $1,707.20 and $1,531.20. Eighty cents. It's small, and it also means that fact sheet doesn't match the rule it's summarising. I'm asking about it. Until I have an answer, don't budget off those two numbers.
+
+## 5. FEDERAL DISABILITY BENEFIT, CURRENT NUMBERS
+The maximum is **$204.20 a month** for July 2026 through June 2027. Last year's $200 is printed right beside it on the same page, so if someone tells you $200, they're reading the wrong row.
+
+The $150 supplement became legally live on September 1. Next payment date is **Thursday September 17**, and I'll be watching whether the $150 lands with it.
+
+Working income exempted before it affects your federal benefit went up to **$10,210** for a single person, **$14,294** for a couple.
+
+One caution. Ottawa's own online estimator is still running last year's numbers, and says so in bold at the top of its own page. Don't trust what it tells you.
+
+And one sad detail that someone will need. Supplemental payments aren't payable for anyone who died before September 2026. An estate doesn't receive the $150.
+
+## A CORRECTION
+I've been saying the Fall Sitting starts Monday October 26. It starts **Tuesday October 27**.
+
+I worked that out from the rule about the last Monday in October instead of opening the Assembly's own calendar. When I opened it tonight, the first sitting day is the 27th, with the Order Paper already posted. Sitting days after that are October 28 and 29, then November 2 to 5, 16 to 19, and 23 to 26.
+
+It's one day and it changes nothing about anyone's money. But if you were planning a gallery visit or timing a letter to the first day, you'd have been a day early, and that's my error to own.
+
+## STILL WAITING
+The DTC medical assessment being repayable, and whether Ottawa's $150 goes toward that debt or stays with you. I asked. I have not been answered. I'm not going to guess at it, so I'll keep saying that until someone tells me.
+
+Today was the last day CRA accepts old versions of the T2201. Bottom left corner, year in brackets, 23 or higher.
+
+## DATES
+**Tuesday the 15th.** Alberta Gazette.
+
+**Thursday the 17th.** September CDB payment.
+
+**Thursday the 24th.** October AISH, ADAP and Income Support payment.
+
+**Friday the 25th.** Last day to request a mail-in referendum ballot.
+
+**Saturday the 26th.** FCSSAA resolution deadline. Aim earlier: a council has to endorse it first, and agendas close about a week before a meeting.
+
+**Wednesday the 30th.** Energy rebate applications close, and if you came onto the program after July 1 that one is yours.
+
+**Monday October 19.** The referendum.
+
+**Tuesday October 27.** The Legislature returns.
+
+**January 1.** The housing rule, and all the rates re-index.
+
+If any of tonight applies to you, reach out to us. The hospital one especially.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-07",
   title: "Where Things Stand \u2014 September 7, 2026",
   body: `Four things tonight, and the first one is the one I want you to read twice.
