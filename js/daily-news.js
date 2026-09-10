@@ -9,6 +9,87 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-09",
+  title: "Where Things Stand \u2014 September 9, 2026",
+  body: `## THE RULES HAVEN'T CHANGED, AND HERE'S HOW YOU CAN CHECK THAT YOURSELF
+The regulation, **AR 96/2026**, still reads on the King's Printer site as current as of May 12, 2026, with no amendment. It hasn't been touched since it came into force on July 2. That line sits at the top of the page, and if the regulation hasn't been amended, nothing in it has changed.
+
+I re-opened the specific provisions anyway. The base amounts, the 88 percent rule for two people on the programs living together, the $373, the hospital transfer rule, the transition benefit and its two exclusions, how the federal disability benefit is counted, and the January 1, 2027 indexation start. All confirmed against the instrument today.
+
+Two things I'm leaving out on purpose.
+
+The earnings exemption amounts and the transition benefit amount sit in the policy manual, not the regulation. Today I could only check those against a copy saved on August 30, not the live manual. They almost certainly haven't moved. But "almost certainly" is not "I checked," so I'm not restating them tonight.
+
+And the earnings exemption amounts still have no legal instrument behind them at all. The regulation says a ministerial order sets them. That order has still not been published. Months on. I'm watching the Gazette on the 15th.
+
+## YOUR MAIL-IN BALLOT DEADLINE MOVED, AND IT MOVED EARLIER
+If you were planning to vote by mail, the last day to request a special ballot is **September 25**. It was October 9. Elections Alberta brought it forward two weeks on September 3, because requests passed 290,000, roughly four times the last provincial election.
+
+If you saw the October date, that date is gone.
+
+Completed packages have to be **received** by Elections Alberta in Edmonton by **5:00pm on October 16**. Received, not postmarked. They can't be handed in at a returning office.
+
+Two things I got wrong this morning and want to fix publicly. Elections Alberta says ballots will be accepted regardless of how they are folded, so don't worry about the fold lines. And if the declaration has outdated wording on it, you can cross it out.
+
+If you miss the mail deadline entirely, you can still vote in person. Advance voting runs **October 13 to 17**, and election day is **October 19**.
+
+## TWENTY ONE DAYS ON THE ENERGY REBATE
+If you were on AISH, ADAP or Income Support **before July 1**, you're enrolled automatically. Nothing to do.
+
+If you came onto one of those programs **after July 1**, you are not enrolled. You have to apply through the portal yourself, and it closes **September 30**.
+
+You need a verified Alberta.ca account, your SIN, and your 2025 taxes filed. If you've filed, you don't need the assessment back from CRA. If you haven't filed, that's the thing to sort first.
+
+The rebate line is **1-844-401-4014**. Alberta Supports will let you use a computer and help you through it.
+
+## HOUSING MONEY ANNOUNCED TODAY
+Alberta and Ottawa announced at least **1,460 affordable units across 21 projects**. Up to $220 million federally through Build Canada Homes, up to $165 million from Alberta, with a further $238 million expected from other sources, and a target of at least 500 homes built using off-site and factory methods.
+
+The projects include supportive and transitional housing, which is why it's in this update.
+
+Two things to sit beside each other, and I'm not telling you what to make of them.
+
+The minister who announced this is the same minister responsible for AISH and ADAP.
+
+And a building commitment measured in years does nothing for anyone signing a lease this autumn. If your housing is precarious right now, this is not the answer to that. Keep doing what you're doing.
+
+I'll be watching where those units land and whether people on disability income can get into them.
+
+## ALSO TODAY
+A ministerial statement for FASD Awareness Day. It's a statement, not a policy change, and nothing about anyone's benefits changes because of it.
+
+## ONE THING I'M STILL CHASING
+Whether the federal $150 goes toward the provincial cost of your disability tax credit assessment if Alberta fronted it, or stays with you. I asked. I have not been answered. Nothing I opened today touches it. I'll keep saying that until someone tells me.
+
+## DATES
+**Tuesday the 15th.** Alberta Gazette.
+
+**Thursday the 17th.** September CDB payment.
+
+**Thursday the 24th.** October AISH, ADAP and Income Support payment.
+
+**Friday the 25th.** Last day to request a mail-in referendum ballot.
+
+**Saturday the 26th.** FCSSAA resolution deadline. Aim earlier: a council has to endorse it first, and agendas close about a week before a meeting.
+
+**Wednesday the 30th.** Energy rebate applications close.
+
+**October 13 to 17.** Advance voting.
+
+**Friday October 16, 5:00pm.** Completed mail-in packages must be received in Edmonton.
+
+**Monday October 19.** The referendum.
+
+**Tuesday October 27.** The Legislature returns.
+
+**January 1.** The housing rule, and all the rates re-index.
+
+If you're waiting on me, I have you.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-08",
   title: "Where Things Stand \u2014 September 8, 2026",
   body: `Four things tonight. One of them is the hardest thing I've found in this regulation, and I want to put it first.
