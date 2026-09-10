@@ -338,6 +338,7 @@
       <a href="#legal-package">Legal Package</a>
       <a href="#testimonials">Testimonials</a>
       <a href="#rose-pin">Rose Pins</a>
+      <a href="#heat-transfers">Heat Transfers</a>
       <a href="#system">The System</a>
       <a href="#numbers">Numbers</a>
       <a href="#appeals">Appeals</a>
@@ -714,6 +715,104 @@
         })();
       </script>
     </div>
+
+    <!-- ───────────── HEAT TRANSFER ORDER ───────────── -->
+    <div id="heat-transfers" class="transfer-block">
+      <div class="rose-pin-inner">
+        <div class="rose-pin-text">
+          <p class="eyebrow">New — wear the message</p>
+          <h2>Heat transfers</h2>
+          <p class="section-intro">The same rose, the same words, sized to go on a t-shirt, a hoodie, a tote or a jacket. Iron it on and the message travels with you — to the appointment, to the grocery store, to the council meeting. Someone across a room will recognise it.</p>
+          <p class="transfer-price"><strong>$10 each, shipping included.</strong> 4.21&Prime; &times; 3.65&Prime;, full colour.</p>
+          <p class="transfer-honest">The rose pins are free and always will be. This one isn&rsquo;t, and I want to be straight with you about why: a transfer costs money to print and money to post, and I can&rsquo;t absorb that the way I can absorb ribbon and glue. If ten dollars is money you don&rsquo;t have, ask for a pin instead. It carries the same thing.</p>
+          <img class="rose-pin-photo" src="/assets/heat-transfer.png" alt="The Alberta Disability System Breakdown heat transfer: a pink ribbon rose with a tag reading Your story mattered, your life mattered, beside the words We fight for change. We remember. We speak. We carry you with us." width="900" height="900" loading="lazy">
+        </div>
+
+        <form
+          id="heat-transfer-form"
+          name="heat-transfer-order"
+          method="POST"
+          data-netlify="true"
+          netlify-honeypot="bot-field"
+          action="/transfer-thank-you.html"
+          class="rose-form"
+        >
+          <input type="hidden" name="form-name" value="heat-transfer-order">
+          <p class="rose-hp" aria-hidden="true" style="display:none;">
+            <label>Don't fill this out if you're human: <input name="bot-field" tabindex="-1" autocomplete="off"></label>
+          </p>
+
+          <label class="rose-field">
+            <span>Your name</span>
+            <input type="text" name="name" autocomplete="name" required>
+          </label>
+
+          <label class="rose-field">
+            <span>Email <small>(we need this one — it&rsquo;s how we confirm your order and your payment)</small></span>
+            <input type="email" name="email" autocomplete="email" required>
+          </label>
+
+          <label class="rose-field">
+            <span>Street address</span>
+            <input type="text" name="street-address" autocomplete="street-address" required>
+          </label>
+
+          <div class="rose-field-row">
+            <label class="rose-field">
+              <span>City / town</span>
+              <input type="text" name="city" autocomplete="address-level2" required>
+            </label>
+
+            <label class="rose-field">
+              <span>Province</span>
+              <input type="text" name="province" autocomplete="address-level1" value="Alberta" required>
+            </label>
+          </div>
+
+          <label class="rose-field">
+            <span>Postal code</span>
+            <input type="text" name="postal-code" autocomplete="postal-code" pattern="[A-Za-z][0-9][A-Za-z]\s?[0-9][A-Za-z][0-9]" title="Enter a Canadian postal code, like T8N 1L7" required>
+          </label>
+
+          <label class="rose-field">
+            <span>How many?</span>
+            <select name="quantity" required>
+              <option value="1">1 &mdash; $10</option>
+              <option value="2">2 &mdash; $20</option>
+              <option value="3">3 &mdash; $30</option>
+              <option value="4">4 &mdash; $40</option>
+              <option value="5">5 &mdash; $50</option>
+              <option value="6">6 &mdash; $60</option>
+              <option value="8">8 &mdash; $80</option>
+              <option value="10">10 &mdash; $100</option>
+            </select>
+          </label>
+
+          <p class="rose-note">Nothing is charged here. Send the order, and the next page tells you where to e-transfer. Your transfers go in the post once the payment lands.</p>
+
+          <button type="submit" class="btn btn-primary">Order my transfers</button>
+
+          <p class="rose-privacy">We use your address to post your order and your email to confirm it. We don&rsquo;t share either, sell either, or add you to anything.</p>
+        </form>
+        <script>
+          (function () {
+            var f = document.getElementById('heat-transfer-form');
+            if (!f) return;
+            f.addEventListener('submit', function (e) {
+              var req = f.querySelectorAll('[required]');
+              for (var i = 0; i < req.length; i++) {
+                if (!req[i].value || !req[i].value.trim()) {
+                  e.preventDefault();
+                  req[i].focus();
+                  if (typeof req[i].reportValidity === 'function') req[i].reportValidity();
+                  return false;
+                }
+              }
+            });
+          })();
+        </script>
+      </div>
+    </div>
   </div>
 </section>
 
@@ -742,9 +841,9 @@
         <p class="stat-source">Source: Alberta FSCD/PDD intake data, 2025</p>
       </article>
       <article class="stat">
-        <p class="stat-value">0</p>
-        <p class="stat-label">Independent appeal rights for AISH/ADAP eligibility decisions after Bill 12</p>
-        <p class="stat-source">Source: Bill 12, Government of Alberta, passed Dec 9, 2025</p>
+        <p class="stat-value">11</p>
+        <p class="stat-label">Decision types the appeal regulation shuts out &mdash; the move to ADAP itself, the AISH medical finding, and nine narrower ones, mostly about money already paid</p>
+        <p class="stat-source">Source: Applications and Appeals (Ministerial) Regulation, AR 89/2007, section 6, as amended by AR 87/2026, consolidated text current to July 2, 2026. Everything not on that list can still be appealed, in writing, within 30 days. Corrected September 7, 2026: this card previously read &ldquo;0 independent appeal rights,&rdquo; which was wrong and contradicted our own FAQ.</p>
       </article>
       <article class="stat">
         <p class="stat-value">$204.20</p>
@@ -790,7 +889,7 @@
       <article class="pillar">
         <p class="pillar-num">IV</p>
         <h3 class="pillar-title">Rights — Appeals &amp; Caseworkers</h3>
-        <p>Bill 12 removed independent appeal rights for eligibility decisions. Caseworker authority expanded. The Alberta Human Rights Commission is still available, but the front-line mechanism most disabled Albertans actually use is gone.</p>
+        <p>Bill 12 moved eligibility decisions to the Minister, where no appeal panel can reach them, and expanded caseworker authority. That is not the same as no appeals at all &mdash; a great deal is still appealable, including a benefit cut under section 15(4), and the deadline is 30 days. The Alberta Human Rights Commission is a separate route.</p>
         <a href="/pdfs/adsb-report-series/7_Caseworker_Appeal_Rights_HumanRights.pdf" class="pillar-link">Caseworker Appeal Rights Report →</a>
       </article>
     </div>
@@ -813,6 +912,7 @@
       <p class="section-eyebrow">Appeals</p>
       <h2 class="section-title">What Bill 12 actually changed.</h2>
       <p>Before December 9, 2025, an Albertan denied AISH could appeal to an independent body. Bill 12 removed that. Eligibility decisions for AISH and ADAP now sit with the Minister, with no independent reviewer between you and the program.</p>
+      <p>Read the next part carefully, because getting it wrong costs people their appeal. This does <strong>not</strong> mean there is no appeal. Eleven kinds of decision are shut out by the regulation; everything else can still be appealed, in writing, within <strong>30 days</strong>. If you are told a decision cannot be appealed, ask in writing which instrument makes it exempt, and keep the answer.</p>
       <p>The reports linked here document the change clause-by-clause, examine what's left of the appeal process, and lay out the Charter mobility-rights argument and the constitutional analysis.</p>
     </div>
     <ul class="link-list">

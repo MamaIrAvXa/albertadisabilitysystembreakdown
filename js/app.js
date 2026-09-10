@@ -507,6 +507,7 @@ const MINISTERIAL = [
 
 // ─── Data: Featured flyers (subset of /pdfs/flyers/posters/) ───
 const FLYERS = [
+  { label: "New \u2014 Heat Transfers, $10 Each, Shipping Included", img: "heat-transfers-2026-09.png" },
   { label: "If Your Payment Came In Short \u2014 Read This", img: "f49c5cc8-46cb-479c-944a-a9fa18de4f6e.png" },
   { label: "If Your Payment Came In Short \u2014 The Full Version", img: "1e565b94-ba42-4f65-8702-72a5bc0be3f9.png" },
   { label: "Somebody Else's File Arrived Instead Of Yours", img: "5cabdaf8-e2dc-45f1-8a1c-6f19a0eaa8b3.png" },
