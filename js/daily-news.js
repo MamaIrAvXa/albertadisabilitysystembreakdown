@@ -9,6 +9,119 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-10",
+  title: "Where Things Stand \u2014 September 10, 2026",
+  body: `Two things tonight. Money that is now confirmed, and voting, because my own ballot package arrived today and I went through every page of it.
+
+## THE $150 IS CONFIRMED FOR THE 17TH
+Ottawa put out a release today and it names the date. **Thursday September 17.** Same day as the September Canada Disability Benefit payment.
+
+I have been careful about this for two weeks. On the 2nd I told you the date was not confirmed. On the 8th I told you to plan for your normal payment and treat the $150 as a bonus whenever it turned up. It is confirmed now. You can count on it.
+
+That is **wave one only**. Wave one is anyone who received a Canada Disability Benefit payment between July 2025 and June 2026, including people who got it back then and are not receiving it now. Service Canada says a letter is going out to people receiving it.
+
+## IF YOU SEE "WINTER 2027" SOMEWHERE, WE ARE NOT CONTRADICTING EACH OTHER
+Today's release names two phases. September 17, then winter 2027 for everyone who became eligible since July 2026 or was approved for a new disability tax credit certificate.
+
+On September 4 I told you February 2027. That came from the analysis published alongside the regulation, which sets out three waves rather than two. September 2026, February 2027, then March 2027 onward. The release squashes the last two together and calls the result winter.
+
+I still think February is the right read. But the department has said winter, and I am not going to pretend a press release and a regulatory analysis are the same thing. If you are in wave two, plan for February and do not panic in January. I will tell you if it moves.
+
+## A SOURCE NOTE ON THE $150 AND ESTATES
+On the 8th I told you the $150 is not payable for someone who died before September 2026.
+
+That stands, and I want to tell you where it comes from, because I went looking for it tonight and nearly got it wrong.
+
+It is not in the regulation. It is on Service Canada's own page, under How much you could receive, in the supplemental payment section. A note at the end of that section says supplemental payments are not payable for individuals who died prior to September 2026.
+
+I am flagging where it lives because it matters. A rule that sits on a web page rather than in the regulation can change without anything being published in the Gazette. So it is the answer today and I will keep watching it.
+
+## IF YOU LIVE IN CALGARY-SHAW, READ THIS PART
+There is a by-election happening right now and it is separate from the referendum.
+
+Election day is **Monday, September 14**. Voting places open 9:00am to 8:00pm.
+
+Advance voting is running and the last day is **Saturday, September 12**.
+
+If you have a by-election special ballot sitting at home, it must be **received** by Elections Alberta by **5:00pm tomorrow, Friday September 11**. Not postmarked. Received. If it is still in your house tonight, the mail will not make it. You can still vote in person Saturday or Monday.
+
+Two sets of dates, two different packages. If you are not sure which riding you are in, the Where Do I Vote tool on the Elections Alberta site will tell you.
+
+## THE REFERENDUM BALLOT PACKAGE
+Mine came today. I have scanned the whole thing and blacked out my own details, so you can see exactly what arrives before it arrives.
+
+Different dates for this one, and there is no rush.
+
+Last day to request a mail-in ballot is **September 25**. It used to be October 9. It moved.
+
+Completed packages must be **received by 5:00pm on October 16**.
+
+## THE THINGS YOU WILL WORRY ABOUT WHEN YOU OPEN IT
+I worried about every one of these myself tonight, so here they are answered.
+
+**The fold.** The ballots are printed with two fold lines marked First Fold and Second Fold. The instruction sheet in the same envelope says to stack them and fold them in half. Two different instructions, and you will notice the moment you open it.
+
+It does not matter. Elections Alberta stated on September 3 that ballots will be accepted regardless of how they are folded.
+
+**The ink.** I could find no Alberta rule about colour. The standard across Canadian elections is that a ballot is not rejected for being marked with something other than a pencil. The only marking that causes a problem is one that could identify who you are. A name, initials, a written comment. An X in blue pen is fine.
+
+**The ID.** One piece of government photo ID with your full name and current physical address, or two pieces with your name on both and your current address on one. If your licence shows a mailing address rather than your physical one, you need the second piece.
+
+You do not need a birth certificate. I sent one, because the form offers two options and I could not tell which one I was in. Plenty of people will do the same and it causes no problem. But a birth certificate is the document identity theft is built from, and it does not need to be in the post if your licence already does the job.
+
+**The declaration.** Sign it and date it in ink. That is the most common reason a mail-in ballot gets set aside and it cannot be fixed once it has gone.
+
+**Outdated wording.** If the declaration has out of date wording on it, Elections Alberta has said you can cross it out.
+
+**Sealing.** Ballots go in the black envelope A. That sealed envelope, plus your signed declaration, plus your ID copies, all go in the purple return envelope B. Tape is fine. You do not have to lick anything.
+
+## ALSO PUBLISHED TODAY
+A guide to the AKG employment services assessment. What they ask, in their own words, from a member who sat through one and wrote it all down afterwards.
+
+The most important thing in it: naming your diagnosis is voluntary. In the assessment it came from, the client declined to name hers, the assessor recorded that she was medically diagnosed but had not given the official name, and it carried on.
+
+It is on the site under the September documents.
+
+## ONE HONEST NOTE
+No AISH or ADAP figures tonight. I spent today on the federal release, on ballots, on member files and on that guide, and I have not re-opened the provincial regulations since yesterday. Everything I confirmed Tuesday and Wednesday still stands as far as I know, and I would rather say that than restate numbers I did not check today.
+
+Back to the provincial work tomorrow.
+
+## DATES
+**Friday the 11th, 5:00pm.** Calgary-Shaw by-election special ballots must be received.
+
+**Saturday the 12th.** Last day of advance voting, Calgary-Shaw.
+
+**Monday the 14th.** Calgary-Shaw by-election day, 9:00am to 8:00pm.
+
+**Tuesday the 15th.** Alberta Gazette.
+
+**Thursday the 17th.** September CDB payment, and the $150.
+
+**Thursday the 24th.** October AISH, ADAP and Income Support payment.
+
+**Friday the 25th.** Last day to request a mail-in referendum ballot.
+
+**Saturday the 26th.** FCSSAA resolution deadline. Aim earlier: a council has to endorse it first.
+
+**Wednesday the 30th.** Energy rebate applications close.
+
+**October 13 to 17.** Referendum advance voting.
+
+**Friday October 16, 5:00pm.** Completed referendum packages must be received in Edmonton.
+
+**Monday October 19.** The referendum.
+
+**Tuesday October 27.** The Legislature returns.
+
+**January 1.** The housing rule, and all the rates re-index.
+
+If you are in Calgary-Shaw, Saturday or Monday. Everyone else, no rush, but do not let that envelope disappear under a pile.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-09",
   title: "Where Things Stand \u2014 September 9, 2026",
   body: `## THE RULES HAVEN'T CHANGED, AND HERE'S HOW YOU CAN CHECK THAT YOURSELF
