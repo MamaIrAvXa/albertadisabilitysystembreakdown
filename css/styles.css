@@ -1603,3 +1603,14 @@ section + section { border-top: 1px solid var(--line); }
   padding-left: 0.9rem;
   border-left: 3px solid rgba(212, 160, 23, 0.4);
 }
+
+.transfer-steps-link {
+  margin: 1rem 0 0;
+  text-align: center;
+}
+.transfer-steps-link a {
+  color: var(--gold-300);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
