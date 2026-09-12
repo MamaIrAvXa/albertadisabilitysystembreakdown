@@ -16,6 +16,78 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Some of your money is in the law. Some of it is a decision.",
+        date: "2026-09-11",
+        body: `I learned something this week that changed how I read everything, and I have written it up properly.
+
+Your living allowance, the $1,940 and the $1,740, is written into the regulation itself. Section 8. To change either of those, the government has to make an Order in Council, and Orders in Council get published. If it changed, you would be able to see it.
+
+**The $200 transition benefit is not in the regulation.**
+
+Neither is its December 2027 end date. Schedule 3 says a transition benefit **may** be provided, and that is all it says. No amount. No end date. Both of those come from the policy manual.
+
+And the regulation says at section 12 that the amount of a personal benefit is determined by the Minister, and that the Minister may determine how often it is provided.
+
+So the $200, and the date it stops, are ministerial decisions. They can be changed without an Order in Council and without anything appearing in the Gazette.
+
+The same is true of the $590 employment supports cap.
+
+## READ THIS PART CAREFULLY, BECAUSE I DO NOT WANT TO FRIGHTEN ANYBODY
+This is not a prediction. The $200 is real, it is being paid, and I have no information suggesting anyone intends to change it.
+
+What it means is that the protection sits in a different kind of place from the thing it is protecting. The money underneath moves visibly. The payment keeping transitioned clients whole can move quietly.
+
+So watch the policy manual, not only the Gazette. Those pages carry a version date and keep their older versions, which means you can see when one last changed.
+
+## TWO OTHER THINGS IN THE DOCUMENT
+**A withdrawal.** I told you not to budget from the couple rates of $1,708 and $1,532 because they looked like they conflicted with the 88 per cent in the regulation. There is no conflict. They are 88 per cent rounded up to the whole dollar under a written rounding policy, eighty cents a month in your favour. You can budget from them and I am sorry for the week of doubt.
+
+**And a month you may not have been told about.** The transition happened on July 2. The manual dates the transition benefit from August 2026. If you transitioned on the 2nd and expected the $200 in your July payment, check your statement and ask in writing.
+
+Every provision is quoted word for word so you can check it against the regulation yourself. The document is on the site under the September documents, as *Where the rules live*, and the shared source index is there with it.
+
+## IF THIS ONE LEFT YOU WORRIED
+Nothing here has changed your payment. If it has stirred something up anyway, **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
+        title: "How many people are on ADAP? Nobody can tell you.",
+        date: "2026-09-11",
+        body: `Here is a question anybody should be able to answer in two minutes.
+
+Alberta split its disability income assistance into two programmes on July 2. How many people are on AISH now, how many are on ADAP, and how many moved?
+
+**You cannot find out.**
+
+The AISH caseload dataset on Alberta's open data site was updated on September 3 of this year. The numbers in it stop at June 2026, the last full month before the split. It was refreshed two months after the transition and still stops before it.
+
+Search the same catalogue for ADAP and you get no matching datasets at all.
+
+So ten weeks after the change, there is no published figure for how many people are on either programme.
+
+The last baseline anyone has is June 2026. Eighty thousand, one hundred and seventy two people on AISH. Twelve thousand four hundred and sixty six of them with employment income, which is fifteen and a half per cent.
+
+And it is not the only gap.
+
+How much you may earn before it comes off your cheque is not set in the regulation. Schedule 1 section 4(2) says the Minister may set it by order. That order has never been published. The $350 and the $700 and the rest exist only in a policy manual.
+
+The amount and end date of the transition benefit are ministerial determinations rather than regulation. That is set out in the companion document.
+
+## THE PART I AM MOST PLEASED WITH
+The document ends with a four-step table telling you how to confirm every statement in it yourself. It takes about ten minutes.
+
+Search the open data catalogue for ADAP. Open the AISH caseload dataset and see where it stops. Open the regulation at Schedule 1 section 4(2). Open the manual page and use its version selector.
+
+Four steps. You will get exactly the same nothing I got.
+
+That is the whole point. Nobody has to take my word for any of this, and I would rather you did not. Go and look.
+
+Every source is listed with the date it was opened and what was taken from it.
+
+If you are a journalist, a councillor, or anybody who works with this file, this is the one to read first. It explains why every other argument about this programme has to be made from the edges.
+
+The document is on the site under the September documents, as *What the public cannot check*, with *Where the rules live* and the shared source index beside it.`
+      },
+      {
         title: "I asked seven questions in August. I got one answer yesterday. Today I sent back ten.",
         date: "2026-09-11",
         body: `On August 17 I wrote to Minister Neudorf about something that decides whether people keep their housing.
