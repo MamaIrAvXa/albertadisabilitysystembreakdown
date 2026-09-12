@@ -16,6 +16,58 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "I asked seven questions in August. I got one answer yesterday. Today I sent back ten.",
+        date: "2026-09-11",
+        body: `On August 17 I wrote to Minister Neudorf about something that decides whether people keep their housing.
+
+When your rent is paid straight to your landlord out of your benefit, and your file moves from AISH to ADAP, does that payment keep happening?
+
+The legislation says a director **may** continue those arrangements. Not must. May. For anyone whose rent reaches their landlord that way, the difference between may and must is the difference between housing that holds and housing that does not.
+
+An automated reply arrived the same minute. It thanked me, said the Minister appreciated my interest in engaging with his office, explained that meeting opportunities were being reviewed in alignment with ministry priorities, and then listed crisis phone numbers.
+
+The real response came today. Twenty-five days.
+
+It answers one of the seven. Financial Administrator arrangements in place before July 2026 stayed in effect through the transition. That is a real answer and I am glad to have it.
+
+The other six are not addressed.
+
+## BUT THE LETTER VOLUNTEERS SOMETHING I DID NOT ASK
+"A temporary system issue resulted in some payments being deposited directly to client bank accounts rather than issued to landlords. Clients were notified of this issue and advised to forward payments to landlords directly. The issue is now resolved."
+
+Three claims. That it happened. That you were told. That it is fixed.
+
+## AND THEN THERE IS THE PART I DID NOT SEE UNTIL I READ IT TWICE
+The Minister's letter explains that a Financial Administrator is appointed when someone lacks the capacity to manage their own money, and that one can be appointed **without consent** when a doctor has determined the person lacks that capacity.
+
+The very next paragraph says the money was put into those same people's bank accounts and they were told to forward it to their landlords themselves.
+
+Read those two paragraphs together.
+
+The department's reason for the arrangement is that the person cannot be relied upon to manage the money. The department's answer when it went wrong was to hand them the money and ask them to manage it.
+
+For some of these people there is a medical determination on file saying they cannot make financial decisions. They were expected to notice an unexpected deposit, work out it was not theirs, and send it to the right place. Many of them were never told it had happened.
+
+## SO I WROTE BACK THIS AFTERNOON
+Six questions reworded and shortened, in case the original wording was the problem. And four new ones, including the one that matters most:
+
+Where the money was not forwarded, and rent went unpaid, what is the department's position on the arrears, the late fees, the lost tenancies? Will the department make those people whole?
+
+The whole exchange is on the site under the September documents. All four emails, in order, unedited. Read it and see what you think.
+
+## AND I STILL NEED TWO THINGS FROM YOU
+Did anyone from the department tell you your payment had gone wrong, or did you find out yourself?
+
+Was it August only, or September as well?
+
+Tell us either way, even if nothing went wrong for you, because a count of only the people with problems tells us nothing.
+
+Whatever comes back, I will post it here the same way, whatever it says.
+
+## IF THIS ONE LANDED ON YOU
+If your rent went unpaid and you are dealing with arrears or a notice, you are not the only one and it was not your mistake. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
         title: "Your rent could go up in January. The rule is already signed.",
         date: "2026-09-07",
         body: `This one is for anyone in social housing or community housing, especially if you have children. It hasn't been announced anywhere I can find, and if you go looking it up yourself you'll conclude nothing has happened.
