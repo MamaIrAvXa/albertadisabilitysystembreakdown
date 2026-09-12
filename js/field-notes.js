@@ -1139,6 +1139,8 @@ So if you are a couple where both of you receive AISH or ADAP, look at your stat
 
 If everyone's says $1,708.00, then it is a rounding rule and we all learn how they set it. If they differ, that is a different conversation and we will have it with evidence in hand rather than guesses.
 
+**Update, 12 September 2026.** It is a rounding rule, and we have it in writing. The policy manual rounds each benefit up to the whole dollar, and states its own purpose: to ensure clients do not receive less than they are eligible to receive, while adhering as closely as possible to the legislated value of each benefit. $1,708.00 is $1,707.20 rounded up. The eighty cents is in your favour. Thank you to everyone who sent a figure.
+
 ## ONE OTHER THING ON THE SAME PAGE
 Her Canada Disability Benefit deduction shows as $93.08. Not $200.
 
@@ -1647,6 +1649,63 @@ I am telling you this because I do not want a single person reading that post an
     cat: "Corrections",
     blurb: "When we get something wrong, we say so out loud and fix it, in plain words. This is that record.",
     items: [
+      {
+        title: "Correction \u2014 employment and training supports cap is $590, not $500",
+        date: "2026-09-12",
+        body: `On 8 September I published that employment and training supports for ADAP clients are capped at $500 over a 12-month period. **The cap is $590.**
+
+The figure I gave was ninety dollars low, and it was wrong when published rather than out of date. The published rate history runs $511 from September 2019, $542 from January 2023, $566 from January 2024, $578 from January 2025 and $590 from January 2026. $500 appears nowhere in it.
+
+The benefit is ADAP clients only. The manual states plainly that AISH clients are not eligible for it.
+
+Source: Disability Income Assistance Policy Manual, Employment and Training Supports, page version 2 July 2026; AISH and ADAP Financial Benefits Summary effective 2 July 2026.`
+      },
+      {
+        title: "Correction \u2014 the fall sitting runs to 3 December, not 26 November",
+        date: "2026-09-12",
+        body: `I published the wrong end date for the fall sitting of the Legislature. It begins 27 October, which was right, and ends **3 December 2026**, not 26 November.
+
+Sitting days: 27, 28, 29 October; 2 to 5 November; 16 to 19 November; 23 to 26 November; 30 November to 3 December. Nineteen in total.
+
+Four sitting days were missing from what I published. No benefit figure is affected.
+
+Source: 2026 Sessional Calendar, Legislative Assembly of Alberta.`
+      },
+      {
+        title: "Withdrawn \u2014 you can budget from the couple rates of $1,708 and $1,532",
+        date: "2026-09-12",
+        body: `On 8 September I told members not to budget from the couple rates of $1,708 and $1,532, because they appeared to conflict with the 88 per cent set in the regulation. **That warning is withdrawn. You can budget from them.**
+
+88 per cent of $1,940 is $1,707.20 and 88 per cent of $1,740 is $1,531.20. The published figures are those amounts rounded up to the whole dollar, under a rounding policy that states its own purpose: "To ensure clients do not receive less than they are eligible to receive, while adhering as closely as possible to the legislated value of each benefit."
+
+The difference is eighty cents a month, in your favour.
+
+Source: AR 96/2026 s.8(4); Disability Income Assistance Policy Manual, Rounding Benefits and Living Allowance; AISH and ADAP Financial Benefits Summary.`
+      },
+      {
+        title: "Source note \u2014 the $150 and estates. Where that rule lives",
+        date: "2026-09-12",
+        body: `On 8 September I published that the $150 supplemental Canada Disability Benefit payment is not payable for a person who died before September 2026, and that an estate does not receive it.
+
+**That stands.** But I went looking for it in the regulation this week and it is not there, and I nearly published an apology for telling you something true.
+
+It is on Service Canada's own page, under How much you could receive, in the supplemental payment section. Not in the instrument. On a web page.
+
+I am recording where it lives because a rule that sits on a web page can change without anything appearing in the Canada Gazette. It is the answer today, and it is being watched.
+
+Source: canada.ca, Canada Disability Benefit, "How much you could receive," page last modified 19 August 2026.`
+      },
+      {
+        title: "Correction \u2014 the fold on your special ballot does not matter",
+        date: "2026-09-11",
+        body: `I told a member to fold her special ballot on the printed First Fold and Second Fold lines rather than in half. That was a guess and it was wrong.
+
+**Elections Alberta has stated that ballots will be accepted regardless of how they are folded.** They have also stated that if the declaration carries outdated wording, you may cross it out.
+
+The package does contain two different folding instructions, so you will notice the discrepancy when you open it. It does not affect whether your ballot counts.
+
+Source: Elections Alberta, statement of 3 September 2026.`
+      },
       {
         title: "Long term disability and your benefits: the rule nobody explains",
         date: "2026-08-16",
