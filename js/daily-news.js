@@ -9,6 +9,80 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-11",
+  title: "Where Things Stand \u2014 September 11, 2026",
+  body: `Short one tonight. Tea Time is tomorrow at 2 and it carries the week, so this is what is new.
+
+## THEY ASKED YOU WHAT YOU THOUGHT. THEY NEVER PUBLISHED THE ANSWERS.
+Before ADAP was built, Alberta ran a public engagement. An online survey from August 13 to September 14, 2025. Two telephone town halls in early September. Written submissions until September 12.
+
+A lot of you filled that survey in. Some of you told me so at the time.
+
+Go and look at the engagement page. Under the heading **Input received**, it says Albertans shared feedback through the survey and that results are **currently under review**.
+
+That page was last updated on **May 15, 2026**.
+
+The survey closed a year ago. The answers were still under review eight months later. The programme launched on July 2. It is now the middle of September and the results of that consultation have never been published.
+
+The page's own Outcomes section says only that ADAP will launch in July 2026. That is not an outcome of a consultation. That is a thing that was going to happen anyway.
+
+I am not going to tell you what it means. I am telling you what it is. You were asked what you thought, what you said has never been published, and the thing you were asked about went ahead on schedule.
+
+If you filled that survey in, you are entitled to know what happened to your answer. I am asking for the results in writing and I will publish whatever comes back.
+
+## THE DISABILITY TAX CREDIT CHANGE STILL HAS NOT PASSED, AND NOW I HAVE CHECKED IT PROPERLY
+There are law firm summaries and news articles saying Ottawa has streamlined the disability tax credit for people with certain long-lasting conditions. Some state it as done.
+
+It is not done. It was announced. It was costed at $345 million. It was never passed.
+
+Last week I told you that after reading the relevant part of the Act. This week I pulled the whole statute, all 1,177 lines of it, every division, and searched the entire thing.
+
+The word disability does not appear anywhere in that Act.
+
+So fill your form out exactly the way you would have last month. If anyone tells you the rules have changed, they are reading an announcement, not a law.
+
+## A CORRECTION ON THE CPP CHANGE
+Last week I told you the federal pension contribution reduction takes effect in 2027.
+
+2027 is the year on the rate. It is not the legal status. I read the Act properly this week and that division is not switched on yet. It needs an order from the Governor in Council, and that order has not been made.
+
+Alberta gave its consent on September 3. That was a step in the process, not the last one.
+
+So it is coming, probably, and it is not done. I should have checked before I said it.
+
+## THERE IS $5.5 MILLION IN NEW SKILLS GRANT MONEY AND YOU CANNOT APPLY FOR IT
+A skills grant was announced on Wednesday. I went and read the programme page.
+
+Grants run from $300,000 to $1.5 million each, so that money funds somewhere between four and eighteen projects.
+
+And individuals are **not eligible applicants**. Employers, industry associations, unions, post-secondary institutions, private career colleges and training providers can apply. A disabled Albertan cannot. An organisation would have to apply on your behalf, and nothing I read requires any of them to.
+
+Neither the announcement nor the programme page mentions disability, accessibility, ADAP or DRES anywhere.
+
+One caution on that. The selection criteria sit in a separate applicant guidelines document I have not been able to open. Something about accessibility could be in it. What I can tell you is that nothing on either public page says a word about us.
+
+## TWO PAYMENT DATES
+**Thursday September 17**, the Canada Disability Benefit payment, and the $150 for anyone who received a CDB payment between July 2025 and June 2026.
+
+**Thursday September 24**, when your October AISH or ADAP payment is issued.
+
+## THE DEADLINES
+**Tuesday the 15th**, the Gazette. Still watching for the earnings order that has never been published.
+
+**Friday the 25th**, last day to request a mail-in ballot.
+
+**Saturday the 26th**, the FCSSAA resolution deadline. Aim for sooner, because it has to reach a council first and their agendas close about a week before a meeting.
+
+**Wednesday the 30th**, the energy rebate portal closes.
+
+Tea Time tomorrow at 2. Five corrections, the hospital transfer rule, and where your rules actually live.
+
+If you are waiting on me, I have you.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+},
+{
   date: "2026-09-10",
   title: "Where Things Stand \u2014 September 10, 2026",
   body: `Two things tonight. Money that is now confirmed, and voting, because my own ballot package arrived today and I went through every page of it.
