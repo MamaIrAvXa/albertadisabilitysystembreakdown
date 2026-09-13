@@ -9,6 +9,105 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-12",
+  title: "Where Things Stand \u2014 September 12, 2026",
+  body: `Three things tonight, and one of them is me correcting myself. Let's start with the useful one.
+
+## THE $150 IS NOT A ONE TIME PAYMENT
+I've been calling it one time all week. That's what the federal news release calls it in its opening line, so that's what I repeated.
+
+I read further down the same release tonight. Here's their own sentence:
+
+"Recipients will be eligible for a supplemental payment of $150 for each approved DTC certificate that qualifies them for the CDB."
+
+For each certificate. Not once.
+
+I checked it against two more federal pages and they both say the same thing. Each approved DTC certificate.
+
+And the release goes further. When it lists who gets paid in the winter wave, it names two groups. People who became eligible since July 2026, and people who were approved for a new DTC certificate. That second one means re-certification. That means being reassessed.
+
+So think about what that means for us here, specifically.
+
+If you're on ADAP and you're trying to get back onto AISH, you have to be assessed again. If that assessment gets your DTC re-certified, it looks like another $150 should be coming to you in the winter wave.
+
+Here's the part I don't know, and I'm not going to pretend I do.
+
+Last night I told you that if AISH or ADAP paid for your doctor's form, you're required to pay that back when the federal money lands. That's still true and it's still on their own page.
+
+What I don't know is whether that repayment repeats too. If the federal side pays per certificate, does the provincial side collect per certificate? Nobody has published an answer. I couldn't find one. That's my next written question.
+
+So for right now:
+
+If you get reassessed, another $150 may be coming to you.
+
+Keep every piece of paper about what your assessment cost and who paid for it.
+
+If you get a repayment letter, tell us. I want to know what amount they're asking for.
+
+## I GOT SOMETHING WRONG LAST NIGHT
+I told you the King's Printer publishes ministerial orders for two ministries, Advanced Education and Labour, and that the ministry running AISH and ADAP isn't one of them, so the order was never going to turn up.
+
+I read the top of that page and stopped reading.
+
+There's a second list further down the same page. It says additional listings for ministerial orders are available through Open Government, and then it names eight ministries. Assisted Living and Social Services is on that list.
+
+So the door exists. I told you it didn't. That's mine and I'm fixing it here where I said it.
+
+What's still true is the part that matters most. The order still isn't there. Not in the King's Printer register, not in the Open Government listing. And Alberta's own page says departments can request to have their orders published, which means publishing it is optional.
+
+So this is a ministry that publishes orders. This particular order just hasn't been published.
+
+And the strongest thing I told you last night held up completely.
+
+Their own policy manual names a ministerial order 22 times. It names the order behind the repair rate for a power wheelchair. It cites the exact clause saying the Minister sets your earnings exemptions by order. Then it prints the table and names no order at all.
+
+It cites the clause and not the instrument. That's still the biggest authority gap in this whole file.
+
+## THE HOME MODIFICATION GRANT WENT UP AND I MISSED IT
+This one is money some of you can get.
+
+RAMP, the Residential Access Modification Program, pays for permanent accessibility work. Ramps, stair lifts, wider doorways, bathroom changes.
+
+It used to cap at $7,500 a year. As of August 21 it's **$12,000 a year**, and up to **$24,000 over ten years**.
+
+Two things almost nobody gets told about it:
+
+**Renters qualify.** You don't have to own your home. You need your landlord to sign a property modification agreement.
+
+**It can pay for changes to a caregiver's home**, not just your own.
+
+You'll need an occupational therapist or similar professional to fill out a recommendation form. Decisions come within 30 days.
+
+One thing to know about who qualifies. Eligibility keys on using a wheelchair, or being 65 and over using a four wheel walker, or living with one of a list of progressive neurological conditions. If your condition isn't on that list, don't assume you're out. Ask your specialist to document how you meet the criteria.
+
+And here's the number I want you to sit with. That program reaches roughly 800 Albertans a year.
+
+## DATES TO KNOW
+**Thursday September 17**, five days away. The $150 federal supplement, paid with your regular CDB payment. No application. If you got any CDB payment between July 2025 and June 2026, it's coming.
+
+**Thursday September 24**, twelve days away. Your regular AISH, ADAP or Income Support payment.
+
+**Wednesday September 30**, eighteen days away. The energy rebate deadline. You need your 2025 taxes filed. If you're an adult living with your parents or a roommate and you're not married or common law, you count as your own household and you apply separately.
+
+Watch out for scam texts about that rebate. Don't apply through a link in a text message. That warning is on the government's own page.
+
+**Thursday October 1**, nineteen days away. The Adult Health Benefit year resets and renewals go out. A new part of the health insurance act also comes into force that day, changing who pays first when you have more than one kind of coverage. I don't yet know whether it touches AISH or Adult Health Benefit coverage at all. I'm watching it.
+
+## ONE YEAR ON MONDAY
+Monday September 14 is one year since the ADAP engagement survey closed.
+
+One year. Thousands of people filled it out. The program has been in force since July 2.
+
+They've still never published what people told them.
+
+I'm asking again in writing this week.
+
+That's where things stand.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-11",
   title: "Where Things Stand \u2014 September 11, 2026",
   body: `Short one tonight. Tea Time is tomorrow at 2 and it carries the week, so this is what is new.
