@@ -16,6 +16,82 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Where the $200 CDB deduction came from, and what to do if they took too much",
+        date: "2026-09-12",
+        doc: "/pdfs/fillable/Fillable_CDB_Deduction_Correction_Letter_v2_July2026.pdf",
+        body: `Two people asked me the same question this week with different numbers, so I went and found the rule. It's on Alberta's own website and I want you to see the wording.
+
+## WHAT THE PAGE SAYS
+From alberta.ca, on the page about applying for federal disability supports:
+
+"If a decision on an AISH or ADAP client's CDB application has not been made by February 28, 2026, $200 in CDB income was reduced from their AISH or ADAP benefits starting with their April 2026 benefits."
+
+Read that again slowly.
+
+They deducted $200 of Canada Disability Benefit income from people who had **no decision yet**. Which means people who weren't getting any CDB money at all.
+
+It didn't matter whether you'd applied and were waiting. It didn't matter that the federal government was backlogged. If there was no decision by February 28, the $200 came off starting in April.
+
+## WHY YOUR NUMBERS MIGHT NOT MATCH
+The federal maximum is $204.20 a month. But the CDB is income-tested, so a lot of people get less than the maximum. Some get quite a bit less.
+
+Alberta deducted a flat $200.
+
+So if your actual CDB works out to $97, or $150, or nothing at all, and they took $200 a month anyway, you have been short every single month since April.
+
+One person told me they're owed about $97 a month. Another said they're short $165.53 a month since April. Neither of them made a mistake. That's the rule doing what it was set up to do.
+
+## DO THIS
+Get these two things in front of you.
+
+Your letter or statement from Service Canada showing what your **actual** monthly CDB payment is. The real amount, not the maximum.
+
+Your AISH or ADAP statement showing what they deducted.
+
+If those two numbers don't match, you're owed money.
+
+## THE PART THAT MATTERS MOST
+There's a form on that same Alberta page where you tell them the outcome of your CDB application.
+
+**You have to tell them.** As far as I can see, nothing happens automatically.
+
+So if you were approved for less than $200, or you were denied, or you're still waiting, and you haven't reported it, the deduction may still be running.
+
+I've asked the Minister in writing whether the money comes back automatically or only if you ask. I don't have an answer yet. Until I do, assume you have to ask.
+
+## FORMS TO SEND
+Both of these are in the Take Action section of this site, and both work on a phone.
+
+**The CDB Deduction Correction Letter.** Linked at the bottom of this note.
+
+**The CDB Underpayment Repayment Request.** Same section, directly below it.
+
+Fill them out. Keep copies. Write down the date you sent them and who you sent them to.
+
+## IF YOU'RE GETTING A LUMP SUM
+Some people are getting a back payment from Service Canada for past months. Two things about that.
+
+It's yours. It's federal money for months that already went by.
+
+And watch that AISH doesn't count the whole lump sum as income in the month it arrives and deduct against it a second time. They already deducted for those months. If that happens, tell us.
+
+## WHAT WE NEED FROM YOU
+If you can, send three things. No need to include anything with your name on it.
+
+What Service Canada says your actual monthly CDB is.
+
+What your AISH or ADAP statement shows as the deduction.
+
+What month the deduction started.
+
+If enough of us compare those numbers, this stops being a handful of people with a complaint and becomes something that can be put in front of the department with evidence behind it.
+
+You're not bad at math. The deduction and the payment were never the same number.
+
+## IF YOU NEED SOMEONE TO TALK TO
+If you're in crisis or you just need to talk to someone, please reach out. **988** for the Suicide Crisis Helpline, call or text, any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour.`
+      },
+      {
         title: "Some of your money is in the law. Some of it is a decision.",
         date: "2026-09-11",
         body: `I learned something this week that changed how I read everything, and I have written it up properly.
