@@ -1614,3 +1614,20 @@ section + section { border-top: 1px solid var(--line); }
   text-decoration: underline;
   text-underline-offset: 3px;
 }
+
+
+/* ── Subscribe strip now sits directly under the header ───────────────── */
+.subscribe-strip {
+  border-top: 0;
+  border-bottom: 1px solid rgba(212, 160, 23, 0.35);
+}
+.subscribe-strip .wrap { padding-top: 1rem; padding-bottom: 1rem; }
+
+/* Nav: five top-level items now open menus, so give them room to breathe
+   and stop the row wrapping or running off the right edge. */
+@media (min-width: 981px) {
+  .primary-nav { flex-wrap: nowrap; column-gap: 0.55rem; }
+  .primary-nav a,
+  .nav-group-btn { white-space: nowrap; }
+  .nav-menu { min-width: 12rem; }
+}
