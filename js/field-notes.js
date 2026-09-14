@@ -16,6 +16,100 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Roommates, AISH, and the rule everyone is quoting wrong",
+        date: "2026-09-14",
+        body: `There is a post going around about roommates and the Adult Interdependent Relationships Act. It quotes the three year rule. It is being shared widely and people are relying on it.
+
+The rule is real. The quote is accurate. And it is the wrong section for AISH.
+
+I want to explain the difference carefully, because someone is going to write to their worker saying "we have not lived together three years" and think they are protected, and they are not.
+
+## THE TWO DIFFERENT TERMS
+Section 3 of the Act defines an **adult interdependent partner**. That is where the three years, the child, and the signed agreement live. If you have heard about the three year rule, this is it, and it is correctly quoted.
+
+But AISH does not ask whether you have an adult interdependent partner.
+
+The regulation asks whether you have a **cohabiting partner**. Different term. Different definition.
+
+AR 96/2026, section 1(2)(a), says a cohabiting partner is someone you reside with who is your spouse, or with whom you have a child, or with whom you have a relationship of interdependence as defined in the Act.
+
+And a relationship of interdependence is defined at section 1(1)(f). It has no three year requirement. No agreement requirement. No child requirement.
+
+Those all belong to section 3, which is about a different status entirely.
+
+So someone who writes in saying they have no agreement, no child, and under three years together is answering a question the department never asked. They can be right about all three facts and still be assessed as having a cohabiting partner.
+
+## THE TEST THAT ACTUALLY APPLIES
+A relationship of interdependence means two people who:
+
+share one another's lives,
+
+are emotionally committed to one another,
+
+and function as an economic and domestic unit.
+
+**All three have to be true.** If any one of them fails, there is no relationship of interdependence, no matter how long the lease has run.
+
+Here is why that is better news than the three year rule, not worse.
+
+Ordinary roommates fail the emotional commitment limb outright. Two people splitting rent who do not share a life together fail the first limb. Three years of living beside somebody you are not emotionally committed to does not create a relationship of interdependence.
+
+The three year rule was never your protection. These three limbs are.
+
+## THE NINE CIRCUMSTANCES
+Section 1(2) of the Act says that when deciding whether two people function as an economic and domestic unit, **all the circumstances** of the relationship must be taken into account. It then lists nine things that may be relevant, including whether there is a conjugal relationship, how exclusive it is, household habits and living arrangements, whether the two hold themselves out to others as a unit, financial dependence or interdependence, and the ownership and use of property.
+
+Read those first words again. All the circumstances must be taken into account.
+
+A conclusion drawn from one shared grocery bill, or one shared lease, or one shared utility account is not the weighing the Act requires. That is worth quoting back to anyone who tells you otherwise.
+
+## THE PROVISION NOBODY EVER QUOTES
+This one matters and almost nobody knows it is there.
+
+**Section 4(2):** a relationship of interdependence does not exist where one person provides the other with domestic support and personal care for a fee or other consideration, or on behalf of another person or organisation, including a government.
+
+A paid caregiver. A support worker. A respite worker. An aide.
+
+That is not a weighing exercise and it is not a factor to be considered. The Act says the relationship **does not exist**.
+
+If the person you live with is paid to care for you, by you or by anybody else, the statute excludes it.
+
+## ONE THING TO BE CAREFUL ABOUT
+The second branch of the AISH definition also captures people who are financially interdependent but not living together. Moving out does not by itself end the question.
+
+And there is a duty to report. Marital or partner relationship status is on the list of changes a client must report.
+
+So the answer to a worker's question has to be the truth about your real circumstances, not a formula you were given somewhere else. A statement of facts protects you. A recited script does not.
+
+## WHAT TO DO IF THIS IS HAPPENING TO YOU
+Ask for the decision **in writing**, with a finding on each of the three limbs. Not over the phone.
+
+**Watch the 30 day clock.** A cohabiting partner determination is a director's decision and it is not on the exempt list, so it can be appealed. Thirty days from the day you receive the notice. The form is the Notice of Appeal, AAS13358, to the Appeals Secretariat.
+
+Write down who said what, and when. Every time.
+
+Ask which test was applied. If a worker cites the three year rule at you, that is section 3, and it is not the test the regulation uses.
+
+## ABOUT SUING, AND ABOUT A CLASS ACTION
+People are asking about both. I am not going to guess in public about something people might rely on.
+
+The Act does have a false allegation provision at section 9, but it turns on the word "knowing," which is a high bar. Applying the wrong section looks like error, and error is not what that provision addresses.
+
+Whether a class action is possible is a question for a lawyer who practises in this area. Not me.
+
+What I can tell you is that both questions need the same thing: the decision in writing, what test was applied, dates, amounts, how long, and enough separate accounts to show a pattern rather than one bad day.
+
+So if this is happening to you, send it in. Even if nothing legal ever comes of it, a documented pattern is how a directive gets rewritten and how the next person does not get told the same wrong thing.
+
+## THE SHORT VERSION
+The three year rule is real, and it is not your protection on AISH.
+
+Your protections are the three limbs, the exclusion for paid and government funded care, the requirement that all the circumstances be weighed, and the thirty day appeal.
+
+## IF THIS ONE IS ABOUT YOU RIGHT NOW
+Being told your household is something it is not, with your income attached to the answer, is a frightening thing to be handed. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
         title: "Everything that went up, sorted by what you are dealing with",
         date: "2026-09-12",
         body: `Twenty four documents are now on the site. Most were built this week.
