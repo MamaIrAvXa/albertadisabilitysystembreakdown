@@ -9,6 +9,103 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-13",
+  title: "Where Things Stand \u2014 September 13, 2026",
+  body: `Long day. Three letters went to the Minister, two of them about things that are costing people money right now. Here is all of it.
+
+## THE $200 CDB DEDUCTION, AND WHERE IT CAME FROM
+I found the rule on Alberta's own website today. Here is their wording:
+
+"If a decision on an AISH or ADAP client's CDB application has not been made by February 28, 2026, $200 in CDB income was reduced from their AISH or ADAP benefits starting with their April 2026 benefits."
+
+They deducted $200 of Canada Disability Benefit income from people who had **no decision yet**. People who were not receiving a cent of it.
+
+It did not matter whether you had applied and were waiting. It did not matter that the federal system was backlogged. No decision by February 28 meant $200 off starting in April.
+
+The federal maximum is $204.20 and the benefit is income tested, so plenty of people get less. Alberta took a flat $200. If your real amount is $97, or $150, or nothing at all, you have been short every month since April.
+
+I wrote to Minister Neudorf today and asked four things. What instrument authorises deducting income a person is not receiving. Whether the money comes back automatically or only when you ask. How many people had it applied. And where someone was later approved for less, or denied, what happens to the difference.
+
+There is a field note on this with the two forms to send, under the title "Where the $200 CDB deduction came from."
+
+There is also a new letter up today, the **Stop The Deduction Letter**, in Take Action, for anyone whose application is still active or came back for less than $200.
+
+## THE WRONG AISH MEDICAL FORM IS STILL ON A GOVERNMENT WEBSITE
+There is an old AISH only medical report still sitting on aish.alberta.ca. The current form is **DS2444B, revision July 2026**, and it covers both AISH and ADAP together.
+
+Someone searching for the AISH medical form finds the old one first, because it is on a page with the program's name on it. They print it, book an appointment, and pay their doctor to fill in a form that is not the current one.
+
+A doctor's fee is not small money on our budgets, and if the department advanced that cost you are required to pay it back.
+
+I archived the page and wrote to the Minister today asking for it to be taken down or redirected, and asking that anyone who submitted the old form since July 2 be contacted instead of having their application returned as incomplete.
+
+## GOVERNMENT FORMS THAT WILL NOT OPEN ON A PHONE
+I downloaded eight Income Support and disability forms from alberta.ca today. Seven of them would not open. They return a notice saying you have to save the file, open it in Adobe Acrobat Reader, and then this line:
+
+"Please note that this form will not work on a mobile device."
+
+That is the government's own sentence, on the government's own forms, linked from the government's own application page.
+
+For a lot of us a phone is the only device there is. No desktop, no printer, no Acrobat.
+
+So people go looking elsewhere and end up on commercial document websites, typing their social insurance number, their health number and their children's health numbers into a private company's website. I found one of our forms on one of those sites today, a version behind the current one.
+
+This is going to Marie Renaud's office as well as the Minister, because it is an accessibility problem before it is anything else.
+
+In the meantime I rebuilt two of them so they open and fill on a phone. They are in Take Action, and there is a field note listing everything that went up.
+
+## WHAT WE FOUND ABOUT ACCESSIBLE HOUSING
+We mapped every housing management body in Alberta. **Seventy of them**, covering about 281 communities.
+
+There is no public list of them anywhere, including inside government. The page that should hold it returns a 404, and none of the seventy appear in the public agency register. The list we built did not exist before this week.
+
+Alberta's Find Housing tool will not tell you who holds your town's waitlist until you fill in a questionnaire keyed to your street address.
+
+Of the seventy bodies, **three** publish any count of their accessible units. **Sixty seven publish none.** The two that publish a ratio are Calgary Housing Company at 1.41 per cent and Grande Spirit Foundation in the Peace region at 1.21 per cent. Opposite ends of the province, roughly one unit in eighty either way.
+
+Six bodies publish no phone number and no email address at all.
+
+New housing guides went up today. They are listed in the field note.
+
+## ONE CORRECTION
+In the Red Deer guide and its companion I wrote that turning down an unsafe unit protects your place on the list if you give a reason. That was not complete.
+
+Civida in Edmonton publishes that a **second** refusal without reasonable cause means your application is cancelled and you reapply six months later.
+
+So the reason is not a formality. It is the difference between a refusal that costs you nothing and a second one that costs you half a year. Put your reason in writing the same day, every time, and ask them to confirm it is recorded as reasonable cause.
+
+Both documents have been updated.
+
+## DATES TO KNOW
+**Tuesday the 15th**, the Gazette.
+
+**Thursday the 17th**, four days away. The $150 federal supplement, paid with your regular CDB payment. No application.
+
+**Thursday the 24th**, eleven days away. Your regular AISH, ADAP or Income Support payment.
+
+**Friday the 25th**, twelve days away. Last day to request a referendum ballot package.
+
+**Wednesday the 30th**, seventeen days away. Energy rebate applications close. You need your 2025 taxes filed. Adults at the same address who are not married or common law apply separately. Watch for scam texts and do not apply through a link in a text.
+
+**Thursday October 1st**, eighteen days away. Adult Health Benefit year resets and renewals go out.
+
+**October 16th**, completed referendum packages must be received by 5pm. **October 19th** is election day.
+
+**October 27th**, the fall sitting begins.
+
+## AND ONE THING ABOUT THE $150
+I said this last night and it is worth repeating because nobody is being told.
+
+The $150 federal supplement is **not a one time payment**. The federal government's own rules say it is paid for each approved Disability Tax Credit certificate. If you get re certified, there should be another one coming in the winter wave.
+
+If you are being reassessed, keep every piece of paper about what it cost and who paid for it.
+
+That is where things stand.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-12",
   title: "Where Things Stand \u2014 September 12, 2026",
   body: `Three things tonight, and one of them is me correcting myself. Let's start with the useful one.

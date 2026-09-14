@@ -16,6 +16,84 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Everything that went up, sorted by what you are dealing with",
+        date: "2026-09-12",
+        body: `Twenty four documents are now on the site. Most were built this week.
+
+I am not going to list them at you. Find your situation below and go to that bit.
+
+Everything is free. Everything is free to print, free to share, free to post anywhere you like.
+
+## THEY TOOK $200 OFF YOUR CHEQUE AND YOU WERE NOT GETTING THE FEDERAL BENEFIT
+**Stop The Deduction Letter.** New today. For when Alberta deducted the flat $200 while your federal application had no decision, or came back for less than $200, or was denied. Tells them the application is still active and asks them to stop taking it and pay back what they took. Plain language guide bound in.
+
+**CDB Underpayment Repayment Request.** Updated. For the months already gone. Cites the rule that the director must repay an underpayment for the entire period, and asks for the calculation in writing.
+
+Send both. They do different jobs.
+
+**Underpayment Notice.** Updated. Broader version, for when any payment arrives short or does not arrive at all, not just the CDB.
+
+## YOU ARE LOOKING FOR HOUSING, OR YOU ARE ABOUT TO LOSE IT
+**Finding Accessible Housing in Red Deer.** New. What exists, who holds each list, and how to be on more than one at a time. Carries the province wide finding that 67 of Alberta's 70 housing bodies publish no accessible unit count at all.
+
+**Before You Go, Applying at Red Deer Housing Authority.** New. What to bring, and the one document almost everybody arrives without. The counter is open two mornings a week, so arriving short one paper costs you a fortnight.
+
+**The Housing Worksheet.** New. Not an application and it cannot be sent as one. It is what you fill in first, at your own table, with your papers around you. Eleven sections covering everything Alberta's housing bodies ask for. The reason it exists: Civida gives you 48 hours to produce every document once an offer arrives.
+
+**Two Roads.** New. Staying in your own home with home care, or moving into a continuing care home. Both start with the same phone call to 811. What each one gives you and what each one costs.
+
+**What $373 Has To Buy.** New. If you go into continuing care, the province sets what you pay and sets what you keep. This is the list of what that $373 still has to cover.
+
+## SOMEBODY WILL NOT TALK TO YOUR ADVOCATE, YOUR FAMILY OR YOUR MLA
+**Consent To Release Information, AAS13391.** New, and this one unlocks a lot of others. Without it, Alberta Supports will not discuss your file with anyone. People find that out at the worst moment.
+
+The government's own version has to be opened in Adobe Acrobat and their file says it will not work on a mobile device. Ours opens and fills on a phone. Every question from their form, same order, nothing added, nothing removed, with a plain language guide to each section.
+
+**Disability Advocacy Consent Form.** Updated. Authorises an advocate to act for you. You decide what it covers and you can withdraw it any time.
+
+## YOUR HEALTH CARD GOT QUESTIONED AT A DESK
+**Your Health Card and Your Coverage.** Updated. Cards changed on July 2 and a lot of people are still holding older paper ones. Three things are settled: your health number is yours for life, what can lapse is your registration, and emergency care is never refused.
+
+What to say at a desk, what not to do, what to write down before you leave, and two fill in letters.
+
+## YOU ARE HEADING INTO AN APPEAL OR AN ASSESSMENT
+**What They Ask, the AKG employment services assessment.** Every question as it was asked, from one member's written record. The finding that matters most: naming your diagnosis is voluntary.
+
+**Who Hears Your ADAP Medical Appeal.** Who currently sits on the Medical Appeal Panel. Fifteen members, all appointed July 2. You are entitled to know who is deciding.
+
+**MLA Letter, Episodic Disability.** Updated, letter only version. For the trap where the regulation requires you to report reduced employment and then makes that same fact a ground to cut your benefit. ADAP only.
+
+**Request to Record a Medical Appointment.** Updated. A consent based request to record your own appointment, built on the College of Physicians and Surgeons of Alberta's own guidance.
+
+## SOMEBODY IS BEING PUT IN CHARGE OF YOUR MONEY
+**The Financial Administrator Power.** A director can appoint someone to administer your benefit without your consent. If it was imposed without consent, it ends when a director decides, not when you do. What to ask for in writing the moment you are told this is happening.
+
+## YOU WANT TO KNOW WHERE THE RULES COME FROM
+**Where The Rules Live.** Which of your money is in law and which is a decision of the Minister, using the regulation's own words. Only one of those has to be published when it changes.
+
+**What The Public Cannot Check.** Ten weeks after the split there is still no published figure for how many people are on AISH, how many are on ADAP, or how many moved.
+
+**Source Index.** Every source behind both, so you can check the lot yourself.
+
+**The Rule That Raises Your Rent Is Now Law.** Found and dated in the Gazette. In force January 1, 2027.
+
+**Third Party Payment Continuity.** Seven questions to the Minister on August 17. One was answered, twenty five days later. The whole exchange, reproduced without alteration.
+
+## THE REFERENDUM
+**The Referendum Special Ballot Package, Every Page, Redacted.** All 36 pages of what arrives in the mail, with one member's details blacked out, so you know what is in the envelope before you open it.
+
+Requests close September 25. Completed packages must be received by 5pm October 16.
+
+## AND ONE THAT IS NOT ABOUT ANY OF THIS
+**How To Apply Your Heat Transfer.** One page, for anyone who ordered one and has never used one. You do not need a heat press. A household iron works.
+
+The second press is the step people skip and it is the one that makes it last.
+
+Everything above is in the Documents section, and the fill-in forms are in Take Action.
+
+If you cannot find what you need, ask us. If the thing you need does not exist yet, tell us and I will build it.`
+      },
+      {
         title: "Where the $200 CDB deduction came from, and what to do if they took too much",
         date: "2026-09-12",
         doc: "/pdfs/fillable/Fillable_CDB_Deduction_Correction_Letter_v2_July2026.pdf",
