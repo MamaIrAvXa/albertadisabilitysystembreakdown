@@ -16,6 +16,72 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "The federal government named Alberta",
+        date: "2026-09-14",
+        body: `We finished the work on this today. Every province and territory, read at the source, from each government's own regulation, policy manual or ministerial release.
+
+Here is what it says, and here is the wording I am going to use from now on, because it is the wording that holds up.
+
+## WHAT OTTAWA PUT IN WRITING
+In a note prepared for the federal Minister of Jobs and Families, received 17 November 2025, Employment and Social Development Canada wrote this:
+
+"Alberta: We are disappointed that the Government of Alberta has decided to claw back the Canada Disability Benefit from their social assistance benefits, including under its Assured Income for the Severely Handicapped (AISH) program."
+
+Alberta is the only jurisdiction named that way in that note.
+
+That is not me saying it. That is the federal government, in writing, in a document prepared for its own minister. It is a Question Period note, reference EF_017_20260105, and it is on the federal open government registry where anyone can pull it.
+
+The same note says Ottawa has called on provinces and territories to exempt the benefit from counting as income.
+
+## WHAT THE COUNT ACTUALLY IS
+Alberta is the only jurisdiction in Canada whose **own regulation** names the Canada Disability Benefit as income.
+
+Seven other provinces exempt it, and each one was confirmed from that province's own regulation, policy manual or ministerial release. British Columbia. Saskatchewan. Manitoba. Ontario. Quebec. New Brunswick. Newfoundland and Labrador.
+
+Five jurisdictions could not be established either way. Nova Scotia, Prince Edward Island, Yukon, Northwest Territories and Nunavut.
+
+And this part matters. None of those five says it counts the benefit. They are silent, not opposed.
+
+So the count is one jurisdiction counting it, seven exempting it, and five unknown.
+
+I am not going to say Alberta is the only province in Canada that claws it back, because five are unchecked and that word would be claiming something about all thirteen. What I will say is the sentence above, because every part of it is carried by a document somebody can open.
+
+## WHERE ALBERTA WROTE IT DOWN
+This is not a policy sitting in a manual somewhere. It is in the regulation.
+
+**AR 96/2026, Schedule 1, section 6(1)(e)** includes in income "a Canada disability benefit." Sections 7(1) and 7(2) do the rest.
+
+In force July 2, 2026.
+
+## THE ONE EXCEPTION
+Section 7(2) exempts the benefit in one situation only. When the program is working out your eligibility for, and the amount of, a **modified living allowance**.
+
+The modified living allowance is the benefit for someone living in a facility.
+
+So if you live in a facility, the Canada Disability Benefit is not counted against that particular calculation. For everyone else on AISH and ADAP, it counts as income.
+
+I am telling you about the exception because it is narrow, somebody will find it, and I would rather you heard it from me than had it used to tell you the rest is wrong.
+
+## WHAT THIS MEANS IF YOU ARE THE ONE BEING DEDUCTED
+It means the money was designed to go to you and Alberta decided it goes to Alberta instead.
+
+Seven provinces made the other decision. The federal government asked all of them to. Alberta wrote the opposite into a regulation and it came into force on July 2.
+
+If your deduction does not match what you actually receive, that is a separate problem and it is fixable. The two forms are in Take Action, and there is a field note about it under the title "Where the $200 CDB deduction came from."
+
+If your deduction does match, there is nothing wrong with your file. The rule is the problem, and the rule is in a regulation that can be amended.
+
+## WHAT I AM ASKING FOR
+If you have a letter from AISH or ADAP that mentions the Canada Disability Benefit, send it in with your personal details blacked out.
+
+I want the wording they are using with people, because the regulation says one thing and I want to know whether the letters say the same.
+
+That is where things stand on this one.
+
+## IF YOU NEED SOMEONE TO TALK TO
+If you're in crisis or you just need to talk to someone, please reach out. **988** for the Suicide Crisis Helpline, call or text, any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour.`
+      },
+      {
         title: "Roommates, AISH, and the rule everyone is quoting wrong",
         date: "2026-09-14",
         body: `There is a post going around about roommates and the Adult Interdependent Relationships Act. It quotes the three year rule. It is being shared widely and people are relying on it.
