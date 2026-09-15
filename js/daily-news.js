@@ -9,6 +9,94 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-14",
+  title: "Where Things Stand \u2014 September 14, 2026",
+  body: `Tonight I have one correction to make, one promise to keep, and three things coming on January 1 that I haven't seen anyone talking about.
+
+Starting with Thursday, because Thursday is money.
+
+## THE $150 ARRIVES THURSDAY
+If you received any Canada Disability Benefit payment between July 2025 and June 2026, a payment of $150 arrives **September 17**. You don't apply. A letter is being sent.
+
+If you only became eligible after June 2026, or you were re-certified for the Disability Tax Credit, yours is not Thursday. Yours is Winter 2027. Two different payments to two different groups, and I know that's a hard thing to read if you're in the second one.
+
+You get $150 for **each** approved DTC certificate that qualifies you for the benefit.
+
+Alberta's own federal supports page still calls this an intention "by March 2027". It's three days away.
+
+One more thing about Thursday, and I'd rather you heard it from me first. If AISH or ADAP paid for your DTC medical assessment, Alberta's page says you repay that when the federal money comes in. It comes in Thursday. The $150 itself is not counted as income against your benefit. Both of those are true at the same time.
+
+And the first hard national numbers came out on September 10. Across Canada, **335,650** people have received the Canada Disability Benefit, totalling **$813,074,098**.
+
+## A CORRECTION, AND IT'S MINE
+Yesterday I told you I'd found something in the appeal rules I couldn't open yet, and that I wasn't going to tell you what it said until I could read it. I also guessed out loud that it was probably about benefit rates.
+
+I read it today, from the government's own law publisher. I was wrong. It has nothing to do with rates.
+
+I'm glad I told you it was a guess instead of handing you a guess dressed up as a fact. What it turned out to be is worse than what I guessed.
+
+## WHAT THAT RULE SAYS
+If you're in a hospital bed you aren't being charged for, and a director forms the opinion that you refused a transfer to a continuing care home, or refused to be discharged home, your living allowance drops to **$373 a month**.
+
+Not reduced. Dropped to $373.
+
+And that decision is on the list of things you are **not allowed to appeal**.
+
+The regulation says "in a director's opinion". There is no definition anywhere of what refusing means.
+
+## ELEVEN THINGS YOU CANNOT APPEAL
+The complete list is in the Applications and Appeals regulation, section 6, and it runs (a) through (k). Eleven decisions.
+
+Among them: whether you refused a transfer out of hospital. A decision to take collection action against you. A refusal to excuse you from repaying a benefit. A decision to take an underpayment you're owed and apply it to a debt instead of paying it to you. And a decision that your disability does not permanently prevent employment, unless the Minister has specifically opened that one up, which nobody has been able to confirm he has.
+
+That last one matters to anyone trying to get back to AISH.
+
+## THE SAME NUMBER, THREE TIMES
+$373 is the non-accommodation part of the modified living allowance for people in facilities.
+
+$373 is what your living allowance drops to if a director decides you refused a transfer.
+
+And $373, starting in January, is what a person living in a lodge has to be left with each month.
+
+One number, three places. Whatever the reason for that, it's the effect: Alberta has a single figure for what a person in care is left to live on, and it's $373 a month.
+
+## THREE HOUSING RULES SIGNED IN JUNE, IN FORCE JANUARY 1
+These were signed by the same minister who runs AISH and ADAP, filed in July, and published in the Alberta Gazette. They come into force **January 1, 2027**. That's 109 days.
+
+**There will be a floor under social housing rent.** Rent cannot be set below a prescribed minimum, and the two rules that used to allow reductions are now both subject to that floor. If your rent is currently reduced, that reduction may stop.
+
+**Community housing eligibility gets an asset cap.** Your household needs $25,000 or less in total assets.
+
+**And lodge residents must be left with the $373 a month** described above, with that figure adjusted every year starting in 2027 by something the regulation calls the Alberta escalator.
+
+None of this is in force yet. There are 109 days to be heard about it, and that's why I'm telling you now rather than in December.
+
+## WHAT THE REGULATION DOESN'T SAY
+Two things I can now tell you from the law itself rather than from a policy manual.
+
+First, the employment earnings exemption is **not in the regulation**. The regulation hands the amount to the Minister to set by order, and that order has never been published. So when you see $350 or $700 or $1,072 or $1,500 going around, none of those is law, and nobody outside the department can show you the document they come from. There are dollar figures in the regulation, but they apply to a different kind of income, and I'm not going to let those two get mixed up. I've asked for the order.
+
+Second, the transition benefit. The regulation creates it with no amount in it and no end date in it. The $200 and the December 31, 2027 date come from policy, not from law. That's the sentence worth holding onto: **what policy gives, policy can change**, and nobody has to amend a regulation to do it.
+
+## WHAT'S LOCKED IN AT LAW
+Some things I used to have to attribute to a manual I can now attribute to the regulation. AISH **$1,940** and ADAP **$1,740**. The child benefit amounts. The 88 per cent rule for two clients in one household, which applies to the living allowance only. The $100,000 asset exemption.
+
+If a worker tells you otherwise, you can now say "the regulation says," not "I read somewhere".
+
+## NEXT PAYMENT
+**Thursday, September 24.** That's the first provincial cheque after the federal supplement.
+
+## WHERE I AM
+I've written to Minister Neudorf four times in the last four days. The obsolete medical report still live on the AISH site. The $200 Canada Disability Benefit deduction and where its authority comes from. The accessible housing findings. And the research on what this whole transition costs, which found that the government costed three other changes on the same two pages of the budget and costed this one nowhere.
+
+Fifteen business days on each. That puts answers in the first week of October, three weeks before the Legislature sits again on **October 27**. That will be the first sitting since any of this took effect.
+
+I'll post what comes back. If nothing comes back, I'll post that too.
+
+## IF TONIGHT IS HEAVY
+If you're in crisis or you just need to talk to someone, please reach out. **988** for the Suicide Crisis Helpline, call or text, any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-13",
   title: "Where Things Stand \u2014 September 13, 2026",
   body: `Long day. Three letters went to the Minister, two of them about things that are costing people money right now. Here is all of it.
