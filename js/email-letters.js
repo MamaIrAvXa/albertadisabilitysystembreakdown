@@ -154,7 +154,7 @@ Date sent: [DATE]`
     toHint: "There are no office-specific inboxes. Send it to the zone that covers you: North and Edmonton <b>northzoneaish@gov.ab.ca</b> \u00b7 Calgary <b>calgaryaish@gov.ab.ca</b> \u00b7 Central <b>aish.centralregion@gov.ab.ca</b> \u00b7 South <b>southaish@gov.ab.ca</b> \u00b7 new applications <b>ApplyDIA@gov.ab.ca</b> (587-759-6810). Only these inboxes are monitored, so if you have written to an office address and had nothing back, check which address you used and resend. Not sure which zone? Ring Alberta Supports on <b>1-877-644-9992</b>, ask for the email address for written correspondence about your file, and ask them to email you while you are still on the line so you have it in writing. Always use the return address printed on any letter you have received.",
     ccHint: "The Minister is pre-filled. Add your own MLA too \u2014 find yours at contact.assembly.ab.ca.",
     subject: "Formal Notice \u2014 Barriers to Employment Participation and Request for Accommodation",
-    pdf: "/pdfs/aish-adap/fillable/Fillable_Employment_Barriers_Notice_July2026.pdf",
+    pdf: "/pdfs/fillable/Fillable_Employment_Barriers_Notice_July2026.pdf",
     note: "After you send it: screenshot the sent email showing date, time, subject line and address, and save any automatic reply \u2014 that is your proof of receipt. If you get no answer by the date you set, reply to your own sent email asking for an update, so the whole thread stays together. If your benefit is reduced or stopped over attendance before anyone has answered this notice, keep the dates and tell the campaign.",
     body:
 `Full legal name: [your full legal name]
@@ -938,7 +938,7 @@ Date sent: [DATE]`
     toHint: "Goes to the Minister of Assisted Living and Social Services (Nathan Neudorf).",
     ccHint: "Premier is pre-filled. Add your own MLA's email here too (find them at assembly.ab.ca).",
     subject: "AISH-to-ADAP: the questions your own fact sheet raises", // draft
-    pdf: "/pdfs/aish-adap/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Letter.pdf",
+    pdf: "/pdfs/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Letter.pdf",
     note: "Where it goes: Minister Neudorf, copied to Premier Danielle Smith and your own MLA. Keep your sent email as proof.",
     body:
 `Dear Minister Neudorf,
@@ -1001,7 +1001,7 @@ Sincerely,
     toHint: "Goes to the Minister of Assisted Living and Social Services (Nathan Neudorf).",
     ccHint: "Premier is pre-filled. Add your own MLA's email here too (find them at assembly.ab.ca).",
     subject: "AISH-to-ADAP: a caregiver's witness, on the record", // draft
-    pdf: "/pdfs/aish-adap/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Caregiver_Edition.pdf",
+    pdf: "/pdfs/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Caregiver_Edition.pdf",
     note: "For anyone who provides care, assistance, or advocacy to a person on AISH. Goes to Minister Neudorf, copied to the Premier and your MLA.",
     body:
 `Dear Minister Neudorf,
@@ -1056,7 +1056,7 @@ Sincerely,
     toHint: 'You add your MLA or MP here. <a href="https://www.assembly.ab.ca/members/members-of-the-legislative-assembly" target="_blank" rel="noopener">Find your MLA →</a>',
     ccHint: "Optional. You can also copy the Premier, the ADAP program (adap@gov.ab.ca), the Ombudsman, the Human Rights Commission, or the federal Disability Minister.",
     subject: "AISH-to-ADAP transition: a constituent asking for action", // draft
-    pdf: "/pdfs/aish-adap/fillable/Fillable_MLA_MP_Contact_Letter.pdf",
+    pdf: "/pdfs/fillable/Fillable_MLA_MP_Contact_Letter.pdf",
     note: "Recipient is your own MLA and/or MP. The PDF carries a full riding-by-riding email directory if you need to look yours up.",
     body:
 `Dear [MLA/MP Name],
@@ -1091,7 +1091,7 @@ Respectfully,
     toHint: 'You add your MLA here. <a href="https://www.assembly.ab.ca/members/members-of-the-legislative-assembly" target="_blank" rel="noopener">Find your MLA and their email →</a>',
     ccHint: "",
     subject: "AR 96/2026 s.15(4) — my disability flares, and this regulation penalises that",
-    pdf: "/pdfs/aish-adap/fillable/Fillable_MLA_Letter_s15-4_LetterOnly.pdf",
+    pdf: "/pdfs/fillable/Fillable_MLA_Letter_s15-4_LetterOnly.pdf",
     note: "For your own MLA. If you're not sure who that is, the find-your-MLA link above looks them up by your address.",
     body:
 `Dear [your MLA's name],
