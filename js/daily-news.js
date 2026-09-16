@@ -9,6 +9,95 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-15",
+  title: "Where Things Stand \u2014 September 15, 2026",
+  body: `Tonight I found the number that governs almost everything else, and it took thirteen runs to get to it. It is one sentence in a tax statute and almost nobody has read it.
+
+## THE RAISE YOU GET IS CAPPED AT 2 PER CENT
+When AISH and ADAP go up each year, the amount they go up by is called the **Alberta escalator**. That word appears all over the disability regulations and the housing ones. It is never explained in any of them, because the definition lives somewhere else entirely, in the **Alberta Personal Income Tax Act at section 44.2**.
+
+Here is what it says.
+
+The escalator is **the lesser of 2 per cent and inflation**.
+
+Not inflation. The lesser of the two. So in a year where the cost of living rises 4 per cent, your benefit rises 2 per cent, by law, and you fall behind by the difference. That is not a decision anyone has to make. It happens automatically.
+
+And there is a second part. If the government prescribes a different percentage before January 1, that number is used instead. The only limit written into the statute is that it cannot be negative. So it can be set below 2 per cent. **It could be set at zero.**
+
+## WHAT RUNS ON THAT NUMBER
+I checked each of these tonight against the regulation.
+
+The AISH living allowance. The ADAP living allowance. The 88 per cent rate for two clients in one household. The $373 amount I told you about yesterday. The non-accommodation portion for people in facilities. The child benefits. The $1,200 partner income deduction. The lodge disposable income amount starting in January. And the learner part of Income Support.
+
+I want to be careful on that last one, because my first draft of this said Income Support generally and that was wrong. It is the learner stream only. The amounts for people in the expected-to-work and barriers-to-full-employment streams are set by regulation with no indexation rule in the Act at all. That is arguably a worse position, not a better one, and it is a different thing so I am saying it separately.
+
+## THE FIRST CAPPED INCREASE IS JANUARY 1, 2027
+That is 108 days away. The regulation sets the first adjustment at January 1 of the year after the section came into force, and it came into force on July 2.
+
+So that is the date to watch. It is the same date the three housing regulations come into force.
+
+## AND NOW THE PART ABOUT WORKING
+This one has been sitting in the government's own policy manual the whole time and I only found it tonight.
+
+On AISH you can earn **$350** a month. Above that, the manual says amounts earned in excess of the threshold are **not exempt** for AISH clients. Not reduced. Not tapered. Not exempt. Every dollar over $350 comes off your benefit.
+
+On ADAP you can earn **$700** a month, and above that the manual says ADAP clients receive progressively increasing exemptions, running up to an annual ceiling of **$45,240**.
+
+$1,100 if you have dependants. $1,500 if you have a cohabiting partner. Same progressive treatment.
+
+Read those two side by side. The program for people whose disability **permanently prevents** employment gives you a hard stop at $350. The program for people whose disability **substantially impedes** employment lets you keep earning past $700 with a taper.
+
+That difference is the engine of this whole transition, and it is in a policy manual rather than in the law.
+
+## ONE MORE THING ABOUT PARTNERS
+If you and a partner both work, your exemption is yours and cannot be shared.
+
+The manual gives the government's own worked example. An AISH client earning $200 a month with a partner earning $1,800. The client's $200 is fully exempt. $1,500 of the partner's is exempt. The remaining $300 goes through the reduction.
+
+The client used $200 of a $350 allowance. The unused $150 cannot be passed to the partner. It is simply lost.
+
+## WHAT I TOLD YOU YESTERDAY, CONFIRMED
+Yesterday I told you that if a director forms the opinion that you refused a transfer out of hospital, your living allowance drops to $373 and you cannot appeal it. I had that from the regulation.
+
+Tonight I found it in the policy manual, in plain English, and it is worse to read than the regulation was.
+
+The manual says clients residing in an approved hospital who are not being charged to stay there, and who refuse to transfer to a continuing care home or to be discharged to the community, will have their monthly living allowance reduced to $373 per month. And then it says a decision by the Director determining that the client is refusing to transfer or be discharged is **not appealable**.
+
+Not appealable. Their words, in the document workers use.
+
+So if this is ever raised with you, that is the sentence to quote back, and it is plainer than anything in the regulation.
+
+## STILL NOT PUBLISHED
+The document that sets how much you are allowed to earn has still not appeared.
+
+The regulation hands that number to the Minister to set by order. Today's Alberta Gazette carried three new regulations, about bees, administrative penalties and traffic safety, and no ministerial order of any kind. So it is not coming out through the Gazette.
+
+Meanwhile Alberta's own ADAP page tells people their payments have changed because of the new earnings rules.
+
+The rules changed. The document setting them has never been published. Both of those are true at once and I am going to keep saying it until one of them stops being true.
+
+## THIS WEEK
+**Thursday, September 17.** The $150 federal payment, for anyone who received any Canada Disability Benefit payment between July 2025 and June 2026. Automatic, with a letter coming.
+
+**Thursday, September 24.** The provincial payment.
+
+**Wednesday, September 30.** Energy rebate applications close.
+
+**October 27.** The Legislature sits for the first time since any of this took effect.
+
+**January 1, 2027.** The first capped increase, and the three housing regulations.
+
+## ONE LAST THING, AND IT IS ABOUT HOW I WORK
+Tonight's research had four errors in its first pass, and I found all four before any of it reached you. One of them was in a line I was ready to post. I said the escalator governs Income Support, and it governs the learner part of it.
+
+Nothing that went out to you was wrong. But I check my own work before I hand it to you, and sometimes that check catches something. I would rather tell you that happens than have you think it never does.
+
+The full backgrounder, with every section number, is going up in the Documents section.
+
+## IF TONIGHT IS HEAVY
+If you're in crisis or you just need to talk to someone, please reach out. **988** for the Suicide Crisis Helpline, call or text, any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-14",
   title: "Where Things Stand \u2014 September 14, 2026",
   body: `Tonight I have one correction to make, one promise to keep, and three things coming on January 1 that I haven't seen anyone talking about.

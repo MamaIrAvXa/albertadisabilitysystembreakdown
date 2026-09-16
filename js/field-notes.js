@@ -16,6 +16,69 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "What to do if they say you owe them money",
+        date: "2026-09-15",
+        body: `I spent today reading the overpayment and debt rules right through. The Act, the regulation, and the department's own policy manual. Here is what matters, and some of it is time-sensitive, so I am putting it up before anybody needs it rather than after.
+
+## YOU HAVE 30 DAYS, AND THE CLOCK STARTS WHEN YOU RECEIVE THE NOTICE
+Thirty days from the day the notice reaches you to appeal. **Not from the date on the letter.** If you miss it, the Minister can extend the time, but only if there are apparent grounds and a reasonable explanation for the delay.
+
+## WHEN THE 30 DAYS RUN OUT, MORE THAN THE APPEAL DIES
+This is the part almost nobody knows. A director can forgive an overpayment, but only while it is **not yet a debt due**. Once the 30 days expire without an appeal, it becomes a debt due, and the power to forgive it is gone.
+
+So the 30 days are not only about arguing. They are the whole window in which mercy is still legally possible.
+
+## SIGNING AN AGREEMENT DOES THE SAME THING, IMMEDIATELY
+Signing a repayment agreement makes the amount a debt due right away. Same effect as letting the 30 days run out, just faster. Before you sign, forgiveness is possible. After you sign, it isn't.
+
+And if you are offered the chance to start paying before an overpayment has been formally assessed, that is a waiver. The department's own policy says staff must make a reasonable effort to ensure you know you are giving up your rights under the notice process. There is a form for it.
+
+**Do not sign anything the day it is put in front of you.** Take it home. Read it. Nothing bad happens because you took two days.
+
+## HOW MUCH CAN THEY TAKE
+The regulation sets **no cap at all**. It says an amount determined by the director.
+
+The only published number is in the policy manual, and it is this: where a lump sum is owed back, the amount may be recovered at a rate up to the full living allowance minus one dollar a month.
+
+Against the published rates, that is **$1,939 on AISH and $1,739 on ADAP, in a single month**.
+
+You can ask for the rate to be adjusted, and the manual says hardship reductions may be made. But that decision, and the decision to collect at all, are both on the list of things you cannot appeal.
+
+## ONE LINE FROM THEIR OWN POLICY YOU SHOULD READ TWICE
+Forgiveness is only considered if neither you nor your representative is responsible for creating the overpayment. And the policy lists what counts as being responsible. The last item is this:
+
+"The client did not inquire or seek clarification on why they received a higher benefit than what they were expecting."
+
+Not noticing your cheque was too big counts against you. So does noticing and not asking.
+
+Which means: if a payment arrives and it is more than you expected, ask about it in writing, that week. Keep the email. That one habit protects you.
+
+## WHAT YOU CAN AND CANNOT APPEAL
+You **can** appeal whether you owe it. That is the big one and it is the one to use.
+
+You **cannot** appeal the refusal to forgive it, the decision to collect, how much comes off each month, or the decision to take an underpayment you are owed and put it against a debt instead of paying it to you.
+
+## WHAT A NOTICE HAS TO CONTAIN
+Their own policy says the notice must include the amount, the dates it covers, the reason, how it was calculated, the amount owing, and your right to appeal.
+
+A notice that gives you a number with no calculation is short of their own published standard. Ask for the calculation in writing.
+
+## THREE PIECES OF BETTER NEWS
+There is **no interest**. Nothing in the Act or the regulation provides for it.
+
+The two-year rule runs from when they **discovered** the overpayment, not from when it happened. That cuts both ways, so know which one you are dealing with.
+
+And if the Minister grants you a late appeal after the deadline has passed, the amount stops being a debt due and goes back to being merely repayable. The door reopens.
+
+## WHAT I WOULD DO IF A NOTICE ARRIVES
+Write the date you received it on the envelope. Read what it says the calculation is. If there isn't one, ask for it in writing. Do not sign anything that week. Put the 30-day date on your calendar the same day. And tell us, because you will not be the only one.
+
+The full findings document, with every section number, is going up in the Documents section.
+
+## IF YOU NEED SOMEONE TO TALK TO
+If you're in crisis or you just need to talk to someone, please reach out. **988** for the Suicide Crisis Helpline, call or text, any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
         title: "The federal government named Alberta",
         date: "2026-09-14",
         body: `We finished the work on this today. Every province and territory, read at the source, from each government's own regulation, policy manual or ministerial release.
