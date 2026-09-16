@@ -14,6 +14,100 @@
    ─────────────────────────────────────────────────────────────── */
 const EMAIL_LETTERS = [
   {
+    id: "five-unpublished-standards",
+    title: "Five figures that decide what you get, and that you are not allowed to read",
+    blurb: "Across three programs \u2014 AISH, ADAP and Income Support \u2014 five figures decide what a person may earn, what they keep, what they pay in rent, whether they qualify for housing, and whether they get assistance at all. Each is created by a published provision and given its content somewhere that is not published. The earnings exemption amounts, delegated to a ministerial order that has never appeared. The progressive deduction rate above the exemption, described on alberta.ca as starting at less than a cent per dollar and increasing significantly, which is a description and not a rate. The minimum basic rent prescribed in Schedule B, in force 1 January 2027, which ends rent reductions by an amount nobody can find. The household income limit that defines core housing need. And a job search rate used to refuse Income Support that appears nowhere in the Act, the regulation or the manual. The letter asks four questions and offers to publish a correction if any of the five turns out to be published somewhere.",
+    to: "alss.minister@gov.ab.ca",
+    toHint: "Goes to the Minister of Assisted Living and Social Services. Send it whole or keep only the items that touch your own situation \u2014 the four questions at the end work with any number of them.",
+    cc: "St.Albert@assembly.ab.ca",
+    ccHint: "Copied to Marie Renaud as Official Opposition critic for the ministry. Also copy <b>your own</b> MLA \u2014 find yours at <b>contact.assembly.ab.ca</b>. A constituency office can only act for its own constituents, so your own MLA is the one who can chase a file for you.",
+    subject: "Five figures that determine what an Albertan receives, and that the person affected cannot read",
+    note: "The research behind this letter is published on this site, so the letter points at it rather than claiming you did the searching. If item five is your situation \u2014 refused Income Support for not applying to enough jobs \u2014 fill in the bracketed part; if it is not, delete that paragraph and the rest still stands. The last paragraph offers to publish a correction if any figure turns out to be available somewhere. That is deliberate, and it is worth keeping: a letter that can be corrected is harder to dismiss than one that cannot. If a reply comes back, send it to us.",
+    body: `Minister,
+
+I am writing about a pattern rather than a single provision.
+
+Across three programs your ministry administers, there are five figures that determine what a person receives, is allowed to keep, or must do to remain eligible. Each is set by ministerial order, by prescription, or by a standard applied at the counter. None of the five is published anywhere the person affected by it can read.
+
+They are set out below with the provision that creates each one. The search behind them is published in full at albertadisabilitysystembreakdown.netlify.app, and I would ask that the department answer them rather than the person who compiled them.
+
+ONE. THE EMPLOYMENT EARNINGS EXEMPTION AMOUNTS
+
+AR 96/2026, Schedule 1, section 4(2), delegates the earnings exemption amounts to an order made by the Minister. Section 4(3) provides that those amounts rise with the minimum wage.
+
+No such order has been published. The Alberta Gazette does not carry it. The department's own ADAP page tells clients their payments have changed because of the new earnings rules, while the instrument setting those rules is not available to them.
+
+So a client can be told their payment changed, can be given a figure by a worker, and has no document to check it against.
+
+TWO. THE PROGRESSIVE DEDUCTION RATE ABOVE THE EXEMPTION
+
+Alberta.ca publishes the ADAP single exemption as $700 a month and an annual ceiling of $45,240, and describes what happens in between as a deduction starting with less than a cent per dollar and increasing significantly.
+
+That is a description, not a rate. A person earning above the exemption cannot calculate what they will be left with, because the taper itself has never been published.
+
+THREE. THE MINIMUM BASIC RENT IN SOCIAL HOUSING
+
+AR 180/2026, in force 1 January 2027, inserts a new section 6(5) into the Social Housing Accommodation Regulation providing that basic rent charged to a household must not be below the minimum basic rent prescribed in Schedule B. The existing power to reduce rent, and the single-occupancy reduction of up to fifty dollars, are both made subject to it.
+
+The prescribed amount has not been located. A tenant whose rent reduction will end on 1 January cannot find out by how much.
+
+FOUR. THE HOUSEHOLD INCOME LIMIT FOR CORE HOUSING NEED
+
+The same regulation inserts a new section 8(1) defining core housing need as more than 30 per cent of total annual income spent on accommodation, and total annual income below a household income limit prescribed by the Minister for the location.
+
+That limit is not in the regulation and has not been located in published form. An applicant cannot determine whether they are eligible.
+
+FIVE. A JOB SEARCH RATE IN INCOME SUPPORT
+
+[KEEP THIS SECTION ONLY IF IT APPLIES TO YOU. If it does not, delete from here to the end of this section.]
+
+On [DATE] I applied for Income Support and was refused under section 15(1) of the Income and Employment Supports Act. I had made [NUMBER] job applications in [NUMBER] days. I was told the expectation is [WHAT YOU WERE TOLD, for example two to five job applications per day].
+
+No such rate appears in the Act, in the Income Support, Training and Health Benefits Regulation AR 122/2011, or in the June 2026 Income and Employment Supports Manual. What the manual says of applicants is one sentence: applicants who are eligible and able to work are to be actively seeking employment.
+
+Where the manual does measure job search, the wording is "actively seeking employment according to their Individual Plan." An Individual Plan is made with a worker after acceptance. An applicant does not have one.
+
+WHAT THESE FIVE HAVE IN COMMON
+
+Each figure decides something material: what a person may earn, what they will be left with, what they will pay in rent, whether they qualify for housing, and whether they receive assistance at all.
+
+Each is created by a provision that is published, and each is given its content somewhere that is not.
+
+The result is that the published law tells a person that a number exists and who sets it, and stops there. A person cannot check a decision made against a standard they are not permitted to read, and cannot comply in advance with a requirement they cannot find.
+
+I record that as found, without attributing any intent to it.
+
+A RELATED MATTER, WHICH IS ABOUT WORDS RATHER THAN FIGURES
+
+The phrase "reasonable employment" carries the power to reduce or refuse a person's income in two separate programs. In AR 96/2026 section 15(4) it applies to ADAP clients. In IESA section 15(1)(a) it applies to Income Support applicants and recipients.
+
+It is not defined in either Act, in either regulation, or in either policy manual. In the Income and Employment Supports Act it appears exactly once, inside the provision that uses it.
+
+I would ask what published standard a person is expected to meet.
+
+WHAT I AM ASKING
+
+1. For each of the five figures above: what is the current amount or standard, where is it published, and if it is not published, will it be, and when?
+
+2. If any of the five is set by an instrument not published in the Alberta Gazette, by what route may a person affected by it obtain a copy?
+
+3. What published definition of "reasonable employment" applies to a client of ADAP or to an applicant for Income Support?
+
+4. Does the department consider it appropriate for a decision to refuse, reduce or discontinue assistance to rest on a standard the affected person cannot read? If so, on what basis?
+
+I would appreciate a response within 15 business days.
+
+I would also say that I would be glad to be corrected on any of the five. If any of these figures is published somewhere I have not looked, tell me where and it will be published to the people who need it, and the correction recorded.
+
+Sincerely,
+
+[FULL NAME]
+[YOUR CITY OR TOWN], Alberta
+[EMAIL ADDRESS OR PHONE NUMBER]
+Date sent: [DATE]
+`
+  },
+  {
     id: "payment-not-received",
     title: "Payment did not arrive \u2014 urgent",
     blurb: "For anyone whose payment did not arrive. Send it today, even if you have already phoned \u2014 a phone call leaves no record, an email does. It asks your office to confirm in writing whether your payment was issued and when, requests a response within one business day, and asks to be assessed for an emergency benefit in the meantime. The email in your sent folder becomes dated proof of the day you reported it.",
@@ -60,7 +154,7 @@ Date sent: [DATE]`
     toHint: "There are no office-specific inboxes. Send it to the zone that covers you: North and Edmonton <b>northzoneaish@gov.ab.ca</b> \u00b7 Calgary <b>calgaryaish@gov.ab.ca</b> \u00b7 Central <b>aish.centralregion@gov.ab.ca</b> \u00b7 South <b>southaish@gov.ab.ca</b> \u00b7 new applications <b>ApplyDIA@gov.ab.ca</b> (587-759-6810). Only these inboxes are monitored, so if you have written to an office address and had nothing back, check which address you used and resend. Not sure which zone? Ring Alberta Supports on <b>1-877-644-9992</b>, ask for the email address for written correspondence about your file, and ask them to email you while you are still on the line so you have it in writing. Always use the return address printed on any letter you have received.",
     ccHint: "The Minister is pre-filled. Add your own MLA too \u2014 find yours at contact.assembly.ab.ca.",
     subject: "Formal Notice \u2014 Barriers to Employment Participation and Request for Accommodation",
-    pdf: "/pdfs/fillable/Fillable_Employment_Barriers_Notice_July2026.pdf",
+    pdf: "/pdfs/aish-adap/fillable/Fillable_Employment_Barriers_Notice_July2026.pdf",
     note: "After you send it: screenshot the sent email showing date, time, subject line and address, and save any automatic reply \u2014 that is your proof of receipt. If you get no answer by the date you set, reply to your own sent email asking for an update, so the whole thread stays together. If your benefit is reduced or stopped over attendance before anyone has answered this notice, keep the dates and tell the campaign.",
     body:
 `Full legal name: [your full legal name]
@@ -844,7 +938,7 @@ Date sent: [DATE]`
     toHint: "Goes to the Minister of Assisted Living and Social Services (Nathan Neudorf).",
     ccHint: "Premier is pre-filled. Add your own MLA's email here too (find them at assembly.ab.ca).",
     subject: "AISH-to-ADAP: the questions your own fact sheet raises", // draft
-    pdf: "/pdfs/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Letter.pdf",
+    pdf: "/pdfs/aish-adap/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Letter.pdf",
     note: "Where it goes: Minister Neudorf, copied to Premier Danielle Smith and your own MLA. Keep your sent email as proof.",
     body:
 `Dear Minister Neudorf,
@@ -907,7 +1001,7 @@ Sincerely,
     toHint: "Goes to the Minister of Assisted Living and Social Services (Nathan Neudorf).",
     ccHint: "Premier is pre-filled. Add your own MLA's email here too (find them at assembly.ab.ca).",
     subject: "AISH-to-ADAP: a caregiver's witness, on the record", // draft
-    pdf: "/pdfs/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Caregiver_Edition.pdf",
+    pdf: "/pdfs/aish-adap/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Caregiver_Edition.pdf",
     note: "For anyone who provides care, assistance, or advocacy to a person on AISH. Goes to Minister Neudorf, copied to the Premier and your MLA.",
     body:
 `Dear Minister Neudorf,
@@ -962,7 +1056,7 @@ Sincerely,
     toHint: 'You add your MLA or MP here. <a href="https://www.assembly.ab.ca/members/members-of-the-legislative-assembly" target="_blank" rel="noopener">Find your MLA →</a>',
     ccHint: "Optional. You can also copy the Premier, the ADAP program (adap@gov.ab.ca), the Ombudsman, the Human Rights Commission, or the federal Disability Minister.",
     subject: "AISH-to-ADAP transition: a constituent asking for action", // draft
-    pdf: "/pdfs/fillable/Fillable_MLA_MP_Contact_Letter.pdf",
+    pdf: "/pdfs/aish-adap/fillable/Fillable_MLA_MP_Contact_Letter.pdf",
     note: "Recipient is your own MLA and/or MP. The PDF carries a full riding-by-riding email directory if you need to look yours up.",
     body:
 `Dear [MLA/MP Name],
@@ -997,7 +1091,7 @@ Respectfully,
     toHint: 'You add your MLA here. <a href="https://www.assembly.ab.ca/members/members-of-the-legislative-assembly" target="_blank" rel="noopener">Find your MLA and their email →</a>',
     ccHint: "",
     subject: "AR 96/2026 s.15(4) — my disability flares, and this regulation penalises that",
-    pdf: "/pdfs/fillable/Fillable_MLA_Letter_s15-4_LetterOnly.pdf",
+    pdf: "/pdfs/aish-adap/fillable/Fillable_MLA_Letter_s15-4_LetterOnly.pdf",
     note: "For your own MLA. If you're not sure who that is, the find-your-MLA link above looks them up by your address.",
     body:
 `Dear [your MLA's name],

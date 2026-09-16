@@ -319,7 +319,7 @@ If you cannot find what you need, ask us. If the thing you need does not exist y
       {
         title: "Where the $200 CDB deduction came from, and what to do if they took too much",
         date: "2026-09-12",
-        doc: "/pdfs/fillable/Fillable_CDB_Deduction_Correction_Letter_v2_July2026.pdf",
+        doc: "/pdfs/aish-adap/fillable/Fillable_CDB_Deduction_Correction_Letter_v2_July2026.pdf",
         body: `Two people asked me the same question this week with different numbers, so I went and found the rule. It's on Alberta's own website and I want you to see the wording.
 
 ## WHAT THE PAGE SAYS
@@ -1729,7 +1729,7 @@ It is a five-minute email that means, months from now, nobody gets to decide wha
       {
         title: "The floor they set themselves",
         date: "2026-07-30",
-        doc: "/pdfs/july-2026-docs/ADSB_The_Floor_They_Set_Themselves_July2026.pdf",
+        doc: "/pdfs/aish-adap/july-2026-docs/ADSB_The_Floor_They_Set_Themselves_July2026.pdf",
         body: `I have been digging into the Canada Disability Benefit clawback this week, and I found something in the government's own words that I think you should see.
 
 First, what the clawback is.

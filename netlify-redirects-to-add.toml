@@ -1,0 +1,177 @@
+# ─────────────────────────────────────────────────────────────────────────
+# PDF folder move, September 2026
+#
+# Every PDF folder moved from /pdfs/<folder>/ to /pdfs/aish-adap/<folder>/.
+# These rules keep every link that existed before the move working —
+# printed inside our own documents, shared on Facebook, bookmarked, or
+# sitting in 115 daily posts.
+#
+# force = false means a real file at the new path wins; the redirect only
+# fires for the old path. 301 tells search engines the move is permanent.
+#
+# IMPORTANT: paste these ABOVE the catch-all rule at the bottom of
+# netlify.toml. Netlify applies the first matching rule, so anything below
+# the catch-all never runs.
+# ─────────────────────────────────────────────────────────────────────────
+
+[[redirects]]
+  from = "/pdfs/access-gap/*"
+  to = "/pdfs/aish-adap/access-gap/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/adsb-from-greatness-to-betrayal/*"
+  to = "/pdfs/aish-adap/adsb-from-greatness-to-betrayal/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/adsb-report-series/*"
+  to = "/pdfs/aish-adap/adsb-report-series/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/august-2026-docs/*"
+  to = "/pdfs/aish-adap/august-2026-docs/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/building-up/*"
+  to = "/pdfs/aish-adap/building-up/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/cage-doesnt-end/*"
+  to = "/pdfs/aish-adap/cage-doesnt-end/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/compound-failure/*"
+  to = "/pdfs/aish-adap/compound-failure/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/consultation-gap-rebuttal/*"
+  to = "/pdfs/aish-adap/consultation-gap-rebuttal/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/fillable/*"
+  to = "/pdfs/aish-adap/fillable/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/flyers/*"
+  to = "/pdfs/aish-adap/flyers/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/government-form-originals/*"
+  to = "/pdfs/aish-adap/government-form-originals/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/indigenous-sections/*"
+  to = "/pdfs/aish-adap/indigenous-sections/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/information-asymmetry/*"
+  to = "/pdfs/aish-adap/information-asymmetry/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/july-2026-docs/*"
+  to = "/pdfs/aish-adap/july-2026-docs/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/july-challenge/*"
+  to = "/pdfs/aish-adap/july-challenge/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/legalese/*"
+  to = "/pdfs/aish-adap/legalese/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/may-2026-adap/*"
+  to = "/pdfs/aish-adap/may-2026-adap/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/ministerial-correspondence/*"
+  to = "/pdfs/aish-adap/ministerial-correspondence/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/modern-day-eugenics/*"
+  to = "/pdfs/aish-adap/modern-day-eugenics/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/new-adsb-docs/*"
+  to = "/pdfs/aish-adap/new-adsb-docs/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/personal-submission/*"
+  to = "/pdfs/aish-adap/personal-submission/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/plain-language/*"
+  to = "/pdfs/aish-adap/plain-language/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/separation-risk/*"
+  to = "/pdfs/aish-adap/separation-risk/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/september-2026-docs/*"
+  to = "/pdfs/aish-adap/september-2026-docs/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/sourced-briefs/*"
+  to = "/pdfs/aish-adap/sourced-briefs/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/systematic-exclusion-sections/*"
+  to = "/pdfs/aish-adap/systematic-exclusion-sections/:splat"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/pdfs/what-disability-actually-means/*"
+  to = "/pdfs/aish-adap/what-disability-actually-means/:splat"
+  status = 301
+  force = false
