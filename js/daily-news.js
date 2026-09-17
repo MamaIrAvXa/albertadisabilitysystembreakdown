@@ -9,6 +9,95 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-16",
+  title: "Where Things Stand \u2014 September 16, 2026",
+  body: `The $150 arrives tomorrow, and I can now tell you exactly what happens to it, from Alberta's own regulation.
+
+## THE $150 IS NOT DEDUCTED
+I have been careful about this one for weeks because I would not answer it until I had read the provision myself. I have now read it.
+
+**AR 96/2026, Schedule 1, section 1(1)(e)** tells a director to count the Canada Disability Benefit as income **only where** the payment is not paid for the purpose of offsetting a person's cost of applying for a disability tax credit.
+
+The $150 is paid for exactly that purpose. So it never gets counted in the first place.
+
+And the policy manual says the same thing in the same words. Two documents, one answer.
+
+So nothing should come off your benefit for it. If $150 is deducted from your next payment, that is an error and I want to hear about it with the statement.
+
+## AND THE MONTHLY PAYMENT IS A DIFFERENT THING
+I am going to say this in the same breath every time, because the worst thing that could come out of tonight is somebody hearing that the Canada Disability Benefit is not deducted.
+
+The **regular monthly** Canada Disability Benefit **is** still deducted. The manual calls it non-exempt for standard AISH and ADAP clients. It is exempt only for people on the modified living allowance, which is the benefit for people living in facilities.
+
+One payment is protected. The other is not. The difference is what the payment is for.
+
+## ONE THING TO WATCH TOMORROW
+The quick-reference table in the policy manual, the one a worker is most likely to look at, does not mention the $150 carve-out at all. It lists only the Canada Disability Benefit for modified AISH.
+
+So the protection is in the regulation and in the narrative text of the manual, and it is missing from the table beside them.
+
+Keep your deposit record for the $150, and keep the Service Canada letter. If anyone tells you it counts as income, the section to quote is **Schedule 1, section 1(1)(e)**.
+
+## THE DATE FOR THE SECOND GROUP HAS MOVED
+On September 4 the federal page gave **February 2027** for people whose first Canada Disability Benefit entitlement began after June 2026. I published that, because that is what it said when I read it.
+
+It now says **Winter 2027** and names no month.
+
+That is not a correction to my work. It is a change to theirs, made without notice, to a payment date that people plan around.
+
+If you are in the second group, Winter is all that has been stated. A date that moved once can move again, so I would not budget on any month until Service Canada sends you something in writing.
+
+I am keeping a record of what that page says and when, and I will tell you if it moves again.
+
+## WHAT I FOUND TODAY, AND IT IS BIGGER THAN A TYPO
+A member followed a reference link on the government's income reporting page to check a rule against the law. The link took her to a regulation that was repealed on July 2.
+
+So I checked the rest of the manual.
+
+Of the **81 pages** in the AISH and ADAP policy section, **44 of them link to AR 91/2007**, the old regulation. It has not existed since July 2. Twenty pages were updated to the current one. Forty-four were not.
+
+**All six pages in the Income section are among them.** That includes the page telling you how to report income and the page a self-employed person is sent to. Every one of those six is stamped as last updated on July 2, the day the new regulation came into force. The pages were revised. The links were not.
+
+And on some of them the section numbers are wrong too. The income reporting page cites Schedule 1.1, section 2. There is no Schedule 1.1 in the current regulation. So if you follow the citation, you do not find a different answer. You find nothing.
+
+The rule that governs self-employment income is **Schedule 1, section 6 of AR 96/2026**, and it is not cited on the self-employment page at all.
+
+I am writing to the Minister about it with the full list attached. If you have ever followed a link from that manual and ended up somewhere that made no sense, that is why, and it was not you.
+
+## FLU SHOTS ARE FREE. COVID SHOTS MAY NOT BE.
+Worth knowing before you go to a pharmacy.
+
+The flu vaccine is free for every Albertan.
+
+The COVID vaccine is free **only** if you fall into one of the listed categories. If you do not, it costs **$100**. Being on AISH or ADAP is not one of the categories.
+
+RSV is free only for a narrow list.
+
+I am telling you because a hundred dollars is a hundred dollars and nobody should find that out at the counter.
+
+## JANUARY 1, 2027
+The first annual increase to AISH, ADAP, the couples rate, the child benefits and the $373 amount lands on January 1. The regulation says effective January 1 of the calendar year immediately following the year the section came into force, and it came into force on July 2.
+
+Hold that next to what I told you last night. The increase is **capped at 2 per cent**, by a formula that lives in a tax statute, and the government can set it lower.
+
+## WHAT'S STILL OPEN
+The amount you are allowed to earn is still set by a ministerial order that has never been published.
+
+The rate that decides what comes off when you earn above the exemption has never been published either.
+
+Neither has the minimum rent figure for the social housing rules starting in January, nor the household income limit for community housing eligibility.
+
+That is four numbers that decide what you receive, and not one of them can be read by the person it decides for. I have written to the Minister about all four, plus a fifth from Income Support, and I will post whatever comes back.
+
+## TOMORROW
+The $150, for anyone who received any Canada Disability Benefit payment between July 2025 and June 2026. Automatic. A letter is coming. It is $150 per approved DTC certificate.
+
+And it is not counted as income.
+
+## IF TONIGHT IS HEAVY
+If you're in crisis or you just need to talk to someone, please reach out. **988** for the Suicide Crisis Helpline, call or text, any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-15",
   title: "Where Things Stand \u2014 September 15, 2026",
   body: `Tonight I found the number that governs almost everything else, and it took thirteen runs to get to it. It is one sentence in a tax statute and almost nobody has read it.
