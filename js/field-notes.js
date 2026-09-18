@@ -16,6 +16,73 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Why you might not have got the $150",
+        date: "2026-09-18",
+        body: `A lot of people are checking their accounts and coming up empty. Here are the reasons, and most of them are not something you did wrong.
+
+## FIRST, THE THING THAT CATCHES PEOPLE OUT MOST
+The $150 is **not** paid for having the Disability Tax Credit. It is paid to people who **received a Canada Disability Benefit payment** between July 2025 and June 2026.
+
+So the DTC on its own is not enough. You had to have been getting the CDB.
+
+## WHICH IS WHY CHILDREN WITH AN APPROVED DTC DID NOT GET IT
+I noticed this with my own three. All of them have an active Disability Tax Credit. None of them got the $150.
+
+The Canada Disability Benefit is for people **aged 18 to 64**. A child under 18 cannot receive it, no matter how long their DTC has been approved. What a child's DTC does instead is increase the Canada Child Benefit, which is a different payment from a different program.
+
+No Canada Disability Benefit means no $150. Even with an approved DTC sitting there.
+
+You can apply for the Canada Disability Benefit **up to six months before your eighteenth birthday**, so if you have a teenager approaching 18, that is the thing to put in your calendar.
+
+## THE OTHER REASONS YOU MIGHT NOT HAVE IT
+**Your CDB started after June 2026.** Then you are in the second group, and yours is Winter 2027. No month has been named. Do not budget on one.
+
+**Your taxes are not filed.** You, and your partner if you have one, need a filed recent federal return. The CDB is income-tested, so without a return there is nothing to test.
+
+**Your DTC was never approved.** If the CRA denied it, or if the form never reached them, then no CDB was ever paid and the $150 does not follow.
+
+That last one matters more than it sounds. I have had two people this week whose doctor never submitted the form, in one case because she went on medical leave for eight months and nobody told the patient. If you applied and never heard anything, that is worth chasing.
+
+**Residency.** You have to be a Canadian resident for tax purposes.
+
+**Or it simply has not landed yet.** Payments began on 17 September and beginning is doing some work in that sentence. Give it a few days before assuming.
+
+## ONE THING TO CHECK WHILE YOU ARE LOOKING
+It arrives as a **separate deposit** from your regular monthly payment. Both show as CANADA CDB/PPH. So you may have two lines with the same name and different amounts, and it would not be bundled in with the monthly one.
+
+Screenshot it when it lands. That deposit line is better proof than any letter.
+
+## AND THE PART THAT APPLIES TO EVERYONE. READ THIS ONE CAREFULLY.
+The $150 is **not counted as income** against your AISH or ADAP benefit. That is in Alberta's regulation and in their policy manual, in the same words.
+
+But that is not the same as saying nothing can come off it.
+
+If AISH or ADAP paid for your doctor to complete Part B of the Disability Tax Credit application, that was a **repayable advance**. The government's own page says you repay it when the federal money arrives. It has now arrived.
+
+So if you signed a repayment agreement for that fee, a deduction is not an error. It is the agreement doing what it says.
+
+Two different things, and it matters which one you are looking at.
+
+**Not counted as income** means they cannot treat the $150 as money you earned and reduce your benefit because of it.
+
+**Recovered as a debt** means if they advanced you the cost of the medical form, they take that back.
+
+One is about how the payment is classified. The other is about money you already agreed to repay.
+
+So before you report a deduction, check whether you had the doctor's fee covered. If you did, ask them in writing for four things: the total you are repaying, the monthly amount, the date it starts, and whether you get notice first. One member has been told hers begins in November 2026 and the worker could not say when the deduction would show up.
+
+And **the rate is not fixed**. The policy says an active client can ask for the collection amount to be adjusted based on their circumstances, and that in hardship it may be reduced. Ask in writing, with your circumstances set out, and ask now rather than after it starts.
+
+If you did **not** have the fee covered and $150 still comes off your benefit as income, that is an error and we want to hear about it with the statement.
+
+The **regular monthly** Canada Disability Benefit is still deducted. That is a third thing again, and it has nothing to do with either of the above.
+
+If you think you should have it and do not, tell us which of the above applies to you and when your CDB payments started, and we will work out whether you are waiting or whether something needs chasing.
+
+## IF THIS ONE LANDED BADLY
+Counting on money that did not arrive is its own kind of awful, and it is not a failure on your part. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
         title: "What to do if they say you owe them money",
         date: "2026-09-15",
         body: `I spent today reading the overpayment and debt rules right through. The Act, the regulation, and the department's own policy manual. Here is what matters, and some of it is time-sensitive, so I am putting it up before anybody needs it rather than after.
