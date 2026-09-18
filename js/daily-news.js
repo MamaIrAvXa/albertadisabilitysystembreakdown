@@ -9,6 +9,83 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-17",
+  title: "Where Things Stand \u2014 September 17, 2026",
+  body: `One thing tonight has a clock on it, and it only affects some of you. Reading this takes a minute and it might be worth $100.
+
+## THE ENERGY REBATE. MOST OF YOU DO NOT HAVE TO DO ANYTHING. SOME OF YOU HAVE 13 DAYS.
+Alberta's own rebate page says it in two halves.
+
+If you were **already** on AISH, ADAP, Income Support or the Alberta Seniors Benefit, you are automatically enrolled and no application is required. It is not taxable and it will not affect your other government benefits. That is the province's wording, not mine.
+
+So for most of you, nothing to do and nothing to worry about.
+
+But the same page says new clients enrolled in these programs **after July 1** this year will need to apply through the portal.
+
+If you came onto AISH, ADAP or Income Support after July 1, nobody is sending it to you. You have until **September 30**.
+
+To apply you need a filed 2025 tax return, a verified Alberta.ca Account, your Social Insurance Number, and a mailing address that matches your driver's licence or ID card. If you cannot do that at home, an Alberta Supports centre will give you computer access and help you through it.
+
+Thirteen days. Tell anyone you know who came onto a program this summer.
+
+## SOMETHING I CAN NOW TELL YOU THAT I COULD NOT BEFORE
+For weeks I have been saying that the rate deciding what comes off your benefit when you have income is not published anywhere.
+
+That is still true of employment income. It is not true of everything, and I have found the other two.
+
+**Schedule 1, section 2(1).** The first **$300** a month of investment, rental, trust, annuity or partnership income is fully exempt. **$600** if you have a partner or a dependent child. Above that you keep 25 per cent of it.
+
+**Schedule 1, section 3(1).** Where your partner is not a client, the first **$1,200** a month of their CPP, Employment Insurance, Workers' Compensation, pension or Canada Disability Benefit income is fully exempt, and you keep 25 per cent of the rest. That $1,200 goes up on January 1, 2027.
+
+So if you have passive income, or a partner who is not on the program, the rule that applies to you is in the regulation and you can read it. Section numbers above.
+
+What remains unpublished is **employment and self-employment** income. The $350, the $700, the $1,100 and the $1,500 all come from the policy manual, and the ministerial order behind them has never been published. That one I am still chasing.
+
+## THE $2,612 ARGUMENT IS OVER
+If you have been in a conversation where somebody said the partner exemption used to be $2,612 and somebody else said it is $1,500, you were both right and you were talking about different regulations.
+
+$1,072, $2,009, $2,612 and $3,349 are from the **old** regulation, AR 91/2007, Schedule 1.1, section 4(4). It was repealed on July 2.
+
+Under those repealed rules a single client kept everything up to $1,072 and half of the next slice to $2,009. A client with a partner or a dependent child kept everything up to $2,612 and half to $3,349.
+
+Those numbers are gone. The current employment figures are $350, $700, $1,100 and $1,500.
+
+That is a real reduction and it is worth knowing precisely rather than approximately.
+
+## THE $200 TRANSITION BENEFIT IS NOT PROTECTED FROM THE INCOME RULES
+Worth knowing if you are on ADAP and have any income.
+
+Section 11(1) of the regulation applies the income deductions to a living allowance, a modified living allowance, a child benefit, and a personal benefit provided under section 13 of Schedule 3.
+
+Section 13 of Schedule 3 is the transition benefit.
+
+So the $200 is inside the deduction rules like everything else. Do not assume it sits on top untouched.
+
+## TODAY'S $150
+It landed. For anyone who received any Canada Disability Benefit payment between July 2025 and June 2026, automatic, no application.
+
+It is **not counted as income**. Two provisions now say so: Schedule 1 section 1(1)(e) on your side, and section 3(1)(a) on your partner's side. Both count a Canada Disability Benefit only where it is not paid to offset the cost of applying for the Disability Tax Credit.
+
+And the caution that goes with it every time: the **regular monthly** Canada Disability Benefit, up to $204.20, **is** still deducted.
+
+If you are in the second group, it is Winter 2027. Not February. Winter, with no month named.
+
+One more thing, and it is useful. Do not use the federal estimator to check your amount. The page itself says in a note that it is still running on last year's data and reporting $200.
+
+## TWO SMALLER THINGS
+If you have had an unusual income exemption for about twenty years and nobody has ever explained it, there is a reason. AR 89/2007 section 7 says a client who had an exemption under a 1999 regulation continues to have that amount deducted in accordance with that regulation. The amounts are individual and are not published, but the provision exists.
+
+And a gap worth naming. The regulation does not define **terminal** or **palliative** anywhere. I searched the whole text and the words do not appear. That is not a denial of anybody's access. It is a gap, and I am recording it as one.
+
+## WHAT I AM NOT TELLING YOU TONIGHT
+Anything from the separation report. It is in the news and the document would not open for me tonight, so anything I said about it would be a news report rather than a source.
+
+And the province's first-quarter surplus figures, which I have but one step removed from the government's own page. They are worth knowing and I would rather give you the link with them.
+
+## IF TONIGHT IS HEAVY
+If you're in crisis or you just need to talk to someone, please reach out. **988** for the Suicide Crisis Helpline, call or text, any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-16",
   title: "Where Things Stand \u2014 September 16, 2026",
   body: `The $150 arrives tomorrow, and I can now tell you exactly what happens to it, from Alberta's own regulation.
