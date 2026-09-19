@@ -9,6 +9,61 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-18",
+  title: "Where Things Stand \u2014 September 18, 2026",
+  body: `Here's where things stand tonight.
+
+## THE ENERGY REBATE: 12 DAYS LEFT
+If you were on AISH, ADAP, Income Support or the Seniors Benefit **before July 1**, the $100 comes to you automatically. You don't apply, and Alberta's own page says it won't affect your other benefits.
+
+If you came onto any of those programs **after July 1**, you're not enrolled automatically and you have to apply yourself. The deadline is **September 30**.
+
+To apply you need your 2025 taxes filed, a verified Alberta.ca account, your SIN, and a mailing address that matches your Alberta licence or ID. One of the ways to verify your payment also needs a phone or tablet with a camera.
+
+Something new I learned tonight: **roommates each count as their own household, and so do adult kids living at home.** Each of you applies separately. Don't assume someone else's application covered you.
+
+If this is too much to face alone, an Alberta Supports centre will sit down with you and do it on their computer.
+
+And the province is warning about scam texts. Don't click a link in a text message to apply. Go through alberta.ca.
+
+## IF YOU WERE MOVED TO ADAP AND WANT TO TRY FOR AISH
+The province pays for **one medical report**. It's written on Alberta's own ADAP appeal page. There's no deadline on it, so if the doctor's fee is what's been stopping you, ask for it by name.
+
+## THE $150
+The $150 Canada Disability Benefit top-up is automatic. You don't apply. And canada.ca says something broader than most of us knew: if you got a CDB payment before this September, even one, even if you're not getting them now, you may still be eligible.
+
+While we're here, the monthly CDB is up to **$204.20** right now. The government's own calculator still says $200 because it's running on last year's numbers, and the page admits that. Go by the "maximum benefit" section, not the calculator.
+
+## ON APPEALS, ONE MORE DOCUMENT
+Tonight I read Alberta's public ADAP appeal page. It names two decisions that can't be appealed: the move from AISH to ADAP, and a finding that you're not medically eligible for AISH. **Cuts to your ADAP over work are not on that list.** The same page says the Citizen's Appeal Panel can review a decision to change or stop your monthly benefits.
+
+That matches what the regulation says. The policy manual is the one that says otherwise. So if someone tells you a work-related cut can't be appealed, don't take their word for it. Ask them to show you where it says that.
+
+You have **30 days** from when you get the decision. If you miss it, you can ask for more time, but it isn't guaranteed. Don't wait.
+
+## HELP WITH TRAVEL AND MOVING COSTS
+A couple of you asked about this this week. Medical travel and moving costs fall under personal benefits. To qualify, you need no more than **$5,000** in non-exempt assets like cash, savings and investments, counting a partner's if you live with one, or be in financial hardship. You also have to show the need, and that no other program covers it.
+
+Two tips. Ask **before** you spend anything, and get the answer in writing. If they say no, a written decision starts your appeal clock.
+
+## THE SEPARATION REPORT
+Gillian Petit at the University of Calgary went through the government's separation report today looking for us. The costing documents don't look at disabled people at all. But she found two things in the appendix and a companion paper.
+
+First, Alberta has no equivalent of the tribunal that hears appeals on CPP, EI, Old Age Security and the Canada Disability Benefit.
+
+Second, Alberta has no stand-alone accessibility law. Seven other provinces do. Our own Advocate for Persons with Disabilities recommended one in 2023.
+
+The referendum is **October 19**. Nobody's voting on those two things directly, but they come attached to the question, and you deserve to know they're there.
+
+## THE HERITAGE FUND
+The most recent published number for the Heritage Fund is **$31.9 billion**, as of December 31, 2025. That's 261 days ago. The annual report for the year that ended in March still isn't out. I'll keep counting.
+
+That's it for tonight. Take care of yourselves.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-17",
   title: "Where Things Stand \u2014 September 17, 2026",
   body: `One thing tonight has a clock on it, and it only affects some of you. Reading this takes a minute and it might be worth $100.
