@@ -1631,3 +1631,22 @@ section + section { border-top: 1px solid var(--line); }
   .nav-group-btn { white-space: nowrap; }
   .nav-menu { min-width: 12rem; }
 }
+
+
+/* ── Brand logo in the hero ───────────────────────────────────────────── */
+.hero-logo {
+  display: block;
+  width: min(300px, 62vw);
+  height: auto;
+  margin: 0 auto 1.5rem;
+}
+@media (min-width: 900px) {
+  .hero-logo {
+    width: 340px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .hero-logo { transition: none; }
+}
