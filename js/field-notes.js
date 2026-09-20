@@ -179,7 +179,9 @@ I am not going to say Alberta is the only province in Canada that claws it back,
 ## WHERE ALBERTA WROTE IT DOWN
 This is not a policy sitting in a manual somewhere. It is in the regulation.
 
-**AR 96/2026, Schedule 1, section 6(1)(e)** includes in income "a Canada disability benefit." Sections 7(1) and 7(2) do the rest.
+**AR 96/2026, Schedule 1, section 1(1)(e)** includes in income "a Canada disability benefit," except where the payment is made to offset the cost of applying for the disability tax credit. Sections 7(1) and 7(2) do the rest.
+
+**Correction, 19 September 2026.** This note first gave the address as Schedule 1, section 6(1)(e). That was wrong. Section 6 is about how monthly income is worked out from your reporting; it does not mention the federal benefit and has no paragraph (e). The finding is unchanged \u2014 only the section number was wrong. If you saved or shared the earlier version, the right address is **section 1(1)(e)**.
 
 In force July 2, 2026.
 

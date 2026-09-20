@@ -9,6 +9,62 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-19",
+  title: "Where Things Stand \u2014 September 19, 2026",
+  body: `Corrections first tonight, because that's the deal here.
+
+## THREE CORRECTIONS, ALL MINE
+My September 15 post, "The Federal Government Named Alberta." That was the post about the federal briefing note where Ottawa said it was disappointed Alberta decided to claw back the Canada Disability Benefit. In it, I gave the wrong address for the rule in Alberta's regulation. I wrote Schedule 1, section 6(1)(e). The right place is **Schedule 1, section 1(1)(e)**. Section 6 is about how they work out your monthly income from your reporting. It doesn't mention the federal benefit at all, and it doesn't even have a paragraph (e). The finding in that post is right. The address was wrong. If you shared it or saved it, please fix the section number, because anyone who goes looking in section 6 will think we made it up. The correction is also on the original note.
+
+My September 18 update said the Heritage Fund's last real number was 260 days old. It was 261. Tonight it's 262. Small, but a count only means something if it's right.
+
+At Tea Time today, I said the income rules come off the $200 transition benefit "the same as everything else." Close, but the true version is sharper, and it's in the next section.
+
+## THE $200 TRANSITION BENEFIT
+The regulation does take your income off the $200, and it names the transition benefit by name to do it, in section 11. What I got wrong today is "the same as everything else." It isn't. Of all the personal benefits, like medical travel or funeral costs, **the transition benefit is the only one they take income off**. The others are left alone.
+
+The same regulation also leaves the transition benefit out of the **$5,000 asset test** the other personal benefits have to pass. So it got two special rules: a looser one on savings, and a tighter one on income.
+
+And the part of the policy manual that explains the transition benefit never tells you any of this. It gives the $200 and the dates, and stops.
+
+One more thing about it that nobody is saying. If you ever lose your ADAP and then get approved again later, the regulation says the transition benefit **doesn't come back**.
+
+## THE ENERGY REBATE: 11 DAYS LEFT
+If you were on AISH, ADAP, Income Support or the Seniors Benefit **before July 1**, it's automatic. You don't do anything.
+
+If you came onto one of those programs **after July 1**, you have to apply by **September 30** at alberta.ca/alberta-energy-rebate. You need your 2025 taxes filed, a verified Alberta.ca account, and a mailing address that matches your licence or ID. Roommates and adult kids living at home each apply separately. Alberta Supports centres will help you do it. And don't click links in text messages.
+
+## THE $150, AND THE ONE LINE TO WATCH
+The $150 is not counted as income. It's written into Alberta's regulation, **Schedule 1, section 1(1)(e)(i)**: a Canada Disability Benefit payment made to cover the cost of applying for the disability tax credit doesn't count. Getting your DTC form paid for by AISH doesn't change that.
+
+Here's what worries me. The policy manual says the rule correctly, twice, in its written explanations. But the manual's own income tables, the quick-reference lists a worker is most likely to check, just say "Canada Disability Benefit" with nothing after it. The rule is in the paragraphs and missing from the tables.
+
+So if your $150 comes off your AISH or ADAP, that's the most likely reason. Screenshot it and tell us, and we can point at the exact line.
+
+## IF YOU WERE MOVED
+You can't appeal being moved from AISH to ADAP. That's in the AISH Act itself, **section 12.8**, not in the regulation. Four sections earlier, **section 12.6(2)** says the new payment is allowed to be less than the old one. Both went into the same bill.
+
+What the Act doesn't do is stop you applying. **Section 12.6(3)** makes the road back to AISH a new application, not an appeal, and there's no deadline on it. The province pays for one medical report if you do, but ask for payment approval **before** the report is done.
+
+## THE MANUAL DISAGREES WITH ITSELF ON APPEALS
+This matters if you've been told a cut to your ADAP over work can't be appealed.
+
+In one section, the policy manual says a whole list of decisions about your responsibilities "are not appealable," for AISH and ADAP both. In another section, the same manual says the decisions that can't be appealed are the ones listed in section 6 of the appeals regulation. That list has only one thing on it from this area, and it's about being asked to apply for CPP or Old Age Security. Work-related cuts aren't on it.
+
+The Act says you can appeal a director's decision unless the regulations exempt it, and you have **30 days** from when you get the decision. So if someone tells you it can't be appealed, ask them to show you where. The manual itself points two different ways.
+
+## JULY 2 WAS TWO LAWS, NOT ONE
+Something I learned tonight. The same day the AISH changes came in, a second law came into force that changed Income Support, and the regulation behind Alberta Works was amended at the same moment. Both were proclaimed on the same page of the Alberta Gazette. I haven't read that regulation yet, and I'm not going to guess what's in it. But if it felt like everything changed at once in July, that's because it did.
+
+## THE HERITAGE FUND
+The most recent real number is still **$31.9 billion**, as of December 31, 2025. That's 262 days ago. The annual report for the year that ended in March still isn't out. I'll keep counting, and I'll count right.
+
+That's it for tonight. Thank you to everyone who came to Tea Time, spider and all - it still hasn't been located - may burn the house down. *JUST KIDDING!* But seriously. Spiders are awful.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-18",
   title: "Where Things Stand \u2014 September 18, 2026",
   body: `Here's where things stand tonight.
