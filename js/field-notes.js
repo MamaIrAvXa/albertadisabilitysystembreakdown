@@ -16,6 +16,35 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Doctors were never told either",
+        date: "2026-09-20",
+        body: `A member pointed out something this week that nobody else has said out loud. When the province moved us to ADAP, it didn't tell our doctors either.
+
+They are getting flooded with requests for the DS2444B medical report from patients who were already assessed as severely handicapped years ago. Many of them don't know what changed, don't know the province pays for the report, and don't know a nurse practitioner can complete it.
+
+So we made a package you can send to your own doctor or nurse practitioner. There are four pieces on the website:
+
+A ready-to-send email you fill in with your name and theirs, in the Email a Letter section.
+
+A short version to print and hand in at the desk.
+
+A one-page briefing for clinicians on what changed in July.
+
+The full question-by-question guide to the DS2444B.
+
+I am not going to mail this to every clinic in Alberta. I don't have the address of your doctor, and something your own patient hands you gets read. Two minutes each, from all of us, reaches further than anything I could send alone.
+
+## TWO THINGS WORTH REPEATING, BECAUSE MOST OFFICES DON'T KNOW THEM
+**The province pays for the report.** Form EMP11587 covers the examination and the completion, invoiced by your doctor directly. It has to be arranged **before** the report is done, not after.
+
+**Nurse practitioners can complete the report.**
+
+## ONE THING I WANT TO BE CLEAR ABOUT
+None of this asks a doctor to write anything that isn't true. The guide says it on its first page: accuracy is the strongest position, and an overstated report can cost you a case you truly have. This is about making sure your real situation is written in the language the decision is weighed against.
+
+If your doctor asks a question we haven't answered, send it to us and I'll find out.`
+      },
+      {
         title: "Why you might not have got the $150",
         date: "2026-09-18",
         body: `A lot of people are checking their accounts and coming up empty. Here are the reasons, and most of them are not something you did wrong.

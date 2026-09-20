@@ -14,6 +14,37 @@
    ─────────────────────────────────────────────────────────────── */
 const EMAIL_LETTERS = [
   {
+    id: "doctor-ds2444b-briefing",
+    title: "For your doctor or nurse practitioner, before the medical report",
+    blurb: "When the province moved people to ADAP it did not tell the clinics either. Doctors are being handed DS2444B forms by patients who were assessed as severely handicapped years ago, with no explanation of what changed. This is the email that gives them the context first. It carries the two things most offices do not know: the province pays for the report using form EMP11587, covering both the examination and the completion, invoiced directly \u2014 and it has to be arranged before the report is done, not after. And a nurse practitioner may complete the DS2444B; it is not restricted to physicians. Nothing in it asks a clinician to write anything that is not true.",
+    to: "",
+    toHint: "Your own doctor or nurse practitioner, or the clinic\u2019s general address. If the clinic has no email, use the short version in the note below and hand it in at the desk.",
+    subject: "Information about the AISH to ADAP change, before my medical report",
+    note: "Before you send it: fill in the doctor\u2019s name, your name, and your contact details, and <b>attach the two documents</b> \u2014 the clinician briefing and the DS2444B guide, both in the Documents section. Without them the email refers to attachments that are not there.<br><br><b>If email is too much,</b> print the one-page briefing and hand it in at the desk with this on top:<br><br><i>I am asking about a disability medical report, form DS2444B, for the AISH program. The province pays for it using form EMP11587, and it has to be arranged before the report is completed. Please let me know who I speak to about that. The attached page explains what changed in July. Thank you. [Your name, phone, date]</i><br><br>If your doctor asks something these documents do not answer, send it to us and we will find out.",
+    body: `Dear Dr. [NAME] / [NAME], NP,
+
+I am one of your patients. I am writing ahead of asking you to complete a disability medical report, because there is information about the program change that was never sent to clinics, and I would rather you have it in advance than be handed a form with no context.
+
+On July 2, 2026, Alberta moved AISH recipients onto a new program called the Alberta Disability Assistance Program. The move cannot be appealed. If I want to return to AISH, the only route is a new application, and that application requires a completed medical report, form DS2444B.
+
+Two things your office may not know:
+
+The province pays for this report. Form EMP11587 authorizes payment for both the examination and the completion of the report, invoiced by you directly to the government. It has to be arranged before the report is completed, so please tell me if you would like me to request it, and where to have it sent.
+
+A nurse practitioner may complete the DS2444B. It is not restricted to physicians.
+
+I am attaching two documents from The Alberta Disability System Breakdown, a free community campaign. One is a one-page briefing on what changed. The other is a question-by-question guide to the DS2444B, written for the clinician completing it, showing what the eligibility decision turns on. Neither is a government document, and neither asks you to say anything you have not found. Their stated principle is that accuracy is the strongest position, and that an overstated report can cost a patient a case they truly have.
+
+If it is easier, I am glad to bring printed copies to my appointment.
+
+Thank you for your time, and for the care you provide.
+
+[YOUR NAME]
+[YOUR PHONE OR EMAIL]
+[DATE]
+`
+  },
+  {
     id: "five-unpublished-standards",
     title: "Five figures that decide what you get, and that you are not allowed to read",
     blurb: "Across three programs \u2014 AISH, ADAP and Income Support \u2014 five figures decide what a person may earn, what they keep, what they pay in rent, whether they qualify for housing, and whether they get assistance at all. Each is created by a published provision and given its content somewhere that is not published. The earnings exemption amounts, delegated to a ministerial order that has never appeared. The progressive deduction rate above the exemption, described on alberta.ca as starting at less than a cent per dollar and increasing significantly, which is a description and not a rate. The minimum basic rent prescribed in Schedule B, in force 1 January 2027, which ends rent reductions by an amount nobody can find. The household income limit that defines core housing need. And a job search rate used to refuse Income Support that appears nowhere in the Act, the regulation or the manual. The letter asks four questions and offers to publish a correction if any of the five turns out to be published somewhere.",
@@ -154,7 +185,7 @@ Date sent: [DATE]`
     toHint: "There are no office-specific inboxes. Send it to the zone that covers you: North and Edmonton <b>northzoneaish@gov.ab.ca</b> \u00b7 Calgary <b>calgaryaish@gov.ab.ca</b> \u00b7 Central <b>aish.centralregion@gov.ab.ca</b> \u00b7 South <b>southaish@gov.ab.ca</b> \u00b7 new applications <b>ApplyDIA@gov.ab.ca</b> (587-759-6810). Only these inboxes are monitored, so if you have written to an office address and had nothing back, check which address you used and resend. Not sure which zone? Ring Alberta Supports on <b>1-877-644-9992</b>, ask for the email address for written correspondence about your file, and ask them to email you while you are still on the line so you have it in writing. Always use the return address printed on any letter you have received.",
     ccHint: "The Minister is pre-filled. Add your own MLA too \u2014 find yours at contact.assembly.ab.ca.",
     subject: "Formal Notice \u2014 Barriers to Employment Participation and Request for Accommodation",
-    pdf: "/pdfs/fillable/Fillable_Employment_Barriers_Notice_July2026.pdf",
+    pdf: "/pdfs/aish-adap/fillable/Fillable_Employment_Barriers_Notice_July2026.pdf",
     note: "After you send it: screenshot the sent email showing date, time, subject line and address, and save any automatic reply \u2014 that is your proof of receipt. If you get no answer by the date you set, reply to your own sent email asking for an update, so the whole thread stays together. If your benefit is reduced or stopped over attendance before anyone has answered this notice, keep the dates and tell the campaign.",
     body:
 `Full legal name: [your full legal name]
@@ -938,7 +969,7 @@ Date sent: [DATE]`
     toHint: "Goes to the Minister of Assisted Living and Social Services (Nathan Neudorf).",
     ccHint: "Premier is pre-filled. Add your own MLA's email here too (find them at assembly.ab.ca).",
     subject: "AISH-to-ADAP: the questions your own fact sheet raises", // draft
-    pdf: "/pdfs/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Letter.pdf",
+    pdf: "/pdfs/aish-adap/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Letter.pdf",
     note: "Where it goes: Minister Neudorf, copied to Premier Danielle Smith and your own MLA. Keep your sent email as proof.",
     body:
 `Dear Minister Neudorf,
@@ -1001,7 +1032,7 @@ Sincerely,
     toHint: "Goes to the Minister of Assisted Living and Social Services (Nathan Neudorf).",
     ccHint: "Premier is pre-filled. Add your own MLA's email here too (find them at assembly.ab.ca).",
     subject: "AISH-to-ADAP: a caregiver's witness, on the record", // draft
-    pdf: "/pdfs/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Caregiver_Edition.pdf",
+    pdf: "/pdfs/aish-adap/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Caregiver_Edition.pdf",
     note: "For anyone who provides care, assistance, or advocacy to a person on AISH. Goes to Minister Neudorf, copied to the Premier and your MLA.",
     body:
 `Dear Minister Neudorf,
@@ -1056,7 +1087,7 @@ Sincerely,
     toHint: 'You add your MLA or MP here. <a href="https://www.assembly.ab.ca/members/members-of-the-legislative-assembly" target="_blank" rel="noopener">Find your MLA →</a>',
     ccHint: "Optional. You can also copy the Premier, the ADAP program (adap@gov.ab.ca), the Ombudsman, the Human Rights Commission, or the federal Disability Minister.",
     subject: "AISH-to-ADAP transition: a constituent asking for action", // draft
-    pdf: "/pdfs/fillable/Fillable_MLA_MP_Contact_Letter.pdf",
+    pdf: "/pdfs/aish-adap/fillable/Fillable_MLA_MP_Contact_Letter.pdf",
     note: "Recipient is your own MLA and/or MP. The PDF carries a full riding-by-riding email directory if you need to look yours up.",
     body:
 `Dear [MLA/MP Name],
@@ -1091,7 +1122,7 @@ Respectfully,
     toHint: 'You add your MLA here. <a href="https://www.assembly.ab.ca/members/members-of-the-legislative-assembly" target="_blank" rel="noopener">Find your MLA and their email →</a>',
     ccHint: "",
     subject: "AR 96/2026 s.15(4) — my disability flares, and this regulation penalises that",
-    pdf: "/pdfs/fillable/Fillable_MLA_Letter_s15-4_LetterOnly.pdf",
+    pdf: "/pdfs/aish-adap/fillable/Fillable_MLA_Letter_s15-4_LetterOnly.pdf",
     note: "For your own MLA. If you're not sure who that is, the find-your-MLA link above looks them up by your address.",
     body:
 `Dear [your MLA's name],
