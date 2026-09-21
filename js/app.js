@@ -1463,8 +1463,16 @@ function bindNavToggle() {
 // ─── Active section highlight on scroll ───
 function bindScrollSpy() {
   const navLinks = document.querySelectorAll(".primary-nav a");
+  // Only in-page anchors can be looked up. A nav link to another page
+  // ("/fcssaa") is not a valid CSS selector, and passing one to
+  // querySelector throws a SyntaxError that takes out the rest of
+  // startup — including bindSearch(), which runs immediately after this.
   const sections = Array.from(navLinks)
-    .map(a => document.querySelector(a.getAttribute("href")))
+    .map(a => {
+      const href = a.getAttribute("href") || "";
+      if (!href.startsWith("#") || href.length < 2) return null;
+      try { return document.querySelector(href); } catch (e) { return null; }
+    })
     .filter(Boolean);
 
   if (!("IntersectionObserver" in window) || sections.length === 0) return;
@@ -1628,8 +1636,9 @@ document.addEventListener("DOMContentLoaded", () => {
   renderProvinces();
   renderMinisterial();
   renderAudio();
-  bindFilterChips();
-  bindNavToggle();
-  bindScrollSpy();
-  bindSearch();
+  // Each binding is isolated. Before this, a throw in any one of them
+  // silently killed every binding after it — that is how search broke.
+  [bindFilterChips, bindNavToggle, bindScrollSpy, bindSearch].forEach(fn => {
+    try { fn(); } catch (e) { console.error(fn.name + " failed:", e); }
+  });
 });
