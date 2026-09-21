@@ -9,6 +9,78 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-20",
+  title: "Where Things Stand \u2014 September 20, 2026",
+  body: `Tonight I have the answer to the question I've never been able to answer for any of you.
+
+## WHEN YOU WORK, HOW MUCH DO THEY TAKE
+Every single one of you has asked me some version of this. I've said the same thing every time: nobody knows, because the rules that set it were never published. They come from a ministerial order that has never been released.
+
+That answer is no longer true, and I need to say that out loud rather than quietly change my tune.
+
+The rules are published. They're in the computer code behind the government's own benefit calculator, sitting on alberta.ca since August 4, where anyone can download it. It's at **alberta.ca/global/js/adap-helper-v2.js**. I'm giving you the address so nobody has to take my word for it.
+
+Here's what it says.
+
+**On AISH**, you can earn **$350** a month. Every dollar over that comes off your cheque. All of it. One hundred cents on the dollar, from the first dollar over.
+
+**On ADAP**, the first **$700** is yours. After that it starts gentle and gets brutal. At $1,000 a month you're losing about 11 cents on the next dollar. At $2,000, 48 cents. At $3,000, 85 cents. Past about $3,400, you lose more than a dollar for every dollar you earn.
+
+One important note on those numbers. The income they're measured against is what's left **after** tax, CPP, EI, union dues and work expenses come off. It's not the top line of your pay stub.
+
+## THE PART I CHECKED THREE TIMES
+There's a stretch in the ADAP formula where earning more leaves you with less. Not less benefit. **Less money, total.**
+
+Your total income peaks at about **$3,794** a month when you're earning $3,408. From there it goes down. At earnings of $3,770 you're at your worst point, $24 behind where you were. You have to earn $386 more than the peak before you're back to even.
+
+I'm not going to tell you somebody sat in a room and decided to do that. I don't know that, and I won't pretend to. What I can tell you is that it's what their own formula does, on their own website, in the program they named the employment one.
+
+## AND THE NUMBER THAT MATTERS MOST
+This one came out of the old regulation, the one repealed on July 2, and it's the biggest number I've ever put in front of you.
+
+Under the old AISH rules, the first **$1,072** you earned was exempt. Then there was a middle band: between $1,072 and $2,009, they took only half. Above $2,009, they took it all.
+
+That middle band is gone. The exemption dropped from $1,072 to **$350**. And the 100 percent zone, which used to start at $2,009, now starts at $350.
+
+So for a single AISH client earning $2,009 a month or more, the new rules take **$1,190.50 more every month** than the old ones did. That figure stays flat above that point, because both sets of rules take everything there. The whole loss is the destroyed half band plus the collapsed exemption.
+
+## THAT ARGUMENT ABOUT $2,612 IS SETTLED, AND I OWE YOU MORE THAN I SAID
+I told you at Tea Time that $2,612 came from the old repealed regulation. That's right, and now I can tell you exactly what it was.
+
+It was never a spousal figure. It was the **employment exemption for a client who had a cohabiting partner or a dependent child**. $1,072 was the figure for a single client. Both had a half band above them, to $3,349 and $2,009. Both were repealed on July 2.
+
+So if you've heard $2,612 and been told nobody could confirm it, you were hearing a real number from a real regulation that stopped applying this summer.
+
+## THREE MORE THINGS OUT OF THAT SAME FILE
+If you live in a government group home, **$426 a month** comes off for room and board. That number is not in the regulation, not in the policy manual, not on any page they've published. It's in the calculator.
+
+If you and your partner are both on AISH or ADAP, you each get 88 percent. Eighty-eight percent of $1,940 is $1,707.20. They pay **$1,708**. They round up. Eighty cents a month in your favour, and I'm telling you because I said I'd tell you when they got something right too.
+
+And if you're on ADAP and your partner works too, the formula charges you extra for that. Where you're each $1,000 over your own exemption, the penalty for both of you working rather than one is about **$260 a month** on top of the two separate calculations.
+
+## IF YOU USE THE GOVERNMENT'S CALCULATOR
+It only counts money from a job. It says so in its own terms: it doesn't account for pensions, the Canada Disability Benefit, employment insurance or anything else.
+
+Alberta takes your Canada Disability Benefit off dollar for dollar. That's the biggest deduction most of you face, and the province's own planning tool doesn't include it. So the number it gives you is higher than what will land in your account, and nothing on the screen tells you by how much.
+
+It also doesn't say whether to enter your pay before or after deductions. Enter the gross and it will look worse than the rules actually are.
+
+## THE ENERGY REBATE: 10 DAYS
+If you were on AISH, ADAP, Income Support or the Seniors Benefit **before July 1**, it's automatic and it won't affect your other benefits. That's Alberta's own page.
+
+If you came onto one of those programs **after July 1**, nobody is sending it to you. You apply at alberta.ca/alberta-energy-rebate by **September 30**. You need your 2025 taxes filed, a verified Alberta.ca account, and an address matching your ID. Roommates and adult kids at home each apply separately. Alberta Supports will sit down and do it with you.
+
+## THE HERITAGE FUND
+Still **$31.9 billion** as of December 31, 2025. That's 263 days ago. The annual report for the year that ended in March still isn't out. And the only funding announcement on that page is from July 2025, fifteen months old, sitting there as if it's current.
+
+I'll keep counting.
+
+That's tonight. If you want the formulas, the page numbers or the old regulation, ask and we'll send you the documents rather than a summary of them.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-19",
   title: "Where Things Stand \u2014 September 19, 2026",
   body: `Corrections first tonight, because that's the deal here.

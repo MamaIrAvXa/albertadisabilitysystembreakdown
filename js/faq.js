@@ -60,9 +60,11 @@ Timing matters here so you watch the right deposit: ADAP's base rate itself bega
       },
       {
         q: `Are the child benefit amounts changing, and to what?`,
-        a: `Yes. The child benefit rates under AISH and ADAP were recalibrated starting the August 2026 benefit period. The monthly amounts are: $300 for the first child, $117 for the second, $88 for the third, $59 for the fourth, and $30 for each additional child. The government says this raises child benefits for about 7,000 families, though not every household changes the same way — so if you get money for children, check your late-July deposit and ask for a breakdown if it looks off.
+        a: `Yes. The child benefit rates under AISH and ADAP were recalibrated. The monthly amounts are now $300 for the first child, $117 for the second, $88 for the third, $59 for the fourth, and $30 for each additional child. The government says this raises child benefits for about 7,000 families, though not every household changes the same way — so if you get money for children, check your deposit and ask for a breakdown if it looks off.
 
-One date to keep: child benefit rates are on the same annual escalator as the living allowance, so these five amounts change again on **January 1, 2027**. _(figures per the government's ADAP page and fact sheet, effective August 2026 benefit period; annual January 1 adjustment per the DIA Policy Manual, Benefit Rate Adjustments)_`
+One wrinkle worth knowing, because it decides which deposit you should be checking. The government's own sources do not give the same start date. The ADAP page and the fact sheet both say the new rates apply **starting the August 2026 benefit period**. The policy manual's own rate table dates them **July 2, 2026**. That is the same July-versus-August split you will find on the transition top-up, and it has not been resolved. If your child benefit did not change when you expected it to, that gap is worth a written question rather than an assumption.
+
+One date to keep: child benefit rates are on the same annual escalator as the living allowance, so these five amounts change again on **January 1, 2027**. _(the five amounts and the approximately 7,000 families per the government's ADAP page and ADAP fact sheet, which also give the August 2026 benefit period; the July 2, 2026 effective date per the DIA Policy Manual, Child Benefit rate table; the annual January 1 adjustment per the DIA Policy Manual, Benefit Rate Adjustments — all read September 2026)_`
       },
       {
         q: `Does the $100 Alberta energy rebate count against my AISH or ADAP?`,
@@ -104,19 +106,30 @@ One more, if you were turned down before: if you were denied the DTC **before 20
       },
       {
         q: `There is a $150 federal payment — is it real, when does it come, and will Alberta take it?`,
-        a: `It is real, you do not have to apply for it, and Alberta does not deduct it. That is genuinely good, with one caution at the end that you should read before you count the money as yours.
+        a: `It is real, you do not have to apply for it, and Alberta should not deduct it. That is good news, with two cautions at the end you should read before you count the money as yours.
 
-The federal government has added a **$150 supplement** to the Canada Disability Benefit, to help cover what a doctor charges for filling in the medical part of the Disability Tax Credit form. The rule change took legal effect on **September 1, 2026**, and payments began that month. The regular CDB deposit date for September 2026 is **September 17**.
+The federal government has added a **$150 supplement** to the Canada Disability Benefit, to help cover what a doctor charges for filling in the medical part of the Disability Tax Credit form. The rule change took legal effect on **September 1, 2026**, and the first payments went out on **September 17, 2026**.
 
-Two things people are getting wrong about it. **It is not a one-time payment** — it is paid again each time your Disability Tax Credit is re-certified, because that is when the doctor's fee comes round again. And **it does not reach everyone this month.** September 2026 is for people who received a CDB payment between July 1, 2025 and June 30, 2026, including people who no longer receive it. If your first CDB payment landed on or after July 1, 2026, or you were re-certified between July 2025 and January 2027, yours comes in **February 2027**. From March 2027 it arrives with a first payment and again after each re-certification. So if yours does not turn up this month, that is not an error and not something you did wrong.
+Two things people are getting wrong about it.
 
-Who gets it: anyone with an approved DTC certificate that entitles them to a monthly CDB payment — including people whose payment is small enough that it comes as a single lump sum. And if you received a CDB payment at any point before September 2026 but are not receiving one now, you are still eligible. **There is nothing to apply for.**
+**On whether it comes only once.** The government's own wording pulls both ways, so we will give you both halves rather than pick one. Its news release calls this "a one-time supplemental payment of $150." The same release, and the canada.ca payment page, also say you are eligible for $150 **for each approved Disability Tax Credit certificate** that qualifies you for the benefit — and the second payment phase expressly includes people approved for a **new** certificate. So: one payment per approved certificate, rather than one payment per person forever. We will not tell you it repeats on a schedule, because no government source says that.
 
-Now the part that matters most here. Alberta counts your monthly CDB as income and deducts it dollar for dollar — but the rule has a carve-out written into it. Alberta counts CDB money *except* money "not paid for the purpose of offsetting a person's cost of applying for a disability tax credit." That is exactly what this $150 is. So it should not be deducted, and it should not reduce your AISH or ADAP.
+**On when yours arrives.** There are two phases, and only the first has a date.
 
-As always: check your statement. If $150 shows up as income against you, that looks wrong to us — ask in writing for a breakdown and point at the pension income policy. Bring it here and we will help you word it. One caution before you count it as yours. If AISH covered the cost of your Disability Tax Credit medical assessment, the government's own fact sheet says that money is issued to you to pay the doctor and that clients will be required to repay the full amount provided. That makes it an advance, not a grant. What nobody has yet answered is whether the federal $150 then goes to repaying Alberta or stays with you. We are asking. In the meantime, if you are offered help with an assessment fee, ask in writing whether it is repayable and how, and keep the answer. Keep this separate from the covered medical report for a reassessment, which is a different thing and is not described as repayable.
+- **September 17, 2026** — if you received a Canada Disability Benefit payment at any point between July 2025 and June 2026.
+- **Winter 2027** — if you became eligible for a payment any time since July 2026, or you were approved for a new Disability Tax Credit certificate. The government has named no month. If you see "February 2027" or "March 2027" circulating — including from us, in an earlier version of this answer — that date is in no government source.
 
-_(the supplement, its September 1, 2026 legal effect and the no-application rule per canada.ca, About the Canada Disability Benefit program and How much you could receive; the September 17, 2026 payment date per the Service Canada benefits payment dates calendar; the exemption from Alberta's deduction per the DIA Policy Manual, Pension Income — all confirmed September 2026)_`
+Who gets it: anyone with an approved Disability Tax Credit certificate that entitles them to a monthly Canada Disability Benefit payment. That includes people whose payment is **$20 or less a month** and arrives as a single lump sum for a whole payment period. If you received a payment at any point before September 2026 you are still eligible, even if you no longer receive one. **There is nothing to apply for**, and a letter should arrive with information about the payment. One exclusion is stated plainly: the supplement is **not payable for anyone who died before September 2026**.
+
+Now the part that matters most here. Alberta counts your monthly Canada Disability Benefit as income and deducts it dollar for dollar — but the rule has a carve-out written into it. Alberta counts that money *except* money "not paid for the purpose of offsetting a person's cost of applying for a disability tax credit." That is precisely what this $150 is. So it should not be deducted, and it should not reduce your AISH or ADAP.
+
+As always: check your statement. If $150 shows up as income against you, that looks wrong to us — ask in writing for a breakdown and point at the pension income policy. Bring it here and we will help you word it.
+
+Two cautions before you count it as yours.
+
+**First**, if AISH covered the cost of your Disability Tax Credit medical assessment, the government says that money is issued to you to pay the doctor, and that you will be required to repay the full amount once the federal government reimburses you. That makes it an advance, not a grant. What nobody has yet answered is whether the federal $150 then goes to repaying Alberta or stays with you. We are asking. In the meantime, if you are offered help with an assessment fee, ask in writing whether it is repayable and how, and keep the answer. Keep this separate from the covered medical report for a reassessment, which is a different thing and is not described as repayable.
+
+**Second**, Alberta's own "Apply for federal disability supports" page has not caught up. It still calls the $150 an announced *intention* to pay "by March 2027," and it still says the benefit pays "up to $200 per month." Both lines were written before the September rules took effect, and both are wrong now. If a worker reads either one off a screen, the federal pages are the ones to go by. _(the supplement, its September 1, 2026 legal effect, the per-certificate rule, the $20-or-less lump sum, the death exclusion and the no-application rule per canada.ca, About the Canada Disability Benefit program and How much you could receive; the September 17, 2026 date and the two payment phases per the federal news release of September 10, 2026 and the Service Canada benefits payment dates calendar; the exemption from Alberta's deduction per the DIA Policy Manual, Pension Income; Alberta's two stale figures read on the "Apply for federal disability supports" page — all confirmed September 2026)_`
       },
       {
         q: `I heard my child benefits will start counting toward my rent — is that true?`,
@@ -124,7 +137,7 @@ _(the supplement, its September 1, 2026 legal effect and the no-application rule
 
 The rule is **Alberta Regulation 180/2026**, the Social Housing Accommodation Amendment Regulation, made by **Ministerial Order 2026-018** on June 29, filed July 9, published in the Gazette on July 31, 2026, and in force **January 1, 2027**.
 
-What it actually does is wider than the announcement suggested. It lets the Minister count any income **not included in line 15000 of your Notice of Assessment** — the total income line — when your rent is worked out. Child benefits are not reported on line 15000. That phrase reaches exactly the money that does not appear on a tax return, and it has no other obvious purpose.
+What it does is wider than the announcement suggested. It lets the Minister count any income **not included in line 15000 of your Notice of Assessment** — the total income line — when your rent is worked out. Child benefits are not reported on line 15000. That phrase reaches exactly the money that does not appear on a tax return, and it has no other obvious purpose.
 
 Notice what it does **not** do. It names no benefit at all. So the decision to count a specific one does not have to be filed, published or indexed anywhere, and there is no second rule to watch for. Once this is in force, the counting can begin with nothing further made public.
 
@@ -194,7 +207,9 @@ So the order matters:
 
 If you have already filed and then something new comes in, you are not stuck — but you may have to **withdraw** the appeal so the program can look at the new material and make a fresh decision. Contact the Appeals Secretariat right away if that is your situation, and ask them in writing what withdrawing does to your timeline before you do it.
 
-And if the 30 days is the thing standing in your way: you can ask for more time. Put the reason on the Notice of Appeal form or write to the Appeals Secretariat, saying when you got the decision, when you learned about the 30 days, and why you could not file in time. It is decided by the Minister's delegate and you get the answer in writing. Do not treat it as a reason to relax — ask early, and file as soon as you can. Bring it here and we will help you word either one. _(the bar on new information from the Applications and Appeals (Ministerial) Regulation, AR 89/2007, section 5(1.1), current to July 2, 2026; the withdraw route and the time extension from the government's ADAP appeal page and the DIA Policy Manual, Appealing a Decision, September 2026)_`
+Here is the clock nobody mentions, and it is the one that can close your file. If you were denied, you have **12 months from the date you were notified of that decision** to give the program additional information supporting your application or showing your situation has changed. After 12 months, sending more information is no longer enough — you have to submit a whole new Disability Income Assistance application and begin again. And the policy says plainly that this same 12-month limit applies to you if you **withdrew your appeal** so the program could review new material. Withdrawing is a real option and often the right one, but it does not stop that clock. Work out what date you are counting from before you choose.
+
+And if the 30 days is the thing standing in your way: you can ask for more time. Put the reason on the Notice of Appeal form — it is form AAS13358 — or write to the Appeals Secretariat, saying when you got the decision, when you learned about the 30 days, and why you could not file in time. It is decided by the Minister's delegate at the Appeals Secretariat and you get the answer in writing. Do not treat it as a reason to relax — ask early, and file as soon as you can. Bring it here and we will help you word either one. _(the bar on new information from the Applications and Appeals (Ministerial) Regulation, AR 89/2007, section 5(1.1), current to July 2, 2026 — carried forward from an earlier review, not re-opened this run; the 12-month limit and its application to withdrawn appeals from the DIA Policy Manual, Limits to the Appeal Panel's Authority; the withdraw route, the AAS13358 form and the time extension from the government's ADAP appeal page and the DIA Policy Manual, Appealing a Decision, September 2026)_`
       }
     ]
   },
@@ -216,11 +231,19 @@ And if the 30 days is the thing standing in your way: you can ask for more time.
     items: [
       {
         q: `If I am on ADAP, do I still get medical equipment cost-free through AADL?`,
-        a: `This one moved, and it moved the right way. Alberta Aids to Daily Living (AADL) has clients pay a 25% cost-share, up to $500 per family per benefit year (July 1 to June 30). When we last checked, the AADL cost-share page named Income Support and AISH among the programs whose clients can be exempt — and left ADAP off. **ADAP is now on that page**, in both places it should be.
+        a: `This one moved, and it moved the right way — but AISH and ADAP are not in the same position, and the difference is worth knowing before a big equipment bill lands.
 
-Read the wording carefully, though, because it is not a promise. The page says clients on those programs "may contact AADL directly to determine eligibility for cost-share exemption" — so it is a door, not an automatic exemption. Contact AADL and get your status confirmed in writing before a big equipment bill lands.
+Alberta Aids to Daily Living (AADL) has clients pay a 25% cost-share, up to $500 per family per benefit year (July 1 to June 30). Respiratory benefits carry no cost-share at all.
 
-If that route does not work for you, there are others. You may qualify on income alone: the thresholds are taxable income of $20,970 or less for a single person, $33,240 for a family with no children, or $39,250 for a family with children. There is a temporary exemption if your finances have just changed or you have extraordinary disability-related expenses. And if you are refused and paying would cause you hardship, you can appeal your cost-share status with AADL's own notice of appeal form. Respiratory benefits have no cost-share at all. _(confirmed on the government's AADL cost-sharing page, updated August 2026)_`
+**If you are on AISH**, the government's own AISH page now says it without hedging: you do not have to pay the cost-share amount for AADL-approved items.
+
+**If you are on ADAP**, ADAP is now named on the AADL cost-sharing page, in both places it should be — that is the change, and it is a real one. But read the wording, because it is not the same promise. The page says clients on these programs "may contact AADL directly to determine eligibility for cost-share exemption." That is a door, not an automatic exemption, and there is no flat statement anywhere that ADAP clients do not pay. Contact AADL and get your status confirmed **in writing** before you commit to an item.
+
+The exempt-programs list has also grown, from three programs to five. It now names Income Support, AISH, ADAP, the **Alberta Adult Health Benefit** and Children and Family Services (for minors in foster care). The Alberta Adult Health Benefit is worth noticing: it is where AISH clients land if their earnings take them off the program, so this door does not close the moment your monthly benefit does.
+
+If that route does not work for you, there are others. You may qualify on income alone — taxable income (line 26000 of your most recent return) of $20,970 or less for a single person, $33,240 for a family with no children, or $39,250 for a family with children. There is a temporary exemption if your finances have just changed or you have extraordinary disability-related expenses. And if you are refused and paying would cause you hardship, you can appeal your cost-share status with AADL's own notice of appeal form.
+
+Three situations close the door on a cost-share exemption altogether, and they are easy to miss. You cannot apply if you are a new or returning resident from outside Canada who has not yet lived in Alberta for 12 consecutive months, if you are exempt from paying income tax for religious, charitable or communal reasons, or if you are a foreign student temporarily residing in Canada. _(the cost-share, the five named programs, the income thresholds, the temporary exemption, the notice of appeal form and the three exclusions confirmed on the government's AADL cost-sharing page; the flat AISH statement confirmed on the government's "What you get with AISH" page — both read September 2026)_`
       }
     ]
   },
@@ -285,7 +308,7 @@ One caution, because it is not all good news. The manual also says an AISH clien
     items: [
       {
         q: `I saw an official-looking post with AISH/ADAP numbers — can I trust it?`,
-        a: `Be careful. Some of what is circulating out there, including some very official-sounding posts, is AI-generated and mixes real facts with invented numbers. If a number matters to your life, get it from an actual document, or ask here. Our whole strength is that everything we put out traces back to a real regulation.`
+        a: `Be careful. Some of what is circulating out there, including some very official-sounding posts, is AI-generated and mixes real facts with invented numbers. If a number matters to your life, get it from the source document, or ask here. Our whole strength is that everything we put out traces back to a real regulation.`
       }
     ]
   }
