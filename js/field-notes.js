@@ -16,6 +16,52 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Twenty-four homes in Red Deer, and the part that wasn't said out loud",
+        date: "2026-09-21",
+        body: `A member found this, and she found it the way we find most things. She read the agenda package.
+
+The City of Red Deer owns **24 below-market housing units**, duplexes in Oriole Park, West Park and Highland Green. They're rented under the Community Housing Program, where you pay 30 percent of your income. The people living there are low income. Some are working minimum wage jobs. Some are on AISH or ADAP.
+
+On September 11, the City posted what was coming to its September 15 council meeting. The notice said, in its own words, that council would consider "the potential sale of 24 aging, City-owned non-market housing units currently managed by Bridges Community Living."
+
+Then at the meeting on the 15th, council spent the session on the good news: $2.9 million in federal money going to supportive housing. The sale was not mentioned once. It isn't in the City's own recap of that meeting either.
+
+But it's in the agenda package, **on page 133**, in an appendix to a budget report. It says council has already received a confidential sales and communication strategy for the 24 sites, and that administration "has been directed to move forward with the sale of these units" in the last half of this year.
+
+So the decision was made before the meeting, and the meeting didn't touch it.
+
+## WHAT THAT MEANS FOR THE PEOPLE IN THEM
+Twenty of the 24 homes have people living in them. Four are empty, and they've been held empty in anticipation of the sale.
+
+Bridges' executive director told rdnewsNOW that some tenants may be on AISH, and that rent could rise by around **60 percent** for anyone who ends up in market housing. The Mayor said she didn't know whether a buyer could be required to keep the Community Housing Program.
+
+Nobody has published a plan for the twenty households.
+
+## THE THING WORTH SITTING WITH
+Red Deer City Council was one of the first to ask the province to pause the AISH to ADAP transition. That was the right call and I said so at the time.
+
+The same council is selling homes where people on those programs live. Whatever the reason, that's the effect.
+
+## IF THIS IS YOU
+If you live in one of those units, or you know someone who does, please reach out to us. The first things to keep are any letter or notice you've received and the date you got it. If your rent changes, your benefit file needs updating, and I'll help with that.
+
+## IF YOU'RE IN RED DEER
+The questions worth asking your council are simple ones.
+
+How long have the four empty units been vacant, and who decided not to fill them?
+
+Where will the twenty households go?
+
+Can a sale require the buyer to keep those homes in the Community Housing Program?
+
+The sale is targeted for the last quarter of this year. That's now.
+
+Thank you to the member who read page 133.
+
+## IF THIS ONE LANDED ON YOU
+Being told your home is being sold out from under you is a frightening thing to read, and it is not a failure on your part. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
         title: "Doctors were never told either",
         date: "2026-09-20",
         body: `A member pointed out something this week that nobody else has said out loud. When the province moved us to ADAP, it didn't tell our doctors either.
