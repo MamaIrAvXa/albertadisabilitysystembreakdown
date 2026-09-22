@@ -16,6 +16,39 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "What they ask you: both halves of Alberta, written down",
+        date: "2026-09-22",
+        body: `Two members have now recorded exactly what happened in their employment services intake, one in the north and one in the south. Both are in the Documents section, as **What They Ask: Alberta North** and **What They Ask: Alberta South**, and both are linked from the employment assessment card at the top of the site.
+
+Nobody publishes these questions. The assessor can't even see them until your appointment starts and the portal opens. So the only way any of us finds out what's coming is because somebody who went through it wrote it down afterward.
+
+The north one is from an assessment in August, about an hour and a half long. The south one is from a rural intake done by phone in September, about thirty minutes.
+
+Each document has every question, in the order they came, and what happened at each step. Print them, read them before your appointment, take them in with you if it helps.
+
+## FOUR THINGS I WANT YOU TO KNOW EVEN IF YOU NEVER OPEN THE PDFS
+**You don't have to name your diagnosis.** In the north, the client was told outright it was voluntary. She declined, it was recorded that she was medically diagnosed without the name, and the assessment carried on. In the south, the family gave the general kind of condition instead of the exact one, and that was accepted too. Both times the person gave less than was asked for and nothing bad happened.
+
+**Answer for your worst days.** Good days and bad days came up three times in one assessment. The instinct with a stranger who's being kind is to sound like you're coping. Answer for the day you can't get out of bed, and say how often those come.
+
+**There's a consent statement read out near the end.** You're asked yes or no, and your answers go into a database called Compass, where a file already exists for anyone on EI, AISH, ADAP or Income Support. Nobody has been able to tell us what happens if you say no. If that matters to you, ask before your appointment and ask in writing.
+
+**Read the action plan they email you afterward.** That's the document that gets measured later. If it reads as more capable than you are, reply in writing and correct it.
+
+## AND THE ONE THAT STOPPED ME
+In thirty minutes with a person who'd been on AISH for decades, nobody mentioned reapplying for AISH. Not once.
+
+If that's your plan, it's a separate process, you start it yourself, there's no deadline on it, and the province pays for one medical report if you ask for payment approval before the report is completed.
+
+## IF YOU HAVE BEEN THROUGH ONE
+If you've been through an intake anywhere in Alberta, write down what you were asked and send it to us. Two accounts gave us these two documents. More accounts tell us whether this is the process or just one office's version of it.
+
+Thank you to both members. Neither of them had to do this, and both did it for people they'll never meet.
+
+## IF AN APPOINTMENT IS WEIGHING ON YOU
+Walking into a meeting that decides your income is a hard thing to carry. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
         title: "Twenty-four homes in Red Deer, and the part that wasn't said out loud",
         date: "2026-09-21",
         body: `A member found this, and she found it the way we find most things. She read the agenda package.
