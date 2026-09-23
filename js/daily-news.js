@@ -9,6 +9,205 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-22",
+  title: "Where Things Stand \u2014 September 22, 2026",
+  body: `A correction, one piece of good news, one thing about appeals that most people don't know, and the dates coming up this week. Take it in pieces.
+
+## FIRST, A CORRECTION
+Last night I told you the government had decided to make AISH decisions take nearly twice as long. That's not right, and I want to fix it before anything else.
+
+The nine-week target isn't new. It's been the target for at least two business plans running. What happened is this: a few years ago they brought in temporary staff, decisions sped up to about four weeks, and then they slowed back to about five. The target never moved.
+
+Nobody decided to get slower. What's still true, and still worth being upset about, is that they never lowered the target to lock in the improvement. And I don't know whether those temporary staff are still there.
+
+That's a smaller claim than the one I made. It's the one I can stand behind.
+
+## THE GOOD NEWS I DON'T WANT TO BURY
+Most of what I bring you is bad. Here's one that isn't.
+
+When the government first proposed the ADAP work rules in the summer of 2025, you'd have kept the first **$350** a month you earned before they started taking money back, or **$525** if you had kids.
+
+That's not what they went with. The rules that took effect let you keep **$700** a month, or **$1,100** with kids. A cohabiting partner can earn **$1,500**.
+
+Both sets of numbers are in the government's own documents. The in-force figures are in the policy manual.
+
+One caution. Those amounts are set by a ministerial order that hasn't been published, and they rise automatically when minimum wage does. Before you plan around them, check your own numbers with the benefit estimator at alberta.ca/ADAP, or ask your worker in writing.
+
+## TWO DOORS AFTER AN AISH APPLICATION
+If your AISH application goes to the Medical Review Panel and they say no, the rules say you can't take that decision to an appeal panel. That's in the regulation, not just the manual.
+
+But there's a second decision right next to it that you **can** appeal. If your worker decides not to send your file to that panel at all, that decision can go to the Medical Appeal Panel.
+
+So if you're turned down, the first question isn't "can I appeal the medical decision." It's **"did my file even make it to the panel."**
+
+One more thing before any appeal. The appeal panel only looks at the information the program already had. If you have new medical evidence, the other route is to send it in as new information. You have **12 months** from the decision letter to do that.
+
+And if you've been turned down, talk to someone who does this for a living before you decide there's nothing to be done.
+
+## IF YOUR RENT GOES STRAIGHT TO YOUR LANDLORD
+October's payment goes out this **Thursday, September 24**, by direct deposit. Cheques are mailed six business days before the first of the month.
+
+If part of your benefit is paid directly to your landlord, take a minute before Thursday to check that it's still set up. This week I heard from a family whose payment information no longer mentions the landlord portion at all.
+
+If yours looks wrong:
+
+Call your AISH/ADAP office and ask whether the landlord payment is still in place, and for how much.
+
+Send the same question by email so the answer is in writing.
+
+Give your landlord a heads-up now, before rent day, so they hear it from you first.
+
+## HIGHEST AND LOWEST, SAME PROVINCE
+The government likes to say Alberta's disability benefit is the highest in the country. There's something to that, and there's a catch.
+
+Maytree's Welfare in Canada report, 2025 edition, looked at a single adult with a disability in every province. Alberta came out highest, at **$23,791** a year on AISH.
+
+In the same report, the same kind of household in Alberta on Barriers to Full Employment got **$12,553**. Among the lowest in Canada.
+
+So the highest and one of the lowest incomes for a single disabled adult were both in Alberta. Which one you got depended on which program you were on.
+
+Those are 2025 figures, from before the move to ADAP. Nobody has checked yet where ADAP's rate would rank. I'm going to.
+
+## THE DATES
+**Thursday, September 24 (2 days).** October benefit payment.
+
+**Friday, September 25 (3 days).** Last day to request a mail-in ballot for the referendum. The copies of ID you send have to match, or the ballot can be rejected. If you've changed your name, or your ID doesn't all say the same thing, sort that out before you apply.
+
+**Wednesday, September 30 (8 days).** The energy rebate. If you were on AISH, ADAP, Income Support or the Seniors Benefit before July 1, it's automatic and there's nothing to do. If you joined after July 1, you have to apply yourself before this date.
+
+**Monday, October 19 (27 days).** Referendum day.
+
+**Tuesday, October 27 (35 days).** The Legislature comes back. Nothing about AISH or ADAP can move through the House before then.
+
+## THE SAVINGS FUND
+Alberta.ca's Heritage Fund page still shows $31.9 billion as of December 31, 2025.
+
+I'm not giving you a day count tonight. The page may simply be out of date, and there's a separate place the quarterly reports are published that I couldn't open today. I'm checking that before I count again. **A number I haven't checked doesn't get repeated.**
+
+## FROM THE GOVERNMENT TODAY
+Nothing about AISH, ADAP or disability income. The one cost-of-living item was an announcement about suspending the fuel tax. I haven't read it yet, so I'm not going to tell you what it means for you until I have.
+
+That's where things stand tonight.
+
+## IF YOU NEED US
+The campaign line is **587-590-3590**. Call or text.
+
+If tonight is heavy, you don't have to carry it alone. Call or text **988**, any time. The **Alberta Mental Health Help Line is 1-877-303-2642**, also 24 hours. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
+  date: "2026-09-21",
+  title: "Where Things Stand \u2014 September 21, 2026",
+  body: `Big night. Two government datasets and the ministry's own business plan all opened today, so for the first time I can tell you how many of us there are and what the province has written down about its own plans.
+
+## FIRST, HOW MANY OF US THERE ARE
+In June 2026, the last month before everything changed, **80,172** people were on AISH. Of those, **12,466** had employment income.
+
+Something in that surprised me. The number of AISH clients working has been **falling** for over a year. It was 13,027 in May 2025 and 12,466 by June 2026, while the caseload itself grew. Fewer of us working, more of us on the program, for thirteen months straight, before anyone launched an employment-focused anything.
+
+That's the government's own open data. Anyone can download it.
+
+## AND HOW MANY ARE ON ADAP: NOBODY WILL SAY
+Eighty-one days after ADAP launched, there is no published count of how many people are on it. AISH caseload data has been published monthly since 2008. For ADAP there's nothing. No enrolment, no transfers, no outcomes.
+
+One number has been given to a newspaper. Medicine Hat News reported in August that around 80,000 were on AISH before the transition and 46,000 moved to ADAP on July 1. That's the only figure out there, it came from reporting rather than a published source, and I'm giving it to you exactly that way.
+
+## THE BUSINESS PLAN, AND WHAT ISN'T IN IT
+Every year the ministry publishes a plan setting out what it will do and what it will measure. This year's is open.
+
+It sets targets for affordable housing units, for how fast AISH decisions get made, for seniors applying online, for continuing care, for employment services.
+
+**For ADAP there is nothing.** Not how many people find work. Not how many keep it. Not how many leave the program. The program built around employment has no published measure of whether anyone gets employed.
+
+The one employment measure it does have is for career and employment services generally. The 2024 actual was **67 per cent**. The target for 2026, 2027 and 2028 is **65 per cent**. Below where they already were, and flat for three years.
+
+## ON AISH DECISION TIMES, AND A CORRECTION TO MY OWN FIRST READING
+The plan targets nine weeks to decide AISH medical eligibility. The most recent actual was 5.3 weeks.
+
+My first reading of that was that they'd decided to get slower. Then I checked last year's plan, and that isn't right. The nine week target has been sitting there since at least last year's version, word for word, explanation and all.
+
+Here's what actually happened. In 2022-23 it took 9.1 weeks. In 2023-24 it dropped to 4.3, and the ministry says in its own footnote that it added **temporary adjudicator positions**. Then it slipped to 5.3.
+
+So the honest version is this. They hired temporary help, decisions got twice as fast, and the target was never lowered to lock that in. They're still measuring themselves against a bar they cleared three years ago. And the question I'd want answered is what happened to those temporary positions, because performance has been sliding since.
+
+One more thing. The measure's title says the clock starts when your file is ready for medical adjudication, but the paragraph underneath says the time includes how long applicants take to get their documents in. Those can't both be true, and nobody reading the plan can tell which it is.
+
+## THE WORST NUMBER I'VE FOUND
+If you have a dependent child or a partner, and you stayed on AISH, and you work.
+
+The old rules let you keep the first **$2,612** a month of earnings, every dollar of it, and half of the next chunk. The new AISH rules let you keep **$350**, whether you have a child or not.
+
+At about $3,349 a month of net earnings, you're **$2,630.50 a month worse off** than you'd have been under the old rules. Every month. That's more than a full AISH payment.
+
+For a single client with no children, the same comparison is $1,190.50, which I gave you last night. This is the version for households with kids or a partner, and it's more than double.
+
+## AND ONE THAT CUTS THE OTHER WAY
+You're going to hear this from me before you hear it from anyone else.
+
+If you're single, on ADAP, and earning more than about $1,200 a month after tax, the new formula takes **less** off you than the old AISH rules did. At $3,000 a month it takes around $480 less.
+
+That's real. What you lost is the $200 off the base rate and the whole Canada Disability Benefit through the clawback. You didn't lose on the earnings formula, and I'm not going to tell you that you did.
+
+For households with children, there's no such crossover. ADAP takes more than the old rules right across the range, because the old exemption was so much bigger.
+
+## A CORRECTION, AND IT'S IN YOUR FAVOUR
+If you heard me say the exemption for non-work income dropped from $875 to $600 for anyone with a partner or a child, that's only half right.
+
+It's correct if you have a dependent child and **no** partner. That's a $275 a month cut.
+
+It's wrong if you have a partner who gets a pension, CPP, EI or workers compensation. Under the old rules all of that shared one $875 exemption with your own investment income. The new rules split it in two: $600 for you and a separate $1,200 for your partner. That's **$1,800 instead of $875**, and the $1,200 piece goes up every January from 2027.
+
+For those households it roughly doubled, and I told you it got cut. I'm fixing that tonight rather than quietly, because if I only correct the ones that go the government's way, you'd be right to stop trusting me.
+
+## THE PAYMENTS THAT WENT WRONG IN JULY, WHICH I SHOULD HAVE COVERED AT THE TIME
+In the first month of the new system, people were paid the wrong amount or not paid at all. The ministry blamed a technical issue with new payment software and said about two per cent of AISH clients were affected. Against 80,172 people, that's roughly **1,600**. Marie Renaud says the complaints reaching her office suggest more.
+
+Some were shorted $400. Some only got $400. Some got nothing.
+
+The department told three different news outlets three different dates for when it was fixed: July 29, July 31, and August 1. Medicine Hat News reported on August 14, two weeks after the last of those, that people were still chasing money.
+
+One woman in Edmonton was paid ten days late, borrowed from family for a car payment, and spent two days on the phone before reaching an AISH operator.
+
+Renaud also reported that clients whose rent was paid automatically through the AISH trustee system didn't have that carried over to ADAP, so their rent went unpaid.
+
+I missed this at the time and I'm sorry. Payments for the October period land on the **24th**. If yours is wrong or doesn't arrive, tell us the same day.
+
+## THE GOVERNMENT PAGE THAT'S TELLING PEOPLE THE WRONG THINGS
+The alberta.ca page for AISH and ADAP clients about federal disability supports has four problems on it right now.
+
+It says the Canada Disability Benefit is up to $200 a month. It's been **$204.20** since July.
+
+It says the extra $150 will arrive by March 2027. The first payments went out on **September 17**.
+
+It tells you to file your **2024** taxes for the CDB. For this benefit year it's your **2025** return.
+
+And it says that where AISH pays your doctor for the disability tax credit assessment up front, you have to repay AISH when the federal money arrives. If that applies to you, ask what the amount is before the money lands.
+
+That page was published June 26, six days before ADAP started, and hasn't been touched since.
+
+## TWO OTHER THINGS FROM THE PLAN
+The target for affordable housing units and rental subsidies for this year was **2,800** in last year's plan. In this year's plan the target for the same year is **1,600**. That's a 43 per cent cut to a target for a year already underway. The 2027-28 target dropped from 4,300 to 2,900.
+
+And in fairness, the employment services budget went up. Career and employment services went from $184.8 million to $246.8 million, a rise of about a third. They did put money behind it. What they didn't do is set any measure of whether it works.
+
+## IF YOU LIVE IN A CONTINUING CARE HOME
+Your accommodation charge went up 1.8 per cent on August 1. The $373 a month you're guaranteed for everything else, phone, clothes, haircuts, did not move. It's scheduled to rise on January 1, and by law it can't rise by more than 2 per cent.
+
+The room is indexed to full inflation every August. Your spending money is capped at 2 per cent every January.
+
+## THE ENERGY REBATE: 9 DAYS
+Automatic if you were on AISH, ADAP, Income Support or the Seniors Benefit **before July 1**, and it won't affect your other benefits.
+
+If you came on **after July 1**, you apply yourself at alberta.ca/alberta-energy-rebate by **September 30**. You need 2025 taxes filed, a verified Alberta.ca account, and an address matching your ID. Roommates and adult kids at home each apply separately. Alberta Supports will do it with you.
+
+## THE HERITAGE FUND
+Still **$31.9 billion** as of December 31, 2025. That's 264 days ago, and the annual report for the year that ended in March still isn't out.
+
+That's tonight. Every figure here came out of a government document or dataset, and if you want the page number, ask and we'll send you the document.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+},
+{
   date: "2026-09-20",
   title: "Where Things Stand \u2014 September 20, 2026",
   body: `Tonight I have the answer to the question I've never been able to answer for any of you.
