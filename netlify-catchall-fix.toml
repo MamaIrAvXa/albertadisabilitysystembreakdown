@@ -1,0 +1,56 @@
+# ─────────────────────────────────────────────────────────────────────────
+# CATCH-ALL FIX — paste these ABOVE the existing catch-all in netlify.toml
+#
+# The problem, confirmed live on 2026-09-23: the catch-all at the bottom of
+# netlify.toml serves index.html at status 200 for anything missing. So a
+# broken PDF link returns the homepage — 117,992 bytes of HTML — with a
+# success code and content-type: text/html. The viewer shows a blank page,
+# or the download won't open, or the browser silently lands back on the
+# homepage. Nothing errors, so nobody reports it, and no status-code checker
+# can find it.
+#
+# The catch-all exists so that client-side routes resolve. Files do not need
+# it. These rules carve the asset folders out of it, so a missing file fails
+# the way a missing file should.
+#
+# Order matters: Netlify applies the FIRST matching rule, so anything below
+# the catch-all never runs. These must go above it.
+# ─────────────────────────────────────────────────────────────────────────
+
+[[redirects]]
+  from = "/pdfs/*"
+  to = "/404.html"
+  status = 404
+  force = false
+
+[[redirects]]
+  from = "/assets/*"
+  to = "/404.html"
+  status = 404
+  force = false
+
+[[redirects]]
+  from = "/audio/*"
+  to = "/404.html"
+  status = 404
+  force = false
+
+[[redirects]]
+  from = "/js/*"
+  to = "/404.html"
+  status = 404
+  force = false
+
+[[redirects]]
+  from = "/css/*"
+  to = "/404.html"
+  status = 404
+  force = false
+
+# force = false means a real file at that path is served normally; the rule
+# only fires when nothing is there. So nothing that currently works breaks.
+#
+# If /404.html does not exist yet, either create one or change `to` to
+# "/index.html" while keeping `status = 404` — the status code is the part
+# that matters, because it is what makes the failure visible to a reader,
+# to a crawler, and to verify-paths.js.

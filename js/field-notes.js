@@ -16,6 +16,47 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "New tools: getting the Privacy Commissioner to look at your file request",
+        date: "2026-09-23",
+        body: `A lot of you asked for your AISH or ADAP file, and then either heard nothing or got back less than you asked for. Today there are two new fillable forms for the next step, both in the Take Action section. Both open and fill on a phone, tablet, or computer.
+
+## WHAT THESE FORMS DO
+They ask Alberta's Information and Privacy Commissioner (the OIPC) to review how the government handled your access request. The OIPC is independent of the government. It's free.
+
+This isn't an appeal of your AISH or ADAP decision. It's about your request for your records, and whether it was handled properly.
+
+## WHICH ONE DO YOU NEED?
+**If you asked for your file and heard NOTHING back: use the No Response Edition.**
+
+The government has **30 business days** to answer an access request. If that time has passed and you've had no answer and no letter saying they need longer, the law treats their silence as a refusal. That's called a "deemed refusal," and you can take it straight to the Commissioner.
+
+This edition has some answers filled in to save you time: the ministry's name, your province, the "No Response" box, and a starting statement on page 7 that explains what happened. You just fill in your details and the date you made your request. Change anything that doesn't fit.
+
+**If you DID get a letter back, but something's wrong: use the general edition.**
+
+This one covers everything else: parts of your file were blacked out or held back, you think records are missing, they took an extension you disagree with, they said your request was abandoned, or you're being charged fees.
+
+**Please check before you pick.** If you got any letter with a decision in it, even one you disagree with, that isn't "no response." Use the general edition.
+
+## WHAT'S THE SAME IN BOTH
+**Your deadline: 60 business days.** For a request nobody answered, count from the day their 30 business days ran out. Don't wait.
+
+**Send it to TWO places.** This is the step that catches people. It has to go to the Commissioner **and** to the ministry you asked. The OIPC's address is on page 8. The ministry's contact is on the letters or emails they sent you. If you only send it to the OIPC, the law hasn't been met.
+
+**15 pages maximum**, including the form. Attach your original request and any letter they sent you. Don't attach the records you did get back.
+
+**Send it all at once.** The OIPC returns forms that come in pieces or are missing attachments.
+
+**Answer your phone.** The OIPC prefers to call. If calls aren't returned, your file may be closed.
+
+## ONE IMPORTANT THING
+Please don't send your completed form to the campaign. We can't file it for you, and your personal file information shouldn't sit in our inbox. But if you're stuck on how to fill something out, ask us, without your personal details, and we'll walk you through it. You can also call the campaign line at **587-590-3590**.
+
+Both forms are ADSB plain-language editions of the OIPC's official form. They're not official OIPC forms, and the official version is at oipc.ab.ca. If you have questions about the OIPC's process, their line is **780-422-6860**, or toll free **1-888-878-4044**.
+
+You asked for your own records. You have a right to them. This is how you hold them to it.`
+      },
+      {
         title: "We have a phone number now",
         date: "2026-09-23",
         body: `**587-590-3590**
