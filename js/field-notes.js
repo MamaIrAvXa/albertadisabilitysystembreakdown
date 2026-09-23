@@ -16,6 +16,24 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "We have a phone number now",
+        date: "2026-09-23",
+        body: `**587-590-3590**
+
+Some things are easier to say out loud than to type, and some of you have told me that writing it all out is the hardest part. So now there's a line.
+
+Call it or text it. If I can't pick up, leave a message with your name, your number and roughly what it's about, and I'll get back to you.
+
+## A FEW HONEST THINGS ABOUT IT
+It's one person with a phone, not an office. I'll be as quick as I can, and messages get returned in the order they come.
+
+Email still gets you a written answer with the section numbers attached, and that's better for anything you might need to prove later. **albertadisabilitybreakdown@outlook.com**
+
+And if you're in crisis, please don't wait on me. Call or text **988** any hour, or the **Alberta Mental Health Help Line at 1-877-303-2642**.
+
+The number's on the website and it'll be on everything from here on.`
+      },
+      {
         title: "What they ask you: both halves of Alberta, written down",
         date: "2026-09-22",
         body: `Two members have now recorded exactly what happened in their employment services intake, one in the north and one in the south. Both are in the Documents section, as **What They Ask: Alberta North** and **What They Ask: Alberta South**, and both are linked from the employment assessment card at the top of the site.
