@@ -16,6 +16,91 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Acting for someone on AISH or ADAP, and getting a guardianship order reviewed",
+        date: "2026-09-24",
+        body: `This came up more than anything else today, from both directions. Some of you are helping someone and being told your paperwork isn't enough. Some of you are under an order, trying to get it reviewed, and being passed from office to office. Here's both in one place.
+
+## PART ONE: IF YOU'RE HELPING SOMEONE WITH THEIR AISH OR ADAP FILE
+There are three kinds of paper, and they don't do the same thing.
+
+**A Consent to Release Information (form AAS13391)**, signed by the person on AISH or ADAP. This lets the office talk to you about their file. It doesn't give you any say over the money.
+
+**A Supported Decision-making Authorization**, filed with the Office of the Public Guardian and Trustee. This is the one that catches people. Alberta describes it as covering personal, non-financial decisions, and the supporter can only see the information needed for a decision. AISH and ADAP are a financial benefit. So on its own, it may not get you a conversation about the file, and it never reaches the money.
+
+**For the money**, the policy manual lists four routes and only four:
+
+A financial administrator appointed under the AISH Act.
+
+A trustee appointed by the court.
+
+An administrator under the Indian Act.
+
+An attorney under a Power of Attorney that gives authority over the benefit.
+
+If a worker pushes back, this is the line from their own manual: "AISH and ADAP personal representatives can be a financial administrator, a trustee, or an attorney." Supported decision-making isn't on it.
+
+So if the person can sign, get the consent form signed too, even if you already have the supported decision-making one. It's free, it takes minutes, and it ends the argument before it starts.
+
+## SEND IT YOURSELF
+The AISH/ADAP office won't go and get it from the Public Guardian's office. Email it to the office that holds the file:
+
+**North, including Edmonton:** northzoneaish@gov.ab.ca
+
+**Central:** aish.centralregion@gov.ab.ca
+
+**Calgary:** calgaryaish@gov.ab.ca
+
+**South:** southaish@gov.ab.ca
+
+The office is named on any letter they've had. Don't send it to PO Box 17000 in Edmonton. That one's for new applications only.
+
+In the email, ask them to confirm in writing that it's on file and the date they recorded it. Keep the sent email. That's your proof six months from now.
+
+And if someone agreed to have a financial administrator, the manual says they can withdraw that consent in writing.
+
+## PART TWO: IF YOU'RE UNDER A GUARDIANSHIP OR TRUSTEESHIP ORDER AND WANT IT REVIEWED
+**You can apply yourself.** Alberta's public legal education guide says the represented adult, the guardian or any interested party can apply to the court for a review. You're named first. You don't have to wait for your guardian, your trustee or the Public Guardian and Trustee to do it.
+
+**Your own doctor may be able to do the assessment.** Everyone gets told to find a designated capacity assessor, but Alberta's own page says physicians and psychologists can also do capacity assessments, even if they aren't on the list. Start with someone who already knows you. If you need the list, it's at alberta.ca/find-capacity-assessor.
+
+**The price is capped.** Up to $500 for guardianship or trusteeship, up to $700 for both, up to $500 for co-decision-making. If you're quoted more, ask why. If you can't afford it, tell the Public Guardian and Trustee. Their own page says to contact them when cost is a hardship.
+
+**The $100 court filing fee isn't automatic.** You can ask for the costs to be paid by the Crown. Nobody will offer it. You ask on the application.
+
+**Watch the timing.** The Capacity Assessment Report (Form 4) has to be dated within the 6 months before you file, so don't get it done and then sit on it. A review usually takes about 6 months. The main forms are Form 14 (Application) and Form 15 (Affidavit of Applicant), and they're free at alberta.ca/office-public-guardian-trustee-forms. Don't pay a website for them.
+
+A capacity assessment looks at whether you can understand a particular kind of decision. It isn't a verdict on you as a whole person. If your situation has changed, that's exactly what a review is for.
+
+## PUBLIC GUARDIAN AND TRUSTEE OFFICES
+Open 8:15 to noon and 1 to 4:30 on weekdays. Dial **310-0000** first to call toll free from anywhere in Alberta.
+
+**Edmonton (main):** 780-427-2744
+
+**Calgary:** 403-297-3364 (trusteeship 403-297-6541)
+
+**Red Deer:** 403-340-5165
+
+**Lethbridge:** 403-381-5648
+
+**Medicine Hat:** 403-529-3744
+
+**Grande Prairie:** 780-833-4319
+
+**Lloydminster:** 780-871-6490
+
+**St. Paul:** 780-645-6278
+
+If you're being bounced around, write down every contact: the date, who you spoke to, which office, and what they told you. That record turns "I keep getting passed around" into something a supervisor or an MLA's office can act on.
+
+## TWO THINGS WE'RE STILL RUNNING DOWN
+If you know whether a family doctor can bill a capacity assessment to Alberta Health Care, or you've asked the Public Guardian and Trustee about hardship and got an answer, please tell us.
+
+This isn't legal advice. It's where to start and what to ask for.
+
+## IF THIS ONE IS ABOUT YOU
+Having someone else hold authority over your own money, or being passed between offices trying to get it looked at again, is a hard thing to carry. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
         title: "New tools: getting the Privacy Commissioner to look at your file request",
         date: "2026-09-23",
         body: `A lot of you asked for your AISH or ADAP file, and then either heard nothing or got back less than you asked for. Today there are two new fillable forms for the next step, both in the Take Action section. Both open and fill on a phone, tablet, or computer.
