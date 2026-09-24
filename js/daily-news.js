@@ -9,6 +9,52 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-23",
+  title: "Where Things Stand \u2014 September 23, 2026",
+  body: `Here's where things stand tonight.
+
+## PAYMENT DAY IS TOMORROW
+The October AISH and ADAP payment goes out **Thursday, September 24**.
+
+When you check your statement, look for one thing. The one-time $150 federal Canada Disability Benefit supplement **should not** be counted as income. The regulation leaves it out. But the income tables in the policy manual list the Canada Disability Benefit with no exception, and that's how a wrong deduction could happen. If you see money taken off because of the $150, screenshot your statement and tell us.
+
+If your bank account has closed or changed, call your AISH/ADAP office right away and ask for your payment by cheque. Don't wait until the payment bounces.
+
+## TWO DEADLINES THIS WEEK
+**Friday, September 25** is the last day to request a mail-in ballot for the October 19 referendum, according to Elections Alberta.
+
+**Wednesday, September 30** is the deadline to apply for the Alberta Energy Rebate if you joined AISH, ADAP, Income Support or the Seniors Benefit after July 1, or you aren't on one of those programs at all. If you were already on one of them before July, it comes automatically and you don't need to do anything.
+
+## IF ADAP CUTS YOUR BENEFIT OVER EMPLOYMENT
+A reminder, because it came up again tonight. If ADAP reduces or stops your benefit because they say you didn't look for work or didn't take part in an employment support, **that decision can be appealed**. You have **30 days** from the day you get the notice.
+
+The policy manual contradicts itself on this. One section says those decisions aren't appealable. Another section says the only decisions you can't appeal are the ones on a specific list in the appeals regulation, and this one isn't on that list. If a worker tells you that you can't appeal, ask them to put it in writing, then tell us.
+
+## WHAT "AMONG THE HIGHEST" MEANS
+Alberta's ADAP page now says ADAP's benefit is "among the highest in the country," about $300 more a month than most disability programs in Canada. For years, the line for AISH was "the highest." Nobody outside government has published a comparison yet that includes the new ADAP rate, so there's no independent way to check the claim right now. When one comes out, I'll share it.
+
+## THE ADAP CONTRACTORS
+A question came up today about the companies running ADAP employment services. **AKG Canada** has Edmonton and the north, with a $47 million contract. **Serco Canada** has Calgary and the south, with a $51 million contract. Both are five-year contracts. People are referred to them from July 2026 to June 2029, with an optional two-year extension.
+
+Your ADAP benefit comes from the regulation, not from these contracts, so a contract ending doesn't end your benefit.
+
+## A WORD ABOUT MONEY APPS
+If you use a financial app with an advance or "pay later" feature, read its terms. At least one popular app's own terms say that when money lands in your account, it goes **first** to pay back what you owe the app, and only what's left is yours to use. That includes your benefit deposit.
+
+If an app ever takes money you weren't expecting to lose, tell us. There are ways to complain, including to a free outside ombudsman.
+
+## THE HERITAGE FUND
+The last published figure is still **$31.9 billion**, as of December 31, 2025. I checked again tonight and nothing newer has been posted. That figure is now 266 days old. The fiscal year ended March 31, and there's still no annual report for it, 176 days later.
+
+## THE JULY PAYMENT PROBLEM
+If your payment was late or wrong at the end of July, the government said at the time that it was a software problem during the switch to ADAP. It said about 2 per cent of people were affected and that it would be fixed by July 31. I haven't found anything confirming it was. If you're still owed money from that payment, call your office about it, and tell us too.
+
+That's it for tonight. Take care of yourselves, and check your statements tomorrow.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-09-22",
   title: "Where Things Stand \u2014 September 22, 2026",
   body: `A correction, one piece of good news, one thing about appeals that most people don't know, and the dates coming up this week. Take it in pieces.
