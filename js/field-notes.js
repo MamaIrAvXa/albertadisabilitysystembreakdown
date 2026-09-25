@@ -16,6 +16,40 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Long-term disability and AISH/ADAP: who paid the premiums changes everything",
+        date: "2026-09-25",
+        body: `If you get long-term disability (LTD) payments and you're on AISH or ADAP, this one could matter a lot. It updates the August note on the same rule, with the current figures and one warning that wasn't in it.
+
+Alberta's own AISH/ADAP policy manual treats LTD in two completely different ways, depending on who paid for the insurance.
+
+**If YOU paid all of the premiums yourself**, your LTD is **fully exempt**. It isn't counted at all, and it shouldn't reduce your AISH or ADAP by a single dollar.
+
+**If your EMPLOYER paid all or even part of the premiums**, it's counted as **employment income**. On AISH, only the first **$350** a month is exempt, and everything above that comes off dollar for dollar. On ADAP, the first **$700** is exempt, and the rest is reduced gradually.
+
+There's no in-between. If your employer paid any part of it, even a small share, it's treated the same as if they paid all of it.
+
+Why? Alberta only counts income you'd report on your taxes. LTD from a plan you paid for entirely yourself generally isn't taxable, so it isn't counted.
+
+## HOW TO TELL WHICH ONE YOU HAVE
+Your old benefits booklet or collective agreement.
+
+Old pay stubs showing an LTD deduction.
+
+Your tax slips: if your LTD comes on a T4 or T4A, your employer likely paid at least part.
+
+A letter from your insurance company or former employer. You can ask them directly who paid the premiums.
+
+## IF YOU PAID ALL THE PREMIUMS AND YOUR LTD IS BEING COUNTED
+Ask your AISH/ADAP office **in writing** how your LTD is being treated, and send them your proof. If they've been counting it, you may be able to appeal, and you may be owed money back. Appeals have a **30-day deadline** from when you get a decision, so don't wait.
+
+## ONE IMPORTANT WARNING
+If your employer paid any part of the premiums, **don't** argue that your LTD "isn't employment income." Being counted as employment income is what gets you the $350 or $700 exemption. If it were counted as other income instead, like CPP Disability, it would come off dollar for dollar with no exemption at all, and you'd be worse off.
+
+This is from the government's policy manual, Income Type Exemption Table, as it read on **25 September 2026**. Policy can change without notice, so if this affects you, save a copy and ask your office to confirm in writing.
+
+If you think this applies to you, reach out to us and we'll help you figure it out. The campaign line is **587-590-3590**.`
+      },
+      {
         title: "A possible reason some ADAP payments are being held",
         date: "2026-09-25",
         body: `A member of another AISH group shared something a worker told them, and it may explain why some of you get two payments on time and then a held one.
