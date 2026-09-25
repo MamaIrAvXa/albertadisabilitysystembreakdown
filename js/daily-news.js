@@ -9,6 +9,55 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-24",
+  title: "Where Things Stand \u2014 September 24, 2026",
+  body: `Here's where things stand tonight.
+
+## PAYMENT DAY
+The October payment went out today. If you received the one-time $150 federal Canada Disability Benefit supplement, it **should not** have been taken off your AISH or ADAP. The regulation leaves it out of income, and that's been in our records since early August, thanks to Ann Nicol, who found the clause.
+
+Nobody in government has confirmed out loud how it's being handled in practice, so today is the real test. If you see the $150 deducted, screenshot your statement and send it to us.
+
+If anything else on your statement looks wrong or unexplained, the same goes. Ask for the explanation in writing, and tell us too.
+
+## THE ADAP EMPLOYMENT CONTRACTS, IN EXACT NUMBERS
+Last night I gave rounded figures for the two companies running ADAP employment services. The exact amounts, from the government's own procurement posting:
+
+**AKG Canada** (Edmonton and the north): **$46,963,570.99**
+
+**Serco Canada** (Calgary and the south): **$50,941,933.78**
+
+Together: **$97,905,504.77**, from April 1, 2026 to an estimated June 30, 2031.
+
+Neither company is based in Alberta. AKG's listed address is in Victoria, BC, and Serco Canada's is in Toronto.
+
+What I haven't found yet is the contract itself: what Alberta requires of these companies, how their results are measured, and who checks. It isn't publicly downloadable, so we're requesting it. Until then, what I can tell you is that no public report on how these contracts are performing has been found. That's a gap in the public record, not proof that nobody's checking.
+
+## PHONE CALLS ENDING
+A lot of you have told me today that calls with AISH/ADAP ended on you. If it's happened to you, please tell us privately with the date, the time, how long you were on hold, and what happened. Dated accounts are what turn this from complaints into a pattern someone has to answer.
+
+And a reminder that works in our favour: when things get heated, we stop being heard. If a call is hard for you, bring it to someone who can make it for you. That's what advocates are for.
+
+## SOME GOOD NEWS
+One of our members shared today that a worker named Kim called him back when she said she would, had his file reviewed, and fixed an underpayment that came to nearly three times what he'd first been given.
+
+The good ones are in there. When you meet one, write their name down too, and let their supervisor know.
+
+## SIX DAYS LEFT: ENERGY REBATE
+If you joined AISH, ADAP, Income Support or the Seniors Benefit **after July 1**, you have to apply for the Alberta Energy Rebate yourself, and the deadline is **Wednesday, September 30**. If you were already on one of those programs before July, it comes automatically.
+
+## THE HERITAGE FUND
+The last published figure is still **$31.9 billion**, as of December 31, 2025. I checked again tonight, and nothing newer has been posted. That figure is now 267 days old. There's still no annual report for the fiscal year that ended March 31, 177 days later.
+
+## COMING UP
+The Legislature's fall sitting starts **October 27**. Nothing about AISH or ADAP is scheduled to come up before then.
+
+That's it for tonight. Check your statements, look after each other, and get some rest.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-09-23",
   title: "Where Things Stand \u2014 September 23, 2026",
   body: `Here's where things stand tonight.
