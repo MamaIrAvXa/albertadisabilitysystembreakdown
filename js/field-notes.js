@@ -16,6 +16,62 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Homeschooling a child with a disability in Alberta: what to know before you decide",
+        date: "2026-09-25",
+        stream: "FSCD",
+        body: `A lot of parents are asking about this, often because school isn't working for their child and they're running out of options. Here's what the rules say, and what they leave out.
+
+## THE DEADLINE IS NEXT TUESDAY
+Home education funding is counted on **September 29**. To be funded this school year, your child needs to be registered with a supervising school authority by then.
+
+## YOU CAN DO IT, AND YOU DON'T NEED A DIAGNOSIS
+Alberta's Home Education Regulation doesn't mention disability at all. Nobody can stop you from home educating a disabled child, and there's no assessment or approval based on your child's needs.
+
+You also don't have to follow the regular Alberta curriculum. The regulation lets you build a program around your child, as long as it works toward the required learning outcomes. For a child who can't work at grade level, that matters a lot.
+
+## THE MONEY, AND THE PART NOBODY TELLS YOU
+A home-educated student in grades 1 to 12 brings in **$1,856.06** a year. At least half of it, **$928.03**, is offered to you as reimbursement for learning materials, with receipts. For kindergarten, it's $928.03 in total, and $464.02 to you.
+
+That amount is the same whether or not your child has a disability. And Alberta's own funding manual **excludes** home-educated students from the grants that pay for disability supports in school:
+
+Specialized Learning Supports, which pay for things like OT, speech therapy and assessments.
+
+The Classroom Complexity Grant.
+
+Program Unit Funding, for home-educated kindergarten children.
+
+So when a child leaves school, the funding meant for their support doesn't follow them. The cost of that support moves to you. **If a school is suggesting homeschooling because it can't cope with your child, know that before you decide.**
+
+## FSCD DOESN'T STOP
+FSCD is based on your child's disability and your family's needs, not on school enrolment. Nothing in the FSCD law ties supports like respite or aide time to attending school. If a worker tells you otherwise, ask for it in writing.
+
+## TWO FREE SUPPORT PROGRAMS FOR HOME-EDUCATING FAMILIES
+Both train and advise **you, the parent**. Neither provides ongoing hands-on therapy for your child.
+
+**Khan Communication Services**, on behalf of Alberta Education. You get live sessions with speech therapists, OTs, behaviour and mental health therapists and reading consultants, plus some assessments. No diagnosis is needed to start. Call 780-440-3251, extension 1, or email homeed@khan-services.com. Important: their rules say parents can't be receiving specialized services from an FSCD-funded team and use this program at the same time. **If you have FSCD services, call both before you give anything up.**
+
+**AISCA** (Association of Independent Schools and Colleges of Alberta) offers consultation, workshops and some assessments for any home-educating parent in Alberta. Call 780-469-9868.
+
+## QUESTIONS TO ASK A SUPERVISING SCHOOL AUTHORITY
+Will you accept a program that doesn't follow the regular curriculum?
+
+How do you handle the parent's half of the funding, and how quickly do you reimburse?
+
+Does anyone on your team understand disability?
+
+What services and resources of yours can my child still use?
+
+They're required to offer you advice, assign supportive teachers, and tell you what services and resources they have. Ask them to be specific.
+
+## BEFORE YOU PULL YOUR CHILD OUT
+If you're leaving because of a conflict with the school, put your concerns and your decision in writing, and keep copies. Let your child's doctor know. A calm, documented decision protects you.
+
+If you're homeschooling a child with a disability, or have tried to, please tell us what worked and what didn't. There's very little information out there, and your experience helps the next parent.
+
+## IF YOU ARE AT THE END OF YOUR ROPE
+Deciding this because school has stopped working for your child is an exhausting place to be, and it is not a failure on your part. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
         title: "Acting for someone on AISH or ADAP, and getting a guardianship order reviewed",
         date: "2026-09-24",
         body: `This came up more than anything else today, from both directions. Some of you are helping someone and being told your paperwork isn't enough. Some of you are under an order, trying to get it reviewed, and being passed from office to office. Here's both in one place.
