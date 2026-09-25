@@ -16,9 +16,44 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "A possible reason some ADAP payments are being held",
+        date: "2026-09-25",
+        body: `A member of another AISH group shared something a worker told them, and it may explain why some of you get two payments on time and then a held one.
+
+## WHAT THEY WERE TOLD
+The new software brought in with ADAP in July has an income-reporting setting: **monthly** for people who report earnings, **annual** for people who don't.
+
+If you're set to monthly, your payment can be held until you contact a worker.
+
+Even when a worker switches someone to annual, the setting may switch itself back to monthly every second payment. That would cause a hold.
+
+The worker said this isn't something staff can permanently fix yet, and that they're frustrated about it too.
+
+**Please treat this as one worker's explanation, passed along.** It hasn't been confirmed officially. But it matches the government's own statement in July that there were software problems with the switch to ADAP.
+
+## WHAT YOU CAN DO
+**About a week before payment day, email your AISH/ADAP office.** Ask them to check that there's no hold on your next payment, and ask whether your income reporting is set to monthly or annual. Email gives you a record, and it keeps the phone lines open for people who can't email.
+
+**If your payment doesn't arrive on payment day**, contact your office right away and ask them to release it.
+
+**Tell us if this happens to you:** the date, whether your payment was held, and whether you were told it was about income reporting. If there's a pattern, dates are how we prove it and get it fixed.
+
+## YOUR OFFICE EMAIL
+**North, including Edmonton:** northzoneaish@gov.ab.ca
+
+**Central:** aish.centralregion@gov.ab.ca
+
+**Calgary:** calgaryaish@gov.ab.ca
+
+**South:** southaish@gov.ab.ca
+
+## IF YOUR PAYMENT IS BEING HELD RIGHT NOW
+A payment that doesn't arrive is not a small thing, and it is not your fault. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+      },
+      {
         title: "Homeschooling a child with a disability in Alberta: what to know before you decide",
         date: "2026-09-25",
-        stream: "FSCD",
+        stream: "Children / FSCD",
         body: `A lot of parents are asking about this, often because school isn't working for their child and they're running out of options. Here's what the rules say, and what they leave out.
 
 ## THE DEADLINE IS NEXT TUESDAY
@@ -2622,6 +2657,51 @@ This is how this room is supposed to work. We check, and when we get something w
     cat: "Reflections",
     blurb: "The nightly notes \u2014 for the times the numbers can wait until morning.",
     items: [
+      {
+        title: "What's next: growing to cover every age",
+        date: "2026-09-25",
+        body: `I have some news to share.
+
+When this started, it was about one thing: the move from AISH to ADAP. That work isn't going anywhere. But over the last few months, your questions have been telling me something. Disability doesn't start at 18 and it doesn't stop at 65, and families are having to piece together help from a dozen places that don't talk to each other.
+
+So I'm expanding.
+
+## COMING FIRST: CHILDREN AND FAMILIES
+**FSCD** (Family Support for Children with Disabilities): what it covers, what it doesn't, and how to push back.
+
+**School funding for disabled children**: where the money goes, and what happens to it when a child leaves school.
+
+**Other options for parents of disabled students**, including home education.
+
+**PDD** (Persons with Developmental Disabilities), and the move into it, which can begin at 16 while FSCD is still running.
+
+## AFTER THAT: SENIORS AND CARE
+**Seniors benefits and CPP.**
+
+**Continuing care.**
+
+**Home care.**
+
+The goal is a big one. I want this to be the place in Alberta where you can find disability information for every age, all under one roof. Birth to seniors, one place, in plain language.
+
+## WHAT WON'T CHANGE
+The same rules apply to everything:
+
+Every fact comes from the source: the law, the regulation, the government's own documents.
+
+When I don't know something, I'll say so.
+
+When I get something wrong, I'll correct it publicly, in the same place.
+
+We look at what policies do to people, not at who to blame.
+
+## HOW YOU CAN HELP
+If you have lived experience with FSCD, PDD, school supports, seniors benefits, continuing care or home care, your knowledge is exactly what makes this work. Share your stories and your questions with us. Tell us where you got stuck. That's where I'll dig first.
+
+It's going to take time to build properly. But I'd rather build it right than build it fast.
+
+Thank you for being here. This community is the reason any of it is possible.`
+      },
       {
         title: "Nothing is due tonight",
         date: "2026-07-11",
