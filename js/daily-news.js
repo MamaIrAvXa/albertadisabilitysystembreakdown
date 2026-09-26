@@ -9,6 +9,48 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-25",
+  title: "Where Things Stand \u2014 September 25, 2026",
+  body: `Here's where things stand tonight.
+
+## TONIGHT AT MIDNIGHT: MAIL-IN BALLOTS
+If you want to vote by mail in the October 19 referendum, you can still apply online until **midnight tonight** at elections.ab.ca. Look for "Request a Special Ballot," and use your legal name.
+
+If you miss it, advance voting runs **October 13 to 17**, and election day is **October 19**.
+
+## HELD PAYMENTS: MORE OF YOU TODAY
+More members told me today that their October payment didn't arrive, or arrived short. Some were told it was because of how their income reporting is set up in the new system. Two were at the Calgary office on the same morning with the same problem.
+
+If your payment didn't arrive or looks wrong:
+
+**Email your office** and ask whether your payment is on hold, and for a written breakdown.
+
+**If you can get to an office in person** and the front desk can't help, politely ask to speak to a supervisor or manager. One member did that this week and got his missing money back.
+
+**Tell us the date and what you were told.** We're working on getting an official answer about why this keeps happening, and your dates are what make that possible.
+
+## FIVE DAYS LEFT: ENERGY REBATE
+If you joined AISH, ADAP, Income Support or the Seniors Benefit **after July 1**, you have to apply for the Alberta Energy Rebate yourself by **Wednesday, September 30**. If you were already on one of those programs before July, it comes automatically.
+
+## FOR PARENTS: TUESDAY IS THE HOME EDUCATION COUNT DATE
+If you're thinking about homeschooling your child this year, funding is counted on **September 29**. Your child needs to be registered with a supervising school authority by then.
+
+The full note on home education for disabled children is in Field Notes, including the part nobody mentions: the grants that pay for disability supports in school do not follow a child who leaves.
+
+## A REMINDER ON WHAT YOU CAN EARN
+Nothing changed tonight, but it keeps coming up. According to the government's policy manual, the first **$350** a month you earn on AISH doesn't count against you, and on ADAP it's **$700**, or **$1,100** if you have a dependent.
+
+You may still see **$1,072** floating around. That was the old AISH rule before July, not today's.
+
+## THE HERITAGE FUND
+I couldn't check tonight. The government's open data site has been returning errors for several days. The last figure I confirmed is **$31.9 billion**, as of December 31, 2025. I'll keep checking.
+
+That's it for tonight. Take care of yourselves, and each other.
+
+## IF TONIGHT IS HEAVY
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-09-24",
   title: "Where Things Stand \u2014 September 24, 2026",
   body: `Here's where things stand tonight.
