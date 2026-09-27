@@ -9,6 +9,75 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-26",
+  title: "Where Things Stand \u2014 September 26, 2026",
+  body: `Thank you to everyone who came to Tea Time today. Here's where things stand tonight.
+
+## FOUR DAYS LEFT: THE ENERGY REBATE
+If you came onto AISH, ADAP, Income Support or the Seniors Benefit **after July 1**, you have to apply for the $100 energy rebate yourself, and the deadline is **Wednesday, September 30**. If you were on one of those programs before July 1, it comes automatically. The government's own page says the rebate is non-taxable and won't affect your other benefits.
+
+Apply through alberta.ca only. Scam texts about the rebate are going around, so don't click a link in a text.
+
+## THURSDAY: BILL 11
+Starting **October 1**, if you have Alberta Coverage for Seniors or Non-Group Coverage **and** a private plan (from work, a retiree plan, or a spouse's plan), your private plan gets billed first and the government plan pays what's left.
+
+If you only have government coverage, nothing changes for you. AISH and ADAP health benefits aren't one of the two programs named. If you're close to 65 and have a retiree or spouse's plan, ask your pharmacist to bill your private plan first from Thursday.
+
+## PAYMENTS THAT DIDN'T ARRIVE
+The October payment date was Thursday, September 24. More of you told me this week that your payment was held, short, or only partly paid. A few were told it has to do with how income reporting is set up on their file. One member's worker switched her file to "annual reporting" after three held months in a row.
+
+I can't tell you yet that that's the official reason. What helps:
+
+**Email your office** and ask whether your payment was issued, held or reduced, why, and for a written breakdown.
+
+**Ask them to confirm in writing** how your income reporting is set up on your file.
+
+**If you're short on food or rent over a weekend**, the 24-hour line is **1-866-644-5135**.
+
+**Send us the date and what you were told.**
+
+For the record: in August, the province told the Edmonton Journal a technical system error affected about **1,605 people**, and said staff were working with a "very small number" of clients who still had problems. It's the end of September and it's still happening.
+
+## IF YOU'RE APPLYING OR REAPPLYING
+Three things we learned this week.
+
+**Question 3 on the application** asks if you're receiving Income Support. ADAP and AISH are **not** Income Support. If ADAP is what you're on, answer No and fill in the Income and Asset sections. Answering Yes tells you to skip them, and a missing section can hold up your application.
+
+**If you get a letter asking for more documents (form DS5522)**, look at the top right. It lists an email address, **ApplyDIA@gov.ab.ca**, that isn't on the government's website. If your letter lists it, you can use it. Put your first name, last name and PID number on every page and in the subject line, and send big files in smaller pieces.
+
+**If you were moved from AISH to ADAP**, the government covers the cost of one medical report to go back to AISH. Ask in writing whether you'll ever have to pay it back, and keep the answer.
+
+Our Medical Report Guide walks your doctor through what the report needs to say. It's on the pinned card at the top of the site, and in the Documents section.
+
+## CHECK YOUR CDB LINE
+The federal Canada Disability Benefit maximum for July 2026 to June 2027 is **$204.20** a month, according to canada.ca. Alberta's own fact sheet still says "up to $200" because it was written in April.
+
+If your CDB is less than the maximum, compare what Ottawa paid you with the CDB deduction on your AISH or ADAP statement. I've now seen it handled two different ways, including on my own statement. If yours doesn't match, ask in writing why.
+
+## CORRECTIONS, IN WRITING AS PROMISED
+Two things I got wrong at Tea Time on September 19.
+
+**The transition benefit.** I said section 11 of the regulation applies income deductions to it "the same as everything else." I had it backwards. The transition benefit is the **only** personal benefit your income comes off. Every other personal benefit is left alone by your income.
+
+**The escalator.** The government can set a percentage **on or before** January 1, not only before. And the lesser of 2% and inflation is the **fallback**, used when no percentage is set.
+
+## DATES TO KEEP
+**Wednesday, September 30:** energy rebate deadline, if you came on after July 1.
+
+**Thursday, October 1:** Bill 11 changes who pays first.
+
+**October 13 to 17:** advance voting.
+
+**Monday, October 19:** referendum day.
+
+**Tuesday, October 27:** the Legislature sits again.
+
+**January 1:** the first escalator increase under the new regulation.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-09-25",
   title: "Where Things Stand \u2014 September 25, 2026",
   body: `Here's where things stand tonight.
