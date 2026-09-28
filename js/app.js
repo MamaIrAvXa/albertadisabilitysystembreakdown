@@ -49,7 +49,7 @@ const DOCUMENTS = [
   { cat: "new", title: "DS2444B \u2014 The Clinician Package (Send This One)", desc: "The whole thing in one file, twelve pages, for handing or emailing to your doctor or nurse practitioner: the one-page briefing on what changed in July, followed by the full question-by-question completion guide. This is the one to send if you are only sending one. Written for the clinician, not for the patient. It opens with what most offices have not been told \u2014 that form EMP11587 authorises payment for the examination and for completion of the report as two separate fees, invoiced directly, arranged before the report is done and not after; and that a nurse practitioner may complete the DS2444B, which is not restricted to physicians. Then it maps every field to what the adjudication actually turns on. Nothing in it asks a clinician to record a finding they did not make.", file: "/pdfs/aish-adap/september-2026-docs/DS2444B_Clinician_Package_Sept2026.pdf", released: "2026-09-20" },
   { cat: "new", title: "DS2444B \u2014 What Changed On July 2, And Why It Is On Your Desk", desc: "One page, for a clinician who has just been handed a DS2444B by a patient assessed as severely handicapped years ago, with no explanation of why. Sets out what happened on 2 July, that the move cannot be appealed, and that a new application is the only route back \u2014 which is why the form is on their desk. Carries the payment point (EMP11587, two separate fees, arranged before completion) and the nurse-practitioner point. Then the seven things that decide how a report is read: rate to the clinical picture rather than under-rating to appear conservative; write the range for episodic conditions rather than averaging a good day and a bad one; the cumulative question asked twice at Q40 and Q68; how accommodation language reads as capable with support, which is the ADAP finding rather than the AISH one; prognosis at Q75, where Undetermined tends to default the file to the lower program; explaining non-adherence rather than leaving \u201cnon-compliant\u201d unexplained; and that Netcare is not the full record. Print it and hand it in at the desk.", file: "/pdfs/aish-adap/september-2026-docs/DS2444B_Clinician_Briefing_OnePager_Sept2026.pdf", released: "2026-09-20" },
   { cat: "new", title: "DS2444B \u2014 The Medical Report, A Completion Guide", desc: "Four pages, question by question, for the health professional completing the report. Maps each field to what the adjudication turns on and offers wording keyed to the eligibility test \u2014 a severe and permanent impairment that substantially limits the ability to earn a livelihood. Every block is scaffolding to be completed to the true clinical picture and no further, with any clause that does not fit the patient deleted. Contains the framing the guide calls the single most important one: the accommodation trap. Accommodation language reads as capable with support; where it is clinically true, the stronger statement is that no accommodation renders competitive employment reliable or sustainable, because an employer can adapt a workstation but none can adapt to unpredictable incapacity. Covers the treating relationship at Q1\u2013Q4, diagnoses and onset dates at Q5\u2013Q10 including comorbidities that compound function even where individually sub-severe, and on through the rating scales and prognosis. Accuracy is the strongest position and the one that withstands review.", file: "/pdfs/aish-adap/september-2026-docs/DS2444B_Completion_Guide_Sept2026.pdf", released: "2026-09-20" },
-  { cat: "new", stream: "FSCD", title: "Two Rules That Shape What Your Child Gets \u2014 And Neither Is In The Law", desc: "The first FSCD document. Two rules decide almost everything a family receives, and neither appears in the Family Support for Children with Disabilities Act or its regulation. The first is a clock: without a confirmed diagnosis a file can be opened for family supports only \u2014 counselling, travel, parking, meals, clothing, sibling care, up to 240 hours of respite \u2014 while everything aimed at the child is held back, and at two years the child stops being eligible at all. The Act and regulation were read end to end and searched: neither contains a two-year limit, neither creates a category of child awaiting a diagnosis, and the regulation does not use the word diagnosis anywhere. Sections 3(1) and 4(1)(a) require the same words, and the manual reads that one sentence three different ways \u2014 a provisional diagnosis is enough for one and not the other, and enough on day 730 and not on day 731. The second rule is a price: the regulation sets the hours and publishes what it pays for mileage, parking, a hotel night and clothing, but never what it pays the person who looks after your child. The manual says community standards and never says what they are. Also: the Act asks about the condition, not the cause; the manual\u2019s own section 4.1 says a chronic or lifelong diagnosis needs no further clarity; and a parent may appeal to a committee bound by texts that contain no two-year rule \u2014 45 days from written notice.", file: "/pdfs/fscd/September-2026/ADSB_Two_Rules_Not_In_The_Law_FSCD_Sept2026.pdf", released: "2026-09-16" },
+  { cat: "new", stream: "Children / FSCD", title: "Two Rules That Shape What Your Child Gets \u2014 And Neither Is In The Law", desc: "The first FSCD document. Two rules decide almost everything a family receives, and neither appears in the Family Support for Children with Disabilities Act or its regulation. The first is a clock: without a confirmed diagnosis a file can be opened for family supports only \u2014 counselling, travel, parking, meals, clothing, sibling care, up to 240 hours of respite \u2014 while everything aimed at the child is held back, and at two years the child stops being eligible at all. The Act and regulation were read end to end and searched: neither contains a two-year limit, neither creates a category of child awaiting a diagnosis, and the regulation does not use the word diagnosis anywhere. Sections 3(1) and 4(1)(a) require the same words, and the manual reads that one sentence three different ways \u2014 a provisional diagnosis is enough for one and not the other, and enough on day 730 and not on day 731. The second rule is a price: the regulation sets the hours and publishes what it pays for mileage, parking, a hotel night and clothing, but never what it pays the person who looks after your child. The manual says community standards and never says what they are. Also: the Act asks about the condition, not the cause; the manual\u2019s own section 4.1 says a chronic or lifelong diagnosis needs no further clarity; and a parent may appeal to a committee bound by texts that contain no two-year rule \u2014 45 days from written notice.", file: "/pdfs/fscd/September-2026/ADSB_Two_Rules_Not_In_The_Law_FSCD_Sept2026.pdf", released: "2026-09-16" },
   { cat: "new", title: "The Numbers They Gave Us \u2014 Complete Edition", desc: "Every figure the government has attached to the AISH to ADAP change, set against its own published record. Five research phases: eight Estimates volumes, 268 Hansard transcripts, the Act, AR 96/2026, AR 87/2026, the Gazette, all 180 pages of the Fiscal Plan, every Auditor General publication since 2024, Alberta Purchasing Connect, thirteen jurisdictions\u2019 rate tables and Statistics Canada. The finding it set out to test and could not shake: there is no published figure for what the change costs or saves, in either direction. Printed pages 83 and 84 of the Fiscal Plan cost three changes in this ministry \u2014 Income Support, PDD, the Seniors Benefit \u2014 and give the AISH to ADAP passage a start date, a rate, a transition benefit and an end date, and no figure. Also: administration more than doubles from $40.57M to $88.4M while benefits fall about $23M; $45M of that is explained in estimates as a reclassification out of an element that rose by $11M, and nobody followed up. $1,740 has never been spoken in the Legislature \u2014 searched as a raw string across 119 House transcripts \u2014 while 21 citations of a monthly rate defending the change were all the AISH rate. Employment is the success measure on every investment stream except the one serving the most barriered job seekers. Alberta published 27.5 per cent disability prevalence in June 2025 and members said one in five months later. Tags throughout: VERIFIED, ARITHMETIC, NOT ESTABLISHED. Read with The ADAP Grid and the Source Index.", file: "/pdfs/aish-adap/september-2026-docs/ADSB_The_Numbers_They_Gave_Us_COMPLETE_Sept2026.pdf", released: "2026-09-14" },
   { cat: "new", title: "The ADAP Grid \u2014 Quick Reference", desc: "Every number on four pages, for checking against at a glance rather than reading through. The rates, the budget lines, what was costed and what was not, the contracts, the performance measures, the population figures, what was said in the Legislature, and the Canada Disability Benefit jurisdiction by jurisdiction. Each row carries its source and a tag: VERIFIED read at source, ARITHMETIC our own calculation and never a government figure, NOT ESTABLISHED looked for and not found. Built to be quoted from only alongside the full report, which carries the sourcing, the method and the caveats each figure needs.", file: "/pdfs/aish-adap/september-2026-docs/ADSB_The_ADAP_Grid_Reference_Sept2026.pdf", released: "2026-09-14" },
   { cat: "new", title: "Source Index \u2014 The Numbers They Gave Us", desc: "Every document behind The Numbers They Gave Us and The ADAP Grid \u2014 what it is, who issued it, when, where it lives, and exactly what was taken from it. Both companions claim that every figure in them was printed by the Government of Alberta or by Statistics Canada; without this index that is an assertion, and with it it is checkable. Every source was opened at its origin, never from a search result or a summary. The section that makes it unusual is the last one: what was gated, blocked or not checked, recorded rather than left out \u2014 the eight contract attachments behind a sign-in returning HTTP 401, the policy manual that disallows automated retrieval, the rates not read, the $1,811 federal benchmark that traces to no instrument, and the 26,800 client figure that appears in no government document and must not be published as one. Three rules governed the work: never quote from a search result, never present a calculation as a government figure, never fill a gap.", file: "/pdfs/aish-adap/september-2026-docs/ADSB_Source_Index_The_Numbers_They_Gave_Us_Sept2026.pdf", released: "2026-09-14" },
@@ -589,8 +589,8 @@ const JUST_DROPPED_DAYS = 14;
    a straddling item appears once, carrying both badges, rather than being
    duplicated. Search, the stream filters and the stream pages all read
    these two fields, so an item is tagged in one place only.            */
-const STREAMS = ["AISH/ADAP", "Income Support", "FSCD", "Seniors", "General Topics", "The Record"];
-const DEFAULT_STREAM = "AISH/ADAP";
+const STREAMS = ["Children / FSCD", "PDD", "AISH / ADAP / CPP-D", "Continuing Care / Home Care", "Seniors Benefits CPP/CPPD", "Income Support", "General Topics"];
+const DEFAULT_STREAM = "AISH / ADAP / CPP-D";
 
 function streamsOf(item) {
   if (!item) return [DEFAULT_STREAM];
@@ -904,10 +904,12 @@ function faqAnswerToHtml(a) {
 function renderFAQ() {
   const wrap = document.getElementById("faq-list");
   if (!wrap || typeof FAQ === "undefined" || !FAQ.length) return;
-  let html = "";
+  let html = streamChipRow("faq");
   FAQ.forEach(group => {
+    const items = group.items.filter(streamMatches);
+    if (!items.length) return;
     html += '<div class="faq-cat"><h3 class="faq-cat-title">' + dnEscape(group.cat) + "</h3>";
-    group.items.forEach(item => {
+    items.forEach(item => {
       html += `
       <details class="dn-archive-item faq-item">
         <summary>${dnEscape(item.q)}</summary>
@@ -1231,7 +1233,8 @@ function renderReference(filter = "all") {
   const grid = document.getElementById("reference-grid");
   if (!grid) return;
   const items = filter === "all" ? REFERENCE_LIBRARY : REFERENCE_LIBRARY.filter(d => d.cat === filter);
-  grid.innerHTML = items.map(d => `
+  const shown = items.filter(streamMatches);
+  grid.innerHTML = shown.map(d => `
     <article class="card" data-cat="${d.cat}">
       <p class="card-num">${categoryLabel(d.cat)}</p>
       <h3 class="card-title">${d.title}</h3>
@@ -1249,7 +1252,14 @@ function renderReference(filter = "all") {
 function renderDocs(filter = "all") {
   const grid = document.getElementById("doc-grid");
   if (!grid) return;
-  const docs = filter === "all" ? DOCUMENTS : DOCUMENTS.filter(d => d.cat === filter);
+  const docs = (filter === "all" ? DOCUMENTS : DOCUMENTS.filter(d => d.cat === filter))
+    .filter(streamMatches);
+  if (!docs.length) {
+    grid.innerHTML = '<p class="stream-empty">Nothing filed under <strong>' +
+      dnEscape(activeStream) + '</strong> yet. This section is being built \u2014 ' +
+      'if you have something that belongs here, tell us.</p>';
+    return;
+  }
   grid.innerHTML = docs.map(d => `
     <article class="card" data-cat="${d.cat}">
       <p class="card-num">${categoryLabel(d.cat)}</p>
@@ -1595,11 +1605,59 @@ function fnFilterBtn(c) {
     '" onclick="fnFilter(\'' + c.replace(/'/g, "\\'") + '\')">' + dnEscape(c) + "</button>";
 }
 function fnFilter(c) { fnActiveCat = c; renderFieldNotes(); }
+/* ── Stream filtering ──────────────────────────────────────────────────
+   Nav links and the chip rows set the active stream. An item matches when
+   streamsOf() contains it, so a straddler tagged streams: [...] shows in
+   both without being duplicated. "All" shows everything.              */
+let activeStream = "All";
+
+function streamMatches(item) {
+  if (activeStream === "All") return true;
+  return streamsOf(item).indexOf(activeStream) !== -1;
+}
+
+function streamChipRow(idPrefix) {
+  let html = '<div class="fn-filters stream-filters" data-stream-row="' + idPrefix + '">';
+  html += '<button type="button" class="fn-filter' + (activeStream === "All" ? " is-active" : "") +
+          '" data-stream="All">All</button>';
+  STREAMS.forEach(s => {
+    html += '<button type="button" class="fn-filter' + (activeStream === s ? " is-active" : "") +
+            '" data-stream="' + dnEscape(s) + '">' + dnEscape(s) + "</button>";
+  });
+  return html + "</div>";
+}
+
+function setStream(name) {
+  activeStream = name || "All";
+  renderFieldNotes();
+  renderFAQ();
+  const active = document.querySelector("#doc-filters .chip.is-active, #doc-filters [aria-pressed=\"true\"]");
+  renderDocs(active ? (active.getAttribute("data-filter") || "all") : "all");
+  const row = document.getElementById("doc-stream-row");
+  if (row) row.innerHTML = streamChipRow("documents");
+}
+
+function bindStreamControls() {
+  document.addEventListener("click", (e) => {
+    const chip = e.target.closest ? e.target.closest("[data-stream]") : null;
+    if (!chip) return;
+    const s = chip.getAttribute("data-stream");
+    if (!s) return;
+    setStream(s);
+    const target = chip.getAttribute("data-scroll-to");
+    if (target) {
+      const el = document.querySelector(target);
+      if (el) { e.preventDefault(); el.scrollIntoView({ behavior: "smooth", block: "start" }); }
+    }
+  });
+}
+
 function renderFieldNotes() {
   const wrap = document.getElementById("field-notes-list");
   if (!wrap || typeof FIELD_NOTES === "undefined" || !FIELD_NOTES.length) return;
 
-  let bar = '<div class="fn-filters">' + fnFilterBtn("All");
+  let bar = streamChipRow("field-notes");
+  bar += '<div class="fn-filters">' + fnFilterBtn("All");
   FIELD_NOTES.forEach(g => { bar += fnFilterBtn(g.cat); });
   bar += "</div>";
 
@@ -1609,7 +1667,9 @@ function renderFieldNotes() {
     html += '<div class="fn-cat"' + (show ? "" : ' style="display:none"') + ">";
     html += '<h3 class="faq-cat-title">' + dnEscape(group.cat) + "</h3>";
     if (group.blurb) html += '<p class="fn-blurb">' + dnEscape(group.blurb) + "</p>";
-    const items = group.items.slice().sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
+    const items = group.items.filter(streamMatches)
+      .sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
+    if (!items.length) { html += "</div>"; return; }
     items.forEach(item => {
       const src = item.source
         ? '<p class="fn-source"><a href="' + item.source + '" target="_blank" rel="noopener">View original post</a></p>'
@@ -1637,13 +1697,15 @@ document.addEventListener("DOMContentLoaded", () => {
   renderFlyers();
   renderReports();
   renderDocs("all");
+  const docRow = document.getElementById("doc-stream-row");
+  if (docRow) docRow.innerHTML = streamChipRow("documents");
   renderReference("all");
   renderProvinces();
   renderMinisterial();
   renderAudio();
   // Each binding is isolated. Before this, a throw in any one of them
   // silently killed every binding after it — that is how search broke.
-  [bindFilterChips, bindNavToggle, bindScrollSpy, bindSearch].forEach(fn => {
+  [bindFilterChips, bindNavToggle, bindScrollSpy, bindSearch, bindStreamControls].forEach(fn => {
     try { fn(); } catch (e) { console.error(fn.name + " failed:", e); }
   });
 });

@@ -1650,3 +1650,30 @@ section + section { border-top: 1px solid var(--line); }
 @media (prefers-reduced-motion: no-preference) {
   .hero-logo { transition: none; }
 }
+
+
+/* ── Stream filter chips on Field Notes and the FAQ ───────────────────── */
+.stream-filters {
+  margin-bottom: 0.6rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid rgba(212, 160, 23, 0.22);
+}
+.stream-filters .fn-filter { font-weight: 600; }
+
+
+/* ── Nav divider between the general links and the stream menus ───────── */
+.nav-divider {
+  width: 1px;
+  align-self: stretch;
+  margin: 0.35rem 0.45rem;
+  background: rgba(255, 255, 255, 0.18);
+}
+@media (max-width: 980px) { .nav-divider { display: none; } }
+.nav-group-btn { line-height: 1.15; text-align: left; }
+
+.stream-empty {
+  padding: 1.25rem 1rem;
+  border: 1px dashed rgba(212, 160, 23, 0.35);
+  border-radius: 8px;
+  color: var(--ink-soft);
+}
