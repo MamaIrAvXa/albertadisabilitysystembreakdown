@@ -9,6 +9,879 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-28",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 September 28, 2026",
+  body: `A government site that has refused us for most of a fortnight opened
+tonight, and a search opened a second door. Both of them lead somewhere that matters.
+
+## IN JANUARY 2025, FOUR MINISTERIAL ORDERS LET FOUR SCHOOL DIVISIONS SEND CERTAIN CHILDREN HOME
+
+These are Alberta documents, published on King's Printer, and anyone can read them.
+
+During a support staff strike, the Minister signed four orders exempting four school divisions from
+the requirement to offer in-person learning. The exemption wasn't for everyone. Ministerial Order
+002/2025, dated January 12, 2025, exempts the board so it can decide about in-person learning "to
+students who require an educational assistant due to complex needs where the continued attendance of
+those students at in-person learning may risk the health and safety of the student or other students
+or staff".
+
+The appendix to that order attaches real duties, and they're worth reading because they're the only
+Alberta rules on a part-time school day we've ever found. Clause 6 says that before exempting a
+student, the board "shall make reasonable efforts to continue in-person learning for the student,
+including but not limited to, for part of a school day or school week, while providing at-home
+learning to the student for the remaining part". Clause 2 requires an individualized analysis using
+prior assessments. Clause 11 requires a learning plan that keeps the student on the same courses,
+given to the parent and revised as needed. Clause 12 requires regular communication with the parent.
+Clause 14 requires ongoing review.
+
+On February 26, 2025, all four orders were revoked and replaced. The replacements delete the whole
+scheme. No complex needs. No educational assistant. No part of a school day. Instead: boards must
+make reasonable efforts to offer in-person learning to all students, and when deciding whether to
+provide at-home learning to any student, must "assess and deploy all resources considering all
+students in an inclusive, equitable and fair manner". Three more orders made on March 3, 2025 used
+the replacement wording from the start.
+
+One count carries the whole story. Across all eleven of those orders, the word disability appears
+zero times. The children were identified by the staffing they needed, not by who they are.
+
+Instrument: ministerial orders made under s.4 of the In-person Learning Regulation. All eleven are
+public.
+
+## WHAT ALBERTA PAYS FOR A PRESCHOOLER WITH A SEVERE DISABILITY, AND WHAT CHANGES AT GRADE 1
+
+Program Unit Funding, the preschool grant, has published per-child rates for 2026/27: $18,731.79
+half day and $31,219.65 full day for codes 41 to 46, $12,487.86 and $21,229.36 for code 47, and
+$4,995.14 for a moderate language delay. It runs for a maximum of three years including the
+kindergarten year, for a child aged 2 years 8 months to under 6.
+
+From Grade 1, the grant that carries specialized learning is built a different way. The Specialized
+Learning Support Grant is described in Alberta's own funding manual as "additional funding for the
+entire school jurisdiction". It's paid on total enrolment, at a multiplier rate of $5,948.25 and
+$456.22 per student across the whole jurisdiction, plus two formula allocations. Across that section
+of the manual the word diagnosis appears zero times.
+
+That's the difference in a sentence: in the preschool years the money is calculated for your child
+and follows an assessment. From Grade 1 the money is calculated for the jurisdiction and the
+jurisdiction decides how to spread it.
+
+One more thing from the same manual that nobody would guess. The share of children receiving FSCD in
+a school authority's area is one of three data inputs used to calculate part of that grant. FSCD
+caseload feeds school funding.
+
+Instrument: the Funding Manual for School Authorities 2026/2027. Guidance about how grants are
+calculated. Not a statute, not a regulation, and not an entitlement belonging to your child.
+
+## THE NEW EMERGENCY STANDARDS, NOW READ FROM THE ORDER ITSELF
+
+Two things that were second hand on Thursday are first hand now. Both deadlines are in the order:
+January 4, 2027 for a school authority's framework, April 5, 2027 for each school's plan. And early
+childhood services children are in scope by the order's own definition.
+
+The three response protocols are written for "staff members, children, and students" as one group:
+evacuation, shelter in place, and lockdown. In the whole order, disability appears zero times,
+medical zero times, and accommodation zero times.
+
+Alberta Education's standards index still doesn't list the order, and no alberta.ca page names it.
+
+What you can do. The frameworks are being written right now. Write to your board, not just the
+department, because the boards are the ones drafting.
+
+## RE-CHECKED, STRAIGHT FROM THE SOURCE
+
+1. Respite: up to 240 hours a year. Still no published hourly rate anywhere in the Act, the
+regulation or the manual. Worth noting beside item 2: the education side does publish per-child
+rates, so the silence on the FSCD side is a choice, not a habit across government.
+2. Appeal: 45 days from the written decision.
+3. The two-year diagnostic clock is still in manual 4.1 and still in neither the Act nor the
+regulation. The funding manual requires an assessment by a qualified professional for preschool
+funding and sets no waiting period at all.
+4. Child Disability Benefit up to $3,480 a year, $290 a month, July 2026 to June 2027.
+5. No new bill before the Legislature, and nothing this session touches the FSCD Act.
+6. The FSCD manual still points at a link that isn't on the page. Fifth day.
+
+## STILL CHECKING
+
+Two things, and both are gaps rather than findings.
+
+News reports from February 2025 describe a Court of King's Bench decision about the in-person
+learning orders above. We haven't been able to read the decision itself, so we're not repeating what
+it says. We're working on getting the citation.
+
+Whether s.4 of the In-person Learning Regulation, the provision all eleven orders rest on, is still
+in force. If it is, the January 2025 arrangement can be brought back by a signature.
+
+If your child is turning 18, the PDD and guardianship updates are in the main update.
+
+## DATES TO KEEP
+
+January 4, 2027: critical emergency frameworks due from school boards and early childhood services
+operators.
+April 5, 2027: critical emergency plans due from every school.
+July 2027: the federal child benefit year resets.
+June 30, 2029: the FSCD regulation expires unless it's renewed.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-09-27",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 September 27, 2026",
+  body: `Nothing moved tonight. Two numbers we've been carrying without being able to
+check them are now checked, and there's one thing about the new school emergency standards worth
+adding.
+
+## THE EI FAMILY CAREGIVER BENEFIT FOR CHILDREN, VERIFIED FROM THE SOURCE
+
+If you've had to stop working to care for a critically ill or injured child, this is the federal
+benefit that covers part of it. All three figures are now read straight from canada.ca:
+
+Up to 35 weeks.
+55 per cent of your earnings, up to a maximum of $729 a week for 2026.
+You need at least 600 insured hours of work in the 52 weeks before your claim starts, or since your
+last claim, whichever is shorter.
+
+Instrument: federal benefit. The weekly maximum is a 2026 figure and it changes each January.
+
+## THE RDSP THRESHOLDS ARE PUBLISHED TWICE, WITH TWO DIFFERENT NUMBERS
+
+Both of these are live on government pages right now:
+
+The grant threshold is $117,045 on the federal savings page dated July 2026.
+The grant threshold is $114,750 in the RC4460 guide dated January 2026, which says its numbers are
+for 2025.
+
+The bond thresholds have the same split: $38,237 and $58,523 on one, $37,487 and $57,375 on the
+other.
+
+Neither one is wrong. They're for different years and they're published at the same time. If you see
+a number quoted anywhere, including from me, check which year it's for before you rely on it.
+
+## THE NEW EMERGENCY STANDARDS GOT THEIR FIRST PUBLIC WRITE-UP, AND IT LEAVES DISABLED KIDS OUT TOO
+
+Lethbridge News Now reported the School Critical Emergency Standards on September 25, 2026. The
+report confirms both deadlines, January 4 and April 5, 2027, and says early childhood services
+operators have to produce frameworks and plans as well as school boards.
+
+It makes no mention of students with disabilities, medical needs, mobility, help getting out of a
+building, or accommodation.
+
+So that's three places now. The order says nothing about disabled students. The alberta.ca page that
+tells school authorities what their emergency planning obligations are still doesn't name the order,
+three days after signing. And the first published account of it doesn't raise disabled children
+either.
+
+Instrument: news reporting, with no binding force. The deadlines themselves come from the order.
+
+## RE-CHECKED, STRAIGHT FROM THE SOURCE
+
+1. Respite: up to 240 hours a year. Manual 7.5 carries no dollar figures at all and still says
+community standards.
+2. Appeal: 45 days from the written decision.
+3. The two-year diagnostic clock is still in manual 4.1 and still in neither the Act nor the
+regulation.
+4. Child Disability Benefit up to $3,480 a year, $290 a month, July 2026 to June 2027.
+5. The official catalogue record for the standards for special education was read tonight for the
+first time: created, issued and updated June 1, 2004, downloaded 4,669 times. Still no successor.
+6. The FSCD manual still points at a link that isn't on the page. Fourth day.
+
+## STILL CHECKING
+
+The cap on what a promoter can charge to prepare a disability tax credit claim. The federal
+regulation page has refused us three nights running, so we're not repeating the figure until we can
+read it.
+
+If your child is turning 18, the PDD and guardianship updates are in the main update. Tonight's is
+the most practical one yet, and it's about who gets to make decisions if nothing is in place by the
+birthday.
+
+## DATES TO KEEP
+
+January 4, 2027: critical emergency frameworks due.
+April 5, 2027: critical emergency plans due from every school.
+July 2027: the federal child benefit year resets.
+June 30, 2029: the FSCD regulation expires unless it's renewed.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-09-26",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 September 26, 2026",
+  body: `No rate and no date moved today. The work went into the legislative record,
+and it turned up something from March that most of us missed at the time.
+
+## ALBERTA HAD AN ACCESSIBILITY LAW ON THE FLOOR THIS YEAR. IT WAS DEFEATED IN MARCH
+
+Bill 206, the Accessible Alberta Act, was a private member's bill. From the Legislative Assembly's
+own bill status report: first reading March 12, 2026, passed. Second reading March 16 and March 23,
+2026, defeated on division.
+
+What it would have done, from the bill as introduced: create an accessible Alberta by 2040 by
+identifying, preventing and removing barriers. Set up an Accessibility Standards Committee to
+develop standards in nine areas, and education is one of the nine. Require the Minister to publish
+every proposed standard for a 30 day public comment period. Require an annual report on
+implementation. Require a review within five years and every five years after that.
+
+It's worth being precise about what that means. Alberta has no accessibility standards statute. A
+binding standard for schools can still be made, but only the way the School Critical Emergency
+Standards were made the day before yesterday: a ministerial order under Education Act s.18(2)(b),
+which the Act itself exempts from the Regulations Act. No committee, no public comment period, no
+annual report.
+
+Those are two facts on the public record, four months apart.
+
+Instrument: Bill 206 was a bill. It isn't law and never was.
+
+## TWO DAYS ON, ALBERTA'S OWN EMERGENCY PLANNING PAGE STILL DOESN'T MENTION THE NEW STANDARDS
+
+The page that tells school authorities what their lawful emergency planning obligations are is
+alberta.ca's kindergarten to grade 12 emergency and pandemic planning page. It was last published in
+February 2024. It lists four things as the source of those obligations: the Occupational Health and
+Safety Act and its regulations and code, the Safety Codes Act, the Alberta Fire Code, and the
+Occupiers' Liability Act. It states one requirement: six fire evacuation drills a year.
+
+It doesn't mention the School Critical Emergency Standards, MO 029/2026, a critical emergency
+framework, the January 2027 deadline, the April 2027 deadline, or disability in any form.
+
+Alberta's what's new this school year page, published the same day the order was signed, doesn't
+mention the standards either.
+
+What you can do. If you write to your board about the framework, don't assume they've seen the order.
+Name it: Ministerial Order 029/2026, School Critical Emergency Standards, signed September 24, 2026,
+framework due January 4, 2027.
+
+## RE-CHECKED, STRAIGHT FROM THE SOURCE
+
+1. Respite: up to 240 hours a year, still no published hourly rate, manual 7.5 still says community
+standards.
+2. Appeal: 45 days from the written decision, and the manual still treats eligibility decisions as
+appealable.
+3. The two-year diagnostic clock is still in manual 4.1 and still in neither the Act nor the
+regulation.
+4. Child Disability Benefit up to $3,480 a year, $290 a month, July 2026 to June 2027. Disability
+amount $10,341 for 2026, with $6,032 more for a child under 18.
+5. No bill before the Legislature this session touches the FSCD Act. The bill status report contains
+no reference to the Family Support for Children with Disabilities Act at all.
+6. The FSCD manual still points at a link that isn't on the page. Third day.
+
+## STILL CHECKING
+
+Whether any guidance exists to go with the new emergency standards that deals with disabled
+students. Still nothing on alberta.ca naming the order.
+
+If your child is turning 18, the PDD and guardianship updates are in the main update.
+
+## DATES TO KEEP
+
+January 4, 2027: critical emergency frameworks due from school boards and early childhood services
+operators.
+April 5, 2027: critical emergency plans due from every school.
+July 2027: the federal child benefit year resets.
+June 30, 2029: the FSCD regulation expires unless it's renewed.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-09-25",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 September 25, 2026",
+  body: `Alberta made a new binding rule for every school in the province yesterday.
+It's about what happens in an emergency. It doesn't mention disability once, and there's a deadline
+on it that you can still get in front of.
+
+## NEW SCHOOL EMERGENCY STANDARDS, SIGNED SEPTEMBER 24, AND NOT ONE WORD ABOUT A DISABLED CHILD
+
+Ministerial Order 029/2026, the School Critical Emergency Standards, was signed on September 24,
+2026 under Education Act s.18(2)(b). It binds public boards, separate boards, francophone regional
+authorities, charter schools, independent schools and independent early childhood services
+operators. Early childhood children are in scope by the order's own definition, not just students.
+
+What it requires:
+
+Every school authority must have a School Authority Critical Emergency Framework no later than
+January 4, 2027.
+Every school must have a School Critical Emergency Plan that fits that framework no later than
+April 5, 2027.
+Both must be communicated every year to staff, students and parents, and reviewed every year.
+Every plan must include five standard response protocols: evacuation, shelter in place, lockdown for
+a violent threat inside the building, hold and secure for a threat outside, and all clear.
+Every plan must include drills, training, up to date floor plans for first responders, and
+procedures for reuniting students and children with their families.
+
+Now the part that matters here. We counted every word in the order. It runs to under eight thousand
+characters. Disability: zero. Mobility: zero. Medical: zero. Medication: zero. Accommodation: zero.
+Assistive: zero. Wheelchair: zero. Allergy: zero. Seizure: zero. Diabetes: zero. Sensory: zero.
+Autism: zero. Special: zero. Inclusive: zero. Nurse or nursing: zero. Personal care: zero. Support
+plan: zero. The word accessible appears once, about where first aid supplies are kept.
+
+So the order says nothing about who carries a child who can't walk down a stairwell, who holds the
+medication during a shelter in place, what a lockdown instruction means for a child who can't stay
+silent or still, or how a child who doesn't speak is reunited with a parent. There's no requirement
+to keep a record of which students need help to get out of a building.
+
+Instrument: a ministerial order made under Education Act s.18(2)(b). It binds school authorities.
+It isn't a regulation, because Education Act s.18(3) says the Regulations Act doesn't apply to an
+order made this way.
+
+What you can do, and this is the whole point of tonight. The frameworks are being written right now,
+between today and January. A letter to your school board this month, asking how the framework will
+plan for a child who can't self evacuate, can't comply with a lockdown instruction, or needs
+equipment or medication while sheltering in place, lands while there's still a blank page. The same
+letter in May lands after it's finished.
+
+## IT ISN'T ON ALBERTA EDUCATION'S OWN LIST OF STANDARDS
+
+The standards index on alberta.ca, published July 30, 2026, lists the Ministerial Order on Student
+Learning, the early childhood services special education standards, the standards for special
+education amended in June 2004, and the professional practice standards. It doesn't mention the
+School Critical Emergency Standards or MO 029/2026 at all. Neither does the seclusion page.
+
+That's worth knowing before you phone your board. The people drafting may be working from the order
+directly, and the public page a parent would check doesn't show it.
+
+## RE-CHECKED, STRAIGHT FROM THE SOURCE
+
+1. Respite: up to 240 hours a year, and still no published hourly rate anywhere in the Act, the
+regulation or the manual.
+2. Appeal: 45 days from the written decision.
+3. The two-year diagnostic clock is still in manual 4.1 and still in neither the Act nor the
+regulation.
+4. Child Disability Benefit up to $3,480 a year, $290 a month, July 2026 to June 2027.
+5. The FSCD manual still points at a link to the operational procedures that isn't on the page. Second
+day. The file still opens at its own address.
+
+## STILL CHECKING
+
+Whether any companion guidance to the new standards exists that deals with disabled students.
+Nothing on alberta.ca mentions the standards at all as of tonight.
+
+If your child is turning 18, the PDD and guardianship updates are in the main update. There's a
+twelve month rule in there that families need to know about before the birthday, not after.
+
+## DATES TO KEEP
+
+January 4, 2027: every school board and early childhood services operator must have a critical
+emergency framework.
+April 5, 2027: every school must have its own critical emergency plan.
+July 2027: the federal child benefit year resets.
+June 30, 2029: the FSCD regulation expires unless it's renewed.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-09-24",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 September 24, 2026",
+  body: `Three things tonight, and the first one is small, fixable, and the kind of
+thing that only gets fixed if somebody says it.
+
+## THE FSCD MANUAL TELLS YOU TO CLICK A LINK THAT ISN'T THERE ANY MORE
+
+Section 1.1 of the FSCD policy manual still says: "To view operational procedures, click on the link
+in the 'Related' section at the bottom of the home page." It adds that you don't need to log in.
+
+As of today there's no Related section on that home page and no link. We checked the page's own code:
+no PDF links at all.
+
+The document itself hasn't been taken down. It's still sitting at
+manuals.alberta.ca/media/lsufjlpa/fscd-internal-operational-procedures.pdf and it still opens. It's
+the file that tells caseworkers how to apply the policy, and it's where the respite rate shows up as
+a blank to fill in.
+
+What you can do. Save the file. A parent following the manual's own instruction can't find it right
+now.
+
+## THE ACT AND THE MANUAL DON'T AGREE ABOUT WHAT YOU CAN APPEAL, AND THE MANUAL IS THE GENEROUS ONE
+
+FSCD Act s.7(1) gives you an appeal from three things: a decision about a family support services
+agreement, a decision about a child focused services agreement, and cancellation of an agreement.
+That's the statutory list.
+
+Manual 10.4 says you may appeal "any decision made under the authority of the FSCD Act or
+Regulation", and names eligibility decisions specifically.
+
+Both texts were re-read today and neither has changed. Useful to know which one you're standing on,
+and useful to know the department's own manual reads your appeal right broadly.
+
+One limit worth knowing: under s.9(3) an appeal committee can confirm, vary or rescind a decision. It
+can't order up a service that was never on the table.
+
+Instruments: statute, then policy.
+
+## SECTION 40 OF THE EDUCATION ACT, READ IN FULL, AND WHY IT MATTERS THAT NO TRIBUNAL EXISTS
+
+We've said for days that no Complex Education Needs Tribunal can be found. Tonight we read what the
+Act builds on one.
+
+s.40(2): where a board determines a student needs supports it can't provide in any program it
+offers, "the board shall refer the matter to a Complex Education Needs Tribunal". That referral is
+mandatory.
+s.40(3): a tribunal that confirms the board's determination develops or approves a plan, and
+apportions the cost of the services "between the board and the Government".
+s.40(5): the board and the parent both have to comply with the plan.
+s.40(6): the plan gets reviewed at least every three years.
+s.40(7): "The Minister may establish one or more Complex Education Needs Tribunals." May.
+s.40(8): a tribunal and its members have the powers of a commissioner under the Public Inquiries Act.
+
+And s.11(4), the entitlement clause, is expressly "subject to section 40".
+
+So the Act contains one route where a body other than a school board can make the Government pay
+part of the cost of a disabled student's education, and nothing we can find says that body was ever
+created.
+
+Instrument: statute, current to December 11, 2025.
+
+## RE-CHECKED, STRAIGHT FROM THE SOURCE
+
+1. The FSCD Act is unchanged and current to June 17, 2021. It contains no two-year clock. Neither
+does the regulation.
+2. Cancellation of an agreement takes 30 days written notice, and an overpayment can be recovered as
+a debt.
+3. Respite: up to 240 hours a year. Appeal: 45 days from the written decision, and mediation pauses
+that clock.
+4. Child Disability Benefit up to $3,480 a year, $290 a month, July 2026 to June 2027.
+5. The Education Act contains zero occurrences of shortened, partial day, seclusion, restraint and
+time-out, and zero occurrences of the phrase special education.
+
+## STILL CHECKING
+
+What a child with a severe disability draws at Grade 1. Same as yesterday, and still worth getting
+right rather than fast.
+
+If your child is turning 18, the PDD and guardianship updates are in the main update. There's one
+practical thing in there worth your time this week.
+
+## DATES TO KEEP
+
+July 2027: the federal child benefit year resets.
+June 30, 2029: the FSCD regulation expires unless it's renewed.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-09-23",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 September 23, 2026",
+  body: `A government site that has refused us for a week opened tonight, and what
+was behind it is the number people ask me about most: what a school gets for a preschooler with a
+severe disability.
+
+## THE PRESCHOOL FUNDING RATE IS PUBLISHED, AND HERE IT IS
+
+Program Unit Funding, usually called PUF, goes to school authorities for children in early childhood
+services with a severe disability or a severe language delay. The 2026/27 rates, from Alberta's own
+funding manual:
+
+Codes 41 to 46: $18,731.79 half day, $31,219.65 full day, where full day means at least 800 hours.
+Code 47: $12,487.86 half day, $21,229.36 full day.
+Moderate language delay, code 48: $4,995.14.
+
+The rules with it: a child has to enter early childhood services at a minimum age of 2 years and 8
+months as of August 31, PUF runs for a maximum of three years including the kindergarten year, and
+eligibility needs an assessment by a qualified professional plus documentation of how severely the
+condition affects the child.
+
+Instrument: the Funding Manual for School Authorities. That's guidance about how grants are
+calculated. It isn't a statute or a regulation, and these are grants to school authorities, not
+entitlements that belong to your child.
+
+What you can do. If you're told there's no money for a support in an early childhood program, you
+now know what the program drew for a child with a severe disability this year, and you can ask how
+it was spent.
+
+## THE DIABETES GUIDELINES FOR SCHOOLS ARE SEVEN YEARS OLD AND POINT AT A REPEALED LAW
+
+We read the document itself for the first time tonight rather than its catalogue record. Guidelines
+for Supporting Students with Type 1 Diabetes in Schools is dated February 2019. It tells schools to
+be aware of "the Alberta Human Rights Act and Schedule 7.1 of the Government Organization Act".
+Schedule 7.1 was repealed. The current law on who may perform a restricted activity is the Health
+Professions Act, which the guidelines never mention.
+
+The words glucagon, carbohydrate count and restricted activity appear zero times in all 27 pages.
+Insulin appears 15 times.
+
+Instrument: guidance with no binding force. It isn't made under any regulation-making power named on
+its face.
+
+## THE MANUAL THAT PAYS FOR SCHOOL DAYS SAYS NOTHING ABOUT SHORTENING THEM
+
+We searched the whole 266-page funding manual for shortened day, shortened school day, partial day,
+partial enrolment, reduced day and modified day. Zero occurrences of every one.
+
+So as of September 23, 2026, Alberta has no published rule, cap, consent requirement or reporting
+duty on shortening a disabled student's school day, and the document that pays for the days doesn't
+mention it either.
+
+What you can do. If your child is on a shortened day, put in writing that you're asking for the
+policy it's made under, and keep whatever comes back. There may not be one.
+
+## RE-CHECKED, STRAIGHT FROM THE SOURCE
+
+1. Respite: up to 240 hours a year. No hourly rate published anywhere in the Act, the regulation or
+the manual. Manual 7.5 still says community standards.
+2. Appeal: 45 days from the written decision, and the manual still says eligibility decisions are
+appealable.
+3. The two-year diagnostic clock is still in the manual and still in neither the Act nor the
+regulation.
+4. Child Disability Benefit up to $3,480 a year, $290 a month, July 2026 to June 2027.
+5. The standards for special education are still the ones amended in June 2004, with no successor on
+Alberta Education's index.
+
+## STILL CHECKING
+
+What a child with a severe disability draws once they start Grade 1. We have part of the answer and
+we want it clean before it goes out, because the way school funding is built changes at that line.
+It's the next thing we'll close.
+
+If your child is turning 18, the PDD updates are in the main update.
+
+## DATES TO KEEP
+
+July 2027: the federal child benefit year resets.
+June 30, 2029: the FSCD regulation expires unless it's renewed.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-09-22",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 September 22, 2026",
+  body: `Nothing moved today. Here's what was re-checked, because on a quiet night
+that's still worth saying out loud.
+
+## RE-CHECKED, STRAIGHT FROM THE SOURCE
+
+1. The FSCD regulation is unchanged, and so is every dollar figure in it: clothing and footwear up to
+$400 a year, mileage 12 cents a kilometre, parking up to $10 a day, hotel up to $85 a night, meals
+$5 and $8 on a day trip, $15 for an accompanying adult overnight or $100 a week for groceries, $50
+for a second person, and the $250 dental amount for a family with no dental plan. There's still no
+hourly rate for respite or for an aide anywhere in it.
+2. Respite: up to 240 hours a year, described in the manual as based on, but not limited to, 20 hours
+a month. The manual also still says the FSCD program can't provide nursing level of care, which is
+the health authority's job.
+3. Appeal: the manual still says you can appeal any decision made under the authority of the FSCD Act
+or regulation, including a decision about eligibility, and you still have 45 calendar days from the
+written notice.
+4. The two-year diagnostic clock is still in manual 4.1, word for word, and still in neither the Act
+nor the regulation.
+5. The FSCD manual's Latest updates page still shows one change this year, February 20, 2026.
+6. Child Disability Benefit up to $3,480 a year, $290 a month, July 2026 to June 2027, reducing above
+$82,847. Disability amount $10,341 for 2026, with $6,032 more for a child under 18. Federal, both
+unchanged.
+7. No Order in Council and no ministerial order touching FSCD, the Education Act or the Alberta Human
+Rights Act has been made since September 17.
+
+## STILL CHECKING
+
+The FSCD regulation has been amended up to Alberta Regulation 158/2025, but the ministerial order
+index only shows FSCD amendment orders from 2019, 2022 and 2024. We can't yet say which instrument
+made the 2025 amendment. Not a problem for anyone's file. It's a loose end and we'll close it.
+
+If your child is turning 18, the PDD updates are in the main update.
+
+## DATES TO KEEP
+
+July 2027: the federal child benefit year resets.
+June 30, 2029: the FSCD regulation expires unless it's renewed.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-09-21",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 September 21, 2026",
+  body: `Two Education Act changes we've been treating as "coming" have been in force
+since the first day of school. Here's what changed, and what didn't.
+
+## THE BELONGING LANGUAGE CAME OUT OF THE EDUCATION ACT ON SEPTEMBER 1
+
+An Act to Remove Politics and Ideology from Classrooms and Amend the Education Act, 2026, was
+proclaimed by Order in Council 304/2026, signed August 26, 2026, and the proclaimed sections came
+into force on September 1, 2026.
+
+So the phrase "welcoming, caring, respectful and safe learning environment that respects diversity
+and fosters a sense of belonging" is already gone from the six places the amending Act reached,
+including the board's duty at s.33(1)(d). In its place: "a safe and caring environment that fosters
+and maintains respectful and responsible behaviours".
+
+What survives untouched, and this is the part to build on: s.33(1)(e), the board's duty to "provide a
+continuum of supports and services to students that is consistent with the principles of inclusive
+education". Sections 11 and 40 weren't amended either.
+
+Instrument: statute, in force.
+
+What you can do. Check anything you've written to a school or a board that leans on "a sense of
+belonging". That phrase no longer has a statutory hook. The continuum of supports duty does.
+
+## A NEW RULE SAYS SCREENING RESULTS CAN'T BE USED TO DECIDE YOUR CHILD NEEDS SPECIALIZED SUPPORTS
+
+The second Act proclaimed the same day, the Education (Prioritizing Literacy and Numeracy) Amendment
+Act, adds a new division to the Education Act. Three parts of it matter to a disabled child.
+
+New s.30.5(3): "A board shall not use the results of a literacy and numeracy screening assessment to
+make a determination under section 11(3) that a student is in need of specialized supports and
+services."
+
+New s.30.3(2): "A board may exempt a child or student from literacy and numeracy screening
+assessments." The Act sets no criterion for that. The criteria are left to a future regulation.
+
+New s.30.51(2): after a third screening assessment in a single school year shows the same
+difficulties, providing literacy and numeracy intervention supports is "permitted but not required".
+
+Instrument: statute, in force since September 1, 2026.
+
+What you can do. If you were planning to hand a school a screening result and ask for a
+specialized-supports determination on the strength of it, that route is now closed by statute. Ask
+for the determination on the assessments and the classroom evidence instead. And if your child is
+exempted from screening, ask in writing on what basis, because the Act doesn't set one.
+
+## RE-CHECKED, STRAIGHT FROM THE SOURCE
+
+1. Two Acts that we check every night were read in full again today and haven't moved: the
+Protection of Students with Life-threatening Allergies Act and the Emergency Medical Aid Act.
+2. The FSCD regulation's full list of dollar figures is unchanged: $400, 12 cents, $10, $5, $8, $85,
+$15, $100, $50, $250. There is no hourly rate among them.
+3. Respite: up to 240 hours a year. Appeal: 45 days from the written decision.
+4. Child Disability Benefit up to $3,480 a year, $290 a month, July 2026 to June 2027. Canada
+Disability Benefit $204.20 a month, and it's for ages 18 to 64 only.
+5. The two-year diagnostic clock is still in the FSCD manual and still in neither the Act nor the
+regulation.
+
+## STILL CHECKING
+
+The Education Act as it now reads isn't available from King's Printer. The version you can open is
+current to December 11, 2025, and the one that includes the September 1 changes is marked coming
+soon. If you're quoting the Act this week, quote the section and say which version you're reading.
+
+If your child is turning 18, the PDD updates are in the main update.
+
+## DATES TO KEEP
+
+July 2027: the federal child benefit year resets.
+June 30, 2029: the FSCD regulation expires unless it's renewed.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-09-19",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 September 19, 2026",
+  body: `No rate and no benefit figure moved today. What moved is what we can say
+about two questions, and both of them are about school.
+
+## THE TRIBUNAL THE EDUCATION ACT POINTS YOUR CHILD AT STILL CAN'T BE FOUND
+
+Here's the setup. Education Act s.11(4) says a student a board determines to be in need of
+specialized supports and services "is entitled" to them. That entitlement is expressly "subject to
+section 40". Section 40 runs through a Complex Education Needs Tribunal. And s.40(7) says the
+Minister "may" establish one.
+
+As of September 19, 2026, no Complex Education Needs Tribunal appears in the King's Printer index of
+ministerial orders or in the Government of Alberta's publications catalogue. The order index covers
+136 orders made under the Education Act from 2019, when the Act came into force, to 2026. Every one
+of the 136 carries a description. Searching it for "Complex Education Needs" returns nothing. So
+does "Education Needs". A deliberate nonsense search also returns nothing, which is how we know the
+search works.
+
+That's an absence, not proof. The index itself says more orders exist through Open Government, and a
+tribunal could in principle be set up some other way. But two government indexes now return nothing.
+
+## SIX NEW EDUCATION STANDARDS IN ONE MONTH, AND NONE OF THEM IS ABOUT SPECIAL EDUCATION
+
+In June 2026 the Minister made or reissued six standards by ministerial order: the Teacher Quality
+Standard, the Leadership Quality Standard, the Superintendent Leadership Quality Standard, standards
+for school literary materials, standards for personal mobile devices and social media in schools,
+and standards for education services agreements.
+
+The standards that govern special education in Alberta are still the ones amended in June 2004. June
+2026 was a month for making standards, and no one made that one.
+
+Instrument: binding standards made by ministerial order. They bind school authorities.
+
+## THE WORDS SCHOOLS OWE YOUR CHILD ARE BEING CHANGED
+
+An Act to Remove Politics and Ideology from Classrooms and Amend the Education Act, 2026, strikes the
+phrase "welcoming, caring, respectful and safe learning environment that respects diversity and
+fosters a sense of belonging" from six places in the Education Act, and puts in its place "a safe and
+caring environment that fosters and maintains respectful and responsible behaviours". One of the six
+is the board's duty at s.33(1)(d).
+
+What it does not touch: s.33(1)(e), the duty to "provide a continuum of supports and services to
+students that is consistent with the principles of inclusive education". It doesn't touch s.11 or
+s.40 either. The words "inclusive" and "continuum" don't appear anywhere in the amending Act.
+
+What you can do. If a letter or an appeal of yours leans on "a sense of belonging", move the weight
+onto s.33(1)(e) instead. That clause isn't being changed.
+
+## RE-CHECKED, STRAIGHT FROM THE SOURCE
+
+1. The King's Printer catalogue lists two FSCD items tonight, the Act and the regulation. No
+amending Act, proclaimed or not.
+2. The relative rule is unchanged: services must be provided by an adult who isn't a relative, and an
+adult relative other than a parent may provide respite if the director considers them the most
+appropriate caregiver.
+3. Respite: up to 240 hours a year. Appeal: 45 days from the written decision.
+4. Child Disability Benefit: up to $3,480 a year, $290 a month, July 2026 to June 2027.
+5. The FSCD manual's Latest updates page still shows one change this year, February 20, 2026.
+
+## STILL CHECKING
+
+Whether the amending Act described above is in force yet. Its own text says it comes into force on
+proclamation, and we haven't found the proclamation. We'll say so either way once we know.
+
+If your child is turning 18, the PDD updates are in the main update.
+
+## DATES TO KEEP
+
+July 2027: the federal child benefit year resets.
+June 30, 2029: the FSCD regulation expires unless it's renewed.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-09-18",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 September 18, 2026",
+  body: `Tonight's check went one layer below the FSCD policy manual, into the
+internal operational procedures. That's the document that tells a caseworker what to do. It's
+public, you don't need a login, and it answers two questions we've been asking for weeks.
+
+## WHAT FSCD PAYS THE PERSON WHO LOOKS AFTER YOUR CHILD IS A BLANK IN THE PROCEDURE ITSELF
+
+The operational procedures hand caseworkers the wording that goes into your agreement. The respite
+clause reads "not to exceed $ (rate) per (unit) per (quantity)". The travel clause reads "a rate of
+$ (rate per hour)". Across 176 pages there are 549 of those fill-in blanks and only 13 dollar
+figures, and not one of the 13 is a respite or aide rate.
+
+The same document does put numbers on something else. It says the average cost of feeding a child
+each month is $75 from 0 to 6 years, $118 from 7 to 12, and $153 from 13 to 17. Those amounts get
+subtracted from the cost of prescribed formula to work out the "extraordinary" part FSCD will pay.
+They appear in no Act, no regulation, and no page of the public manual.
+
+Instrument: operational procedures. That's policy, not law, and policy can change without anyone
+passing anything.
+
+What you can do. If you're setting a respite or aide rate, ask your worker in writing what figure is
+being used for your area and where it comes from. If your child is on prescribed formula, ask which
+monthly amount is being deducted.
+
+## THE TWO-YEAR DIAGNOSTIC CLOCK HAS AN ADDRESS NOW, AND IT ISN'T THE LAW
+
+Operational procedure 4.1.1 states it flatly: while you're waiting for a diagnosis, family support
+services can be provided for up to 2 years, child focused services can't be provided at all, and if
+after 2 years there's no confirmed diagnosis, your child is no longer eligible.
+
+The authority the procedure cites for that is "Essential Program Standards, Standard 1". That's an
+internal standard. It cites no section of the FSCD Act and no section of the regulation, and neither
+the Act nor the regulation contains a time limit of any kind.
+
+What you can do. If your child is coming up on two years without a confirmed diagnosis, ask in
+writing what will happen at the two-year mark and what authority the decision rests on. Keep the
+answer.
+
+## THE SECLUSION AND RESTRAINT STANDARDS CAN'T BE READ BY A SCREEN READER
+
+The Standards for Seclusion and Physical Restraint in Alberta Schools, 21 pages, and the ministerial
+order behind them are both published as page images with no text layer. A parent using a screen
+reader can't read either one. Instrument: binding standard made by ministerial order, effective
+November 1, 2019.
+
+## RE-CHECKED, STRAIGHT FROM THE SOURCE
+
+1. Respite: up to 240 hours a year in the regulation. The manual describes it as based on, but not
+limited to, 20 hours a month.
+2. Appeal: 45 days from the date of the written decision.
+3. Mileage 12 cents a kilometre, parking up to $10 a day, hotel up to $85 a night, clothing and
+footwear up to $400 a year. All in the regulation. None of them moved.
+4. Child Disability Benefit: up to $3,480 a year, $290 a month, July 2026 to June 2027, reducing
+above $82,847. Federal.
+5. Disability amount $10,341 for 2026, with $6,032 more for a child under 18. Federal.
+6. The FSCD manual's Latest updates page still shows one change this year, dated February 20, 2026.
+
+## STILL CHECKING
+
+The Education Act has been amended, and King's Printer hasn't released the new text yet. What's on
+the government's own site is the December 2025 version. We're not quoting new wording until it's
+published.
+
+If your child is turning 18, the PDD updates are in the main update.
+
+## DATES TO KEEP
+
+July 2027: the federal child benefit year resets.
+June 30, 2029: the FSCD regulation expires unless it's renewed.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-09-27",
+  title: "Where Things Stand \u2014 September 27, 2026",
+  body: `It was a quiet day for new announcements, so tonight I went back to the law and the government's own manual, word for word, to make sure what we've been telling you still holds. It does. Here's where things stand.
+
+## THREE DAYS LEFT: THE ENERGY REBATE
+If you came onto AISH, ADAP, Income Support or the Seniors Benefit **after July 1**, you have until **Wednesday, September 30**, to apply for the $100 energy rebate yourself. If you were on before July 1, it comes automatically. Apply through alberta.ca only, and don't click links in texts.
+
+## THURSDAY: BILL 11
+From **October 1**, if you have Coverage for Seniors or Non-Group Coverage **and** a private plan, the private plan gets billed first. If all you have is your AISH or ADAP health card, this one isn't about you.
+
+## RE-CHECKED TONIGHT, STRAIGHT FROM THE SOURCE
+**The base rates** are $1,940 a month on AISH and $1,740 on ADAP. That's in the regulation.
+
+**The $200 transition benefit** and its end date of December 31, 2027 are in the government's manual, **not** the regulation. The regulation sets no amount and no end date.
+
+**There is no clock on going back to AISH.** If you were moved to ADAP, you can ask to be reassessed whenever you're ready, and the manual says the cost of one medical report is covered and "not time limited." Ask in writing whether you'd ever have to repay it.
+
+**The one-time $150 CDB payment is not counted as income** on AISH or ADAP. If it was taken off your cheque, ask in writing why.
+
+**If ADAP cuts your benefits over employment requirements, you can appeal.** It isn't on the list of decisions you can't appeal.
+
+**Your rates get their first yearly adjustment** under the new law on January 1, 2027.
+
+## QUESTIONS THAT CAME UP THIS WEEKEND
+**Can you own your own home on AISH or ADAP?** Yes. The government's own eligibility pages list the home you live in as an exempt asset, which means it isn't counted. The $100,000 limit is for things like cash, savings and a second property. If a worker tells you otherwise, ask them to put it in writing with the section they're relying on.
+
+**What if you sell your home, or receive an inheritance or a gift?** You have **365 days** to put that money into an exempt asset, like another home, before it counts.
+
+**Will they pay for a hotel in an emergency?** Sometimes. Emergency shelter can be covered, but it's decided case by case. Weekdays, call your local office. Evenings, weekends and holidays, call the 24-hour line at **1-866-644-5135**. Get the approval before you book if you possibly can.
+
+## CATCHING UP: BILL 206
+I owe you a catch-up here. Bill 206, the Accessible Alberta Act, was a private member's bill to set accessibility standards for the province. According to an Alberta NDP Caucus statement from March 23, 2026, it was voted down.
+
+I haven't pulled the Legislature's own record yet for the exact date and vote, so take the details as theirs for now. I'm only catching up on it now, and I'd rather tell you late than not at all.
+
+## PAYMENTS
+If your October payment still hasn't arrived, offices open tomorrow. Email your office and ask whether it was issued, held or reduced, why, and for a written breakdown. Then tell us the date and what you were told.
+
+The November payment date is **Tuesday, October 27**.
+
+## DATES TO KEEP
+**Wednesday, September 30:** energy rebate deadline, if you came on after July 1.
+
+**Thursday, October 1:** Bill 11 changes who pays first.
+
+**October 13 to 17:** advance voting.
+
+**Monday, October 19:** referendum day.
+
+**Tuesday, October 27:** November payment date, and the Legislature sits again.
+
+**January 1:** first yearly rate adjustment under the new law.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-09-26",
   title: "Where Things Stand \u2014 September 26, 2026",
   body: `Thank you to everyone who came to Tea Time today. Here's where things stand tonight.

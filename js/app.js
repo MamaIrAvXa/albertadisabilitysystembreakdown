@@ -851,8 +851,15 @@ function dnBodyToHtml(body) {
 function renderDailyNews() {
   const wrap = document.getElementById("daily-news-feed");
   if (!wrap || typeof DAILY_NEWS === "undefined" || !DAILY_NEWS.length) return;
-  const latest = DAILY_NEWS[0];
-  const rest = DAILY_NEWS.slice(1);
+  const feed = DAILY_NEWS.filter(streamMatches);
+  if (!feed.length) {
+    wrap.innerHTML = streamChipRow("daily-news") +
+      '<p class="stream-empty">No daily updates filed under <strong>' +
+      dnEscape(activeStream) + '</strong> yet.</p>';
+    return;
+  }
+  const latest = feed[0];
+  const rest = feed.slice(1);
 
   const dnItem = p => `
       <details class="dn-archive-item">
@@ -860,7 +867,7 @@ function renderDailyNews() {
         <div class="dn-body">${dnBodyToHtml(p.body)}</div>
       </details>`;
 
-  let html = `
+  let html = streamChipRow("daily-news") + `
     <article class="dn-post dn-latest">
       <p class="dn-date">${dnFormatDate(latest.date)} \u00b7 latest</p>
       <div class="dn-body">${dnBodyToHtml(latest.body)}</div>
@@ -1653,6 +1660,7 @@ function setStream(name) {
   activeStream = name || "All";
   renderFieldNotes();
   renderFAQ();
+  renderDailyNews();
   const active = document.querySelector("#doc-filters .chip.is-active, #doc-filters [aria-pressed=\"true\"]");
   renderDocs(active ? (active.getAttribute("data-filter") || "all") : "all");
   const row = document.getElementById("doc-stream-row");
