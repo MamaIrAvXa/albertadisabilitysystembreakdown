@@ -1069,7 +1069,7 @@ function renderJustDropped() {
   const countLabel = document.getElementById("just-dropped-count");
   if (!section || !grid) return;
 
-  const items = collectJustDropped();
+  const items = collectJustDropped().filter(streamMatches);
 
   if (countLabel) {
     countLabel.textContent = items.length === 0
@@ -1105,7 +1105,9 @@ function renderJustDropped() {
 function renderFlyers() {
   const grid = document.getElementById("flyer-grid");
   if (!grid) return;
-  grid.innerHTML = FLYERS.map(f => {
+  const shownFlyers = FLYERS.filter(streamMatches);
+  if (!shownFlyers.length) { grid.innerHTML = streamEmpty("flyers"); return; }
+  grid.innerHTML = shownFlyers.map(f => {
     const folder = f.path || "posters";
     const url = `/pdfs/aish-adap/flyers/${folder}/${encodeURIComponent(f.img)}`;
     return `
@@ -1121,7 +1123,9 @@ function renderFlyers() {
 function renderReports() {
   const grid = document.getElementById("reports-grid");
   if (!grid) return;
-  grid.innerHTML = REPORTS.map(r => `
+  const shownReports = REPORTS.filter(streamMatches);
+  if (!shownReports.length) { grid.innerHTML = streamEmpty("reports"); return; }
+  grid.innerHTML = shownReports.map(r => `
     <article class="card">
       <p class="card-num">Report ${r.num}</p>
       <h3 class="card-title">${r.title}</h3>
@@ -1135,33 +1139,33 @@ function renderReports() {
 }
 
 const REFERENCE_LIBRARY = [
-  { cat: "form", stream: "Children / FSCD", title: "Individualized Family Support Plan (FSCD3593)", desc: "The IFSP. Required for Child-Focused Services, and not required for a Family Support Services agreement \u2014 a distinction families are rarely told.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD3593_Individualized_Family_Support_Plan.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Request for Review of an FSCD Program Decision (FSCD3561)", desc: "The internal review. 30 days. Read the deadline carefully: a review does NOT pause the 45-day appeal clock.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD3561_Request_for_Review_of_an_FSCD_Program_Decision.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Notice of Appeal (AAS13358)", desc: "The appeal itself. 45 days, and the deadline is statutory.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/AAS13358_Notice_of_Appeal.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Request for Mediation of a PDD or FSCD Decision (PDDFSCD10925)", desc: "Mediation. 30 days, and the only route that does pause the appeal clock.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/PDDFSCD10925_Request_for_Mediation.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Consent to Release Information (AAS13391)", desc: "Lets someone else deal with your file. Can be narrowed by person, by file and by date.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/AAS13391_Consent_to_Release_Information.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Statement of Expense (FSCD1845)", desc: "The paper expense claim. The portal is the usual route, but this exists.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD1845_Statement_of_Expense.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Confirmation of Medical Appointment or Hospital Stay (FSCD12859)", desc: "Proof of appointment, for travel, parking, meals and accommodation. Found on the Resources page, not the published forms list.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD12859_Confirmation_of_Medical_Appointment_or_Hospital_Stay.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Request for Dental and Orthodontic Treatment Assistance (FSCD0056)", desc: "Dental and orthodontic. Paid direct to the provider by the dental review committee, and approval expires after one year.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD0056_Request_for_Dental_and_Orthodontic_Treatment_Assistance.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Medical Benefits Significant Financial Hardship Calculation (FSCD12556)", desc: "The hardship worksheet, built on 2 per cent of net income.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD12556_Medical_Benefits_Significant_Financial_Hardship_Calculation.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Specialized Services Checklist for Parents (FSCD12344)", desc: "Your side of the specialized services package.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD12344_Specialized_Services_Checklist_for_Parents.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Specialized Services Coversheet (FSCD12348)", desc: "The front sheet for that package.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD12348_Specialized_Services_Coversheet.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Specialized Services \u2014 Multi-Disciplinary Team Recommendations (FSCD12349)", desc: "What the multi-disciplinary team recommends. Ask for a copy of it.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD12349_Specialized_Services_MDT_Recommendations.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Exceptional Consideration Authorization (FSCD12355)", desc: "The written route past a published maximum. It exists, and almost nobody is told so.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD12355_Exceptional_Consideration_Authorization.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Child\u2019s Daily Routine Schedule (FSCD13335)", desc: "The most under-used form in the program. It feeds the fifteen factors an appeal committee must consider.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD13335_Childs_Daily_Routine_Schedule.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Individualized Family Support Plan \u2014 Out of Home (FSCD12615)", desc: "The support plan where a child lives outside the family home.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD12615_IFSP_Out_of_Home.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Out of Home Living Arrangement Request (FSCD12633)", desc: "The request itself.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD12633_Out_of_Home_Living_Arrangement_Request.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Transition to Adulthood Pathway (FSCD0013)", desc: "Transition planning, for the years from 16. Not on the public forms list \u2014 found in the operational procedures.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD0013_Transition_to_Adulthood_Pathway.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Tip Sheet \u2014 Key Elements of Integrated Transition Planning (FSCD0011)", desc: "Transition tip sheet. Not on the public forms list.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD0011_Tip_Sheet_Key_Elements_of_Integrated_Transition_Planning.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Tip Sheet \u2014 Involving a Youth in the Case Conference (FSCD0012)", desc: "Transition tip sheet. Not on the public forms list.", file: "/pdfs/fscd/september-2026/government-form-originals/01_FSCD_Alberta/FSCD0012_Tip_Sheet_Involving_a_Youth_in_the_Case_Conference.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Disability Tax Credit Certificate T2201 \u2014 fillable", desc: "The gateway form. Nothing downstream opens until the DTC is approved \u2014 not the Child Disability Benefit, not the RDSP.", file: "/pdfs/fscd/september-2026/government-form-originals/02_Federal_DTC_RDSP_CDB/T2201_Disability_Tax_Credit_Certificate_FILLABLE.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Disability Tax Credit Certificate T2201 \u2014 print version", desc: "The print version of the same form.", file: "/pdfs/fscd/september-2026/government-form-originals/02_Federal_DTC_RDSP_CDB/T2201_Disability_Tax_Credit_Certificate.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Disability Tax Credit Certificate T2201 \u2014 large print", desc: "The large-print edition. It exists, and it is almost never mentioned.", file: "/pdfs/fscd/september-2026/government-form-originals/02_Federal_DTC_RDSP_CDB/T2201_Disability_Tax_Credit_Certificate_LARGE_PRINT.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Canada Child Benefits Application RC66 \u2014 fillable", desc: "The Canada child benefit application, which carries the Child Disability Benefit once the DTC is approved.", file: "/pdfs/fscd/september-2026/government-form-originals/02_Federal_DTC_RDSP_CDB/RC66_Canada_Child_Benefits_Application_FILLABLE.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Canada Child Benefits Application RC66 \u2014 print version", desc: "The print version of the same form.", file: "/pdfs/fscd/september-2026/government-form-originals/02_Federal_DTC_RDSP_CDB/RC66_Canada_Child_Benefits_Application.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "Canada Disability Savings Grant and Bond Application (EMP5608)", desc: "RDSP grant and bond. The Bond pays in with no contribution from the family at all.", file: "/pdfs/fscd/september-2026/government-form-originals/02_Federal_DTC_RDSP_CDB/EMP5608_Canada_Disability_Savings_Grant_and_Bond_Application.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "RDSP Annex A \u2014 Joint Holder (EMP5609)", desc: "Annex A, where there is a joint holder.", file: "/pdfs/fscd/september-2026/government-form-originals/02_Federal_DTC_RDSP_CDB/EMP5609_RDSP_Annex_A_Joint_Holder.pdf" },
-  { cat: "form", stream: "Children / FSCD", title: "RDSP Annex B \u2014 Primary Caregiver (EMP5610)", desc: "Annex B, for the primary caregiver.", file: "/pdfs/fscd/september-2026/government-form-originals/02_Federal_DTC_RDSP_CDB/EMP5610_RDSP_Annex_B_Primary_Caregiver.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Individualized Family Support Plan (FSCD3593)", desc: "The IFSP. Required for Child-Focused Services, and not required for a Family Support Services agreement \u2014 a distinction families are rarely told.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD3593_Individualized_Family_Support_Plan.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Request for Review of an FSCD Program Decision (FSCD3561)", desc: "The internal review. 30 days. Read the deadline carefully: a review does NOT pause the 45-day appeal clock.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD3561_Request_for_Review_of_an_FSCD_Program_Decision.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Notice of Appeal (AAS13358)", desc: "The appeal itself. 45 days, and the deadline is statutory.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/AAS13358_Notice_of_Appeal.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Request for Mediation of a PDD or FSCD Decision (PDDFSCD10925)", desc: "Mediation. 30 days, and the only route that does pause the appeal clock.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/PDDFSCD10925_Request_for_Mediation.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Consent to Release Information (AAS13391)", desc: "Lets someone else deal with your file. Can be narrowed by person, by file and by date.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/AAS13391_Consent_to_Release_Information.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Statement of Expense (FSCD1845)", desc: "The paper expense claim. The portal is the usual route, but this exists.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD1845_Statement_of_Expense.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Confirmation of Medical Appointment or Hospital Stay (FSCD12859)", desc: "Proof of appointment, for travel, parking, meals and accommodation. Found on the Resources page, not the published forms list.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD12859_Confirmation_of_Medical_Appointment_or_Hospital_Stay.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Request for Dental and Orthodontic Treatment Assistance (FSCD0056)", desc: "Dental and orthodontic. Paid direct to the provider by the dental review committee, and approval expires after one year.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD0056_Request_for_Dental_and_Orthodontic_Treatment_Assistance.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Medical Benefits Significant Financial Hardship Calculation (FSCD12556)", desc: "The hardship worksheet, built on 2 per cent of net income.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD12556_Medical_Benefits_Significant_Financial_Hardship_Calculation.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Specialized Services Checklist for Parents (FSCD12344)", desc: "Your side of the specialized services package.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD12344_Specialized_Services_Checklist_for_Parents.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Specialized Services Coversheet (FSCD12348)", desc: "The front sheet for that package.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD12348_Specialized_Services_Coversheet.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Specialized Services \u2014 Multi-Disciplinary Team Recommendations (FSCD12349)", desc: "What the multi-disciplinary team recommends. Ask for a copy of it.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD12349_Specialized_Services_MDT_Recommendations.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Exceptional Consideration Authorization (FSCD12355)", desc: "The written route past a published maximum. It exists, and almost nobody is told so.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD12355_Exceptional_Consideration_Authorization.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Child\u2019s Daily Routine Schedule (FSCD13335)", desc: "The most under-used form in the program. It feeds the fifteen factors an appeal committee must consider.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD13335_Childs_Daily_Routine_Schedule.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Individualized Family Support Plan \u2014 Out of Home (FSCD12615)", desc: "The support plan where a child lives outside the family home.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD12615_IFSP_Out_of_Home.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Out of Home Living Arrangement Request (FSCD12633)", desc: "The request itself.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD12633_Out_of_Home_Living_Arrangement_Request.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Transition to Adulthood Pathway (FSCD0013)", desc: "Transition planning, for the years from 16. Not on the public forms list \u2014 found in the operational procedures.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD0013_Transition_to_Adulthood_Pathway.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Tip Sheet \u2014 Key Elements of Integrated Transition Planning (FSCD0011)", desc: "Transition tip sheet. Not on the public forms list.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD0011_Tip_Sheet_Key_Elements_of_Integrated_Transition_Planning.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Tip Sheet \u2014 Involving a Youth in the Case Conference (FSCD0012)", desc: "Transition tip sheet. Not on the public forms list.", file: "/pdfs/fscd/government-form-originals/01_FSCD_Alberta/FSCD0012_Tip_Sheet_Involving_a_Youth_in_the_Case_Conference.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Disability Tax Credit Certificate T2201 \u2014 fillable", desc: "The gateway form. Nothing downstream opens until the DTC is approved \u2014 not the Child Disability Benefit, not the RDSP.", file: "/pdfs/fscd/government-form-originals/02_Federal_DTC_RDSP_CDB/T2201_Disability_Tax_Credit_Certificate_FILLABLE.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Disability Tax Credit Certificate T2201 \u2014 print version", desc: "The print version of the same form.", file: "/pdfs/fscd/government-form-originals/02_Federal_DTC_RDSP_CDB/T2201_Disability_Tax_Credit_Certificate.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Disability Tax Credit Certificate T2201 \u2014 large print", desc: "The large-print edition. It exists, and it is almost never mentioned.", file: "/pdfs/fscd/government-form-originals/02_Federal_DTC_RDSP_CDB/T2201_Disability_Tax_Credit_Certificate_LARGE_PRINT.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Canada Child Benefits Application RC66 \u2014 fillable", desc: "The Canada child benefit application, which carries the Child Disability Benefit once the DTC is approved.", file: "/pdfs/fscd/government-form-originals/02_Federal_DTC_RDSP_CDB/RC66_Canada_Child_Benefits_Application_FILLABLE.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Canada Child Benefits Application RC66 \u2014 print version", desc: "The print version of the same form.", file: "/pdfs/fscd/government-form-originals/02_Federal_DTC_RDSP_CDB/RC66_Canada_Child_Benefits_Application.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "Canada Disability Savings Grant and Bond Application (EMP5608)", desc: "RDSP grant and bond. The Bond pays in with no contribution from the family at all.", file: "/pdfs/fscd/government-form-originals/02_Federal_DTC_RDSP_CDB/EMP5608_Canada_Disability_Savings_Grant_and_Bond_Application.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "RDSP Annex A \u2014 Joint Holder (EMP5609)", desc: "Annex A, where there is a joint holder.", file: "/pdfs/fscd/government-form-originals/02_Federal_DTC_RDSP_CDB/EMP5609_RDSP_Annex_A_Joint_Holder.pdf" },
+  { cat: "form", stream: "Children / FSCD", title: "RDSP Annex B \u2014 Primary Caregiver (EMP5610)", desc: "Annex B, for the primary caregiver.", file: "/pdfs/fscd/government-form-originals/02_Federal_DTC_RDSP_CDB/EMP5610_RDSP_Annex_B_Primary_Caregiver.pdf" },
   { cat: "reg", title: "Assured Income for the Severely Handicapped Act (SA 2006, c A-45.1)", desc: "The full text of the AISH Act itself \u2014 the founding statute of the program, via CanLII. The law that defines AISH eligibility and benefits.", file: "/pdfs/aish-adap/government-form-originals/regulations/SA 2006, c A-45.1 _ Assured Income for the Severely Handicapped Act _ CanLII.pdf", released: "2026-07-05" },
   { cat: "reg", title: "Alberta Gazette, Part II — May 15, 2026", desc: "Official Gazette issue, Part II.", file: "/pdfs/aish-adap/government-form-originals/regulations/alberta-gazette-part-ii-may-15-2026.pdf" },
   { cat: "reg", title: "Alberta Gazette, Part I — May 30, 2026", desc: "Official Gazette issue, Part I.", file: "/pdfs/aish-adap/government-form-originals/regulations/alberta-gazette-part-i-may-30-2026.pdf" },
@@ -1370,7 +1374,9 @@ function categoryLabel(cat) {
 function renderProvinces() {
   const grid = document.getElementById("prov-grid");
   if (!grid) return;
-  grid.innerHTML = PROVINCES.map(p => `
+  const shownProv = PROVINCES.filter(streamMatches);
+  if (!shownProv.length) { grid.innerHTML = streamEmpty("forms"); return; }
+  grid.innerHTML = shownProv.map(p => `
     <a class="prov" href="/pdfs/aish-adap/fillable/${encodeURIComponent(p.file)}" target="_blank" rel="noopener">
       <span class="prov-name">${p.name}</span>
       <span class="prov-num">${p.num}</span>
@@ -1382,7 +1388,9 @@ function renderProvinces() {
 function renderMinisterial() {
   const grid = document.getElementById("ministerial-grid");
   if (!grid) return;
-  grid.innerHTML = MINISTERIAL.map(m => `
+  const shownMin = MINISTERIAL.filter(streamMatches);
+  if (!shownMin.length) { grid.innerHTML = streamEmpty("correspondence"); return; }
+  grid.innerHTML = shownMin.map(m => `
     <article class="card">
       <p class="card-num">${m.type} · ${m.date}</p>
       <h3 class="card-title">${m.title}</h3>
@@ -1674,6 +1682,12 @@ function streamMatches(item) {
   return streamsOf(item).indexOf(activeStream) !== -1;
 }
 
+function streamEmpty(what) {
+  return '<p class="stream-empty">No ' + what + ' filed under <strong>' +
+    dnEscape(activeStream) + '</strong> yet. This section is being built \u2014 ' +
+    'if you have something that belongs here, tell us.</p>';
+}
+
 function streamChipRow(idPrefix) {
   let html = '<div class="fn-filters stream-filters" data-stream-row="' + idPrefix + '">';
   html += '<button type="button" class="fn-filter' + (activeStream === "All" ? " is-active" : "") +
@@ -1690,6 +1704,13 @@ function setStream(name) {
   renderFieldNotes();
   renderFAQ();
   renderDailyNews();
+  renderJustDropped();
+  renderReports();
+  renderFlyers();
+  renderProvinces();
+  renderMinisterial();
+  const activeRef = document.querySelector('#ref-filters .chip.is-active, #ref-filters [aria-pressed="true"]');
+  renderReference(activeRef ? (activeRef.getAttribute("data-filter") || "all") : "all");
   const active = document.querySelector("#doc-filters .chip.is-active, #doc-filters [aria-pressed=\"true\"]");
   renderDocs(active ? (active.getAttribute("data-filter") || "all") : "all");
   const row = document.getElementById("doc-stream-row");
