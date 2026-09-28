@@ -619,8 +619,19 @@ function applyStreamDefaults() {
    typeof FAQ !== "undefined" && FAQ].forEach(groups => {
     if (!Array.isArray(groups)) return;
     groups.forEach(g => {
-      if (Array.isArray(g.items)) lists.push(g.items);
-      else if (Array.isArray(g.questions)) lists.push(g.questions);
+      const kids = Array.isArray(g.items) ? g.items : (Array.isArray(g.questions) ? g.questions : null);
+      if (!kids) return;
+      // A stream set on the category cascades to its items, so a whole
+      // category can be filed with one line. An item may still override it.
+      if (g.stream || g.streams) {
+        kids.forEach(item => {
+          if (item && typeof item === "object" && !item.stream && !item.streams) {
+            if (g.streams) item.streams = g.streams.slice();
+            else item.stream = g.stream;
+          }
+        });
+      }
+      lists.push(kids);
     });
     lists.push(groups);
   });
@@ -905,9 +916,20 @@ function renderFAQ() {
   const wrap = document.getElementById("faq-list");
   if (!wrap || typeof FAQ === "undefined" || !FAQ.length) return;
   let html = streamChipRow("faq");
+  // In the "All" view the categories are grouped under a heading for each
+  // side, so the kids' questions read as their own set rather than being
+  // appended to the adult ones. Filtered views need no heading.
+  let lastHeading = null;
   FAQ.forEach(group => {
     const items = group.items.filter(streamMatches);
     if (!items.length) return;
+    if (activeStream === "All") {
+      const head = (group.stream || (items[0] && items[0].stream) || DEFAULT_STREAM);
+      if (head !== lastHeading) {
+        lastHeading = head;
+        html += '<h3 class="faq-stream-head">' + dnEscape(head) + "</h3>";
+      }
+    }
     html += '<div class="faq-cat"><h3 class="faq-cat-title">' + dnEscape(group.cat) + "</h3>";
     items.forEach(item => {
       html += `

@@ -1677,3 +1677,15 @@ section + section { border-top: 1px solid var(--line); }
   border-radius: 8px;
   color: var(--ink-soft);
 }
+
+/* ── Side heading in the unfiltered FAQ view ─────────────────────────── */
+.faq-stream-head {
+  margin: 2.25rem 0 0.75rem;
+  padding-bottom: 0.4rem;
+  font-size: 1.15rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--gold-300);
+  border-bottom: 2px solid rgba(212, 160, 23, 0.4);
+}
+.faq-stream-head:first-of-type { margin-top: 1rem; }

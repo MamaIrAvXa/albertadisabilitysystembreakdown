@@ -331,5 +331,258 @@ One caution, because it is not all good news. The manual also says an AISH clien
         a: `Be careful. Some of what is circulating out there, including some very official-sounding posts, is AI-generated and mixes real facts with invented numbers. If a number matters to your life, get it from the source document, or ask here. Our whole strength is that everything we put out traces back to a real regulation.`
       }
     ]
+  },
+  {
+    cat: "Getting into FSCD",
+    stream: "Children / FSCD",
+    items: [
+      {
+        q: `Do I need a diagnosis before I apply to FSCD?`,
+        a: `**No.** This is the single most missed line in the whole manual, and waiting for a diagnosis costs families months they do not get back.
+
+The manual says medical documentation must confirm the child **"has a disability or is awaiting a diagnosis."** If your child is on an assessment waitlist, you can apply now. The two waits then run at the same time instead of back to back.
+
+If your child is waiting on a diagnosis, what you send is information about the provisional diagnosis, condition or impairment that indicates the child may have a disability. That is the whole bar. _(confirmed against the FSCD policy manual, section 4.1, archived copy of 16 September 2026)_`
+      },
+      {
+        q: `I applied and then heard nothing. Is there a deadline on me?`,
+        a: `Yes, and it is the one that quietly closes files.
+
+**If your supporting documents do not arrive within 90 calendar days of your application, the file is closed.** And if you send documents without an application attached, they are destroyed after 90 days — not held, not matched up later. Destroyed.
+
+So put a date in your phone for 80 days after you apply. If anything is still outstanding, chase it in writing before the clock runs out. _(confirmed against the FSCD policy manual, section 6.1, archived 16 September 2026 — the manual's own words are "the file will be closed" and "will be destroyed after 90 calendar days")_`
+      },
+      {
+        q: `My file was closed. Do I have to start all over again?`,
+        a: `Probably not, and this saves people a great deal of work.
+
+**If your file has been closed for less than 180 days, you do not need to submit a new application.** You contact the FSCD caseworker named in your decision letter and ask to have it reopened.
+
+Past 180 days it is a fresh application. So if you are somewhere in that window, do not wait — the difference between day 179 and day 181 is an entire application. _(confirmed against the FSCD policy manual, sections 6.1 and 6.14, archived 16 September 2026)_`
+      },
+      {
+        q: `Will FSCD pay for the assessment or the doctor's letter it is asking me for?`,
+        a: `No, and the manual is blunt about it: **"The FSCD program is not responsible for costs associated with obtaining medical letters or assessment reports."** The same goes for clinical and medical assessments.
+
+Before you pay for anything new, go through the paperwork you already have. A specialist letter, a discharge summary, an existing assessment — if it names the condition, who diagnosed it and when, it may already do the job.
+
+Worth knowing alongside this: parents are also responsible for the costs of psychological testing under the counselling benefit. _(all three confirmed against the FSCD policy manual, sections 4.1 and 7.2, archived 16 September 2026)_`
+      }
+    ]
+  },
+  {
+    cat: "While you are waiting",
+    stream: "Children / FSCD",
+    items: [
+      {
+        q: `How long is the wait, really?`,
+        a: `Longer than anyone tells you at the start. From the largest survey done on this — **746 families across 81 of Alberta's 87 electoral districts**, October and November 2024:
+
+- The **eligibility decision alone** averaged 7 and a half months
+- **Total wait to full services**: roughly 21 months
+
+And the part that is not a waiting problem at all: **79% of families who had Family Support Services and needed Child-Focused Services were never told how to access it.** Seventy-three per cent never received an explanation of it. That is not a queue. That is a door nobody mentioned.
+
+If you have an FSS agreement and nobody has ever explained Child-Focused Services to you, ask about it by name. _(confirmed against Inclusion Alberta, "Too Little, Too Late," January 2025 — sample at p. 2, staged waits at pp. 6–7, the 79% at p. 2 and the 73% at p. 10)_`
+      },
+      {
+        q: `Is there anything my child can get right now, while we wait?`,
+        a: `Yes, and you do not need FSCD or a diagnosis for it.
+
+**Pediatric Community Rehabilitation** gives occupational therapy, physiotherapy, speech language pathology, social work and dietitian services, and **you can book without a doctor's referral** — AHS's own words are "Patients may call a clinic directly to book an appointment without a doctor referral."
+
+Two things to know before you call, because they get left out when this gets passed around. It runs **0 to 18**, but from 6 to 18 there is an added requirement of a significant change in your child's condition, injury, surgery or illness — so it is not open-ended for older kids. And **it is not entirely free**: AHS says "You may have to pay other fees for materials or supplies used for treatment."
+
+Also worth starting now, because it takes a while and unlocks other things: the **Disability Tax Credit**, which opens the Child Disability Benefit and the RDSP. _(the referral wording, age range and fees confirmed against the AHS Pediatric Community Rehabilitation service page, read 28 September 2026)_`
+      },
+      {
+        q: `Do I have to apply to other programs before FSCD will fund something?`,
+        a: `Yes — and this catches people, because the requirement is stricter than it sounds.
+
+Before FSCD funds something another program might cover, you have to show the other support was **fully used** or **formally denied** — and that you went through that program's own appeal or review process first. A denial letter on its own is not always enough if you did not appeal it.
+
+So the practical habit is: apply everywhere, keep every denial letter, and appeal the denials even when you expect to lose. Those letters are what unlock FSCD. _(confirmed against the FSCD policy manual, section 5.3, and the FSCD Regulation AR 140/2004 s.6(2))_`
+      }
+    ]
+  },
+  {
+    cat: "What FSCD pays for",
+    stream: "Children / FSCD",
+    items: [
+      {
+        q: `How much respite can I get?`,
+        a: `Up to **240 hours a year** under family support respite, described in the manual as "based on, but not limited to 20 hours a month."
+
+Here is the part most people never hear: **240 is not the ceiling on everything.** If your child has an individually assessed need beyond that, child-focused respite can be provided **over and above** the 240. The manual says so directly. So if you have been told 240 is the maximum, full stop, that is only true of the first kind.
+
+What FSCD does not do is find you the person. It funds the hours; the search is yours. _(both halves confirmed against the FSCD policy manual, sections 7.5 and 8.2, archived 16 September 2026)_`
+      },
+      {
+        q: `Can I be paid to look after my own child?`,
+        a: `No. A parent or guardian cannot be paid to provide FSCD services to their own child. Extended family can be, in some circumstances.
+
+This is one of the most common and most painful misunderstandings in these groups, and it is worth saying gently when it comes up, because people hear it as an accusation rather than a rule. _(confirmed against the FSCD Regulation AR 140/2004 s.2.1)_`
+      },
+      {
+        q: `Can FSCD fund a tutor, or an aide to help with schoolwork?`,
+        a: `Not through aide supports. The manual rules it out by name: **"Aide supports are not intended for the purpose of tutoring, academic support, assistance in a school program or lunchtime supervision at school."**
+
+That is an express exclusion, not an oversight. Reading and literacy support for a coded student is the school authority's job through the IPP — so before you pay privately, ask the school two questions: what does the IPP say for literacy, and what funding does my child's code generate for this school. _(confirmed against the FSCD policy manual, aide supports section, archived 16 September 2026)_`
+      },
+      {
+        q: `What does FSCD pay per hour for a therapist or a respite worker?`,
+        a: `Nobody in the group can tell you, and it turns out that is not because nobody has looked.
+
+**The rate is not published.** It is not in the policy manual. And it is not in the internal operational procedures either — those leave it as a literal blank for the caseworker to fill in. The respite clause reads *"not to exceed $ (rate) per"*. The travel clause reads *"a rate of $ (rate per hour)"*. Across all 176 pages there are **549 fill-in placeholders and 13 dollar figures in total**, six of which are fines for privacy offences.
+
+So when a provider quotes you a price and says FSCD covers it to here and you pay the rest, **there is no published figure you can check that against.** What you can do is ask the provider in writing, before the first session, whether they bill FSCD directly at the FSCD rate and whether any balance comes to you. Get it in writing, keep it, and bring it to the group — comparing several families' answers is currently the only way anyone can see the rate at all. _(confirmed against the FSCD Internal Operational Procedures targeted extract of 27 January 2025 and the full policy manual text; the manual was searched for rate schedule, maximum rate, approved rate and cost difference, with no hits)_`
+      }
+    ]
+  },
+  {
+    cat: "When FSCD says no",
+    stream: "Children / FSCD",
+    items: [
+      {
+        q: `They said no. What are my options?`,
+        a: `Three, and they are not the same thing:
+
+- **Concern resolution** — talk to the caseworker and their manager. Informal, no form, no clock.
+- **Review of an FSCD program decision** — internal, by managers who were not involved. **30 calendar days** to request.
+- **Appeal** — an arm's-length committee appointed by the Minister. **45 calendar days** to file.
+
+You can use all three. Read the next answer before you choose an order, because the order matters more than anything else on this page. _(confirmed against the FSCD policy manual, sections 10.1, 10.2 and 10.4, archived 16 September 2026)_`
+      },
+      {
+        q: `If I ask for a review first, does that pause my 45 days to appeal?`,
+        a: `**No. It does not.** Read that twice, because this is where people lose their appeal without ever being told they had one.
+
+The manual says it outright: *"The 45 calendar day time limit for submission of a notice of appeal is not suspended when a parent or guardian requests a review of an FSCD program decision."*
+
+So people request a review, wait politely for an answer, and discover the appeal window shut while they were waiting.
+
+**File the notice of appeal first. Then ask for the review.** You can always withdraw the appeal if the review fixes it. You cannot reopen a window that has closed. _(confirmed against the FSCD policy manual, section 10.2, archived 16 September 2026)_`
+      },
+      {
+        q: `Do my services stop while I appeal?`,
+        a: `No. *"Other agreed upon FSCD services will continue to be provided while a parent or guardian is appealing a decision."*
+
+And one more thing worth using: you have **a right to have an advocate or other support person present at the hearing.** Bring someone. Nobody should do this alone, and nobody has to. _(confirmed against the FSCD policy manual, section 10.4, archived 16 September 2026)_`
+      },
+      {
+        q: `What if the problem is the process itself, not the decision?`,
+        a: `The manual names two routes: a lawyer, for legal remedies — or the **Office of the Alberta Ombudsman**, which looks at whether a public body treated you fairly in how it decided, rather than at whether the decision was right.
+
+The Ombudsman is free. _(confirmed against the FSCD policy manual, section 10.4, archived 16 September 2026)_`
+      }
+    ]
+  },
+  {
+    cat: "School — coding, funding and what the school owes your child",
+    stream: "Children / FSCD",
+    items: [
+      {
+        q: `What is PUF, and how long does my child get it?`,
+        a: `Program Unit Funding is early childhood funding for children with a severe disability or severe language delay.
+
+**A maximum of three years, and the kindergarten year counts as one of them.** To get the full three, a child has to enter ECS at a minimum age of 2 years 8 months and be under 6.
+
+Be careful with a figure that circulates: that public boards give two years and private schools give three. **The funding manual says three for both.** The two-year experience is real for many families, but it comes from when boards choose to open a placement, not from a rule. If a public board tells you that you only get two years of PUF, the funding manual does not say that. _(confirmed against the Funding Manual for School Authorities 2026/27, sections C2.7.1 and D2.4.1)_`
+      },
+      {
+        q: `What is my child's code worth to the school?`,
+        a: `For 2026/27, per student:
+
+- Mild or moderate disability: **$12,975.71**
+- Severe disability, base: **$8,403.28**
+- Severe disabilities funding, on approval: **$19,979.34** on top
+
+So a severe-coded student carries roughly **$28,382** in public money into that building.
+
+Two caveats, said plainly. This money goes to the **authority**, not to your child — it is not an account with their name on it, and no school is obliged to spend that exact sum on that exact child. And knowing the number does not by itself get you an aide. What it does is change the conversation when a school says there is no money: there is a number, it is published, and you can say it out loud. _(confirmed against the Funding Manual for School Authorities 2026/27, rate tables, local copy in the archive)_`
+      },
+      {
+        q: `If I move my child to home education or online schooling, does the disability funding follow them?`,
+        a: `No, and this is the one that surprises people most.
+
+Severe disabilities funding is **excluded** for home education and online students. Home education and shared responsibility students are also excluded from the enrolment count that drives the main grants.
+
+This does not touch your FSCD at all — FSCD runs off your child's disability and your family's needs, not off where they are schooled. But the school-side money is a different pot, and it does not travel with the child when you take them out. Decide with that in front of you rather than after. _(confirmed against the Funding Manual for School Authorities 2026/27, sections C2.1 and D2.3)_`
+      },
+      {
+        q: `The school says there is no money for an aide. Is that true?`,
+        a: `We cannot tell you what is in any one school's budget, and we are not going to pretend otherwise.
+
+What we can tell you is what the province puts in. See the coding answer above: a severe-coded student generates roughly $28,382, and the rates are published in a document anyone can download. The funding is not tagged to your child, so a school is not breaking a rule by spending it across a group of students.
+
+What is worth asking for, in writing: what does my child's IPP say they need, what is in place today, and what is the gap. An IPP that names a support the child is not receiving is a far more useful document than any funding figure. _(funding rates confirmed against the Funding Manual for School Authorities 2026/27; no claim is made here about any individual school's budget)_`
+      }
+    ]
+  },
+  {
+    cat: "Home educating a child with a disability",
+    stream: "Children / FSCD",
+    items: [
+      {
+        q: `Does home educating my child affect my FSCD?`,
+        a: `No. FSCD eligibility runs off your child's disability and your family's assessed needs. Nothing in the FSCD Act or Regulation ties a benefit to school enrolment.
+
+The school funding question is a separate one and the answer there is different — see the schooling answer above. _(the FSCD Act and AR 140/2004 were searched for any enrolment condition; none found)_`
+      },
+      {
+        q: `Do I have to teach the whole Alberta curriculum?`,
+        a: `No. The regulation says a parent **may** follow the Alberta Programs of Study — may, not must.
+
+If you do not follow them, your program answers to **twenty lettered outcomes** instead, set out in a Schedule to the regulation and running from (a) through to (t), the last being that the student "have the desire and realize the need for lifelong learning." Twenty outcomes. That is the entire alternative.
+
+One caution on a number you will hear in the group: people compare this to "1,400 outcomes" in the Programs of Study. That figure is an estimate used as a comparison — it is not a requirement and it is not language the regulation uses, so do not quote it as though it were. _(confirmed against AR 89/2019, section 3 and the Schedule)_`
+      },
+      {
+        q: `Can my home education board help with a psycho-educational assessment?`,
+        a: `There is a duty you can point at, and at least one family in these groups has already used it.
+
+AR 89/2019 requires an associate board to **"advise parents… of the services and resources of the associate board or associate independent school that are available for use by the parents and students."**
+
+That is an opening to ask what they have — it is not an entitlement, and boards differ enormously. Ask in writing, name the section, and ask what is available rather than whether they will pay. _(confirmed against AR 89/2019 s.5(d); amendment trail AR 89/2019 s5;145/2020;136/2025)_`
+      }
+    ]
+  },
+  {
+    cat: "Turning 18 — the cliff",
+    stream: "Children / FSCD",
+    items: [
+      {
+        q: `When is transition planning supposed to start?`,
+        a: `**At 16, for every youth — not on request.**
+
+At 16 the Transition to Adulthood Plan replaces the Individualized Family Support Plan and is kept on the file. FSCD leads it, but it is meant to pull in adult programs, Education, Health and others so that supports are in place **when the youth turns 18**, not started then.
+
+If your child is 16 and nobody has raised transition planning, ask for it by name. It is the expectation, not a favour. _(confirmed against the FSCD policy manual, sections 8.1 and 9.1, and the Essential Program Standards)_`
+      },
+      {
+        q: `What happens when my child turns 18?`,
+        a: `The FSCD file ends. In Alberta, 18 is legal adulthood, and the children's system stops there.
+
+What comes next is the adult system — AISH or ADAP for income, PDD for disability services, and the guardianship and trusteeship questions if your child will need decisions made with or for them. **Those are covered in the AISH and ADAP sections of this FAQ**, and they are a different world with different rules, different appeal clocks and different money.
+
+The single most useful thing you can do is start at 16 rather than 17 and a half. Adult programs have their own waits, and they do not begin the day the FSCD file closes. _(FSCD's end at 18 confirmed against the policy manual; the adult programs are covered elsewhere in this FAQ)_`
+      }
+    ]
+  },
+  {
+    cat: "Spotting misinformation — the kids' side",
+    stream: "Children / FSCD",
+    items: [
+      {
+        q: `I saw a wait-time figure going around. Can I trust it?`,
+        a: `Check where it came from before you repeat it, because a wrong number is the fastest way to lose an argument you should win.
+
+Here is a live example. A well-run campaign site states that families in 2019 typically waited months and that many now wait **over four years**. The report that same page cites gives approximately **21 months** to full services, and its media release says "up to three years." Four years is longer than either, and no source is given for it.
+
+We are not saying the four years is invented — it may come from a later source, or from what families are living through now. We are saying it is **not supported by the document sitting on the same page**, so it can be knocked down.
+
+Use the staged numbers instead: 7 and a half months to an eligibility decision, roughly 21 months to full services, from a named survey of 746 families with page numbers attached. Those cannot be argued with. _(the discrepancy confirmed by comparing the campaign page against Inclusion Alberta's "Too Little, Too Late," January 2025, p. 7, and its media release of 20 January 2025)_`
+      }
+    ]
   }
 ];
