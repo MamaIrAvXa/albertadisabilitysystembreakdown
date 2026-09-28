@@ -1,0 +1,131 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link href="/css/main.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+</head>
+
+<body class="bg-background text-foreground">
+
+<div id="root"></div>
+
+<div>
+    <div class="hidden" id="UserName"></div>
+    <div class="hidden" id="LoggedIn">false</div>
+
+
+        <div class="hidden" id="isTargetSignOutAvailable">false</div>
+        <div id="isRcmp" data-rcmp="false"></div>
+        <div id="emailUserName" data-email=""></div>
+</div>
+<div class="flex justify-center items-center w-screen ">
+
+
+
+    <div class="flex flex-col lg:flex-row gap-6 mx-auto justify-start items-start w-full max-w-6xl sm:pt-36 pt-12 pb-56">
+        <section class="md:w-[48rem] flex flex-col justify-start items-start md:items-center md:justify-center p-8">
+            <h4 class="warning">File Download</h4>
+<hr />
+<div class="well">Your file <b>FSCD0011.</b> should start downloading soon.</div>
+
+<noscript>
+    <a href=/Form/FSCD0011.>Download file</a>
+</noscript>
+<script>
+    window.onload = function() {
+        window.location.href = encodeURI("/Form/FSCD0011.");
+    }
+</script>
+        </section>
+        <div id="aside-links" class="md:w-1/3 p-4 w-full">
+                
+<div>
+    <h3 id="form-stock-ordering">Form Stock Ordering</h3>
+<hr />
+<ul>
+<li><a href="https://goa.westkey.online/DSF/SmartStore.aspx?CultureName=en-US&SiteGUID=0781dcec-45fc-451b-bcb8-c6d42af69233&random=0.7452979850578878#!/Storefront" target="_blank">Distribution Centre Forms and Publications</a></li>
+</ul>
+<h3 id="other-online-services">Other Online Services</h3>
+<hr />
+<ul>
+<li><a href="https://orrs.gov.ab.ca/" target="_blank">Online Records Retrieval</a></li>
+<li><a href="https://xnet.gov.ab.ca/" target="_blank">Government ID Cards (XNET)</a></li>
+<li><a href="https://www.opra.alberta.ca/Account/Welcome" target="_blank">Online Parking Request and Administration</a></li>
+<li><a href="https://itr.gov.ab.ca/" target="_blank">International Travel Registry</a></li>
+</ul>
+<h3 id="contacts">Contacts</h3>
+<hr />
+<ul>
+<li><a href="mailto:goa.forms@gov.ab.ca">Form Support</a></li>
+<li><a href="mailto:JSG-IMT-SupportDesk@gov.ab.ca">Agent Account Support</a></li>
+<li><a href="mailto:goa.forms@gov.ab.ca">Form Services Feedback</a></li>
+</ul>
+<h3 id="accessibility">Accessibility</h3>
+<hr />
+<ul>
+<li><a href="../Content/Accessibility.html" target="_blank">Alberta Forms Accessibility</a></li>
+<li><a href="https://www.alberta.ca/accessibility" target="_blank">Government of Alberta Accessibility</a></li>
+</ul>
+
+</div>
+
+
+
+        </div>
+    </div>
+
+</div>
+
+
+<script defer type="module" src="/js/main.js"></script>
+
+
+<div id="alerts">
+                
+    <div>
+        <input class="id" type="hidden" value="1"/>
+        <input class="active" type="hidden" value="true"/>
+        <input class="type" type="hidden" value="warning"/>
+        <input class="title" type="hidden" value="Edge Users"/>
+        <input class="title" type="hidden" value="Edge Users"/>
+        <input class="message" type="hidden" value="Using <b>Edge</b> and seeing <b>Please wait...</b> instead of your form? Review the help article <b><a href='/Home/Help#OpeningIssues'>PDF contents do not load in Edge</a></b> for help"/>
+        <input class="forced" type="hidden" value="false" />
+    </div>
+
+                
+    <div>
+        <input class="id" type="hidden" value="2"/>
+        <input class="active" type="hidden" value="true"/>
+        <input class="type" type="hidden" value="error"/>
+        <input class="title" type="hidden" value="Issue notification"/>
+        <input class="title" type="hidden" value="Issue notification"/>
+        <input class="message" type="hidden" value="<b>Do not</b> apply Security Classification using the 'Classify and protect' app for any fillable PDF Forms. This causes fillable PDF forms to lose the ability to be filled, saved and signed. OCCIO&T and Microsoft are working on a resolution."/>
+        <input class="forced" type="hidden" value="false" />
+    </div>
+
+                
+
+                
+
+                
+
+</div>
+
+<div class="hidden" id="is_uat">prod</div>
+
+
+</body>
+
+
+</html>

@@ -1,0 +1,45 @@
+# Added 2026-09-28 — stops git reporting line-ending-only changes.
+#
+# Six tracked files were showing 138,013 insertions and 138,013 deletions with
+# zero content change: something on Windows rewrote them with CRLF line endings
+# while the committed blobs use LF, so git saw every line as modified.
+# `git diff --ignore-cr-at-eol` returned 0/0 on all of them.
+#
+# `text=auto` tells git to normalise text files to LF in the repository and
+# check them out with the platform's own endings. The binary rules below stop
+# git treating documents and images as text, which is what made a PDF show up
+# with 384 changed "lines".
+
+* text=auto
+
+# Documents and archives — never line-ending converted, never diffed as text
+*.pdf    binary
+*.docx   binary
+*.doc    binary
+*.xlsx   binary
+*.xls    binary
+*.pptx   binary
+*.ppt    binary
+*.zip    binary
+*.odt    binary
+
+# Images, fonts, media
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.webp   binary
+*.ico    binary
+*.svgz   binary
+*.woff   binary
+*.woff2  binary
+*.ttf    binary
+*.otf    binary
+*.eot    binary
+*.mp4    binary
+*.mp3    binary
+*.wav    binary
+
+# Windows folder-metadata files git should leave alone
+desktop.ini  text=auto
+Thumbs.db    binary
