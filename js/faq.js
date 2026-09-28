@@ -47,6 +47,16 @@ As a general habit with any benefit, ask the program to note your top-up in writ
     cat: "Money — living allowance, transition benefit, rebates, clawbacks",
     items: [
       {
+        q: `Once my Canada Disability Benefit is approved, how much does Alberta actually deduct?`,
+        a: `We do not have a clean answer for you yet, and we would rather say that plainly than guess.
+
+The $200 penalty you may have read about is for **not applying** or **not confirming** your application's outcome \u2014 it is not automatically what gets deducted once your CDB is approved and on file. Once it is on file, the expectation is that Alberta deducts your real CDB amount, dollar for dollar.
+
+But we have seen statements from two different members this month that do not agree with each other. One shows a CDB deduction that matches their real federal payment. Another shows a flat $200 deducted against a confirmed CDB of a smaller amount. We do not know yet which one is the rule and which one is a mistake.
+
+Until this is sorted out: compare your CDB deposit against the CDB line on your AISH or ADAP statement. If the deducted amount does not match your real federal payment, ask in writing why \u2014 and bring the answer to us so we can compare notes. _(the $200 non-application penalty confirmed on the government's ALSS Canada Disability Benefit and Disability Tax Credit fact sheet for AISH recipients, dated April 2026; the discrepancy is drawn from member account statements, not a government source, and is not yet resolved)_`
+      },
+      {
         q: `My partner and I both get AISH or ADAP — when and why does our money drop?`,
         a: `When two adults in the same home both get AISH or ADAP, each of you moves to 88 percent of the individual maximum — about 88 cents on the dollar each. It means two disabled people who live together receive less than two disabled people who live apart.
 
@@ -229,6 +239,16 @@ And if the 30 days is the thing standing in your way: you can ask for more time.
   {
     cat: "Special benefits and equipment",
     items: [
+      {
+        q: `I heard a new rule on October 1 means my health coverage has to be billed somewhere else first \u2014 does that affect my AISH or ADAP health benefits?`,
+        a: `No \u2014 good news, though we want to be upfront that we are relying on industry reporting for this one, not the law itself.
+
+Starting **October 1, 2026**, a change means two *other* government health programs \u2014 Coverage for Seniors, and Non-Group Coverage \u2014 become the "payer of last resort" behind a private plan (an employer's, a spouse's, or a personal one). If you have one of those two programs and separately have private coverage, the private plan gets billed first.
+
+**AISH and ADAP health benefits are not one of the two named programs.** As far as we can find, this change does not touch your AISH or ADAP health coverage at all.
+
+One caution: we have not read the actual legislation for this \u2014 everything above comes from insurance-industry summaries, not a government page we opened ourselves. If you are on AISH or ADAP and get a bill you weren't expecting after October 1, ask your worker in writing whether this rule applies to you, and bring the answer to us. _(reported by Alberta Blue Cross and insurance-industry sources; not independently confirmed against the Health Statutes Amendment Act, 2025 (No. 2) or its regulations)_`
+      },
       {
         q: `If I am on ADAP, do I still get medical equipment cost-free through AADL?`,
         a: `This one moved, and it moved the right way — but AISH and ADAP are not in the same position, and the difference is worth knowing before a big equipment bill lands.
