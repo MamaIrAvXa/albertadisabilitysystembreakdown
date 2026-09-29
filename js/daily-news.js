@@ -10,120 +10,141 @@
 const DAILY_NEWS = [
 {
   date: "2026-09-28",
-  stream: "Children / FSCD",
-  title: "Where Things Stand for Kids and Families \u2014 September 28, 2026",
-  body: `A government site that has refused us for most of a fortnight opened
-tonight, and a search opened a second door. Both of them lead somewhere that matters.
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 September 28, 2026",
+  body: `Another quiet day for new announcements. I went back to the law and the manual again tonight, and the base rates, the rule for couples, and the January 1 adjustment all still read the same. Here's where things stand.
 
-## IN JANUARY 2025, FOUR MINISTERIAL ORDERS LET FOUR SCHOOL DIVISIONS SEND CERTAIN CHILDREN HOME
+## TWO DAYS LEFT: THE ENERGY REBATE
+If you came onto AISH, ADAP, Income Support or the Seniors Benefit **after July 1**, you have until **Wednesday, September 30**, to apply for the $100 energy rebate yourself. If you were on before July 1, it comes automatically. The government's page says the rebate won't affect your other benefits. Apply through alberta.ca only, and don't click links in texts.
 
-These are Alberta documents, published on King's Printer, and anyone can read them.
+## THURSDAY: BILL 11
+From **October 1**, if you have Coverage for Seniors or Non-Group Coverage **and** a private plan, the private plan gets billed first. If all you have is your AISH or ADAP health card, this one isn't about you.
 
-During a support staff strike, the Minister signed four orders exempting four school divisions from
-the requirement to offer in-person learning. The exemption wasn't for everyone. Ministerial Order
-002/2025, dated January 12, 2025, exempts the board so it can decide about in-person learning "to
-students who require an educational assistant due to complex needs where the continued attendance of
-those students at in-person learning may risk the health and safety of the student or other students
-or staff".
+## HELD PAYMENTS: A SECOND MEMBER HEARD THE SAME THING
+Two days ago I shared what one worker told a member: the new system has a setting for how often you report income, monthly or yearly, and people set to monthly can have their payment held until someone enters something.
 
-The appendix to that order attaches real duties, and they're worth reading because they're the only
-Alberta rules on a part-time school day we've ever found. Clause 6 says that before exempting a
-student, the board "shall make reasonable efforts to continue in-person learning for the student,
-including but not limited to, for part of a school day or school week, while providing at-home
-learning to the student for the remaining part". Clause 2 requires an individualized analysis using
-prior assessments. Clause 11 requires a learning plan that keeps the student on the same courses,
-given to the parent and revised as needed. Clause 12 requires regular communication with the parent.
-Clause 14 requires ongoing review.
+Today another member told me her October payment was released after a worker entered **$0** as her monthly income. That's two workers, in two different places, describing the same cause. It still isn't official, but it's a pattern now.
 
-On February 26, 2025, all four orders were revoked and replaced. The replacements delete the whole
-scheme. No complex needs. No educational assistant. No part of a school day. Instead: boards must
-make reasonable efforts to offer in-person learning to all students, and when deciding whether to
-provide at-home learning to any student, must "assess and deploy all resources considering all
-students in an inclusive, equitable and fair manner". Three more orders made on March 3, 2025 used
-the replacement wording from the start.
+What you can do:
 
-One count carries the whole story. Across all eleven of those orders, the word disability appears
-zero times. The children were identified by the staffing they needed, not by who they are.
+**About a week before payment day, email your office.** Ask them to confirm there's no hold on your next payment, and ask whether your file is set to report income monthly or yearly.
 
-Instrument: ministerial orders made under s.4 of the In-person Learning Regulation. All eleven are
-public.
+**If you have no income to report and you're set to monthly**, ask them in writing whether it can be changed to yearly.
 
-## WHAT ALBERTA PAYS FOR A PRESCHOOLER WITH A SEVERE DISABILITY, AND WHAT CHANGES AT GRADE 1
+**If your payment doesn't come**, contact your office that day, and then tell us the date and what you were told.
 
-Program Unit Funding, the preschool grant, has published per-child rates for 2026/27: $18,731.79
-half day and $31,219.65 full day for codes 41 to 46, $12,487.86 and $21,229.36 for code 47, and
-$4,995.14 for a moderate language delay. It runs for a maximum of three years including the
-kindergarten year, for a child aged 2 years 8 months to under 6.
+Your office email:
 
-From Grade 1, the grant that carries specialized learning is built a different way. The Specialized
-Learning Support Grant is described in Alberta's own funding manual as "additional funding for the
-entire school jurisdiction". It's paid on total enrolment, at a multiplier rate of $5,948.25 and
-$456.22 per student across the whole jurisdiction, plus two formula allocations. Across that section
-of the manual the word diagnosis appears zero times.
+**North, including Edmonton:** northzoneaish@gov.ab.ca
 
-That's the difference in a sentence: in the preschool years the money is calculated for your child
-and follows an assessment. From Grade 1 the money is calculated for the jurisdiction and the
-jurisdiction decides how to spread it.
+**Central:** aish.centralregion@gov.ab.ca
 
-One more thing from the same manual that nobody would guess. The share of children receiving FSCD in
-a school authority's area is one of three data inputs used to calculate part of that grant. FSCD
-caseload feeds school funding.
+**Calgary:** calgaryaish@gov.ab.ca
 
-Instrument: the Funding Manual for School Authorities 2026/2027. Guidance about how grants are
-calculated. Not a statute, not a regulation, and not an entitlement belonging to your child.
+**South:** southaish@gov.ab.ca
 
-## THE NEW EMERGENCY STANDARDS, NOW READ FROM THE ORDER ITSELF
+## BILL 206: THE LEGISLATURE'S OWN RECORD
+Last night I told you I'd pull the Legislature's own record on Bill 206, the Accessible Alberta Act. It confirms what the NDP said: the bill was voted down at **second reading on March 23, 2026**.
 
-Two things that were second hand on Thursday are first hand now. Both deadlines are in the order:
-January 4, 2027 for a school authority's framework, April 5, 2027 for each school's plan. And early
-childhood services children are in scope by the order's own definition.
+Second reading is the first real debate and vote on whether a bill goes any further. It was a recorded vote, meaning each member's vote was written down. I don't have the count yet, so I won't guess at it.
 
-The three response protocols are written for "staff members, children, and students" as one group:
-evacuation, shelter in place, and lockdown. In the whole order, disability appears zero times,
-medical zero times, and accommodation zero times.
+## THE $150 FEDERAL PAYMENT
+The one-time $150 Canada Disability Benefit payment was scheduled to start going out September 17. If your Disability Tax Credit was approved more recently, the federal government says a second round goes out this winter.
 
-Alberta Education's standards index still doesn't list the order, and no alberta.ca page names it.
+On AISH and ADAP, the regulation doesn't count that $150 as income. If it was taken off your cheque, ask in writing why.
 
-What you can do. The frameworks are being written right now. Write to your board, not just the
-department, because the boards are the ones drafting.
+## ONE THING TO KNOW ABOUT THE HERITAGE FUND
+As of tonight, the province's Heritage Fund page still shows the fund's value as of December 31, 2025. So if you see anyone quote a "current" Heritage Fund number, it may be nine months old. Ask them what date it's from.
 
-## RE-CHECKED, STRAIGHT FROM THE SOURCE
+## RE-CHECKED TONIGHT, STRAIGHT FROM THE SOURCE
+**Base rates:** $1,940 a month on AISH and $1,740 on ADAP. That's in the regulation.
 
-1. Respite: up to 240 hours a year. Still no published hourly rate anywhere in the Act, the
-regulation or the manual. Worth noting beside item 2: the education side does publish per-child
-rates, so the silence on the FSCD side is a choice, not a habit across government.
-2. Appeal: 45 days from the written decision.
-3. The two-year diagnostic clock is still in manual 4.1 and still in neither the Act nor the
-regulation. The funding manual requires an assessment by a qualified professional for preschool
-funding and sets no waiting period at all.
-4. Child Disability Benefit up to $3,480 a year, $290 a month, July 2026 to June 2027.
-5. No new bill before the Legislature, and nothing this session touches the FSCD Act.
-6. The FSCD manual still points at a link that isn't on the page. Fifth day.
+**The $200 transition benefit** and its end date of December 31, 2027 are in the government's manual, not the regulation.
 
-## STILL CHECKING
+**There's no deadline** to ask to go back to AISH. The manual says the cost of one medical report is covered, and it's "not time limited."
 
-Two things, and both are gaps rather than findings.
-
-News reports from February 2025 describe a Court of King's Bench decision about the in-person
-learning orders above. We haven't been able to read the decision itself, so we're not repeating what
-it says. We're working on getting the citation.
-
-Whether s.4 of the In-person Learning Regulation, the provision all eleven orders rest on, is still
-in force. If it is, the January 2025 arrangement can be brought back by a signature.
-
-If your child is turning 18, the PDD and guardianship updates are in the main update.
+**Your rates** get their first yearly adjustment on January 1, 2027.
 
 ## DATES TO KEEP
+**Wednesday, September 30:** energy rebate deadline, if you came on after July 1.
 
-January 4, 2027: critical emergency frameworks due from school boards and early childhood services
-operators.
-April 5, 2027: critical emergency plans due from every school.
-July 2027: the federal child benefit year resets.
-June 30, 2029: the FSCD regulation expires unless it's renewed.
+**Thursday, October 1:** Bill 11 changes who pays first.
+
+**October 13 to 17:** advance voting.
+
+**Monday, October 19:** referendum day.
+
+**Tuesday, October 27:** November payment date, and the Legislature sits again.
+
+**Wednesday, November 25:** December payment date.
+
+**January 1:** first yearly rate adjustment.
+
+If you're raising a child with a disability, **Where Things Stand for Kids and Families** covers FSCD, school and federal benefits for children. Choose Children/FSCD in the Daily News filter.
 
 ## IF TONIGHT IS A HARD ONE
 Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
 },
+{
+  date: "2026-09-28",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 September 28, 2026",
+  body: `Two things moved today, and one date is worth putting in your calendar now. Here's where things stand.
+
+## THE CASEWORKER RULEBOOK MOVED
+FSCD has two layers of rules. The **policy manual** is what the program says it does. Under that sits the **operational procedures**, which is what caseworkers are told to do day to day.
+
+On September 23, the government put out a new copy of the operational procedures at a new web address. The old link no longer works. If you saved it, here's the new one:
+
+manuals.alberta.ca/media/vvvhqdgl/fscd-internal-operational-procedures.pdf
+
+I compared the new copy with the old one, page by page. Of 176 pages, **three changed, and all three changes were government email addresses**. Nothing a family would notice changed. The respite rate is still left blank for the caseworker to fill in, and the two-year limit for kids waiting on a diagnosis is still there.
+
+The manual's own "latest updates" page doesn't mention that a new copy went out.
+
+## YOUR CHILD'S RIGHT TO IN-PERSON SCHOOL, AND A DATE TO REMEMBER
+Alberta has a regulation that says when a school board moves students to learning from home, it has to keep an in-person option open for them. It's called the **In-person Learning Regulation**. Tonight I read the version in force now, word for word. Three things stood out.
+
+**It doesn't cover Early Childhood Services.** That's the government's name for preschool and kindergarten programs, including the ones for young children with disabilities. The in-person guarantee doesn't reach them at all.
+
+**The Minister can exempt a board** from the guarantee by signing an order. Those orders are published, so we can see them.
+
+**A board can also move students home with no order at all**, if it's satisfied something threatens the safe running of the school building. Nothing I've read requires the board to report when it does that.
+
+The regulation **expires on May 31, 2027**. When a regulation expires, the government has to decide whether to pass it again, change it, or let it end. That's a window for families to speak up about what it should say, so I'll keep watching for it.
+
+## RE-CHECKED TODAY, STRAIGHT FROM THE SOURCE
+**FSCD respite:** the regulation sets it at 240 hours a year.
+
+**Waiting for a diagnosis:** the FSCD manual says family support services can run up to 2 years while your child waits for a diagnosis. That rule isn't in the FSCD Act or regulation. The caseworker procedures repeat it, and the only authority they give for it is the program's own standards.
+
+**FSCD appeals:** 45 days. Start counting from the day they first tell you the decision, even if it was a phone call before the letter.
+
+**Child Disability Benefit:** up to $3,480 a year ($290 a month) for July 2026 to June 2027.
+
+## STILL CHECKING
+School funding for kids with severe disabilities. I'm still waiting for two readings of the same government manual to agree before I share numbers.
+
+If your child is turning 18, the PDD and guardianship updates are in the main update \u2014 choose AISH/ADAP/CPP-D in the Daily News filter.
+
+## DATES TO KEEP
+**January 4, 2027:** school board and Early Childhood Services emergency frameworks due.
+
+**April 5, 2027:** every school's emergency plan due.
+
+**May 31, 2027:** the In-person Learning Regulation expires.
+
+**July 2027:** federal child benefit amounts reset.
+
+**June 30, 2029:** the FSCD regulation expires.
+
+## A CORRECTION
+On September 21 I gave the wrong section number for the rule about literacy and numeracy screening results. The rule is right \u2014 a board must not use those results on their own to decide a student needs specialized supports \u2014 but the section is **30.51(3)** of the Education Act, not 30.5(3). I'm sorry for the mix-up.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+
 {
   date: "2026-09-27",
   stream: "Children / FSCD",
