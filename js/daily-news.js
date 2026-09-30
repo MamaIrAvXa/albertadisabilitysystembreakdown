@@ -9,6 +9,120 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-29",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 September 29, 2026",
+  body: `Another quiet day for announcements, and the law and the manual still read the same. Tomorrow is the last day for the energy rebate, so that's first.
+
+## LAST CALL: THE ENERGY REBATE CLOSES TOMORROW
+If you came onto AISH, ADAP, Income Support or the Seniors Benefit **after July 1**, **Wednesday, September 30** is your last day to apply for the $100 energy rebate. If you were on one of them before July 1, it comes automatically and you don't need to do anything. The government says the rebate won't affect your other benefits. Apply through alberta.ca only, and don't click links in texts.
+
+## THURSDAY: BILL 11
+From **October 1**, if you have Coverage for Seniors or Non-Group Coverage **and** a private plan, the private plan gets billed first. Nothing I've read names AISH or ADAP health benefits. If all you have is your AISH or ADAP health card, this one isn't about you.
+
+## WHAT ADAP ASKS OF YOU (IT'S NOT JUST "GET A JOB")
+You may have seen headlines saying people on ADAP are being "told to just get a job." That's not quite how it works, and the difference matters.
+
+ADAP expects you to take part in employment services. A worker, called a **service navigator**, contacts you about things like career planning, training and job placements, and you're expected to take part. Your payment depends on that participation.
+
+If you can't take part because of your disability, say so in writing, and ask your doctor to put it in writing too. If your benefits are ever cut over employment requirements, **that decision can be appealed**.
+
+And if someone who is fully dependent on care is told they're "employable," that's worth asking to be reassessed for AISH. A family went public about exactly this today. Their son uses a wheelchair and needs overnight nursing care, and after he was told he was employable, his decision was reversed on review and he was approved for AISH. The door back has no deadline.
+
+## HEARD THIS WEEK: "ONLY FOUR CATEGORIES GET AISH"
+More than one of you has been told this. It isn't right.
+
+The "four categories" were the groups kept on AISH automatically when people were moved to ADAP in July: people with a severe developmental disability or who are eligible for PDD, people in palliative care, people living in continuing care, and people who were 60 or older. They decided **who stayed**. They aren't a limit on who can get AISH now.
+
+The test for AISH is whether your disability is severe and permanently prevents you from working. You can still apply, or ask to be reassessed from ADAP. Your decision letter says which parts of a decision can be appealed. If you're told "there's nothing to appeal," check your letter, and ask for that answer in writing.
+
+## RE-CHECKED TONIGHT, STRAIGHT FROM THE SOURCE
+**Base rates:** $1,940 a month on AISH and $1,740 on ADAP. That's in the regulation.
+
+**Couples:** when both partners get AISH or ADAP, each gets 88% of the living allowance. That cut is only to the living allowance, not to your other benefits.
+
+**The $200 transition benefit** and its end date of December 31, 2027 are in the government's manual, not the regulation.
+
+**There's no deadline** to ask to go back to AISH. The manual says the cost of one medical report is covered, and it's "not time limited."
+
+**Your rates** get their first yearly adjustment on January 1, 2027.
+
+**The federal $150 Canada Disability Benefit payment** is a fixed amount, paid for each approved Disability Tax Credit certificate rather than monthly. On AISH and ADAP, the regulation doesn't count it as income.
+
+## DATES TO KEEP
+**Wednesday, September 30:** energy rebate deadline, if you came on after July 1.
+
+**Thursday, October 1:** Bill 11 changes who pays first.
+
+**October 13 to 17:** advance voting.
+
+**Monday, October 19:** referendum day.
+
+**Tuesday, October 27:** November payment date, and the Legislature sits again.
+
+**Wednesday, November 25:** December payment date.
+
+**January 1:** first yearly rate adjustment.
+
+If you're raising a child with a disability, **Where Things Stand for Kids and Families** covers FSCD, school and federal benefits for children. Choose Children/FSCD in the Daily News filter.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-09-29",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 September 29, 2026",
+  body: `Tonight was a big reading night. A lot of what turned up needs checking before I share it, but three things are solid.
+
+## RESPITE: A PUBLISHED RATE FOR ONE PROGRAM, NONE FOR FSCD
+The government publishes what it pays foster and kinship caregivers for a break. Their rate schedule, dated February 18, 2026, pays for **two days a month** of relief or respite per child, at **$65 a day**.
+
+FSCD has **no published rate** for respite or aides anywhere: not in the law, not in the manual, and not on alberta.ca. The manual only says rates "should reflect their qualifications, skill level and community standards."
+
+What you can do: if you're hiring respite or an aide, ask your caseworker **in writing** what rate FSCD will pay, and where that rate is written down.
+
+## WHY A PARENT CAN'T BE PAID FOR RESPITE
+A lot of parents ask whether they can be paid to care for their own child. Under FSCD, the answer is no, and it's written into the regulation itself.
+
+The rule says FSCD services have to be provided by an adult who isn't a relative. There's one exception: an adult relative can be paid to provide respite, if the director thinks they're the best person for it. But the rule says, in its own words, **"except for a parent."**
+
+So a grandparent, an aunt or uncle, or an adult brother or sister can be paid for respite. A parent never can.
+
+## THE NEW EDUCATION ACT STILL ISN'T OUT
+The government's law library now lists a version of the Education Act dated September 1, 2026, but there's **no document attached to it yet**. The version you can read is still the one from December 11, 2025. If you're quoting the Act to your school, check the date at the top.
+
+## RE-CHECKED TODAY, STRAIGHT FROM THE SOURCE
+**FSCD respite:** the regulation sets it at 240 hours a year.
+
+**Waiting for a diagnosis:** the FSCD manual says family support services can run up to 2 years while your child waits for a diagnosis. I read the whole FSCD regulation tonight, and that rule isn't in it. It's only in the manual.
+
+**FSCD appeals:** 45 days. Count from the day they first tell you the decision, even if it was a phone call before the letter.
+
+**Child Disability Benefit:** up to $3,480 a year ($290 a month) for July 2026 to June 2027.
+
+**EI family caregiver benefit for children:** up to 35 weeks, at 55% of your earnings, to a maximum of $729 a week in 2026.
+
+## STILL CHECKING
+Tonight's reading turned up a set of government orders about in-person school for students with complex needs, and a court decision about one of them. I want to confirm them against the official copies before I share anything. School funding for kids with severe disabilities is still being checked too.
+
+If your child is turning 18, the PDD and guardianship updates are in the main update \u2014 choose AISH/ADAP/CPP-D in the Daily News filter.
+
+## DATES TO KEEP
+**January 4, 2027:** school board and Early Childhood Services emergency frameworks due.
+
+**April 5, 2027:** every school's emergency plan due.
+
+**May 31, 2027:** the In-person Learning Regulation expires.
+
+**July 2027:** federal child benefit amounts reset.
+
+**June 30, 2029:** the FSCD regulation expires.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-09-28",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 September 28, 2026",

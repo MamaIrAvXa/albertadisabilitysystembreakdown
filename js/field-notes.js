@@ -2371,6 +2371,44 @@ If you work and you are on AISH, save this. And if you know someone who works wh
     blurb: "Scams, rumours, and official-looking posts, checked against the real source so the fear has somewhere to land.",
     items: [
       {
+        title: "Myth: \"Only the four categories can get AISH\"",
+        date: "2026-09-29",
+        body: `This is going around in a lot of AISH and ADAP groups right now, and some people are hearing it from workers themselves. It isn't true, and believing it is making people give up on something they may qualify for.
+
+## WHAT THE FOUR CATEGORIES ARE
+When people were moved from AISH to ADAP in July, four groups stayed on AISH automatically, without being assessed:
+
+People with a severe developmental disability, or who are eligible for PDD.
+
+People in palliative care.
+
+People living in continuing care.
+
+People who were 60 or older.
+
+That's all the four categories did. They decided **who stayed without being assessed**. They are not the test for who can get AISH.
+
+## WHAT THE REAL TEST IS
+The test for AISH is whether you have a severe disability that **permanently prevents** you from working. That's in the regulation, and decision letters quote it.
+
+ADAP is for a severe disability that **"substantially impedes"** working. Everyone who applies is assessed for both.
+
+## WHAT THAT MEANS FOR YOU
+**If you're on ADAP and your disability permanently prevents you from working, you can ask to be reassessed for AISH.** There's no deadline. The manual says the cost of one medical report is covered, and that it's "not time limited."
+
+**If you applied and got ADAP instead of AISH, read your decision letter carefully.** Some of those decisions can be appealed, and the letter tells you which parts. Appeals have a **30-day** clock, counted from when you received the letter.
+
+**People are getting back on AISH.** A family went public this week after their son was approved for AISH on review.
+
+## IF SOMEONE TELLS YOU "ONLY THE FOUR CATEGORIES" OR "THERE'S NOTHING TO APPEAL"
+Don't argue on the phone. Ask them to put it in writing, with the rule they're using. Then check it against your letter. **Your letter is what counts.**
+
+Please share this with anyone who's been told the door is closed. It isn't.
+
+## IF YOU HAD GIVEN UP ON THIS
+Being told the door is shut, and finding out later that it wasn't, is its own kind of hard. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. The campaign line is **587-590-3590**.`
+      },
+      {
         title: "Don't get hung up on the shiny words \u2014 and a fact-check of this week's Live",
         date: "2026-08-27",
         body: `I say it a lot, and I'm leading with it today, because there was a Live this week about AISH and ADAP, and it is worth watching. There was real, solid information in it, especially from the lawyer on how the appeals work and what the law says. I fact-checked the whole thing against the regulations, and most of it holds up. The fact-check is below, so you can see what's right, what to correct, and where to check for yourself.
