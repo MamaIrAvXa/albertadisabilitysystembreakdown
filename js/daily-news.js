@@ -32,8 +32,16 @@ A decision not to pay you **can be appealed**. The law gives you **30 days** fro
 
 If you have no money for food or rent right now, you can ask for emergency help at emergencybenefits.alberta.ca or by calling the 24-hour Income Support line at **1-866-644-5135**.
 
-## THE ENERGY REBATE WINDOW HAS CLOSED
-Today was the last day to apply if you came onto AISH, ADAP, Income Support or the Seniors Benefit after July 1. I haven't found any extension. If you were on one of those programs before July 1, it comes automatically.
+## THE ENERGY REBATE DEADLINE HAS BEEN EXTENDED
+**Update, later today.** Earlier this evening I told you the window had closed and that I'd found no extension. The government announced one today: the deadline for the $100 energy rebate is now **Friday, October 31**.
+
+If you came onto AISH, ADAP, Income Support or the Seniors Benefit **after July 1** and haven't applied yet, you have one more month. Apply through alberta.ca only, and don't click links in texts.
+
+One new thing that makes it easier: you can now verify using your **2025 Notice of Assessment** from CRA, as well as online banking or documents.
+
+The government also confirms the $100 **won't affect** your AISH, ADAP, Income Support or Seniors Benefit.
+
+If you were on one of those programs before July 1, it still comes automatically and there's nothing to do.
 
 ## TOMORROW: BILL 11
 Starting **October 1**, if you have Coverage for Seniors or Non-Group Coverage and a private plan, the private plan gets billed first. Nothing I've read names AISH or ADAP health benefits. If all you have is your AISH or ADAP health card, this one isn't about you.
@@ -59,6 +67,8 @@ The $150 Canada Disability Benefit payment started going out on September 17, fo
 
 ## DATES TO KEEP
 **Thursday, October 1:** Bill 11 changes who pays first.
+
+**Friday, October 31:** new energy rebate deadline, if you came on after July 1.
 
 **October 13 to 17:** advance voting.
 
