@@ -9,6 +9,139 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-09-30",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 September 30, 2026",
+  body: `Nothing new came out today on AISH or ADAP, and the law and the manual still read the same. But a few of you ran into things this week that everyone should know about, so those come first.
+
+## WATCH YOUR INBOX
+An email is going around that looks like it's from AACT (Albertans Advocating for Change Together). It says "You're warmly invited" and asks you to click "Open Invitation" to see the event details and an access code. **The link doesn't go to AACT.** It goes to an unrelated website, which is how fake sign-in pages work. Don't click it. Just delete it.
+
+If you already clicked and typed in a password, change that password tonight and turn on two-step verification.
+
+## IF YOUR PAYMENT STOPPED AND NOBODY TOLD YOU WHY
+A few of you have told me your payment was held or stopped with no letter, no call and no reason. If that's you:
+
+**Ask your AISH/ADAP office, in writing, for the decision and the reasons.** Email works, and it leaves a record.
+
+**Ask whether they're waiting on anything from you**, like a monthly income report.
+
+**Keep a log of every call:** the date, how long you were on hold, who you spoke to and what they said.
+
+A decision not to pay you **can be appealed**. The law gives you **30 days** from when you receive notice of the decision, which is why getting it in writing matters so much.
+
+If you have no money for food or rent right now, you can ask for emergency help at emergencybenefits.alberta.ca or by calling the 24-hour Income Support line at **1-866-644-5135**.
+
+## THE ENERGY REBATE WINDOW HAS CLOSED
+Today was the last day to apply if you came onto AISH, ADAP, Income Support or the Seniors Benefit after July 1. I haven't found any extension. If you were on one of those programs before July 1, it comes automatically.
+
+## TOMORROW: BILL 11
+Starting **October 1**, if you have Coverage for Seniors or Non-Group Coverage and a private plan, the private plan gets billed first. Nothing I've read names AISH or ADAP health benefits. If all you have is your AISH or ADAP health card, this one isn't about you.
+
+## THE LEGISLATURE SITS AGAIN OCTOBER 27
+The Legislature's own calendar now confirms it: MLAs are back starting **Tuesday, October 27**, with more sitting weeks through early December. That's when questions about AISH and ADAP can be put to the Minister on the record. If you've written to your MLA, this is a good time to ask them to raise it.
+
+## THE FEDERAL $150 PAYMENT
+The $150 Canada Disability Benefit payment started going out on September 17, for people who got the benefit between July 2025 and June 2026. A second round is planned for **winter 2027**. It's **$150 for each approved Disability Tax Credit certificate**, and it comes automatically, so you don't need to apply. On AISH and ADAP, the regulation doesn't count it as income.
+
+## RE-CHECKED TONIGHT, STRAIGHT FROM THE SOURCE
+**Base rates:** $1,940 a month on AISH and $1,740 on ADAP. That's in the regulation.
+
+**Couples:** when both partners get AISH or ADAP, each gets 88% of the living allowance. That cut is only to the living allowance. The $200 transition benefit isn't reduced.
+
+**The $200 transition benefit** and its end date of December 31, 2027 are in the government's manual, not the regulation.
+
+**There's no deadline** to ask to go back to AISH. The manual says the cost of one medical report is covered, and it's "not time limited."
+
+**Your rates** get their first yearly adjustment on January 1, 2027.
+
+**The Heritage Fund** figure on the province's page is still from December 31, 2025, so I won't call it current.
+
+## DATES TO KEEP
+**Thursday, October 1:** Bill 11 changes who pays first.
+
+**October 13 to 17:** advance voting.
+
+**Monday, October 19:** referendum day.
+
+**Tuesday, October 27:** November payment date, and the Legislature sits again.
+
+**Wednesday, November 25:** December payment date.
+
+**January 1:** first yearly rate adjustment.
+
+**Winter 2027:** second round of the federal $150 payment.
+
+If you're raising a child with a disability, **Where Things Stand for Kids and Families** covers FSCD, school and federal benefits for children. Choose Children/FSCD in the Daily News filter.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-09-30",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 September 30, 2026",
+  body: `No laws changed today, but two government documents that wouldn't open for weeks finally did, and both matter if your child is in school.
+
+## THE GRADE 1 CLIFF, IN THE GOVERNMENT'S OWN NUMBERS
+If your preschooler has a severe disability, the school program can get **Program Unit Funding**, or PUF, for them. That's money tied to your child. This school year it's up to **$31,219.65** for a full-day program of at least 800 hours, and up to **$18,731.79** for half-day. It lasts up to three years, and that includes kindergarten.
+
+**At Grade 1, it stops**, and nothing tied to your child replaces it. From Grade 1 on, the money comes through a grant that funds "the entire school jurisdiction" by formula.
+
+The government's own advisory team has recommended fixing this. In November 2025, the Aggression and Complexity in Schools Action Team recommended starting policy work to broaden PUF and "extend eligibility to Grade 1." That's a recommendation, not a policy, and I haven't found a government response to it yet.
+
+## SHORTENED SCHOOL DAYS: NAMED FOR THE FIRST TIME
+The same report says, in its own words: "Reactive measures such as PPE and shortened school days are ineffective." It's the first Alberta government document I've found that mentions shortened school days at all.
+
+It's advice, not a rule. There's still no rule that limits shortened days, requires your consent, or makes schools report them.
+
+What you can do: if your child is on a shortened day, ask the school **in writing** who decided, why, and when it ends.
+
+The report also recommends more FSCD support to cut wait times.
+
+## THE SPECIAL EDUCATION RULEBOOK STILL POINTS TO 2004
+The **Standards for Special Education** are the rules school boards follow for special education. They took effect September 1, 2004, and they're still listed as current.
+
+Standard 16 says boards must have written appeal procedures, must tell parents how to appeal, and must tell parents they can ask "the Minister of Learning" to review the board's decision. **That office hasn't existed since 2004.** The only law printed in the Standards is the old School Act, which the Education Act replaced. The Standards also don't apply to charter schools.
+
+What you can do: if you disagree with a special education decision, ask your board in writing for its appeal procedure. Standard 16 says they have to have one in writing and tell you about it. Ask them too who reviews the decision after the board, since the office named in the Standards is gone.
+
+## TURNING 18: PDD STARTS AT 16
+PDD (Persons with Developmental Disabilities) takes applications **from age 16**, so supports can be in place by 18. That's in PDD's own manual, and it lines up with FSCD, which starts transition planning at 16.
+
+## RE-CHECKED TODAY, STRAIGHT FROM THE SOURCE
+**FSCD respite:** up to 240 hours a year.
+
+**FSCD clothing and footwear:** up to $400 a year.
+
+**FSCD travel:** 12 cents a kilometre, parking up to $10 a day, and a hotel up to $85 a day.
+
+**FSCD dental**, if you have no other plan: $250 a year.
+
+**Child Disability Benefit:** up to $3,480 a year ($290 a month) for July 2026 to June 2027.
+
+## STILL CHECKING
+I'm looking into how PDD decides who qualifies, and I'll share it when I can show you the source. The in-person learning orders I mentioned last night are still being checked too.
+
+## DATES TO KEEP
+**January 4, 2027:** school board and Early Childhood Services emergency frameworks due.
+
+**April 5, 2027:** every school's emergency plan due.
+
+**May 31, 2027:** the In-person Learning Regulation expires.
+
+**July 2027:** federal child benefit amounts reset.
+
+**June 30, 2029:** the FSCD regulation expires.
+
+**September 30, 2029:** the regulation that decides who qualifies for PDD expires.
+
+If you're on AISH or ADAP yourself, tonight's main update has a warning about a fake email going around \u2014 choose AISH/ADAP/CPP-D in the Daily News filter.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-09-29",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 September 29, 2026",
