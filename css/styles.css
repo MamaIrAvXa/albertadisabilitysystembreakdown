@@ -1689,3 +1689,33 @@ section + section { border-top: 1px solid var(--line); }
   border-bottom: 2px solid rgba(212, 160, 23, 0.4);
 }
 .faq-stream-head:first-of-type { margin-top: 1rem; }
+
+
+/* ── Stream colours ───────────────────────────────────────────────────
+   A coloured edge on each card says which side of the site it belongs
+   to, without anyone having to read the label. Colour is never the only
+   signal — the stream chips and the filters say it in words too, which
+   matters for anyone who cannot distinguish these hues. */
+:root {
+  --stream-aish: #d4a017;     /* gold   — AISH / ADAP / CPP-D */
+  --stream-kids: #3f8f5e;     /* green  — children, FSCD, PDD, transitions */
+  --stream-seniors: #a9643c;  /* copper — seniors */
+  --stream-income: #5b7fa6;   /* blue   — Income Support */
+  --stream-general: #7d7f87;  /* grey   — general topics */
+}
+.card.s-aish    { border-left: 4px solid var(--stream-aish); }
+.card.s-kids    { border-left: 4px solid var(--stream-kids); }
+.card.s-seniors { border-left: 4px solid var(--stream-seniors); }
+.card.s-income  { border-left: 4px solid var(--stream-income); }
+.card.s-general { border-left: 4px solid var(--stream-general); }
+
+/* The category label at the top of a card picks up the same colour, so
+   the cue survives for anyone who reads rather than sees it. */
+.card.s-kids .card-num    { color: var(--stream-kids); }
+.card.s-seniors .card-num { color: var(--stream-seniors); }
+.card.s-income .card-num  { color: var(--stream-income); }
+
+@media (prefers-contrast: more) {
+  .card.s-aish, .card.s-kids, .card.s-seniors,
+  .card.s-income, .card.s-general { border-left-width: 6px; }
+}

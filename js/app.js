@@ -655,6 +655,7 @@ function applyStreamDefaults() {
 // They are hardcoded as cards in the Take Action section; add one here with a
 // `released` date when it should also appear in the new-release feed.
 const ACTION_FORMS = [
+  { title: "NEW \u2014 Asking Your Specialist For A Letter Or Your Reports", desc: "Your family doctor fills in the medical report, but a specialist often holds the findings that decide it. This asks them for one of two things, and says plainly that either will do: a short letter about your care \u2014 what they diagnosed, treated, and expect going forward \u2014 or simply copies of the consult reports they already sent your family doctor, requested under the Health Information Act. The second needs nothing new written, which is why it often gets said yes to. Three pages. Page one is the request, with fill-in boxes and a line asking them to tell you any fee before the work is done. Page two is for the clinician: what the decision turns on, that AISH requires a disability that permanently prevents employment while ADAP is for one that substantially impedes it, and the seven things that help most \u2014 onset dates, how long and how often they have treated you, what the symptoms prevent rather than what they are, variability given as a range rather than an average, what has been tried and exhausted, prognosis, and whether accommodation would make sustained work possible. It opens by asking them to write only what their own records support, because an overstated report can cost you a case you truly have. Page three is for you: send it to the clinic rather than the doctor, because front desk staff handle record requests, and keep a copy with the date you sent it.", file: "/pdfs/aish-adap/fillable/ADSB_Specialist_Letter_Request_Fillable_Oct2026.pdf", released: "2026-10-02" },
   { stream: "Seniors Benefits CPP/CPPD", title: "NEW \u2014 Seniors: Special Needs Assistance Request (Fills On A Phone)", desc: "Asks the government to pay for specific things a senior on a low income needs and cannot afford \u2014 an appliance that broke, health supplies, help with clean-up, moving a washer and dryer, and more. Five pages: guide pages first, then the form pages. A fillable working copy of the official form SNA3761 (July 2026), with everything it asks, in the same order, that opens and fills on any phone, tablet or computer. Not an official Government of Alberta form \u2014 the official version is at alberta.ca/seniors-financial-assistance or through Alberta Supports at 1-877-644-9992. If you are turned down, or paid less than you asked for, use the appeal packet.", file: "/pdfs/seniors/fillable/ADSB_Seniors_SNA_Request_Fillable_Oct2026.pdf", released: "2026-10-02" },
   { stream: "Seniors Benefits CPP/CPPD", title: "NEW \u2014 Seniors: SHARP Home Repair Loan And Grant Application", desc: "The Seniors Home Adaptation and Repair Program lends against the value of your home, at low interest, so you can pay for repairs and adaptations and stay where you are \u2014 a ramp, a bathroom you can use, a furnace that failed. Ten pages: the guide first, then the application and agreement. A fillable working copy of the official SHARP11230 (July 2026) that opens on a phone. Not an official Government of Alberta form; the official version is at alberta.ca/seniors-home-adaptation-repair-program or through Alberta Supports at 1-877-644-9992.", file: "/pdfs/seniors/fillable/ADSB_Seniors_SHARP_Loan_and_Grant_Application_Fillable_Oct2026.pdf", released: "2026-10-02" },
   { stream: "Seniors Benefits CPP/CPPD", title: "NEW \u2014 Seniors: Property Tax Deferral Application", desc: "Instead of paying your property taxes each year, the government pays them to your town or city for you, as a low-interest loan against your home, repaid when the home is sold. Seven pages: the guide first, then the loan application and agreement. A fillable working copy of the official SPTDP0010 (July 2026) that opens on a phone. Not an official Government of Alberta form; the official version is at alberta.ca/seniors-property-tax-deferral-program or through Alberta Supports at 1-877-644-9992.", file: "/pdfs/seniors/fillable/ADSB_Seniors_Property_Tax_Deferral_Application_Fillable_Oct2026.pdf", released: "2026-10-02" },
@@ -1142,7 +1143,7 @@ function renderReports() {
   const shownReports = REPORTS.filter(streamMatches);
   if (!shownReports.length) { grid.innerHTML = streamEmpty("reports"); return; }
   grid.innerHTML = shownReports.map(r => `
-    <article class="card">
+    <article class="card ${streamClass(r)}">
       <p class="card-num">Report ${r.num}</p>
       <h3 class="card-title">${r.title}</h3>
       <p class="card-desc">${r.desc}</p>
@@ -1334,7 +1335,7 @@ function renderReference(filter = "all") {
   const items = filter === "all" ? REFERENCE_LIBRARY : REFERENCE_LIBRARY.filter(d => d.cat === filter);
   const shown = items.filter(streamMatches);
   grid.innerHTML = shown.map(d => `
-    <article class="card" data-cat="${d.cat}">
+    <article class="card ${streamClass(d)}" data-cat="${d.cat}">
       <p class="card-num">${categoryLabel(d.cat)}</p>
       <h3 class="card-title">${d.title}</h3>
       <p class="card-desc">${d.desc}</p>
@@ -1360,7 +1361,7 @@ function renderDocs(filter = "all") {
     return;
   }
   grid.innerHTML = docs.map(d => `
-    <article class="card" data-cat="${d.cat}">
+    <article class="card ${streamClass(d)}" data-cat="${d.cat}">
       <p class="card-num">${categoryLabel(d.cat)}</p>
       <h3 class="card-title">${d.title}</h3>
       <p class="card-desc">${d.desc}</p>
@@ -1428,7 +1429,7 @@ function renderMinisterial() {
   const shownMin = MINISTERIAL.filter(streamMatches);
   if (!shownMin.length) { grid.innerHTML = streamEmpty("correspondence"); return; }
   grid.innerHTML = shownMin.map(m => `
-    <article class="card">
+    <article class="card ${streamClass(m)}">
       <p class="card-num">${m.type} · ${m.date}</p>
       <h3 class="card-title">${m.title}</h3>
       <p class="card-desc">${m.desc}</p>
@@ -1717,6 +1718,22 @@ let activeStream = "All";
 function streamMatches(item) {
   if (activeStream === "All") return true;
   return streamsOf(item).indexOf(activeStream) !== -1;
+}
+
+/* Each stream has its own colour down the left edge of a card, so a
+   reader can tell at a glance which side of the site a document is for.
+   A straddler takes the colour of its first stream. */
+const STREAM_CLASS = {
+  "AISH / ADAP / CPP-D": "s-aish",
+  "Children / FSCD": "s-kids",
+  "PDD": "s-kids",
+  "Seniors Benefits CPP/CPPD": "s-seniors",
+  "Income Support": "s-income",
+  "General Topics": "s-general"
+};
+
+function streamClass(item) {
+  return STREAM_CLASS[streamsOf(item)[0]] || "s-aish";
 }
 
 function streamEmpty(what) {
