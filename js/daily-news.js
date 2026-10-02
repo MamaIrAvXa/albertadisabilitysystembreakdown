@@ -9,6 +9,149 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-10-01",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 1, 2026",
+  body: `Today was quieter on AISH and ADAP, but a few things took effect that touch everyone's wallet.
+
+## THE ENERGY REBATE: OCTOBER 31
+As I posted last night, the deadline is now **Saturday, October 31**. If you came onto AISH, ADAP, Income Support or the Seniors Benefit **after July 1** and haven't applied, you still have time. If you were on one of those programs before July 1, it comes automatically. Apply through alberta.ca only.
+
+## FUEL TAX RELIEF STARTED TODAY
+The provincial fuel tax is off at the pump from today until the end of the year. That's **13 cents a litre**. It isn't a payment, it just makes gas cheaper.
+
+## DRUG COVERAGE CHANGES STARTED TODAY
+From today, if you have private or employer drug insurance, **it pays before any government drug plan**. People on medication for a stable, ongoing condition can now get up to a **three-month supply** at once. And people who keep working after 65 are protected from having their employer drug and health benefits ended.
+
+The government's announcement doesn't mention AISH or ADAP health benefits. If all you have is your AISH or ADAP health card, this one isn't about you.
+
+## THE CANADA DISABILITY BENEFIT, RE-CHECKED
+The most the federal Canada Disability Benefit pays is **$204.20 a month**, for July 2026 to June 2027. You can earn up to **$10,210** from work if you're single, or **$14,294** as a couple, before it starts to go down.
+
+Alberta still takes the monthly benefit back from AISH and ADAP **dollar for dollar**. The $150 payment from September is **not** counted as income on AISH or ADAP.
+
+## RE-CHECKED TONIGHT, STRAIGHT FROM THE SOURCE
+**Base rates:** $1,940 a month on AISH and $1,740 on ADAP. That's in the regulation.
+
+**Couples:** when both partners get AISH or ADAP, each gets 88% of the living allowance. Only the living allowance is reduced, not the $200 transition benefit.
+
+**Child benefits:** $300 for the first child, then $117, $88, $59 and $30 for each one after.
+
+**The $200 transition benefit** and its December 31, 2027 end date are in the government's manual, not the regulation.
+
+**There's no deadline** to ask to go back to AISH. The manual says the cost of one medical report is covered and it's "not time limited."
+
+**Your rates** get their first yearly adjustment on January 1, 2027.
+
+## DATES TO KEEP
+**Saturday, October 31:** energy rebate deadline, if you came on after July 1.
+
+**Thursday, December 31:** fuel tax relief ends.
+
+**January 1, 2027:** first yearly rate adjustment.
+
+If you're raising a child with a disability, tonight's **Where Things Stand for Kids and Families** covers the drug change and new school funding. If you're 65 or older, there's now a **Where Things Stand for Seniors** too. Both are in the Daily News filter.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-01",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 1, 2026",
+  body: `No laws or FSCD rates changed today. Two government changes took effect that touch families, and there's something to know about the government's new classroom money.
+
+## DRUG COVERAGE CHANGED TODAY
+From today, private or employer drug insurance pays **before** government drug plans, and medication for stable, ongoing conditions can be filled up to **three months** at a time.
+
+The Alberta Child Health Benefit page also says families with another plan must use that plan first. I can't yet tell whether that sentence is new or has been there all along, so please don't read this as a cut to children's coverage. I'll be watching that page from now on.
+
+## THE ENERGY REBATE: EXTRA $100 FOR AN ADULT CHILD AT HOME
+The deadline is now **Saturday, October 31**. Each eligible adult gets $100, and a household gets an **extra $100 for a family member aged 18 or over**, including a young adult with a disability living at home. Anyone on AISH, ADAP or Income Support is enrolled automatically. Everyone else has to apply through alberta.ca.
+
+## THE NEW CLASSROOM MONEY, AND WHAT ISN'T IN IT
+The government's page on classroom complexity sets out **$218 million** for 699 classroom complexity teams, **$200 million** for 1,400 new teachers in kindergarten to Grade 9, and **$25 million** for educator training. There's also a Cabinet Committee on class size and complexity, chaired by the Premier.
+
+Here's what that page doesn't say. The words **"disability," "Program Unit Funding," "Grade 1," "inclusive education"** and **"early intervention"** don't appear on it once.
+
+Last night I shared that the government's own advisory team recommended extending Program Unit Funding into Grade 1, so preschool children with severe disabilities don't lose their funding when they start school. The page describing what the government is doing doesn't mention it.
+
+## A SECOND SPECIAL EDUCATION RULEBOOK
+Last night I shared that the special education standards for Grades 1 to 12 still point to 2004. There's a **second set, from 2006**, for the early childhood years: preschool and kindergarten, the years Program Unit Funding covers.
+
+Unlike the Grades 1 to 12 rules, this one **does** cover charter schools that take early childhood special education funding. And like the other one, it still cites the School Act, which has since been replaced.
+
+## FSCD RATES, RE-CHECKED TODAY STRAIGHT FROM THE REGULATION
+**Respite:** up to 240 hours a year.
+
+**Clothing and footwear:** up to $400 a year.
+
+**Travel:** 12 cents a kilometre, parking up to $10 a day, a hotel up to $85 a day.
+
+**Dental**, if you have no other plan: $250 a year.
+
+**Medical costs:** FSCD shares costs above 2% of your combined net income.
+
+## DATES TO KEEP
+**October 31, 2026:** energy rebate deadline.
+
+**Early 2027:** next government release of classroom data.
+
+**January 4, 2027:** school board and Early Childhood Services emergency frameworks due.
+
+**April 5, 2027:** every school's emergency plan due.
+
+**May 31, 2027:** the In-person Learning Regulation expires.
+
+**July 2027:** federal child benefit amounts reset.
+
+**June 30, 2029:** the FSCD regulation expires.
+
+**September 30, 2029:** the regulation that decides who qualifies for PDD expires.
+
+If you're on AISH or ADAP yourself, tonight's main update has the re-checked rates and the drug coverage change.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-01",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 1, 2026",
+  body: `This is a new nightly update, alongside the ones for AISH and ADAP and for kids and families. It covers seniors' benefits: the Alberta Seniors Benefit, Special Needs Assistance, home repair and property tax help, Old Age Security and the Guaranteed Income Supplement, and the rules around care and deciding for an older adult.
+
+Tonight's check was a short one, so this update sticks to what the government announced or posted today.
+
+## TODAY IS THE INTERNATIONAL DAY OF OLDER PERSONS
+The Minister of Assisted Living and Social Services put out a statement. No new program, rate or date was announced.
+
+## DRUG COVERAGE CHANGED TODAY
+This one matters if you have **Coverage for Seniors** and a private or employer plan. From today, the private or employer plan pays first, and the government plan covers what's left.
+
+If you take medication for a stable, ongoing condition, you can now get up to a **three-month supply** at once. And if you're still working after 65, your employer can't end your drug and health benefits just because of your age.
+
+## OLD AGE SECURITY: NEW AMOUNTS FOR OCTOBER TO DECEMBER
+The government of Canada has posted the Old Age Security amounts for October to December 2026. You can see them on canada.ca by searching "Old Age Security payment amounts."
+
+I'll share the numbers here once I've checked them properly, including the Guaranteed Income Supplement.
+
+## THE ENERGY REBATE: OCTOBER 31
+If you get the Alberta Seniors Benefit, the province's rebate page says you don't need to apply. If you came onto the Seniors Benefit **after July 1**, or don't get it, the deadline to apply is now **Saturday, October 31**. Apply through alberta.ca only.
+
+## FUEL TAX RELIEF STARTED TODAY
+The provincial fuel tax is off from today until the end of the year. That's **13 cents a litre** at the pump.
+
+## DATES TO KEEP
+**Saturday, October 31:** energy rebate deadline.
+
+**Thursday, December 31:** fuel tax relief ends.
+
+If you're on AISH or ADAP, or helping a family member who is, tonight's main update has the re-checked rates.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-09-30",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 September 30, 2026",

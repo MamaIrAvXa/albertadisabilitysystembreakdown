@@ -16,6 +16,41 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "An idea worth copying: a package for your doctor",
+        date: "2026-10-02",
+        doc: "/pdfs/aish-adap/fillable/september-2026-updates/DS2444B_fillable_with_guide_BOUND.pdf",
+        body: `This one comes from Linda, and she's given me permission to share it with her name on it.
+
+When Linda's family was getting ready to go back to the doctor for an AISH medical report, they didn't just book the appointment and hope. They put together a **package for the doctor to read first**.
+
+## WHAT WENT IN IT
+**Our guide for doctors on the medical report**, which explains how the report is used and what makes a strong one. It's in the Documents section as *DS2444B \u2014 Medical Report Guide*, and it's also bound into the front of the fillable copy linked at the bottom of this note.
+
+**A plain explanation of the move from AISH to ADAP**, and how it's affecting people.
+
+**Her family member's original AISH application from years ago**, so the doctor could see the whole history, not just today.
+
+**A short note** inviting the doctor to look at The Alberta Disability System Breakdown page and website.
+
+**A practice copy of the medical report, filled in by the family.** They wrote out each diagnosis, how each one affects her day to day, and the rating they'd give each activity on the scoring column. Because the form doesn't have enough room, they added a handwritten sheet with more detail.
+
+You can do the same with our fillable copy of the medical report \u2014 it has the doctors' guide bound in at the front, so you can fill it in yourself before the appointment and bring the whole thing with you. It's linked at the bottom of this note, and it's in Take Action.
+
+## ABOUT THE PRACTICE COPY
+The doctor can use it as a starting point, change anything he sees differently, and transfer it onto the real report he sends in. **It's still his report and his judgment.** What the practice copy does is put the real, everyday examples in front of him, so nothing gets missed in a short appointment.
+
+They're also asking the doctor to put any new health issues on record, and to write a note on his own letterhead that they'll email to ADAP, so there's proof with a date on it.
+
+## WHY THIS MATTERS
+A lot of doctors don't know how the transition works, or how much the wording on that medical report decides. A package puts the whole picture in their hands **before** they fill out the form. It also makes their job easier, which makes it more likely to get done well.
+
+The fuller clinician package \u2014 the one-page briefing on what changed in July, plus the question-by-question completion guide \u2014 is in the Documents section too, as *DS2444B \u2014 The Clinician Package*.
+
+If a link doesn't open for you, reach out to us and we'll send the files directly. The campaign line is **587-590-3590**.
+
+Thank you, Linda, for figuring this out and for passing it on. This is exactly how we look after each other.`
+      },
+      {
         title: "Long-term disability and AISH/ADAP: who paid the premiums changes everything",
         date: "2026-09-25",
         body: `If you get long-term disability (LTD) payments and you're on AISH or ADAP, this one could matter a lot. It updates the August note on the same rule, with the current figures and one warning that wasn't in it.
