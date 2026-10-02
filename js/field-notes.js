@@ -16,6 +16,30 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Seniors: was your Blue Cross refused at the pharmacy this week?",
+        date: "2026-10-02",
+        stream: "Seniors Benefits CPP/CPPD",
+        body: `On **October 1**, a new rule started (Bill 11). If you have a private or employer drug plan, that plan now has to be billed **first**, and the government's seniors coverage pays last.
+
+If you only have the government's seniors coverage, nothing was supposed to change for you.
+
+But I've had a report of a senior with **no other plan** whose coverage was refused at the pharmacy this week. Blue Cross told her she needed to "register" and sent her to a registry office, which sorted it out. Her pharmacy said **three other people had the same problem that day**.
+
+## IF THIS HAPPENS TO YOU OR SOMEONE YOU HELP
+**Ask the pharmacist what the system says is wrong**, and write it down.
+
+**Call Alberta Blue Cross** and ask what you need to do. If they send you to a registry, ask the registry what they are registering you for.
+
+**If you can't wait for your medication, tell the pharmacist.** Ask what they can do in the meantime.
+
+**Then tell us:** your town, what you were told, and how it got fixed.
+
+I don't yet know why this is happening. I'll post as soon as I do.
+
+## IF YOU ARE GOING WITHOUT MEDICATION TONIGHT
+Being turned away at a counter you have used for years is frightening, and it is not your mistake. The campaign line is **587-590-3590**. If tonight is heavy, **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
         title: "An idea worth copying: a package for your doctor",
         date: "2026-10-02",
         doc: "/pdfs/aish-adap/fillable/september-2026-updates/DS2444B_fillable_with_guide_BOUND.pdf",
