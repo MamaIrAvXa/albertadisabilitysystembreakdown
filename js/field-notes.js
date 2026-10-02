@@ -16,6 +16,55 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "New form: asking your specialist for a letter or your reports",
+        date: "2026-10-02",
+        doc: "/pdfs/aish-adap/fillable/ADSB_Specialist_Letter_Request_Fillable_Oct2026.pdf",
+        body: `Today's conversations made something clear. A lot of us are hitting the same wall: specialists who won't write letters, doctors who act like a records request is a strange favour, and fees nobody can afford.
+
+So we made a form for it. It's free, it fills in on a phone, and you can print it. The link is at the bottom of this note, and it's in Take Action.
+
+## WHAT'S IN IT
+**Your request.** It asks your specialist for one of two things: a short letter about your care with them, or copies of the reports they already sent your family doctor.
+
+**A page for the specialist.** It explains in plain terms what an AISH or ADAP application looks at, so if they do write a letter, it covers what counts. It also tells them to write only what their own records support.
+
+**A page for you to keep**, explaining your rights, the timelines and the fees.
+
+**A record sheet:** the date you sent it, what you were told, and your deadlines.
+
+## WHY TWO OPTIONS
+Because a specialist is allowed to say no to writing something new. But copies of records that already exist are different. Under Alberta's **Health Information Act** you have a right to your own records.
+
+## HERE'S WHAT TO KNOW
+The form says "This is a formal access request under the Health Information Act." **Leave that sentence on it.** Some clinics offer a quicker "informal" request, but the right to have the Information and Privacy Commissioner review a refusal is attached to the formal one.
+
+The clinic has **30 days** to answer. It can take up to 30 more, but only for set reasons, and it has to tell you why.
+
+There can be a basic fee of **$25**, plus about 25 cents a page. If you can't afford it, ask in writing to be let off the fee. They're allowed to say yes.
+
+If they send a fee estimate, you have **20 days** to accept it or ask for fewer records.
+
+If they refuse, it has to be **in writing with the reason**. You can ask the Commissioner's office to review it, and that's free. You have **60 days** from their decision.
+
+**If they never answer you at all**, you can still ask for a review, and the 60-day limit doesn't apply. Being ignored doesn't cost you your rights.
+
+The Commissioner's office: **780-422-6860**, or toll free **1-888-878-4044**.
+
+## ONE MORE THING MOST PEOPLE DON'T KNOW
+A specialist who sees you on a referral is expected to write back to the doctor who referred you. So that report **usually already exists**. You're not asking anyone to write a new word.
+
+## A FEW TIPS
+Send it to the clinic, not just the doctor. Front desk staff often handle these.
+
+Keep a copy and write down the date you sent it.
+
+Give the copies to your family doctor to attach to your medical report.
+
+This is a community-made form, not a government form. It's general information, not legal or medical advice.
+
+If the link won't open for you, reach out to us and we'll send the file directly. The campaign line is **587-590-3590**. And if a specialist turns you down, tell us what they said. We're keeping track.`
+      },
+      {
         title: "Seniors: was your Blue Cross refused at the pharmacy this week?",
         date: "2026-10-02",
         stream: "Seniors Benefits CPP/CPPD",
