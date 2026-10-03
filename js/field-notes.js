@@ -2479,6 +2479,47 @@ If you work and you are on AISH, save this. And if you know someone who works wh
     blurb: "Scams, rumours, and official-looking posts, checked against the real source so the fear has somewhere to land.",
     items: [
       {
+        title: "Heads up: the \"groceries benefit\" is your GST credit. It's one payment, not two.",
+        date: "2026-10-02",
+        body: `There's a federal graphic going around about the new Canada Groceries and Essentials Benefit, and I don't want anyone counting on money that isn't coming.
+
+Here's the plain version.
+
+**The Canada Groceries and Essentials Benefit IS the GST credit.** The government renamed it in July. You will not get a GST payment **and** a groceries payment. It's the same payment with a new name.
+
+If you look in your CRA account, it says so right on the line: "Canada Groceries and Essentials Benefit (formerly the GST/HST credit)."
+
+The next payment is **Monday, October 5**. After that: **January 5** and **April 5**.
+
+## TWO REASONS IT MIGHT NOT COME
+**You haven't filed your 2025 taxes.** This payment is based on your tax return. No return, no payment. If that's you, file as soon as you can, even if you had no income. Once your return is processed, the CRA says missed amounts come with the next scheduled payment.
+
+**You owe the CRA money.** The CRA's own page says that if you have an amount owing on any account they run, they may use all or part of this payment to pay it down. So if you owe on taxes, or have to pay back another benefit, Monday's payment may be smaller or may not arrive at all. **They don't need your permission.**
+
+If you think that's you, sign in to your CRA account before Monday and look. If the payment has been taken and you can't manage without it, call the CRA, tell them it's causing hardship, and ask what they can do. I can't promise what they'll say, but ask.
+
+## WHAT CHANGED BESIDES THE NAME
+The amount went **up by 25%** starting in July. The government says that increase stays until 2031.
+
+There was a **one-time top-up in June 2026**. That one is done. It doesn't repeat.
+
+In dollars, using the government's own example for a single person at the full amount: **$543 a year** before, plus **$136** for the increase. That's about **$679 a year**, or roughly **$170 every three months**. Your amount depends on your income and family size, so yours may be different.
+
+## ALSO GOOD TO KNOW
+**You don't apply.** If you filed your taxes, you're considered automatically.
+
+**If your amount each time would be under $50**, you got it all at once in July.
+
+**If it doesn't show up Monday** and neither reason above fits, check your CRA account. The government asks you to wait 10 business days before calling.
+
+So when you budget for October: **one** federal payment on the 5th, under the new name. Not two. And if you haven't filed or you owe, check before you count on it.
+
+The government's own page is on canada.ca, under "Canada Groceries and Essentials Benefit."
+
+## IF YOU WERE COUNTING ON IT
+Finding out that money isn't coming, after you'd already spent it in your head, is a horrible feeling and it isn't your mistake \u2014 the graphic is genuinely confusing. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
         title: "Myth: \"Only the four categories can get AISH\"",
         date: "2026-09-29",
         body: `This is going around in a lot of AISH and ADAP groups right now, and some people are hearing it from workers themselves. It isn't true, and believing it is making people give up on something they may qualify for.
