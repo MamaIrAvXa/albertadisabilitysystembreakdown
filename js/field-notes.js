@@ -2879,6 +2879,27 @@ This is how this room is supposed to work. We check, and when we get something w
     blurb: "The nightly notes \u2014 for the times the numbers can wait until morning.",
     items: [
       {
+        title: "We have a new YouTube channel",
+        date: "2026-10-03",
+        body: `The Alberta Disability System Breakdown now has its own dedicated YouTube channel. It's linked from the footer of this site and from the Join the campaign section, or search YouTube for **@albertadisabilitybreakdown**.
+
+## WHY IT MATTERS
+**You don't need a Facebook account to watch.** Anyone with the link can see it, so it's easy to share with family, a support worker, or someone who isn't in the group.
+
+**Videos stay put.** You can watch whenever you're up to it, pause, go back, and turn on captions.
+
+**It's one more place our information lives outside of Facebook**, alongside this website.
+
+## IF YOU'D LIKE TO HELP
+Two small things make a big difference for a new channel.
+
+**Subscribe.** It's free, and it tells YouTube real people want this.
+
+**Share the link** with one person who needs it.
+
+More is coming. If there's a topic you'd like explained in a video, tell us.`
+      },
+      {
         title: "What's next: growing to cover every age",
         date: "2026-09-25",
         body: `I have some news to share.
