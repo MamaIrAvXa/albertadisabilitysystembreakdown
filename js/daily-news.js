@@ -9,6 +9,204 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-10-02",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 2, 2026",
+  body: `No law, rate or deadline changed today. But a lot came up this week that's worth passing on, so here's what I checked and what I found.
+
+## THE ENERGY REBATE: STILL OCTOBER 31
+I re-checked the government's page tonight, as promised. The application window still closes **Saturday, October 31**. If you were on AISH, ADAP, Income Support or the Seniors Benefit before July 1, you should get it automatically. If you came on after July 1 and haven't applied, you still have time.
+
+## MONDAY'S FEDERAL PAYMENT IS YOUR GST CREDIT UNDER A NEW NAME
+The Canada Groceries and Essentials Benefit **is** the GST credit, renamed in July. It's one payment, not two. The next one is **Monday, October 5**.
+
+Two reasons it might not come: you haven't filed your 2025 taxes, or you owe the CRA money and they've applied it to that. The full details are in today's field note.
+
+## IF YOUR CANADA DISABILITY BENEFIT WENT UP, TELL YOUR WORKER
+The federal and provincial governments don't share this information with each other. If your benefit went from $200 to **$204.20** in July, it's on you to report it.
+
+Send your worker a short email with the new amount and the date it started, and keep a copy. If you ever get a letter calling it an "overpayment," don't pay it right away. Send us a picture first.
+
+## MOVING TO ALBERTA? THERE'S NO WAITING PERIOD FOR AISH OR ADAP
+This came up today, so I had it checked against the regulation. The rule is that you have to be **living in Alberta**. It doesn't set a number of months. The "three months" people remember is for the Alberta health care card, not for benefits.
+
+You can't apply from another province, though, so the order is: move, get an Alberta address, get the medical report done, then apply.
+
+## NEW FORM: ASKING YOUR SPECIALIST FOR A LETTER OR YOUR REPORTS
+Several of you said specialists won't write letters anymore. There's now a free form for that, in Take Action. It asks for a letter, **or** for copies of the reports the specialist already sent your family doctor.
+
+A specialist can say no to writing something new. Copies of your own records are a different matter, and the form explains your rights.
+
+## THE CONFIRMED EMAIL ADDRESSES FOR AISH AND ADAP OFFICES
+I promised this last night. These are from the government's contact page as it read on October 1:
+
+**North zone, including all Edmonton offices:** northzoneaish@gov.ab.ca
+
+**Calgary area, including Airdrie, Canmore and Claresholm:** calgaryaish@gov.ab.ca
+
+**Central zone:** aish.centralregion@gov.ab.ca
+
+**South zone:** southaish@gov.ab.ca
+
+**After-hours emergencies:** alss.iscc@gov.ab.ca, or call 1-866-644-5135 any time
+
+Some of my older forms show different addresses. I'm double-checking those. If you sent something to an old address and heard nothing, send it again to the one above.
+
+## IF YOU VOTED BY MAIL IN THE REFERENDUM
+The "Where to Vote" card that came in the mail goes to **every** voter. Getting one doesn't mean your ballot wasn't received.
+
+To check, use the tracking link in the confirmation Elections Alberta sent when you applied. Mail-in ballots have to arrive by **5pm on Friday, October 16**, and Canada Post recommends mailing by **October 9**.
+
+## RE-CHECKED TONIGHT, STRAIGHT FROM THE REGULATION
+**Base rates:** $1,940 a month on AISH and $1,740 on ADAP.
+
+**Couples:** when both partners get AISH or ADAP, each gets 88% of the living allowance.
+
+**The $150 federal payment** isn't counted as income.
+
+**There's no deadline** to ask to go back to AISH.
+
+**The first yearly rate adjustment** is January 1, 2027.
+
+## DATES TO KEEP
+**Monday, October 5:** Canada Groceries and Essentials Benefit payment.
+
+**Friday, October 9:** mail your referendum ballot by today.
+
+**Friday, October 16, 5pm:** mail-in ballots must have arrived.
+
+**Monday, October 19:** referendum day.
+
+**Tuesday, October 27:** November payment date, and the Legislature sits again.
+
+**Saturday, October 31:** energy rebate deadline, if you came on after July 1.
+
+**January 1, 2027:** first yearly rate adjustment.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**. Both are in the Daily News filter.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-02",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 2, 2026",
+  body: `No laws or FSCD rates changed today. I do have an update on something I told you last night, and a date that matters if your child is on the Alberta Child Health Benefit.
+
+## AN UPDATE ON PROGRAM UNIT FUNDING AND GRADE 1
+Last night I told you the government's classroom complexity page doesn't mention Program Unit Funding or Grade 1. That's still true of that page.
+
+But tonight I read the government's own news release from **November 21, 2025**, and it does name it. Under "Key recommendations include," it lists: "Expanding Program Unit Funding and streamlining access to services for children before they enter Grade 1."
+
+So the government has repeated the recommendation **in its own words**. What it hasn't done is fund it. In that same release, the money goes to $300 million for 1,500 educational assistants over three years, on top of funding for teachers. Ten months later, there's no money and no rule for Program Unit Funding or for Grade 1.
+
+## THE TEAM THAT MADE THE RECOMMENDATION WAS TOLD NOT TO LOOK AT THE MONEY
+I found the advisory team's written instructions. Two things stand out.
+
+The team's report was **"advice only."** The government doesn't have to act on it.
+
+The **"total funding envelope" was listed as outside** what the team could look at. So a team asked to fix crowded, complex classrooms wasn't allowed to ask whether there's enough money in the system.
+
+## THE CHILD HEALTH BENEFIT YEAR STARTED OVER ON OCTOBER 1
+The Alberta Child Health Benefit now runs from **October 1, 2026 to September 30, 2027**, and it's based on your 2025 income. The income limits haven't changed. Two rules to know, from the government's page:
+
+A family **can't** get it if they're already getting health benefits from another government program. The page names AISH and Income Support.
+
+It covers children **up to 18**. It covers 18 and 19 year olds only if they live at home and are attending high school.
+
+So a young person who finishes school and moves onto AISH comes off the child plan. I'm still reading what replaces it, and I'll share that when I have it.
+
+## IF YOU'RE THINKING ABOUT A HUMAN RIGHTS COMPLAINT ABOUT SCHOOL
+I looked at what the Alberta Human Rights Commission shows on its own website. Its list of featured decisions has **no category for education**, and I found no case there of a school failing to accommodate a student with a disability.
+
+That doesn't mean no parent has ever won one. The full decisions sit on another website I couldn't search. It does mean a parent looking for an example won't find one easily, and that's worth knowing before you start.
+
+## FSCD RATES, RE-CHECKED TONIGHT STRAIGHT FROM THE REGULATION
+**Respite:** up to 240 hours a year.
+
+**Clothing and footwear:** up to $400 a year.
+
+**Travel:** 12 cents a kilometre, parking up to $10 a day, a hotel up to $85 a day.
+
+**Dental**, if you have no other plan: $250 a year.
+
+**Medical costs:** FSCD shares costs above 2% of your combined net income.
+
+## DATES TO KEEP
+**Monday, October 5:** Canada Groceries and Essentials Benefit payment (the renamed GST credit).
+
+**Saturday, October 31:** energy rebate deadline, including the extra $100 for an adult child living at home.
+
+**September 30, 2027:** end of the current Child Health Benefit year.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-02",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 2, 2026",
+  body: `First, a plain note: my full check of the seniors' benefit rules couldn't run tonight because of a problem on my end. So I'm not repeating any benefit amounts tonight. What's below is what I could confirm today, and one thing I need your help with.
+
+## WAS YOUR BLUE CROSS REFUSED AT THE PHARMACY THIS WEEK?
+On October 1, a new rule started. If you have a private or employer drug plan, that plan now gets billed **first**, and the government's Coverage for Seniors pays last. If you only have the government coverage, nothing was supposed to change for you.
+
+But I've had a report of a senior with **no other plan** whose coverage was refused at the pharmacy this week. Here's how it got fixed:
+
+Blue Cross told her she needed to "register" and sent her to a registry office.
+
+The registry filled out an Alberta health care form and sent it in.
+
+Her coverage worked again the same day.
+
+Her pharmacy said **three other people had the same problem that day**.
+
+I don't yet know why this is happening. If it happens to you or someone you help, call Alberta Blue Cross, and if they send you to a registry, **ask for the Alberta health care form**. If you can't wait for your medication, tell the pharmacist and ask what they can do in the meantime. Then please tell us: your town, what you were told, and how it got fixed.
+
+## IF YOU'RE STILL WORKING PAST 65
+The same change says an employer **can't** end, reduce or change your drug and health benefits only because of your age. That's from the province's October 1 news release.
+
+## MONDAY'S FEDERAL PAYMENT IS YOUR GST CREDIT UNDER A NEW NAME
+The Canada Groceries and Essentials Benefit **is** the GST credit, renamed in July. It's one payment, not two. The next one is **Monday, October 5**. If you haven't filed your 2025 taxes, it won't come until you do.
+
+## THE ENERGY REBATE: OCTOBER 31
+If you were getting the Alberta Seniors Benefit before July 1, you should get the rebate automatically. If you started after July 1, you need to apply by **Saturday, October 31**.
+
+## OLD AGE SECURITY AND THE GUARANTEED INCOME SUPPLEMENT
+The federal payments page now shows the amounts for October to December. I haven't checked the figures myself yet, so I'm not quoting them. They're on canada.ca under "Old Age Security payment amounts."
+
+## HELP WITH FUNERAL COSTS THAT MOST FAMILIES DON'T KNOW ABOUT
+This came up today. Alberta has a funeral benefit for people who pass away with a low income and not enough to cover the cost. **The person didn't need to be on AISH or Income Support.** Here's what the government's page says:
+
+It can pay up to **$4,601** for burial or cremation and up to **$1,041** for a ceremony, plus cemetery fees.
+
+The person arranging the funeral applies. The funeral home can help with the form.
+
+They look at the income and savings of the person who died, and of a surviving spouse.
+
+If the family has already paid, they may still get money back if they apply **within 6 months**.
+
+A decision usually takes 1 to 3 business days.
+
+The office to call is the **Health and Funeral Benefits Unit: 1-855-638-4443**, weekdays.
+
+## IF YOU VOTED BY MAIL IN THE REFERENDUM
+The "Where to Vote" card goes to **every** voter. It doesn't mean your ballot wasn't received. Mail-in ballots have to arrive by **5pm on Friday, October 16**.
+
+## DATES TO KEEP
+**Monday, October 5:** Canada Groceries and Essentials Benefit payment.
+
+**Friday, October 16, 5pm:** mail-in referendum ballots must have arrived.
+
+**Monday, October 19:** referendum day.
+
+**Saturday, October 31:** energy rebate deadline.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-10-01",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 October 1, 2026",
