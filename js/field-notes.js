@@ -16,6 +16,68 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "The couples cut has been repealed, and back pay is owed",
+        date: "2026-10-05",
+        doc: "/pdfs/aish-adap/fillable/Fillable_Couples_Underpayment_Request_AR244_2026.pdf",
+        body: `This is a big one. Please read it slowly, and share it with any couple you know on AISH or ADAP.
+
+## WHAT HAPPENED
+On **October 1, 2026**, the Alberta government made **Order in Council 342/2026**. It was filed the same day as **Alberta Regulation 244/2026**. It changes the regulation that sets AISH and ADAP payments.
+
+There was no announcement. A member found it, and I've now read the full order.
+
+## WHO THIS IS ABOUT
+Couples where **both** partners are on AISH or ADAP. Since the new rules came in, each partner has been paid **88%** of the living allowance, not the full amount. On the government's rate table that's **$1,708** a month on AISH and **$1,532** a month on ADAP.
+
+## WHAT THE ORDER SAYS
+It does two things.
+
+**It removes the 88% rule.** The order amends section 8 "by repealing subsection (4)." Subsection (4) was the couples cut.
+
+**It says the people who were cut are owed the difference.** This is the new section 20(1.1), word for word:
+
+"If a client was provided a living allowance benefit in a monthly amount determined in accordance with section 8(4) before its repeal, a director is deemed to have determined under subsection (1) that the client was underpaid a benefit in the month that the client was provided a living allowance benefit in that monthly amount, and the outstanding amount that the director must pay to the client under subsection (1) is an amount equal to the difference between that monthly amount and the monthly amount of the living allowance benefit set out in section 8(2) or (3), as applicable."
+
+## IN PLAIN WORDS
+If you were paid the 88% amount, the law now treats you as **underpaid** for every month that happened. The government **"must pay"** you the difference between what you got and the full rate.
+
+The full rate is **$1,940** on AISH and **$1,740** on ADAP. By my own subtraction, the difference is about **$232 a month** for each partner on AISH and about **$208 a month** for each partner on ADAP. The order doesn't print a dollar figure. That's my math, not theirs.
+
+## WHAT THE ORDER DOESN'T SAY
+It doesn't say **when** the money will be paid.
+
+It doesn't say you have to apply. The wording puts the duty on the government. But there's no date.
+
+It doesn't say whether a debt or overpayment can be taken off it first.
+
+It doesn't give a start date for the change.
+
+As of this morning, the government's own policy manual and rate table still showed the 88% amounts. Nobody has been told.
+
+## WHAT TO DO IF THIS IS YOU
+**Keep every payment statement** for each month you were paid the lower amount.
+
+**Put your request in writing.** I've made a form for it: *Request for Payment of Underpaid Living Allowance*. It quotes the regulation, asks for the payment and a month-by-month calculation, and asks for notice before anything is deducted. **Each partner sends their own.** It's in Take Action, and on the card at the top of the site.
+
+**Send it to the office that holds your file**, by email if you can, and keep a copy.
+
+**Don't spend it until it's in your account.**
+
+If you're **single**, or your partner isn't on AISH or ADAP, the 88% rule didn't apply to you and this doesn't change your payment.
+
+## A CORRECTION FROM ME
+From October 1 to October 4, my nightly updates told you the couples rule still read the same in the regulation. That was wrong. It had been repealed on October 1 and I missed it, because I was checking a saved copy of the regulation and not the list of new orders.
+
+I've changed how I check every night so that can't happen again. I'm sorry for the four days.
+
+I don't know why the government did this, and the order doesn't say. I report what it does. I'll post again the moment they say anything about when the money is coming.
+
+If you need help filling in the form, ask us. The campaign line is **587-590-3590**.
+
+## IF THIS ONE LANDED HARD
+Money you were owed and were never told about is a hard thing to read. **988** answers by call or text any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
         title: "New form: asking your specialist for a letter or your reports",
         date: "2026-10-02",
         doc: "/pdfs/aish-adap/fillable/ADSB_Specialist_Letter_Request_Fillable_Oct2026.pdf",
