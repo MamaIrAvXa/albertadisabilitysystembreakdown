@@ -9,6 +9,404 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-10-04",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 4, 2026",
+  body: `Another quiet day. No rate, rule or deadline moved, and nothing the Alberta government put out today touches AISH, ADAP or Income Support. Tonight I have a clearer answer on the energy rebate, and the date for the federal $150.
+
+## THE ENERGY REBATE: WHO HAS TO APPLY
+Last night I told you to check your bank account, because I wasn't sure about people who came onto a program partway through the year. Tonight the government's rebate page answers it in plain words:
+
+**If you were on AISH, ADAP, Income Support or the Alberta Seniors Benefit before July 1**, you were enrolled automatically. You don't apply.
+
+**If you came onto one of those programs after July 1**, you have to apply yourself through the province's portal.
+
+**Everyone else** can apply if they were 18 or older on July 1, 2026, filed a 2025 tax return, and have a household income of $225,000 or less.
+
+The deadline is still **October 31, 2026**. I re-checked it tonight.
+
+## THE $150 FROM THE FEDERAL GOVERNMENT
+The federal government's page says the $150 payment was issued on **September 17, 2026** to anyone who was paid the Canada Disability Benefit between July 2025 and June 2026.
+
+Alberta's regulation doesn't count that $150 as income, so it shouldn't come off your AISH or ADAP. If yours was deducted, tell us. That's one I'd like to hear about.
+
+## FUEL TAX RELIEF
+Still on, at **13 cents a litre** off since October 1. I still haven't seen an end date in a government source.
+
+## RE-CHECKED TONIGHT, STRAIGHT FROM THE REGULATION
+**Base rates:** $1,940 a month on AISH and $1,740 on ADAP.
+
+**Couples:** when both partners get AISH or ADAP, each gets 88% of the living allowance. The $200 transition benefit isn't cut to 88%.
+
+**Child benefit:** $300 a month for the first child, $117 for the second, $88 for the third, $59 for the fourth, and $30 for each child after that.
+
+**There's no deadline** to ask to go back to AISH.
+
+**The first yearly rate adjustment** is January 1, 2027.
+
+## WHAT I COULDN'T CHECK TONIGHT
+The federal government's news page wouldn't load again. That's four nights in a row.
+
+And I still have no current Heritage Fund number from a government source, so I'm not giving you one.
+
+## DATES TO KEEP
+**Monday, October 5:** Canada Groceries and Essentials Benefit payment.
+
+**Friday, October 9:** mail your referendum ballot by today.
+
+**Friday, October 16, 5pm:** mail-in ballots must have arrived.
+
+**Monday, October 19:** referendum day.
+
+**Tuesday, October 27:** November payment date, and the Legislature sits again.
+
+**Saturday, October 31:** energy rebate deadline.
+
+**January 1, 2027:** first yearly rate adjustment.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**. Both are in the Daily News filter.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-04",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 4, 2026",
+  body: `Nothing changed today. No rate, limit or deadline moved. Tonight I have a clear answer on the energy rebate, and three rules that are in the law but hard to find on the program pages.
+
+## THE ENERGY REBATE: IF YOU CAME ONTO THE SENIORS BENEFIT AFTER JULY 1
+Last night I wasn't sure about this, so I told you to check your bank account. Tonight the government's rebate page says it in plain words: new clients enrolled **after July 1** need to apply through the portal.
+
+So if you started getting the Alberta Seniors Benefit after July 1, you weren't signed up for the $100 automatically. Apply through the province's portal by **October 31, 2026**. The province says the rebate isn't taxable and won't affect your other government benefits.
+
+If you were on the Seniors Benefit before July 1, you were enrolled automatically.
+
+## IF YOU APPLIED LATE FOR THE SENIORS BENEFIT
+The regulation lets the Seniors Benefit be paid back up to **11 months** before your application. And if you appeal, the appeal panel can go back **further than 11 months** if it finds that fair and reasonable.
+
+So if you should have been getting it and weren't, ask about back payment.
+
+## THE HOME REPAIR GRANT: THE LIMITS THE PROGRAM PAGE DOESN'T SHOW
+The Seniors Home Adaptation and Repair Program has a grant side for lower-income seniors. The regulation sets these limits:
+
+The most you can get is **$5,000** in a benefit year.
+
+The most you can get in your lifetime is **$15,000**.
+
+The smallest grant is **$500**.
+
+The benefit year runs **July 1 to June 30**.
+
+The income limit for the grant is the same one I gave you last night: $32,690 for a single senior and $53,800 for a couple, since July 1.
+
+## IF THE PUBLIC TRUSTEE MAKES A DECISION ABOUT YOUR MONEY
+Alberta law lets the Public Trustee make a money decision for an adult after a capacity assessment. A capacity assessment is a check on whether a person can make their own decisions.
+
+If that happens to you, **you can ask a court to review it**. So can a relative or a close friend. That's in section 100.5 of the Adult Guardianship and Trusteeship Act.
+
+## OLD AGE SECURITY: RE-CHECKED
+Still the same for October to December 2026. Old Age Security is up to **$762.50** a month at age 65 to 74 and up to **$838.75** at 75 and over. The Guaranteed Income Supplement for a single senior is up to **$1,138.90** a month, if your yearly income is under $23,112.
+
+## DATES TO KEEP
+**Saturday, October 31:** energy rebate deadline.
+
+**January 1, 2027:** the $373 lodge rule starts.
+
+**January 2027:** new Old Age Security and Canada Pension Plan amounts.
+
+**January 1, 2028:** lodges must charge the new minimum rate.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-04",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 4, 2026",
+  body: `No FSCD rate or rule changed today. Tonight is about time-outs at school. I read Alberta's guidelines on them from start to finish, and there's something in there most parents have never been told.
+
+## TIME-OUT AT SCHOOL: THE SCHOOL IS EXPECTED TO ASK YOU FIRST
+The document is called **Guidelines for Time-out in Alberta Schools**. Alberta Education published it in November 2019.
+
+"Exclusion time-out" means your child is taken out of the classroom to a separate space. For a child whose behaviour is ongoing or keeps coming back, the guidelines say the school is expected to get your **informed written consent** before using it, and to write that consent into your child's behaviour support plan.
+
+If you don't agree, the school is expected to work with you on other options and write those into the plan.
+
+## WHAT THE SPACE IS SUPPOSED TO BE
+The guidelines say, word for word: **"Seclusion rooms are not to be used for exclusion time-out."**
+
+The space is also expected to be:
+
+Unlocked, with no lock that catches by itself.
+
+A place where your child can be seen and is supervised the whole time.
+
+Big enough for an adult to stand up and to lie flat on the floor without touching the walls.
+
+Well lit, with fresh air, at a comfortable temperature.
+
+## THE LIMIT, AND YOU NEED TO KNOW IT
+**This is guidance. It isn't law.** Everything in it is written as "it is expected." Nothing in the document says what happens if a school ignores it.
+
+Three more things it doesn't do:
+
+**It sets no maximum length** for a time-out. There's no number of minutes anywhere in it.
+
+**Nothing gets reported to the province.** The records stay in the school's own file.
+
+**It names no place to complain.** It only says the school authority is expected to have a process and to tell parents about it.
+
+## WHAT YOU CAN ASK FOR THIS WEEK
+The guidelines expect the school to write down, for each time-out: what was tried first, what behaviour led to it, how long it lasted, how often it happens, and what staff saw.
+
+So ask in writing for:
+
+The record of every time-out your child has been placed in, with how long and how often.
+
+The part of your child's behaviour support plan where it's written down.
+
+A copy of your signed consent, if they say they have one.
+
+The school authority's process for complaints and appeals.
+
+If the school hasn't been keeping those records, that tells you something too.
+
+If you'd like help writing that email, tell us and I'll write it with you.
+
+## THE BINDING RULES ARE PUBLISHED AS PICTURES
+Time-out isn't the same thing as seclusion or physical restraint. Those have their own standards, and those ones **are** binding.
+
+But the government publishes them only as scans of paper. The order that makes them law is a one-page picture with no text in it. The standards are 21 pages of the same. **A screen reader can't read a file like that aloud, and nobody can search it.**
+
+I'm working on getting them typed out so I can tell you what they say.
+
+## FSCD RATES, RE-CHECKED TONIGHT STRAIGHT FROM THE REGULATION
+**Respite:** up to 240 hours a year.
+
+**Clothing and footwear:** up to $400 a year.
+
+**Travel:** 12 cents a kilometre, parking up to $10 a day, a hotel up to $85 a day.
+
+**Dental**, if you have no other plan: $250 a year.
+
+**Medical costs:** FSCD shares costs above 2% of your combined net income.
+
+## DATES TO KEEP
+**October 31, 2026:** energy rebate deadline.
+
+**January 18 to February 5, 2027:** winter reading and math screening, kindergarten to Grade 3.
+
+**May 10 to 28, 2027:** the third screening test.
+
+**June 30, 2029:** the FSCD regulation and the screening regulation both expire.
+
+**September 30, 2029:** the regulation that decides who qualifies for PDD expires.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-03",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 3, 2026",
+  body: `A quiet night. No rate, rule or deadline moved today, and the government put out nothing on AISH, ADAP or Income Support. Here's what I re-checked.
+
+## THE ENERGY REBATE: STILL OCTOBER 31
+I promised to re-check this date, and I did tonight. The government's rebate page still says to apply by **October 31, 2026**.
+
+The province says people on AISH, ADAP, Income Support and the Alberta Seniors Benefit were enrolled automatically. So check your bank account first. If the $100 hasn't come and you haven't applied, apply before October 31. The date has moved once already, so I'll keep checking it.
+
+## FUEL TAX RELIEF IS ON
+The provincial fuel tax relief started October 1. That's **13 cents a litre** off. The government says it's for the rest of the year. I haven't seen an end date in a government source yet, so I'm not giving you one.
+
+## NOVEMBER PAYMENT DATE
+The government's payment dates page shows **Tuesday, October 27** for the November AISH, ADAP and Income Support payment.
+
+## RE-CHECKED TONIGHT, STRAIGHT FROM THE REGULATION
+**Base rates:** $1,940 a month on AISH and $1,740 on ADAP.
+
+**Couples:** when both partners get AISH or ADAP, each gets 88% of the living allowance. The $200 transition benefit isn't cut to 88%.
+
+**Child benefit**, paid on top if you have dependent children: $300 a month for the first child, $117 for the second, $88 for the third, $59 for the fourth, and $30 for each child after that.
+
+**The $150 federal payment** isn't counted as income.
+
+**There's no deadline** to ask to go back to AISH.
+
+**The first yearly rate adjustment** is January 1, 2027.
+
+## WHAT I COULDN'T CHECK TONIGHT
+The federal government's news page wouldn't load, for the third night in a row. So I can't tell you nothing federal happened today, only that I couldn't read it.
+
+I also still can't find a current Heritage Fund number from a government source, so I'm not putting one in front of you.
+
+## DATES TO KEEP
+**Monday, October 5:** Canada Groceries and Essentials Benefit payment.
+
+**Friday, October 9:** mail your referendum ballot by today.
+
+**Friday, October 16, 5pm:** mail-in ballots must have arrived.
+
+**Monday, October 19:** referendum day.
+
+**Tuesday, October 27:** November payment date, and the Legislature sits again.
+
+**Saturday, October 31:** energy rebate deadline.
+
+**January 1, 2027:** first yearly rate adjustment.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**. Both are in the Daily News filter.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-03",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 3, 2026",
+  body: `No seniors' benefit, rate or deadline changed today. Tonight I have the Old Age Security numbers I promised, and I found where a July cut was written down.
+
+## OLD AGE SECURITY AND THE SUPPLEMENT: OCTOBER TO DECEMBER 2026
+These are the most you can get each month, from the government of Canada's payment page tonight:
+
+**Old Age Security, age 65 to 74:** $762.50
+
+**Old Age Security, age 75 and over:** $838.75
+
+**Guaranteed Income Supplement, single:** up to $1,138.90, if your yearly income is under $23,112
+
+**Guaranteed Income Supplement, if your spouse gets the full Old Age Security:** up to $685.56 each, if your combined yearly income is under $30,528
+
+The supplement gets smaller as your income goes up. Your Old Age Security doesn't count as income for this.
+
+## IF YOU WERE TOLD THIS SUMMER YOUR INCOME IS TOO HIGH
+On **July 1, 2026**, the income limit for Special Needs Assistance dropped. For the main items it went:
+
+**Single senior:** from $34,770 down to **$32,690**
+
+**Couple:** from $56,820 down to **$53,800**
+
+The same limit decides who can get a home repair grant under the Seniors Home Adaptation and Repair Program. So that door got narrower on the same day.
+
+**If you were turned down after July 1 for being "over the limit," the limit moved. You didn't.**
+
+I had not been able to find where this was announced. Tonight I found it. A government budget page dated **May 14, 2026** says a law called Bill 27 applied a "9% income threshold adjustment" to the Seniors Benefit, Special Needs Assistance and the repair grant. It doesn't call it a cut, and it doesn't give the dollar amounts. Those are only in a funding sheet and in the Act.
+
+## IF YOU LIVE IN A SENIORS LODGE
+A rule that starts **January 1, 2027** says a lodge has to leave each resident with at least **$373 a month** after the lodge rate is paid. If you're left with less than that, it's worth asking about.
+
+A second rule is coming by **January 1, 2028**: a minimum rate that lodges must charge. The amount hasn't been made public.
+
+## CONTINUING CARE ROOM CHARGES
+Since August 1, 2026, the most a continuing care home can charge is **$83.05 a day** for a private room and **$71.85 a day** for a shared room.
+
+## THE ENERGY REBATE: STILL OCTOBER 31
+You have until **October 31, 2026** to apply for the $100 rebate. The province says people on the Alberta Seniors Benefit were enrolled automatically, and that the rebate won't affect your other government benefits. Check your bank account first. If it hasn't come and you haven't applied, apply before the deadline.
+
+## IF YOU'RE WORRIED ABOUT SOMEONE IN CARE
+In Alberta, if you have good reason to believe someone in a lodge or continuing care home is being abused, **the law says you have to report it**. That includes someone taking a significant amount of their money. And the home isn't allowed to cut back or change a resident's care because a complaint was made.
+
+## DATES TO KEEP
+**Saturday, October 31:** energy rebate deadline.
+
+**January 1, 2027:** the $373 lodge rule starts.
+
+**January 2027:** new Old Age Security and Canada Pension Plan amounts.
+
+**January 1, 2028:** lodges must charge the new minimum rate.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-03",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 3, 2026",
+  body: `No FSCD rate or rule changed today. Tonight is about school. I read the regulation on reading and math screening from start to finish, and parents need to know how three of its rules fit together.
+
+## READING AND MATH SCREENING: HOW IT WORKS
+The province now tests children from kindergarten to Grade 3 for trouble with reading and math. The test dates are set by a regulation.
+
+**Grades 1 to 3:** tested in the fall (September 14 to October 2, 2026) and again in winter (January 18 to February 5, 2027).
+
+**Kindergarten:** tested once, in winter (January 18 to February 5, 2027).
+
+**If a fall or winter test shows your child is having trouble**, the regulation requires a third test in spring (May 10 to 28, 2027).
+
+## WHAT HAPPENS AFTER THE THIRD TEST
+This is the part to read slowly.
+
+When a test shows your child is having trouble, the school board **must** give extra help.
+
+The regulation then requires that third test in spring.
+
+After the third test, if your child is still having trouble, the Education Act says extra help is **"permitted but not required."**
+
+So the test that confirms a child is still struggling is the same test after which the board no longer has to help. Whatever the reason, that is the effect.
+
+## THE RESULTS CAN'T BE USED TO GET YOUR CHILD IDENTIFIED
+The Act also says, word for word: "A board shall not use the results of a literacy and numeracy screening assessment to make a determination under section 11(3) that a student is in need of specialized supports and services."
+
+In plain words: a school board **can't** use these test results to decide your child needs specialized supports.
+
+## WHERE THE RESULTS GO
+School boards have to report results to the Minister, **including each child's own results**. The Minister can ask boards for more, including personal information, and boards have to hand it over.
+
+## CAN MY CHILD BE EXEMPTED?
+A board **may** exempt a child from screening. But nothing published says when, for how long, or on what conditions. The law gave the Minister the power to write those rules. The regulation that was made doesn't include any.
+
+So ask in writing. Here are five questions for your school or board:
+
+Was my child screened, and on what dates?
+
+Was an exemption considered?
+
+Who decided?
+
+What criteria did they use?
+
+What information about my child was collected to make that decision?
+
+If you'd like help writing that email, tell us and I'll write it with you.
+
+## GRADES 4 AND 5
+A government page published September 24 says screening will be expanded to Grades 4 and 5. I can't find any published rule for those grades yet. So it's announced, and it isn't in any regulation I can find.
+
+## FSCD RATES, RE-CHECKED TONIGHT STRAIGHT FROM THE REGULATION
+**Respite:** up to 240 hours a year.
+
+**Clothing and footwear:** up to $400 a year.
+
+**Travel:** 12 cents a kilometre, parking up to $10 a day, a hotel up to $85 a day.
+
+**Dental**, if you have no other plan: $250 a year.
+
+**Medical costs:** FSCD shares costs above 2% of your combined net income.
+
+## DATES TO KEEP
+**October 31, 2026:** energy rebate deadline.
+
+**January 18 to February 5, 2027:** winter screening, kindergarten to Grade 3.
+
+**May 10 to 28, 2027:** the third screening test.
+
+**June 30, 2029:** the FSCD regulation and the screening regulation both expire.
+
+**September 30, 2029:** the regulation that decides who qualifies for PDD expires.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-10-02",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 October 2, 2026",
@@ -50,7 +448,7 @@ I promised this last night. These are from the government's contact page as it r
 
 **After-hours emergencies:** alss.iscc@gov.ab.ca, or call 1-866-644-5135 any time
 
-Some of my older forms show different addresses. I'm double-checking those. If you sent something to an old address and heard nothing, send it again to the one above.
+Some of my older forms show different addresses. Those are being fixed. If you sent something to an old address and heard nothing, send it again to the one above.
 
 ## IF YOU VOTED BY MAIL IN THE REFERENDUM
 The "Where to Vote" card that came in the mail goes to **every** voter. Getting one doesn't mean your ballot wasn't received.
