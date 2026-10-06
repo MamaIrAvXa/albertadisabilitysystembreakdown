@@ -16,6 +16,103 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "It's official: the couples cut is gone, and it's in the government's own policy manual",
+        date: "2026-10-06",
+        doc: "/pdfs/aish-adap/program-policy-manual-updates/PPMU10-09-2026-2.jpg",
+        body: `**IT'S OFFICIAL.** The couples cut is gone, and it's now in the government's own policy manual.
+
+Today the department sent out **Program Policy Manual Update DIA-Program-2026-007**, dated October 6, 2026, **effective immediately**. In their words:
+
+"The provision which authorized the payment of a reduced living allowance benefit to couples where both cohabiting partners were eligible for AISH or ADAP has been removed. As a result, these couples will now be eligible for the applicable maximum living allowance benefit, minus any non-exempt income received by the client."
+
+And:
+
+"A provision has been added that allows underpayments to be issued to clients affected by the previous living allowance reduction."
+
+## WHAT THAT MEANS IN PLAIN WORDS
+If you and your partner are **both** on AISH or ADAP, you each go back to the full rate. That's **$1,940** for AISH and **$1,740** for ADAP, up from $1,708 and $1,532.
+
+You're owed the difference for every month you were paid the lower amount, starting with the August payment. That's about **$232 a month each** on AISH and about **$208 a month each** on ADAP.
+
+The government's news release says you don't have to do anything, and that the back pay will come "before the end of the year."
+
+"Minus any non-exempt income" means the usual deductions still apply. If you have CPP disability, EI or other income that gets counted, your amounts may come out different from the numbers above.
+
+## ONE THING TO KNOW
+The policy update says the new rule "allows" underpayments to be issued. The regulation itself is stronger. It says the director **"must pay."** The regulation is the law, so "must pay" is the wording to hold them to.
+
+## WHAT WE STILL DON'T KNOW
+The exact date the back pay will arrive.
+
+Whether anything you owe the government can be taken off it first.
+
+## WHAT TO DO
+Keep every payment statement from August on.
+
+When the back pay comes, check it against your own math. If it doesn't add up, ask for the month-by-month calculation in writing.
+
+If you'd like a dated record that you asked, our request form is still in Take Action. You don't need it to get paid. It's there if you want the paper trail.
+
+This doesn't change anything for single people, or for couples where only one partner is on AISH or ADAP.
+
+For everyone who sat with that cut since August: you were right that it was wrong. Now it's in writing.
+
+## IF YOU'RE SHORT WHILE YOU WAIT
+If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. The campaign line is **587-590-3590**.`
+      },
+      {
+        title: "The government has now confirmed the couples back pay",
+        date: "2026-10-06",
+        body: `Yesterday I told you the couples cut had been repealed and that nobody had announced it. This afternoon the government announced it. Here's what they said, and what it means for you.
+
+## WHAT THE GOVERNMENT SAYS
+Full benefits are restored for couples where both partners are on AISH or ADAP.
+
+Back pay will cover the difference "back to the August 2026 period of assistance."
+
+"No action is required."
+
+Clients "will receive their retroactive payment before the end of the year."
+
+## WHAT THAT MEANS
+You don't have to apply, and now they've said so in writing. The back pay should arrive by **December 31, 2026**.
+
+If you already sent the request form, that's fine. It does no harm, and you have a dated record. If you haven't, you don't need to. I'd still keep your payment statements from August on, so you can check the amount when it comes.
+
+## WHAT THEY STILL HAVEN'T SAID
+Whether a debt or overpayment can be taken off the back pay first.
+
+Which month your regular payment goes back to the full rate. The next payment is **October 27**. If yours is still at the lower amount, tell us. The campaign line is **587-590-3590**.
+
+So: **don't spend it until it's in your account.**
+
+## ALSO IN TODAY'S ANNOUNCEMENT
+**A shorter application** for people who were moved from AISH to ADAP and are applying to go back. The program is to use the non-medical information it already has. You still need the medical report.
+
+The government **still covers one medical report** for that, with no time limit. A nurse practitioner can fill it out.
+
+**Every ADAP client will be contacted by an employment supports worker.** If phone calls are hard for you, or your health limits what you can do, get that to your office in writing now, before the call comes. I can help with the wording.
+
+Alberta is asking the federal government to make Employment Insurance easier to get for people whose disability interrupts their work. That's a request. Nothing has changed yet.
+
+## WHAT ISN'T IN IT
+Nothing for single people, nothing on the Canada Disability Benefit deduction, and nothing on how a working partner's wages are counted.
+
+## THE DATES, FOR THE RECORD
+**September 17:** the change was in the government's drafting file.
+
+**October 1:** it was signed, with no announcement.
+
+**October 5:** we posted it.
+
+**October 6:** the government announced it.
+
+Thank you to the member who spotted the order, and to everyone who shared it.
+
+## IF YOU'RE SHORT WHILE YOU WAIT
+"Before the end of the year" is a long time when the rent is due now. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
         title: "New today: a shorter application to go back to AISH",
         date: "2026-10-06",
         doc: "/pdfs/aish-adap/program-policy-manual-updates/PPMU10-06-2026.jpg",
@@ -44,7 +141,15 @@ Don't start over, and don't hold it back. Anything extra you've filled in won't 
 
 If you haven't started, **ask for the shortened application by name and quote the update number**: DIA-Program-2026-006.
 
-There is still **no deadline** to apply to go back to AISH.`
+There is still **no deadline** to apply to go back to AISH.
+
+**Update, October 6, 2026:** The new form is out, and it answers what I didn't know. It is the same application form, **DS2444A, revised October 2026**, not a separate one. On the page called **Your Situation**, near the front, it asks whether you are a current ADAP client who transitioned from AISH to ADAP and want to apply for AISH. Tick **Yes**, and the form tells you to complete Information About You, Employment History and Education/Training History, plus the medical report.
+
+So the sections you can leave blank are: spouse or partner, dependent children, trustee or power of attorney, income, and assets.
+
+The form doesn't say whether you still sign the Declaration and Consents pages at the back. Signing them does no harm.
+
+Because the question is printed on the form, you don't have to know to ask for it. Make sure the copy you're given says **Rev. 2026-10** at the bottom. An older copy won't have the question. The new form is in the Reference Library, under DS2444A (October 2026).`
       },
       {
         title: "When you call AISH or ADAP, who is answering?",
@@ -156,7 +261,9 @@ I don't know why the government did this, and the order doesn't say. I report wh
 If you need help filling in the form, ask us. The campaign line is **587-590-3590**.
 
 ## IF THIS ONE LANDED HARD
-Money you were owed and were never told about is a hard thing to read. **988** answers by call or text any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+Money you were owed and were never told about is a hard thing to read. **988** answers by call or text any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.
+
+**Update, October 6, 2026:** The government announced this today. It says "no action is required" and that the back pay will come "before the end of the year," going back to August 2026. You don't have to send the form. If you already did, it does no harm. The newer note, *The government has now confirmed the couples back pay*, has the details.`
       },
       {
         title: "New form: asking your specialist for a letter or your reports",
