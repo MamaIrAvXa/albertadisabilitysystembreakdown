@@ -1,0 +1,3196 @@
+/* ───────────────────────────────────────────────────────────────
+   Field Notes — the longer main-group posts worth keeping.
+   The "why" behind the headlines: breakdowns, myth-busting,
+   corrections, and the nightly reflections. Distinct from the FAQ
+   (quick answers) and Daily News (dated updates).
+
+   TO EDIT: each category is { cat, blurb, items: [ ... ] }.
+   Each note is { title, date: "YYYY-MM-DD", body: `...`, source: "url" }.
+   In body: a line starting with "## " is a heading; blank lines
+   separate paragraphs; **text** is bold. `source` is the original
+   Facebook post (optional). Notes sort newest-first by date on render.
+   ─────────────────────────────────────────────────────────────── */
+const FIELD_NOTES = [
+  {
+    cat: "Explainers",
+    blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
+    items: [
+      {
+        title: "The government has now confirmed the couples back pay",
+        date: "2026-10-06",
+        body: `Yesterday I told you the couples cut had been repealed and that nobody had announced it. This afternoon the government announced it. Here's what they said, and what it means for you.
+
+## WHAT THE GOVERNMENT SAYS
+Full benefits are restored for couples where both partners are on AISH or ADAP.
+
+Back pay will cover the difference "back to the August 2026 period of assistance."
+
+"No action is required."
+
+Clients "will receive their retroactive payment before the end of the year."
+
+## WHAT THAT MEANS
+You don't have to apply, and now they've said so in writing. The back pay should arrive by **December 31, 2026**.
+
+If you already sent the request form, that's fine. It does no harm, and you have a dated record. If you haven't, you don't need to. I'd still keep your payment statements from August on, so you can check the amount when it comes.
+
+## WHAT THEY STILL HAVEN'T SAID
+Whether a debt or overpayment can be taken off the back pay first.
+
+Which month your regular payment goes back to the full rate. The next payment is **October 27**. If yours is still at the lower amount, tell us. The campaign line is **587-590-3590**.
+
+So: **don't spend it until it's in your account.**
+
+## ALSO IN TODAY'S ANNOUNCEMENT
+**A shorter application** for people who were moved from AISH to ADAP and are applying to go back. The program is to use the non-medical information it already has. You still need the medical report.
+
+The government **still covers one medical report** for that, with no time limit. A nurse practitioner can fill it out.
+
+**Every ADAP client will be contacted by an employment supports worker.** If phone calls are hard for you, or your health limits what you can do, get that to your office in writing now, before the call comes. I can help with the wording.
+
+Alberta is asking the federal government to make Employment Insurance easier to get for people whose disability interrupts their work. That's a request. Nothing has changed yet.
+
+## WHAT ISN'T IN IT
+Nothing for single people, nothing on the Canada Disability Benefit deduction, and nothing on how a working partner's wages are counted.
+
+## THE DATES, FOR THE RECORD
+**September 17:** the change was in the government's drafting file.
+
+**October 1:** it was signed, with no announcement.
+
+**October 5:** we posted it.
+
+**October 6:** the government announced it.
+
+Thank you to the member who spotted the order, and to everyone who shared it.
+
+## IF YOU'RE SHORT WHILE YOU WAIT
+"Before the end of the year" is a long time when the rent is due now. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
+        title: "New today: a shorter application to go back to AISH",
+        date: "2026-10-06",
+        doc: "/pdfs/aish-adap/program-policy-manual-updates/PPMU10-06-2026.jpg",
+        body: `If you were moved from AISH to ADAP and you're applying to go back, this is for you.
+
+## WHAT CHANGED
+The government issued a policy update this afternoon: **DIA-Program-2026-006**, dated October 6, 2026, **effective immediately**. It says that current ADAP clients who "transitioned from AISH to ADAP and are applying for AISH can access a shortened application using non-medical information already on file."
+
+## WHAT THE SHORTER APPLICATION NEEDS
+According to the update:
+
+Three parts of the applicant section: **Information about You**, **Employment History**, and **Education/Training History**.
+
+The **DIA Medical Report** from your doctor or nurse practitioner.
+
+The online and paper applications have both been updated.
+
+## WHAT THAT MEANS
+You shouldn't have to redo everything from scratch. The program already has your non-medical information, and it's supposed to use it. The medical report is still the heart of it.
+
+## WHAT I DON'T KNOW YET
+I've read the update itself. I haven't read the new form or the updated policy page yet, so I can't tell you exactly which sections are gone. I'll post that as soon as I have.
+
+## IF YOU'RE PARTWAY THROUGH AN APPLICATION
+Don't start over, and don't hold it back. Anything extra you've filled in won't hurt you.
+
+If you haven't started, **ask for the shortened application by name and quote the update number**: DIA-Program-2026-006.
+
+There is still **no deadline** to apply to go back to AISH.`
+      },
+      {
+        title: "When you call AISH or ADAP, who is answering?",
+        date: "2026-10-06",
+        body: `I need your help with something.
+
+When I called AISH and ADAP, the person on the line kept calling me **"the client."** Not my name. "The client." It sounded like they were reading off a screen, and what they read didn't answer the question I asked.
+
+I thought it was just me. Then **17 of you** told me the same thing had happened to you.
+
+## WHAT I KNOW
+It has happened to me and to 17 other people who've told me so far.
+
+The answers sound read, not spoken.
+
+The answers often don't match the question.
+
+## WHAT I DON'T KNOW
+What they're reading from. It could be a script. It could be notes on a screen. It could be a software tool that suggests what to say. **I'm not going to guess. I'm going to find out.**
+
+## HOW YOU CAN HELP
+If this has happened to you, or happens on your next call, write down four things:
+
+The date.
+
+The office or phone line you called.
+
+The words that made you notice. For example, being called "the client."
+
+Whether the answer matched your question.
+
+Then send it to us. The campaign line is **587-590-3590**. **Please leave out staff names.** This isn't about any one worker. They're working with what they've been given.
+
+## ONE QUESTION TO ASK ON YOUR NEXT CALL
+**"Are you reading from a script or a tool? What is it called?"**
+
+Write down what they say.
+
+## WHAT I'M DOING
+I'm filing an access to information request with the ministry for three things: the scripts staff use on AISH and ADAP calls, the name of any software or automated tool that suggests answers, and any privacy assessment done for it.
+
+If a tool is handling our personal information, we have a right to know what it is.
+
+## WHY IT MATTERS
+When you call about your income, your rent money or your medication, you deserve an answer to the question you asked, from someone who is listening.
+
+I'll share what I learn, with the source, as always.
+
+## IF A CALL LEFT YOU SHAKEN
+Being talked at about your own money, by someone who isn't hearing you, is exhausting and it is not your fault. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
+        title: "The couples cut has been repealed, and back pay is owed",
+        date: "2026-10-05",
+        doc: "/pdfs/aish-adap/fillable/Fillable_Couples_Underpayment_Request_AR244_2026.pdf",
+        body: `This is a big one. Please read it slowly, and share it with any couple you know on AISH or ADAP.
+
+## WHAT HAPPENED
+On **October 1, 2026**, the Alberta government made **Order in Council 342/2026**. It was filed the same day as **Alberta Regulation 244/2026**. It changes the regulation that sets AISH and ADAP payments.
+
+There was no announcement. A member found it, and I've now read the full order.
+
+## WHO THIS IS ABOUT
+Couples where **both** partners are on AISH or ADAP. Since the new rules came in, each partner has been paid **88%** of the living allowance, not the full amount. On the government's rate table that's **$1,708** a month on AISH and **$1,532** a month on ADAP.
+
+## WHAT THE ORDER SAYS
+It does two things.
+
+**It removes the 88% rule.** The order amends section 8 "by repealing subsection (4)." Subsection (4) was the couples cut.
+
+**It says the people who were cut are owed the difference.** This is the new section 20(1.1), word for word:
+
+"If a client was provided a living allowance benefit in a monthly amount determined in accordance with section 8(4) before its repeal, a director is deemed to have determined under subsection (1) that the client was underpaid a benefit in the month that the client was provided a living allowance benefit in that monthly amount, and the outstanding amount that the director must pay to the client under subsection (1) is an amount equal to the difference between that monthly amount and the monthly amount of the living allowance benefit set out in section 8(2) or (3), as applicable."
+
+## IN PLAIN WORDS
+If you were paid the 88% amount, the law now treats you as **underpaid** for every month that happened. The government **"must pay"** you the difference between what you got and the full rate.
+
+The full rate is **$1,940** on AISH and **$1,740** on ADAP. By my own subtraction, the difference is about **$232 a month** for each partner on AISH and about **$208 a month** for each partner on ADAP. The order doesn't print a dollar figure. That's my math, not theirs.
+
+## WHAT THE ORDER DOESN'T SAY
+It doesn't say **when** the money will be paid.
+
+It doesn't say you have to apply. The wording puts the duty on the government. But there's no date.
+
+It doesn't say whether a debt or overpayment can be taken off it first.
+
+It doesn't give a start date for the change.
+
+As of this morning, the government's own policy manual and rate table still showed the 88% amounts. Nobody has been told.
+
+## WHAT TO DO IF THIS IS YOU
+**Keep every payment statement** for each month you were paid the lower amount.
+
+**Put your request in writing.** I've made a form for it: *Request for Payment of Underpaid Living Allowance*. It quotes the regulation, asks for the payment and a month-by-month calculation, and asks for notice before anything is deducted. **Each partner sends their own.** It's in Take Action, and on the card at the top of the site.
+
+**Send it to the office that holds your file**, by email if you can, and keep a copy.
+
+**Don't spend it until it's in your account.**
+
+If you're **single**, or your partner isn't on AISH or ADAP, the 88% rule didn't apply to you and this doesn't change your payment.
+
+## A CORRECTION FROM ME
+From October 1 to October 4, my nightly updates told you the couples rule still read the same in the regulation. That was wrong. It had been repealed on October 1 and I missed it, because I was checking a saved copy of the regulation and not the list of new orders.
+
+I've changed how I check every night so that can't happen again. I'm sorry for the four days.
+
+I don't know why the government did this, and the order doesn't say. I report what it does. I'll post again the moment they say anything about when the money is coming.
+
+If you need help filling in the form, ask us. The campaign line is **587-590-3590**.
+
+## IF THIS ONE LANDED HARD
+Money you were owed and were never told about is a hard thing to read. **988** answers by call or text any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.
+
+**Update, October 6, 2026:** The government announced this today. It says "no action is required" and that the back pay will come "before the end of the year," going back to August 2026. You don't have to send the form. If you already did, it does no harm. The newer note, *The government has now confirmed the couples back pay*, has the details.`
+      },
+      {
+        title: "New form: asking your specialist for a letter or your reports",
+        date: "2026-10-02",
+        doc: "/pdfs/aish-adap/fillable/ADSB_Specialist_Letter_Request_Fillable_Oct2026.pdf",
+        body: `Today's conversations made something clear. A lot of us are hitting the same wall: specialists who won't write letters, doctors who act like a records request is a strange favour, and fees nobody can afford.
+
+So we made a form for it. It's free, it fills in on a phone, and you can print it. The link is at the bottom of this note, and it's in Take Action.
+
+## WHAT'S IN IT
+**Your request.** It asks your specialist for one of two things: a short letter about your care with them, or copies of the reports they already sent your family doctor.
+
+**A page for the specialist.** It explains in plain terms what an AISH or ADAP application looks at, so if they do write a letter, it covers what counts. It also tells them to write only what their own records support.
+
+**A page for you to keep**, explaining your rights, the timelines and the fees.
+
+**A record sheet:** the date you sent it, what you were told, and your deadlines.
+
+## WHY TWO OPTIONS
+Because a specialist is allowed to say no to writing something new. But copies of records that already exist are different. Under Alberta's **Health Information Act** you have a right to your own records.
+
+## HERE'S WHAT TO KNOW
+The form says "This is a formal access request under the Health Information Act." **Leave that sentence on it.** Some clinics offer a quicker "informal" request, but the right to have the Information and Privacy Commissioner review a refusal is attached to the formal one.
+
+The clinic has **30 days** to answer. It can take up to 30 more, but only for set reasons, and it has to tell you why.
+
+There can be a basic fee of **$25**, plus about 25 cents a page. If you can't afford it, ask in writing to be let off the fee. They're allowed to say yes.
+
+If they send a fee estimate, you have **20 days** to accept it or ask for fewer records.
+
+If they refuse, it has to be **in writing with the reason**. You can ask the Commissioner's office to review it, and that's free. You have **60 days** from their decision.
+
+**If they never answer you at all**, you can still ask for a review, and the 60-day limit doesn't apply. Being ignored doesn't cost you your rights.
+
+The Commissioner's office: **780-422-6860**, or toll free **1-888-878-4044**.
+
+## ONE MORE THING MOST PEOPLE DON'T KNOW
+A specialist who sees you on a referral is expected to write back to the doctor who referred you. So that report **usually already exists**. You're not asking anyone to write a new word.
+
+## A FEW TIPS
+Send it to the clinic, not just the doctor. Front desk staff often handle these.
+
+Keep a copy and write down the date you sent it.
+
+Give the copies to your family doctor to attach to your medical report.
+
+This is a community-made form, not a government form. It's general information, not legal or medical advice.
+
+If the link won't open for you, reach out to us and we'll send the file directly. The campaign line is **587-590-3590**. And if a specialist turns you down, tell us what they said. We're keeping track.`
+      },
+      {
+        title: "Seniors: was your Blue Cross refused at the pharmacy this week?",
+        date: "2026-10-02",
+        stream: "Seniors Benefits CPP/CPPD",
+        body: `On **October 1**, a new rule started (Bill 11). If you have a private or employer drug plan, that plan now has to be billed **first**, and the government's seniors coverage pays last.
+
+If you only have the government's seniors coverage, nothing was supposed to change for you.
+
+But I've had a report of a senior with **no other plan** whose coverage was refused at the pharmacy this week. Blue Cross told her she needed to "register" and sent her to a registry office, which sorted it out. Her pharmacy said **three other people had the same problem that day**.
+
+## IF THIS HAPPENS TO YOU OR SOMEONE YOU HELP
+**Ask the pharmacist what the system says is wrong**, and write it down.
+
+**Call Alberta Blue Cross** and ask what you need to do. If they send you to a registry, ask the registry what they are registering you for.
+
+**If you can't wait for your medication, tell the pharmacist.** Ask what they can do in the meantime.
+
+**Then tell us:** your town, what you were told, and how it got fixed.
+
+I don't yet know why this is happening. I'll post as soon as I do.
+
+## IF YOU ARE GOING WITHOUT MEDICATION TONIGHT
+Being turned away at a counter you have used for years is frightening, and it is not your mistake. The campaign line is **587-590-3590**. If tonight is heavy, **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
+        title: "An idea worth copying: a package for your doctor",
+        date: "2026-10-02",
+        doc: "/pdfs/aish-adap/fillable/september-2026-updates/DS2444B_fillable_with_guide_BOUND.pdf",
+        body: `This one comes from Linda, and she's given me permission to share it with her name on it.
+
+When Linda's family was getting ready to go back to the doctor for an AISH medical report, they didn't just book the appointment and hope. They put together a **package for the doctor to read first**.
+
+## WHAT WENT IN IT
+**Our guide for doctors on the medical report**, which explains how the report is used and what makes a strong one. It's in the Documents section as *DS2444B \u2014 Medical Report Guide*, and it's also bound into the front of the fillable copy linked at the bottom of this note.
+
+**A plain explanation of the move from AISH to ADAP**, and how it's affecting people.
+
+**Her family member's original AISH application from years ago**, so the doctor could see the whole history, not just today.
+
+**A short note** inviting the doctor to look at The Alberta Disability System Breakdown page and website.
+
+**A practice copy of the medical report, filled in by the family.** They wrote out each diagnosis, how each one affects her day to day, and the rating they'd give each activity on the scoring column. Because the form doesn't have enough room, they added a handwritten sheet with more detail.
+
+You can do the same with our fillable copy of the medical report \u2014 it has the doctors' guide bound in at the front, so you can fill it in yourself before the appointment and bring the whole thing with you. It's linked at the bottom of this note, and it's in Take Action.
+
+## ABOUT THE PRACTICE COPY
+The doctor can use it as a starting point, change anything he sees differently, and transfer it onto the real report he sends in. **It's still his report and his judgment.** What the practice copy does is put the real, everyday examples in front of him, so nothing gets missed in a short appointment.
+
+They're also asking the doctor to put any new health issues on record, and to write a note on his own letterhead that they'll email to ADAP, so there's proof with a date on it.
+
+## WHY THIS MATTERS
+A lot of doctors don't know how the transition works, or how much the wording on that medical report decides. A package puts the whole picture in their hands **before** they fill out the form. It also makes their job easier, which makes it more likely to get done well.
+
+The fuller clinician package \u2014 the one-page briefing on what changed in July, plus the question-by-question completion guide \u2014 is in the Documents section too, as *DS2444B \u2014 The Clinician Package*.
+
+If a link doesn't open for you, reach out to us and we'll send the files directly. The campaign line is **587-590-3590**.
+
+Thank you, Linda, for figuring this out and for passing it on. This is exactly how we look after each other.`
+      },
+      {
+        title: "Long-term disability and AISH/ADAP: who paid the premiums changes everything",
+        date: "2026-09-25",
+        body: `If you get long-term disability (LTD) payments and you're on AISH or ADAP, this one could matter a lot. It updates the August note on the same rule, with the current figures and one warning that wasn't in it.
+
+Alberta's own AISH/ADAP policy manual treats LTD in two completely different ways, depending on who paid for the insurance.
+
+**If YOU paid all of the premiums yourself**, your LTD is **fully exempt**. It isn't counted at all, and it shouldn't reduce your AISH or ADAP by a single dollar.
+
+**If your EMPLOYER paid all or even part of the premiums**, it's counted as **employment income**. On AISH, only the first **$350** a month is exempt, and everything above that comes off dollar for dollar. On ADAP, the first **$700** is exempt, and the rest is reduced gradually.
+
+There's no in-between. If your employer paid any part of it, even a small share, it's treated the same as if they paid all of it.
+
+Why? Alberta only counts income you'd report on your taxes. LTD from a plan you paid for entirely yourself generally isn't taxable, so it isn't counted.
+
+## HOW TO TELL WHICH ONE YOU HAVE
+Your old benefits booklet or collective agreement.
+
+Old pay stubs showing an LTD deduction.
+
+Your tax slips: if your LTD comes on a T4 or T4A, your employer likely paid at least part.
+
+A letter from your insurance company or former employer. You can ask them directly who paid the premiums.
+
+## IF YOU PAID ALL THE PREMIUMS AND YOUR LTD IS BEING COUNTED
+Ask your AISH/ADAP office **in writing** how your LTD is being treated, and send them your proof. If they've been counting it, you may be able to appeal, and you may be owed money back. Appeals have a **30-day deadline** from when you get a decision, so don't wait.
+
+## ONE IMPORTANT WARNING
+If your employer paid any part of the premiums, **don't** argue that your LTD "isn't employment income." Being counted as employment income is what gets you the $350 or $700 exemption. If it were counted as other income instead, like CPP Disability, it would come off dollar for dollar with no exemption at all, and you'd be worse off.
+
+This is from the government's policy manual, Income Type Exemption Table, as it read on **25 September 2026**. Policy can change without notice, so if this affects you, save a copy and ask your office to confirm in writing.
+
+If you think this applies to you, reach out to us and we'll help you figure it out. The campaign line is **587-590-3590**.`
+      },
+      {
+        title: "A possible reason some ADAP payments are being held",
+        date: "2026-09-25",
+        body: `A member of another AISH group shared something a worker told them, and it may explain why some of you get two payments on time and then a held one.
+
+## WHAT THEY WERE TOLD
+The new software brought in with ADAP in July has an income-reporting setting: **monthly** for people who report earnings, **annual** for people who don't.
+
+If you're set to monthly, your payment can be held until you contact a worker.
+
+Even when a worker switches someone to annual, the setting may switch itself back to monthly every second payment. That would cause a hold.
+
+The worker said this isn't something staff can permanently fix yet, and that they're frustrated about it too.
+
+**Please treat this as one worker's explanation, passed along.** It hasn't been confirmed officially. But it matches the government's own statement in July that there were software problems with the switch to ADAP.
+
+## WHAT YOU CAN DO
+**About a week before payment day, email your AISH/ADAP office.** Ask them to check that there's no hold on your next payment, and ask whether your income reporting is set to monthly or annual. Email gives you a record, and it keeps the phone lines open for people who can't email.
+
+**If your payment doesn't arrive on payment day**, contact your office right away and ask them to release it.
+
+**Tell us if this happens to you:** the date, whether your payment was held, and whether you were told it was about income reporting. If there's a pattern, dates are how we prove it and get it fixed.
+
+## YOUR OFFICE EMAIL
+**North, including Edmonton:** northzoneaish@gov.ab.ca
+
+**Central:** aish.centralregion@gov.ab.ca
+
+**Calgary:** calgaryaish@gov.ab.ca
+
+**South:** southaish@gov.ab.ca
+
+## IF YOUR PAYMENT IS BEING HELD RIGHT NOW
+A payment that doesn't arrive is not a small thing, and it is not your fault. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+      },
+      {
+        title: "Homeschooling a child with a disability in Alberta: what to know before you decide",
+        date: "2026-09-25",
+        stream: "Children / FSCD",
+        body: `A lot of parents are asking about this, often because school isn't working for their child and they're running out of options. Here's what the rules say, and what they leave out.
+
+## THE DEADLINE IS NEXT TUESDAY
+Home education funding is counted on **September 29**. To be funded this school year, your child needs to be registered with a supervising school authority by then.
+
+## YOU CAN DO IT, AND YOU DON'T NEED A DIAGNOSIS
+Alberta's Home Education Regulation doesn't mention disability at all. Nobody can stop you from home educating a disabled child, and there's no assessment or approval based on your child's needs.
+
+You also don't have to follow the regular Alberta curriculum. The regulation lets you build a program around your child, as long as it works toward the required learning outcomes. For a child who can't work at grade level, that matters a lot.
+
+## THE MONEY, AND THE PART NOBODY TELLS YOU
+A home-educated student in grades 1 to 12 brings in **$1,856.06** a year. At least half of it, **$928.03**, is offered to you as reimbursement for learning materials, with receipts. For kindergarten, it's $928.03 in total, and $464.02 to you.
+
+That amount is the same whether or not your child has a disability. And Alberta's own funding manual **excludes** home-educated students from the grants that pay for disability supports in school:
+
+Specialized Learning Supports, which pay for things like OT, speech therapy and assessments.
+
+The Classroom Complexity Grant.
+
+Program Unit Funding, for home-educated kindergarten children.
+
+So when a child leaves school, the funding meant for their support doesn't follow them. The cost of that support moves to you. **If a school is suggesting homeschooling because it can't cope with your child, know that before you decide.**
+
+## FSCD DOESN'T STOP
+FSCD is based on your child's disability and your family's needs, not on school enrolment. Nothing in the FSCD law ties supports like respite or aide time to attending school. If a worker tells you otherwise, ask for it in writing.
+
+## TWO FREE SUPPORT PROGRAMS FOR HOME-EDUCATING FAMILIES
+Both train and advise **you, the parent**. Neither provides ongoing hands-on therapy for your child.
+
+**Khan Communication Services**, on behalf of Alberta Education. You get live sessions with speech therapists, OTs, behaviour and mental health therapists and reading consultants, plus some assessments. No diagnosis is needed to start. Call 780-440-3251, extension 1, or email homeed@khan-services.com. Important: their rules say parents can't be receiving specialized services from an FSCD-funded team and use this program at the same time. **If you have FSCD services, call both before you give anything up.**
+
+**AISCA** (Association of Independent Schools and Colleges of Alberta) offers consultation, workshops and some assessments for any home-educating parent in Alberta. Call 780-469-9868.
+
+## QUESTIONS TO ASK A SUPERVISING SCHOOL AUTHORITY
+Will you accept a program that doesn't follow the regular curriculum?
+
+How do you handle the parent's half of the funding, and how quickly do you reimburse?
+
+Does anyone on your team understand disability?
+
+What services and resources of yours can my child still use?
+
+They're required to offer you advice, assign supportive teachers, and tell you what services and resources they have. Ask them to be specific.
+
+## BEFORE YOU PULL YOUR CHILD OUT
+If you're leaving because of a conflict with the school, put your concerns and your decision in writing, and keep copies. Let your child's doctor know. A calm, documented decision protects you.
+
+If you're homeschooling a child with a disability, or have tried to, please tell us what worked and what didn't. There's very little information out there, and your experience helps the next parent.
+
+## IF YOU ARE AT THE END OF YOUR ROPE
+Deciding this because school has stopped working for your child is an exhausting place to be, and it is not a failure on your part. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
+        title: "Acting for someone on AISH or ADAP, and getting a guardianship order reviewed",
+        date: "2026-09-24",
+        body: `This came up more than anything else today, from both directions. Some of you are helping someone and being told your paperwork isn't enough. Some of you are under an order, trying to get it reviewed, and being passed from office to office. Here's both in one place.
+
+## PART ONE: IF YOU'RE HELPING SOMEONE WITH THEIR AISH OR ADAP FILE
+There are three kinds of paper, and they don't do the same thing.
+
+**A Consent to Release Information (form AAS13391)**, signed by the person on AISH or ADAP. This lets the office talk to you about their file. It doesn't give you any say over the money.
+
+**A Supported Decision-making Authorization**, filed with the Office of the Public Guardian and Trustee. This is the one that catches people. Alberta describes it as covering personal, non-financial decisions, and the supporter can only see the information needed for a decision. AISH and ADAP are a financial benefit. So on its own, it may not get you a conversation about the file, and it never reaches the money.
+
+**For the money**, the policy manual lists four routes and only four:
+
+A financial administrator appointed under the AISH Act.
+
+A trustee appointed by the court.
+
+An administrator under the Indian Act.
+
+An attorney under a Power of Attorney that gives authority over the benefit.
+
+If a worker pushes back, this is the line from their own manual: "AISH and ADAP personal representatives can be a financial administrator, a trustee, or an attorney." Supported decision-making isn't on it.
+
+So if the person can sign, get the consent form signed too, even if you already have the supported decision-making one. It's free, it takes minutes, and it ends the argument before it starts.
+
+## SEND IT YOURSELF
+The AISH/ADAP office won't go and get it from the Public Guardian's office. Email it to the office that holds the file:
+
+**North, including Edmonton:** northzoneaish@gov.ab.ca
+
+**Central:** aish.centralregion@gov.ab.ca
+
+**Calgary:** calgaryaish@gov.ab.ca
+
+**South:** southaish@gov.ab.ca
+
+The office is named on any letter they've had. Don't send it to PO Box 17000 in Edmonton. That one's for new applications only.
+
+In the email, ask them to confirm in writing that it's on file and the date they recorded it. Keep the sent email. That's your proof six months from now.
+
+And if someone agreed to have a financial administrator, the manual says they can withdraw that consent in writing.
+
+## PART TWO: IF YOU'RE UNDER A GUARDIANSHIP OR TRUSTEESHIP ORDER AND WANT IT REVIEWED
+**You can apply yourself.** Alberta's public legal education guide says the represented adult, the guardian or any interested party can apply to the court for a review. You're named first. You don't have to wait for your guardian, your trustee or the Public Guardian and Trustee to do it.
+
+**Your own doctor may be able to do the assessment.** Everyone gets told to find a designated capacity assessor, but Alberta's own page says physicians and psychologists can also do capacity assessments, even if they aren't on the list. Start with someone who already knows you. If you need the list, it's at alberta.ca/find-capacity-assessor.
+
+**The price is capped.** Up to $500 for guardianship or trusteeship, up to $700 for both, up to $500 for co-decision-making. If you're quoted more, ask why. If you can't afford it, tell the Public Guardian and Trustee. Their own page says to contact them when cost is a hardship.
+
+**The $100 court filing fee isn't automatic.** You can ask for the costs to be paid by the Crown. Nobody will offer it. You ask on the application.
+
+**Watch the timing.** The Capacity Assessment Report (Form 4) has to be dated within the 6 months before you file, so don't get it done and then sit on it. A review usually takes about 6 months. The main forms are Form 14 (Application) and Form 15 (Affidavit of Applicant), and they're free at alberta.ca/office-public-guardian-trustee-forms. Don't pay a website for them.
+
+A capacity assessment looks at whether you can understand a particular kind of decision. It isn't a verdict on you as a whole person. If your situation has changed, that's exactly what a review is for.
+
+## PUBLIC GUARDIAN AND TRUSTEE OFFICES
+Open 8:15 to noon and 1 to 4:30 on weekdays. Dial **310-0000** first to call toll free from anywhere in Alberta.
+
+**Edmonton (main):** 780-427-2744
+
+**Calgary:** 403-297-3364 (trusteeship 403-297-6541)
+
+**Red Deer:** 403-340-5165
+
+**Lethbridge:** 403-381-5648
+
+**Medicine Hat:** 403-529-3744
+
+**Grande Prairie:** 780-833-4319
+
+**Lloydminster:** 780-871-6490
+
+**St. Paul:** 780-645-6278
+
+If you're being bounced around, write down every contact: the date, who you spoke to, which office, and what they told you. That record turns "I keep getting passed around" into something a supervisor or an MLA's office can act on.
+
+## TWO THINGS WE'RE STILL RUNNING DOWN
+If you know whether a family doctor can bill a capacity assessment to Alberta Health Care, or you've asked the Public Guardian and Trustee about hardship and got an answer, please tell us.
+
+This isn't legal advice. It's where to start and what to ask for.
+
+## IF THIS ONE IS ABOUT YOU
+Having someone else hold authority over your own money, or being passed between offices trying to get it looked at again, is a hard thing to carry. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
+        title: "New tools: getting the Privacy Commissioner to look at your file request",
+        date: "2026-09-23",
+        body: `A lot of you asked for your AISH or ADAP file, and then either heard nothing or got back less than you asked for. Today there are two new fillable forms for the next step, both in the Take Action section. Both open and fill on a phone, tablet, or computer.
+
+## WHAT THESE FORMS DO
+They ask Alberta's Information and Privacy Commissioner (the OIPC) to review how the government handled your access request. The OIPC is independent of the government. It's free.
+
+This isn't an appeal of your AISH or ADAP decision. It's about your request for your records, and whether it was handled properly.
+
+## WHICH ONE DO YOU NEED?
+**If you asked for your file and heard NOTHING back: use the No Response Edition.**
+
+The government has **30 business days** to answer an access request. If that time has passed and you've had no answer and no letter saying they need longer, the law treats their silence as a refusal. That's called a "deemed refusal," and you can take it straight to the Commissioner.
+
+This edition has some answers filled in to save you time: the ministry's name, your province, the "No Response" box, and a starting statement on page 7 that explains what happened. You just fill in your details and the date you made your request. Change anything that doesn't fit.
+
+**If you DID get a letter back, but something's wrong: use the general edition.**
+
+This one covers everything else: parts of your file were blacked out or held back, you think records are missing, they took an extension you disagree with, they said your request was abandoned, or you're being charged fees.
+
+**Please check before you pick.** If you got any letter with a decision in it, even one you disagree with, that isn't "no response." Use the general edition.
+
+## WHAT'S THE SAME IN BOTH
+**Your deadline: 60 business days.** For a request nobody answered, count from the day their 30 business days ran out. Don't wait.
+
+**Send it to TWO places.** This is the step that catches people. It has to go to the Commissioner **and** to the ministry you asked. The OIPC's address is on page 8. The ministry's contact is on the letters or emails they sent you. If you only send it to the OIPC, the law hasn't been met.
+
+**15 pages maximum**, including the form. Attach your original request and any letter they sent you. Don't attach the records you did get back.
+
+**Send it all at once.** The OIPC returns forms that come in pieces or are missing attachments.
+
+**Answer your phone.** The OIPC prefers to call. If calls aren't returned, your file may be closed.
+
+## ONE IMPORTANT THING
+Please don't send your completed form to the campaign. We can't file it for you, and your personal file information shouldn't sit in our inbox. But if you're stuck on how to fill something out, ask us, without your personal details, and we'll walk you through it. You can also call the campaign line at **587-590-3590**.
+
+Both forms are ADSB plain-language editions of the OIPC's official form. They're not official OIPC forms, and the official version is at oipc.ab.ca. If you have questions about the OIPC's process, their line is **780-422-6860**, or toll free **1-888-878-4044**.
+
+You asked for your own records. You have a right to them. This is how you hold them to it.`
+      },
+      {
+        title: "We have a phone number now",
+        date: "2026-09-23",
+        body: `**587-590-3590**
+
+Some things are easier to say out loud than to type, and some of you have told me that writing it all out is the hardest part. So now there's a line.
+
+Call it or text it. If I can't pick up, leave a message with your name, your number and roughly what it's about, and I'll get back to you.
+
+## A FEW HONEST THINGS ABOUT IT
+It's one person with a phone, not an office. I'll be as quick as I can, and messages get returned in the order they come.
+
+Email still gets you a written answer with the section numbers attached, and that's better for anything you might need to prove later. **albertadisabilitybreakdown@outlook.com**
+
+And if you're in crisis, please don't wait on me. Call or text **988** any hour, or the **Alberta Mental Health Help Line at 1-877-303-2642**.
+
+The number's on the website and it'll be on everything from here on.`
+      },
+      {
+        title: "What they ask you: both halves of Alberta, written down",
+        date: "2026-09-22",
+        body: `Two members have now recorded exactly what happened in their employment services intake, one in the north and one in the south. Both are in the Documents section, as **What They Ask: Alberta North** and **What They Ask: Alberta South**, and both are linked from the employment assessment card at the top of the site.
+
+Nobody publishes these questions. The assessor can't even see them until your appointment starts and the portal opens. So the only way any of us finds out what's coming is because somebody who went through it wrote it down afterward.
+
+The north one is from an assessment in August, about an hour and a half long. The south one is from a rural intake done by phone in September, about thirty minutes.
+
+Each document has every question, in the order they came, and what happened at each step. Print them, read them before your appointment, take them in with you if it helps.
+
+## FOUR THINGS I WANT YOU TO KNOW EVEN IF YOU NEVER OPEN THE PDFS
+**You don't have to name your diagnosis.** In the north, the client was told outright it was voluntary. She declined, it was recorded that she was medically diagnosed without the name, and the assessment carried on. In the south, the family gave the general kind of condition instead of the exact one, and that was accepted too. Both times the person gave less than was asked for and nothing bad happened.
+
+**Answer for your worst days.** Good days and bad days came up three times in one assessment. The instinct with a stranger who's being kind is to sound like you're coping. Answer for the day you can't get out of bed, and say how often those come.
+
+**There's a consent statement read out near the end.** You're asked yes or no, and your answers go into a database called Compass, where a file already exists for anyone on EI, AISH, ADAP or Income Support. Nobody has been able to tell us what happens if you say no. If that matters to you, ask before your appointment and ask in writing.
+
+**Read the action plan they email you afterward.** That's the document that gets measured later. If it reads as more capable than you are, reply in writing and correct it.
+
+## AND THE ONE THAT STOPPED ME
+In thirty minutes with a person who'd been on AISH for decades, nobody mentioned reapplying for AISH. Not once.
+
+If that's your plan, it's a separate process, you start it yourself, there's no deadline on it, and the province pays for one medical report if you ask for payment approval before the report is completed.
+
+## IF YOU HAVE BEEN THROUGH ONE
+If you've been through an intake anywhere in Alberta, write down what you were asked and send it to us. Two accounts gave us these two documents. More accounts tell us whether this is the process or just one office's version of it.
+
+Thank you to both members. Neither of them had to do this, and both did it for people they'll never meet.
+
+## IF AN APPOINTMENT IS WEIGHING ON YOU
+Walking into a meeting that decides your income is a hard thing to carry. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
+        title: "Twenty-four homes in Red Deer, and the part that wasn't said out loud",
+        date: "2026-09-21",
+        body: `A member found this, and she found it the way we find most things. She read the agenda package.
+
+The City of Red Deer owns **24 below-market housing units**, duplexes in Oriole Park, West Park and Highland Green. They're rented under the Community Housing Program, where you pay 30 percent of your income. The people living there are low income. Some are working minimum wage jobs. Some are on AISH or ADAP.
+
+On September 11, the City posted what was coming to its September 15 council meeting. The notice said, in its own words, that council would consider "the potential sale of 24 aging, City-owned non-market housing units currently managed by Bridges Community Living."
+
+Then at the meeting on the 15th, council spent the session on the good news: $2.9 million in federal money going to supportive housing. The sale was not mentioned once. It isn't in the City's own recap of that meeting either.
+
+But it's in the agenda package, **on page 133**, in an appendix to a budget report. It says council has already received a confidential sales and communication strategy for the 24 sites, and that administration "has been directed to move forward with the sale of these units" in the last half of this year.
+
+So the decision was made before the meeting, and the meeting didn't touch it.
+
+## WHAT THAT MEANS FOR THE PEOPLE IN THEM
+Twenty of the 24 homes have people living in them. Four are empty, and they've been held empty in anticipation of the sale.
+
+Bridges' executive director told rdnewsNOW that some tenants may be on AISH, and that rent could rise by around **60 percent** for anyone who ends up in market housing. The Mayor said she didn't know whether a buyer could be required to keep the Community Housing Program.
+
+Nobody has published a plan for the twenty households.
+
+## THE THING WORTH SITTING WITH
+Red Deer City Council was one of the first to ask the province to pause the AISH to ADAP transition. That was the right call and I said so at the time.
+
+The same council is selling homes where people on those programs live. Whatever the reason, that's the effect.
+
+## IF THIS IS YOU
+If you live in one of those units, or you know someone who does, please reach out to us. The first things to keep are any letter or notice you've received and the date you got it. If your rent changes, your benefit file needs updating, and I'll help with that.
+
+## IF YOU'RE IN RED DEER
+The questions worth asking your council are simple ones.
+
+How long have the four empty units been vacant, and who decided not to fill them?
+
+Where will the twenty households go?
+
+Can a sale require the buyer to keep those homes in the Community Housing Program?
+
+The sale is targeted for the last quarter of this year. That's now.
+
+Thank you to the member who read page 133.
+
+## IF THIS ONE LANDED ON YOU
+Being told your home is being sold out from under you is a frightening thing to read, and it is not a failure on your part. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
+        title: "Doctors were never told either",
+        date: "2026-09-20",
+        body: `A member pointed out something this week that nobody else has said out loud. When the province moved us to ADAP, it didn't tell our doctors either.
+
+They are getting flooded with requests for the DS2444B medical report from patients who were already assessed as severely handicapped years ago. Many of them don't know what changed, don't know the province pays for the report, and don't know a nurse practitioner can complete it.
+
+So we made a package you can send to your own doctor or nurse practitioner. There are four pieces on the website:
+
+A ready-to-send email you fill in with your name and theirs, in the Email a Letter section.
+
+A short version to print and hand in at the desk.
+
+A one-page briefing for clinicians on what changed in July.
+
+The full question-by-question guide to the DS2444B.
+
+I am not going to mail this to every clinic in Alberta. I don't have the address of your doctor, and something your own patient hands you gets read. Two minutes each, from all of us, reaches further than anything I could send alone.
+
+## TWO THINGS WORTH REPEATING, BECAUSE MOST OFFICES DON'T KNOW THEM
+**The province pays for the report.** Form EMP11587 covers the examination and the completion, invoiced by your doctor directly. It has to be arranged **before** the report is done, not after.
+
+**Nurse practitioners can complete the report.**
+
+## ONE THING I WANT TO BE CLEAR ABOUT
+None of this asks a doctor to write anything that isn't true. The guide says it on its first page: accuracy is the strongest position, and an overstated report can cost you a case you truly have. This is about making sure your real situation is written in the language the decision is weighed against.
+
+If your doctor asks a question we haven't answered, send it to us and I'll find out.`
+      },
+      {
+        title: "Why you might not have got the $150",
+        date: "2026-09-18",
+        body: `A lot of people are checking their accounts and coming up empty. Here are the reasons, and most of them are not something you did wrong.
+
+## FIRST, THE THING THAT CATCHES PEOPLE OUT MOST
+The $150 is **not** paid for having the Disability Tax Credit. It is paid to people who **received a Canada Disability Benefit payment** between July 2025 and June 2026.
+
+So the DTC on its own is not enough. You had to have been getting the CDB.
+
+## WHICH IS WHY CHILDREN WITH AN APPROVED DTC DID NOT GET IT
+I noticed this with my own three. All of them have an active Disability Tax Credit. None of them got the $150.
+
+The Canada Disability Benefit is for people **aged 18 to 64**. A child under 18 cannot receive it, no matter how long their DTC has been approved. What a child's DTC does instead is increase the Canada Child Benefit, which is a different payment from a different program.
+
+No Canada Disability Benefit means no $150. Even with an approved DTC sitting there.
+
+You can apply for the Canada Disability Benefit **up to six months before your eighteenth birthday**, so if you have a teenager approaching 18, that is the thing to put in your calendar.
+
+## THE OTHER REASONS YOU MIGHT NOT HAVE IT
+**Your CDB started after June 2026.** Then you are in the second group, and yours is Winter 2027. No month has been named. Do not budget on one.
+
+**Your taxes are not filed.** You, and your partner if you have one, need a filed recent federal return. The CDB is income-tested, so without a return there is nothing to test.
+
+**Your DTC was never approved.** If the CRA denied it, or if the form never reached them, then no CDB was ever paid and the $150 does not follow.
+
+That last one matters more than it sounds. I have had two people this week whose doctor never submitted the form, in one case because she went on medical leave for eight months and nobody told the patient. If you applied and never heard anything, that is worth chasing.
+
+**Residency.** You have to be a Canadian resident for tax purposes.
+
+**Or it simply has not landed yet.** Payments began on 17 September and beginning is doing some work in that sentence. Give it a few days before assuming.
+
+## ONE THING TO CHECK WHILE YOU ARE LOOKING
+It arrives as a **separate deposit** from your regular monthly payment. Both show as CANADA CDB/PPH. So you may have two lines with the same name and different amounts, and it would not be bundled in with the monthly one.
+
+Screenshot it when it lands. That deposit line is better proof than any letter.
+
+## AND THE PART THAT APPLIES TO EVERYONE. READ THIS ONE CAREFULLY.
+The $150 is **not counted as income** against your AISH or ADAP benefit. That is in Alberta's regulation and in their policy manual, in the same words.
+
+But that is not the same as saying nothing can come off it.
+
+If AISH or ADAP paid for your doctor to complete Part B of the Disability Tax Credit application, that was a **repayable advance**. The government's own page says you repay it when the federal money arrives. It has now arrived.
+
+So if you signed a repayment agreement for that fee, a deduction is not an error. It is the agreement doing what it says.
+
+Two different things, and it matters which one you are looking at.
+
+**Not counted as income** means they cannot treat the $150 as money you earned and reduce your benefit because of it.
+
+**Recovered as a debt** means if they advanced you the cost of the medical form, they take that back.
+
+One is about how the payment is classified. The other is about money you already agreed to repay.
+
+So before you report a deduction, check whether you had the doctor's fee covered. If you did, ask them in writing for four things: the total you are repaying, the monthly amount, the date it starts, and whether you get notice first. One member has been told hers begins in November 2026 and the worker could not say when the deduction would show up.
+
+And **the rate is not fixed**. The policy says an active client can ask for the collection amount to be adjusted based on their circumstances, and that in hardship it may be reduced. Ask in writing, with your circumstances set out, and ask now rather than after it starts.
+
+If you did **not** have the fee covered and $150 still comes off your benefit as income, that is an error and we want to hear about it with the statement.
+
+The **regular monthly** Canada Disability Benefit is still deducted. That is a third thing again, and it has nothing to do with either of the above.
+
+If you think you should have it and do not, tell us which of the above applies to you and when your CDB payments started, and we will work out whether you are waiting or whether something needs chasing.
+
+## IF THIS ONE LANDED BADLY
+Counting on money that did not arrive is its own kind of awful, and it is not a failure on your part. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
+        title: "What to do if they say you owe them money",
+        date: "2026-09-15",
+        body: `I spent today reading the overpayment and debt rules right through. The Act, the regulation, and the department's own policy manual. Here is what matters, and some of it is time-sensitive, so I am putting it up before anybody needs it rather than after.
+
+## YOU HAVE 30 DAYS, AND THE CLOCK STARTS WHEN YOU RECEIVE THE NOTICE
+Thirty days from the day the notice reaches you to appeal. **Not from the date on the letter.** If you miss it, the Minister can extend the time, but only if there are apparent grounds and a reasonable explanation for the delay.
+
+## WHEN THE 30 DAYS RUN OUT, MORE THAN THE APPEAL DIES
+This is the part almost nobody knows. A director can forgive an overpayment, but only while it is **not yet a debt due**. Once the 30 days expire without an appeal, it becomes a debt due, and the power to forgive it is gone.
+
+So the 30 days are not only about arguing. They are the whole window in which mercy is still legally possible.
+
+## SIGNING AN AGREEMENT DOES THE SAME THING, IMMEDIATELY
+Signing a repayment agreement makes the amount a debt due right away. Same effect as letting the 30 days run out, just faster. Before you sign, forgiveness is possible. After you sign, it isn't.
+
+And if you are offered the chance to start paying before an overpayment has been formally assessed, that is a waiver. The department's own policy says staff must make a reasonable effort to ensure you know you are giving up your rights under the notice process. There is a form for it.
+
+**Do not sign anything the day it is put in front of you.** Take it home. Read it. Nothing bad happens because you took two days.
+
+## HOW MUCH CAN THEY TAKE
+The regulation sets **no cap at all**. It says an amount determined by the director.
+
+The only published number is in the policy manual, and it is this: where a lump sum is owed back, the amount may be recovered at a rate up to the full living allowance minus one dollar a month.
+
+Against the published rates, that is **$1,939 on AISH and $1,739 on ADAP, in a single month**.
+
+You can ask for the rate to be adjusted, and the manual says hardship reductions may be made. But that decision, and the decision to collect at all, are both on the list of things you cannot appeal.
+
+## ONE LINE FROM THEIR OWN POLICY YOU SHOULD READ TWICE
+Forgiveness is only considered if neither you nor your representative is responsible for creating the overpayment. And the policy lists what counts as being responsible. The last item is this:
+
+"The client did not inquire or seek clarification on why they received a higher benefit than what they were expecting."
+
+Not noticing your cheque was too big counts against you. So does noticing and not asking.
+
+Which means: if a payment arrives and it is more than you expected, ask about it in writing, that week. Keep the email. That one habit protects you.
+
+## WHAT YOU CAN AND CANNOT APPEAL
+You **can** appeal whether you owe it. That is the big one and it is the one to use.
+
+You **cannot** appeal the refusal to forgive it, the decision to collect, how much comes off each month, or the decision to take an underpayment you are owed and put it against a debt instead of paying it to you.
+
+## WHAT A NOTICE HAS TO CONTAIN
+Their own policy says the notice must include the amount, the dates it covers, the reason, how it was calculated, the amount owing, and your right to appeal.
+
+A notice that gives you a number with no calculation is short of their own published standard. Ask for the calculation in writing.
+
+## THREE PIECES OF BETTER NEWS
+There is **no interest**. Nothing in the Act or the regulation provides for it.
+
+The two-year rule runs from when they **discovered** the overpayment, not from when it happened. That cuts both ways, so know which one you are dealing with.
+
+And if the Minister grants you a late appeal after the deadline has passed, the amount stops being a debt due and goes back to being merely repayable. The door reopens.
+
+## WHAT I WOULD DO IF A NOTICE ARRIVES
+Write the date you received it on the envelope. Read what it says the calculation is. If there isn't one, ask for it in writing. Do not sign anything that week. Put the 30-day date on your calendar the same day. And tell us, because you will not be the only one.
+
+The full findings document, with every section number, is going up in the Documents section.
+
+## IF YOU NEED SOMEONE TO TALK TO
+If you're in crisis or you just need to talk to someone, please reach out. **988** for the Suicide Crisis Helpline, call or text, any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
+        title: "The federal government named Alberta",
+        date: "2026-09-14",
+        body: `We finished the work on this today. Every province and territory, read at the source, from each government's own regulation, policy manual or ministerial release.
+
+Here is what it says, and here is the wording I am going to use from now on, because it is the wording that holds up.
+
+## WHAT OTTAWA PUT IN WRITING
+In a note prepared for the federal Minister of Jobs and Families, received 17 November 2025, Employment and Social Development Canada wrote this:
+
+"Alberta: We are disappointed that the Government of Alberta has decided to claw back the Canada Disability Benefit from their social assistance benefits, including under its Assured Income for the Severely Handicapped (AISH) program."
+
+Alberta is the only jurisdiction named that way in that note.
+
+That is not me saying it. That is the federal government, in writing, in a document prepared for its own minister. It is a Question Period note, reference EF_017_20260105, and it is on the federal open government registry where anyone can pull it.
+
+The same note says Ottawa has called on provinces and territories to exempt the benefit from counting as income.
+
+## WHAT THE COUNT ACTUALLY IS
+Alberta is the only jurisdiction in Canada whose **own regulation** names the Canada Disability Benefit as income.
+
+Seven other provinces exempt it, and each one was confirmed from that province's own regulation, policy manual or ministerial release. British Columbia. Saskatchewan. Manitoba. Ontario. Quebec. New Brunswick. Newfoundland and Labrador.
+
+Five jurisdictions could not be established either way. Nova Scotia, Prince Edward Island, Yukon, Northwest Territories and Nunavut.
+
+And this part matters. None of those five says it counts the benefit. They are silent, not opposed.
+
+So the count is one jurisdiction counting it, seven exempting it, and five unknown.
+
+I am not going to say Alberta is the only province in Canada that claws it back, because five are unchecked and that word would be claiming something about all thirteen. What I will say is the sentence above, because every part of it is carried by a document somebody can open.
+
+## WHERE ALBERTA WROTE IT DOWN
+This is not a policy sitting in a manual somewhere. It is in the regulation.
+
+**AR 96/2026, Schedule 1, section 1(1)(e)** includes in income "a Canada disability benefit," except where the payment is made to offset the cost of applying for the disability tax credit. Sections 7(1) and 7(2) do the rest.
+
+**Correction, 19 September 2026.** This note first gave the address as Schedule 1, section 6(1)(e). That was wrong. Section 6 is about how monthly income is worked out from your reporting; it does not mention the federal benefit and has no paragraph (e). The finding is unchanged \u2014 only the section number was wrong. If you saved or shared the earlier version, the right address is **section 1(1)(e)**.
+
+In force July 2, 2026.
+
+## THE ONE EXCEPTION
+Section 7(2) exempts the benefit in one situation only. When the program is working out your eligibility for, and the amount of, a **modified living allowance**.
+
+The modified living allowance is the benefit for someone living in a facility.
+
+So if you live in a facility, the Canada Disability Benefit is not counted against that particular calculation. For everyone else on AISH and ADAP, it counts as income.
+
+I am telling you about the exception because it is narrow, somebody will find it, and I would rather you heard it from me than had it used to tell you the rest is wrong.
+
+## WHAT THIS MEANS IF YOU ARE THE ONE BEING DEDUCTED
+It means the money was designed to go to you and Alberta decided it goes to Alberta instead.
+
+Seven provinces made the other decision. The federal government asked all of them to. Alberta wrote the opposite into a regulation and it came into force on July 2.
+
+If your deduction does not match what you actually receive, that is a separate problem and it is fixable. The two forms are in Take Action, and there is a field note about it under the title "Where the $200 CDB deduction came from."
+
+If your deduction does match, there is nothing wrong with your file. The rule is the problem, and the rule is in a regulation that can be amended.
+
+## WHAT I AM ASKING FOR
+If you have a letter from AISH or ADAP that mentions the Canada Disability Benefit, send it in with your personal details blacked out.
+
+I want the wording they are using with people, because the regulation says one thing and I want to know whether the letters say the same.
+
+That is where things stand on this one.
+
+## IF YOU NEED SOMEONE TO TALK TO
+If you're in crisis or you just need to talk to someone, please reach out. **988** for the Suicide Crisis Helpline, call or text, any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour.`
+      },
+      {
+        title: "Roommates, AISH, and the rule everyone is quoting wrong",
+        date: "2026-09-14",
+        body: `There is a post going around about roommates and the Adult Interdependent Relationships Act. It quotes the three year rule. It is being shared widely and people are relying on it.
+
+The rule is real. The quote is accurate. And it is the wrong section for AISH.
+
+I want to explain the difference carefully, because someone is going to write to their worker saying "we have not lived together three years" and think they are protected, and they are not.
+
+## THE TWO DIFFERENT TERMS
+Section 3 of the Act defines an **adult interdependent partner**. That is where the three years, the child, and the signed agreement live. If you have heard about the three year rule, this is it, and it is correctly quoted.
+
+But AISH does not ask whether you have an adult interdependent partner.
+
+The regulation asks whether you have a **cohabiting partner**. Different term. Different definition.
+
+AR 96/2026, section 1(2)(a), says a cohabiting partner is someone you reside with who is your spouse, or with whom you have a child, or with whom you have a relationship of interdependence as defined in the Act.
+
+And a relationship of interdependence is defined at section 1(1)(f). It has no three year requirement. No agreement requirement. No child requirement.
+
+Those all belong to section 3, which is about a different status entirely.
+
+So someone who writes in saying they have no agreement, no child, and under three years together is answering a question the department never asked. They can be right about all three facts and still be assessed as having a cohabiting partner.
+
+## THE TEST THAT ACTUALLY APPLIES
+A relationship of interdependence means two people who:
+
+share one another's lives,
+
+are emotionally committed to one another,
+
+and function as an economic and domestic unit.
+
+**All three have to be true.** If any one of them fails, there is no relationship of interdependence, no matter how long the lease has run.
+
+Here is why that is better news than the three year rule, not worse.
+
+Ordinary roommates fail the emotional commitment limb outright. Two people splitting rent who do not share a life together fail the first limb. Three years of living beside somebody you are not emotionally committed to does not create a relationship of interdependence.
+
+The three year rule was never your protection. These three limbs are.
+
+## THE NINE CIRCUMSTANCES
+Section 1(2) of the Act says that when deciding whether two people function as an economic and domestic unit, **all the circumstances** of the relationship must be taken into account. It then lists nine things that may be relevant, including whether there is a conjugal relationship, how exclusive it is, household habits and living arrangements, whether the two hold themselves out to others as a unit, financial dependence or interdependence, and the ownership and use of property.
+
+Read those first words again. All the circumstances must be taken into account.
+
+A conclusion drawn from one shared grocery bill, or one shared lease, or one shared utility account is not the weighing the Act requires. That is worth quoting back to anyone who tells you otherwise.
+
+## THE PROVISION NOBODY EVER QUOTES
+This one matters and almost nobody knows it is there.
+
+**Section 4(2):** a relationship of interdependence does not exist where one person provides the other with domestic support and personal care for a fee or other consideration, or on behalf of another person or organisation, including a government.
+
+A paid caregiver. A support worker. A respite worker. An aide.
+
+That is not a weighing exercise and it is not a factor to be considered. The Act says the relationship **does not exist**.
+
+If the person you live with is paid to care for you, by you or by anybody else, the statute excludes it.
+
+## ONE THING TO BE CAREFUL ABOUT
+The second branch of the AISH definition also captures people who are financially interdependent but not living together. Moving out does not by itself end the question.
+
+And there is a duty to report. Marital or partner relationship status is on the list of changes a client must report.
+
+So the answer to a worker's question has to be the truth about your real circumstances, not a formula you were given somewhere else. A statement of facts protects you. A recited script does not.
+
+## WHAT TO DO IF THIS IS HAPPENING TO YOU
+Ask for the decision **in writing**, with a finding on each of the three limbs. Not over the phone.
+
+**Watch the 30 day clock.** A cohabiting partner determination is a director's decision and it is not on the exempt list, so it can be appealed. Thirty days from the day you receive the notice. The form is the Notice of Appeal, AAS13358, to the Appeals Secretariat.
+
+Write down who said what, and when. Every time.
+
+Ask which test was applied. If a worker cites the three year rule at you, that is section 3, and it is not the test the regulation uses.
+
+## ABOUT SUING, AND ABOUT A CLASS ACTION
+People are asking about both. I am not going to guess in public about something people might rely on.
+
+The Act does have a false allegation provision at section 9, but it turns on the word "knowing," which is a high bar. Applying the wrong section looks like error, and error is not what that provision addresses.
+
+Whether a class action is possible is a question for a lawyer who practises in this area. Not me.
+
+What I can tell you is that both questions need the same thing: the decision in writing, what test was applied, dates, amounts, how long, and enough separate accounts to show a pattern rather than one bad day.
+
+So if this is happening to you, send it in. Even if nothing legal ever comes of it, a documented pattern is how a directive gets rewritten and how the next person does not get told the same wrong thing.
+
+## THE SHORT VERSION
+The three year rule is real, and it is not your protection on AISH.
+
+Your protections are the three limbs, the exclusion for paid and government funded care, the requirement that all the circumstances be weighed, and the thirty day appeal.
+
+## IF THIS ONE IS ABOUT YOU RIGHT NOW
+Being told your household is something it is not, with your income attached to the answer, is a frightening thing to be handed. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
+        title: "Everything that went up, sorted by what you are dealing with",
+        date: "2026-09-12",
+        body: `Twenty four documents are now on the site. Most were built this week.
+
+I am not going to list them at you. Find your situation below and go to that bit.
+
+Everything is free. Everything is free to print, free to share, free to post anywhere you like.
+
+## THEY TOOK $200 OFF YOUR CHEQUE AND YOU WERE NOT GETTING THE FEDERAL BENEFIT
+**Stop The Deduction Letter.** New today. For when Alberta deducted the flat $200 while your federal application had no decision, or came back for less than $200, or was denied. Tells them the application is still active and asks them to stop taking it and pay back what they took. Plain language guide bound in.
+
+**CDB Underpayment Repayment Request.** Updated. For the months already gone. Cites the rule that the director must repay an underpayment for the entire period, and asks for the calculation in writing.
+
+Send both. They do different jobs.
+
+**Underpayment Notice.** Updated. Broader version, for when any payment arrives short or does not arrive at all, not just the CDB.
+
+## YOU ARE LOOKING FOR HOUSING, OR YOU ARE ABOUT TO LOSE IT
+**Finding Accessible Housing in Red Deer.** New. What exists, who holds each list, and how to be on more than one at a time. Carries the province wide finding that 67 of Alberta's 70 housing bodies publish no accessible unit count at all.
+
+**Before You Go, Applying at Red Deer Housing Authority.** New. What to bring, and the one document almost everybody arrives without. The counter is open two mornings a week, so arriving short one paper costs you a fortnight.
+
+**The Housing Worksheet.** New. Not an application and it cannot be sent as one. It is what you fill in first, at your own table, with your papers around you. Eleven sections covering everything Alberta's housing bodies ask for. The reason it exists: Civida gives you 48 hours to produce every document once an offer arrives.
+
+**Two Roads.** New. Staying in your own home with home care, or moving into a continuing care home. Both start with the same phone call to 811. What each one gives you and what each one costs.
+
+**What $373 Has To Buy.** New. If you go into continuing care, the province sets what you pay and sets what you keep. This is the list of what that $373 still has to cover.
+
+## SOMEBODY WILL NOT TALK TO YOUR ADVOCATE, YOUR FAMILY OR YOUR MLA
+**Consent To Release Information, AAS13391.** New, and this one unlocks a lot of others. Without it, Alberta Supports will not discuss your file with anyone. People find that out at the worst moment.
+
+The government's own version has to be opened in Adobe Acrobat and their file says it will not work on a mobile device. Ours opens and fills on a phone. Every question from their form, same order, nothing added, nothing removed, with a plain language guide to each section.
+
+**Disability Advocacy Consent Form.** Updated. Authorises an advocate to act for you. You decide what it covers and you can withdraw it any time.
+
+## YOUR HEALTH CARD GOT QUESTIONED AT A DESK
+**Your Health Card and Your Coverage.** Updated. Cards changed on July 2 and a lot of people are still holding older paper ones. Three things are settled: your health number is yours for life, what can lapse is your registration, and emergency care is never refused.
+
+What to say at a desk, what not to do, what to write down before you leave, and two fill in letters.
+
+## YOU ARE HEADING INTO AN APPEAL OR AN ASSESSMENT
+**What They Ask, the AKG employment services assessment.** Every question as it was asked, from one member's written record. The finding that matters most: naming your diagnosis is voluntary.
+
+**Who Hears Your ADAP Medical Appeal.** Who currently sits on the Medical Appeal Panel. Fifteen members, all appointed July 2. You are entitled to know who is deciding.
+
+**MLA Letter, Episodic Disability.** Updated, letter only version. For the trap where the regulation requires you to report reduced employment and then makes that same fact a ground to cut your benefit. ADAP only.
+
+**Request to Record a Medical Appointment.** Updated. A consent based request to record your own appointment, built on the College of Physicians and Surgeons of Alberta's own guidance.
+
+## SOMEBODY IS BEING PUT IN CHARGE OF YOUR MONEY
+**The Financial Administrator Power.** A director can appoint someone to administer your benefit without your consent. If it was imposed without consent, it ends when a director decides, not when you do. What to ask for in writing the moment you are told this is happening.
+
+## YOU WANT TO KNOW WHERE THE RULES COME FROM
+**Where The Rules Live.** Which of your money is in law and which is a decision of the Minister, using the regulation's own words. Only one of those has to be published when it changes.
+
+**What The Public Cannot Check.** Ten weeks after the split there is still no published figure for how many people are on AISH, how many are on ADAP, or how many moved.
+
+**Source Index.** Every source behind both, so you can check the lot yourself.
+
+**The Rule That Raises Your Rent Is Now Law.** Found and dated in the Gazette. In force January 1, 2027.
+
+**Third Party Payment Continuity.** Seven questions to the Minister on August 17. One was answered, twenty five days later. The whole exchange, reproduced without alteration.
+
+## THE REFERENDUM
+**The Referendum Special Ballot Package, Every Page, Redacted.** All 36 pages of what arrives in the mail, with one member's details blacked out, so you know what is in the envelope before you open it.
+
+Requests close September 25. Completed packages must be received by 5pm October 16.
+
+## AND ONE THAT IS NOT ABOUT ANY OF THIS
+**How To Apply Your Heat Transfer.** One page, for anyone who ordered one and has never used one. You do not need a heat press. A household iron works.
+
+The second press is the step people skip and it is the one that makes it last.
+
+Everything above is in the Documents section, and the fill-in forms are in Take Action.
+
+If you cannot find what you need, ask us. If the thing you need does not exist yet, tell us and I will build it.`
+      },
+      {
+        title: "Where the $200 CDB deduction came from, and what to do if they took too much",
+        date: "2026-09-12",
+        doc: "/pdfs/aish-adap/fillable/Fillable_CDB_Deduction_Correction_Letter_v2_July2026.pdf",
+        body: `Two people asked me the same question this week with different numbers, so I went and found the rule. It's on Alberta's own website and I want you to see the wording.
+
+## WHAT THE PAGE SAYS
+From alberta.ca, on the page about applying for federal disability supports:
+
+"If a decision on an AISH or ADAP client's CDB application has not been made by February 28, 2026, $200 in CDB income was reduced from their AISH or ADAP benefits starting with their April 2026 benefits."
+
+Read that again slowly.
+
+They deducted $200 of Canada Disability Benefit income from people who had **no decision yet**. Which means people who weren't getting any CDB money at all.
+
+It didn't matter whether you'd applied and were waiting. It didn't matter that the federal government was backlogged. If there was no decision by February 28, the $200 came off starting in April.
+
+## WHY YOUR NUMBERS MIGHT NOT MATCH
+The federal maximum is $204.20 a month. But the CDB is income-tested, so a lot of people get less than the maximum. Some get quite a bit less.
+
+Alberta deducted a flat $200.
+
+So if your actual CDB works out to $97, or $150, or nothing at all, and they took $200 a month anyway, you have been short every single month since April.
+
+One person told me they're owed about $97 a month. Another said they're short $165.53 a month since April. Neither of them made a mistake. That's the rule doing what it was set up to do.
+
+## DO THIS
+Get these two things in front of you.
+
+Your letter or statement from Service Canada showing what your **actual** monthly CDB payment is. The real amount, not the maximum.
+
+Your AISH or ADAP statement showing what they deducted.
+
+If those two numbers don't match, you're owed money.
+
+## THE PART THAT MATTERS MOST
+There's a form on that same Alberta page where you tell them the outcome of your CDB application.
+
+**You have to tell them.** As far as I can see, nothing happens automatically.
+
+So if you were approved for less than $200, or you were denied, or you're still waiting, and you haven't reported it, the deduction may still be running.
+
+I've asked the Minister in writing whether the money comes back automatically or only if you ask. I don't have an answer yet. Until I do, assume you have to ask.
+
+## FORMS TO SEND
+Both of these are in the Take Action section of this site, and both work on a phone.
+
+**The CDB Deduction Correction Letter.** Linked at the bottom of this note.
+
+**The CDB Underpayment Repayment Request.** Same section, directly below it.
+
+Fill them out. Keep copies. Write down the date you sent them and who you sent them to.
+
+## IF YOU'RE GETTING A LUMP SUM
+Some people are getting a back payment from Service Canada for past months. Two things about that.
+
+It's yours. It's federal money for months that already went by.
+
+And watch that AISH doesn't count the whole lump sum as income in the month it arrives and deduct against it a second time. They already deducted for those months. If that happens, tell us.
+
+## WHAT WE NEED FROM YOU
+If you can, send three things. No need to include anything with your name on it.
+
+What Service Canada says your actual monthly CDB is.
+
+What your AISH or ADAP statement shows as the deduction.
+
+What month the deduction started.
+
+If enough of us compare those numbers, this stops being a handful of people with a complaint and becomes something that can be put in front of the department with evidence behind it.
+
+You're not bad at math. The deduction and the payment were never the same number.
+
+## IF YOU NEED SOMEONE TO TALK TO
+If you're in crisis or you just need to talk to someone, please reach out. **988** for the Suicide Crisis Helpline, call or text, any hour. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour.`
+      },
+      {
+        title: "Some of your money is in the law. Some of it is a decision.",
+        date: "2026-09-11",
+        body: `I learned something this week that changed how I read everything, and I have written it up properly.
+
+Your living allowance, the $1,940 and the $1,740, is written into the regulation itself. Section 8. To change either of those, the government has to make an Order in Council, and Orders in Council get published. If it changed, you would be able to see it.
+
+**The $200 transition benefit is not in the regulation.**
+
+Neither is its December 2027 end date. Schedule 3 says a transition benefit **may** be provided, and that is all it says. No amount. No end date. Both of those come from the policy manual.
+
+And the regulation says at section 12 that the amount of a personal benefit is determined by the Minister, and that the Minister may determine how often it is provided.
+
+So the $200, and the date it stops, are ministerial decisions. They can be changed without an Order in Council and without anything appearing in the Gazette.
+
+The same is true of the $590 employment supports cap.
+
+## READ THIS PART CAREFULLY, BECAUSE I DO NOT WANT TO FRIGHTEN ANYBODY
+This is not a prediction. The $200 is real, it is being paid, and I have no information suggesting anyone intends to change it.
+
+What it means is that the protection sits in a different kind of place from the thing it is protecting. The money underneath moves visibly. The payment keeping transitioned clients whole can move quietly.
+
+So watch the policy manual, not only the Gazette. Those pages carry a version date and keep their older versions, which means you can see when one last changed.
+
+## TWO OTHER THINGS IN THE DOCUMENT
+**A withdrawal.** I told you not to budget from the couple rates of $1,708 and $1,532 because they looked like they conflicted with the 88 per cent in the regulation. There is no conflict. They are 88 per cent rounded up to the whole dollar under a written rounding policy, eighty cents a month in your favour. You can budget from them and I am sorry for the week of doubt.
+
+**And a month you may not have been told about.** The transition happened on July 2. The manual dates the transition benefit from August 2026. If you transitioned on the 2nd and expected the $200 in your July payment, check your statement and ask in writing.
+
+Every provision is quoted word for word so you can check it against the regulation yourself. The document is on the site under the September documents, as *Where the rules live*, and the shared source index is there with it.
+
+## IF THIS ONE LEFT YOU WORRIED
+Nothing here has changed your payment. If it has stirred something up anyway, **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
+        title: "How many people are on ADAP? Nobody can tell you.",
+        date: "2026-09-11",
+        body: `Here is a question anybody should be able to answer in two minutes.
+
+Alberta split its disability income assistance into two programmes on July 2. How many people are on AISH now, how many are on ADAP, and how many moved?
+
+**You cannot find out.**
+
+The AISH caseload dataset on Alberta's open data site was updated on September 3 of this year. The numbers in it stop at June 2026, the last full month before the split. It was refreshed two months after the transition and still stops before it.
+
+Search the same catalogue for ADAP and you get no matching datasets at all.
+
+So ten weeks after the change, there is no published figure for how many people are on either programme.
+
+The last baseline anyone has is June 2026. Eighty thousand, one hundred and seventy two people on AISH. Twelve thousand four hundred and sixty six of them with employment income, which is fifteen and a half per cent.
+
+And it is not the only gap.
+
+How much you may earn before it comes off your cheque is not set in the regulation. Schedule 1 section 4(2) says the Minister may set it by order. That order has never been published. The $350 and the $700 and the rest exist only in a policy manual.
+
+The amount and end date of the transition benefit are ministerial determinations rather than regulation. That is set out in the companion document.
+
+## THE PART I AM MOST PLEASED WITH
+The document ends with a four-step table telling you how to confirm every statement in it yourself. It takes about ten minutes.
+
+Search the open data catalogue for ADAP. Open the AISH caseload dataset and see where it stops. Open the regulation at Schedule 1 section 4(2). Open the manual page and use its version selector.
+
+Four steps. You will get exactly the same nothing I got.
+
+That is the whole point. Nobody has to take my word for any of this, and I would rather you did not. Go and look.
+
+Every source is listed with the date it was opened and what was taken from it.
+
+If you are a journalist, a councillor, or anybody who works with this file, this is the one to read first. It explains why every other argument about this programme has to be made from the edges.
+
+The document is on the site under the September documents, as *What the public cannot check*, with *Where the rules live* and the shared source index beside it.`
+      },
+      {
+        title: "I asked seven questions in August. I got one answer yesterday. Today I sent back ten.",
+        date: "2026-09-11",
+        body: `On August 17 I wrote to Minister Neudorf about something that decides whether people keep their housing.
+
+When your rent is paid straight to your landlord out of your benefit, and your file moves from AISH to ADAP, does that payment keep happening?
+
+The legislation says a director **may** continue those arrangements. Not must. May. For anyone whose rent reaches their landlord that way, the difference between may and must is the difference between housing that holds and housing that does not.
+
+An automated reply arrived the same minute. It thanked me, said the Minister appreciated my interest in engaging with his office, explained that meeting opportunities were being reviewed in alignment with ministry priorities, and then listed crisis phone numbers.
+
+The real response came today. Twenty-five days.
+
+It answers one of the seven. Financial Administrator arrangements in place before July 2026 stayed in effect through the transition. That is a real answer and I am glad to have it.
+
+The other six are not addressed.
+
+## BUT THE LETTER VOLUNTEERS SOMETHING I DID NOT ASK
+"A temporary system issue resulted in some payments being deposited directly to client bank accounts rather than issued to landlords. Clients were notified of this issue and advised to forward payments to landlords directly. The issue is now resolved."
+
+Three claims. That it happened. That you were told. That it is fixed.
+
+## AND THEN THERE IS THE PART I DID NOT SEE UNTIL I READ IT TWICE
+The Minister's letter explains that a Financial Administrator is appointed when someone lacks the capacity to manage their own money, and that one can be appointed **without consent** when a doctor has determined the person lacks that capacity.
+
+The very next paragraph says the money was put into those same people's bank accounts and they were told to forward it to their landlords themselves.
+
+Read those two paragraphs together.
+
+The department's reason for the arrangement is that the person cannot be relied upon to manage the money. The department's answer when it went wrong was to hand them the money and ask them to manage it.
+
+For some of these people there is a medical determination on file saying they cannot make financial decisions. They were expected to notice an unexpected deposit, work out it was not theirs, and send it to the right place. Many of them were never told it had happened.
+
+## SO I WROTE BACK THIS AFTERNOON
+Six questions reworded and shortened, in case the original wording was the problem. And four new ones, including the one that matters most:
+
+Where the money was not forwarded, and rent went unpaid, what is the department's position on the arrears, the late fees, the lost tenancies? Will the department make those people whole?
+
+The whole exchange is on the site under the September documents. All four emails, in order, unedited. Read it and see what you think.
+
+## AND I STILL NEED TWO THINGS FROM YOU
+Did anyone from the department tell you your payment had gone wrong, or did you find out yourself?
+
+Was it August only, or September as well?
+
+Tell us either way, even if nothing went wrong for you, because a count of only the people with problems tells us nothing.
+
+Whatever comes back, I will post it here the same way, whatever it says.
+
+## IF THIS ONE LANDED ON YOU
+If your rent went unpaid and you are dealing with arrears or a notice, you are not the only one and it was not your mistake. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
+        title: "Your rent could go up in January. The rule is already signed.",
+        date: "2026-09-07",
+        body: `This one is for anyone in social housing or community housing, especially if you have children. It hasn't been announced anywhere I can find, and if you go looking it up yourself you'll conclude nothing has happened.
+
+Something has happened.
+
+## HOW RENT WORKS NOW
+Rent in social housing is based on your income, roughly 30 percent of it. Income is defined by **line 15000** of your tax assessment.
+
+The Canada Child Benefit doesn't appear on line 15000. Neither does the Alberta Child and Family Benefit. That's why they've never counted toward your rent.
+
+## WHAT CHANGED
+On June 29, 2026 the Minister of Assisted Living and Social Services signed **Ministerial Order 2026-018**. It was filed on July 9 as **Alberta Regulation 180/2026**. It comes into force **January 1, 2027**.
+
+It adds one new subsection to the Social Housing Accommodation Regulation. Here it is in full:
+
+"The Minister may include any income or any other amount received by a member of a household that is not included in line 15000 of the member's Notice of Assessment in the calculation of the total annual income of a household for the purposes of setting basic rent."
+
+That's it. That's the whole change.
+
+## WHAT IT MEANS IN PLAIN TERMS
+It doesn't mention child benefits. It doesn't need to. Child benefits are exactly what isn't on line 15000.
+
+Before this, the Minister could only take income **out** of the calculation. Now the Minister can add income **in**.
+
+## THREE THINGS THAT FOLLOW, AND THE SECOND IS THE IMPORTANT ONE
+**It's already law.** Signed, filed, done. The only thing still to come is the date.
+
+**Once it's in force, nothing further has to happen.** No new regulation. No notice. No consultation. No public step of any kind. From January 1 the Minister can decide to start counting child benefits, and the decision may leave no public trace at all.
+
+**It's broader than child benefits.** It says any income or any other amount not on line 15000. Child benefits are the obvious use. They aren't the limit of it.
+
+## WHY YOU CAN'T FIND IT
+If you look up the regulation online today, you'll see the old text with none of this in it. That's because a change doesn't appear in the consolidated version until it comes into force.
+
+So the version you can check says nothing has changed. It's out of date and won't catch up until January.
+
+That's how this nearly got past us. It was found in the Ministerial Orders register and the Gazette index, not in the regulation itself.
+
+## ROUGHLY WHAT IT COULD COST
+Rent is about 30 percent of household income, so as a rough guide, roughly **$30 more a month for every $100 counted**.
+
+If your child benefits are $500 a month, that's in the neighbourhood of $150 more in rent. I'm not going to do anyone's individual number, but that's the scale.
+
+## WHAT TO DO, AND YOU HAVE ABOUT SIXTEEN WEEKS
+If you're signing or renewing a lease this fall, ask your housing provider **in writing, before you sign**, what income will be counted from January 1, 2027 and what your rent would be under the new calculation. Get the number before you commit, not after.
+
+If you're already in a unit, ask the same question in writing now. An answer in writing is what you point at if the number changes later.
+
+And if you get an answer, tell us. Housing providers may not all know this is coming, and what they say will tell us how it's actually being applied.
+
+## ONE NARROW PIECE OF GOOD NEWS
+The new power is written for setting **basic rent only**. The older power reaches eligibility and prioritisation as well, and this one doesn't. Read literally, that means income added under this rule raises your rent but shouldn't affect whether you qualify for housing at all.
+
+That's my reading of the words and it hasn't been tested against how they apply it. Worth knowing, not worth relying on.
+
+## TWO OTHER THINGS IN THE SAME INSTRUMENT, BOTH ALSO STARTING JANUARY 1
+The exempt asset list is rewritten. First home savings accounts, pension funds, RDSPs, RESPs, RRIFs, RRSPs and TFSAs.
+
+And lodge rates get a new calculation with a minimum monthly disposable income amount of $375, indexed annually from January 1, 2027 by the Alberta escalator. Management bodies have to be charging the minimum basic lodge rate by January 1, 2028.
+
+## WHERE THIS CAME FROM
+Ministerial Order 2026-018, Alberta Regulation 180/2026, on the King's Printer Ministerial Orders register, and confirmed in the Alberta Gazette Part II cumulative index of August 17, 2026.
+
+You can read it yourself. That's always the point.
+
+Sixteen weeks. Ask before you sign.`
+      },
+      {
+        title: "The $150 federal supplement is not deducted. Here is where it says so.",
+        date: "2026-09-03",
+        body: `Short version first, because a lot of people have been asking and bracing for the answer.
+
+Ottawa is sending a $150 payment to people who get the Canada Disability Benefit. It's meant to cover what doctors charge to fill out the disability tax credit form. It's automatic and there's nothing to apply for.
+
+**Corrected September 4.** This note first said it was a one time payment arriving this month for everyone. Neither is right. It is paid again each time your disability tax credit is re-certified, because that is when the doctor's fee comes round again. And the timing depends on when your CDB started:
+
+- **September 2026** if you received a CDB payment between July 1, 2025 and June 30, 2026, including if you no longer receive it.
+- **February 2027** if your first CDB payment landed on or after July 1, 2026, or you were re-certified between July 2025 and January 2027.
+- **From March 2027** it arrives with your first payment, and again after each re-certification.
+
+If you applied for the CDB this summer, you are in the February group. If yours does not arrive this month, that is not an error and not something you did wrong.
+
+**Alberta does not count that $150 as income. It should not be deducted from your AISH or ADAP payment.**
+
+I know that's not what most of us expected, so here's where it comes from.
+
+## WHERE IT SAYS SO
+It's in the new regulation, AR 96/2026, in Schedule 1, section 1(1)(e). That's the part that lists what a director has to count as income.
+
+Clause (e) covers the Canada Disability Benefit. But it only counts a CDB payment as income if the payment meets two conditions, and the first one is that it **wasn't** paid to cover the cost of applying for the disability tax credit.
+
+The $150 was paid for exactly that. So it doesn't meet the description, and it doesn't get counted.
+
+You can read it yourself here. Go to Schedule 1, and look at clause (e).
+
+https://kings-printer.alberta.ca/1266.cfm?page=2026_096.cfm&leg_type=Regs&isbncln=9780779862221&display=html
+
+## DO NOT MIX THIS UP WITH YOUR MONTHLY CDB
+This is the part I want to be really clear about, because getting it backwards will cost somebody money.
+
+Your regular monthly CDB, currently up to $204.20, is still deducted dollar for dollar. Nothing about that has changed. Alberta is still the only province doing it.
+
+The $150 is a separate one time payment for a different purpose, and that one is not deducted. Same federal program, two different treatments.
+
+## WHAT TO DO WHEN IT LANDS
+Look at your next deposit statement.
+
+If the $150 isn't showing as a deduction, good, nothing to do.
+
+If it is showing as a deduction, that's an error and it's one of the cleanest ones we've ever been able to point at, because the regulation says it plainly. Send an email to your zone office, say the September supplemental payment appears to have been deducted, and ask for it to be reviewed against **Schedule 1 section 1(1)(e) of AR 96/2026**. Then tell us, because if it happened to you it's happening to other people.
+
+Put it in writing. Always in writing.
+
+## ONE MORE THING
+You don't apply for this. There's no form, no phone call, no website. If anyone contacts you asking you to apply for the $150 or asking for your banking details to release it, **that's a scam and you should ignore it.**
+
+## AND CREDIT WHERE IT BELONGS
+I didn't find this. Ann Nicol did. She read the federal page, went and opened the actual regulation, and noticed a qualifier sitting inside clause (e) that everybody else had read straight past, including me. Then she went back and got a clear photo of the whole clause so it could be checked properly.
+
+That's how this works. One person reads the thing nobody reads and the rest of us stop worrying about $150 we were never going to lose.
+
+Thanks Ann.`
+      },
+      {
+        title: "Won the appeal. Still didn't get paid.",
+        date: "2026-09-02",
+        body: `I want to tell you a story, and it isn't from our community. It's from the Alberta Ombudsman's own annual report, the one that just came out.
+
+A man on AISH, the report calls him Victor, needed to move a wood-burning stove so his pipes wouldn't freeze over the winter. He applied for an Emergency Needs Allowance. AISH agreed to pay for the move but turned down the $420 deposit the contractor needed up front.
+
+So he appealed. And he won. The Appeals Secretariat ruled that AISH had to pay the deposit, because it was in essence a down payment on work they had already agreed to.
+
+Then nothing happened. He didn't get the money. Months went by. He was only paid after he complained to the Ombudsman, who found what the report calls an oversight in the repayment process.
+
+So he was right. A review panel said he was right. And $420 still didn't move until a provincial watchdog asked about it.
+
+That is why I keep telling you to put things in writing and keep your dates. **Winning the decision is not the same as getting the money.** The paper trail is what you have when a decision gets ignored.
+
+## HERE'S THE OTHER THING IN THAT REPORT
+In the year covered, the ministry that runs AISH, Assisted Living and Social Services, drew more complaints to the Ombudsman than any other ministry in the province. **378** of them, out of 3,134 complaints opened in total. Ahead of Jobs and Immigration at 231, Justice at 209, Children and Family Services at 177.
+
+I want to be careful and fair about that number, because the care is what makes it worth something.
+
+The report covers the year that ended March 31, 2026. That is **before** the ADAP transition started. So the 378 is the picture from before. None of the payment holds, the misdirected files, the letters that never came, none of what has landed since July is in that figure.
+
+Which means the honest version is this. Even before the transition, this was already the most-complained-about ministry in Alberta.
+
+And here is the part I would sit with.
+
+Everything happening to us since July 2 will not appear in an Ombudsman report until roughly this time next year. That is a year between what is happening now and when anyone official counts it.
+
+That gap is why what you send us matters. When that report lands, we want to have our own record ready to sit beside it.
+
+## ONE PRACTICAL THING, BECAUSE THIS IS USEFUL AND NOT ONLY MADDENING
+If a decision has gone your way and the money hasn't followed, that is a complaint the Ombudsman can take. They will want to see that you tried to sort it with the program first, which for most people means asking in writing and keeping the answer.
+
+That is the whole reason I keep saying get it in writing. Not because paper is satisfying. Because it is what you need to hand somebody when the decision alone isn't enough.
+
+So don't get discouraged and don't go quiet. Keep your letters. Keep your dates. Victor's $420 is proof that the road does not end when a program ignores a ruling in your favour.
+
+You are not imagining the problem. It is in the government's own report.
+
+## READ IT YOURSELF\nThe report is public and free. Victor's case and the complaint figures are both in it.\n\nhttps://www.ombudsman.ab.ca/wp-content/uploads/2026/09/Alberta-Ombudsman-2025-2026-Annual-report-web.pdf\n\n_Source: Alberta Ombudsman 2025-2026 Annual Report, published September 2026._`
+      },
+      {
+        title: "The referendum in plain language (October 19, 2026)",
+        date: "2026-09-04",
+        body: `**UPDATED SEPTEMBER 4: THE MAIL-IN DEADLINE MOVED.** It is now **September 25**, not October 9. Elections Alberta changed it on September 3, after this note first went up. If you want a mail-in ballot, request it now. Details in the dates section below.
+
+Fourteen people asked me to explain these questions, and then more asked me to go further, because the ballot uses words like Constitution and Senate as though everyone already knows them.
+
+So here is the whole thing in one place.
+
+**I am not telling anyone how to vote and I will not.** This campaign is non-partisan and stays that way. What I am doing is making sure nobody here has to vote on questions they could not read. That is the same work we do with every other government document.
+
+## THE DATES, BECAUSE ONE OF THEM CATCHES PEOPLE
+**Requests for a mail-in ballot close September 25.** This changed. It was October 9 when this note first went up, and Elections Alberta moved it forward on September 3 because request volumes surged and Thanksgiving falls on Monday, October 12. Thank you to Theresa Mae Donaldson for catching it.
+
+If you are voting by mail, your completed package has to be **received** by Elections Alberta before 5pm on **October 16**. Not mailed by then. Received. Post takes days, so send it early. That date has not changed.
+
+You must include copies of your ID. Copies, not originals.
+
+**If you miss September 25, you have not lost your vote.** Advance voting and election day are both still open to you, and the voting register is updated so nobody can vote twice.
+
+Two small things Elections Alberta clarified. If the declaration in your package has outdated wording on it, you can cross it out. And they will accept your ballot however it is folded.
+
+Advance voting is **October 13 to 17**, 9am to 8pm, at any advance voting location in your electoral division.
+
+Election day is **October 19**, 9am to 8pm, and you have to vote in the electoral division where you live.
+
+Two things worth knowing if getting to a polling place or filling in a form is hard for you. A special ballot package can be picked up in person, and **a designate may pick one up on your behalf**. And a person may apply for a special ballot **on behalf of an elector who requires assistance due to disability or illness**. Note that vouching is no longer accepted as identification, so you need your own ID, and apply under your **legal name** or the request cannot be processed.
+
+## HOW THE BALLOT WORKS
+Questions 1 through 9 are yes or no. Question 10 asks you to pick 1 of 2 options.
+
+## THREE THINGS TO KNOW BEFORE THE QUESTIONS
+**What the Constitution is.** It is the rulebook for how Canada is run, and its main job is dividing up who makes which laws. Ottawa handles things like criminal law and the armed forces. Provinces handle health care, education and social services. AISH and ADAP exist because income assistance for disabled people is a provincial responsibility.
+
+That division was written in 1867. In 1982 Canada added the Charter of Rights and Freedoms, and for the first time a set of rules for changing the Constitution ourselves. Before that, changing it meant asking the British Parliament.
+
+**How changing it works.** Questions 6, 7, 8 and 9 all ask whether Alberta should work with other provinces to amend the Constitution, so this matters.
+
+There is no single route. The common one is called the 7/50 rule: you need the House of Commons, the Senate, and at least 7 of the 10 provinces adding up to at least half of Canada's population. Because Ontario and Quebec hold a large share of the population, reaching half without one of them is difficult.
+
+For changes considered fundamental there is a unanimity rule. Those need the Commons, the Senate, and every single province. All 10. One province saying no ends it.
+
+So a yes on any of those questions is a vote for Alberta to try. It is not a vote for the change to happen, because Alberta cannot do any of it alone.
+
+**Who controls immigration now.** Immigration is one of the few areas the Constitution gives to both levels at once. Provinces can make immigration laws, Ottawa can too, and where they conflict the federal law wins.
+
+In practice Ottawa sets overall levels, runs the main programs, and makes all decisions about citizenship and refugee claims. Provinces already have a role through nominee programs, and Alberta runs one.
+
+Also worth knowing: immigration status is not one thing. Citizens, permanent residents, work permit holders, students and refugee claimants are different categories with different rights. Several questions draw a line between permanent status and temporary status.
+
+## QUESTION 1, IMMIGRATION LEVELS
+Asking: should Alberta take more control over immigration, with the stated purposes of lowering immigration numbers, favouring people coming for work, and putting Albertans first for new jobs.
+
+Yes means you support Alberta seeking that control. No means you do not.
+
+Note that this is not asking whether Alberta should be involved in immigration. It already is. It is asking about more control, for those stated purposes.
+
+## QUESTION 2, WHO CAN USE PROVINCIAL PROGRAMS
+Asking: should there be a law saying only Canadian citizens, permanent residents, and people with an Alberta-approved immigration status can use provincially-funded programs, including health care, education and other social services.
+
+Yes means you support that law. No means you do not.
+
+**One factual note, because it is my subject.** AISH and ADAP are provincially-funded social services. The question gives examples rather than a list, so disability income assistance falls inside what it describes. I am saying that because the ballot does not. What you make of it is yours.
+
+This question is also not about who comes to Canada. Access to provincial programs is already Alberta's responsibility, so this is about how Alberta uses power it already has.
+
+## QUESTION 3, A WAITING PERIOD
+Asking: assuming citizens and permanent residents keep qualifying as they do now, should people with a temporary immigration status have to live in Alberta for at least 12 months before they can get any provincially-funded social support.
+
+Yes means you support the 12 month wait. No means you do not.
+
+That opening assumption is written into the question. Read it and decide what weight to give it.
+
+## QUESTION 4, CHARGING FEES
+Asking: assuming citizens and permanent residents keep qualifying as they do now, should Alberta charge a fee or premium to people with a temporary immigration status, and their families, for using health care and education.
+
+Yes means you support charging that fee. No means you do not.
+
+## QUESTION 5, ID TO VOTE
+Asking: should there be a law requiring proof of citizenship, such as a passport, birth certificate or citizenship card, in order to vote in an Alberta election.
+
+Yes means you support requiring it. No means you do not.
+
+**Something to have in front of you.** Documents cost money and take time to replace. There is a member of this community right now who cannot use a food bank because her birth certificate is lost and she is waiting on a replacement. That is not an argument for either answer. It is a fact about who is affected when documents are required.
+
+## QUESTION 6, WHO PICKS JUDGES
+Asking: should Alberta work with other willing provinces to change the Constitution so provinces, not the federal government, choose the judges appointed to Alberta's King's Bench and Court of Appeal.
+
+Yes means you support pursuing that change. No means you do not.
+
+**Background.** Alberta has 2 levels of court. The Provincial Court handles most day to day matters, and Alberta already appoints those judges. The Court of King's Bench and the Court of Appeal are the higher courts, handling serious criminal cases, larger civil disputes and appeals. Their judges are appointed by the federal government, even though the courts are provincial institutions that Alberta pays to run. That arrangement dates from 1867, and the reasoning at the time was that judges appointed by one level of government and ruling on the other's laws are harder to pressure.
+
+## QUESTION 7, THE SENATE
+Asking: should Alberta work with other willing provinces to change the Constitution to abolish the Senate.
+
+Yes means you support pursuing that. No means you do not.
+
+**Background.** Canada's Parliament has 2 chambers. The House of Commons is the elected one. The Senate is the second chamber: 105 seats, of which Alberta holds 6. Senators are appointed rather than elected and serve until they turn 75.
+
+A bill must pass both chambers to become law. The Senate reviews what the Commons has passed. It can amend bills and delay them, and rarely blocks them outright.
+
+The main criticisms are that senators are unelected and that seats are not distributed by population. The main defence is that a second chamber catches problems and that a body not facing re-election can take unpopular positions.
+
+**One thing specific to this question.** In 2014 the Supreme Court of Canada ruled that abolishing the Senate requires the unanimous consent of the House of Commons, the Senate, and every provincial legislature. All 10 provinces. That is not an argument either way. It is the process this question asks Alberta to begin.
+
+## QUESTION 8, OPTING OUT OF FEDERAL PROGRAMS
+Asking: should Alberta work with other willing provinces to change the Constitution so a province can opt out of federal programs in areas like health care, education and social services, and still keep the federal money attached to them, to spend on its own programs instead.
+
+Yes means you support pursuing that change. No means you do not.
+
+**Background.** Ottawa sends provinces large amounts every year for health and social programs, and that money comes with conditions. The best known are in the Canada Health Act, which requires things like universal coverage and no user fees for insured services if a province wants its full health transfer.
+
+The phrase to notice is "without losing any of the associated federal funding." That is what the question asks Alberta to pursue. Whether Ottawa would agree is a separate matter, and one an amendment would have to settle.
+
+## QUESTION 9, WHOSE LAW WINS
+Asking: should Alberta work with other willing provinces to change the Constitution so that in areas where both governments can make law, provincial law takes priority over federal law when the 2 conflict.
+
+Yes means you support pursuing that change. No means you do not.
+
+**Background.** Right now, where both can legislate and the laws conflict, the federal law takes priority. This question asks about reversing that.
+
+## QUESTION 10, SEPARATION. THIS ONE IS NOT YES OR NO.
+You pick 1 of 2 options.
+
+Option 1: Alberta should remain a province of Canada.
+
+Option 2: Alberta should start the legal process required under the Constitution to hold a second, binding referendum on whether to separate from Canada.
+
+So option 2 is not a vote to separate. It is a vote to begin a process toward a later vote that would be binding.
+
+A binding referendum is one the government is legally required to act on. A non-binding one is advice. The Order in Council for Question 10 states that the result of this question is not binding on the government.
+
+## A LAST WORD
+This is the campaign doing what it always does, which is take documents written in a register most people cannot use and put them in plain words. Nothing here is an endorsement of anything.
+
+Nine of these are yes or no. One is a choice between 2 options. All of them are yours.
+
+If any part of this is still unclear, reach out and we will explain it again a different way. That is the whole point.`
+      },
+      {
+        title: "How much your partner can earn while you are on AISH or ADAP",
+        date: "2026-08-31",
+        body: `A few of you have asked this, and there has been a $1,200 number going around. That number is real, but it is being used for the wrong thing, so let me sort it out, because if you are budgeting you need the right one.
+
+There are two different rules, and which one applies depends on how your partner gets their money.
+
+## IF YOUR PARTNER WORKS
+The first **$1,500 a month** of their job income is fully protected before it touches your cheque. Above $1,500, it is a gradual reduction, not dollar for dollar and not a cliff.
+
+The government's own example: a partner earning $1,800 a month has the first $1,500 fully exempt and only the last $300 partially reduced. So a working partner can bring in a fair amount before it affects you.
+
+## IF YOUR PARTNER'S MONEY COMES FROM CDB, CPP, EI, WCB OR A PENSION
+That is a different rule. The first **$1,200 a month** is fully protected, and then a quarter of anything above $1,200 is protected too, so only 75% of the part over $1,200 counts.
+
+This one is written right into the regulation, so it is the one you can point to on paper.
+
+## THE QUICK VERSION
+- Partner works: **$1,500** protected.
+- Partner gets CDB, CPP, EI, WCB or a pension: **$1,200** protected, plus a bit more.
+
+That is the same under both AISH and ADAP.
+
+## TWO HONEST NOTES
+The $1,500 working-partner number is set by a ministerial order the government has not published, so it is the current figure in their own manual and website, but I would run your real numbers through the AISH and ADAP benefit estimator before locking a budget to it. The $1,200 one you can rely on hard: it is in the regulation itself.
+
+And neither is frozen. The $1,200 goes up January 1, 2027. The $1,500 goes up whenever minimum wage rises. So if you are writing your budget down, put **current to end of 2026** beside these, and recheck in January.
+
+If you are trying to work out where your own household lands, reach out and tell us how your partner earns their income, and we will walk through it with you. And as always, the safest thing is to ask the program in writing and keep their answer.`
+      },
+      {
+        title: "Something we can put forward, and there's a deadline",
+        date: "2026-08-26",
+        body: `Most of what I ask of you is defensive. Write this letter because something went wrong. Keep that record in case they say you never reported. Appeal that decision before the clock runs out.
+
+This one is different. This is us putting something on the table before anything has gone wrong.
+
+## WHAT IT IS
+Once a year, the Family and Community Support Services Association of Alberta meets and votes on resolutions. A resolution is a formal request. If it passes, the whole association carries it to the government.
+
+FCSS is the preventive services arm in nearly every town in Alberta. Parenting programs, seniors' support, help getting to appointments. Their whole job is to stop a problem before it becomes a crisis.
+
+We want disability income on that list this year.
+
+## THE CATCH, AND IT'S THE WHOLE THING
+You and I cannot submit a resolution. Only a town council or an FCSS board can.
+
+So the job is to ask them. **One councillor saying yes is all it takes.**
+
+## WHY FCSS IS THE RIGHT ROOM
+When income drops, the need does not go away. It moves. It shows up at the food bank, the housing office, the crisis line, and the FCSS desk.
+
+So this is not us asking them for a favour. It is us pointing out that this is already landing on them, and that fixing the income is cheaper than cleaning up after it. That's their own logic, we're just saying it back.
+
+**The filing deadline is Saturday September 26.** But the date that actually matters is earlier: FCSSAA can send a resolution back if there is no sign the council endorsed it, and councils meet about twice a month with agendas closing a week ahead. So aim for the **first week of September**. If the 26th does pass there is an emergent route, but it is harder and not guaranteed.
+
+## WHAT'S ON THE SITE
+Four things, all free, all under the FCSSAA Resolution section.
+
+Start with the plain-language guide. It explains what FCSS is, what a resolution is, and what to do, in short sentences with no jargon.
+
+Then there's the resolution itself as its own file, so you can attach it to an email. There's the full package with the whole argument and the sourcing, for when somebody asks for detail. And there's the contact list.
+
+There's also an email tool. Pick who you're writing to, fill in your town and your name, and the letter writes itself. Then attach the resolution and send.
+
+## WHAT YOU DO. ABOUT FIFTEEN MINUTES.
+Search your town's name and the word council. Then your town's name and FCSS. Send the email. If you can't find the right person, reach out to us and we'll look for you.
+
+Twelve councils have already spoken up. Barrhead, Calgary, Camrose, Claresholm, Cochrane, Cold Lake, Edmonton, Grande Prairie, Lethbridge, Red Deer, Rocky Mountain House and St. Albert have all either passed a motion or written to the Minister. If you live in one of those, say so in your email. "Our council has already written to the Minister. I'm asking you to take the next step."
+
+Medicine Hat isn't on that list but our council has been engaged there, so it's worth a letter too.
+
+One line worth adding if you can manage it. After the ask, one or two sentences about what this has meant for you. Not because it's sad. Because it's real, and it's from somebody who lives in their town. That's the strongest thing in the email.
+
+And tell us who you wrote to. Not to keep score. So nobody gets missed, and no council gets three emails from three of us while the next town gets none.`
+      },
+      {
+        title: "If your August or September payment came in short, read this",
+        date: "2026-08-26",
+        body: `I've now had several people tell me the same thing, and the reason they're being given is the same each time.
+
+The situation looks like this. Somebody earned employment income during 2025. Their payment gets reduced, sometimes by hundreds of dollars, sometimes twice in a row. When they ask why, they're told it relates to the income they earned last year.
+
+Here's what's worth knowing.
+
+The earnings exemption structure changed on July 2, 2026, when the new regulation came into force. Income earned in 2025 was earned when a different structure was in place.
+
+Whether the current rules can be applied to income earned before they existed depends on the transitional provisions, and I have not read them, so I'm not going to tell you it's wrong. What I will say is that it's a real question with a real answer, and the answer has to come from them in writing.
+
+## IF THIS IS HAPPENING TO YOU, HERE'S WHAT TO ASK
+Send this to your zone office:
+
+"Please confirm in writing what income amount was used to calculate my [MONTH] benefit, what period that income covers, what exemption amount was applied to income earned before July 2, 2026, and under what transitional provision. Please also confirm the date I was notified of this decision."
+
+That last line matters as much as the rest. If they reduced your benefit and never told you, that's a separate problem.
+
+## AND WATCH THE CLOCK
+A reduction is a decision. **The window to appeal is 30 days and it runs from the day you were told**, not from the day you work out what happened. If you were told in early August, some of that window is already gone.
+
+Filing an appeal is not the same as fighting. It can be a letter rather than the form. Your name, your file number, what you're appealing, and the date you were told. That's enough to stop the clock, and you can withdraw at any time. What it does is make somebody senior pull your file and look at it.
+
+One caution. Once an appeal is filed, the program won't consider new information, and the panel can only look at what they had when they decided. So if you have anything they haven't seen, send it in before you file.
+
+## IF YOU ARE SHORT RIGHT NOW
+If you're short on food or rent because of this, the 24 hour line is **1-866-644-5135** and emergencybenefits.alberta.ca works without phoning.
+
+And please tell us. If your payment was reduced and you were told it was because of last year's income, reach out. We want to know the month, the rough amount, and what they told you. Two people is bad luck. Several is a pattern, and a pattern with dates on it is something that can be put in front of the Minister.
+
+Money vanishing without an explanation is frightening, and chasing it while you are already unwell is worse. If tonight is heavy, **988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
+        title: "The new Alberta health card, and what nobody has been told",
+        date: "2026-08-19",
+        body: `A few people have raised this in the last day or two and there is a fair bit of confusion, so I had the government pages and the legislation read properly today. Here is what they say, what they do not say, and the one thing you should do this week.
+
+Start with the good news, because there is some and it matters most.
+
+**Your AISH or ADAP health benefits are a separate thing from your Alberta health card.** Your prescriptions, dental, optical, diabetic supplies, ambulance and AADL come from the disability program, not from the health card. There is nothing published anywhere saying those depend on your health card being current.
+
+So if you have been worrying that a health card problem could take your medication coverage, it does not appear to work that way. That is one thing off the pile.
+
+Now the rest of it.
+
+Since July 2 this year, new health cards carry an expiry date. If your health number is printed on the back of your driver's licence or ID card, that is the integrated card, and your health coverage expires the same day your licence does. One date for both. If you have a separate card, that one carries its own date printed on it.
+
+Before your card expires you have to revalidate. That means going in person to a registry office with photo identification, proof of an Alberta address dated within the last ninety days, and proof of your legal entitlement to be in Canada. For everyone on your account, including your children.
+
+If you do not do it by the expiry date, coverage is cancelled.
+
+An expired card can mean being turned away at a clinic or paying out of pocket. Emergency care is never refused, but you can be billed for it if your card has expired, and there is nothing published saying you get that money back once you sort it out.
+
+## THE QUESTION NOBODY HAS ANSWERED
+A lot of us are holding old paper cards with no expiry date printed on them at all. I checked my own and my children's tonight and there is no date on any of them.
+
+The government pages say new cards will have an expiry date, and that a card is valid if the expiry date has not passed. Neither of those sentences tells you what an old undated card is. I searched for it nine different ways and it is not published anywhere.
+
+So I do not know, and I am not going to pretend I do.
+
+What I am going to do is ask, in writing, and post whatever comes back. And what I would suggest you do is call and check your own coverage rather than guess.
+
+AHCIP is at **780-427-1432**, or dial **310-0000** first for toll free in Alberta. Open 8:15 to 4:30, Monday to Friday. TTY is **780-427-9999** or **1-800-232-7215** toll free. Anything to do with your own health information has to be by phone or in person, not email, so this is a call. Have your health numbers with you.
+
+Two questions. Is my coverage active for me and everyone on my account. And is this undated card still valid, or do I need a new one. Write down the name of the person you spoke to and the date.
+
+## THE PART THAT WILL HIT OUR COMMUNITY HARDEST
+Look at the list of what you need in order to keep your coverage. Photo identification. Proof of an address dated within ninety days. Proof of legal entitlement to be in Canada. Your current card, to hand in. A mailing address that reliably receives mail. The ability to physically get to a registry office.
+
+And money, if it happens through a licence or ID renewal. An ID card is $54.45 for five years. Exchanging a card to add your health number is $28.65. There is no fee waiver published for any of it.
+
+Now think about who is in this community. People without current identification. People who moved recently and have nothing in their own name. People whose mail does not reach them. People who cannot leave the house. People who do not have thirty dollars spare at the end of a month.
+
+Every one of those is a requirement someone has to meet to keep basic health coverage, and none of them has anything to do with whether that person is sick.
+
+One thing worth knowing if you cannot get to a registry. There is a remote application route for an ID card, for people who are medically homebound or temporarily outside Alberta. It is **form REG11197**. That will not be obvious to anyone and it may be the difference for a few people reading this.
+
+## AND THERE IS NO SIGN ANYBODY IS BEING TOLD
+I could not find a government news release announcing any of this. The information sits on webpages. There is nothing published describing a personal notice being sent to cardholders.
+
+So the likely way most people find out is when they are turned away at a clinic, or when they go to renew a licence.
+
+## WHERE THIS CAME FROM, AND WHERE IT WENT FURTHER
+This traces back to a 2015 Auditor General report. That report recommended one thing: a proactive check that people holding an Alberta health number still meet the residency requirements.
+
+It did not recommend expiry dates. It did not recommend putting health numbers on driver's licences. It did not recommend tying your health coverage to your licence renewal.
+
+And as of the Auditor General's own tracking in April this year, that 2015 recommendation is still not marked as done.
+
+I am not telling you what to make of that. I am telling you what was recommended and what was built, and both of those are on the public record where anyone can check them.
+
+## ONE MORE THING, FROM SOMEONE WHOSE JOB IT IS TO SAY IT
+Alberta's Information and Privacy Commissioner publicly recommended against putting health numbers on these cards. The Commissioner's office has said the Registrar of Motor Vehicles is not subject to Alberta's privacy laws, has no corresponding duty to protect that information, faces no consequences for a breach, and is not overseen by the Privacy Commissioner.
+
+That is the Commissioner's position, not mine. I am passing it on because it comes from the independent office whose job is exactly this, and because most people will never see a privacy news release.
+
+## WHAT I AM ASKING THE GOVERNMENT, IN WRITING
+Is an old paper card with no expiry date still valid, and if not, what is the deadline to replace it.
+
+How is a person notified that revalidation is due, how far in advance, and what happens if that notice does not reach them.
+
+Is there any fee waiver, or any accommodation, for someone who cannot attend in person.
+
+Are you reimbursed for what you paid while your coverage was lapsed.
+
+Was a privacy impact assessment done for the integrated card, and will it be released.
+
+I will post the answers, or the silence, either way.
+
+Check your cards tonight. Call tomorrow if there is no date on them. And write down what they tell you.`
+      },
+      {
+        title: "How to get your own medical records",
+        date: "2026-08-18",
+        body: `This is a different thing from requesting your AISH or ADAP file, so read the first bit carefully.
+
+Your AISH or ADAP file comes from the government, and that is the access to information request. There are forms and a walkthrough for that elsewhere on this site.
+
+Your medical records come from your doctor or the hospital. Different place, different request, different form. This is about that second one.
+
+Three people this week have told us their doctor retired and their new doctor is starting from nothing. If you are facing a fresh medical report, getting your old records is one of the most useful things you can do, because it gives your new doctor the history to work from instead of one appointment's worth of impressions.
+
+## YOUR FAMILY DOCTOR OR CLINIC
+Put your request in writing. An email or a letter, not a conversation at the front desk.
+
+Ask if they have their own form. Every clinic does it differently and there is no universal one, so ask rather than guess.
+
+Ask what it costs before they start. Clinics are allowed to charge for copying records and the amount varies. Get the number first so it does not arrive as a surprise.
+
+## IF YOUR DOCTOR HAS RETIRED
+This is the one people think is hopeless, and it is not.
+
+Try the clinic first. Records very often stay at the practice even after a doctor leaves.
+
+If the clinic has closed, or nobody there can tell you where your file went, call the College of Physicians and Surgeons of Alberta at **1-800-561-3899**.
+
+When a doctor closes or leaves a practice, they have to tell the College where their patient records went. And whoever ends up holding them stays responsible for them, retirement included. So your file has a keeper by law. The College can point you to who that is.
+
+## HOSPITAL RECORDS
+These are separate again, and they do not come from any doctor. You contact the hospital or facility directly and ask for their health records or release of information department.
+
+If you have been treated at several hospitals, that is a separate request to each one.
+
+## A FEW PRACTICAL THINGS
+Ask for a complete copy, not a summary. A summary is somebody else deciding what matters.
+
+Say what you need it for if you are comfortable doing so. Records for a disability application sometimes get handled differently from a routine request.
+
+Start now if you have a medical report coming. These take time, and if you are working to a deadline you do not want the records arriving after it.
+
+And keep whatever you get. Once you have your own copy, you have it for every application, reassessment, and new doctor after this one.`
+      },
+      {
+        title: "Something different: a national call for submissions",
+        date: "2026-08-18",
+        body: `This is not about a form, a deadline, or a deduction. It is an invitation, and I think some of you should take it.
+
+Disability Without Poverty is a national organization. They are holding their second annual symposium on December 2 and 3, timed with the UN International Day for Persons with Disabilities. The theme is the determinants of disability poverty, meaning what actually causes it. Financial security. How policy gets designed. Whether systems can be accessed at all. Social inequity. Political will.
+
+They are asking for submissions, and the deadline is **September 30**.
+
+Here is the part I want you to read twice. They are not only asking for academics. They say plainly that they want independent contributors and people with lived experience, and they particularly want to hear from disabled researchers, students, and people at intersections that usually get left out.
+
+And it does not have to be a paper. You can submit:
+
+- A recorded talk about something you have found or lived
+- A creative piece, a podcast, a video, art
+- A short video of five to seven minutes about something you are working on or something you have learned
+- Or you can take part in a live panel
+
+Videos need captions, and they say support is available if you need help with that.
+
+The form asks for an abstract of 500 words or less, and there is a space on it to say what accommodations you need to take part.
+
+The form is here: https://docs.google.com/forms/d/e/1FAIpQLSf5uRhJGmbou-LtBdNQ6BthvFlGHvjEJSbSWcg_NSU5GCaAHA/viewform
+
+Two honest things before anyone jumps in.
+
+This is not somewhere to get help with your own file. It is a place to contribute what you know. Different thing, and both matter, but I do not want anyone thinking this is a route to a resolution.
+
+And it is public and it is national. So do not put anything in a submission that you would not want permanently attached to your name. No file numbers, no medical detail you would regret sharing, nothing about anyone else without their say-so.
+
+What I would love to see from this community is somebody talking about what it is like trying to use these systems from the inside. The waiting. The forms that come back. The phone lines that go nowhere. That is the administrative accessibility theme, and there is nobody better placed to speak to it than the people here.
+
+I am putting a submission in on behalf of the campaign. I would rather not be the only voice from Alberta in that room.
+
+If you are thinking about it and are not sure where to start, say so and I will help you shape it. That offer is real and it is open to everyone.`
+      },
+      {
+        title: "Something coming in 2027 if you live in subsidized housing",
+        date: "2026-08-17",
+        body: `Read the first line twice before anything else.
+
+**This does not affect your AISH or ADAP cheque.** The Canada Child Benefit is still exempt there and nothing about that is changing. If you do not live in community housing and do not get the Rent Assistance Benefit, this does not touch you at all.
+
+Still here? Then this is about how your rent gets worked out.
+
+Right now the child benefits, the federal Canada Child Benefit and the Alberta Child and Family Benefit, are not counted as income when your rent or your rent assistance is calculated. That changes.
+
+From **January 1, 2027**, they get counted for the Rent Assistance Benefit. From **January 1, 2028**, they get counted for everyone in community housing.
+
+What that means in practice is that for a household with children, the income figure used to set your rent goes up, without a single extra dollar coming in. Money meant for your kids becomes money that sets your rent.
+
+You do not have to do anything today. It does not start until your first income review on or after that date. I am telling you now because a year of warning is better than a letter you were not expecting.
+
+What I would do is this. If you are in community housing or on the Rent Assistance Benefit and you have children at home, work out roughly what your child benefits come to in a year, and know that number. When your review letter arrives, you will be able to tell straight away whether what they have used matches.
+
+**Update, September 7.** We have now found and read the instrument. It is Ministerial Order 2026-018, filed as Alberta Regulation 180/2026, in force January 1, 2027 \u2014 and it is wider than described here: it lets the Minister count any income not on line 15000 of your Notice of Assessment, without naming any benefit at all. The full breakdown is in the note "Your rent could go up in January. The rule is already signed."`
+      },
+      {
+        title: "If you applied for AISH before July, here is how your application is being handled",
+        date: "2026-08-11",
+        body: `A member of this community spent nearly a month chasing an answer to one question. If you applied for AISH before the program changed on July 2, does your application go to AISH or to the new ADAP program?
+
+She now has a letter from the Minister answering it. And because we have had trouble in the past with people citing sections that turned out to be wrong, I went and checked the sections his letter names against the actual law before writing this. They are real and they are in force. Here is what it all means in plain words.
+
+## THE SHORT VERSION
+If you applied before July 2, your application gets assessed under the old rules first. If you are approved, you start on AISH, and then you are moved to ADAP.
+
+It is a roundabout path and I understand why it looks backward. But there are two things inside it that are worth knowing before you get discouraged.
+
+## THE PART THAT MAY WORK IN YOUR FAVOUR
+Being assessed under the old rules means being measured against the old medical criteria, not the new ones.
+
+And if you are approved this way, you get the transition allowance. That is the $200 a month that holds you at the old $1,940 rate. Someone applying fresh today, under the new rules, starts at $1,740 with no top-up at all.
+
+So this path, convoluted as it is, can leave you better off than a brand new application would. Slower and stranger does not mean worse.
+
+## ONE DATE TO BE CAREFUL WITH
+The letter says the transition allowance runs until December 31, 2027. That date is almost certainly correct, but I want to be straight about something I found when I checked. That exact date is not written in the Act the letter is citing. If it is the operative date, it lives in a regulation or a fact sheet, not in the law itself.
+
+I am not telling you the date is wrong. I am telling you not to treat that one letter as the final word on it, because the letter presents the date as part of the law when it is not.
+
+## THE QUESTION THE LETTER DOES NOT ANSWER
+Here is the gap, and it matters if it is you.
+
+Some people stay on AISH automatically. That is the categories for severe or profound developmental disability or PDD services, palliative or terminal conditions, continuing care, and age 60 and over.
+
+The letter says an approved application moves to ADAP. It does not say what happens if you are in one of those automatic-AISH categories and you applied before the change. On the wording of the law, the default is that everyone moves to ADAP, and staying on AISH needs a separate decision. The categories that keep people on AISH are not in the law itself, they are in a regulation, and that is the piece nobody has confirmed for people in this exact situation.
+
+So if you applied before July 2 and you belong in one of those automatic categories, that is the question to put to the Minister's office in writing. If my application is approved under the old rules and I meet an automatic AISH retention category, do I stay on AISH or am I moved to ADAP, and which rule decides it.
+
+## WHAT TO DO
+If this is your situation, you do not need to do anything different with your application. It is already in the queue and it will be assessed.
+
+If you are in one of the automatic-AISH categories, ask that question above in writing and keep the answer.
+
+And the thing I say every time, because it is still true. There is no deadline to be assessed for AISH. If you end up on ADAP and believe you belong on AISH, the government covers one medical assessment, it has no expiry, and you have to ask for it.
+
+Thank you to the member who chased this for a month and brought the letter back. A month of one person's persistence just became something the whole community can use.`
+      },
+      {
+        title: "If your payment hasn't arrived, here is what worked today",
+        date: "2026-08-10",
+        body: `A member of this community went thirteen days past her deposit date. Days of high call volume messages and no answers.
+
+Today she went above the call centre. Within hours: a supervisor on the phone, a deposit confirmed for tomorrow, an email confirming it in writing, and an emergency food benefit approved.
+
+Here is the ladder, because most people don't know there is one.
+
+## 1. THE CALL CENTRE IS THE BOTTOM RUNG, NOT THE ONLY RUNG
+AISH and ADAP benefit inquiries: **1-833-382-4081**
+
+If you're getting nowhere, stop redialing. Go up.
+
+## 2. ALBERTA SUPPORTS CAN ROUTE YOU
+**1-877-644-9992**, Monday to Friday, 7:30 am to 8:00 pm.
+
+Say plainly that you want the matter escalated to a program supervisor.
+
+## 3. THE MINISTRY'S MEDIA LINE, AND YES, REALLY
+**780-643-6210**
+
+I want to be straight about what this is, so nobody is caught off guard. This is the publicly listed contact for the press secretary at Assisted Living and Social Services. It's on alberta.ca's media inquiries page. It is not a client service line and it is not staffed to handle your file.
+
+Our member called it today after the client lines gave her nothing. She left a message describing what had happened. She had a call back from an AISH program supervisor, and her payment was confirmed.
+
+If you call, keep it short and factual. Your name, that your payment is overdue, how many days, and that you've been unable to get an answer through the regular lines. You will most likely be routed rather than helped on the spot. Routed is the point.
+
+And notice what this means. The press secretary at that number is the person who told CBC that every payment issue would be corrected in full by July 31. Our member was still unpaid on August 10. The office that made the promise is the office that finally moved her file.
+
+## 4. EMERGENCY BENEFITS EXIST AND YOU CAN GET THEM TODAY
+The 24-hour Income Support Contact Centre runs every day, evenings, weekends and holidays.
+
+**780-644-5135** or toll free **1-866-644-5135**
+
+Email: alss.iscc@gov.ab.ca
+
+Emergency help for basic needs including food, shelter and transportation. Food and transportation can be sent by Interac e-Transfer.
+
+Pre-apply online at emergencybenefits.alberta.ca, then phone to confirm eligibility. Doing the online part first speeds up the call.
+
+## 5. YOUR MLA'S CONSTITUENCY OFFICE
+A call from a constituency office moves faster than anything you can do alone. They do this every week. They'll need your written consent to speak about your file, so ask for the form on the first call.
+
+## 6. THE ALBERTA OMBUDSMAN
+**1-888-455-2756**
+
+For procedural failures once you've tried the program. Slower, and not the tool for money this week, but it builds the record.
+
+Within Alberta, dial **310-0000** first and any toll free number is free.
+
+## TWO THINGS, EVERY TIME
+Get it in writing. Our member has an email confirming her deposit. A verbal promise from a call centre is worth almost nothing three weeks later.
+
+Write down who you spoke to and when.
+
+## AND THIS PART MATTERS
+The department stated publicly that all August payment errors were corrected in full by July 31. One of our members was still unpaid on August 10. If you are still waiting, you are not an isolated case and you have done nothing wrong.
+
+If you're in this, tell us. Your town, and roughly when your deposit was due. No file numbers, no personal details. The official position is that nobody is still waiting. The only way to change that is to show otherwise.
+
+Waiting on money you were counting on is frightening, and thirteen days of it is worse. If tonight is heavy, **988** answers by call or text any time, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
+        title: "Money you may already qualify for and nobody told you about",
+        date: "2026-08-10",
+        body: `A member of this community found something by accident that she'd been eligible for the whole time. She's given me permission to share it because she wants the rest of you to know.
+
+It's called the **CPP Child Rearing Provision**.
+
+## WHAT IT IS
+If you stopped working, or cut your hours, to care for a child under seven, those low earning years drag down your CPP calculation. The Child Rearing Provision takes them out of the math.
+
+It isn't a separate benefit. Nobody hands you a new cheque. It changes how your CPP is worked out, and Service Canada only applies it if it makes your amount higher. It can never make anything lower.
+
+## WHY THIS MATTERS RIGHT NOW
+Our member applied about ten months ago, after finding out about it by chance. She'd stayed home with three kids. Service Canada recalculated her benefit and paid her the difference going back. Just over $7,000 landed in her account shortly before she retired.
+
+She told her friends afterward. Not one of them had heard of it either.
+
+## WHO MIGHT QUALIFY
+- Your children were born after December 31, 1958
+- You were the main person looking after a child under seven
+- Your earnings dropped, or stopped, during that time
+- You or your partner received Family Allowance, or qualified for the Canada Child Benefit, even if you didn't actually receive it
+
+It doesn't only apply to people who quit work entirely. Reduced hours count.
+
+Either parent can claim it, but not both for the same period.
+
+## TWO DIFFERENT SITUATIONS, AND THEY MATTER
+If you're already receiving CPP or CPP disability and never applied for this, you're in the same position she was. Contact Service Canada and ask them to apply the provision. They can adjust it retroactively. This is where the lump sums come from.
+
+If you're not receiving CPP or CPP disability yet, there's no benefit to recalculate, so don't expect a payment. What it does instead is sit on your record and raise whatever you eventually receive.
+
+But there's something in it for you too, and it may matter more. The provision can help someone meet the contribution requirements for CPP disability who otherwise wouldn't. If a gap in your work history is what's been standing between you and CPP disability, this could change that answer. Ask Service Canada directly whether, with the child-rearing provision applied, you meet the contributory requirements.
+
+## HOW TO ASK
+Through your My Service Canada Account, or by calling Service Canada. It is not applied automatically and nobody will offer it. You have to raise it.
+
+If you're applying for a CPP benefit now, the child-rearing section is part of the application. If you're already collecting, there's a separate request form.
+
+## BEFORE YOU SPEND ANYTHING
+If money does come your way, and especially a retroactive lump sum, a lump sum sitting in a bank account is treated differently than monthly income, and ADAP has an asset limit. Ask the program in writing how it will be treated before it arrives. Get the answer on paper.
+
+Ask Service Canada first. There's no point asking Alberta about money that may not exist.
+
+## WHY I'M POSTING THIS
+Our member's words, and I can't put it better: it's all about helping people in different ways, and financial is very important.
+
+She found this by accident. So did every friend she told. That's a federal provision paying real money that you have to already know about in order to get.
+
+If you raised kids and your earnings dropped while you did it, make the call.`
+      },
+      {
+        title: "What this community is for",
+        date: "2026-08-08",
+        body: `Welcome. This community exists for one reason: Alberta's disability income system changed, and people are being asked to navigate it without a map. We build the map together.
+
+A few things have come up enough times this month that they are worth writing down, so nobody has to guess and nobody feels singled out when I mention them.
+
+## WHAT WE COVER
+AISH and ADAP. Appeals, reassessments, medical reports, income rules, deductions, forms, letters and deadlines.
+
+The federal programs that connect to them. The Disability Tax Credit, the Canada Disability Benefit, the Canada Child Benefit, the RDSP.
+
+Housing, health benefits, AADL and the other systems that sit alongside disability income, because they interact and people get caught in the seams.
+
+And each other. Not everything here has to be a section number.
+
+## WHAT WE DO NOT DO
+**Individual benefit calculations.** I will not work out what your payment should be, and I would be careful of anybody who offers to. There are too many moving pieces, and if I get it wrong it costs you and not me. What I will do is help you ask them in writing for a breakdown, and read their answer with you.
+
+**Party politics.** We criticize policies, decisions and outcomes, with sources, all day long. What we do not do is line up behind or against a political party. The reason is practical: our documents get read by MLAs from more than one party, and by reporters, and by people looking for a reason to dismiss us. The moment this community reads as belonging to a side, everything we have documented gets waved off without being looked at.
+
+**Comparisons to Hitler, the Nazis or the Holocaust.** Not for any politician, not for any policy. Two reasons. We have members whose families were sterilized under Alberta's own eugenics laws within living memory, and members who lost family in the Holocaust. That language lands on them differently. And it costs us everything above. Stay angry. Aim it where it does something.
+
+**Medical advice, legal advice or diagnosis.** I am not a lawyer, a doctor or a benefits worker. Everything here is plain-language summary. Where it differs from the legislation, the legislation governs.
+
+## IMAGES
+Images of hate movements, violence, weapons or paramilitary displays need a written warning as the first line of your post, or share a link instead of the image. People scroll on hard days. Give them the choice.
+
+## HOW WE HANDLE INFORMATION
+**What a member was told is a lead, not a finding.** If a worker told you something, that is worth knowing and worth bringing here. It does not become guidance until it is sourced. This is not doubting you. It is protecting you, because guidance built on one phone call falls apart when somebody relies on it.
+
+**Sources beat confidence.** If you bring a claim with a link, I can check it. If you bring a claim without one, I will go looking. Either is welcome. Bringing the source makes it faster.
+
+**Corrections are made out loud.** When I get something wrong, I say so in the same thread, under my own name, and I do not quietly edit the original. I hold myself to that and it is why you can trust the rest.
+
+**On AI.** Plenty of us use it, myself included. It cannot see the Alberta regulations, so it will give you a confident answer built on federal announcements and get the provincial part wrong. That has happened here more than once. Use it, then bring what it told you here and I will check it against the source. Ask, always.
+
+## PRIVACY
+Do not post your file number, your full address, your phone number or your bank details, even in a screenshot. Cover them before you post. If you have already posted something like that, reach out to us and we will help you take it down.
+
+If you want to share your story publicly, I will ask you first, every time, and I will not use your name without you saying yes.
+
+## IF YOU ARE STRUGGLING
+**211.** Call or text any time, day or night. Counselling, food, financial help, local supports. Text INFO to 211 if talking is hard.
+
+**Health Link 811.** Nurses and health advisors, always open.
+
+**Mental Health Help Line 1-877-303-2642.** 24 hours.
+
+**988.** Suicide crisis helpline, call or text, any time.
+
+**Income Support Contact Centre 1-866-644-5135.** 24 hours, every day, including weekends and holidays.
+
+No shame in any of those numbers. We look after each other here.
+
+## ONE LAST THING
+If you turned up here confused, or apologizing for asking, or convinced everyone else understands this better than you do: you found the right place. That is why I am here.
+
+Nobody understands this system. It was not built to be understood. We work it out together and we write down what we learn so the next person does not start from nothing.`
+      },
+      {
+        title: "Before you pay for a medical report: read this",
+        date: "2026-08-07",
+        body: `If you were moved from AISH to ADAP and you are thinking about reapplying for AISH, this affects you. Please read it before you book anything.
+
+## WHAT WE HAVE BEEN TOLD
+The government has said it will cover the cost of one medical report for people in this situation. That has been in the Minister's correspondence and in the policy material, and I have repeated it here.
+
+That part still stands. One report, covered.
+
+## WHAT IS NEW
+A member wrote to the ministry and asked the practical questions. Does the report get billed directly. Is pre-approval needed. Which section of the policy manual sets out the process.
+
+A Program Delivery Supervisor replied in writing on August 7, 2026. The answer confirmed that one report is covered, and then said the process for requesting it has not yet been finalized. She suggested checking back in about a month.
+
+That is a straight answer and I am not criticizing her for giving it. It is more useful than a vague one would have been.
+
+But sit with what it means. More than a month after the transition took effect, people are being told to reapply, and being told the assessment is covered, and there is currently no mechanism through which anyone can request that coverage.
+
+## SO HERE IS MY ADVICE
+If your doctor charges you for the report, you can pay it if you need to move now. But do not pay it expecting a refund on a set date, because right now there is no process to claim one.
+
+If you can wait, wait. Ask your zone office in writing what the current process is for having the covered report paid for. Ask them to reply in writing. Keep the answer.
+
+If you have already paid, keep the receipt, keep any email where you asked about coverage, and do not throw anything out. When a process does exist, the people with dated paperwork will be in a much better position than the people relying on memory.
+
+## THREE THINGS STILL UNANSWERED
+Whether the ministry pays the full amount your doctor charges, or only up to the fee schedule. Some physicians charge above it. Nobody has told us who covers the difference.
+
+Whether the doctor bills the ministry or whether you pay and claim back.
+
+What happens for people who paid during this period when no process existed.
+
+I have asked. I do not have answers. I will not guess at them and you should not accept a guess from anyone else either.
+
+## TWO OTHER THINGS WORTH KNOWING
+Reassessment has no deadline. There is no clock on this. If you are being rushed by anyone, including your own worry, you are not actually late.
+
+And a nurse practitioner can complete the DIA Medical Report. It does not have to be a physician. If getting to a doctor is part of your problem, that may open a door.
+
+## ONE USEFUL TIP FROM THE SAME MEMBER
+Dial **310-0000** first and any Government of Alberta number is free from anywhere in Alberta. Works for your MLA, the Ombudsman, the Disability Advocate, any of it. If you are rural and long distance charges have been stopping you from calling, that removes it.
+
+This came from a member who asked good questions through the general inquiries channel and got a real answer within a day. Sometimes the front door works. Thank you to her.`
+      },
+      {
+        title: "How to get someone authorized to act for you: a new guide",
+        date: "2026-08-07",
+        body: `This is the question I get more than any other. Someone needs help managing their file, or a parent needs to act for an adult son or daughter, and the answer nobody can find is where to start.
+
+Most people assume the only option is a full court application. It is not. Alberta law runs on a spectrum, from very light to very heavy, and the law itself says to use the least restrictive thing that will work.
+
+There was nothing out there that laid the whole spectrum out in plain language, so I built one. It is up on the website now.
+
+## START WITH THE THING MOST OF YOU ACTUALLY NEED
+If what you want is permission for a family member to phone or email about your AISH or ADAP file, that is not guardianship and it is not trusteeship. It is the program's own written consent authorizing a named person on your file. Ask your zone office for it.
+
+I want to be clear about one thing, because it is the sort of detail that sends people down the wrong road for months. The lightest option in the guardianship legislation, called supported decision-making, covers personal matters only. It does not extend to finances. AISH and ADAP are financial. So that form will not put your mother or your daughter onto your benefits file, whatever anyone tells you.
+
+Start with the department's consent, not the court.
+
+## WHAT IS IN THE GUIDE
+The full spectrum, lightest to heaviest, on both the personal side and the financial side. Supported decision-making, co-decision-making, one-time decisions, guardianship. Informal options, the new Public Trustee power, trusteeship.
+
+What a capacity assessment is, who can do one, and what it costs.
+
+What the court process costs and how long it takes. Up to $300 to file. The capacity assessment capped at $500, or $700 for a combined one. About six months from paperwork ready to a decision. And if the cost is a hardship, you can apply to have some of it covered.
+
+For families with a young person approaching eighteen: you can apply in the twelve months before their birthday, and the order takes effect the day they turn eighteen. No gap. That single fact is why so many families end up stuck, because nobody tells them until after the door has closed.
+
+How to plan ahead and skip the court entirely, with a personal directive and an enduring power of attorney.
+
+What to do when a decision-maker is not doing their job.
+
+And what changed on April 1 this year, because the law was amended and anything you read from before then may be out of date.
+
+## SOMETHING I FOUND WHILE WRITING IT
+The same statute did both.
+
+The Act that produced the July 2 transition of AISH recipients onto ADAP is the same Act that rewrote the guardianship and Public Trustee framework. Different sections, different dates in force, one piece of legislation.
+
+I am not telling you what anyone intended by that. I am telling you it is on the record, because I went and checked.
+
+## ON THE SOURCING
+Every point in the guide has a section number beside it so you can look it up yourself rather than taking my word for it. I checked the figures against the Act, the regulation and the government's own pages before it went up.
+
+There was one number I could not confirm from a primary source, so I took it out rather than print something I had not verified. That is the standard. If I cannot check it, it does not go in.
+
+## NOT LEGAL ADVICE
+This is a plain-language summary. It is not the law and it is not a lawyer. Where the guide and the legislation differ, the legislation governs.
+
+Free to share. Free to print. If you work somewhere people need this, take it and put it on your counter.`
+      },
+      {
+        title: "AKG has put it in writing: their assessments are voluntary",
+        date: "2026-08-06",
+        body: `One wording fix before anything else. I used the phrase ADAP worker earlier and it caused confusion, fairly. There is no assigned worker and nobody has failed to give you one. Everything below says the office, which is what I meant. More on that at the bottom.
+
+A member has been going back and forth with AKG Canada, who operate as Alberta Employment Connect in Edmonton and the north, and she has got something in writing that none of us had.
+
+Here is their wording, from their own email:
+
+**"All of our assessments are voluntary and completed with your informed consent."**
+
+They wrote it once. Then, a few days later, they wrote it again.
+
+That word does not appear on any government page I can find. It is not in the letters people have been receiving. And it is not what another member was told last week, when she asked the same question and was told that the goal set by the government is to have an assessment on the books.
+
+So please read what follows carefully, because this matters and it is also easy to misread.
+
+## WHAT THEY SAID
+Three things, all in writing.
+
+The assessments are voluntary and completed with informed consent.
+
+They do not make decisions about ADAP benefits or eligibility, and any question about how participating or withdrawing might affect your payment should go to the office that holds your file.
+
+And the Biopsychosocial Assessment is not used to determine eligibility or decide participation. Its stated purpose is to work out what supports would suit you.
+
+They also gave out the north zone contacts, 780-415-6300 and northzoneaish@gov.ab.ca, which matches what I confirmed off the government's own contact page this week.
+
+## WHAT IT DOES NOT MEAN, AND I NEED YOU TO HEAR THIS PART
+Voluntary is the contractor's word about the contractor's service. It is not the department's word about your benefit.
+
+The regulation still says a director may refuse, suspend, vary or discontinue an ADAP benefit where, in their opinion, a client has refused or neglected to participate in or make use of an employment support.
+
+AKG cannot protect you from that, and they have said so themselves. They do not decide benefits.
+
+So please do not read this as permission to ignore the calls. What we have is a company saying its own service is voluntary. What we do not have is the department saying that declining costs you nothing. Those are two different statements and only one of them has been made.
+
+## THE PART THAT SHOULD GIVE PEOPLE HOPE
+She asked for accommodations. She got them.
+
+One of the two assessments dropped entirely. The questions for the remaining one sent to her in advance, with the handbook appendix explaining what each section is looking for. Virtual appointments. Extended hours until seven in the evening on Tuesdays and Wednesdays, and Saturdays from ten until two.
+
+Their reply ended with a line I want everyone to see: that they appreciated her advocating for her needs and were happy to accommodate wherever possible.
+
+She had to ask, and she had to ask in writing, and she had to ask more than once. But it was there the whole time.
+
+If you have been told that accommodations are not on offer, that is not what this contractor says when a person asks in writing.
+
+## WHAT WE STILL DO NOT KNOW
+Their answers went vague in exactly one direction, and it is the direction that matters.
+
+They say participation is voluntary but do not say what happens if you decline. They say they do not decide benefits but do not say what they report back, to whom, or what is written down. They say the length of participation varies but give no end point.
+
+None of that is dishonesty. It is a contractor declining to speak for the department. But it means the only question that matters is answered by nobody.
+
+## SO ASK THE DEPARTMENT, NOT THE CONTRACTOR
+Email your zone inbox and ask these three, in writing.
+
+1. AKG has confirmed in writing that their assessments are voluntary. Does declining an assessment have any effect on my ADAP benefits, and if so, under which provision?
+
+2. What information is reported to ADAP about a client following an assessment, and what is recorded on my file?
+
+3. What is the process where a client's medical condition prevents them from participating?
+
+**North zone: northzoneaish@gov.ab.ca**
+
+**Central: aish.centralregion@gov.ab.ca**
+
+**Calgary: calgaryaish@gov.ab.ca**
+
+**South: southaish@gov.ab.ca**
+
+## AND DO THIS ONE THING REGARDLESS
+If your health means you may not be able to attend or complete something, write to the office that holds your file and say so now, before anything is missed.
+
+Not as a refusal. As notification. Section 16 of the regulation requires a client to notify a director of any matter that could lead to a benefit being refused, suspended, varied or discontinued. So putting it in writing is not you asking for a favour. It is you doing what the regulation asks of you.
+
+A letter cannot be read as neglect. Silence can.
+
+## ON THE WORD WORKER, SINCE IT CAME UP
+There is no assigned worker in either program and you have not missed a letter saying otherwise. The government calls it your local AISH/ADAP office. One office, both programs, the same staff answering whether you are on AISH or ADAP. The combined contact page is at alberta.ca/contact-aish-and-adap.
+
+The word the regulation uses for whoever decides anything about your file is director. It appears well over a hundred times in AR 96/2026. The word worker appears once.
+
+So write to the office, addressed to whoever is handling it. That is why the forms say send it to the office rather than naming a person.
+
+The people who may ring you out of the blue are a separate thing. AKG covers Edmonton and the north, Serco covers Calgary and the south. They are contractors. If one of them gives you a named person, that person works for the contractor, not the department, and they do not decide your benefit. Both have said so in writing.
+
+Two doors, and it matters which one you knock on. Money, eligibility, your file, anything with consequences: the AISH/ADAP office. Appointments, assessments, programming: whoever contacted you from the contractor.
+
+Thank you to the member who spent weeks on this and asked the same question until she got an answer in writing. She was not fobbed off, and the rest of us now know something we did not know yesterday because she kept going.`
+      },
+      {
+        title: "The covered assessment: we finally have an answer in writing",
+        date: "2026-08-03",
+        body: `For weeks I have been telling people the same unsatisfying thing about the medical assessment. Ask about repayment. Get it in writing. I could not tell you the answer because I did not have it.
+
+A member's son received an email this week from a named supervisor at AISH North Zone, setting out the policy. He has given permission for it to be shared with his details removed.
+
+## WHAT IT SAYS
+As of April 1, 2012, medical professionals are paid $67 to complete the AISH Medical Report.
+
+The program also pays the applicable Business Cost Program fee, currently $3.59 per unit, up to a maximum of two units, in accordance with the Alberta Health Care Medical Price List.
+
+So the report fee goes to your doctor from the program. There is nothing in that policy about you repaying it.
+
+That is the first written answer any of us has had on this, and it came from an office, not a web page.
+
+## THE PART THAT STILL NEEDS WATCHING
+The same email ends with this: additional fees may be charged for comprehensive medical exams under the Alberta Health Care Medical Price List 03.04A.
+
+That is the gap, and it is worth understanding before you book anything.
+
+The report is covered at a set rate. A comprehensive examination is a separate item and may be billed separately. If your doctor does a thorough exam to support the report, that part may not be inside the $67.
+
+Nobody is hiding this. It is written in plain sight at the end of the paragraph. But it is exactly the kind of thing that turns into an unexpected bill six weeks later.
+
+## WHAT TO SEND BEFORE YOUR APPOINTMENT
+Copy this to your office:
+
+I have an upcoming appointment for the completion of my Disability Income Assistance Medical Report. Please confirm in writing whether additional fees for comprehensive medical exams under Alberta Health Care Medical Price List 03.04A are paid by the program or billed to the client, and if billed to the client, whether any portion is recoverable or repayable. Please also confirm whether the report fee and the Business Cost Program fee are billed by the physician directly to the program, or whether the client pays and claims reimbursement.
+
+That second question matters as much as the first. If it is a reimbursement model, you pay up front and wait, and on our incomes that is the difference between an appointment happening and not happening.
+
+## AND ONE PRACTICAL THING
+Print the policy wording and hand it to reception when you check in. Not to the doctor, to the front desk. They decide what gets billed to whom, and a great many offices do not know the program pays for this report at all.
+
+A member was told this week that her nurse practitioner was not allowed to complete AISH forms. She was, and the government's own Guide to Disability Income Assistance says so. Same problem, different counter. Bring the paper.
+
+## WHY THIS ONE MATTERS
+Because the fear of a bill is stopping people from starting a reassessment at all. I have heard it half a dozen times this month. I cannot afford to find out.
+
+Now you know the report itself is paid for. You know which piece is still an open question. And you know exactly what to ask before anyone picks up a pen.
+
+Thank you to the member who chased this down and sent it in. He asked the question the rest of us were told to ask and then actually got an answer.`
+      },
+      {
+        title: "If there are two of you on AISH or ADAP, your amount changed this month",
+        date: "2026-08-02",
+        body: `A member sent me her deposit statement today. She has given permission for it to be shared with her details removed. It is the first couples statement anyone has shown me, and there is something on it that people need to see.
+
+The line on her stub reads AISH Living Allowance with client partner.
+
+That is new. It appeared for the first time on the payment released July 28.
+
+## WHAT CHANGED
+Starting with the August 2026 benefit period, in households where two adults both receive disability income assistance, whether AISH or ADAP, each partner receives 88 per cent of the maximum individual benefit instead of the full amount.
+
+That is on the government's own ADAP page and in their ADAP fact sheet. It is also written into the regulation itself, at section 8(4) of AR 96/2026, which says that where both partners are clients eligible for a living allowance, each receives 88 per cent of the rate that would otherwise apply.
+
+## THEIR STATED REASON, IN THEIR WORDS
+The page says it reflects a couple's shared household expenses and mutual financial responsibility, and that this approach aligns with how other jurisdictions structure disability benefits.
+
+So if you looked at your statement this week and thought this is less because I have a partner, you read it correctly. That is what it says, and that is the reason they have given for it.
+
+## WHO THIS DOES NOT APPLY TO
+This is the part I do not want anyone panicking about unnecessarily.
+
+Section 8(4) applies where both people are clients. If you have a partner who is not on AISH or ADAP, this particular change is not what is happening to you. Your partner's income is handled differently, under a separate part of the regulation. Different rule, different question, and if that is your situation reach out to us rather than reading this one as yours.
+
+## SOMETHING I WANT CHECKED, AND I NEED YOUR HELP
+On the stub I was sent, the living allowance line comes to $1,708.00.
+
+Eighty-eight per cent of $1,940 is $1,707.20.
+
+That is eighty cents. It may be nothing more than how their system rounds. But the regulation sets a percentage, not a dollar figure, and I have exactly one statement in front of me, which is not enough to say anything about how it is being applied.
+
+So if you are a couple where both of you receive AISH or ADAP, look at your statement and let us know what your living allowance line reads. Just that one figure. No file numbers, no totals, no personal details.
+
+If everyone's says $1,708.00, then it is a rounding rule and we all learn how they set it. If they differ, that is a different conversation and we will have it with evidence in hand rather than guesses.
+
+**Update, 12 September 2026.** It is a rounding rule, and we have it in writing. The policy manual rounds each benefit up to the whole dollar, and states its own purpose: to ensure clients do not receive less than they are eligible to receive, while adhering as closely as possible to the legislated value of each benefit. $1,708.00 is $1,707.20 rounded up. The eighty cents is in your favour. Thank you to everyone who sent a figure.
+
+## ONE OTHER THING ON THE SAME PAGE
+Her Canada Disability Benefit deduction shows as $93.08. Not $200.
+
+I have been telling people the clawback is a flat $200 and I was wrong. Alberta counts what you actually receive federally, and what you receive is income tested. If your deduction is smaller than $200, that is not an error.
+
+## WHAT TO DO IF YOURS LOOKS WRONG
+Do not let anyone work out your amount for you, including us. Too many people were handed a confident wrong figure by someone kind this week.
+
+Ask your office in writing:
+
+Please confirm how my living allowance for this benefit period was calculated, including the rate applied and any deductions, and the periods those deductions relate to. Please respond in writing.
+
+Offices are closed until Tuesday because Monday is Heritage Day. Send it anyway. The date on the email is the point.
+
+Thank you to the member who sent this in. She could have looked at a smaller number, felt sick about it, and said nothing. Instead she photographed it so the rest of us would understand what we were looking at.
+
+That is how we find things out here.`
+      },
+      {
+        title: "Money for school that nobody told us about",
+        date: "2026-08-01",
+        body: `A member sent me her deposit statement this week. She has given permission for me to share what is printed on it with her details removed.
+
+There is an additional amount for children's school expenses. The stub says that if you have children in school and you meet the eligibility criteria for personal benefits, this month's benefits should include extra money for school-related costs. The amount depends on your child's age as of September 1, 2026.
+
+$63 per child aged 5
+
+$121 per child aged 6 to 11
+
+$208 per child aged 12 to 17
+
+Hers arrived on its own. She did not apply for it. It came as a separate deposit with its own statement in the mail.
+
+## WHY I AM POSTING THIS
+Because I went looking for those three numbers and I could not find them published anywhere a person could reasonably find them.
+
+The government's page on what you get says only that some costs may be covered for children's education. It does not say how much, or for which ages, or that it may arrive without you doing anything. The figures appear on a piece of paper that reaches you after the money has already moved.
+
+If you never got the paper, you never knew the money existed.
+
+## WHAT I NEED FROM YOU
+Check your statement, and let us know whether you got it. Yes or no, and roughly how many school-age children are on your file. Please do not share amounts or file numbers.
+
+I want to know whether this went out to everyone eligible or only to some people. That is not something I can work out from one member's stub, and it is not something I am willing to guess at.
+
+## IF YOU HAVE SCHOOL-AGE CHILDREN AND NOTHING CAME
+Put it in writing before September. Something like:
+
+I have dependent children in school and understand that a personal benefit for school-related expenses is issued to eligible clients. Please confirm whether this benefit was applied to my file for this period, and if not, on what basis. Please respond in writing.
+
+Offices are closed until Tuesday because Monday is Heritage Day, but send it now. The date on the email is the point.
+
+## AND IF SOMETHING ARRIVED TWICE
+A few people have asked about this. If a payment lands that you were not expecting, or the same one lands twice, do not spend the second one. Report it in writing the day you see it and keep a copy of what you sent.
+
+An overpayment you flagged yourself on the day is a very different conversation from one they find six months later and take back out of a cheque that already does not cover rent.
+
+## ONE MORE THING FROM THE SAME PIECE OF PAPER
+Their reporting reminder lists e-transfers as an example of income to report, alongside CPP, the Canada Disability Benefit, Employment Insurance and student funding. A lot of us move small amounts between family that way. Worth knowing it is on their list.
+
+Thank you to the member who sent this in. She could have banked it and said nothing. She sent it so the rest of us would know it exists.
+
+That is how this works here.`
+      },
+      {
+        title: "After the phone call: the email that protects you",
+        date: "2026-07-31",
+        body: `A member of this community did something on Tuesday that I want everyone to copy. She has given permission for me to share it with her name removed.
+
+She had a phone call with an employment services navigator. Within the hour, she put in writing what she had told them, asked them to confirm it was recorded, and asked for a copy to go on her file.
+
+That is the single most useful thing you can do after any call about employment services, and here is why.
+
+The reason this matters.
+
+On ADAP, the regulation lets a director refuse, suspend, vary or discontinue your benefit if, in their opinion, you refused or neglected to take part in an employment support.
+
+So the question of what you said, and what you were unable to do, and whether anyone recorded it, can decide your income later.
+
+Phone calls leave no record you can see. Their notes are their notes. Your email is yours, and it is dated.
+
+One thing on your side. The Minister put in writing this week that where a client is not taking part in employment supports, the program will first work with them to understand and address any barriers before any compliance measures are considered. Barriers first, compliance after. That is much easier to rely on when your barriers are already in writing.
+
+## THE EMAIL. SEND IT WITHIN A DAY OF ANY CALL.
+**Subject:** Confirmation of our call, [date] | [your name] | File #[number]
+
+Thank you for our call on [date] at approximately [time].
+
+For the completeness of my file, I would like to put in writing the barriers to employment I identified during that call:
+
+(list them plainly, one per line, for example)
+
+Transportation
+
+Childcare
+
+[medical or physical barriers, in your own words]
+
+Please confirm in writing that these barriers have been recorded on my file.
+
+Please advise what supports are available for each of the barriers listed above.
+
+I would also ask that a copy of this email be placed on my file.
+
+[Include this next part only if it applies:] During our call a referral was discussed to [name of provider]. I have previously accessed this provider and it did not address the barriers listed above. I am asking that this not be recorded as a referral, and I am requesting an alternative.
+
+Please respond in writing.
+
+[Your name]
+
+[Your file number]
+
+## THEN WATCH FOR TWO THINGS.
+One. Did they confirm the barriers are on your file? Not "thanks for letting me know." Confirmation that it is recorded. If that does not come back, ask again.
+
+Two. Did every barrier get answered? In the case that prompted this, three barriers went in and only one came back with anything attached. The other two were not refused. They were simply not mentioned. That is easy to miss and it is worth catching.
+
+If something goes unanswered, reply on the same thread:
+
+I am following up on my email of [date]. Please confirm in writing that [barrier] and [barrier] have been recorded on my file, and please confirm what supports are available for each, as these were not addressed in your reply.
+
+## AND IF AN APPOINTMENT APPEARS THAT YOU DID NOT AGREE TO.
+This happens. You say you would rather not, and a booking turns up anyway.
+
+Do not simply not attend. Silence is what gets written up as refusing to participate.
+
+Either go, and afterwards put in writing what was discussed and which of your barriers were addressed. Or write before the date and say you are unable to attend, why, in terms of barriers rather than preference, and that you are requesting accommodation and an alternative.
+
+Either way there is a record and you are not the person who did not show up.
+
+One last thing.
+
+None of this is being difficult. Nobody at the other end takes it personally, and the good ones welcome it because it gives them something to escalate with.
+
+It is a five-minute email that means, months from now, nobody gets to decide what you said based on a note you never saw.`
+      },
+      {
+        title: "The floor they set themselves",
+        date: "2026-07-30",
+        doc: "/pdfs/aish-adap/july-2026-docs/ADSB_The_Floor_They_Set_Themselves_July2026.pdf",
+        body: `I have been digging into the Canada Disability Benefit clawback this week, and I found something in the government's own words that I think you should see.
+
+First, what the clawback is.
+
+The Canada Disability Benefit is federal money for disabled Canadians aged 18 to 64. It is up to $204.20 a month now, up from $200 in July.
+
+Alberta deducts it from your benefit, dollar for dollar. Alberta is the only province or territory in Canada doing this.
+
+Now the part I want you to see.
+
+When this was announced in March 2025, the Minister responsible was asked to defend it. His answer was a number.
+
+He said AISH paid $1,901 a month. He said the federal government had set $1,811 as a minimum for provinces to meet. And he said Alberta had already exceeded what was asked of it.
+
+That was the argument. We are above the line, so taking the $200 is fair.
+
+The ADAP base rate is $1,740 a month.
+
+That is below the line he drew.
+
+Right now, most people moved from AISH in July are held at the old amount by the transition benefit. That benefit ends on December 31, 2027. After that, the base rate applies and the deduction keeps running.
+
+So the province will be deducting federal money on an argument its own rate no longer satisfies.
+
+I am not telling you anyone planned that. I do not know and it does not matter. Two numbers, from the same government, two years apart. That is the whole thing.
+
+Second, on being made to apply.
+
+Some of you have told me the deduction comes off even though you have never received a dollar of the federal benefit. You are right, and it was not an accident.
+
+Every AISH recipient was required to report the status of their CDB application by September 5, 2025, and reductions started in October for people who had not applied. Two separate organisations recorded that at the time.
+
+So if you have never applied and it is coming off anyway, that is the design and not a mistake on your file.
+
+Third, a question I cannot answer yet.
+
+All of that happened under the old regulation, which was repealed on July 2.
+
+The new regulation does have a section letting them act when you have not applied for a federal benefit. It names the Canada Pension Plan. It names Old Age Security.
+
+It does not name the Canada Disability Benefit.
+
+I have searched the whole regulation for anything requiring you to apply for the CDB, or letting them count money you do not receive. I have not found it.
+
+That does not mean it is not there somewhere. It could be in the Act or in the policy manual, and I have not finished checking either. So I am not telling you the deduction is unlawful. I am telling you I went looking for the authority and could not find it, and that is worth asking about.
+
+What to do with this.
+
+If you applied and were refused, or you are still waiting, and it is still coming off, use the CDB Deduction Correction Letter on our website. If money came off while you were not receiving the benefit, use the CDB Underpayment Repayment Request. The regulation says a director must repay an outstanding amount where you were underpaid. Must, not may.
+
+If you have never applied, the money comes off regardless, so applying is the fastest way to stop being out of pocket. You need the Disability Tax Credit first. If the forms have defeated you, reach out to us and we will go through them with you.`
+      },
+      {
+        title: "The income crossover: how many hours to break even",
+        date: "2026-07-11",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1039611068413785/",
+        body: `You may have seen the card going around, the one saying people moved to ADAP would have to work nearly full-time to earn back what they lost. A lot of you are asking, is that true. It is. And here is the math behind it, because we ran these exact numbers back in May.
+
+This is from our Income Crossover Analysis. It answers one simple question. At each hourly wage, how many hours a week would you have to work, every single week, before ADAP finally catches up to what you used to get on AISH.
+
+At minimum wage, $15 an hour, ADAP does not pass your old AISH amount until you are working 35 to 40 hours a week. Every week. As the wage goes up, the hours come down a little, but never out of near full-time territory. Even at $20 an hour, you are looking at 26 to 30 hours a week before you break even.
+
+Sit with what that means. A program the government calls an employment incentive only comes out ahead of the old one if you can sustain something close to a full-time job. For a program built for people whose disabilities affect their ability to work, that is the whole problem in one table. The incentive only pays off at a level of work many people in this community cannot reach, which means for most, it does not pay off at all.
+
+We are not telling you this to frighten you. We are telling you because you deserve to see the real numbers, from a documented source, so that when someone asks you is this true, you have the answer and the receipts.
+
+And if you are staring at this worried about your own situation, please do not try to work out your exact number alone. Ask the program in writing for a breakdown of your income on ADAP at the hours you actually work, and bring it to us. We will look at it together. And if a loss like this is landing on you, remember there is a route to be reassessed for AISH, with no deadline. You are not stuck, and you are not alone in this.`
+      },
+      {
+        title: "Living with someone? Find your situation in 10 seconds",
+        date: "2026-07-11",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1038389381869287/",
+        body: `A lot of you have been asking the same scared question: does the cohabitation cut hit me? So we built a plain-language guide that answers it, and the answer for many of you is no. There are three situations. Read the one that is yours.
+
+## One — you are a couple and you both get AISH or ADAP
+This is who the 88 percent rule is for, and yes, it affects you. The guide shows you what it costs and what to ask for.
+
+## Two — one of you is turning 65
+This is the quiet one almost nobody is talking about, and it can hit harder than the couples rule. When one partner moves to seniors' benefits, that income gets counted against the other partner's AISH, and a household can end up worse off even when the senior partner gets more. If this is you, this section was written for you.
+
+## Three — you live with a roommate, or a relative who is not your partner
+A sibling, an adult child, a parent. Good news. The cut does not apply to you. It is a couples rule. Living with someone does not make you partners, and you keep your full amount. If anyone told you otherwise, they were wrong.
+
+So before you panic, find your situation. Some of you are going to close this relieved. That is the whole point. You should not carry a cut that was never yours to carry.
+
+And for everyone, no matter which situation fits, the same rule holds. If your payment changes and you cannot see why, ask them to show you the math in writing. You have a right to know how your own benefit was worked out.`
+      },
+      {
+        title: "Is ADAP unconstitutional? The Section 15 argument",
+        date: "2026-07-04",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1033332492374976/",
+        body: `A lot of you have felt it in your gut that ADAP is not just unfair, that there is something about it that is plain wrong. I want to share something that puts words to that feeling, and backs it with the law.
+
+We have put together a plain-language breakdown of how ADAP runs into Section 15 of the Charter, the part of the Constitution that guarantees equality. It is written so anyone can read it, no law degree needed, and every single point is backed by a real Supreme Court of Canada decision, named and cited, so it holds up for the lawyers and advocates too.
+
+Here is the heart of it, in plain words. The Charter does not just mean treating everyone the same. The Supreme Court has said, more than once, that treating everyone identically can itself be discrimination when it ignores disability. It has said a well-intentioned program can still discriminate if the effect is to deny disabled people the equal benefit of the law. And it has said a government's good intentions do not save a policy, what matters is the effect on real people.
+
+That is exactly the problem with ADAP. It takes people whose own doctors confirmed they cannot sustain work, and applies one set of employment expectations to everyone, as if disability were a motivation problem instead of a medical reality. A policy that looks neutral on paper can fall hardest on the very people least able to meet it. The Court has a name for that, and a line of cases about it.
+
+I want to be straight with you about one thing, because we only put out what we can stand behind. No court has ruled on ADAP. This is the argument a Charter challenge would make, not a verdict that has been handed down. But it rests on settled law, and here is the part that matters for you. A challenge like that needs a record, real documented experiences of how this policy harms real people. That record is us. Every story you share, every letter you keep, every impact you write down, that is what builds the case. You are not venting into the void. You are building the evidence.
+
+Read it. Share it. Hand it to anyone who tells you this is just politics. It is not just politics. It is a question about whether the Charter still means what it says.`
+      },
+      {
+        title: "Who got the contracts to run ADAP employment services",
+        date: "2026-07-04",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1031718495869709/",
+        body: `You may have seen us digging into who actually got the contracts to run ADAP's employment services. Here is what happened next.
+
+The campaign sent two things out. The first went to the Auditor General of Alberta. That is the independent office whose job is to follow the public's money and ask hard questions about how government spends it. We asked them to take a close look at how these contracts were handed out. The second went to Marie Renaud, who is the Shadow Minister for Assisted Living and Social Services. That means ADAP is her file to watch in the Legislature, so we put the full record in her hands too.
+
+Here is the plain version of what we found, all of it from public records anyone can look up. Two companies were hired to run ADAP's employment services. Both are foreign owned, one from Australia and one from the United Kingdom. Together the contracts are worth about 98 million dollars over five years. And the Australian one, AKG Canada, turns out to be the renamed former Maximus. Same company, new name as of April 2024.
+
+The public lobbyist registry also shows that company and its parent were registered to lobby the very ministry that runs ADAP, on the exact subject of the program, going back to 2022, right through the years the program was being built.
+
+I want to be clear about how we are doing this. We are not accusing anyone of anything. We are laying out the documented facts, in order, and asking the people whose job it is to examine them. Every single fact was checked at the original public source before we sent it.
+
+Document. Distribute. Demand answers. That is the work, and today it moved forward.`
+      },
+      {
+        title: "Three documents, three different rules: \u201Crefused or neglected\u201D",
+        date: "2026-07-04",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1030098262698399/",
+        body: `Here is the short version. The rule that says you have to take part in ADAP employment services shows up in three different government documents, and it is written three different ways. The further you go, the smaller the reassurance gets.
+
+The welcome brochure is gentle. It says things like move toward work when you are able, and if you miss a call that is okay. The letter people are getting in the mail is firmer. It says it is important that you respond, and that if you refuse to take part, your benefits may be impacted. The regulation, the real rule that governs everything, goes further than both. It does not just say refuse. It says refused or neglected to take part. Neglected is a much bigger, fuzzier word than refused. And it lets a director suspend, change, or discontinue your benefit, not just impact it.
+
+So the same rule softens when it is talking to you and hardens when you read what the law allows.
+
+Now I want to be very clear about one thing, because I do not want anyone to panic. This does not mean they cut you if you cannot find a job. The letter itself says that if you are unable to find work after using the services, you keep your financial and health benefits. That part is true and it matters.
+
+The point is narrower. The kind, easy language you read in the brochure and the letter is not the whole story. The rule behind it is broader than what they tell you on the friendly page. And the very thing the brochure waves off, missing a call, is the same kind of neglect the regulation says they can act on.
+
+Knowing that is how you protect yourself. It is why I keep saying the same things. Keep your records. Respond to them, and keep proof that you did. Ask for things in writing. Do not let the gentle wording lull you into thinking the rules are softer than they are.`
+      },
+      {
+        title: "This is a choice, not a rule: BC vs Alberta",
+        date: "2026-06-27",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1029829822725243/",
+        body: `Somebody shared what British Columbia is doing for disabled people right now, and it is worth all of us looking at, because it shows something important: the way Alberta is going is a choice, not a rule.
+
+Here is BC and Alberta side by side, same year, on the exact things that are about to hurt us.
+
+## On couples
+Starting this August, Alberta is cutting each partner in a disabled couple down to 88% of the single rate, because you live together. British Columbia did the opposite. As of December 1, 2025, BC restored couples on disability assistance to the full single rate each. Their own government called the old reduction a clawback and said they were eliminating it. So in the same benefit year, BC removed the couples penalty and Alberta is adding one.
+
+Same problem, opposite answer.
+
+## On the federal Canada Disability Benefit
+Alberta counts it as income and claws it back dollar for dollar, the only province in the country that does this. BC lets people keep it. That small federal increase coming in July is real money in BC. Here, it cancels itself out before it reaches anyone.
+
+## On keeping up with the cost of living
+In BC, the disability advocates and the government are working toward tying rates to inflation so benefits do not fall behind every year. Alberta is freezing transitioned amounts and then cutting them in 2028.
+
+Look at that and one thing becomes very clear. Nobody can tell us this is just how disability programs have to work, because another province is doing the opposite, in the same year, with the same federal benefit and the same kind of budget pressures. BC is taking the penalties off. Alberta is putting them on. That is a choice somebody made, and choices can be unmade.
+
+So yes, Alberta needs to read from their book. And we are going to keep putting that comparison on the record, because it is one of the clearest answers we have to anyone who says there was no other way. There was. There is. It is happening one province over.`
+      },
+      {
+        title: "You are not starting from zero",
+        date: "2026-06-27",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1029279136113645/",
+        body: `I want to share a thought that I keep coming back to, because in the middle of all the fear this week, it is something solid to stand on.
+
+Every single one of us being moved to ADAP came from AISH. And to be on AISH, the government had to assess us and decide we had a severe disability that permanently prevents us from earning a living. That was their test. They applied it. They certified us. That is on the record, in their own files, in their own words.
+
+So look at what is happening now. They are taking a group of people they already decided cannot work, and moving them into a program built on the idea that we can. Nobody reassessed us. Nobody examined us again and found that something changed. They moved us on paper. The only thing that changed is the program, not our bodies, not our diagnoses, not the years we have lived this.
+
+Here is why that is hopeful, and not just maddening. It means you are not starting from zero. You are not walking in as a stranger who has to prove something brand new. The government already made a finding about you, and that finding is documented and it is yours. A transfer letter does not erase a determination they already made. The years you spent on AISH are years they certified you met that standard. That history does not disappear because they changed a label on it.
+
+So when this feels like it is being done to you, hold onto this: the record is on your side. They are the ones who have to explain how the same person can be permanently unable to work one day and able to work the next, with nothing in between but a change of program. That contradiction is theirs to answer, not yours to disprove.
+
+Hold onto your paperwork. Hold onto your history. It is evidence, and it is yours. We are going to keep reading what they put in writing, because that is where this falls apart, and that is where we are strong. Request your AISH file now, and arm yourself with it before any reassessment.`
+      },
+      {
+        title: "Working while on AISH: why your cheque drops some months",
+        date: "2026-06-27",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1028314816210077/",
+        body: `If you have a job while you are on AISH, you have probably had at least one month where your cheque came in lower than usual and you could not figure out why. It is confusing, it is stressful, and almost nobody explains it to you ahead of time. Here is what is happening, in plain language.
+
+Some months your cheque drops because three paydays land in one reporting period instead of two. The cutoff date matters so much because a payday landing one day on the wrong side of it changes everything.
+
+Here is the hard truth. For people who work regularly, it does not even out the next month the way some people think. Once that money is deducted, it is gone.
+
+And most importantly, you can learn to see these months coming so you are never blindsided again. This comes straight from working members who have lived this for years and know it cold. One thing it will tell you to do: confirm your own reporting cutoff date with AISH in writing, because the exact date can vary, and knowing yours is how you protect yourself.
+
+If you work and you are on AISH, save this. And if you know someone who works while on benefits, share it with them. This is the kind of thing that saves people a nasty surprise.`
+      }
+    ]
+  },
+  {
+    cat: "Myth-busting",
+    blurb: "Scams, rumours, and official-looking posts, checked against the real source so the fear has somewhere to land.",
+    items: [
+      {
+        title: "Heads up: the \"groceries benefit\" is your GST credit. It's one payment, not two.",
+        date: "2026-10-02",
+        body: `There's a federal graphic going around about the new Canada Groceries and Essentials Benefit, and I don't want anyone counting on money that isn't coming.
+
+Here's the plain version.
+
+**The Canada Groceries and Essentials Benefit IS the GST credit.** The government renamed it in July. You will not get a GST payment **and** a groceries payment. It's the same payment with a new name.
+
+If you look in your CRA account, it says so right on the line: "Canada Groceries and Essentials Benefit (formerly the GST/HST credit)."
+
+The next payment is **Monday, October 5**. After that: **January 5** and **April 5**.
+
+## TWO REASONS IT MIGHT NOT COME
+**You haven't filed your 2025 taxes.** This payment is based on your tax return. No return, no payment. If that's you, file as soon as you can, even if you had no income. Once your return is processed, the CRA says missed amounts come with the next scheduled payment.
+
+**You owe the CRA money.** The CRA's own page says that if you have an amount owing on any account they run, they may use all or part of this payment to pay it down. So if you owe on taxes, or have to pay back another benefit, Monday's payment may be smaller or may not arrive at all. **They don't need your permission.**
+
+If you think that's you, sign in to your CRA account before Monday and look. If the payment has been taken and you can't manage without it, call the CRA, tell them it's causing hardship, and ask what they can do. I can't promise what they'll say, but ask.
+
+## WHAT CHANGED BESIDES THE NAME
+The amount went **up by 25%** starting in July. The government says that increase stays until 2031.
+
+There was a **one-time top-up in June 2026**. That one is done. It doesn't repeat.
+
+In dollars, using the government's own example for a single person at the full amount: **$543 a year** before, plus **$136** for the increase. That's about **$679 a year**, or roughly **$170 every three months**. Your amount depends on your income and family size, so yours may be different.
+
+## ALSO GOOD TO KNOW
+**You don't apply.** If you filed your taxes, you're considered automatically.
+
+**If your amount each time would be under $50**, you got it all at once in July.
+
+**If it doesn't show up Monday** and neither reason above fits, check your CRA account. The government asks you to wait 10 business days before calling.
+
+So when you budget for October: **one** federal payment on the 5th, under the new name. Not two. And if you haven't filed or you owe, check before you count on it.
+
+The government's own page is on canada.ca, under "Canada Groceries and Essentials Benefit."
+
+## IF YOU WERE COUNTING ON IT
+Finding out that money isn't coming, after you'd already spent it in your head, is a horrible feeling and it isn't your mistake \u2014 the graphic is genuinely confusing. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
+        title: "Myth: \"Only the four categories can get AISH\"",
+        date: "2026-09-29",
+        body: `This is going around in a lot of AISH and ADAP groups right now, and some people are hearing it from workers themselves. It isn't true, and believing it is making people give up on something they may qualify for.
+
+## WHAT THE FOUR CATEGORIES ARE
+When people were moved from AISH to ADAP in July, four groups stayed on AISH automatically, without being assessed:
+
+People with a severe developmental disability, or who are eligible for PDD.
+
+People in palliative care.
+
+People living in continuing care.
+
+People who were 60 or older.
+
+That's all the four categories did. They decided **who stayed without being assessed**. They are not the test for who can get AISH.
+
+## WHAT THE REAL TEST IS
+The test for AISH is whether you have a severe disability that **permanently prevents** you from working. That's in the regulation, and decision letters quote it.
+
+ADAP is for a severe disability that **"substantially impedes"** working. Everyone who applies is assessed for both.
+
+## WHAT THAT MEANS FOR YOU
+**If you're on ADAP and your disability permanently prevents you from working, you can ask to be reassessed for AISH.** There's no deadline. The manual says the cost of one medical report is covered, and that it's "not time limited."
+
+**If you applied and got ADAP instead of AISH, read your decision letter carefully.** Some of those decisions can be appealed, and the letter tells you which parts. Appeals have a **30-day** clock, counted from when you received the letter.
+
+**People are getting back on AISH.** A family went public this week after their son was approved for AISH on review.
+
+## IF SOMEONE TELLS YOU "ONLY THE FOUR CATEGORIES" OR "THERE'S NOTHING TO APPEAL"
+Don't argue on the phone. Ask them to put it in writing, with the rule they're using. Then check it against your letter. **Your letter is what counts.**
+
+Please share this with anyone who's been told the door is closed. It isn't.
+
+## IF YOU HAD GIVEN UP ON THIS
+Being told the door is shut, and finding out later that it wasn't, is its own kind of hard. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. The campaign line is **587-590-3590**.`
+      },
+      {
+        title: "Don't get hung up on the shiny words \u2014 and a fact-check of this week's Live",
+        date: "2026-08-27",
+        body: `I say it a lot, and I'm leading with it today, because there was a Live this week about AISH and ADAP, and it is worth watching. There was real, solid information in it, especially from the lawyer on how the appeals work and what the law says. I fact-checked the whole thing against the regulations, and most of it holds up. The fact-check is below, so you can see what's right, what to correct, and where to check for yourself.
+
+But here is the thing I need you to hold onto: **shiny words are not law.**
+
+Every party, every leader, every side is going to say the right-sounding things right now. "We'll fix it." "We'll bring it back." "We put the person first." Some of them may even mean it. But a promise at a town hall is not a benefit in your bank account, and it is not a protection you can point to when a worker makes a decision about your file. Hope is not a plan, and it is not a paper trail.
+
+So watch the Live. Learn from it. But don't let the good feelings, or the fear, pull your eyes off what you have to do right now.
+
+Report everything, in writing. Keep every letter and every date. Get your file. Appeal within the clock. And write down every effort you make toward work, because the word "reasonable" isn't even defined in the regulation. It's whatever a director decides, case by case. The only "reasonable" you control is the one you can prove.
+
+The folks on that Live are doing real work for this community, and I am glad they are. But nobody is coming to save you fast enough to skip the careful, boring stuff. The careful, boring stuff is what protects you.
+
+Don't fall for the shiny words. Hold the facts. Keep your records. And keep going.
+
+## THE FACT-CHECK
+I went through the whole conversation and checked it against the real laws and the government's own pages. Here's what holds up, what doesn't, and where you can check for yourself. I am not partisan. This is just about getting the facts right for the people living it.
+
+## WHAT'S RIGHT, AND IT'S THE PART THAT MATTERS FOR YOUR FILE
+- The lawyer's legal quotes are accurate. The "severe disability" definition he reads is almost word for word from the regulation, AR 96/2026.
+- The appeals are described correctly. If the AISH Medical Review Panel denies you, that decision is final, with no appeal. But an ADAP medical denial, and a decision **not** to refer you to AISH, **can** be appealed. Non-medical decisions go to the appeal panel.
+- ADAP's core benefit is $1,740 a month. AISH was $1,940. That's the $200 drop people are feeling.
+- The $200 transition benefit only goes to people who were moved off AISH in July 2026, and it runs until December 31, 2027. New applicants do not get it.
+- Alberta counts the federal Canada Disability Benefit as income and takes it off your cheque. The only province in Canada that does this.
+- Trusts, including a Henson trust, are still treated as exempt, same as before.
+- The government will cover the cost of one medical assessment if you were moved to ADAP and want to be assessed for AISH.
+- ADAP does not force you to get a job, only to make reasonable efforts. There is no rule that removes you at the end of 2027 just for not having one.
+
+## BUT KNOW THIS
+The word "reasonable" is **not defined anywhere in the regulation.** What counts as reasonable efforts is left to the director's opinion, decided case by case, with no set standard you can point to.
+
+So protect yourself. Keep a dated record of every job-search effort, every call, and every accommodation you ask for, so "reasonable" is documented on your side.
+
+## ONE THING TO CORRECT
+The companies running ADAP's employment side were called U.S. firms. The dollar figure, around $100 million, is right. But the companies are not American. They are **Serco**, which is UK-based, and **AKG**, which is Australia-based. Worth getting right if you're going to quote it.
+
+## ALSO CHECKED OUT
+There really is a provincial surplus. Alberta's first-quarter update reported about $2.9 billion, so "$2 billion" was if anything low. The October 19 referendum and the mail-in ballot advice are real. And Bill 206, the Accessible Alberta Act, is a real bill, though note it was already voted down, so it's a promise to bring it back rather than a bill waiting to pass.
+
+## STILL COULDN'T CONFIRM
+The "$40 million in savings" figure and the "about 60 community organizations" number. We couldn't find those in any government source, so please don't quote them as settled.
+
+## THE X AND A CARD TIP
+On your card, the Section shows **A** if you were moved to ADAP and **X** if you're still on AISH.
+
+That's something we figured out by comparing a lot of people's cards. It's a real pattern we've documented, not something the government has published. If your coverage gets rejected at the pharmacy, it's worth checking that letter.
+
+## CHECK IT YOURSELF
+- The ADAP benefit, the $200 transition and the one-assessment promise: alberta.ca, search "Alberta Disability Assistance Program"
+- The legal definitions and the appeal rules: the regulation AR 96/2026 on the Alberta King's Printer site
+- Who the contractors are: search "CBC multinational contractors Alberta disability employment"
+
+Everything above is sourced. If I have got something wrong, tell me and I'll fix it. That's the whole point of doing this.`
+      },
+      {
+        title: "The federal change and the Alberta rule: why September 1 does not stop the clawback",
+        date: "2026-08-08",
+        body: `If you have seen something saying the Canada Disability Benefit is being reclassified so it can no longer be clawed back, you are not imagining it and you did not misread it. That announcement is real.
+
+Five different people asked me about it in one week. Every one of them read it the same way. Not one of them was being careless. The announcements read that way.
+
+So here is the whole thing, plainly, in the order it matters.
+
+## START WITH THE GOVERNMENT'S OWN WORDS
+The federal department listed the tax change under a heading called **Other changes**, and the line above that heading says those changes **do not affect how the Canada Disability Benefit is administered**. It calls them clarifications.
+
+That is the federal government describing its own amendment as housekeeping.
+
+If it had been built to end provincial clawbacks, it would not be sitting under that heading.
+
+## WHAT THE CHANGE DOES DO
+From September 1, 2026, the Canada Disability Benefit stops being treated as income under the federal Income Tax Act.
+
+The purpose, as the federal government explains it, is so that receiving the CDB does not reduce your other federal benefits. The Canada Child Benefit is the one they name.
+
+That is worth having. If you have children, your CCB stops being pulled down because of your CDB, and Alberta does not touch your CCB at all. That money is yours.
+
+It is a real gain. It is just not the gain people are hoping for.
+
+## WHY IT DOES NOT REACH ALBERTA
+The Alberta rule that counts your CDB has two separate parts.
+
+**The first part** counts income that is reportable under the federal Income Tax Act. That part does run through the federal tax system.
+
+**The second part** names the Canada Disability Benefit directly, by name, all on its own. It does not go through the Income Tax Act at all.
+
+So on September 1, the first part lets go of your CDB, and the second part is still holding it.
+
+Alberta does not need your CDB to be taxable income in order to count it. It wrote the benefit into the rule itself.
+
+That is the whole answer. Nothing about your AISH or ADAP payment changes that day.
+
+## WHAT OTTAWA SAYS ABOUT THIS
+This is the part I most want people to have, because it is the answer to anyone who says the campaign is aiming at the wrong government.
+
+The federal government's own briefing material says that provinces and territories are ultimately responsible for deciding how their programs treat the Canada Disability Benefit, and that the federal government has called on them to exempt it.
+
+Called on. Asked.
+
+That is the entire tool. There is no federal switch sitting unused. There is no switch.
+
+Two years after this benefit was created, with the clawback known and documented the whole time, nothing was built that would stop it.
+
+## SO WHAT WOULD END IT
+Alberta changing its own rule.
+
+The provision is in a schedule to an Alberta regulation. Alberta wrote it. Alberta can rewrite it. Nobody in Ottawa needs to agree, sign anything, or be persuaded.
+
+That is why I keep pointing people at their MLA rather than their MP on this one. Not because Ottawa has behaved well. Because your MLA is the address where a letter can change something.
+
+## THE SHORT VERSION, IF YOU ONLY REMEMBER ONE THING
+**The federal change was aimed at federal benefits, not at provinces.**
+
+If you hold onto that single sentence, the next announcement will not catch you out either.
+
+## WHAT THIS DOES NOT COVER
+There is a separate $150 payment coming from the federal government, starting September 2026 for some people and February 2027 for others. That is a different thing with different rules and I have written about it separately.
+
+Nothing here is legal advice. It is a plain-language summary. Where this and the legislation differ, the legislation governs.
+
+If your own amounts do not look right, ask the program in writing for a breakdown of what income was counted and what was deducted, and keep the reply. Written is the version that helps you later.`
+      },
+      {
+        title: "That phone number from the video \u2014 not verified",
+        date: "2026-07-18",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1042718144769744/",
+        body: `I keep getting asked about the phone number from this video and if it is true information. Zachary Weeks states in the video that the information he is sharing is not verified. So no, it is not true.
+
+Your best bet is to message him and see if he has vetted the information yet, and if not, to take the video down until he has.
+
+This is how misinformation spreads. And we need to ensure accountability is applied across the board to anyone claiming to speak for our community.`
+      },
+      {
+        title: "Scam alert: the fake \u201Cearn while you learn\u201D support worker course",
+        date: "2026-07-11",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1039464975095061/",
+        body: `There is a post going around that looks like it is from Service Canada, advertising a government funded, paid, earn while you learn Disability Support Worker course, up to $35 an hour, no experience needed, no tuition, with View courses links sorted by age. Please do not click it. It is a scam.
+
+I checked, and here is the truth. Service Canada does not run a paid, no experience, earn while you learn support worker course like this. Real support worker training comes through colleges, costs tuition, and has requirements like a criminal record check and a practicum. And real support workers start closer to twenty dollars an hour, not thirty five. The whole thing is built to look official, and to catch people who are being pushed to find work right now.
+
+## How to spot it, this one and the next one
+The poster is a fake news account, not a real news outlet. It uses the Service Canada name and a photo of a building to look real. It promises to pay you to take a course, with no experience needed. It has clickable links sorted by age, like 18 to 45 and 45 to 60. Real government programs do not advertise that way.
+
+## What to do
+Do not click the links. Do not enter your name, your SIN, your banking, or any personal information anywhere it sends you. Report the post to Facebook as a scam, then delete it from your feed. If you can, warn others in a comment or a share, because so many people in our community are exactly who this is aimed at.
+
+And if you already clicked, or entered any information, please do not feel foolish for a second. These are made to fool people, and they target us on purpose at the worst possible moment. If you gave any banking details, call your bank. If you gave your SIN or other personal details, keep an eye on your accounts and change any passwords you shared. You can also report it to the Canadian Anti-Fraud Centre. And if you are not sure what to do, reach out to us and we will sort it out together.
+
+We look out for each other here. That is the whole point.`
+      },
+      {
+        title: "That viral post about the new application process \u2014 mostly right, one gap",
+        date: "2026-06-27",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1029232936118265/",
+        body: `There is a post going around on another page about how the new AISH and ADAP application and approval process will work. A few of you have sent it to me, so let me break it down for you.
+
+In short, the post describes a single combined application starting July 2026, in two parts: a disability assistance application you complete yourself (online, with help from a family member, guardian, or support worker if you want), and a medical report completed by a registered professional, using either your own provider or a new pre-qualified roster. An adjudicator then reviews the medical evidence and sorts people three ways: found not to have a severe disability (may qualify for other programs like Income Support), approved for ADAP (severe disability with some ability to work), or referred up to the AISH Medical Review Panel (severe disability that prevents working). The post also says the most severe and palliative cases are prioritized for reassessment and do not need a brand new medical report, and it ends with a note that if the AISH Medical Review Panel finds you ineligible, there is no appeal and you stay on ADAP.
+
+The short version: most of it is right, and there is one piece it leaves incomplete that I do not want tripping anyone up.
+
+Here is what it gets right, and you can trust this part. That description of the combined application, the two parts, and the three adjudication outcomes is accurate. So is the part about how reassessments work, where the most severe and palliative cases get prioritized and do not need a brand new medical report. And the part it ends on is true too: the AISH Medical Review Panel's final AISH decision is not appealable.
+
+Here is the one thing the post leaves out, and it matters, so please read this part. The way it is written makes it sound like nothing can be appealed, and that is not correct. You can appeal some decisions in this process. If the adjudicator decides not to send your file up to the Medical Review Panel at all, that can be appealed to the ADAP Medical Appeal Panel. And if you are found not eligible for ADAP, that can be appealed too. So the door is not fully shut. It is only the Panel's final AISH ruling that is final. The steps before it are not.
+
+I am telling you this because I do not want a single person reading that post and thinking there is no point appealing anything. There is. Do not give up a right you still have. If you get a letter or a decision that does not sit right with you, do not assume you are out of options. Bring it to us. We will help you figure out exactly what can be challenged and how.`
+      }
+    ]
+  },
+  {
+    cat: "Corrections",
+    blurb: "When we get something wrong, we say so out loud and fix it, in plain words. This is that record.",
+    items: [
+      {
+        title: "Correction \u2014 employment and training supports cap is $590, not $500",
+        date: "2026-09-12",
+        body: `On 8 September I published that employment and training supports for ADAP clients are capped at $500 over a 12-month period. **The cap is $590.**
+
+The figure I gave was ninety dollars low, and it was wrong when published rather than out of date. The published rate history runs $511 from September 2019, $542 from January 2023, $566 from January 2024, $578 from January 2025 and $590 from January 2026. $500 appears nowhere in it.
+
+The benefit is ADAP clients only. The manual states plainly that AISH clients are not eligible for it.
+
+Source: Disability Income Assistance Policy Manual, Employment and Training Supports, page version 2 July 2026; AISH and ADAP Financial Benefits Summary effective 2 July 2026.`
+      },
+      {
+        title: "Correction \u2014 the fall sitting runs to 3 December, not 26 November",
+        date: "2026-09-12",
+        body: `I published the wrong end date for the fall sitting of the Legislature. It begins 27 October, which was right, and ends **3 December 2026**, not 26 November.
+
+Sitting days: 27, 28, 29 October; 2 to 5 November; 16 to 19 November; 23 to 26 November; 30 November to 3 December. Nineteen in total.
+
+Four sitting days were missing from what I published. No benefit figure is affected.
+
+Source: 2026 Sessional Calendar, Legislative Assembly of Alberta.`
+      },
+      {
+        title: "Withdrawn \u2014 you can budget from the couple rates of $1,708 and $1,532",
+        date: "2026-09-12",
+        body: `On 8 September I told members not to budget from the couple rates of $1,708 and $1,532, because they appeared to conflict with the 88 per cent set in the regulation. **That warning is withdrawn. You can budget from them.**
+
+88 per cent of $1,940 is $1,707.20 and 88 per cent of $1,740 is $1,531.20. The published figures are those amounts rounded up to the whole dollar, under a rounding policy that states its own purpose: "To ensure clients do not receive less than they are eligible to receive, while adhering as closely as possible to the legislated value of each benefit."
+
+The difference is eighty cents a month, in your favour.
+
+Source: AR 96/2026 s.8(4); Disability Income Assistance Policy Manual, Rounding Benefits and Living Allowance; AISH and ADAP Financial Benefits Summary.`
+      },
+      {
+        title: "Source note \u2014 the $150 and estates. Where that rule lives",
+        date: "2026-09-12",
+        body: `On 8 September I published that the $150 supplemental Canada Disability Benefit payment is not payable for a person who died before September 2026, and that an estate does not receive it.
+
+**That stands.** But I went looking for it in the regulation this week and it is not there, and I nearly published an apology for telling you something true.
+
+It is on Service Canada's own page, under How much you could receive, in the supplemental payment section. Not in the instrument. On a web page.
+
+I am recording where it lives because a rule that sits on a web page can change without anything appearing in the Canada Gazette. It is the answer today, and it is being watched.
+
+Source: canada.ca, Canada Disability Benefit, "How much you could receive," page last modified 19 August 2026.`
+      },
+      {
+        title: "Correction \u2014 the fold on your special ballot does not matter",
+        date: "2026-09-11",
+        body: `I told a member to fold her special ballot on the printed First Fold and Second Fold lines rather than in half. That was a guess and it was wrong.
+
+**Elections Alberta has stated that ballots will be accepted regardless of how they are folded.** They have also stated that if the declaration carries outdated wording, you may cross it out.
+
+The package does contain two different folding instructions, so you will notice the discrepancy when you open it. It does not affect whether your ballot counts.
+
+Source: Elections Alberta, statement of 3 September 2026.`
+      },
+      {
+        title: "Long term disability and your benefits: the rule nobody explains",
+        date: "2026-08-16",
+        body: `A few people have been hit hard by how LTD income gets handled, so let me lay it out plainly, because there is a rule here that can make a huge difference and almost nobody gets told about it.
+
+I also want to own something. I told one member this week that LTD is just deducted dollar for dollar, full stop. I went and checked the actual policy, and I was wrong. It is not that simple, and the correction is in your favour, so here it is properly.
+
+The thing that decides how your LTD is treated is one question. **Who paid the premiums on the policy.**
+
+## IF YOU PAID THE PREMIUMS YOURSELF
+If the premiums on your LTD, income protection, wage-loss, or disability insurance were paid entirely by you or your partner, out of your own pocket, then that money is **fully exempt**.
+
+Fully exempt means it does not reduce your AISH or ADAP at all. They do not take it. You keep your benefit and you keep the LTD.
+
+## IF YOUR EMPLOYER PAID THE PREMIUMS
+If your employer paid all the premiums, or you and your employer split them, then the LTD is treated as employment income instead. That means the earnings exemption applies. A set amount is protected, and money above that gets deducted.
+
+This is the only place the program matters. The earnings exemption is different on each. On AISH the fully exempt earnings amount is smaller than on ADAP. But which program you are on does not change the who-paid-the-premiums rule. That rule comes first.
+
+## WHY THIS MATTERS SO MUCH
+Because the two treatments are opposite, and a wrong classification costs you real money.
+
+If your premiums were yours, that LTD should be fully exempt. If it gets filed as employment income by mistake, they will start deducting money that was supposed to be untouched. That is the difference between keeping your LTD and watching most of your cheque disappear.
+
+So this is worth checking even if you think it is fine.
+
+## WHAT TO DO
+If you get LTD and it is being deducted from your benefits, ask them this, in writing.
+
+Who paid the premiums on my long term disability policy, and how is it classified. If the premiums were paid by me, please explain why it is being deducted as employment income rather than treated as fully exempt.
+
+Get the answer in writing and keep it. If your premiums were yours and it was filed as employment income, that is a mistake worth correcting, and it could put real money back in your pocket.
+
+One honest note. This is peer information, not a ruling on your specific file. I am pointing you at the right question to ask. The office confirms the answer for your situation, in writing, which is exactly where you want it.
+
+If you go through this and the answer does not add up, bring it to us and we will work out the next step together.`
+      },
+      {
+        title: "If you have no money this weekend, read this",
+        date: "2026-07-31",
+        body: `I have been giving out the wrong number all week and I am correcting it now, before the long weekend.
+
+There is a 24-hour emergency line. 1-866-644-5135.
+
+Income Support Contact Centre. Open 24 hours a day, every day. It does not close for evenings, weekends, or statutory holidays.
+
+This is on the government's own Contact AISH page. During evenings, weekends or holidays, you can get emergency assistance for basic needs like shelter, food and transportation by calling it.
+
+What it can do tonight.
+
+Outside normal office hours it assesses food and transportation over the phone.
+
+There is also an online route that is faster. Go to emergencybenefits.alberta.ca, apply, then phone 1-866-644-5135 to confirm your eligibility. Emergency food benefits are issued by Interac e-Transfer.
+
+The number I have been giving you.
+
+Alberta Supports, 1-877-644-9992, runs Monday to Friday from 7:30 in the morning until 8 at night, and it closes on statutory holidays.
+
+Monday is Heritage Day. So that line is shut from tonight until Tuesday morning.
+
+I have been telling people to use it all week, including people who told me they had nothing. That was my mistake and I am sorry for it.
+
+So, plainly.
+
+If your payment did not arrive, or arrived short, and you cannot buy food or get to where you need to be this weekend, ring 1-866-644-5135. Any hour. Tonight, tomorrow, Sunday, Monday.
+
+You do not have to wait until Tuesday.
+
+Please share this with anyone who is not in this community.`
+      },
+      {
+        title: "A correction, and it is good news: the ADAP Medical Appeal Panel is real",
+        date: "2026-07-11",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1037888585252700/",
+        body: `I told you something that was wrong, and you deserve the fix in plain words. I said there was no ADAP Medical Appeal Panel. That was wrong. There is one. It is real, it is on the government's own website, and I have the source. I am correcting it here, because being right matters more than looking right, and this is one where the true answer is in your favour.
+
+Here is what is real. The ADAP Medical Appeal Panel is a real appeal body, made up of health professionals who do not work for the government. It hears two kinds of medical decisions. First, if an adjudicator decides not to send your file up to the AISH Medical Review Panel to be considered for AISH, you can appeal that. Second, if you are found not eligible for ADAP, you can appeal that too.
+
+So a door we thought was shut is open. If your file was not referred up for AISH, that is not the end of the road. There is a medical appeal panel that can review it.
+
+Here is the part that has not changed. The AISH Medical Review Panel still makes the final call on AISH eligibility, and that final decision is not appealable. And reassessment, the medical route back to AISH, still has no deadline. So you have both, an appeal route for the adjudicator's decision, and reassessment with no clock. The Citizen's Appeal Panel still handles the money and benefits appeals, like living allowance, health benefits, and the child benefit.
+
+This is how this room is supposed to work. We check, and when we get something wrong, we say so out loud and fix it. Thank you for holding me to that.`
+      }
+    ]
+  },
+  {
+    cat: "Reflections",
+    blurb: "The nightly notes \u2014 for the times the numbers can wait until morning.",
+    items: [
+      {
+        title: "We have a new YouTube channel",
+        date: "2026-10-03",
+        body: `The Alberta Disability System Breakdown now has its own dedicated YouTube channel. It's linked from the footer of this site and from the Join the campaign section, or search YouTube for **@albertadisabilitybreakdown**.
+
+## WHY IT MATTERS
+**You don't need a Facebook account to watch.** Anyone with the link can see it, so it's easy to share with family, a support worker, or someone who isn't in the group.
+
+**Videos stay put.** You can watch whenever you're up to it, pause, go back, and turn on captions.
+
+**It's one more place our information lives outside of Facebook**, alongside this website.
+
+## IF YOU'D LIKE TO HELP
+Two small things make a big difference for a new channel.
+
+**Subscribe.** It's free, and it tells YouTube real people want this.
+
+**Share the link** with one person who needs it.
+
+More is coming. If there's a topic you'd like explained in a video, tell us.`
+      },
+      {
+        title: "What's next: growing to cover every age",
+        date: "2026-09-25",
+        body: `I have some news to share.
+
+When this started, it was about one thing: the move from AISH to ADAP. That work isn't going anywhere. But over the last few months, your questions have been telling me something. Disability doesn't start at 18 and it doesn't stop at 65, and families are having to piece together help from a dozen places that don't talk to each other.
+
+So I'm expanding.
+
+## COMING FIRST: CHILDREN AND FAMILIES
+**FSCD** (Family Support for Children with Disabilities): what it covers, what it doesn't, and how to push back.
+
+**School funding for disabled children**: where the money goes, and what happens to it when a child leaves school.
+
+**Other options for parents of disabled students**, including home education.
+
+**PDD** (Persons with Developmental Disabilities), and the move into it, which can begin at 16 while FSCD is still running.
+
+## AFTER THAT: SENIORS AND CARE
+**Seniors benefits and CPP.**
+
+**Continuing care.**
+
+**Home care.**
+
+The goal is a big one. I want this to be the place in Alberta where you can find disability information for every age, all under one roof. Birth to seniors, one place, in plain language.
+
+## WHAT WON'T CHANGE
+The same rules apply to everything:
+
+Every fact comes from the source: the law, the regulation, the government's own documents.
+
+When I don't know something, I'll say so.
+
+When I get something wrong, I'll correct it publicly, in the same place.
+
+We look at what policies do to people, not at who to blame.
+
+## HOW YOU CAN HELP
+If you have lived experience with FSCD, PDD, school supports, seniors benefits, continuing care or home care, your knowledge is exactly what makes this work. Share your stories and your questions with us. Tell us where you got stuck. That's where I'll dig first.
+
+It's going to take time to build properly. But I'd rather build it right than build it fast.
+
+Thank you for being here. This community is the reason any of it is possible.`
+      },
+      {
+        title: "Nothing is due tonight",
+        date: "2026-07-11",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1037030082005217/",
+        body: `Today was a big one in here. A lot of you came with hard questions, and a lot of you came just needing someone to say yes, this is as unfair as it feels. I heard all of it. Every message, every comment, every quiet one of you reading along without saying a word. You were seen today.
+
+Some of you got news that landed heavy, and a few of you found a small piece of good footing for once. Both are real. Hold whichever one is yours tonight and set the rest down. It will keep until morning.
+
+If you are lying awake turning over a form, or a letter, or a number that will not add up, please hear me one more time before you sleep. You do not have to solve it tonight. Nothing is due tonight. Bring it to us tomorrow and we will take it apart together, one small piece at a time. That is what we are here for, and we are not going anywhere.
+
+Rest those shoulders. Drink some water. Be gentle with yourself. You made it through another day in a system that makes that harder than it should be, and that counts for more than it will ever tell you.`
+      },
+      {
+        title: "You did hard things today",
+        date: "2026-06-27",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1028418496199709/",
+        body: `Before I close out for the night, I want you to hear this: you did hard things today. Some of you filed appeals you did not know you were allowed to file. Some of you asked questions you had been carrying alone for weeks. Some of you just found this community and finally felt a little less lost. All of that counts.
+
+If today scared you, that makes sense, this is a frightening stretch, and you are allowed to feel it. But you are not facing it alone, and you are not the things this system makes you feel. You are people who deserve support, and you are allowed to ask for it, in writing, out loud, here, and from the people who love you.
+
+The work keeps going tomorrow. The appeals, the letters, the questions, all of it. Rest tonight. Be gentle with yourself. We pick it back up in the morning, together.
+
+If tonight is heavy and you need someone, you do not have to wait. You can call or text **988** any time, or reach the **Alberta Mental Health Help Line at 1-877-303-2642**. There is no shame in it.
+
+Goodnight, and thank you for being here. We are still in this together.`
+      },
+      {
+        title: "One form. One letter. One question answered.",
+        date: "2026-06-27",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1026743129700579/",
+        body: `What a night. I want you to know I see how hard so many of you are working, filing the forms, asking the questions, helping each other in the comments, holding on when it feels like too much. You showed up tonight, and that matters.
+
+If tonight felt overwhelming, here is the only thing I want you to take to bed: you do not have to figure out the whole fight before morning. One form. One letter. One question answered. That is enough for one day, and you did it.
+
+To everyone waiting on a decision, sitting with a deduction that should not be there, or just trying to make sense of a system that was not built to be understood, you are not behind and you are not alone. The forms are not going anywhere. I am not going anywhere. We pick it up again tomorrow, together.
+
+Rest if you can. Be gentle with yourselves tonight. You have carried enough today. Goodnight.`
+      },
+      {
+        title: "The night can be the hardest part",
+        date: "2026-06-27",
+        source: "https://www.facebook.com/groups/963489306025962/posts/1025044569870435/",
+        body: `It has been a long, heavy stretch, and I am calling it an early night, so for once I am taking my own advice and resting. You should too. Whatever did not get done today will keep. The forms will be there in the morning, and none of it needs you at this hour. Put it down.
+
+If tonight sits heavy on you, please know you are not carrying it alone. The night can be the hardest part, and if the worry ever feels like too much, you can call or text **988** any time and a kind voice will be there. There is no shame in it. We look after each other here, even at this hour.
+
+So rest those shoulders. Drink a glass of water. Be gentle with yourself. We pick it back up tomorrow, together.
+
+Sleep well. You matter here.`
+      }
+    ]
+  }
+];
