@@ -42,6 +42,11 @@ It only covers couples where **both** partners are on AISH or ADAP. It doesn't c
 
 I know that's hard to hear on a day when others got good news.
 
+## IF YOU'RE ON AISH AND LIVE IN A SENIORS LODGE
+A ministerial order signed September 24, 2026 sets a minimum lodge rate from January 1, 2027. It says it covers residents on AISH, but its formula uses **only** Old Age Security and Guaranteed Income Supplement amounts. It gives no formula for someone whose income is AISH.
+
+Ask your lodge in writing how your 2027 rate will be worked out. More in tonight's seniors update.
+
 ## IF GOOGLE OR AN AI TOOL SAYS IT ISN'T TRUE
 They're reading the government's online copy of the regulation, which still says "Current as of May 12, 2026." The government's own policy pages still show 88% too. The change is on **page 2 of the order**, on the King's Printer site.
 
@@ -67,7 +72,7 @@ The federal government's news page wouldn't load, for the fifth night. I also co
 
 **Monday, October 19:** referendum day.
 
-**Tuesday, October 27:** November payment date. **This is the first payment where couples should see the full rate.** If yours is still lower, tell us.
+**Tuesday, October 27:** November payment date. If you're a couple and yours is still at the lower amount, tell us.
 
 **Saturday, October 31:** energy rebate deadline.
 
@@ -78,11 +83,12 @@ If you're raising a child with a disability, see tonight's **Where Things Stand 
 ## IF TONIGHT IS A HARD ONE
 Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
 },
+
 {
   date: "2026-10-05",
   stream: "Seniors Benefits CPP/CPPD",
   title: "Where Things Stand for Seniors \u2014 October 5, 2026",
-  body: `No seniors' benefit amount or deadline changed today. But tonight I read the government's list of ministerial orders for the first time, and found one about lodges that nobody announced.
+  body: `No seniors' benefit amount or deadline changed today. But tonight I read the government's list of ministerial orders for the first time, and found **three** about lodges that nobody announced.
 
 ## IF YOU LIVE IN A SENIORS LODGE: A MINIMUM RATE IS COMING
 On **September 24, 2026**, the Minister signed **Ministerial Order 2026-032**. It sets how a minimum basic lodge rate will be worked out, starting **January 1, 2027**. A minimum rate is a floor. It's the least a lodge will be allowed to charge.
@@ -101,17 +107,30 @@ For a couple, it's worked out for each person using the couple's supplement rate
 
 For 2027, the first two numbers are known. They're this fall's amounts: **$762.50** and **$1,138.90**. The third number, the amount you must be left with from January 1, 2027, **hasn't been published**. So I'm not giving you a dollar figure for the rate. Anyone who gives you one right now is guessing.
 
-Two more things the order says:
-
-If your unit is smaller than **300 square feet**, the lodge may take up to $100 off the minimum rate.
-
-It covers lodge residents who can get Old Age Security and the supplement, **and also residents on AISH**.
+The order also says that if your unit is smaller than **300 square feet**, the lodge may take up to $100 off the minimum rate.
 
 What it doesn't say: what your own rate will be, or when your lodge has to start charging it.
 
-**What to do:** ask your lodge in writing what your basic rate will be in 2027, and whether your unit is under 300 square feet.
+## IF YOU LIVE IN A LODGE AND YOU'RE ON AISH
+The order says it covers lodge residents who can get Old Age Security and the supplement "or benefits under the Assured Income for the Severely Handicapped Act." But the formula is written **only** in Old Age Security and supplement amounts. There's no separate formula for a resident on AISH.
 
-A second order signed the same day, **2026-033**, requires lodge operators to build up a repair fund, with municipalities paying into it by December 31, 2031. Nothing in it mentions what a resident pays.
+So for a lodge resident on AISH, the minimum rate is built from two federal amounts that person doesn't receive. The order doesn't explain how that's meant to work, and I won't guess.
+
+If this is you or someone you look after, ask the lodge in writing how your 2027 rate will be worked out, and keep the answer.
+
+## WHAT TO ASK YOUR LODGE, IN WRITING
+What will my basic rate be in 2027?
+
+Is my unit under 300 square feet?
+
+If I'm on AISH: how is my rate being calculated?
+
+## TWO MORE LODGE ORDERS, SIGNED THE SAME DAY
+**Ministerial Order 2026-033** requires lodge operators to hold a repair fund. The amount has to be one of three things: what an independent building assessment says is needed, 2% of what it would cost to replace the building, or an amount the board already approved. Municipalities that fund the lodge have to pay it up by **December 31, 2031**. Nothing in it mentions what a resident pays.
+
+**Ministerial Order 2026-043** cancels an exemption order from 2017. It doesn't say who was exempted or from what, so I can't tell you what it changes yet.
+
+All three take effect **January 1, 2027**.
 
 ## THE OCTOBER 1 DRUG COVERAGE CHANGE IS LAW
 The government's proclamations page confirms that a new part of the Alberta Health Care Insurance Act came into force on **October 1, 2026**. The Coverage for Seniors page says that where you have private or other drug coverage, that plan now pays first, and the government plan comes after.
@@ -145,15 +164,18 @@ The federal list of cabinet orders, the Canada Revenue Agency news page, and the
 ## DATES TO KEEP
 **Saturday, October 31:** energy rebate deadline.
 
-**January 1, 2027:** the lodge orders take effect.
+**January 1, 2027:** the three lodge orders take effect.
 
 **January 2027:** new Old Age Security and Canada Pension Plan amounts.
+
+**December 31, 2031:** lodge repair funds must be paid up.
 
 If you're on AISH or ADAP, see tonight's main **Where Things Stand**. There's big news there for couples. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
 
 ## IF TONIGHT IS A HARD ONE
 Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
 },
+
 {
   date: "2026-10-05",
   stream: "Children / FSCD",
@@ -163,14 +185,26 @@ Call or text **988** any time. You don't have to wait for me. The **Alberta Ment
 ## THE TEACHING STANDARD CHANGED ON SEPTEMBER 1
 Alberta has a **Teaching Quality Standard**. It's a ministerial order, and it's binding on every certificated teacher in the province.
 
-On **September 1, 2026**, a new one took effect: **Ministerial Order #015/2026**, signed June 29, 2026. It replaces the 2020 version. The standards for principals and superintendents were replaced the same day.
+On **September 1, 2026**, a new one took effect: **Ministerial Order #015/2026**, signed June 29, 2026. It replaces the 2020 version, as amended in 2023. The standards for principals and superintendents were replaced the same day.
 
-The government's own web page about these standards doesn't give the order number or the date. So a parent reading that page can't tell the standard changed.
+## THE GOVERNMENT'S OWN PAGE STILL HANDS YOU THE OLD ONE
+The government's page about these standards doesn't mention the new order or the date it changed. The Teaching Quality Standard it links to is dated 2023. The cover says "MINISTERIAL ORDER #001/2020 (AMENDED 2023)." **That's the order that was repealed on September 1.**
 
-## IT COVERS CHARTER AND INDEPENDENT SCHOOLS TOO
-The order says "school authority" means "a public school board, separate school board, Francophone regional authority, charter school operator or accredited independent school operator." So it reaches teachers in all of those.
+So five weeks on, the official download is the standard that's no longer in force. A parent who goes looking tonight gets the wrong one. So does a teacher. So does a principal.
 
-## THE PART THAT MATTERS FOR OUR KIDS
+The new one is on the Alberta King's Printer site, as Ministerial Order #015/2026. You can check this yourself in a minute: open the government's page, download the standard, and read the cover.
+
+## IT COVERS CHARTER AND INDEPENDENT SCHOOLS, AS IT DID BEFORE
+The order says "school authority" means "a public school board, separate school board, Francophone regional authority, charter school operator or accredited independent school operator." That isn't new. The old standard covered those schools too. But it's worth knowing, because many parents are told otherwise.
+
+## THE WORD "DISABILITY" ISN'T IN IT, AND IT NEVER WAS
+I searched the new standard and the one it replaced, side by side. Neither one uses the word "disability." Neither uses "special education" or "accommodation." The word "inclusive" appears in both.
+
+So this isn't something that was taken out. The standard that governed every Alberta teacher from 2020 until this August didn't say the word, and the new one doesn't either. **Across two standards and six years, it has never appeared.**
+
+That doesn't mean your child has no protection. The Education Act and Alberta's human rights law still apply, and a standard's silence doesn't cancel them. It means the document that tells teachers what's expected of them never names disabled students.
+
+## THE PART THAT COMES CLOSEST
 One section is called **"Establishing Inclusive Learning Environments."** Two lines in it are worth knowing, word for word. A teacher is expected to be:
 
 "using appropriate universal and targeted strategies and supports to address students' strengths, learning challenges and areas for growth"
@@ -180,7 +214,7 @@ One section is called **"Establishing Inclusive Learning Environments."** Two li
 ## THE LIMIT, AND YOU NEED TO KNOW IT
 This is written as what a teacher **"is expected to meet,"** judged by professional judgment. It isn't written as a right you can enforce for your child. What it adds up to as a duty isn't settled, and I won't tell you it's more than it is.
 
-What you can do is **quote it**. If you're writing to a school about supports your child isn't getting, those two lines are the province's own binding standard for the teacher in the room. Name the order number when you do.
+What you can do is **quote it**. If you're writing to a school about supports your child isn't getting, those two lines are the province's own binding standard for the teacher in the room. Name the order number when you do, because the school may be working from the old copy.
 
 ## THE SPECIAL EDUCATION STANDARDS ARE STILL FROM 2004
 Alberta's Standards for Special Education are still listed on the government's page as "Amended June 2004," with nothing replacing them. That's 22 years.
@@ -215,6 +249,7 @@ If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. I
 ## IF TONIGHT IS A HARD ONE
 Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
 },
+
 {
   date: "2026-10-04",
   stream: "AISH / ADAP / CPP-D",
