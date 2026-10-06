@@ -16,6 +16,87 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "New today: a shorter application to go back to AISH",
+        date: "2026-10-06",
+        doc: "/pdfs/aish-adap/program-policy-manual-updates/PPMU10-06-2026.jpg",
+        body: `If you were moved from AISH to ADAP and you're applying to go back, this is for you.
+
+## WHAT CHANGED
+The government issued a policy update this afternoon: **DIA-Program-2026-006**, dated October 6, 2026, **effective immediately**. It says that current ADAP clients who "transitioned from AISH to ADAP and are applying for AISH can access a shortened application using non-medical information already on file."
+
+## WHAT THE SHORTER APPLICATION NEEDS
+According to the update:
+
+Three parts of the applicant section: **Information about You**, **Employment History**, and **Education/Training History**.
+
+The **DIA Medical Report** from your doctor or nurse practitioner.
+
+The online and paper applications have both been updated.
+
+## WHAT THAT MEANS
+You shouldn't have to redo everything from scratch. The program already has your non-medical information, and it's supposed to use it. The medical report is still the heart of it.
+
+## WHAT I DON'T KNOW YET
+I've read the update itself. I haven't read the new form or the updated policy page yet, so I can't tell you exactly which sections are gone. I'll post that as soon as I have.
+
+## IF YOU'RE PARTWAY THROUGH AN APPLICATION
+Don't start over, and don't hold it back. Anything extra you've filled in won't hurt you.
+
+If you haven't started, **ask for the shortened application by name and quote the update number**: DIA-Program-2026-006.
+
+There is still **no deadline** to apply to go back to AISH.`
+      },
+      {
+        title: "When you call AISH or ADAP, who is answering?",
+        date: "2026-10-06",
+        body: `I need your help with something.
+
+When I called AISH and ADAP, the person on the line kept calling me **"the client."** Not my name. "The client." It sounded like they were reading off a screen, and what they read didn't answer the question I asked.
+
+I thought it was just me. Then **17 of you** told me the same thing had happened to you.
+
+## WHAT I KNOW
+It has happened to me and to 17 other people who've told me so far.
+
+The answers sound read, not spoken.
+
+The answers often don't match the question.
+
+## WHAT I DON'T KNOW
+What they're reading from. It could be a script. It could be notes on a screen. It could be a software tool that suggests what to say. **I'm not going to guess. I'm going to find out.**
+
+## HOW YOU CAN HELP
+If this has happened to you, or happens on your next call, write down four things:
+
+The date.
+
+The office or phone line you called.
+
+The words that made you notice. For example, being called "the client."
+
+Whether the answer matched your question.
+
+Then send it to us. The campaign line is **587-590-3590**. **Please leave out staff names.** This isn't about any one worker. They're working with what they've been given.
+
+## ONE QUESTION TO ASK ON YOUR NEXT CALL
+**"Are you reading from a script or a tool? What is it called?"**
+
+Write down what they say.
+
+## WHAT I'M DOING
+I'm filing an access to information request with the ministry for three things: the scripts staff use on AISH and ADAP calls, the name of any software or automated tool that suggests answers, and any privacy assessment done for it.
+
+If a tool is handling our personal information, we have a right to know what it is.
+
+## WHY IT MATTERS
+When you call about your income, your rent money or your medication, you deserve an answer to the question you asked, from someone who is listening.
+
+I'll share what I learn, with the source, as always.
+
+## IF A CALL LEFT YOU SHAKEN
+Being talked at about your own money, by someone who isn't hearing you, is exhausting and it is not your fault. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
         title: "The couples cut has been repealed, and back pay is owed",
         date: "2026-10-05",
         doc: "/pdfs/aish-adap/fillable/Fillable_Couples_Underpayment_Request_AR244_2026.pdf",
