@@ -9,6 +9,213 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-10-05",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 5, 2026",
+  body: `Today was not a quiet day. If you missed this morning's post, the full write-up is in Field Notes under "The couples cut has been repealed, and back pay is owed."
+
+## THE COUPLES CUT HAS BEEN REPEALED
+On **October 1, 2026**, the government made **Order in Council 342/2026**, filed as **Alberta Regulation 244/2026**. It does two things:
+
+**It removes the rule** that paid each partner 88% of the living allowance when both are on AISH or ADAP. The order amends section 8 "by repealing subsection (4)."
+
+**It adds section 20(1.1).** Anyone who was paid at the 88% amount is treated as underpaid for each month, and the director "must pay" the difference up to the full rate.
+
+The base rates didn't change: $1,940 on AISH and $1,740 on ADAP.
+
+## WHAT WE LEARNED TODAY
+**The lower rate started with the August payment.** So far that's August, September and October.
+
+**By my own subtraction**, the difference is about **$232 a month** for each partner on AISH and about **$208 a month** for each partner on ADAP. The order doesn't print a dollar figure.
+
+**Members are telling me their most recent payment was still at the lower amount.** The law has changed and the payments haven't caught up.
+
+**You don't have to apply.** The regulation puts the duty on the government. But it gives no date, and the government has announced nothing.
+
+**The order doesn't say** whether a debt or overpayment can be taken off the back pay first.
+
+## WHAT TO DO IF THIS IS YOU
+Keep your payment statements from August on. If you'd like a dated record that you asked, use the **Request for Payment of Underpaid Living Allowance** in Take Action. It isn't an application. It asks when and how you'll be paid, asks for the month-by-month math, and asks for notice before anything is deducted. **Each partner sends their own.**
+
+## WHO THIS DOESN'T HELP
+It only covers couples where **both** partners are on AISH or ADAP. It doesn't change the payment for a single person, how a working partner's wages are counted, the employment exemptions, or the Canada Disability Benefit deduction.
+
+I know that's hard to hear on a day when others got good news.
+
+## IF GOOGLE OR AN AI TOOL SAYS IT ISN'T TRUE
+They're reading the government's online copy of the regulation, which still says "Current as of May 12, 2026." The government's own policy pages still show 88% too. The change is on **page 2 of the order**, on the King's Printer site.
+
+When a summary and the document disagree, go with the document.
+
+## MY CORRECTION, AGAIN
+From October 1 to October 4, I told you nothing had moved. That was wrong, and I'm sorry. I was checking a saved copy of the regulation and not the list of new orders. Every nightly check now reads that list.
+
+## ALSO RE-CHECKED TONIGHT
+The energy rebate deadline is still **October 31, 2026**.
+
+Fuel tax relief is on, **13 cents a litre**, until the end of the year.
+
+The **$150** federal payment isn't counted as income on AISH or ADAP. That's in the regulation.
+
+## WHAT I COULDN'T CHECK TONIGHT
+The federal government's news page wouldn't load, for the fifth night. I also couldn't re-read the Canada Disability Benefit amount tonight, and I still have no current Heritage Fund number from a government source.
+
+## DATES TO KEEP
+**Friday, October 9:** mail your referendum ballot by today.
+
+**Friday, October 16, 5pm:** mail-in ballots must have arrived.
+
+**Monday, October 19:** referendum day.
+
+**Tuesday, October 27:** November payment date. **This is the first payment where couples should see the full rate.** If yours is still lower, tell us.
+
+**Saturday, October 31:** energy rebate deadline.
+
+**January 1, 2027:** first yearly rate adjustment.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, or you live in a seniors lodge, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-05",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 5, 2026",
+  body: `No seniors' benefit amount or deadline changed today. But tonight I read the government's list of ministerial orders for the first time, and found one about lodges that nobody announced.
+
+## IF YOU LIVE IN A SENIORS LODGE: A MINIMUM RATE IS COMING
+On **September 24, 2026**, the Minister signed **Ministerial Order 2026-032**. It sets how a minimum basic lodge rate will be worked out, starting **January 1, 2027**. A minimum rate is a floor. It's the least a lodge will be allowed to charge.
+
+The formula for one person is:
+
+The maximum Old Age Security for someone aged 65 to 74, from October to December of the year before,
+
+plus the maximum Guaranteed Income Supplement for a single person, from the same months,
+
+minus the amount the lodge has to leave you with each month,
+
+rounded down to the nearest $100.
+
+For a couple, it's worked out for each person using the couple's supplement rate, then added together and rounded down.
+
+For 2027, the first two numbers are known. They're this fall's amounts: **$762.50** and **$1,138.90**. The third number, the amount you must be left with from January 1, 2027, **hasn't been published**. So I'm not giving you a dollar figure for the rate. Anyone who gives you one right now is guessing.
+
+Two more things the order says:
+
+If your unit is smaller than **300 square feet**, the lodge may take up to $100 off the minimum rate.
+
+It covers lodge residents who can get Old Age Security and the supplement, **and also residents on AISH**.
+
+What it doesn't say: what your own rate will be, or when your lodge has to start charging it.
+
+**What to do:** ask your lodge in writing what your basic rate will be in 2027, and whether your unit is under 300 square feet.
+
+A second order signed the same day, **2026-033**, requires lodge operators to build up a repair fund, with municipalities paying into it by December 31, 2031. Nothing in it mentions what a resident pays.
+
+## THE OCTOBER 1 DRUG COVERAGE CHANGE IS LAW
+The government's proclamations page confirms that a new part of the Alberta Health Care Insurance Act came into force on **October 1, 2026**. The Coverage for Seniors page says that where you have private or other drug coverage, that plan now pays first, and the government plan comes after.
+
+I haven't read the new part of the Act yet, or two long pharmacy orders signed in September, so that's as far as I can go tonight.
+
+If your cost at the pharmacy counter has changed this month, ask the pharmacist **which plan was billed first** and whether your government coverage was billed second for the rest. Ask them to print it.
+
+## DENTAL AND OPTICAL HELP: THE INCOME LIMITS
+I read the program page myself tonight. For this benefit year:
+
+**Single senior:** covered with income up to **$32,690**. No coverage above that.
+
+**Couple:** covered with combined income up to **$65,380**. No coverage above that.
+
+The page shows no in-between level. You're either covered or you aren't.
+
+## IF YOU'RE 65 OR OLDER AND STILL WORKING
+A federal law passed in June would lower Canada Pension Plan contributions starting in 2027, and Alberta gave its consent on September 3. **It isn't in force yet.** If it goes ahead, the amount taken off your paycheque would drop. Nothing in it changes anyone's pension cheque.
+
+## RE-CHECKED TONIGHT
+**Old Age Security:** up to $762.50 a month at 65 to 74, and up to $838.75 at 75 and over. The supplement for a single senior: up to $1,138.90.
+
+**Special Needs Assistance income limits:** $32,690 single and $53,800 couple for the main items.
+
+**The energy rebate deadline** is still October 31, 2026.
+
+## WHAT I COULDN'T READ TONIGHT
+The federal list of cabinet orders, the Canada Revenue Agency news page, and the two pharmacy orders.
+
+## DATES TO KEEP
+**Saturday, October 31:** energy rebate deadline.
+
+**January 1, 2027:** the lodge orders take effect.
+
+**January 2027:** new Old Age Security and Canada Pension Plan amounts.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. There's big news there for couples. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-05",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 5, 2026",
+  body: `No FSCD rate or rule changed today. Tonight I read the government's ministerial orders on education for the first time, and found that the standard every Alberta teacher is held to was replaced five weeks ago.
+
+## THE TEACHING STANDARD CHANGED ON SEPTEMBER 1
+Alberta has a **Teaching Quality Standard**. It's a ministerial order, and it's binding on every certificated teacher in the province.
+
+On **September 1, 2026**, a new one took effect: **Ministerial Order #015/2026**, signed June 29, 2026. It replaces the 2020 version. The standards for principals and superintendents were replaced the same day.
+
+The government's own web page about these standards doesn't give the order number or the date. So a parent reading that page can't tell the standard changed.
+
+## IT COVERS CHARTER AND INDEPENDENT SCHOOLS TOO
+The order says "school authority" means "a public school board, separate school board, Francophone regional authority, charter school operator or accredited independent school operator." So it reaches teachers in all of those.
+
+## THE PART THAT MATTERS FOR OUR KIDS
+One section is called **"Establishing Inclusive Learning Environments."** Two lines in it are worth knowing, word for word. A teacher is expected to be:
+
+"using appropriate universal and targeted strategies and supports to address students' strengths, learning challenges and areas for growth"
+
+"recognizing and responding to specific learning needs of individual or small groups of students and, when needed, collaborating with service providers and other specialists to design and provide targeted and specialized supports to enable achievement of the learning outcomes"
+
+## THE LIMIT, AND YOU NEED TO KNOW IT
+This is written as what a teacher **"is expected to meet,"** judged by professional judgment. It isn't written as a right you can enforce for your child. What it adds up to as a duty isn't settled, and I won't tell you it's more than it is.
+
+What you can do is **quote it**. If you're writing to a school about supports your child isn't getting, those two lines are the province's own binding standard for the teacher in the room. Name the order number when you do.
+
+## THE SPECIAL EDUCATION STANDARDS ARE STILL FROM 2004
+Alberta's Standards for Special Education are still listed on the government's page as "Amended June 2004," with nothing replacing them. That's 22 years.
+
+## FSCD AND PDD: NO NEW REGULATIONS THIS YEAR
+I read the index of every regulation Alberta made in 2026, up to the middle of September. None of them changed the FSCD or PDD rules.
+
+## FSCD RATES, RE-CHECKED TONIGHT STRAIGHT FROM THE REGULATION
+**Respite:** up to 240 hours a year.
+
+**Clothing and footwear:** up to $400 a year.
+
+**Travel:** 12 cents a kilometre, parking up to $10 a day, a hotel up to $85 a day.
+
+**Dental**, if you have no other plan: $250 a year.
+
+**Medical costs:** FSCD shares costs above 2% of both parents' combined net income.
+
+One more line from the regulation worth knowing: services **"must be provided by an adult who is not a relative."**
+
+## DATES TO KEEP
+**October 31, 2026:** energy rebate deadline.
+
+**January 18 to February 5, 2027:** winter reading and math screening, kindergarten to Grade 3.
+
+**May 10 to 28, 2027:** the third screening test.
+
+**June 30, 2029:** the FSCD regulation and the screening regulation both expire.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-10-04",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 October 4, 2026",
