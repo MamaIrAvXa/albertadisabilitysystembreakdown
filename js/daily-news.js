@@ -9,6 +9,164 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-10-06",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 6, 2026",
+  body: `Big day. Here's all of it in one place.
+
+## THE COUPLES CUT IS BEING REVERSED, AND THE GOVERNMENT HAS NOW SAID SO
+Yesterday I told you the order was signed but the government had announced nothing. That changed today, so here's the update.
+
+The government put out a news release today. It says couples where both partners are on AISH or ADAP get their full benefit back, with back pay to the August payment.
+
+It says **"No action is required,"** and that people "will receive their retroactive payment before the end of the year."
+
+The department's policy manual was updated today too (update **DIA-Program-2026-007**). It says couples get the full rate "minus any non-exempt income." That means the usual deductions still apply.
+
+By my own math, the difference is about **$232 a month each on AISH** and about **$208 a month each on ADAP**. That's my arithmetic, not a government number, and yours may differ if you have other income that gets counted.
+
+Yesterday I suggested asking the department in writing how and when you'd be paid. The government now says you don't need to do anything, so that's optional. The request form stays in Take Action for anyone who wants a paper trail.
+
+## STILL NOT ANSWERED ANYWHERE I'VE READ
+The exact date, and how it will show up (one deposit, or a line on your statement).
+
+Whether money you owe the government can be taken off it first.
+
+How to challenge the amount if it's wrong.
+
+**Keep every payment statement from August on.**
+
+## APPLYING TO GO BACK TO AISH
+If you were moved from AISH to ADAP, the new application form has you fill in three sections and skip the income and asset pages. I've read the new form and that's what it says.
+
+You still need the medical report. A nurse practitioner can now sign it, as well as a doctor.
+
+The government says it covers the cost of one medical report for people who were moved, with no time limit.
+
+It's still a lot of paperwork. Our fillable copy of the new form is on the home page, in the card called "Reassessment: the door that's still open," and in the Reference Library under DS2444A (October 2026).
+
+The government says the non-medical part is "75 per cent" shorter. I counted the questions and couldn't get to 75, so I'm not repeating that number as fact.
+
+## ALSO IN TODAY'S RELEASE
+Every ADAP client is to be contacted by an employment supports worker.
+
+The province is asking Ottawa to make Employment Insurance easier to get for people whose disability comes and goes. That's a request. Nothing has changed federally.
+
+## NORTH ZONE EMAIL HAS CHANGED
+A member got an automatic reply today. The old address,
+
+northzoneaish@gov.ab.ca
+
+has been replaced by
+
+**ALSS.NorthZoneDIA@gov.ab.ca**
+
+If you've emailed the old one lately, send it again to the new one.
+
+## DATES, RE-CHECKED TONIGHT
+**Energy Rebate ($100):** apply by **October 31**. If you're on AISH, ADAP or Income Support, you're enrolled automatically.
+
+**Fuel tax relief:** 13 cents a litre, running to the end of the year.
+
+**Canada Disability Benefit:** maximum **$204.20** a month, confirmed on the federal page tonight.
+
+## WHAT I COULDN'T READ TONIGHT
+The federal news page wouldn't load, and neither would the Alberta Gazette (the government's official publication of new laws). So this is what I could confirm tonight. It isn't a promise that nothing else moved. I also don't have a current Heritage Fund number, so I won't give you one.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-06",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 6, 2026",
+  body: `In what I could read tonight, nothing changed in Alberta seniors' income limits, OAS and GIS amounts, or the Energy Rebate deadline. One new thing turned up on the federal side.
+
+## NEW: A FEDERAL ORDER ABOUT DENTAL PLAN REPAYMENTS
+On **September 25**, Ottawa made an order about forgiving some repayments under the **Canadian Dental Care Plan**. It's for certain people who were told they owe money back because of how they answered the question about having other dental coverage when they signed up.
+
+I've read the order's summary. I have not read the conditions, because they aren't published yet. They're due out **October 7**.
+
+If you've had a letter saying you owe the dental plan money for that reason, **hold on before you pay**. I can't tell you yet who's covered. I'll post the conditions once I've read them.
+
+## FEDERAL AMOUNTS, OCTOBER TO DECEMBER (RE-READ TONIGHT)
+**Old Age Security:** up to **$762.50** a month at ages 65 to 74, and up to **$838.75** at 75 and over.
+
+**Guaranteed Income Supplement:** up to **$1,138.90** a month for a single person.
+
+**Next OAS and CPP payment:** October 28.
+
+## ENERGY REBATE
+The $100 rebate is open until **October 31**. If you get the Alberta Seniors Benefit, the province says you're enrolled automatically and that it won't affect your other benefits. If yours hasn't shown up, check before the deadline.
+
+## A PROMISE I MADE, AND WHERE IT'S AT
+I said I'd confirm the co-payment cap under Coverage for Seniors. I couldn't confirm it tonight. The number wasn't in the part of the government page I could read, so I'm not giving you one until I've seen it. Still on my list.
+
+## IF YOU AND YOUR PARTNER ARE BOTH ON AISH OR ADAP
+The province says the couples cut from August is being reversed, with back pay before the end of the year and nothing for you to do. Details are in tonight's main **Where Things Stand**. Nothing in that announcement says anything about what happens when you turn 65.
+
+## WHAT I COULDN'T READ TONIGHT
+Two long pharmacy orders from the health ministry, and the full text of the dental order. So: nothing else changed in what I could read.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-06",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 6, 2026",
+  body: `Two things moved today. One is about school, one is about turning 18.
+
+## THE EDUCATION ACT HAS A NEW OFFICIAL COPY
+The government posted the up-to-date version of the Education Act today, current to September 1, 2026. Here's what matters for our kids.
+
+## WHAT DID NOT CHANGE
+**Section 11** still says a student the board decides needs specialized supports and services "is entitled to have access to those supports and services."
+
+**Section 40** still says the Minister "may establish" a Complex Education Needs Tribunal. That power is still sitting there.
+
+## WHAT'S NOW WRITTEN INTO THE ACT
+These are sections 30.1 to 30.7, the reading and math screening rules.
+
+A school board may exempt a child from screening. The Act gives no rules for when. No regulation on exemptions has been made.
+
+If the results show a child is struggling, the board must make sure extra help is provided.
+
+But after a third screening in the same school year shows the same struggles, that help is "permitted but not required."
+
+A board is **not** allowed to use screening results to decide whether a child needs specialized supports. Screening is not the door to those supports, and it can't be used to close it either.
+
+There's also a new section (18.01) that lets Cabinet set "strategic priorities" for the school system by regulation. It doesn't mention disability. I haven't found any regulation made under it yet, so I can't tell you what it will be used for.
+
+## TURNING 18: NURSE PRACTITIONERS CAN NOW SIGN THE MEDICAL REPORT
+The government said today that nurse practitioners can complete and sign the medical report for AISH and ADAP, as well as doctors. That's the report a young person needs when they move from children's supports to adult income support. If your family sees a nurse practitioner and not a doctor, that matters. This comes from a news release. I haven't found the rule behind it yet.
+
+## NOT CHANGED, RE-CHECKED TONIGHT
+Every FSCD rate is the same: **12 cents a kilometre** for mileage, **$400 a year** for clothing and footwear, **240 hours** of respite a year, up to **$10 a day** for parking and **$85 a day** for a hotel.
+
+The FSCD policy manual shows one change, made February 20, 2026, and nothing since.
+
+The Standards for Special Education are still the 2004 version. Twenty-two years old, and not replaced.
+
+## A PROMISE I MADE
+I said I'd look up the FSCD rules on housekeeping help. I don't have that answer yet. It's still on my list.
+
+## DATE TO KNOW
+**Energy Rebate ($100):** apply by **October 31**.
+
+## WHAT I COULDN'T READ TONIGHT
+The province's page of proclamations (orders that bring laws into force), the Legislature's bill status page, and two federal news pages. So: nothing else changed in what I could read.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-10-05",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 October 5, 2026",
