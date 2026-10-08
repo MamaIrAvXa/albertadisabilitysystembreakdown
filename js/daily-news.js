@@ -9,6 +9,157 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-10-07",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 7, 2026",
+  body: `Tonight's update starts with good news on the couples rate.
+
+## COUPLES RATE: THE LAW HAS CAUGHT UP
+The province keeps an official, up-to-date copy of every law online. It's called the consolidated version, which means every change is folded into one document. Tonight, the consolidated AISH regulation (the detailed rulebook under the AISH law, which also covers ADAP) is current to October 1, and it shows two things:
+
+**The 88% couples rule is gone.**
+
+**A new rule says couples who were paid the lower amount are owed the difference**, and the department has to treat them as underpaid.
+
+The October 6 news release said this money will be paid before the end of the year, and you don't have to apply. Neither the law nor the release gives a payment date or says how it will show up on your deposit.
+
+One thing to watch: the government's ADAP web page still showed the 88% amount when it was checked tonight. The law has changed, but that page hasn't caught up yet. Please keep your payment statements for every month since August so you can check the amount when it arrives.
+
+## BASE AMOUNTS, CONFIRMED IN THE LAW
+The same regulation sets the monthly living allowance (the base amount before anything is taken off):
+
+**AISH:** $1,940 a month
+
+**ADAP:** $1,740 a month
+
+## CANADA DISABILITY BENEFIT (CDB)
+The most you can get from July 2026 to June 2027 is **$204.20** a month. This was confirmed on the federal government's site tonight. Alberta still takes the monthly CDB off your AISH or ADAP dollar for dollar.
+
+The **$150** payment does **not** count as income for AISH or ADAP. The law says so. It's paid for each approved Disability Tax Credit certificate. If you got the CDB between July 2025 and June 2026, it was paid September 17. If you started after that, the federal government says yours comes at a later date.
+
+## ENERGY REBATE: DEADLINE OCTOBER 31
+If you were on AISH, ADAP or Income Support before July 1, you're enrolled automatically.
+
+If you started after July 1, you have to apply yourself through the online portal by **October 31**.
+
+## FUEL TAX
+Alberta stopped charging its provincial fuel tax on October 1.
+
+## WHAT'S COMING
+**October 15** is the next scheduled issue of the Alberta Gazette. That's the government's official publication, where new regulations get printed. The couples change could appear in it, but there's no promise it will be in that issue.
+
+## HERITAGE FUND
+I still don't have a current number for the Heritage Fund, so I won't give you one.
+
+## WHAT WAS CHECKED TONIGHT
+The Alberta and federal Gazettes, the list of Alberta cabinet orders (decisions made by the Premier and ministers together), bills in the Legislature, and the federal government's news feed. Nothing else turned up on AISH, ADAP or the CDB. A few federal pages couldn't be read tonight: the Canada Revenue Agency and Finance Canada news pages, and the federal database of cabinet orders.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-07",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 7, 2026",
+  body: `Here's tonight's seniors update.
+
+## THE BIG NUMBERS DIDN'T MOVE
+In what I could read tonight, nothing changed on Alberta seniors' income limits, OAS and GIS amounts, or the Energy Rebate deadline.
+
+## DENTAL CARE PLAN REPAYMENT LETTERS
+Some seniors have had letters asking them to pay back Canadian Dental Care Plan money because of how they answered the question about having dental insurance.
+
+On **September 25, 2026**, the federal government made a new remission order. A remission order is a decision to forgive money someone owes the government. It still hasn't been printed in the Canada Gazette (the federal government's official publication), so I can't tell you yet who it covers or on what conditions.
+
+Here's what I can tell you. Last year's order left out people who said they didn't have dental insurance when they did. The new order is about that same group. If you've had a letter asking for money back, **ask Service Canada whether the new order applies to you before you pay**. The next Gazette comes out **October 21**, and I'll keep checking.
+
+## COVERAGE FOR SENIORS (DRUG PLAN)
+You pay **30%** of each prescription, up to **$35** per prescription.
+
+There's no charge for eligible diabetes supplies.
+
+Since October 1, if you also have a private or work plan, that plan pays first.
+
+## ENERGY REBATE: DEADLINE OCTOBER 31
+$100, for households with an income of $225,000 or less.
+
+If you were on the Alberta Seniors Benefit before July 1, you're enrolled automatically.
+
+If you started after July 1, you have to apply yourself through the online portal.
+
+The province says the rebate won't affect your other government benefits.
+
+## OAS AND GIS, OCTOBER TO DECEMBER
+**Old Age Security (OAS):** up to **$762.50** a month if you're 65 to 74, and up to **$838.75** if you're 75 or older.
+
+**Guaranteed Income Supplement (GIS):** up to **$1,138.90** a month for a single senior.
+
+Both went up 1.4% this quarter.
+
+The next OAS and CPP payment is **October 28**.
+
+## COMING UP
+On **January 1, 2027**, the maximum Alberta Seniors Benefit cash amount starts being adjusted every year. The law sets this up. How much it changes depends on a formula, so I won't guess a number.
+
+## WHAT I COULDN'T READ TONIGHT
+The attachments to two new orders about how pharmacies get paid. Nothing in the parts I did read touches what seniors pay.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-07",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 7, 2026",
+  body: `In what I could read tonight, nothing changed on FSCD (Family Support for Children with Disabilities), PDD (Persons with Developmental Disabilities) or school rules. But we got a much clearer look at what a young person runs into when they turn 18, so most of tonight is about that.
+
+## TURNING 18: WHAT THE ADULT RULEBOOK SAYS
+AISH and ADAP staff follow the Disability Income Assistance Policy Manual. It's a staff rulebook, not a law. Everything in this section comes from it.
+
+You have to be 18 or older to get AISH or ADAP. The adult eligibility page doesn't mention FSCD once. On that page there's nothing written that connects the kids' program to the adult one.
+
+The medical report for the application can be filled out by a doctor or a nurse practitioner. That's in the manual. I haven't found it in the law yet.
+
+The **$200-a-month transition benefit** is only for people who were moved from AISH to ADAP on July 2, 2026. It runs from August 2026 to December 2027. A young person turning 18 can't get it.
+
+## TRANSITION TO ADULTHOOD PROGRAM (TAP)
+The name sounds like it's for every young person turning 18. It isn't. TAP is for young adults aged 18 to 23 who had an open Children's Services file at 18, under a guardianship order or a youth agreement. In plain words, it's for young people who were in government care. It's not a disability program, and its page doesn't mention FSCD, PDD, AISH or ADAP. If your child is on FSCD but has never had a Children's Services file, ask before you count on TAP.
+
+## FSCD RATES HAVEN'T CHANGED
+The FSCD regulation hasn't been changed since 2025. This was confirmed on the government's own list of every regulation filed. So these rates still stand:
+
+**Mileage:** 12 cents a kilometre
+
+**Clothing and footwear:** $400 a year
+
+**Respite:** 240 hours a year
+
+**Parking:** up to $10 a day
+
+**Hotel:** up to $85 a day
+
+**Dental:** the $250 threshold if you have no dental plan
+
+**Medical benefits:** the cost-share above 2% of both parents' combined net income
+
+The FSCD policy manual has changed only once this year, on February 20.
+
+## FEDERAL
+The Employment Insurance (EI) change filed this week does not touch the EI family caregiver benefit for children.
+
+## WHAT I COULDN'T READ TONIGHT
+The federal database of cabinet orders, and the news pages for Employment and Social Development Canada and the Canada Revenue Agency.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-10-06",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 October 6, 2026",
