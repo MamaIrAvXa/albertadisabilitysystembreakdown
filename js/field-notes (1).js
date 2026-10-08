@@ -16,6 +16,76 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Quick check-in: prescriptions since October 1",
+        date: "2026-10-08",
+        body: `Has your pharmacy told you since **October 1** that AISH or ADAP won't cover a cream, pill or other prescription that used to be covered?
+
+## IF YES, PLEASE TELL US
+Whether you're on AISH or ADAP.
+
+What kind of item it was (a cream, a pill, supplies). No need to name the medication.
+
+What the pharmacy told you.
+
+Reach out to us. The campaign line is **587-590-3590**.
+
+## TWO THINGS TO DO AT THE PHARMACY
+If you can, ask the pharmacy to **print the rejection reason**.
+
+**Keep your receipts** for anything you've paid out of pocket.
+
+## WHY I'M ASKING
+I haven't found any announcement of a change to AISH or ADAP drug coverage, so I want to know if this is happening to many of you.
+
+## IF YOU'VE GONE WITHOUT A PRESCRIPTION BECAUSE OF THIS
+Don't wait on us. Your pharmacist can call your prescriber about another option, and can tell you what the claim was refused for. **Health Link is 811**, any hour, to talk to a nurse. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
+        title: "It's official: the couples cut is gone, and it's in the government's own policy manual",
+        date: "2026-10-06",
+        doc: "/pdfs/aish-adap/program-policy-manual-updates/PPMU10-09-2026-2.jpg",
+        body: `**IT'S OFFICIAL.** The couples cut is gone, and it's now in the government's own policy manual.
+
+Today the department sent out **Program Policy Manual Update DIA-Program-2026-007**, dated October 6, 2026, **effective immediately**. In their words:
+
+"The provision which authorized the payment of a reduced living allowance benefit to couples where both cohabiting partners were eligible for AISH or ADAP has been removed. As a result, these couples will now be eligible for the applicable maximum living allowance benefit, minus any non-exempt income received by the client."
+
+And:
+
+"A provision has been added that allows underpayments to be issued to clients affected by the previous living allowance reduction."
+
+## WHAT THAT MEANS IN PLAIN WORDS
+If you and your partner are **both** on AISH or ADAP, you each go back to the full rate. That's **$1,940** for AISH and **$1,740** for ADAP, up from $1,708 and $1,532.
+
+You're owed the difference for every month you were paid the lower amount, starting with the August payment. That's about **$232 a month each** on AISH and about **$208 a month each** on ADAP.
+
+The government's news release says you don't have to do anything, and that the back pay will come "before the end of the year."
+
+"Minus any non-exempt income" means the usual deductions still apply. If you have CPP disability, EI or other income that gets counted, your amounts may come out different from the numbers above.
+
+## ONE THING TO KNOW
+The policy update says the new rule "allows" underpayments to be issued. The regulation itself is stronger. It says the director **"must pay."** The regulation is the law, so "must pay" is the wording to hold them to.
+
+## WHAT WE STILL DON'T KNOW
+The exact date the back pay will arrive.
+
+Whether anything you owe the government can be taken off it first.
+
+## WHAT TO DO
+Keep every payment statement from August on.
+
+When the back pay comes, check it against your own math. If it doesn't add up, ask for the month-by-month calculation in writing.
+
+If you'd like a dated record that you asked, our request form is still in Take Action. You don't need it to get paid. It's there if you want the paper trail.
+
+This doesn't change anything for single people, or for couples where only one partner is on AISH or ADAP.
+
+For everyone who sat with that cut since August: you were right that it was wrong. Now it's in writing.
+
+## IF YOU'RE SHORT WHILE YOU WAIT
+If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. The campaign line is **587-590-3590**.`
+      },
+      {
         title: "The government has now confirmed the couples back pay",
         date: "2026-10-06",
         body: `Yesterday I told you the couples cut had been repealed and that nobody had announced it. This afternoon the government announced it. Here's what they said, and what it means for you.
@@ -96,7 +166,15 @@ Don't start over, and don't hold it back. Anything extra you've filled in won't 
 
 If you haven't started, **ask for the shortened application by name and quote the update number**: DIA-Program-2026-006.
 
-There is still **no deadline** to apply to go back to AISH.`
+There is still **no deadline** to apply to go back to AISH.
+
+**Update, October 6, 2026:** The new form is out, and it answers what I didn't know. It is the same application form, **DS2444A, revised October 2026**, not a separate one. On the page called **Your Situation**, near the front, it asks whether you are a current ADAP client who transitioned from AISH to ADAP and want to apply for AISH. Tick **Yes**, and the form tells you to complete Information About You, Employment History and Education/Training History, plus the medical report.
+
+So the sections you can leave blank are: spouse or partner, dependent children, trustee or power of attorney, income, and assets.
+
+The form doesn't say whether you still sign the Declaration and Consents pages at the back. Signing them does no harm.
+
+Because the question is printed on the form, you don't have to know to ask for it. Make sure the copy you're given says **Rev. 2026-10** at the bottom. An older copy won't have the question. The new form is in the Reference Library, under DS2444A (October 2026).`
       },
       {
         title: "When you call AISH or ADAP, who is answering?",
