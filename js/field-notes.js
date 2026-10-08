@@ -16,6 +16,77 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "New form: the pharmacy's \"maintenance medications\" form",
+        date: "2026-10-08",
+        doc: "/pdfs/aish-adap/fillable/Maintenance_Medications_Frequent_Dispensing_Form_fillable_ADSB.pdf",
+        body: `Some of you are being handed a new form at the pharmacy. Here's what it is, and a copy you can read before you're standing at the counter.
+
+## WHAT CHANGED ON OCTOBER 1
+Alberta Blue Cross runs drug coverage for AISH, ADAP and Income Support. It now only pays a pharmacy its full fee for long-term medications if they're filled as at least an **84-day supply** (about 3 months). Long-term medications are called "maintenance" medications: things like cholesterol, blood pressure or hormone medications.
+
+If your pharmacy fills them more often, like every 28 days, they have to have you sign this form and pick a reason.
+
+## THE LINE TO READ BEFORE YOU SIGN
+**"Dispensing my medication more frequently may result in additional dispensing fees."**
+
+A dispensing fee is the pharmacy's charge for filling a prescription. Some of you have started paying a few dollars more per prescription since October 1, and this may be why.
+
+Before you sign, ask:
+
+Will I be charged for shorter fills? How much each time?
+
+Can I get a 3-month supply instead?
+
+Which reason are you ticking on the form?
+
+## YOUR RIGHTS (PRINTED RIGHT ON THE FORM)
+You get a copy of what you sign.
+
+You can refuse shorter fills, or take back your consent, at any time. You can do it in writing, by email, or just by telling your pharmacist.
+
+If you have concerns about your pharmacy's billing, call **Alberta Blue Cross at 1-866-441-8477**.
+
+The form has to be renewed every 12 months.
+
+## IF YOU NEED SHORTER FILLS
+Some people need their medication more often, for safety, in blister packs, or because their condition isn't stable yet. A note from your doctor or nurse practitioner is the strongest reason on the form. Page 3 of our copy has a sample note you can ask them for.
+
+## GET THE FORM
+Our fillable copy, with a plain-language guide, opens from the button at the bottom of this note. It's also in the Reference Library, under Maintenance Medications Form.
+
+This is our copy of the Blue Cross form, with the same wording, so you can read it ahead of time. Your pharmacy may use its own version, and that's allowed. The official Blue Cross sample is in the Reference Library too, right beside ours.
+
+**Keep every pharmacy receipt from October 1 on.** If you're charged something new, ask the pharmacy to write down what it's for, and let us know. The campaign line is **587-590-3590**.
+
+## IF A NEW CHARGE MEANS GOING WITHOUT
+Don't skip a medication over a fee without telling someone. Ask your pharmacist what your options are before you leave the counter. **Health Link is 811**, any hour, to talk to a nurse. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.`
+      },
+      {
+        title: "Quick check-in: prescriptions since October 1",
+        date: "2026-10-08",
+        body: `Has your pharmacy told you since **October 1** that AISH or ADAP won't cover a cream, pill or other prescription that used to be covered?
+
+## IF YES, PLEASE TELL US
+Whether you're on AISH or ADAP.
+
+What kind of item it was (a cream, a pill, supplies). No need to name the medication.
+
+What the pharmacy told you.
+
+Reach out to us. The campaign line is **587-590-3590**.
+
+## TWO THINGS TO DO AT THE PHARMACY
+If you can, ask the pharmacy to **print the rejection reason**.
+
+**Keep your receipts** for anything you've paid out of pocket.
+
+## WHY I'M ASKING
+I haven't found any announcement of a change to AISH or ADAP drug coverage, so I want to know if this is happening to many of you.
+
+## IF YOU'VE GONE WITHOUT A PRESCRIPTION BECAUSE OF THIS
+Don't wait on us. Your pharmacist can call your prescriber about another option, and can tell you what the claim was refused for. **Health Link is 811**, any hour, to talk to a nurse. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
         title: "It's official: the couples cut is gone, and it's in the government's own policy manual",
         date: "2026-10-06",
         doc: "/pdfs/aish-adap/program-policy-manual-updates/PPMU10-09-2026-2.jpg",
