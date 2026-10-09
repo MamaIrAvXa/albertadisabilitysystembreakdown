@@ -16,6 +16,28 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Disability employment supports just changed (October 9)",
+        date: "2026-10-09",
+        doc: "/pdfs/aish-adap/program-policy-manual-updates/PMUCEI09-10-2026.jpg",
+        body: `Today the government issued a policy update for **Disability Related Employment Supports (DRES)**. DRES is the program that pays for supports so people with disabilities can study, train, look for work or keep a job, like assistive technology, interpreters or job coaching. It took effect immediately. The update number is **CEIS-2026-002**.
+
+## WHAT CHANGED
+**The funding limits are frozen at their current amounts.**
+
+**No more exceptions above the limit.** Before today, if your disability-related needs cost more than the maximum, a regional director could approve the extra. That option has been removed.
+
+**If you disagree with a DRES decision**, it now goes to a supervisor or manager first, then to the Statutory Director. Both of those are inside the ministry.
+
+## WHY THIS MATTERS
+ADAP is built on getting people into work, and DRES is one of the main ways workplaces pay for accommodations. With limits frozen and no exceptions, people with the most expensive needs, often the people with the most complex disabilities, are the ones most likely to hit the ceiling.
+
+## IF YOU HAVE A DRES REQUEST IN RIGHT NOW
+If you have a DRES request in right now, or one that was approved above the limit before today, **ask your worker in writing** whether this change affects it.
+
+## WHAT I'M DOING NEXT
+I'm reading the DRES regulation next to find the dollar limits and whether there's any appeal beyond the ministry review. I'll post what I find.`
+      },
+      {
         title: "New on the website: CMHA Edmonton's AISH and ADAP guide",
         date: "2026-10-08",
         doc: "/pdfs/aish-adap/government-form-originals/external-reports/AISH ADAP Practical Guide CMHA Edmonton Updated July 29 2026.pdf",
