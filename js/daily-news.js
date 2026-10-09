@@ -9,6 +9,110 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-10-08",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 8, 2026",
+  body: `Here's tonight's update.
+
+## THE ADAP PAGE NOW MATCHES THE LAW
+Last night I told you the government's ADAP web page still showed the 88% amount for couples. That changed today. The page was updated this afternoon (October 8), and the lower couples amount is gone. It now matches the regulation change filed on October 1.
+
+What the page still doesn't say: when the back pay will come, or how it will show up on your deposit. The October 6 news release said before the end of the year, with no application needed. Please keep your payment statements for every month since August so you can check the amount when it arrives.
+
+## A SMALL CORRECTION ABOUT THE GAZETTE
+Last night I said the couples change could be printed in the October 15 Alberta Gazette (the government's official publication for new regulations). The deadline to get into that issue was September 29, and the change was made October 1, so it will most likely be in a later issue. That's my reading of the schedule, not something the government has said. It doesn't change anything for you. The change is already in the official up-to-date copy of the law.
+
+## PHARMACY CHANGES SINCE OCTOBER 1
+Many of you have told me about new charges or new forms at the pharmacy. Alberta Blue Cross changed how pharmacies get paid on October 1. Long-term medications are now supposed to be filled as a 3-month supply, and shorter fills need a signed form. The form, with a plain-language guide, is in Field Notes under "New form: the pharmacy's maintenance medications form," and in the Reference Library. Ask your pharmacist if a 3-month supply is right for you, and keep your receipts.
+
+## NEW GRANT, FOR ORGANIZATIONS ONLY
+The province opened a new Assisted Living Innovation Grant: up to $50 million for non-profits, care operators, housing and service providers, and First Nations and Metis Settlements. It isn't something individuals apply for. Applications close **November 6**.
+
+## CANADA DISABILITY BENEFIT (CDB)
+The most you can get is **$204.20** a month from July 2026 to June 2027. The federal government pays it on the third Thursday of each month, which this month is **October 15**.
+
+## ENERGY REBATE AND FUEL TAX
+The Energy Rebate deadline is still **October 31**. If you were on AISH, ADAP or Income Support before July 1, you're enrolled automatically. The provincial fuel tax is suspended from October 1 to the end of the year.
+
+## WHAT I COULDN'T CHECK TONIGHT
+A few government sources weren't re-opened tonight, so this is what I confirmed in what I read, not a promise that nothing else moved.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-08",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 8, 2026",
+  body: `Here's tonight's seniors update.
+
+## THE BIG NUMBERS DIDN'T MOVE
+In what I could read tonight, nothing changed on Alberta seniors' income limits, OAS and GIS amounts, or the Energy Rebate deadline.
+
+## PAYDAYS
+**Alberta Seniors Benefit:**
+
+Monday, October 26
+
+Tuesday, November 24
+
+Thursday, December 17 (earlier because of the holidays)
+
+You may see October 23 online. That date is wrong. The government's own page says **October 26**.
+
+**OAS and CPP:** the next payment is Wednesday, October 28.
+
+## DENTAL CARE PLAN REPAYMENT LETTERS
+The federal order about Canadian Dental Care Plan repayments still hasn't been published in full. If you've had a letter asking for money back because of how you answered the dental insurance question, **ask Service Canada whether the order made September 25, 2026 applies to you before you pay**. The next Canada Gazette comes out October 21.
+
+## THE JULY CHANGE TO SENIORS' INCOME LIMITS
+I want to be precise about this one. The July 1 drop in income limits for the Seniors Benefit, Special Needs Assistance and the SHARP home repair grant was made by law. It was in the Financial Statutes Amendment Act, 2026, passed May 14, and described on the government's budget page. What never went out was a plain notice telling seniors the new dollar amounts.
+
+## AT THE PHARMACY
+Since October 1, long-term medications are supposed to be filled as a 3-month supply, and shorter fills need a signed form. If you're on Coverage for Seniors, you still pay **30%** of each prescription, up to **$35**. Ask your pharmacist if a 3-month supply is right for you. The form, with a plain-language guide, is in Field Notes under "New form: the pharmacy's maintenance medications form," and in the Reference Library.
+
+## NEW GRANT, FOR ORGANIZATIONS ONLY
+Alberta opened a new Assisted Living Innovation Grant this week. It's for organizations like lodges, care homes and non-profits, not individual seniors. Applications close **November 6, 2026 at 4 pm**.
+
+## ENERGY REBATE
+Alberta's $100 Energy Rebate is open until **October 31, 2026**. If you were on the Alberta Seniors Benefit before July 1, you're enrolled automatically. If you started after July 1, you need to apply through the portal yourself.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-08",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 8, 2026",
+  body: `Nothing a family needs to act on moved tonight, in what I could read.
+
+## FOR YOUNG PEOPLE TURNING 18
+The official up-to-date copy of the AISH regulation now shows the couples change made October 1. AISH is the adult program a young person may apply to after FSCD (Family Support for Children with Disabilities) ends, so we keep an eye on it. The monthly amounts in it are **$1,940** for AISH and **$1,740** for ADAP.
+
+## THE LEGISLATURE
+No Alberta law can change through a new bill right now. The Legislature has been on break since May 14, 2026.
+
+## THE KIDS' PROGRAM RULEBOOKS
+The FSCD policy manual (the staff rulebook) still shows only one update this year, on February 20.
+
+The PDD (Persons with Developmental Disabilities) policy manual still doesn't publish a list of changes, so there's no way to tell when it was last updated.
+
+## NEW FUNDING, FOR ORGANIZATIONS ONLY
+Alberta announced $2 million this year for 14 community youth mental health projects, and up to $50 million for a new Assisted Living Innovation Grant. Families don't apply for either. If you're part of a community group that might, the assisted living grant closes **November 6**.
+
+## ENERGY REBATE
+The nearest deadline for families is the Energy Rebate on **October 31**. If you're on AISH, ADAP or Income Support from before July 1, you're enrolled automatically.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-10-07",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 October 7, 2026",
