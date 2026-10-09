@@ -16,6 +16,39 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "New on the website: CMHA Edmonton's AISH and ADAP guide",
+        date: "2026-10-08",
+        doc: "/pdfs/aish-adap/government-form-originals/external-reports/AISH ADAP Practical Guide CMHA Edmonton Updated July 29 2026.pdf",
+        body: `CMHA Edmonton (the Canadian Mental Health Association) put together a practical guide to AISH and ADAP, updated July 29, 2026. Their recovery college uses it for their "Understanding AISH and ADAP" course. I've added it to our website so you can grab it any time. The button at the bottom of this note opens it, and it's in the Reference Library under External Reports.
+
+## THE BEST PART
+Pages 5 and 6, **"How to Advocate with your Physician."** If you're reapplying for AISH, read this before your appointment. It walks you through:
+
+Focusing on what you can't do reliably, not just your diagnosis.
+
+Describing your worst days, and how often they happen.
+
+Bringing a one-page summary of your conditions, medications, hospital stays and work history.
+
+## WHAT'S CHANGED SINCE IT WAS WRITTEN IN JULY
+**Nurse practitioners** can fill out the medical report too, not just doctors.
+
+**The $200 transition benefit** (the top-up for people moved to ADAP) runs to December 2027. But income can be taken off it, so it isn't always the full $1,940.
+
+**The couples rate.** The 88% rule for couples was repealed on October 1. The guide doesn't mention it either way.
+
+**New medical information.** The guide says the Medical Review Panel won't accept new information. There's also a separate 12-month window to send in new information that the guide doesn't mention.
+
+**Employment rules.** If ADAP cuts your benefit over employment participation, that decision can be appealed. The guide doesn't say so.
+
+**Yearly increases.** The guide says benefits go up each year to keep up with inflation. The first adjustment is January 1, 2027, and the rule caps it, so it may not fully match inflation.
+
+## STILL CHECKING
+The guide mentions a **$100,000 asset limit** and a **365-day window** to move money into an exempt asset. I haven't confirmed those against the regulation yet, so please check with your worker before you rely on them. I'll let you know what I find.
+
+Thank you to CMHA Edmonton for putting this together.`
+      },
+      {
         title: "New form: the pharmacy's \"maintenance medications\" form",
         date: "2026-10-08",
         doc: "/pdfs/aish-adap/fillable/Maintenance_Medications_Frequent_Dispensing_Form_fillable_ADSB.pdf",
