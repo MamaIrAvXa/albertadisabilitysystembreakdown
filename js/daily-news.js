@@ -9,6 +9,128 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-10-09",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 9, 2026",
+  body: `Here's what I confirmed tonight.
+
+## COUPLES ON AISH AND ADAP
+The province updated its ADAP page again this afternoon. It still doesn't show the lower amount for couples, which matches the regulation change filed on October 1. It still says nothing about when the back pay will come or how it will show up. I haven't seen a date from the department. Please keep your payment statements from August on.
+
+## GOING BACK TO AISH: WHO PAYS FOR THE MEDICAL REPORT
+If you were on AISH and were moved to ADAP, the government covers the cost of one medical report when you reapply for AISH. There's no time limit on that, and a doctor or a nurse practitioner can fill it out.
+
+Do this **before** the clinic fills anything in:
+
+Ask your worker for preapproval.
+
+Ask for the confirmation letter by its form number, **EMP11587**. It tells the clinic the program will pay.
+
+Why this matters: a different government page still says you pay the fee yourself. A clinic reading that page may bill you. The letter is your proof.
+
+## MONEY AND DATES
+**Canada Disability Benefit:** $204.20 a month through June 2027. The next payment is **Thursday, October 15**. It can take a few days to arrive.
+
+**Alberta Energy Rebate ($100):** if you're on AISH, ADAP, Income Support or the Alberta Seniors Benefit, you were enrolled automatically. Everyone else has to apply by **October 31**.
+
+**Fuel tax:** the provincial fuel tax is suspended from October 1 to the end of the year.
+
+## REFERENDUM
+**Advance voting:** October 13 to 17, 9 am to 8 pm.
+
+**Mailed special ballots** have to be **received** by 5 pm on Friday, October 16.
+
+**Referendum day:** Monday, October 19, 9 am to 8 pm.
+
+You vote in your own electoral division.
+
+A correction: an earlier graphic here said requests for a mail ballot closed October 9. Elections Alberta moved that deadline to September 25, so it has already passed. If you didn't request one, you can still vote in person on the dates above.
+
+## IF YOU NEED HELP FINDING A SERVICE
+211 Alberta takes texts as well as calls. Text **INFO** to **211**, any time, day or night.
+
+I didn't get to every channel I normally read tonight, so this is what I confirmed in what I read. It isn't a promise that nothing else moved.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-09",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 9, 2026",
+  body: `Nothing changed in what I read tonight. Here's what I confirmed.
+
+## OLD AGE SECURITY AND GIS WENT UP
+For October through December, OAS and the Guaranteed Income Supplement (GIS) went up 1.4 percent. The most you can get each month is now:
+
+**OAS, ages 65 to 74:** $762.50
+
+**OAS, age 75 and over:** $838.75
+
+**GIS, single person:** $1,138.90
+
+## PAYMENT DATES
+**Alberta Seniors Benefit:** Monday, October 26. Then Tuesday, November 24 and Thursday, December 17.
+
+**OAS and Canada Pension Plan:** Wednesday, October 28. Then November 26 and December 22.
+
+## ALBERTA ENERGY REBATE ($100)
+If you get the Alberta Seniors Benefit, you were enrolled automatically and don't need to apply. If you don't get it, you have to apply by **October 31**.
+
+## FUEL TAX
+The provincial fuel tax is suspended from October 1 to the end of the year.
+
+## IF YOU'RE OWED BACK PAYMENTS
+The Alberta Seniors Benefit can be paid backwards for up to **11 months**. OAS has an 11-month limit too. If you think you should have been getting either one and weren't, apply now. Every month you wait can be a month you can't get back.
+
+## NOTHING NEW ON PENSIONS OR DENTAL
+I read this week's federal notices. There's nothing new on OAS, GIS, the Canada Pension Plan or the dental plan. The dental repayment order I've been watching for hasn't been published yet. I'll check the next issue and tell you who it covers.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-09",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 9, 2026",
+  body: `No rate changed and no deadline moved tonight. I did read several laws all the way through, and a few things are worth knowing.
+
+## DATES
+**Canada Child Benefit:** Tuesday, October 20.
+
+**Alberta Child and Family Benefit:** Friday, November 27.
+
+**Alberta Energy Rebate ($100):** apply by October 31, unless you're on AISH, ADAP, Income Support or the Alberta Seniors Benefit. Those were enrolled automatically.
+
+## WHEN A SCHOOL SENDS EVERYONE HOME
+Alberta's In-person Learning Regulation says a school board can move everyone to at-home learning without the Minister's permission for **3 school days in a row at most**, and only when the building isn't safe. The board has to tell the Minister within 48 hours how many students and which grades.
+
+Every board also had to publish a policy by September 1, 2025 on how it decides whether a child learns at school or at home. You can ask your board for that policy.
+
+Two limits on this. The rule is about closing a school to everyone. It does not cover one child being sent home early. And I haven't read any board's policy yet, so I can't tell you whether they mention disability. That's next on my list.
+
+## READING AND MATH SCREENING
+The law lets the Minister make rules for exempting a child from the literacy and numeracy screening tests. No such rule has been made. The only regulation covers kindergarten to grade 3 and says nothing about exemptions. So right now there's no published way to ask for one.
+
+## TURNING 18: PDD
+PDD is the adult program for people with developmental disabilities.
+
+If PDD says your young person isn't eligible, you can appeal. Only three kinds of decisions can't be appealed, and all three are about contracts with service providers. The appeal form is in the regulation itself.
+
+PDD will accept information already gathered by AISH or ADAP. It doesn't work the other way. Someone getting PDD services still has to file a full AISH/ADAP application, with a medical report. That's from the policy manual, which is guidance, not law.
+
+I read the PDD Act and both of its regulations in full tonight. The words "citizen," "resident" and "facility" don't appear in any of them. The policy manual uses rules about those things when someone turns 18. I'm telling you what the text says and doesn't say. I'm not telling you what a court would decide.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-10-08",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 October 8, 2026",

@@ -1,5 +1,5 @@
 # ADSB Newsletter Manifest — FULL SITE (every git-tracked file, not PDFs only)
-# Generated: 2026-10-03 02:19 UTC | HEAD: 20fb02f | Format: <sha1-12>	<path>
+# Generated: 2026-10-10 02:20 UTC | HEAD: cbc98d7 | Format: <sha1-12>	<path>
 # Next run: diff this list, AND run `git diff <last HEAD> HEAD` to catch content added inside js/*.js data files.
 ff42ba4d877f	.gitattributes
 a08450e005b2	.gitignore
@@ -109,17 +109,18 @@ e438e7100435	audio/the-full-plain-language-library/5_Plain_Language_Get_Your_Own
 1c9fbb897398	audio/the-full-plain-language-library/7_Plain_Language_Write_To_Your_MLA_And_MP.mp3
 14e7f8c5cd15	audio/the-full-plain-language-library/8_Plain_Language_What_No_Action_Required_Really_Means.mp3
 a0db6ce003ac	audio/the-full-plain-language-library/9_Plain_Language_What_Your_Doctors_Letter_Needs_To_Say.mp3
-1f16ea399375	cowork-newsletter-manifest.txt
+53325a9241e1	cowork-newsletter-manifest.txt
 8b4197593958	css/styles.css
 4dcafd8303d8	cta-card.html
 90095b86efb3	fcssaa-package-section.html
 2082d2df8fa8	fcssaa.html
-8d79d689bafc	index.html
-effb1112ae1d	js/app.js
-42380b5d53a5	js/daily-news.js
+b9b12495dbae	index.html
+647e219d5ef8	js/app.js
+0f32df62ea07	js/daily-news.js
 20008f0fad16	js/email-letters.js
-28125b9e0e46	js/faq.js
-d4a3d860df10	js/field-notes.js
+ad6e93ad7b54	js/faq.js
+ccfb7d3e123f	js/field-notes (1).js
+f75ed8b2a3c3	js/field-notes.js
 a4bd59dab381	js/legal-package-sender.js
 a1398ef03296	netlify-catchall-fix.toml
 ff383b5d2421	netlify-redirects-to-add.toml
@@ -293,37 +294,40 @@ d81b795d97da	pdfs/aish-adap/fillable/AISH_Appeal_Letter_ReadyToPrint_and_Sign_Ju
 baac4dc3d53d	pdfs/aish-adap/fillable/DISABILITY_Advocacy_Consent_Fillable.pdf
 4df40b085217	pdfs/aish-adap/fillable/DISABILITY_Advocacy_Consent_PrintFill.pdf
 229845c5678b	pdfs/aish-adap/fillable/DS2444A_fillable.pdf
+77c6d111bbdb	pdfs/aish-adap/fillable/DS2444A_fillable_Rev2026-10.pdf
 4da3a67601ec	pdfs/aish-adap/fillable/DS2444B_fillable.pdf
 fd9089e6cc53	pdfs/aish-adap/fillable/Fillable_ADAP_Exemption_Caregiver_Statement.pdf
 2754ccca805e	pdfs/aish-adap/fillable/Fillable_ADAP_Exemption_Recipient_Statement.pdf
 be5ee28caab2	pdfs/aish-adap/fillable/Fillable_AISH_Appeal_CPPD_Grounds_June2026.pdf
-16523b5e2121	pdfs/aish-adap/fillable/Fillable_AISH_File_Correction_Letter.pdf
+83041bb8bb99	pdfs/aish-adap/fillable/Fillable_AISH_File_Correction_Letter.pdf
 1f103290155c	pdfs/aish-adap/fillable/Fillable_ATIA_Personal_File_Request.pdf
 9411de6c80f6	pdfs/aish-adap/fillable/Fillable_Active_Application_Stop_Deduction_Letter.pdf
 3ef8d0a0c85e	pdfs/aish-adap/fillable/Fillable_Ally_Advocacy_Submission.pdf
-834e17f6f8ff	pdfs/aish-adap/fillable/Fillable_CDB_200_Deduction_Correction_Letter.pdf
-b358ed4bcc34	pdfs/aish-adap/fillable/Fillable_CDB_Clawback_Documentation.pdf
-b56fedf9ac87	pdfs/aish-adap/fillable/Fillable_CDB_Deduction_Correction_Letter_v2_July2026.pdf
-a16ef097d333	pdfs/aish-adap/fillable/Fillable_CDB_Overpayment_Appeal_Form.pdf
+4b7cb3151c89	pdfs/aish-adap/fillable/Fillable_CDB_200_Deduction_Correction_Letter.pdf
+2f1032edb533	pdfs/aish-adap/fillable/Fillable_CDB_Clawback_Documentation.pdf
+9949aaf5b25a	pdfs/aish-adap/fillable/Fillable_CDB_Deduction_Correction_Letter_v2_July2026.pdf
+ed3b0299bd14	pdfs/aish-adap/fillable/Fillable_CDB_Overpayment_Appeal_Form.pdf
 ac1b18f49586	pdfs/aish-adap/fillable/Fillable_Community_Story_Submission.pdf
 fc90af375d22	pdfs/aish-adap/fillable/Fillable_Community_Story_Submission_PRINTABLE.pdf
-1ab9cf0c1cc9	pdfs/aish-adap/fillable/Fillable_Employment_Barriers_Notice_July2026.pdf
+9e2194133a8b	pdfs/aish-adap/fillable/Fillable_Couples_Underpayment_Request_AR244_2026.pdf
+9a896469b245	pdfs/aish-adap/fillable/Fillable_Employment_Barriers_Notice_July2026.pdf
 a17125412347	pdfs/aish-adap/fillable/Fillable_Formal_Complaint_Template.pdf
 2c5653d5ccb4	pdfs/aish-adap/fillable/Fillable_Health_Card_Coverage_Letters_August2026.pdf
 aa8e701c16ed	pdfs/aish-adap/fillable/Fillable_Letter_to_the_Minister_AISH_to_ADAP_June2026.pdf
 151525ee4e08	pdfs/aish-adap/fillable/Fillable_MLA_Letter_Episodic_Disability_s15-4.pdf
 b85bc57c7b73	pdfs/aish-adap/fillable/Fillable_MLA_Letter_s15-4_LetterOnly.pdf
 92254a09daaa	pdfs/aish-adap/fillable/Fillable_MLA_MP_Contact_Letter.pdf
-5dcb76a9d8b8	pdfs/aish-adap/fillable/Fillable_Monthly_Income_Status_Report.pdf
+914dd760f251	pdfs/aish-adap/fillable/Fillable_Monthly_Income_Status_Report.pdf
 b9430ce87424	pdfs/aish-adap/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Caregiver_Edition.pdf
 df3a2a458b43	pdfs/aish-adap/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Letter.pdf
 ff5b48e9a0be	pdfs/aish-adap/fillable/Fillable_Neudorf_STOP_ADAP_Letter.pdf
 fad576018829	pdfs/aish-adap/fillable/Fillable_Neudorf_STOP_ADAP_Letter_Caregiver_Edition.pdf
 bb4245f26ab8	pdfs/aish-adap/fillable/Fillable_Personal_Impact_Statement.pdf
-7d3a6733a270	pdfs/aish-adap/fillable/Fillable_Pre_Appeal_Submission.pdf
+d21fc0917f04	pdfs/aish-adap/fillable/Fillable_Pre_Appeal_Submission.pdf
 d19f5c10eb8c	pdfs/aish-adap/fillable/Fillable_Recording_Accommodation_Request.pdf
-222e7139bfad	pdfs/aish-adap/fillable/Fillable_Travel_Benefit_Request_July2026.pdf
+7459a5b26b11	pdfs/aish-adap/fillable/Fillable_Travel_Benefit_Request_July2026.pdf
 bc3e3e9c737c	pdfs/aish-adap/fillable/LargePrint_Accommodation_Request_PrintAndWrite.pdf
+cd609d9c7569	pdfs/aish-adap/fillable/Maintenance_Medications_Frequent_Dispensing_Form_fillable_ADSB.pdf
 27fce4c49a8c	pdfs/aish-adap/fillable/MoveFastBreakThings_Accountability_Submission_June2026.pdf
 9225f4db37f1	pdfs/aish-adap/fillable/My_Individual_Plan_SelfAdvocacy_Worksheet.pdf
 38931714fca9	pdfs/aish-adap/fillable/My_Individual_Plan_SelfAdvocacy_Worksheet_PrintAndWrite.pdf
@@ -350,6 +354,22 @@ d19f5c10eb8c	pdfs/aish-adap/fillable/OUTOFDATE-retire/Fillable_Recording_Accommo
 bc3e3e9c737c	pdfs/aish-adap/fillable/OUTOFDATE-retire/LargePrint_Accommodation_Request_PrintAndWrite.pdf
 27fce4c49a8c	pdfs/aish-adap/fillable/OUTOFDATE-retire/MoveFastBreakThings_Accountability_Submission_June2026.pdf
 ac21632c10b7	pdfs/aish-adap/fillable/OUTOFDATE-retire/READ_ME_OUTOFDATE.md
+c5539715da72	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/CHANGE_RECORD_2026-10-06.md
+81dd6fddd786	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/CORRECTED_POST_2026-10-06.md
+16523b5e2121	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/Fillable_AISH_File_Correction_Letter.pdf
+834e17f6f8ff	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/Fillable_CDB_200_Deduction_Correction_Letter.pdf
+b358ed4bcc34	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/Fillable_CDB_Clawback_Documentation.pdf
+b56fedf9ac87	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/Fillable_CDB_Deduction_Correction_Letter_v2_July2026.pdf
+a16ef097d333	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/Fillable_CDB_Overpayment_Appeal_Form.pdf
+1ab9cf0c1cc9	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/Fillable_Employment_Barriers_Notice_July2026.pdf
+5dcb76a9d8b8	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/Fillable_Monthly_Income_Status_Report.pdf
+7d3a6733a270	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/Fillable_Pre_Appeal_Submission.pdf
+222e7139bfad	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/Fillable_Travel_Benefit_Request_July2026.pdf
+0f6f557f7f18	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/_checksums_before.txt
+24f6db03319f	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/_render_checks/aishcorr-4.png
+1b501c1d0828	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/_render_checks/clawback-5.png
+50cda56f7a1c	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/_render_checks/preappeal-4.png
+22a828143314	pdfs/aish-adap/fillable/_backup/2026-10-06_pre_northzone_email_change/_render_checks/preappeal-5.png
 bec1bd149f92	pdfs/aish-adap/fillable/september-2026-updates/DISABILITY_Advocacy_Consent_Fillable_with_guide.pdf
 b901900080ca	pdfs/aish-adap/fillable/september-2026-updates/DS2444A_fillable_with_guide_BOUND.pdf
 28de308f1c05	pdfs/aish-adap/fillable/september-2026-updates/DS2444B_fillable_with_guide_BOUND.pdf
@@ -533,6 +553,7 @@ d3537b0f6762	pdfs/aish-adap/government-form-originals/adap-engagement/adap-engag
 85d07b120932	pdfs/aish-adap/government-form-originals/adap-engagement/adap-engagement-sept52025.pdf
 2220b2b4dd44	pdfs/aish-adap/government-form-originals/adap-engagement/adap-engagement.pdf
 6122bac4d121	pdfs/aish-adap/government-form-originals/advocacy/inclusion-alberta-media-release-adap-could.pdf
+40c682f8e99d	pdfs/aish-adap/government-form-originals/external-reports/AISH ADAP Practical Guide CMHA Edmonton Updated July 29 2026.pdf
 4dd09442b5a3	pdfs/aish-adap/government-form-originals/external-reports/Martin_Disability_Workforce_Strategy_Full_Data_Package.pdf
 3261276b4a0e	pdfs/aish-adap/government-form-originals/external-reports/The Work Capability Assessment for Employment and Support Allowance - House of Commons Library.pdf
 ee3d7ce242ef	pdfs/aish-adap/government-form-originals/external-reports/auditor-general-report-cpp-disability.pdf
@@ -551,6 +572,7 @@ cfb57820715a	pdfs/aish-adap/government-form-originals/financial-statements/conso
 0cd364ba7a34	pdfs/aish-adap/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements-4.pdf
 def71ef4930b	pdfs/aish-adap/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements-5.pdf
 1ff2a3a8ffdd	pdfs/aish-adap/government-form-originals/financial-statements/the-mustard-seed-society-financial-statements.pdf
+66ef3dcf27f8	pdfs/aish-adap/government-form-originals/government-forms/DS2444A Rev. 2026-10.pdf
 bddb11288722	pdfs/aish-adap/government-form-originals/government-forms/DS2444A – Disability Income Assistance Application.pdf
 aa9c068b9181	pdfs/aish-adap/government-form-originals/government-forms/DS2444B – Disability Assistance Medical Report.pdf
 3db777f95939	pdfs/aish-adap/government-form-originals/government-forms/Health Information Access Request Form AHS.pdf
@@ -785,6 +807,9 @@ ec396be1e4d2	pdfs/aish-adap/plain-language/Compound_Failure_Plain_Language_Guide
 724dceaa1b72	pdfs/aish-adap/plain-language/Employment_Assumption_Plain_Language_2026.pdf
 0f5e82d764d1	pdfs/aish-adap/plain-language/Indigenous_Disability_Plain_Language_Guide.pdf
 03f3ddccc050	pdfs/aish-adap/plain-language/Your_Right_to_Appeal_PlainLanguage_June2026.pdf
+8e6252c40cb2	pdfs/aish-adap/program-policy-manual-updates/PMUCEI09-10-2026.jpg
+a2114437e312	pdfs/aish-adap/program-policy-manual-updates/PPMU10-06-2026.jpg
+273985291492	pdfs/aish-adap/program-policy-manual-updates/PPMU10-09-2026-2.jpg
 1420d9285383	pdfs/aish-adap/separation-risk/ADSB_Separation_Risk_Analysis_May2026.pdf
 898211851e00	pdfs/aish-adap/september-2026-docs/ADSB_AAS13391_Consent_to_Release_Fillable.pdf
 747a7c1e34b8	pdfs/aish-adap/september-2026-docs/ADSB_Before_You_Go_RDHA_Application_Sept2026.pdf
@@ -891,13 +916,13 @@ f35363e8d106	pdfs/pdd/september-2026/government-originals/PDD_Principles_for_Det
 e1e7c09a4749	pdfs/pdd/september-2026/government-originals/PDD_Risk_Analysis_Form.pdf
 0159259a2f17	pdfs/pdd/september-2026/government-originals/PDD_Risk_Analysis_Guide.pdf
 5128b4e70b32	pdfs/pdd/september-2026/government-originals/PDD_Service_Provider_Agreement.docx
-b5f5d1f26830	pdfs/seniors/fillable/ADSB_Seniors_Appeal_Packet_Fillable_Oct2026.pdf
-2e30dcdd7351	pdfs/seniors/fillable/ADSB_Seniors_Appeal_Packet_LARGE_PRINT_Fillable_Oct2026.pdf
+6fbba4ee1a88	pdfs/seniors/fillable/ADSB_Seniors_Appeal_Packet_Fillable_Oct2026.pdf
+b18b8cda3b3b	pdfs/seniors/fillable/ADSB_Seniors_Appeal_Packet_LARGE_PRINT_Fillable_Oct2026.pdf
 2b85ef67024b	pdfs/seniors/fillable/ADSB_Seniors_Direct_Deposit_ASB_and_SNA_Fillable_Oct2026.pdf
 bacdb4552a90	pdfs/seniors/fillable/ADSB_Seniors_Direct_Deposit_SHARP_Fillable_Oct2026.pdf
 874c073960e7	pdfs/seniors/fillable/ADSB_Seniors_Property_Tax_Deferral_Application_Fillable_Oct2026.pdf
 174826db600b	pdfs/seniors/fillable/ADSB_Seniors_SHARP_Loan_and_Grant_Application_Fillable_Oct2026.pdf
-b6558414ebbc	pdfs/seniors/fillable/ADSB_Seniors_SNA_Request_Fillable_Oct2026.pdf
+c272ddd1455d	pdfs/seniors/fillable/ADSB_Seniors_SNA_Request_Fillable_Oct2026.pdf
 e73fd35ba91c	pdfs/seniors/government-form-originals/01_Seniors_Alberta/ASB_Direct_Deposit_Request.pdf
 534ac002286a	pdfs/seniors/government-form-originals/01_Seniors_Alberta/SHARP_Direct_Deposit_Request.pdf
 bb9987fcc3d8	pdfs/seniors/government-form-originals/01_Seniors_Alberta/SHARP_Information_Guide_Loan_Application_and_Agreement.pdf
