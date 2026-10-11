@@ -9,6 +9,158 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-10-10",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 10, 2026",
+  body: `**Corrections:** none tonight.
+
+An update (the government changed this, it was not a mistake on our end):
+
+## COUPLES ON AISH OR ADAP
+The province's own policy manual now says in writing what the law change on October 1 did. The policy manual is the rulebook staff use to run AISH and ADAP.
+
+What it says:
+
+When both partners are on AISH or ADAP, each of you gets the full living allowance. The living allowance is your main monthly amount: up to **$1,940** on AISH and up to **$1,740** on ADAP.
+
+It is reduced only by "non-exempt income." That means income the program counts against your benefit.
+
+The department can issue "underpayments." That is their word for back pay, to make up for the months couples were paid the lower amount.
+
+Where I read it: a memo dated October 6 called **DIA-Program-2026-007**, and the manual's Living Allowance page.
+
+## WHAT I STILL CAN'T TELL YOU
+When the back pay will come.
+
+How it will show up on your statement.
+
+How much it will be.
+
+I could only read the first part of that memo tonight, so I'm not putting a date or a dollar figure in front of you until I've read all of it.
+
+**What to do now:** keep your payment statements from August on. If you're a couple and something looks wrong on your next payment, reach out to us.
+
+One more thing. The ADAP page on alberta.ca was last updated October 9 and still says nothing about couples or back pay. So the staff rulebook has caught up, and the public page has not.
+
+## DATES TO KEEP IN FRONT OF YOU
+**Thursday, October 15:** Canada Disability Benefit. It's $204.20 a month through June 2027 and is paid on the third Thursday of each month.
+
+**Tuesday, October 27:** the November payment for AISH, ADAP and Income Support.
+
+**Saturday, October 31:** last day to apply for the Alberta Energy Rebate. If you were on AISH, ADAP, Income Support or the Alberta Seniors Benefit, you are signed up automatically.
+
+**To the end of the year:** the provincial fuel tax is suspended. That's about 13 cents a litre.
+
+## THE REFERENDUM
+**Advance voting:** Tuesday, October 13 to Saturday, October 17.
+
+**Mail-in special ballots** must be received by 5 pm on Friday, October 16.
+
+**Referendum day:** Monday, October 19, 9 am to 8 pm, at your assigned voting place.
+
+Registering at a returning office or by phone closed at 4 pm today. You can still register in person at an advance voting location in your area, or at your voting place on referendum day.
+
+There's no right or wrong answer on the ballot, and you can skip any question.
+
+## WHAT I DID NOT GET TO TONIGHT
+I didn't read every channel I normally check. The Alberta Gazette, ministerial orders and a few federal sources were not opened. So this is what I confirmed in what I read. It's not a promise that nothing else moved.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-10",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 10, 2026",
+  body: `**Corrections:** none tonight.
+
+## SPECIAL NEEDS ASSISTANCE: THE INCOME LIMITS HAVE NOT MOVED
+Special Needs Assistance is the Alberta program that helps lower-income seniors pay for things like appliances, some medical supplies and personal supports.
+
+The income limits dropped on July 1. I checked the province's list and the Seniors Benefit Act tonight, and they have not changed since.
+
+**For the main items:** $32,690 for a single senior and $53,800 for a couple.
+
+**For the secondary items:** $28,290 for a single senior and $45,600 for a couple.
+
+If your income is over the limit for an item, you don't qualify for that item.
+
+Something I learned tonight: these lower limits are written into the Seniors Benefit Act itself. They are in the law, not only on a program sheet.
+
+## OLD AGE SECURITY AND GIS: THE 11-MONTH RULE
+If you apply late for Old Age Security or the Guaranteed Income Supplement (GIS, the top-up for lower-income seniors), the law only lets them pay you back for **11 months** before your application. I re-read that in the Old Age Security Act tonight.
+
+So if you think you may qualify and haven't applied, please don't wait. Every month past 11 is money you can't get back.
+
+## DATES
+**Saturday, October 31:** last day to apply for the Alberta Energy Rebate. If you get the Alberta Seniors Benefit, you are signed up automatically.
+
+**The referendum:** advance voting is Tuesday, October 13 to Saturday, October 17. Mail-in special ballots must be received by 5 pm on Friday, October 16. Referendum day is Monday, October 19, 9 am to 8 pm. There's no right or wrong answer, and you can skip any question.
+
+## SOMETHING I'M WATCHING
+Health ministers from across Canada meet in Winnipeg on October 15 and 16. No agenda has been published. I'll watch for anything on drug or dental coverage.
+
+## WHAT I DID NOT GET TO TONIGHT
+Tonight was a short check. I compared four laws against their live versions and did not get to the rest. I'm not posting pension amounts or payment dates tonight because I didn't re-open them. Nothing changed in what I could read.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-10",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 10, 2026",
+  body: `**Corrections:** none tonight.
+
+The short version: nothing changed for families today. No rate moved, no date moved and no rule moved. Here's what I confirmed, and two things worth knowing.
+
+## FSCD RATES ARE UNCHANGED
+FSCD is Family Support for Children with Disabilities. I read the regulation live tonight. It hasn't changed since June 25, 2025, and it runs until June 30, 2029. The amounts in it:
+
+**Mileage:** 12 cents a kilometre
+
+**Clothing and footwear:** $400 a year
+
+**Respite (a break for caregivers):** 240 hours a year
+
+**Parking:** $10 a day
+
+**Hotel:** $85 a day
+
+**Dental:** costs above $250 a year
+
+**Medical:** costs above 2% of both parents' combined net income
+
+## YOU CAN SEE WHEN THE CHILDREN'S RULES CHANGED. YOU CAN'T FOR THE ADULT PROGRAM.
+The FSCD policy manual has a "Latest updates" page. It shows one change this year, on February 20. That change was about program responsibilities, how family information is handled, misuse of funds and the glossary. Nothing about rates, eligibility, respite or appeals.
+
+PDD is Persons with Developmental Disabilities, the adult program many of our kids move into at 18. Its policy manual has no update page and no "last updated" date anywhere. I read its whole table of contents tonight.
+
+What that means for a family: you can see when the rules for your child last changed. Once your child turns 18, there's no way to see when the rules were changed.
+
+## PROGRAM UNIT FUNDING IS MISSING FROM THE GOVERNMENT'S OWN PAGE
+Program Unit Funding, or PUF, is money for young children with severe disabilities in early education.
+
+Last year's provincial action team on classroom complexity recommended broadening PUF and extending it to Grade 1. That was its Recommendation 5.
+
+I read the government's "Taking action on classroom complexity" page tonight. It lists complexity teams, new teachers and a cabinet committee. It does not mention Program Unit Funding at all. Eleven months after the report, there's no funding and no rule attached to that recommendation on that page.
+
+## ONE DATE
+**Saturday, October 31:** last day to apply for the Alberta Energy Rebate.
+
+## WHAT I DID NOT GET TO TONIGHT
+I didn't check the federal Orders in Council or federal bills for the last two days. I'll pick those up next run.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-10-09",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 October 9, 2026",
