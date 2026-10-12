@@ -9,6 +9,164 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-10-11",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 11, 2026",
+  body: `Quiet night. Nothing new came out of the government today that changes anyone's cheque. Here's where things sit going into the long weekend. Monday is Thanksgiving, so government offices are closed.
+
+## COUPLES ON AISH OR ADAP
+The government's own policy manual still says what it said on October 6: when both partners qualify, each of them gets the full living allowance, minus any income that isn't exempt. (The living allowance is the main monthly amount. "Exempt" income is income they let you keep without lowering your cheque.)
+
+What I still haven't been able to read from the government itself is **when** and **how** the back pay will come.
+
+What the news has reported (not confirmed by the government yet): back pay goes back to the August 2026 payment, it's expected before the end of 2026, and you don't need to do anything to get it. I'll tell you as soon as I can read it in the government's own words.
+
+## WHAT YOU CAN DO NOW
+**Keep every payment statement** from August on.
+
+**Watch your November payment.** It lands Tuesday, October 27. Check whether it shows the full amount.
+
+**If you owe the program money, write it down.** The manual says they can put money they owe you against a debt, and that choice can't be appealed. How much they say they owe you **can** be appealed.
+
+## UPDATE (THE GOVERNMENT'S PAGES DON'T AGREE WITH EACH OTHER)
+The ADAP page on alberta.ca says people moved from AISH in July **"will receive"** the $200 a month transition benefit until December 31, 2027. The policy manual says they **"may receive"** it. "Will" is a promise. "May" isn't. I've noted it as a question for the department. If you were moved in July and you're **not** getting the $200, reach out to us.
+
+## DATES COMING UP
+**Thursday, October 15:** Canada Disability Benefit, up to $204.20. It pays on the third Thursday of the month, and that's the 15th this month. Remember, it counts as income on AISH and ADAP, so report it.
+
+**Tuesday, October 27:** AISH and ADAP November payment.
+
+**Saturday, October 31:** last day to apply for the Alberta Energy Rebate if you weren't automatically enrolled.
+
+The provincial fuel tax is off until the end of the year. That's about 13 cents a litre.
+
+## REFERENDUM
+**Advance voting:** Tuesday, October 13 to Saturday, October 17.
+
+**Mail-in (special) ballots** have to **reach** Elections Alberta by 5 pm Friday, October 16. If you haven't mailed yours yet, it might not make it in time, so advance voting may be safer.
+
+**Voting day:** Monday, October 19, 9 am to 8 pm.
+
+You can register right at the voting place.
+
+There's no right or wrong answer, and you can skip any question you don't want to answer.
+
+## CORRECTIONS
+None tonight.
+
+If something on your statement doesn't look right, reach out to us and we'll go through it with you.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-11",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 11, 2026",
+  body: `Nothing new from the government today. Here's what's worth knowing this week.
+
+## SPECIAL NEEDS ASSISTANCE: THE INCOME LIMITS WENT DOWN
+Special Needs Assistance helps low-income seniors with things like appliances, dental or home repairs. To qualify, your income has to be under a limit. On July 1 those limits went **down**, and they haven't gone back up.
+
+**Single:** $32,690 (it was $34,770)
+
+**Couple:** $53,800 (it was $56,820)
+
+The lower limits for second-tier items are $28,290 single and $45,600 couple.
+
+That's about **$2,080 less** for a single senior and **$3,020 less** for a couple. Someone who qualified in the spring might not qualify now, even if their income stayed the same.
+
+The same limit decides who can get help through SHARP (the Seniors Home Adaptation and Repair Program).
+
+## PAYMENT DATES
+**Monday, October 26:** Alberta Seniors Benefit
+
+**Wednesday, October 28:** Old Age Security (OAS) and Canada Pension Plan (CPP)
+
+## OAS AND GIS, OCTOBER TO DECEMBER
+**OAS age 65 to 74:** up to $762.50 a month
+
+**OAS age 75 and up:** up to $838.75 a month
+
+**GIS (Guaranteed Income Supplement, the top-up for low income) single:** up to $1,138.90 a month
+
+## ENERGY REBATE: OCTOBER 31
+If you were on the Seniors Benefit **before** July 1, you get it automatically.
+
+If you started on the Seniors Benefit **after** July 1, you have to **apply** by Saturday, October 31.
+
+Household income limit: $225,000.
+
+## CONTINUING CARE
+The most a continuing care home can charge for a private room went up on August 1 to **$83.05 a day** (it was $81.60). The Seniors Benefit top-up for people living in continuing care is based on that number.
+
+## LODGES: A CHANGE COMING JANUARY 1
+New rules signed September 24 change how the lowest lodge rate is figured, starting January 1, 2027. It's based on the OAS and GIS amounts. A lodge with very small rooms (under 300 square feet) can take up to $100 off. No dollar amount has been published yet. I'll post it when there is one.
+
+## DON'T WAIT TO APPLY
+The Seniors Benefit can only be backdated up to **11 months**. (An appeal panel can go further if that's fair.)
+
+OAS and GIS can only be backdated up to **11 months**.
+
+If you think you might qualify, apply now. Waiting can cost you months you can't get back.
+
+## WATCHING
+Canada's health ministers meet in Winnipeg on October 15 and 16. I'll post anything that comes out of it that affects seniors.
+
+## CORRECTIONS
+None tonight.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-11",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 11, 2026",
+  body: `Nothing changed tonight for FSCD, PDD or school rules. One thing I found is worth knowing if your child will be turning 18.
+
+## PDD DECIDES HALF ITS TEST WITH A LIST IT DOESN'T PUBLISH
+PDD (Persons with Developmental Disabilities) is the adult program many of our kids move to at 18. To qualify, the rules say a person has to be unable to do **6 or more "adaptive skills"**. Those are everyday life skills, like dressing, cooking or handling money.
+
+The government's own guidelines explain the IQ part of the test in detail: which test, who gives it, what score, and how recent it has to be.
+
+The adaptive skills part gets two sentences. They say the "PDD Adaptive Skills Inventory" will be used and that it's "administered by trained PDD staff."
+
+The guidelines don't list a single skill. I couldn't find the government's list published anywhere.
+
+What families have had to use instead is an older, undated copy an Alberta disability group put online. It lists 24 areas. Six or more marked "assistance required" means the person qualifies. It isn't a government document, so I can't promise it's the current version. If you want it before a PDD meeting, reach out to us and we'll send it with that warning attached.
+
+**Why this matters:** if you can't see the list, you can't prepare for it. Before a PDD intake, **ask in writing for a copy of the Adaptive Skills Inventory** they'll use. For each area, describe your young person's **worst** day, not their best.
+
+## WHAT DIDN'T CHANGE (CHECKED TONIGHT)
+The FSCD Regulation hasn't changed since June 25, 2025. No FSCD amount has moved.
+
+The FSCD policy manual still shows one update this year: February 20, 2026.
+
+The PDD policy manual still has no "last updated" date anywhere. You can see when the FSCD rules last changed. For PDD you can't.
+
+The PDD law hasn't been amended since December 2023.
+
+The Legislature's bill record shows no activity since May 14, 2026, so no new law has passed since then.
+
+## DATES
+**Thursday, October 15:** Canada Disability Benefit, up to $204.20 for adults who get it. If your adult child is on AISH or ADAP, it counts as income and has to be reported.
+
+**Saturday, October 31:** Alberta Energy Rebate application deadline, if you weren't automatically enrolled.
+
+## CORRECTIONS
+None tonight.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-10-10",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 October 10, 2026",

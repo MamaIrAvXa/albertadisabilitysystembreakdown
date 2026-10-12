@@ -41,7 +41,7 @@ Two limits in the same policy that nobody mentions out loud. If you receive the 
 
 As a general habit with any benefit, ask the program to note your top-up in writing. If your own deposit does not match, ask for a written breakdown rather than assuming. _(all four points confirmed against the DIA Policy Manual, Transition Benefits, August 2026)_
 
-**Update, October 5, 2026:** the 88 percent couple reduction mentioned in the first bullet was repealed on October 1, 2026. See the update on the couples answer above.`
+**Update, October 5, 2026:** the 88 percent couple reduction mentioned in the first bullet was repealed on October 1, 2026. See the update on the couples answer in the Money section below.`
       }
     ]
   },
@@ -66,7 +66,23 @@ If one of those is what is cutting your payment, this order does not touch it. E
 
 What the regulation does not give is a date. So we made a request letter you can send if you want a record: the **Request for Payment of Underpaid Living Allowance**. It is not an application. It asks three things in writing: when and how you will be paid, the month-by-month calculation, and notice before anything is deducted. Each partner sends their own, to the office that holds their file.
 
-If you would rather wait and see, that is a fair choice. Keep your payment statements from August on either way. _(section 20(1.1) of the AISH General Regulation, added by Alberta Regulation 244/2026, October 1, 2026)_`
+If you would rather wait and see, that is a fair choice. Keep your payment statements from August on either way. _(section 20(1.1) of the AISH General Regulation, added by Alberta Regulation 244/2026, October 1, 2026)_
+
+**Update, October 11, 2026:** the government has now said something about timing. In a news release on **October 6, 2026**, it said affected couples "will be repaid the full difference, back to August 2026," that **no action is required**, and that payments are **expected before the end of 2026**. That is the government's own statement of what it intends, and it has not given a payment day, a method, or a total. It also has not said whether anything can be taken out of the repayment first, so the notice-before-deductions question in our request letter still stands.
+
+You still do not have to apply, and the request letter is still a fair way to keep a dated record. Keep your payment statements from August on, and check the November deposit (it lands October 27) to see which amount you are being paid. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026)_`
+      },
+      {
+        q: `Does the $100 Alberta energy rebate count against my AISH or ADAP, and do I have to apply?`,
+        a: `The rebate is **$100 per eligible person**, and the government's page says rebates "are non-taxable and will not affect other government benefits." That is the government's own statement, which we have not seen tested, so check your next statement and tell us if anything looks off.
+
+**Do you have to apply?** If you were already on AISH (including if you were moved to ADAP), Income Support or the Alberta Seniors Benefit, you were enrolled automatically and there is nothing to do. If you came onto one of those programs **after July 1, 2026**, you have to apply yourself through the province's portal.
+
+**The deadline was extended.** Applications now close **October 31, 2026**. The portal stays open until then.
+
+Anyone else can apply if they were 18 or older on July 1, 2026, live in Alberta, filed a 2025 tax return, and have a household income of $225,000 or less. Payment is made by direct deposit or Interac e-Transfer, after you verify who you are through online banking, photo ID, or your 2025 Notice of Assessment. The page says rebates are sent within 14 days of applying.
+
+Keep it separate from the fuel-tax relief in the next answer, which needs no application. _(Alberta Energy Rebate page, read October 11, 2026)_`
       },
       {
         q: `Is there other help with costs this fall, besides the energy rebate?`,
@@ -105,7 +121,10 @@ Keep every payment statement from August on. If you would like a dated record th
 This change is only for couples where **both** partners are on AISH or ADAP. It does not change payments for single people, the rules for a partner's wages, or the Canada Disability Benefit deduction.
 
 **If Google or an AI tool tells you the 88 percent rule still stands:** it is reading the government's online copy of the regulation, which had not been updated as of October 5. The change is in the order itself, on page 2. _(Order in Council 342/2026, filed as Alberta Regulation 244/2026 on October 1, 2026, amending AR 96/2026, read at the Alberta King's Printer, October 5, 2026; section 20(2) and its exemption from appeal per AR 96/2026 s.20(2) and AR 89/2007 s.6(i); the August start per the government's ADAP page)_
-**Update, October 5, 2026:** the deadline above has moved. On September 30, 2026 the government extended it, and **applications now close October 31, 2026**. The same release says receiving the rebate "will not affect eligibility or benefit amounts under AISH, ADAP, Income Support, Alberta Seniors Benefit or federal seniors' programs" — the government's own statement, which we have not seen tested. If you were on AISH, ADAP, Income Support or the Alberta Seniors Benefit before July 1, you were enrolled automatically. If you came onto one of those programs after July 1, you have to apply yourself through the province's portal. Anyone else can apply if they were 18 or older on July 1, 2026, live in Alberta, filed a 2025 tax return, and have a household income of $225,000 or less. _(extension per the Treasury Board and Finance news release of September 30, 2026 and the Alberta Energy Rebate page, October 5, 2026)_`
+
+**Update, October 11, 2026:** the government has now announced the fix. In a news release on **October 6, 2026**, it said full benefit amounts are being restored for couples where both partners get AISH or ADAP, that the reduced rate first applied in the **August 2026** assistance period, and that affected couples "will be repaid the full difference, back to August 2026." It says **no action is required** and that payments are **expected before the end of 2026**. The ADAP page was also republished on October 9 and no longer describes the 88 percent rule.
+
+What is still missing: a payment date, how the money will be paid, the total, and whether anything owed to the government can be taken out of it first. The regulation lets a director do that (section 20(2)) and that decision cannot be appealed, so keep asking for notice in writing before any deduction. Our dollar estimates above are still our arithmetic, not a government figure. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026; Alberta Disability Assistance Program page, October 11, 2026; section 20(2) and its exemption from appeal per AR 96/2026 s.20(2) and AR 89/2007 s.6(i))_`
       },
       {
         q: `My partner gets a pension — how much of it counts against my benefits?`,
@@ -191,7 +210,9 @@ Nothing changes on your rent today, and none of this reaches you until your own 
         q: `I was moved to ADAP but I cannot work — how do I get back to AISH?`,
         a: `The way back is a reassessment. It is not automatic — you have to ask. The government now says plainly that it covers the cost of **one** medical assessment for people who were moved to ADAP and later choose to be assessed for AISH, and that this support **is not time-limited** — it is there whenever you decide to use it.
 
-Ask for it in writing anyway, and keep the answer. Not because we doubt the policy, but because a written record of what you were promised is what protects you if a worker tells you something different later. If your condition means you cannot work at all, this is the path, and you do not have to do it alone. _(one covered medical assessment and the "not time-limited" wording confirmed on the government's ADAP page, ADAP fact sheet and ADAP appeal page, September 2026)_`
+Ask for it in writing anyway, and keep the answer. Not because we doubt the policy, but because a written record of what you were promised is what protects you if a worker tells you something different later. If your condition means you cannot work at all, this is the path, and you do not have to do it alone. _(one covered medical assessment and the "not time-limited" wording confirmed on the government's ADAP page, ADAP fact sheet and ADAP appeal page, September 2026)_
+
+**Update, October 11, 2026:** three things have been added. The government's October 6 release says **nurse practitioners can now complete and sign** the medical report, in addition to physicians. If you used to be on AISH, you can now use a **shortened application**: the program uses the non-medical information it already has on file (see the next answer for what that means on the form). And the ADAP page says to get **preapproval from a worker first** for the covered report, so ask for that in writing before you book the appointment. The covered report is still one report, with no time limit. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026; Alberta Disability Assistance Program page, October 11, 2026; policy update DIA-Program-2026-006, October 6, 2026)_`
       },
       {
         q: `Is there a deadline to move back to AISH?`,
@@ -199,7 +220,9 @@ Ask for it in writing anyway, and keep the answer. Not because we doubt the poli
       },
       {
         q: `What does the AISH application look like?`,
-        a: `It is one application in two parts. Part A is yours — the part you fill out about yourself, your income, and your living details (the form is called the DS2444A). Part B is the medical report your doctor or nurse practitioner fills out about your condition and how it affects you (the DS2444B). Both parts go in together — one application, two halves. If filling them out feels like a lot, bring your questions to this community and we will take them apart one piece at a time.`
+        a: `It is one application in two parts. Part A is yours — the part you fill out about yourself, your income, and your living details (the form is called the DS2444A). Part B is the medical report your doctor or nurse practitioner fills out about your condition and how it affects you (the DS2444B). Both parts go in together — one application, two halves. If filling them out feels like a lot, bring your questions to this community and we will take them apart one piece at a time.
+
+**Update, October 11, 2026:** if you used to be on AISH and were moved to ADAP, there is now a shorter route. The DS2444A was revised in October 2026. On the page called **Your Situation**, near the front, it asks whether you are a current ADAP client who transitioned from AISH to ADAP and want to apply for AISH. If you tick **Yes**, you complete three sections only: **Information About You**, **Employment History**, and **Education/Training History**, plus the medical report. The sections on a spouse or partner, children, trustee, income and assets are not asked of you. Check that your copy says **Rev. 2026-10** at the bottom, because older copies do not have that question. A nurse practitioner can fill out the medical half, as well as a doctor. _(DS2444A, Rev. 2026-10; policy update DIA-Program-2026-006, October 6, 2026; news release "Stronger supports for Albertans with disabilities," October 6, 2026)_`
       }
     ]
   },
@@ -208,7 +231,7 @@ Ask for it in writing anyway, and keep the answer. Not because we doubt the poli
     items: [
       {
         q: `Can I appeal a benefit cut under the new employment rules?`,
-        a: `Yes. A benefit cut under the employment provision — section 15(4) — is **not** on the list of decisions that are exempt from appeal. On the published regulation, that kind of cut **is** appealable. If your benefit is reduced under the new employment rules, you have the right to appeal it — in writing, within 30 days of being told.
+        a: `Yes. A benefit cut under the employment provision — section 15(4) — is **not** on the list of decisions that are exempt from appeal. On the published regulation, that kind of cut **is** appealable. If your benefit is reduced under the new employment rules, you have the right to appeal it — in writing, within 30 days of the date you receive notice of the decision.
 
 We have now read both regulations side by side, word for word. Section 15(4) is the provision that lets a director cut an ADAP benefit if they believe you refused, reduced or ended reasonable employment, or would not take part in an employment support. The exempt list has eleven items. Exactly one of them is a decision to refuse, suspend, vary or discontinue a benefit — and it is a cut under section 15(1)(b)(i), for failing to claim or assign a federal benefit like CPP or Old Age Security. Section 15(4) is not on the list anywhere.
 
@@ -223,7 +246,7 @@ Two big ones are barred outright:
 - **The move from AISH to ADAP itself.** It happened automatically, so there was never a decision to appeal.
 - **The AISH Medical Review Panel's finding that you are not medically eligible for AISH.** That one is final.
 
-The regulation also shuts out nine narrower things, mostly about money already paid: whether to let you off repaying a benefit, how a debt gets collected, a demand to repay a personal benefit, deducting a debt out of your benefit, spreading your income over a different period, a finding that you refused a transfer out of hospital, two specific exemption decisions, and the decision **to grant** a personal benefit.
+The regulation also shuts out ten narrower things, mostly about money already paid: whether to let you off repaying a benefit, how a debt gets collected, a demand to repay a personal benefit, deducting a debt out of your benefit, spreading your income over a different period, a finding that you refused a transfer out of hospital, two specific exemption decisions, the decision **to grant** a personal benefit, and a cut for failing to apply for a federal benefit like CPP or Old Age Security (section 15(1)(b)(i) only, not the employment cut in section 15(4)).
 
 Here is a distinction worth holding onto, because it is where people get talked out of appealing. Two different things can put a decision out of reach, and they are not the same. Some decisions are on the regulation's exempt list. Others are simply not the Director's to make — they belong to the Minister, and an appeal panel cannot touch a Minister's decision at all. There is a third limit too: a panel has no power to rule on whether a decision is constitutional. So "you cannot appeal that" can mean three quite different things, and only one of them is the exempt list.
 
@@ -284,7 +307,7 @@ Starting **October 1, 2026**, a change means two *other* government health progr
 
 **AISH and ADAP health benefits are not one of the two named programs.** As far as we can find, this change does not touch your AISH or ADAP health coverage at all.
 
-One caution: we have not read the actual legislation for this \u2014 everything above comes from insurance-industry summaries, not a government page we opened ourselves. If you are on AISH or ADAP and get a bill you weren't expecting after October 1, ask your worker in writing whether this rule applies to you, and bring the answer to us. _(reported by Alberta Blue Cross and insurance-industry sources; not independently confirmed against the Health Statutes Amendment Act, 2025 (No. 2) or its regulations)_
+One caution: we have not read the legislation itself \u2014 everything above comes from insurance-industry summaries, not a government page we opened ourselves. If you are on AISH or ADAP and get a bill you weren't expecting after October 1, ask your worker in writing whether this rule applies to you, and bring the answer to us. _(reported by Alberta Blue Cross and insurance-industry sources; not independently confirmed against the Health Statutes Amendment Act, 2025 (No. 2) or its regulations)_
 
 **Update, October 5, 2026:** the October 1, 2026 date above has now passed, so the change is meant to be in effect. Nothing we have found says it reaches AISH or ADAP health benefits, but we still have not read the legislation itself. If you have received a bill you were not expecting since October 1, ask your worker in writing whether this rule applies to you.`
       },
@@ -373,7 +396,9 @@ One caution, because it is not all good news. The manual also says an AISH clien
 
 The change can be read in one place: Order in Council 342/2026 on the Alberta King's Printer site. It is two pages. On page 2, look for "by repealing subsection (4)" and "the director must pay."
 
-A good rule for any of this: when a summary and the document disagree, go with the document. That goes for our summaries too, which is why we name the source every time. _(Order in Council 342/2026, Alberta King's Printer; King's Printer consolidation of AR 96/2026 as shown October 5, 2026)_`
+A good rule for any of this: when a summary and the document disagree, go with the document. That goes for our summaries too, which is why we name the source every time. _(Order in Council 342/2026, Alberta King's Printer; King's Printer consolidation of AR 96/2026 as shown October 5, 2026)_
+
+**Update, October 11, 2026:** this has moved on. The government issued a news release on **October 6, 2026** saying full amounts are being restored for couples and repaid back to August 2026, and its Alberta Disability Assistance Program page, republished October 9, no longer describes the 88 percent rule. If a tool or a post still tells you the rule stands, it is out of date. The part nobody has published yet is the payment date and method: the release says payments are expected before the end of 2026. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026; Alberta Disability Assistance Program page, October 11, 2026)_`
       },
       {
         q: `I saw an official-looking post with AISH/ADAP numbers — can I trust it?`,
