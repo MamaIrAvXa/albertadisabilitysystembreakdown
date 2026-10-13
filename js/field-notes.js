@@ -16,6 +16,47 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Petition: a review of how CPP disability money is used (e-7751)",
+        date: "2026-10-13",
+        body: `If you get CPP disability, or are waiting on it, this petition is about you.
+
+## WHAT'S THE ISSUE?
+The Canada Pension Plan (CPP) is a pension you paid into from your paycheques while you worked. When you become disabled, CPP disability is supposed to replace some of that income.
+
+But often the money doesn't all reach you. For example, when CPP back pay comes in, part of it can be sent to repay another program that paid you while you waited. And some insurance plans cut their own payments by however much CPP pays you.
+
+This petition says rule changes made in 1997 opened the door to these arrangements. It asks whether that still matches what CPP was created for.
+
+## WHAT DOES IT ASK FOR?
+It asks the House of Commons to:
+
+**Review** the 1997 changes to the CPP law.
+
+**Independently check** whether today's agreements and practices still follow the purposes Parliament set.
+
+**Restore** any protections that were weakened.
+
+**Set up regular independent reviews**, so the law, not habit, decides how CPP is used.
+
+## THE DETAILS
+**Petition number:** e-7751
+
+**Sponsored by** MP John Barlow (Foothills, Alberta)
+
+**Open for signatures until** January 14, 2027
+
+It needs at least **500 signatures** to be presented in the House of Commons.
+
+## HOW TO SIGN
+Go to the petition page: [sign petition e-7751 on the House of Commons website](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7751).
+
+Fill in your name, email and address. You need to be a Canadian citizen or resident.
+
+**Check your email and click the confirmation link.** Your signature doesn't count until you click it!
+
+Signing is free, takes about 2 minutes, and your information isn't shown publicly.`
+      },
+      {
         title: "Community resource: EaseCare (online mental health care, all of Alberta)",
         date: "2026-10-13",
         body: `Several of you have told me you can't get mental health care, or you're paying out of pocket for therapy. Here's a resource worth knowing about.

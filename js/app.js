@@ -848,12 +848,20 @@ function dnFormatDate(d) {
 function dnEscape(s) {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
-// Escape, then apply inline emphasis: **bold**, *italic*, _italic_.
+// Escape, then apply inline emphasis: **bold**, *italic*, _italic_,
+// and links written as [text](https://...). Links are pulled out first so
+// underscores or asterisks inside a web address are never read as emphasis.
 function mdInline(s) {
-  return dnEscape(s)
+  const links = [];
+  const out = dnEscape(s)
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^\s)"]+)\)/g, (m, text, url) => {
+      links.push('<a href="' + url + '" target="_blank" rel="noopener">' + text + "</a>");
+      return "\u0000" + (links.length - 1) + "\u0000";
+    })
     .replace(/\*\*([^*]+?)\*\*/g, "<strong>$1</strong>")
     .replace(/\*([^*]+?)\*/g, "<em>$1</em>")
     .replace(/_([^_]+?)_/g, "<em>$1</em>");
+  return out.replace(/\u0000(\d+)\u0000/g, (m, i) => links[+i]);
 }
 function dnBodyToHtml(body) {
   const lines = body.split("\n");
