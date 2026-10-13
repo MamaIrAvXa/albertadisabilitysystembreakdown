@@ -16,6 +16,47 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Community resource: CANAVUA (Edmonton area)",
+        date: "2026-10-13",
+        body: `I want to share another local resource with you.
+
+**CANAVUA** (Canadian Volunteers United in Action Society) is a volunteer-run non-profit in the Edmonton area. It works with people facing food and housing insecurity. Its roots are in Alberta's Francophone community, but its community services are for vulnerable Edmontonians.
+
+## WHAT THEY LIST ON THEIR WEBSITE
+A food bank.
+
+A community food truck that serves hot meals weekly.
+
+A mobile farmers market.
+
+Rides for seniors.
+
+An employment navigator program, to help people find their way to work supports.
+
+Airport pickups for newcomers to Canada.
+
+Housing planning and development work.
+
+## HOW TO REACH THEM
+**Phone:** 780-249-1155
+
+**Email:** info@canavua.org
+
+**Website:** canavua.org
+
+**Hours:** Monday to Friday, 9:00 am to 5:00 pm
+
+Their website doesn't list locations or who qualifies for each service. Please call or email first to ask what's available near you and how to sign up.
+
+## IF YOU CAN'T TRAVEL
+**Important:** if you **can't** travel, because of your disability, your health, or because you don't have a ride, say so right away when you call or email. Ask them what they can do for someone who can't get to them.
+
+They also take volunteers, if you're looking for a way to give back.
+
+## IF YOU NEED FOOD OR HELP TONIGHT
+CANAVUA's lines are open weekdays only. Outside those hours, **211** can point you to food and other help near you, and you can text **INFO** to **211**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
         title: "Housing: what changes January 1, 2027 (as at October 12, 2026)",
         date: "2026-10-12",
         body: `New rules for community housing (rent-geared-to-income housing, like Civida) start **January 1, 2027**. That's 81 days away. Here's what I've been able to confirm from the government's own filed documents.
