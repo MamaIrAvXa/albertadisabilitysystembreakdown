@@ -9,6 +9,139 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-10-12",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 12, 2026",
+  body: `Another quiet night. Nothing new came out from the province or Ottawa about AISH, ADAP or the Canada Disability Benefit since last night. I didn't get to every channel I usually check tonight, so this is what I confirmed in what I read.
+
+## COUPLES ON AISH OR ADAP
+The government's policy manual still says that when both partners qualify, each of them gets the full living allowance (the main monthly amount), minus any income that isn't exempt.
+
+I still haven't been able to read **when** or **how** the back pay will come. The government's instructions to staff about it are in a scanned document I'm still working on reading. I won't give you a date or a number until I can read it in their own words.
+
+**Keep your payment statements from August on.**
+
+## DATES COMING UP
+**Tomorrow, Tuesday, October 13:** referendum advance voting opens. It runs to Saturday, October 17.
+
+**Thursday, October 15:** Canada Disability Benefit. It's paid on the third Thursday of each month.
+
+**Friday, October 16, 5 pm:** mailed-in (special) ballots have to **reach** Elections Alberta by then. If yours isn't in the mail yet, advance voting is the safer bet.
+
+**Monday, October 19:** referendum day, 9 am to 8 pm.
+
+**Tuesday, October 27:** AISH, ADAP and Income Support November payment.
+
+**Saturday, October 31:** last day to apply for the Alberta Energy Rebate if you weren't automatically enrolled.
+
+The provincial fuel tax (about 13 cents a litre) is off until the end of the year.
+
+For the referendum: there's no right or wrong answer, and you can skip any question.
+
+## STILL OPEN
+The ADAP page says people moved from AISH in July **"will receive"** the $200 a month transition benefit. The policy manual says they **"may receive"** it. I'm still treating that as a question for the department. If you were moved in July and you're not getting the $200, reach out to us.
+
+## CORRECTIONS
+None tonight.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-12",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 12, 2026",
+  body: `Nothing new from the province or Ottawa today. A few things worth knowing:
+
+## THE FEDERAL "RED TAPE" BILL DOESN'T TOUCH YOUR PENSION
+A new federal bill, **Bill S-7**, the Cutting Red Tape for All Canadians Act, was introduced in the Senate on October 7. I went through the bill. It doesn't mention Old Age Security at all. It does mention the Canada Pension Plan, but only in sections about businesses that go bankrupt and owe unpaid CPP contributions. Nothing in it changes OAS, GIS or CPP payments.
+
+It's also only at second reading (an early stage of debate), so it could still change.
+
+## DENTAL AND OPTICAL HELP: THE LOWER INCOME LIMIT
+The province's Dental and Optical Assistance for Seniors program covers:
+
+**Single seniors** with income up to $32,690
+
+**Couples** with income up to $65,380
+
+If you're single and your income is even a little over $32,690, you get no dental or optical help from this program this year. That's the same lower limit Special Needs Assistance dropped to on July 1.
+
+## YOUR DRUG COVERAGE
+Since October 1, if you have private or other drug coverage, it pays first. Alberta's Coverage for Seniors is now the backup. The government's page says "No eligible Albertan will lose access to government-sponsored drug coverage because of this change." If a pharmacy tells you something different, reach out to us.
+
+## SHARP: WAITING ON A PAYMENT?
+The SHARP page (Seniors Home Adaptation and Repair Program) still has a notice about people with no banking information being contacted "during a postal strike." If you're waiting on a SHARP payment and didn't give your banking details, sending in a direct deposit form is the fastest way to get it.
+
+## DATES
+**Monday, October 26:** Alberta Seniors Benefit payment.
+
+**Saturday, October 31:** Energy Rebate deadline. If you started on the Seniors Benefit **after** July 1, you have to apply yourself. It won't come on its own.
+
+**October 15 and 16:** Canada's health ministers meet in Winnipeg. News reports say the provinces want home care and mental health funding renewed before it runs out in March 2027. I'll post anything that comes out of it.
+
+## CORRECTIONS
+None tonight.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-12",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 12, 2026",
+  body: `One real change tonight, and it's about how fast FSCD has to get to your file.
+
+## FSCD HAS A NEW TIMELINE STANDARD
+FSCD (Family Support for Children with Disabilities) has a policy manual. In it is a list of "Essential Program Standards," the program's own rules for measuring how well it's doing. There's a new one.
+
+**Standard 2.1.** Once your file is assigned to a worker:
+
+The worker should contact you within **3 working days** to set up an assessment of needs. (The assessment of needs is the meeting where they look at what your child needs.)
+
+The assessment should be finished within **15 working days**.
+
+If something outside the worker's control causes a delay, it's supposed to be written in your file.
+
+**What it isn't:** it's not a law or a right you can enforce. It's a policy standard the program uses to measure itself. Nothing in it gives you a remedy if the days pass.
+
+## WHAT YOU CAN STILL DO WITH IT
+Write down the date you were told your file was assigned.
+
+Count the working days.
+
+If you haven't been contacted in 3, ask in writing: **"Standard 2.1 says contact within three working days of file assignment. When will my assessment of needs be scheduled?"**
+
+If there's a delay, ask what reason was written in your file.
+
+No start date for this standard is shown anywhere.
+
+## THE MANUAL'S UPDATE LIST IS NOW BLANK
+The FSCD manual has a "Latest updates" page. Until October 11, it showed one update, dated February 20, 2026. Tonight it shows a heading and nothing under it. So the new standard went up with no listed update. If you're waiting on FSCD, don't rely on that page to tell you when things change.
+
+## SECLUSION AND RESTRAINT IN SCHOOLS
+Alberta's rules on seclusion (putting a student alone in a room) and physical restraint in schools come from a 2019 order by the Minister of Education, in effect since November 1, 2019. The order's opening says school authorities "will be required to submit regular reports, on a per school basis, on the use of seclusion rooms."
+
+Both that order and the standards attached to it are posted as scanned images. That means you can't search them, and a screen reader can't read them, for rules about how disabled children can be restrained. I'm working through the rest of the standards and will report what they require.
+
+## DATES
+**Thursday, October 15:** Canada Disability Benefit, for adults who get it. If your adult child is on AISH or ADAP, it counts as income and has to be reported.
+
+**Saturday, October 31:** Alberta Energy Rebate application deadline, if you weren't automatically enrolled.
+
+## CORRECTIONS
+None tonight. See the note below if you've ever seen me say FSCD had no timeline.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-10-11",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 October 11, 2026",

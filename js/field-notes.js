@@ -16,6 +16,44 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Housing: what changes January 1, 2027 (as at October 12, 2026)",
+        date: "2026-10-12",
+        body: `New rules for community housing (rent-geared-to-income housing, like Civida) start **January 1, 2027**. That's 81 days away. Here's what I've been able to confirm from the government's own filed documents.
+
+## THE MINISTER CAN COUNT MORE OF YOUR INCOME
+Right now, your rent is based mostly on your total income from your tax return. That's **line 15000** on your Notice of Assessment, the letter you get back from the CRA after you file.
+
+The new rule lets the Minister add **"any income or any other amount"** that isn't on that line when your rent is set. The rule doesn't name any benefit. That means the Minister can decide to count something new without changing the rules again.
+
+## THREE NUMBERS ARE SET BY THE MINISTER, NOT WRITTEN IN THE RULES
+Which extra income counts.
+
+The lowest rent you can be charged.
+
+The income limit to qualify, which depends on where you live.
+
+None of these amounts has been published yet. I'll post them when they are.
+
+## OTHER CHANGES
+To qualify, your household's assets (savings and things you own) have to be **$25,000 or less**.
+
+If someone in your home moves into a hospital or a continuing care home, rent can be refunded for the part of the month they're gone.
+
+## WHAT I HAVEN'T CONFIRMED
+You may have seen news saying the Canada Child Benefit and the Alberta Child and Family Benefit will start counting toward rent in 2027 or 2028. I haven't found that in any government document yet, including the ministry's business plan. **Treat it as reported, not confirmed.**
+
+As at October 12, I checked the government newsroom, the ministerial orders list, Open Government, the Alberta Gazette and Orders in Council. No order using this new power has been made yet.
+
+The Legislature's fall sitting starts **October 27**. That's the only sitting before these rules start.
+
+If you're in community housing and worried about your rent, reach out to us. The campaign line is **587-590-3590**.
+
+## IF RENT IS ALREADY TIGHT
+Nothing changes on your rent before January 1, and nothing reaches you until your own rent review. If you're short right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. **211** can point you to local help, and you can text **INFO** to **211**. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.
+
+_(The rule is Alberta Regulation 180/2026, made by Ministerial Order 2026-018, in force January 1, 2027.)_`
+      },
+      {
         title: "Disability employment supports just changed (October 9)",
         date: "2026-10-09",
         doc: "/pdfs/aish-adap/program-policy-manual-updates/PMUCEI09-10-2026.jpg",
