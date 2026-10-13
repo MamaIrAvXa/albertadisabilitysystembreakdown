@@ -16,6 +16,50 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Community resource: EaseCare (online mental health care, all of Alberta)",
+        date: "2026-10-13",
+        body: `Several of you have told me you can't get mental health care, or you're paying out of pocket for therapy. Here's a resource worth knowing about.
+
+**EaseCare** is an online mental health service for Albertans. You see a doctor by video, from home, anywhere in the province.
+
+## WHAT'S FREE (COVERED BY YOUR ALBERTA HEALTH CARE CARD)
+Visits with a doctor for over 100 mental health conditions.
+
+Referrals to their own psychiatrists.
+
+Medication reviews.
+
+ADHD and OCD assessments.
+
+Mental health care for children and teens (a parent or guardian books the first visit).
+
+No referral needed, and they say no credit card is needed for doctor visits.
+
+## WHAT COSTS MONEY
+Counselling and talk therapy sessions are optional and cost **$150 per session**. They say they'll tell you the price up front.
+
+So if what you need is a doctor or psychiatrist, a diagnosis, or help with medication, the doctor visits are covered. If what you need is ongoing counselling, that part is paid. **Ask before you book.**
+
+## HOW TO REACH THEM
+**Phone:** 587-323-8646
+
+**Website:** easecare.ca
+
+## EASECARE IS NOT FOR EMERGENCIES
+If you're in crisis:
+
+**911**
+
+**988** (call or text, anytime)
+
+**Alberta Mental Health Help Line: 1-877-303-2642**, any hour
+
+**Edmonton Distress Line: 780-482-4357**
+
+## A HEADS-UP
+This is a private service, and I haven't used it myself. If you try it, I'd love to hear how it went, good or bad, so I can tell others. Tell us at the campaign line, **587-590-3590**.`
+      },
+      {
         title: "Community resource: CANAVUA (Edmonton area)",
         date: "2026-10-13",
         body: `I want to share another local resource with you.
