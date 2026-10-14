@@ -338,7 +338,9 @@ Three situations close the door on a cost-share exemption altogether, and they a
       },
       {
         q: `Is the ADAP action plan optional?`,
-        a: `No. On ADAP, the individual action plan is a condition of your benefits, and a case manager helps build it around employment goals. The risk is walking in with nothing prepared and having a plan set on you that does not match your real life. Prepare first: put into your own words what you can and cannot reliably do, where your limits are, and what accommodations you need, so the plan reflects you rather than an assumption about you.`
+        a: `The law doesn't use the words "action plan." What the regulation says is that a director **may** reduce or stop your ADAP benefit if, in the director's opinion, you refused or neglected to take part in an employment support (AR 96/2026 s.15(4)(b)). The government's own policy manual says the program should work with you on barriers first, and that you take part "within the limitations of your impairment." If your health means you can't take part, get that in writing from your doctor and give it to your worker.
+
+**Correction, October 13, 2026:** this answer used to say the action plan "is a condition of your benefits." The law doesn't say that, and we should not have. The answer above replaces it. _(AR 96/2026 s.15(4)(b); Disability Income Assistance Policy Manual)_`
       },
       {
         q: `What if my disability means I cannot take part in the employment programming at all?`,

@@ -16,6 +16,92 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "I just sent this to the Minister: Health Care Action Plans (October 13, 2026)",
+        date: "2026-10-13",
+        doc: "/pdfs/aish-adap/flyers/posters/october13letter.png",
+        body: `Tonight I emailed **Minister Neudorf**, with a copy to **MLA Marie Renaud's office**, about ADAP clients being put on "Health Care Action Plans." A screenshot of the full email opens from the button at the bottom of this note.
+
+## WHY I SENT IT
+More than one member has told me the same story:
+
+They were put on a "Health Care Action Plan" through the employment services contractor.
+
+The plan itself says they **can't** take part in employment activities, because their health makes working impossible.
+
+They're still being kept on ADAP anyway, and were told their file could be at risk if they don't follow the plan.
+
+When they asked for help paying for the therapy or transportation the plan needs, they were told ADAP can't approve or deny that funding.
+
+## WHAT I FOUND WHEN I CHECKED THE LAW
+The words "health care action plan" don't appear anywhere in the ADAP law, the regulations or the government's policy manual. Neither does the name of any contractor.
+
+The government's own manual says ADAP is for people whose conditions **"impede, but do not fully prevent"** their ability to work. A plan that says you **can't** work describes someone outside what ADAP says it's for.
+
+The regulation says a director **"may"** reduce or stop your benefit for not taking part in an employment support. That's a choice, based on the director's opinion. It isn't automatic.
+
+Decisions about extra benefits like travel are made by a director or the Minister. There's also a travel benefit for ADAP clients who need to get to a training or employment program.
+
+The manual says these decisions "are not appealable," but the appeal regulation doesn't list them as exempt. The law and the manual don't agree, and I've asked about that.
+
+And I reminded the Ministry of something important: everyone moved from AISH to ADAP in July had **already** been assessed by this government as having a severe, likely permanent disability that limited their ability to earn a living. Nobody re-checked whether each person could work before moving them.
+
+I asked **7 questions** and asked for a written answer. I'll post the reply when I get one.
+
+## IF THIS IS HAPPENING TO YOU
+**Reach out to us.** The campaign line is **587-590-3590**, call or text. Please keep your health details private and send them to us directly.
+
+**Keep a copy** of your plan, and any letter or email about it.
+
+**If you're told your benefits will be cut, ask for the decision in writing**, with your appeal rights.
+
+**If your plan says you can't work, you can apply to go back to AISH.** Reach out and we'll walk you through it. The application is on the home page, in the card called "Reassessment: the door that's still open."
+
+A text that just says **"me too, action plan"** helps us count how many of us this is happening to.
+
+## IF THIS HAS YOU WORRIED
+**988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
+        title: "Have you been put on a \"Health Care Action Plan\" through ADAP? I need to hear from you",
+        date: "2026-10-13",
+        body: `I've now heard from more than one member who was put on a **"Health Care Action Plan"** through the employment services contractor (AKG) after being moved to ADAP.
+
+## WHAT THEY'VE TOLD ME
+The plan itself says they **can't** take part in employment activation, because their health makes working impossible.
+
+They're still being kept on ADAP anyway.
+
+They were told their file could be at risk if they don't follow the plan.
+
+When they asked for help paying for the therapy or transportation the plan needs, they were told ADAP can't approve or deny that funding.
+
+I'm checking the law and the regulations right now to see what, if anything, allows this. To ask the government the right questions, I need to know how many people this is happening to.
+
+## IF THIS HAS HAPPENED TO YOU, PLEASE REACH OUT
+Please keep your health details private. Send them to us directly, not anywhere public. The campaign line is **587-590-3590**, call or text.
+
+If you can, tell us:
+
+**Roughly when** you were put on the plan.
+
+**Whether it was through AKG** or another contractor.
+
+**What the plan says about whether you can work.** A photo of that part is great.
+
+**Whether anyone told you** your file or benefits could be affected.
+
+**Whether the plan needs things you'd have to pay for**, like therapy, counselling or transportation, and what you were told when you asked for help with that.
+
+**Whether anyone has talked to you about going back to AISH.**
+
+You can skip any question you're not comfortable answering. Even "yes, this happened to me too" helps. A text that just says **"me too, action plan"** counts.
+
+Nothing you send gets shared with your name on it. I use what you tell me to count how many people this is happening to, and to ask the government the right questions.
+
+## IF THIS PLAN HAS YOU WORRIED
+Being told your file is at risk over a plan that says you can't work is frightening, and you don't have to sort it out alone. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
         title: "Your Alberta health card: still valid",
         date: "2026-10-13",
         body: `A lot of you have asked whether your old paper health card, the one with no expiry date, still works. Here's the answer, straight from Alberta Health.
