@@ -16,6 +16,82 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Mental health and crisis support: save this list",
+        date: "2026-10-13",
+        doc: "/pdfs/aish-adap/october-2026-docs/ADSB_Emergency_Numbers_Card_October2026.pdf",
+        streams: ["AISH / ADAP / CPP-D", "Children / FSCD", "PDD", "Seniors Benefits CPP/CPPD", "Continuing Care / Home Care", "Income Support", "General Topics"],
+        body: `A reader sent me this list, and I wanted everyone to have it in one place. Save it, screenshot it, share it. You never know when you or someone you love will need it.
+
+**You don't have to be in crisis to call. Some of these lines are there just to talk.**
+
+## IF YOU'RE IN CRISIS RIGHT NOW
+**988 Suicide Crisis Helpline:** call or text 9-8-8, anytime (all of Canada)
+
+**Edmonton 24-Hour Distress Line:** 780-482-4357 (online chat at edmonton.cmha.ca)
+
+**Calgary 24-Hour Distress Line:** 403-266-4357
+
+**Rural Distress Line (outside Edmonton):** 1-800-232-7288
+
+**Alberta Mental Health Help Line (24/7):** 1-877-303-2642
+
+**Edmonton Access 24/7 and adult mobile crisis team:** 780-424-2424
+
+**Emergency:** 911
+
+## KIDS AND YOUTH
+**Kids Help Phone (24/7):** 1-800-668-6868, or text CONNECT to 686868
+
+**Bullying Helpline (Alberta):** 1-888-456-2323
+
+**Child Abuse Hotline (Alberta):** 1-800-387-5437
+
+## 2SLGBTQIA+
+**LGBT YouthLine:** text 647-694-4275
+
+**Trans Lifeline:** 1-877-330-6366
+
+**PFLAG Canada:** 1-888-530-6777
+
+**AltView Foundation (Alberta):** altview.ca
+
+## SENIORS
+**Seniors Abuse Helpline (Edmonton, 24/7):** 780-454-8888
+
+**SAGE Seniors Safe House:** 780-702-1520
+
+**Alberta Supports Contact Centre:** 1-877-644-9992
+
+**Alzheimer Society of Alberta and NWT:** 1-866-950-5465
+
+## INDIGENOUS
+**Hope for Wellness Helpline (24/7):** 1-855-242-3310
+
+**Residential School Crisis Line (24/7):** 1-866-925-4419
+
+**MMIWG Crisis Line (24/7):** 1-844-413-6649
+
+**Native Counselling Services of Alberta:** ncsa.ca
+
+**Non-Insured Health Benefits** (mental health counselling for eligible First Nations and Inuit): sac-isc.gc.ca
+
+## LOWER-COST COUNSELLING
+**YWCA of Edmonton** (sliding-scale therapy): ywcaofedmonton.org
+
+**Saffron Centre** (support for survivors of sexual violence): saffroncentre.com
+
+**Breaking Free Foundation** (grants to help trauma survivors pay for therapy): breakingfreefoundation.ca
+
+**211:** dial 2-1-1 or visit ab.211.ca for local counselling, housing and food supports
+
+**College of Alberta Psychologists** (check a psychologist is registered): cap.ab.ca
+
+## IF YOU'RE SHORT ON MONEY RIGHT NOW
+The **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.
+
+**Want it on paper?** The button at the bottom of this note opens the **Emergency Numbers Card**, two pages for the fridge, with this whole list on page 2.`
+      },
+      {
         title: "I just sent this to the Minister: Health Care Action Plans (October 13, 2026)",
         date: "2026-10-13",
         doc: "/pdfs/aish-adap/flyers/posters/october13letter.png",
