@@ -16,6 +16,32 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Your Alberta health card: still valid",
+        date: "2026-10-13",
+        body: `A lot of you have asked whether your old paper health card, the one with no expiry date, still works. Here's the answer, straight from Alberta Health.
+
+## YES, IT STILL WORKS
+Alberta Health's bulletin to doctors and clinics (**GEN 161, July 2, 2026**) says:
+
+**"Paper health cards without expiry dates remain valid until further notice."**
+
+## WHAT YOU NEED TO KNOW
+**Bring photo ID too.** If you use a paper health card or the mobile health card, you must also show ID to prove you're the person getting care.
+
+**New option:** since July 2, 2026, when you renew your driver's licence or Alberta ID card, your health number can be printed right on it. That way you carry one card instead of two. You don't have to do this, and your current card still works.
+
+**Expiry dates are coming.** As people re-confirm their health coverage, expiry dates will start appearing on health cards. Old cards without one are still fine for now.
+
+## WHAT YOU DON'T NEED TO DO
+You don't need to rush out and replace your card. If a clinic or pharmacy turns you away because your card has no expiry date, tell them about **Bulletin GEN 161** from Alberta Health. It says those cards remain valid.
+
+A member who chased this down was also told by the ministry that Albertans will be notified before any change. I'll post right away if anything changes.
+
+Thank you to the member who tracked this down!
+
+_Source: Alberta Health Care Insurance Plan Bulletin GEN 161, "Change To Personal Health Cards," July 2, 2026._ [Read the bulletin on Open Alberta](https://open.alberta.ca/dataset/0cdbbbe0-c5f2-48cd-aab1-8d567e025466/resource/6a6cc8d4-79d4-4252-bb85-d2037fe4db50/download/pphs-ahcip-bulletin-gen-161-2026-07.pdf).`
+      },
+      {
         title: "Petition: a review of how CPP disability money is used (e-7751)",
         date: "2026-10-13",
         body: `If you get CPP disability, or are waiting on it, this petition is about you.
