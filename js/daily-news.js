@@ -9,6 +9,158 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-10-13",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 13, 2026",
+  body: `## COUPLES ON AISH OR ADAP: I READ THE WHOLE MEMO
+I finally got the full text of the government's October 6 memo to staff about couples. It says:
+
+When both partners are on AISH or ADAP, each gets the full living allowance, minus any income that counts.
+
+"Underpayments" can now be issued to couples who were paid the lower amount. An underpayment is money they owe **you** because they paid you too little.
+
+What the memo does **not** say: when the money will come, or how. So I'm still not going to give you a date or a number.
+
+One thing to know: the government's general page on underpayments says they pay the full amount you were shorted, **but** the money "may be used to pay debts you have to the Alberta government." So if you owe the province money, some or all of a back payment could go to that debt first.
+
+## WHAT TO DO
+**Keep every payment statement** from August on.
+
+**Check your November payment on October 27.** Does it show the full amount?
+
+**If you owe the province money, write down how much**, so you can check what happens.
+
+## CHECK YOUR CDB DEDUCTION
+Several of you have found mistakes this month, in both directions. The Canada Disability Benefit (CDB) is taken off your AISH or ADAP payment dollar for dollar, but only the amount you **actually** get.
+
+Find your CDB deposit in your bank account.
+
+Find "CDB Deduction" on your payment statement.
+
+**The two should match.** If they don't, reach out to us.
+
+The **$150 CDB supplement should not be taken off.** It's a fixed amount, paid for each approved Disability Tax Credit certificate, and you don't apply for it.
+
+## NEW: SATELLITE INTERNET REBATE
+The province announced a rebate of up to **$1,000** for satellite internet equipment and installation, for about 10,000 rural households that aren't covered by a broadband project. It's based on your address, not your income. Applications are open until **March 31, 2027**. I haven't confirmed yet whether it counts as income for AISH, ADAP or Income Support, so check before you apply.
+
+## DATES
+**Now to Saturday, October 17:** referendum advance voting is open.
+
+**Thursday, October 15:** Canada Disability Benefit (paid on the third Thursday of the month). Up to $204.20.
+
+**Friday, October 16, 5 pm:** mailed-in ballots must **reach** Elections Alberta.
+
+**Monday, October 19:** referendum day.
+
+**Tuesday, October 27:** AISH, ADAP and Income Support November payment.
+
+**Saturday, October 31:** Energy Rebate application deadline, if you weren't enrolled automatically.
+
+The provincial fuel tax stays off until the end of the year.
+
+There's no right or wrong answer in the referendum, and you can skip any question.
+
+## CORRECTIONS
+None in this stream tonight. (There are two in the kids and families update.)
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-13",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 13, 2026",
+  body: `## PAYMENT DAYS THIS MONTH
+**Monday, October 26:** Alberta Seniors Benefit
+
+**Wednesday, October 28:** Old Age Security (OAS) and Canada Pension Plan (CPP)
+
+## ENERGY REBATE: 18 DAYS LEFT
+If you started on the Alberta Seniors Benefit **after** July 1, the Energy Rebate won't come on its own. Apply by **Saturday, October 31**.
+
+## THE $32,690 LINE
+If you're single, 65 or older, and your income is **$32,690 or less**, you may qualify for the Alberta Seniors Benefit. That's the same income limit the province now uses for dental and optical help, and for Special Needs Assistance since July 1.
+
+## CPP MAXIMUMS FOR 2026
+**Retirement pension at 65:** up to $1,507.65 a month
+
+**CPP disability:** up to $1,741.20 a month
+
+Most people get less than the maximum. Your amount depends on what you paid in.
+
+## OAS AND GIS, OCTOBER TO DECEMBER
+**OAS, age 65 to 74:** up to $762.50 a month
+
+**OAS, age 75 and up:** up to $838.75 a month
+
+**GIS (the top-up for low income), single:** up to $1,138.90 a month
+
+## NEW: SATELLITE INTERNET REBATE
+If you live rural and can't get regular high-speed internet, the province has a rebate of up to **$1,000** for satellite internet equipment and installation. It's based on your address, not your age or income. Apply by **March 31, 2027**.
+
+## WATCHING
+Canada's health ministers meet in Winnipeg this Thursday and Friday (October 15 and 16). Provinces want home care and mental health funding renewed.
+
+A new rule in Alberta's health insurance law makes private insurance pay first for some preventive screening tests. I'm still reading how it affects seniors and will report back before saying more.
+
+## CORRECTIONS
+None tonight. I didn't get to the federal cabinet orders or the newest Alberta regulation list, so this is what I confirmed in what I read.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-13",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 13, 2026",
+  body: `## CORRECTIONS
+I got two things wrong in the last few days. Here's what I said, and what's right.
+
+## 1. THE FSCD MANUAL'S UPDATE LIST (OCTOBER 12 UPDATE)
+I said the FSCD Policy Manual's "Latest updates" page was now blank. **That was wrong.** I was reading the wrong page. The update list is working: [the FSCD Policy Manual's Latest updates page](https://manuals.alberta.ca/fscd-policy-manual/latest-updates/latest-updates/). It still shows its one entry, dated February 20, 2026.
+
+**What still stands:** the manual now contains Standard 2.1 (contact within 3 working days, assessment finished within 15 working days), and the update list doesn't mention it at all.
+
+## 2. THE PDD ADAPTIVE SKILLS INVENTORY (OCTOBER 11 AND 13 UPDATES)
+I said I couldn't find the government's list of PDD adaptive skills published anywhere, and that the only copies families could find came from Autism Society Alberta and the Gateway Association. **That was wrong.** The government does publish it: [the PDD Adaptive Skills Inventory (PDF)](https://manuals.alberta.ca/media/fayh2x3c/pdd-adaptive-skills-inventory.pdf).
+
+It lists all **24 everyday skill areas** (like dressing, cooking, handling money, getting around and staying safe). **Six or more** marked "assistance required" means a significant limitation.
+
+**What still stands:** the government's PDD guidelines page names the inventory, but its link points to pddcm.gov.ab.ca, an address the public can't open. And the government's PDF has no date or version number on it.
+
+## WHAT STILL STANDS
+**FSCD Standard 2.1:** once your file is assigned, a worker should contact you within **3 working days**, and your assessment of needs should be finished within **15 working days**. There's no date for when it started.
+
+It's a policy standard, not a law. It's still worth pointing to, in writing, if you're waiting.
+
+Because the PDD inventory has no date or version number, **ask PDD in writing which version they'll use** for your young person.
+
+The PDD policy manual has no update list at all. You can't see when PDD rules change.
+
+## NOTHING ELSE MOVED
+FSCD rates haven't changed. The FSCD Regulation is still current as of June 25, 2025.
+
+There's still no published hourly rate for FSCD respite or aide workers. The manual only says "community standards."
+
+## NEW: SATELLITE INTERNET REBATE
+Up to **$1,000** for satellite internet equipment and installation, for rural households that can't get regular high-speed internet. It's based on your address. Apply by **March 31, 2027**.
+
+## DATES
+**Thursday, October 15:** Canada Disability Benefit, for adults who get it. If your adult child is on AISH or ADAP, it counts as income.
+
+**Saturday, October 31:** Energy Rebate application deadline, if you weren't enrolled automatically.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-10-12",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 October 12, 2026",
