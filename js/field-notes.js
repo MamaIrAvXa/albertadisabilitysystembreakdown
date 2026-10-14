@@ -16,6 +16,51 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Good news: the $100 Alberta Energy Rebate won't count against your benefits",
+        date: "2026-10-14",
+        streams: ["AISH / ADAP / CPP-D", "Income Support"],
+        doc: "/pdfs/aish-adap/program-policy-manual-updates/PPMU14-10-2026.jpg",
+        body: `Two policy updates came out today, **October 14, 2026**. Both say the same thing: the $100 Alberta Energy Rebate is protected.
+
+## WHAT IS THE ALBERTA ENERGY REBATE?
+It's a one-time $100 payment the province started sending on July 1, 2026. It's meant to help with groceries, fuel and other everyday costs.
+
+## IF YOU'RE ON AISH OR ADAP
+_(Memo DIA-Program-2026-008)_
+
+The $100 is **not** counted as income. Your monthly benefit should not go down because of it.
+
+The $100 is **not** counted as an asset. An asset is money you have saved, or things you own.
+
+Anything you **buy** with the $100 is not counted as an asset either.
+
+The memo says the rebate isn't counted as income because you don't have to report it to the Canada Revenue Agency (CRA). The new part today is the asset protection, which the Minister made official with a Ministerial Order. A Ministerial Order is a written rule the Minister signs.
+
+## IF YOU'RE ON INCOME SUPPORT (EXPECTED TO WORK OR BARRIERS TO FULL EMPLOYMENT)
+_(Memo IS-ETW/BFE-2026-012, Ministerial Order 2026-035)_
+
+The $100 is **not** counted as a financial resource. That means it's not treated as money you have to live on before Income Support helps.
+
+It's **not** counted as an asset or a liquid asset. A liquid asset is money you can get to quickly, like cash or money in the bank.
+
+Anything you buy with it is protected too.
+
+## FUNERAL BENEFITS FOR LOW INCOME ALBERTANS
+If someone who got the rebate has passed away, the rebate is also exempt for the person handling the funeral and for the estate. That means it won't count against the family when they apply for help with funeral costs.
+
+## WHAT YOU CAN DO
+**If your AISH, ADAP or Income Support went down after you got the $100**, check your statement. Then call **Alberta Supports at 1-877-644-9992** and ask them to fix it. Mention the memo number above.
+
+**Write down the date you called** and who you talked to.
+
+**If it doesn't get fixed**, reach out to us and we'll look at it together. The campaign line is **587-590-3590**.
+
+## ONE THING TO KNOW
+These memos are about AISH, ADAP, Income Support and funeral benefits. They don't say anything about community housing rent (like Civida). If you're filling in a housing review, you can still ask your housing provider in writing whether the $100 is counted.
+
+The button at the bottom opens the AISH and ADAP memo. [Read the Income Support memo](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/program-policy-manual-updates/pmu14-10-2026.jpg).`
+      },
+      {
         title: "Mental health and crisis support: save this list",
         date: "2026-10-13",
         doc: "/pdfs/aish-adap/october-2026-docs/ADSB_Emergency_Numbers_Card_October2026.pdf",

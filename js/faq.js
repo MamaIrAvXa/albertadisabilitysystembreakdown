@@ -82,7 +82,9 @@ You still do not have to apply, and the request letter is still a fair way to ke
 
 Anyone else can apply if they were 18 or older on July 1, 2026, live in Alberta, filed a 2025 tax return, and have a household income of $225,000 or less. Payment is made by direct deposit or Interac e-Transfer, after you verify who you are through online banking, photo ID, or your 2025 Notice of Assessment. The page says rebates are sent within 14 days of applying.
 
-Keep it separate from the fuel-tax relief in the next answer, which needs no application. _(Alberta Energy Rebate page, read October 11, 2026)_`
+Keep it separate from the fuel-tax relief in the next answer, which needs no application. _(Alberta Energy Rebate page, read October 11, 2026)_
+
+**Update, October 14, 2026:** it is now in writing from the program itself. Policy update **DIA-Program-2026-008** says the $100 rebate is not counted as income on AISH or ADAP, and a Ministerial Order exempts it as an asset, including anything you buy with it. For Income Support, update **IS-ETW/BFE-2026-012** and **Ministerial Order 2026-035** say the same: not a financial resource, not an asset. If your benefit went down after the rebate landed, call Alberta Supports at 1-877-644-9992, quote the update number, and write down the date and who you spoke to. _(DIA-Program-2026-008 and IS-ETW/BFE-2026-012, both October 14, 2026)_`
       },
       {
         q: `Is there other help with costs this fall, besides the energy rebate?`,
