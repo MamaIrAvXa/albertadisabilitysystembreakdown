@@ -9,6 +9,105 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-10-14",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 14, 2026",
+  body: `## THE $100 ALBERTA ENERGY REBATE WON'T COUNT AGAINST YOU
+Two policy updates came out today. If you're on AISH or ADAP, the $100 rebate isn't counted as income or as an asset (savings or things you own). Anything you bought with it is protected too. Income Support has the same protection. If your payment went down after you got the rebate, call **Alberta Supports at 1-877-644-9992** and mention memo **DIA-Program-2026-008** (AISH/ADAP) or **IS-ETW/BFE-2026-012** (Income Support). The full write-up is in Field Notes.
+
+## CANADA DISABILITY BENEFIT (CDB) PAYS TOMORROW, THURSDAY, OCTOBER 15
+The next one is Thursday, November 19. It can take a few days to show up in your account.
+
+## NOVEMBER AISH, ADAP AND INCOME SUPPORT PAYMENT
+**Tuesday, October 27.**
+
+## ENERGY REBATE: LAST DAY TO APPLY IS OCTOBER 31
+If you were on AISH, ADAP, Income Support or the Seniors Benefit on July 1, you were signed up automatically, and most of you got it in July. If you started after July 1, you have to apply yourself at energyrebate.alberta.ca. The provincial fuel tax pause runs until the end of the year.
+
+## WINTER RULES FOR UTILITIES START TOMORROW
+From **October 15 to April 15**, your electricity can't be fully cut off. From **November 1**, the same goes for natural gas. If you're behind on a bill, call the **Utilities Consumer Advocate at 310-4822**.
+
+## COUPLES: STILL NO DATE FOR THE MONEY OWED
+The October 6 memo says each partner should get the full living allowance, minus income that counts, and that underpayments (money they should have paid you) can be paid. It still doesn't say when or how. The province's own page says an underpayment may be used to pay down any debt you owe the government first. I won't give you a number or a date until I can source one. **Keep your payment statements from August on.**
+
+## REFERENDUM
+Advance voting runs until **Saturday, October 17**. Mailed ballots have to **arrive** by 5 pm Friday, October 16. Voting day is **Monday, October 19**.
+
+## CHECK YOUR CDB DEDUCTION
+AISH and ADAP should only take off the amount of CDB you actually get. If you get less than the full amount, they should take off less. Some of you have found mistakes on your statements. If yours doesn't match, call **1-877-644-9992** and ask them to fix it.
+
+I couldn't read every channel I normally check tonight. This is what I confirmed in what I could read, not a promise that nothing else moved.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-14",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 14, 2026",
+  body: `## PAYMENT DAYS THIS MONTH
+**Alberta Seniors Benefit:** Monday, October 26
+
+**OAS (Old Age Security) and CPP (Canada Pension Plan):** Wednesday, October 28
+
+## ENERGY REBATE
+If you started on the Alberta Seniors Benefit **after** July 1, the $100 Energy Rebate won't come on its own. You have until **October 31** to apply at energyrebate.alberta.ca.
+
+## WINTER RULES FOR UTILITIES
+Starting tomorrow, October 15, your electricity can't be fully cut off until April 15. From November 1, the same goes for natural gas. If you're behind on a bill, call the **Utilities Consumer Advocate at 310-4822** before winter sets in.
+
+## HEALTH COVERAGE
+Since October 1, if you have private health insurance (like a work or pension plan), it pays first. Government coverage for seniors is now the backup. There's a new rule for preventive health tests too: Alberta only pays the part your private plan didn't pay. The province hasn't published the list of which tests this covers yet.
+
+Nothing else changed for seniors in what I could read tonight. I didn't get to the newest Alberta regulation filings.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-14",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 14, 2026",
+  body: `## WINTER RULES START TOMORROW
+From **October 15 to April 15**, your home electricity can't be fully cut off. From **November 1**, the same goes for natural gas. This matters if your child uses a feeding pump, oxygen, suction, a ventilator or a lift. FSCD doesn't pay utility bills, so if you're behind, call the **Utilities Consumer Advocate at 310-4822** now, before it gets cold.
+
+## FSCD AMOUNTS, CHECKED TONIGHT
+These come straight from the FSCD Regulation (the law that sets the amounts). None of them have changed:
+
+**Respite:** up to 240 hours a year (about 20 hours a month, but that's not a limit)
+
+**Clothing and footwear:** up to $400 a year
+
+**Parking:** up to $10 a day
+
+**Hotel:** up to $85 a day
+
+**Dental:** $250 a year, if you have no dental plan
+
+**Mileage:** 12 cents a kilometre
+
+## WAITING FOR A DIAGNOSIS?
+FSCD can give family support services for **up to 2 years** while your child waits for a diagnosis. This rule is in the FSCD policy manual, not the law itself.
+
+## TURNING 16
+FSCD is supposed to start planning for adulthood with every youth at **age 16**. That includes PDD, AISH and guardianship. If nobody has brought this up with you, ask your FSCD worker.
+
+## THE PDD MANUAL HAS NO PUBLIC CHANGE LIST
+The FSCD policy manual shows a list of when its rules changed. The PDD manual (for adults) doesn't. The page where that list would be asks for a government employee login. So families whose kids move from FSCD to PDD at 18 can't see when the adult rules change.
+
+## NO NEW LAWS FOR FSCD OR PDD
+No new government orders were made under the FSCD or PDD laws this year.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-10-13",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 October 13, 2026",
