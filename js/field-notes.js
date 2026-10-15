@@ -16,6 +16,53 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Got a letter moving you to ADAP? It may have been a mistake",
+        date: "2026-10-14",
+        streams: ["AISH / ADAP / CPP-D", "PDD", "Seniors Benefits CPP/CPPD", "Continuing Care / Home Care"],
+        doc: "/pdfs/aish-adap/fillable/ADSB_Exemption_Category_Correction_Request.pdf",
+        body: `Some people got a letter in May saying they were moving from AISH to ADAP, when they should have stayed on AISH. Later, some of them got a second letter correcting it.
+
+I've seen these correction letters for **all four groups** who are supposed to stay on AISH automatically.
+
+## WHO STAYS ON AISH AUTOMATICALLY
+People with a **severe and profound developmental disability**, or who are eligible for or getting PDD (Persons with Developmental Disabilities) services.
+
+People with a **palliative or terminal medical condition** (an illness that can't be cured).
+
+People living in a **continuing care home**.
+
+People **60 or older**.
+
+## WHAT A CORRECTION LETTER LOOKS LIKE
+A parent let me share hers, with no names. It was dated **June 1, 2026**:
+
+"Please disregard the letter you were sent dated May 12, 2026, about transitioning to the new Alberta Disability Assistance Program (ADAP)."
+
+"As someone who is PDD eligible you will automatically remain on the Assured Income for the Severely Handicapped (AISH) program."
+
+The wording changes depending on which group you're in.
+
+## IF YOU'RE IN ONE OF THESE GROUPS AND WERE MOVED TO ADAP
+**Check your letters.** Did you get a correction letter, or only the May letter?
+
+**Check your payment statement.** If it says "ADAP Living Allowance," you're on ADAP.
+
+**Call Alberta Supports at 1-877-644-9992.** Tell them which group you're in, and ask them to confirm **in writing** that you stay on AISH.
+
+**Keep every letter**, and write down the date and the name of everyone you talk to.
+
+**Use our free correction request form.** It quotes the government's own rules, so the worker sees the mistake in their own words. It's not an appeal. It's a request to fix an error. The button at the bottom of this note opens it.
+
+## HOW TO USE THE FORM
+Fill it in on your phone or computer, or print it.
+
+Send it to the AISH office or contact on your letter, and keep a copy.
+
+If you want help filling it in, reach out to us. The campaign line is **587-590-3590**.
+
+To the parent who shared her letter: thank you.`
+      },
+      {
         title: "Good news: the $100 Alberta Energy Rebate won't count against your benefits",
         date: "2026-10-14",
         streams: ["AISH / ADAP / CPP-D", "Income Support"],
