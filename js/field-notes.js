@@ -16,6 +16,38 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Want your experience counted? A University of Calgary study on ADAP",
+        date: "2026-10-14",
+        streams: ["AISH / ADAP / CPP-D", "Income Support", "General Topics"],
+        body: `Researchers at the University of Calgary are studying how the move from AISH to ADAP affects poverty for Albertans with disabilities. Inclusion Alberta is sharing it and encouraging people to take part.
+
+This is a research study, not an advocacy campaign. But research like this is what leaders, reporters and courts look at later. Your answers become evidence of what these changes are doing to people's lives.
+
+## WHO CAN TAKE PART
+You're **18 to 64** years old.
+
+You live in **Alberta**.
+
+You're on **AISH, ADAP or Income Support**, or you live with a disability.
+
+## WHAT YOU GET
+A **$15 gift card** when you finish the survey, as a thank you for your time.
+
+## HOW TO SIGN UP
+[Sign up on the University of Calgary research page](https://research.ucalgary.ca/participate/evaluation-income-assistance-alberta-reb25-1727).
+
+The sign-up form asks for your name and the best way to reach you (email or phone). The research team then contacts you with the survey.
+
+## GOOD TO KNOW
+The study is called **"Evaluation of Income Assistance in Alberta."** It's led by Dr. Lindsay Tedds and Dr. Gillian Petit from the University of Calgary's Department of Economics.
+
+It's approved by the university's **Research Ethics Board (number REB25-1727)**. That means there are rules about how your information is protected.
+
+**Taking part is your choice.** It won't affect your benefits either way.
+
+If you take part, thank you. Every answer helps show what's really happening.`
+      },
+      {
         title: "Got a letter moving you to ADAP? It may have been a mistake",
         date: "2026-10-14",
         streams: ["AISH / ADAP / CPP-D", "PDD", "Seniors Benefits CPP/CPPD", "Continuing Care / Home Care"],
