@@ -16,6 +16,35 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Ask for a recalculation: one member's rent benefit result",
+        date: "2026-10-15",
+        streams: ["AISH / ADAP / CPP-D", "Income Support", "Seniors Benefits CPP/CPPD", "General Topics"],
+        body: `A member gave me permission to share this, without her name.
+
+She gets the **Rent Assistance Benefit (RAB)** through Civida. That's the monthly help with rent for people renting from a private landlord. After her review, Civida told her the benefit would drop from **$627** a month to **$301** starting in January.
+
+She didn't just accept it. She asked Civida to check the income they used to work it out.
+
+Civida did an **"interim review"** (a check partway through the year) and corrected her income amount. Her new benefit is **$429** a month, not $301. That's **$128 more every month, just from asking.** She still gets her current $627 for November and December.
+
+It's still less than before, so she's asked Civida in writing for the income figure and a full breakdown, and we'll check every number together.
+
+## IF YOUR RENT BENEFIT OR RENT CHANGED AT YOUR REVIEW
+**Ask, in writing,** what income they used and how they worked out the amount.
+
+**Check your tax return.** Look at line 14500 for any old housing subsidy that may have been counted as income.
+
+**If your income now is lower than on your last tax return,** ask them to use your current income instead.
+
+**Keep every letter and email.**
+
+**Send it to us if you want help checking the numbers.** The campaign line is **587-590-3590**.
+
+Asking doesn't cost you anything. Sometimes it changes everything.
+
+If you rent from Civida, the annual income review form is in the Reference Library under **Civida Annual Income Review (Fillable)**, so you can see what they ask for before you fill it in.`
+      },
+      {
         title: "What the Minister said: a reply a member shared (October 15, 2026)",
         date: "2026-10-15",
         doc: "/pdfs/aish-adap/flyers/posters/Minister_Reply_Oct15_2026_full.png",
