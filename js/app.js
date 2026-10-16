@@ -651,9 +651,11 @@ function applyStreamDefaults() {
 }
 
 
-// Fillable Take Action forms we want to surface in "Just Dropped".
-// They are hardcoded as cards in the Take Action section; add one here with a
-// `released` date when it should also appear in the new-release feed.
+// Fillable Take Action forms. Each one appears in "Just Dropped" for 14 days
+// after its `released` date, AND gets a permanent card in the Take Action
+// section (renderActionFormCards), unless a hand-written card in index.html
+// already links to the same file. Before October 15, 2026 these only ever
+// showed in Just Dropped, so they vanished from the site after two weeks.
 const ACTION_FORMS = [
   { title: "NEW \u2014 Couples Paid At 88%: Request The Money You Were Underpaid", desc: "**The 88% couples rule is gone.** On 1 October 2026 the government made Order in Council 342/2026, filed the same day as Alberta Regulation 244/2026. It repeals section 8(4) of the AISH General Regulation \u2014 the rule that paid each partner 88% of the living allowance \u2014 and adds section 20(1.1), which says a client paid at the 88% amount is **treated as underpaid** for each month they were paid it, and that the director **must pay** the difference. The 88% amounts were $1,708 a month on AISH and $1,532 on ADAP; the full living allowance is $1,940 and $1,740. If your living allowance was one of those lower amounts in any month, this is for you. The duty is on the government, not on you \u2014 the regulation does not say you have to apply. But it also does not say when the money will be paid, and as of 5 October there has been no public announcement. This letter puts your request in writing, with a date, so there is a record: it asks for the payment, for the calculation, and for notice before anything is taken off it. **Each partner sends their own letter** \u2014 the regulation speaks of each client separately. Three pages, fills on a phone. Email it to the office that holds your file, keep a copy and the proof of sending, and keep every statement for the months you were paid at 88%.", file: "/pdfs/aish-adap/fillable/Fillable_Couples_Underpayment_Request_AR244_2026.pdf", released: "2026-10-05" },
   { title: "NEW \u2014 Asking Your Specialist For A Letter Or Your Reports", desc: "Your family doctor fills in the medical report, but a specialist often holds the findings that decide it. This asks for one of two things and says either will do: a short letter about your care, or copies of the reports they already sent your family doctor. The second matters, because a specialist is allowed to say no to writing something new \u2014 but records that already exist are different, and under Alberta\u2019s Health Information Act you have a right to your own. A specialist who sees you on a referral is expected to write back to the doctor who referred you, so that report usually already exists. You are not asking anyone to write a new word. **Leave the sentence about a formal access request on the form.** Some clinics offer a quicker informal request, but the right to have the Information and Privacy Commissioner review a refusal is attached to the formal one. The clinic has 30 days to answer, and can take up to 30 more only for set reasons and only if it tells you why. There can be a basic fee of $25 plus about 25 cents a page \u2014 if you cannot afford it, ask in writing to be let off, because they are allowed to say yes. A fee estimate gives you 20 days to accept it or ask for fewer records. A refusal must be in writing with the reason, and you have 60 days to ask the Commissioner to review it, free. **If they never answer at all, you can still ask for a review and the 60-day limit does not apply** \u2014 being ignored does not cost you your rights. Commissioner\u2019s office: 780-422-6860 or 1-888-878-4044. One page is for the clinician, explaining what the decision turns on and asking them to write only what their own records support. Send it to the clinic rather than the doctor, because front desk staff handle record requests, and keep a copy with the date.", file: "/pdfs/aish-adap/fillable/ADSB_Specialist_Letter_Request_Fillable_Oct2026.pdf", released: "2026-10-02" },
@@ -1840,8 +1842,45 @@ function renderFieldNotes() {
   wrap.innerHTML = bar + html;
 }
 
+// ─── Render: Take Action cards from ACTION_FORMS ───
+// Adds a card for every ACTION_FORMS entry that has no hand-written card yet,
+// newest first, at the top of the Take Action grid. Long descriptions show a
+// short lead with the rest behind "More".
+function renderActionFormCards() {
+  const grid = document.querySelector("#take-action .action-grid");
+  if (!grid || typeof ACTION_FORMS === "undefined") return;
+  const existing = new Set(Array.from(grid.querySelectorAll("a[href]")).map(a => {
+    try { return decodeURIComponent(a.getAttribute("href")); } catch (e) { return a.getAttribute("href"); }
+  }));
+  const todo = ACTION_FORMS
+    .filter(f => f && f.file && !existing.has(f.file))
+    .slice()
+    .sort((a, b) => String(b.released || "").localeCompare(String(a.released || "")));
+  const cut = (text) => {
+    const t = String(text || "");
+    if (t.length <= 280) return [t, ""];
+    const m = t.slice(120).search(/[.!?]\s/);
+    const at = m === -1 ? -1 : 120 + m + 1;
+    return at > 0 && at < t.length - 40 ? [t.slice(0, at), t.slice(at).trim()] : [t, ""];
+  };
+  const frag = document.createDocumentFragment();
+  todo.forEach(f => {
+    const [lead, rest] = cut(f.desc);
+    const card = document.createElement("article");
+    card.className = "action-card " + streamClass(f);
+    card.innerHTML =
+      "<h3>" + mdInline(f.title) + "</h3>" +
+      "<p>" + mdInline(lead) + "</p>" +
+      (rest ? '<details class="action-more"><summary>More</summary><p>' + mdInline(rest) + "</p></details>" : "") +
+      '<a class="btn btn-primary" href="' + encodePath(f.file) + '" target="_blank" rel="noopener">Open form</a>';
+    frag.appendChild(card);
+  });
+  grid.insertBefore(frag, grid.firstChild);
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   applyStreamDefaults();
+  try { renderActionFormCards(); } catch (e) { console.error("renderActionFormCards failed:", e); }
   renderJustDropped();
   renderDailyNews();
   renderFAQ();

@@ -969,7 +969,7 @@ Date sent: [DATE]`
     toHint: "Goes to the Minister of Assisted Living and Social Services (Nathan Neudorf).",
     ccHint: "Premier is pre-filled. Add your own MLA's email here too (find them at assembly.ab.ca).",
     subject: "AISH-to-ADAP: the questions your own fact sheet raises", // draft
-    pdf: "/pdfs/aish-adap/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Letter.pdf",
+    pdf: "/pdfs/aish-adap/fillable/september-2026-updates/Fillable_Neudorf_END_REVERSE_ADAP_Letter_with_guide.pdf",
     note: "Where it goes: Minister Neudorf, copied to Premier Danielle Smith and your own MLA. Keep your sent email as proof.",
     body:
 `Dear Minister Neudorf,
@@ -1032,7 +1032,7 @@ Sincerely,
     toHint: "Goes to the Minister of Assisted Living and Social Services (Nathan Neudorf).",
     ccHint: "Premier is pre-filled. Add your own MLA's email here too (find them at assembly.ab.ca).",
     subject: "AISH-to-ADAP: a caregiver's witness, on the record", // draft
-    pdf: "/pdfs/aish-adap/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Caregiver_Edition.pdf",
+    pdf: "/pdfs/aish-adap/fillable/september-2026-updates/Fillable_Neudorf_END_REVERSE_ADAP_Caregiver_Edition_with_guide.pdf",
     note: "For anyone who provides care, assistance, or advocacy to a person on AISH. Goes to Minister Neudorf, copied to the Premier and your MLA.",
     body:
 `Dear Minister Neudorf,
@@ -1122,7 +1122,7 @@ Respectfully,
     toHint: 'You add your MLA here. <a href="https://www.assembly.ab.ca/members/members-of-the-legislative-assembly" target="_blank" rel="noopener">Find your MLA and their email →</a>',
     ccHint: "",
     subject: "AR 96/2026 s.15(4) — my disability flares, and this regulation penalises that",
-    pdf: "/pdfs/aish-adap/fillable/Fillable_MLA_Letter_s15-4_LetterOnly.pdf",
+    pdf: "/pdfs/aish-adap/fillable/september-2026-updates/Fillable_MLA_Letter_s15-4_LetterOnly_with_guide.pdf",
     note: "For your own MLA. If you're not sure who that is, the find-your-MLA link above looks them up by your address.",
     body:
 `Dear [your MLA's name],
