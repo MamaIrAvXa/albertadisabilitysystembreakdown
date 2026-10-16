@@ -16,6 +16,58 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "What the Minister said: a reply a member shared (October 15, 2026)",
+        date: "2026-10-15",
+        doc: "/pdfs/aish-adap/flyers/posters/Minister_Reply_Oct15_2026_full.png",
+        body: `A member wrote to the Premier and the Minister about AISH and ADAP, and got a reply from **Minister Neudorf** dated **October 15, 2026**. She gave me permission to share it, without her name. Here's what it says, in plain language. The full letter opens from the button at the bottom of this note.
+
+**These are the Minister's words in a letter. A letter isn't a law. But it's in writing, and we can hold them to it.**
+
+## 1. HOW ADAP TAKES OFF MONEY YOU EARN
+On ADAP, the first **$700** you earn each month is not taken off.
+
+Above that, ADAP takes off a percentage that starts at about **2%** and goes up to **57%** the more you earn.
+
+On the old AISH rules, the first **$1,072** was not taken off, and 50% was taken off above that.
+
+This is the first time we've seen the government put the ADAP percentages in writing.
+
+## 2. IF YOU DON'T TAKE PART IN EMPLOYMENT SERVICES
+The Minister says ADAP will **"first work with them to understand and address any barriers before any compliance measures are considered."** In plain words: they say they'll talk with you about what's getting in the way before they cut anything.
+
+He also says if you do take part but don't find a job, you keep getting ADAP.
+
+**Keep this.** If anyone threatens your benefits without first talking about your barriers, this is the Minister's own promise.
+
+## 3. COUPLES
+**"Affected clients will receive retroactive payments by the end of the year."** Retroactive means money owed back to when the cut started. There's still no exact date or amount.
+
+## 4. GOING BACK TO AISH
+You can apply anytime at **dia.alberta.ca**.
+
+The government pays for **one medical assessment**, with no time limit.
+
+The $200 transition benefit keeps your total the same until **December 31, 2027**.
+
+## 5. APPEALS
+**Non-medical decisions** (like money, overpayments and start dates) go to the **Citizen's Appeal Panel**.
+
+**ADAP medical decisions** go to the **Medical Appeal Panel**.
+
+**AISH medical decisions can't be appealed**, and neither can the move from AISH to ADAP.
+
+You usually have **30 days** from the date of a decision to send a written Notice of Appeal.
+
+Before a hearing, a staff member who didn't make the first decision reviews it.
+
+The appeal panel can only look at the information the program had when it decided. So **send all your documents before a decision is made**, not after.
+
+## 6. FOR STRESS
+Call **211** for mental health support, including low-cost, same-day counselling through Counselling Alberta. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**.
+
+Thank you to the member who shared this.`
+      },
+      {
         title: "Want your experience counted? A University of Calgary study on ADAP",
         date: "2026-10-14",
         streams: ["AISH / ADAP / CPP-D", "Income Support", "General Topics"],
