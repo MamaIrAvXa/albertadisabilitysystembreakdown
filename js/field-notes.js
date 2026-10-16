@@ -16,6 +16,41 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "I wrote to the Minister tonight: \"Where are ADAP's workers?\" (October 15, 2026)",
+        date: "2026-10-15",
+        doc: "/pdfs/aish-adap/flyers/posters/ADSB_Letter_to_Minister_ADAP_Contact_Oct15_2026.png",
+        body: `So many of you have told me the same thing this week: **"I haven't heard a single word from ADAP since May."** You're not imagining it, and you're not alone.
+
+Tonight I sent this letter to **Minister Neudorf**, with a copy to the Opposition. It sets out what you've been living through, with no names. The full letter opens from the button at the bottom of this note.
+
+## WHAT THE LETTER SETS OUT
+**No contact since the move.** No worker name, no phone number, no idea if your file is active.
+
+**Letters "selecting" people for employment services starting November 2**, including someone who'd just been thanked for finishing an employment program.
+
+**People who should have stayed on AISH**, including someone with terminal cancer, still waiting for a correction.
+
+**Medications that were covered on AISH being refused on ADAP.**
+
+**Canada Disability Benefit deductions that are wrong**, and could turn into overpayments you never caused.
+
+**Email addresses that changed or bounced** with no notice.
+
+I asked for written answers to **7 questions by November 5, 2026**. When they answer, I'll share it here. If they don't, I'll share that too.
+
+## HOW YOU CAN HELP
+**Tell us: since July, have you heard from ADAP?** A text to the campaign line, **587-590-3590**, that just says "yes", "no" or "only the November 2 letter" helps us count.
+
+**If something happened to you that's not on this list**, reach out to us.
+
+**You can send your own letter too.** Your voice adds weight. A ready-to-send version is in **Email a Letter**, called "To the Minister: ADAP clients left without contact, information or correction since July." It fills in your email for you. Add your name and send.
+
+You've been patient long enough. It's time they answered.
+
+## IF THE SILENCE HAS YOU SCARED
+Not knowing whether your income is safe is exhausting, and it is not your fault. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+      },
+      {
         title: "Ask for a recalculation: one member's rent benefit result",
         date: "2026-10-15",
         streams: ["AISH / ADAP / CPP-D", "Income Support", "Seniors Benefits CPP/CPPD", "General Topics"],

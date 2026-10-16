@@ -14,6 +14,65 @@
    ─────────────────────────────────────────────────────────────── */
 const EMAIL_LETTERS = [
   {
+    id: "adap-no-contact-nov5",
+    title: "NEW \u2014 To the Minister: ADAP clients left without contact, information or correction since July",
+    blurb: "Since the July move, many people on ADAP have heard nothing: no worker named, no contact, letters that contradict each other, corrections that never came. This letter puts six documented problems in front of the Minister \u2014 no contact, the October 6 employment services \u201cselection\u201d letters, people in the four stay-on-AISH groups still not corrected, medications refused on ADAP, CDB and CPP deduction errors, and dead contact addresses \u2014 and asks seven questions with a written answer by November 5, 2026. It quotes the Minister\u2019s own October 15 letter back to him. The campaign sent its own copy on October 15; the more people who send it, the harder it is to answer one letter and ignore the rest.",
+    to: "alss.minister@gov.ab.ca",
+    toHint: "Goes to the Minister of Assisted Living and Social Services, Nathan Neudorf.",
+    cc: "",
+    ccHint: "Copy your own MLA \u2014 find yours at <b>contact.assembly.ab.ca</b>. It has to be the MLA for the constituency you live in. If you are in St. Albert, that is <b>St.Albert@assembly.ab.ca</b>.",
+    subject: "ADAP clients left without contact, information or correction since July: request for written answers by November 5, 2026",
+    note: "Fill in your name and contact details at the bottom. The bracketed line about what happened to you is optional \u2014 one or two sentences is plenty, and you can delete it. Keep your sent email as proof, and if you get an answer, send it to us.",
+    body:
+`Dear Minister Neudorf,
+
+I am one of the Albertans affected by the move from AISH to ADAP. I am writing because of what people in my situation are living through, and I am asking for written answers by November 5, 2026.
+
+I belong to The Alberta Disability System Breakdown, a community of more than 2,000 Albertans on AISH, ADAP and Income Support, and their families. Many people moved from AISH to ADAP have heard nothing from the program since the May letter that moved them. Others have received letters that contradict each other, or no correction they were owed.
+
+Your October 15 letter to a member of that community says ADAP clients "receive customized, one-on-one support." That is not what people are experiencing. Here is what has been documented, with no names:
+
+1. NO CONTACT SINCE THE TRANSITION
+Many people moved in July have never been told who their worker is or how to reach them. They do not know whether their file is active, what is expected of them, or whether their benefits are at risk. People with no family to fall back on are living in fear of losing their income without warning.
+
+2. EMPLOYMENT SERVICES SELECTION
+Letters dated October 6 tell some clients they have been "selected" for employment services through EmployNext Alberta starting November 2. One person received this letter four days after a government letter thanking her for completing an employment program. People do not know how they are selected, and some fear it is connected to having questioned or appealed their transition.
+
+3. PEOPLE WHO SHOULD HAVE STAYED ON AISH
+Correction letters have gone to some people in the four groups who were supposed to stay on AISH automatically. But others still have not received one, including a person with terminal brain cancer and people who are eligible for PDD. In the cases seen so far, the correction came only after the person or their family pushed for it.
+
+4. HEALTH BENEFITS
+Clients were told their health benefits would not change. People now report medications that were covered on AISH being refused, or only partly covered, on ADAP. When they call, staff cannot explain why.
+
+5. CANADA DISABILITY BENEFIT DEDUCTIONS
+There are payment statements where the CDB is deducted at $200 when the person receives less, statements where it is not deducted at all, and statements still using last year's CPP amount. Each of these can turn into an overpayment the client never caused.
+
+6. CONTACT INFORMATION THAT NO LONGER WORKS
+Email addresses for AISH offices have changed without notice to clients, and the application email address printed on forms has been returned as undeliverable.
+
+[Optional: in one or two sentences, what has happened to you. Delete this line if you would rather not say.]
+
+I ask for a written answer to each of the following by November 5, 2026:
+
+1. How many people moved to ADAP in July have been assigned a worker, and how many have had any contact from the program since July 1, 2026?
+2. Will every ADAP client be sent, in writing, the name and contact information of their worker? By what date?
+3. How are clients selected for employment services starting November 2? Is having appealed, written to, or questioned the transition considered in any way?
+4. How many correction letters have been issued to people in the four automatic-AISH groups? Has every transitioned file been reviewed against those groups? If not, when will it be?
+5. What changed in drug and health benefit coverage between AISH and ADAP, and where is that change written?
+6. How will the program find and fix CDB and CPP deduction errors before they become overpayments charged to clients?
+7. Your October 15 letter says the program "will first work with" clients "to understand and address any barriers before any compliance measures are considered." Where is this written in policy, and will clients be told about it in writing?
+
+The Alberta Disability System Breakdown also wrote to you on October 13 about health care action plans, and is still waiting for an answer to its seven questions.
+
+These are not isolated cases. They are what happens when tens of thousands of people are moved at once and then not contacted. I am asking for clear, written answers.
+
+Sincerely,
+
+[Your full name]
+[Your city or town]
+[Your email or phone]`
+  },
+  {
     id: "doctor-ds2444b-briefing",
     title: "For your doctor or nurse practitioner, before the medical report",
     blurb: "When the province moved people to ADAP it did not tell the clinics either. Doctors are being handed DS2444B forms by patients who were assessed as severely handicapped years ago, with no explanation of what changed. This is the email that gives them the context first. It carries the two things most offices do not know: the province pays for the report using form EMP11587, covering both the examination and the completion, invoiced directly \u2014 and it has to be arranged before the report is done, not after. And a nurse practitioner may complete the DS2444B; it is not restricted to physicians. Nothing in it asks a clinician to write anything that is not true.",
