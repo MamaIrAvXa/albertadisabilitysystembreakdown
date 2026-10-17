@@ -16,7 +16,7 @@ const EMAIL_LETTERS = [
   {
     id: "adap-no-contact-nov5",
     title: "NEW \u2014 To the Minister: ADAP clients left without contact, information or correction since July",
-    blurb: "Since the July move, many people on ADAP have heard nothing: no worker named, no contact, letters that contradict each other, corrections that never came. This letter puts six documented problems in front of the Minister \u2014 no contact, the October 6 employment services \u201cselection\u201d letters, people in the four stay-on-AISH groups still not corrected, medications refused on ADAP, CDB and CPP deduction errors, and dead contact addresses \u2014 and asks seven questions with a written answer by November 5, 2026. It quotes the Minister\u2019s own October 15 letter back to him. The campaign sent its own copy on October 15; the more people who send it, the harder it is to answer one letter and ignore the rest.",
+    blurb: "Since the July move, many people on ADAP have heard nothing: no worker named, no contact, letters that contradict each other, corrections that never came. This letter puts six documented problems in front of the Minister \u2014 no contact, the October 6 employment services \u201cselection\u201d letters, people in the four stay-on-AISH groups still not corrected, medications refused on ADAP, CDB and CPP deduction errors, and a contact address that changed without notice \u2014 and asks seven questions with a written answer by November 5, 2026. It quotes the Minister\u2019s own October 15 letter back to him. The more people who send it, the harder it is to answer one letter and ignore the rest.",
     to: "alss.minister@gov.ab.ca",
     toHint: "Goes to the Minister of Assisted Living and Social Services, Nathan Neudorf.",
     cc: "",
@@ -36,7 +36,7 @@ Your October 15 letter to a member of that community says ADAP clients "receive 
 Many people moved in July have never been told who their worker is or how to reach them. They do not know whether their file is active, what is expected of them, or whether their benefits are at risk. People with no family to fall back on are living in fear of losing their income without warning.
 
 2. EMPLOYMENT SERVICES SELECTION
-Letters dated October 6 tell some clients they have been "selected" for employment services through EmployNext Alberta starting November 2. One person received this letter four days after a government letter thanking her for completing an employment program. People do not know how they are selected, and some fear it is connected to having questioned or appealed their transition.
+Letters dated October 6 tell some clients they have been "selected" for employment services through EmployNext Alberta starting November 2. One person received this letter four days after a government letter inviting her to a survey for people who had "recently participated" in a government-funded employment program. People do not know how they are selected, and some fear it is connected to having questioned or appealed their transition.
 
 3. PEOPLE WHO SHOULD HAVE STAYED ON AISH
 Correction letters have gone to some people in the four groups who were supposed to stay on AISH automatically. But others still have not received one, including a person with terminal brain cancer and people who are eligible for PDD. In the cases seen so far, the correction came only after the person or their family pushed for it.
@@ -47,8 +47,8 @@ Clients were told their health benefits would not change. People now report medi
 5. CANADA DISABILITY BENEFIT DEDUCTIONS
 There are payment statements where the CDB is deducted at $200 when the person receives less, statements where it is not deducted at all, and statements still using last year's CPP amount. Each of these can turn into an overpayment the client never caused.
 
-6. CONTACT INFORMATION THAT NO LONGER WORKS
-Email addresses for AISH offices have changed without notice to clients, and the application email address printed on forms has been returned as undeliverable.
+6. CONTACT INFORMATION THAT CHANGED WITHOUT NOTICE
+The North Zone AISH email address changed without notice to clients.
 
 [Optional: in one or two sentences, what has happened to you. Delete this line if you would rather not say.]
 

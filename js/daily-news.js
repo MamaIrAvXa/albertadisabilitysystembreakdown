@@ -9,6 +9,211 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
 {
+  date: "2026-10-16",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 16, 2026",
+  body: `Tonight was quiet in what I could check. I didn't find anything new from the province or Ottawa about AISH, ADAP or the Canada Disability Benefit (CDB). I couldn't read every source I usually check, including the Alberta Gazette (where new rules are published) and the federal news page. So this is what I confirmed, not a promise that nothing else moved.
+
+## DATES TO KEEP (ALL CHECKED TONIGHT ON THE GOVERNMENT'S OWN PAGES)
+**Saturday, October 17:** last day of advance voting for the referendum.
+
+**Monday, October 19:** referendum day.
+
+**Tuesday, October 27:** your November AISH, ADAP and Income Support payment.
+
+**Saturday, October 31:** last day to apply for the $100 Energy Rebate, if you joined AISH, ADAP or Income Support after July 1. If you were already on before July 1, it comes on its own.
+
+**Wednesday, November 25:** your December payment.
+
+**Tuesday, December 22:** your January payment.
+
+## NEW TODAY
+The province released its year-end budget results. It reports a surplus (money left over) of more than **$2.2 billion** for 2025-26. The release doesn't mention AISH, ADAP or disability supports at all.
+
+## COUPLES
+The province's October 6 memo says each partner gets the full living allowance, minus income that counts, and that missed money can be paid back to you. It still doesn't say when or how. I won't give you a number or a date until I can show you where it comes from. Please keep every payment statement from August on.
+
+## FROM OUR MEMBERS THIS WEEK
+**Appeals, made clear.** If you apply for AISH and the worker who first decides your file (the adjudicator) keeps you on ADAP without sending your file to the Medical Review Panel, you **can** appeal. If the Medical Review Panel decides, that decision is final. When you get a decision letter, check which one made it. _(Source: the government's Adjudication Guide, July 2026.)_
+
+**Rent subsidy check.** One member found her housing provider had counted her own rent subsidy as income when working out her rent subsidy. It was fixed after she pushed back. To check yours: take the "total income" on your tax assessment, and subtract the amount on your housing provider's tax slip (a T5007). If they used the bigger number, ask in writing what income they used.
+
+**Calls from employment companies.** Members are getting calls from companies like AKG Employee Connect and EmployNext. Write down the date, the caller's name and company, and what was said. Ask for anything important in writing, and **don't sign or agree to anything on the first call.**
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-16",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 16, 2026",
+  body: `All dates and amounts below were checked tonight on government pages.
+
+## PAYMENT DAYS
+**Alberta Seniors Benefit:** Monday, October 26.
+
+**Old Age Security (OAS) and Canada Pension Plan (CPP):** Wednesday, October 28.
+
+## ENERGY REBATE: 15 DAYS LEFT
+If you started on the Alberta Seniors Benefit **after** July 1, the $100 Energy Rebate won't come on its own. You have until **Saturday, October 31** to apply online. If you were on it before July 1, you don't need to do anything.
+
+## HOME CARE MONEY: NOT CONFIRMED
+You may have seen news that Ottawa is extending home care funding for a year. The health ministers' own statement from their October 16 meeting doesn't say that. It says they'll "continue discussing the future of these investments" and meet again before the end of 2026. So don't count on new home care money yet.
+
+## OAS AND GIS, OCTOBER TO DECEMBER 2026
+**OAS, age 65 to 74:** up to $762.50 a month.
+
+**OAS, age 75 and over:** up to $838.75 a month.
+
+**Guaranteed Income Supplement (GIS, the extra amount for lower incomes), single:** up to $1,138.90 a month.
+
+## CPP DISABILITY: A "NO" ISN'T ALWAYS THE END
+Two people turned down for CPP Disability at the first level of the Social Security Tribunal (the board that hears these appeals) appealed again. Both times, the government agreed to settle before a decision. If you've been turned down, it can be worth appealing.
+
+I couldn't check everything tonight, like the federal bills tracker and the policy manuals, so this is what I confirmed.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-16",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 16, 2026",
+  body: `Today the province published its yearly reports for 2025-26. For the first time, we have the government's own numbers for children's disability supports.
+
+## FSCD (FAMILY SUPPORT FOR CHILDREN WITH DISABILITIES)
+The province spent **$202 million** on FSCD in 2025-26.
+
+**18,584 children** had an active FSCD file in March 2026.
+
+The report gives **no number for children waiting** for FSCD. It only counts children already being served.
+
+FSCD belongs to **Assisted Living and Social Services**, the same ministry as AISH and ADAP. The Children and Family Services report says so too. If you're writing about FSCD, that's the ministry to write to.
+
+## PDD (SUPPORTS FOR ADULTS WITH DEVELOPMENTAL DISABILITIES)
+The province spent **$1.2 billion** on PDD.
+
+The number of people on PDD went from **13,641** in March 2025 to **13,791** in March 2026, up about 1 per cent.
+
+## PROGRAM UNIT FUNDING (PUF: EXTRA SCHOOL SUPPORT FOR YOUNG CHILDREN WITH SEVERE NEEDS)
+PUF was **$248 million** in 2025-26, up 8 per cent.
+
+It still only covers children from **2 years 8 months to 6 years old**.
+
+## FSCD RATES: NO CHANGE
+Mileage (12 cents a km), clothing and footwear ($400 a year), respite (240 hours a year), parking ($10 a day), hotel ($85 a day) and dental with no plan ($250 a year) are all unchanged tonight.
+
+## DATES TO KEEP
+**Saturday, October 31:** last day to apply for the $100 Energy Rebate, if you joined AISH, ADAP or Income Support after July 1.
+
+**Sunday, November 1:** natural gas can't be cut off for unpaid bills starting this date. Electricity is already protected from **full** cut-off. If you're behind, call the **Utilities Consumer Advocate at 310-4822**.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-15",
+  stream: "AISH / ADAP / CPP-D",
+  title: "Where Things Stand \u2014 October 15, 2026",
+  body: `Nothing new from the province or Ottawa about AISH, ADAP or the Canada Disability Benefit tonight, in what I could read.
+
+## TODAY'S ALBERTA GAZETTE
+I checked today's Alberta Gazette. The Gazette is where the province publishes new regulations and orders. A new issue came out today, and nothing in it touches AISH, ADAP or Income Support.
+
+## PAYMENT DATES
+**November payment:** Tuesday, October 27
+
+**December payment:** Wednesday, November 25
+
+**January 2027 payment:** Tuesday, December 22
+
+## CANADA DISABILITY BENEFIT (CDB)
+Checked tonight on the federal website. The most it pays is **$204.20** a month, from July 2026 to June 2027. The **$150** is a separate, fixed payment that comes as one lump sum for each approved Disability Tax Credit certificate. You don't need to apply for it. Remember, on AISH and ADAP the $150 doesn't count as income.
+
+## ENERGY REBATE
+The last day to apply is **October 31**, if you weren't signed up automatically.
+
+## COUPLES
+The Minister wrote this week that couples who were cut **"will receive retroactive payments by the end of the year."** There's still no exact date or amount, so please keep your payment statements from August on.
+
+## REFERENDUM
+**Mailed ballots must arrive by 5 pm tomorrow, Friday, October 16.**
+
+**Advance voting ends Saturday, October 17.**
+
+**Voting day is Monday, October 19.**
+
+## WINTER RULES FOR UTILITIES STARTED TODAY
+Your electricity can't be **fully** cut off until April 15. But a **"load limiter"** can still be put on your power. That's a device that lets a home run only "its furnace, fridge, one stove element, and a few light bulbs." Those are the Utilities Consumer Advocate's own words. If you're behind on a bill, call them at **310-4822** now, before it gets to that.
+
+I couldn't read every channel I normally check tonight, including the federal newsroom. This is what I confirmed in what I read, not a promise that nothing else moved.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-15",
+  stream: "Seniors Benefits CPP/CPPD",
+  title: "Where Things Stand for Seniors \u2014 October 15, 2026",
+  body: `## PAYMENT DAYS (CHECKED TONIGHT)
+**Alberta Seniors Benefit:** Monday, October 26
+
+**OAS and CPP:** Wednesday, October 28
+
+## ENERGY REBATE
+If you started on the Alberta Seniors Benefit **after** July 1, the $100 rebate won't come on its own. You have until **October 31** to apply. The 13-cents-a-litre fuel tax break runs until the end of the year.
+
+## UPDATE ON WINTER UTILITY RULES
+Last night I said your power can't be fully cut off this winter. That's true, but there's more to know. A company can still put a **"load limiter"** on your power. It lets a home run only "its furnace, fridge, one stove element, and a few light bulbs." If you rely on anything else, like an oxygen machine, a lift chair or medical equipment, don't wait. If you're behind on a bill, call the **Utilities Consumer Advocate at 310-4822** now.
+
+Nothing else changed for seniors in what I could read tonight. I didn't get to the policy manuals or the newest Alberta regulation filings.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
+  date: "2026-10-15",
+  stream: "Children / FSCD",
+  title: "Where Things Stand for Kids and Families \u2014 October 15, 2026",
+  body: `## CORRECTION
+Last night I said the winter utility rules matter for families whose child uses a feeding pump, oxygen, suction, a ventilator or a lift. I need to correct that. The rules only stop your power from being **fully** cut off. A company can still put a **"load limiter"** on your power, which lets a home run only "its furnace, fridge, one stove element, and a few light bulbs." Those are the Utilities Consumer Advocate's own words. Their pages say nothing about medical equipment or any exception for it. I'm sorry for making it sound like more protection than it is.
+
+## WHAT TO DO IF YOU'RE BEHIND ON A UTILITY BILL
+**Call the Utilities Consumer Advocate at 310-4822 now**, before it reaches a limiter.
+
+**Tell them your child uses medical equipment**, and ask what they can do.
+
+**Alberta Supports can give one-time help with utility arrears** (money owed). You'll need your bills, proof of income and ID. Ask an Alberta Supports Centre or your income support worker. If you use this help more than once, you may have to pay it back.
+
+**If your power or gas is already off, it stays off.** The winter rules don't turn it back on. After November 1, the Utilities Consumer Advocate will start contacting households that have been disconnected since April. AISH and Alberta Works are named as partners in that program.
+
+Natural gas protection starts **November 1**.
+
+## ALSO CHECKED TONIGHT
+A new Alberta Gazette came out today. Nothing in it changes anything for children with disabilities, their families or youth turning 18.
+
+No FSCD rates have changed (respite 240 hours a year, clothing $400 a year, mileage 12 cents a kilometre, and the rest).
+
+The FSCD policy manual has had only one update this year, in February.
+
+Reminder: the rule that FSCD support stops after 2 years without a confirmed diagnosis is in the policy manual (the program's guidance), not in the law.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+},
+{
   date: "2026-10-14",
   stream: "AISH / ADAP / CPP-D",
   title: "Where Things Stand \u2014 October 14, 2026",

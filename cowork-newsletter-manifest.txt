@@ -1,5 +1,5 @@
 # ADSB Newsletter Manifest — FULL SITE (every git-tracked file, not PDFs only)
-# Generated: 2026-10-10 02:20 UTC | HEAD: cbc98d7 | Format: <sha1-12>	<path>
+# Generated: 2026-10-17 02:18 UTC | HEAD: 5766c00 | Format: <sha1-12>	<path>
 # Next run: diff this list, AND run `git diff <last HEAD> HEAD` to catch content added inside js/*.js data files.
 ff42ba4d877f	.gitattributes
 a08450e005b2	.gitignore
@@ -109,18 +109,17 @@ e438e7100435	audio/the-full-plain-language-library/5_Plain_Language_Get_Your_Own
 1c9fbb897398	audio/the-full-plain-language-library/7_Plain_Language_Write_To_Your_MLA_And_MP.mp3
 14e7f8c5cd15	audio/the-full-plain-language-library/8_Plain_Language_What_No_Action_Required_Really_Means.mp3
 a0db6ce003ac	audio/the-full-plain-language-library/9_Plain_Language_What_Your_Doctors_Letter_Needs_To_Say.mp3
-53325a9241e1	cowork-newsletter-manifest.txt
 8b4197593958	css/styles.css
 4dcafd8303d8	cta-card.html
 90095b86efb3	fcssaa-package-section.html
 2082d2df8fa8	fcssaa.html
-b9b12495dbae	index.html
-647e219d5ef8	js/app.js
-0f32df62ea07	js/daily-news.js
-20008f0fad16	js/email-letters.js
-ad6e93ad7b54	js/faq.js
+c774c9d5f734	index.html
+39540cc16b1f	js/app.js
+0e6228176aac	js/daily-news.js
+c11f3e2d348c	js/email-letters.js
+ffda7aa389ab	js/faq.js
 ccfb7d3e123f	js/field-notes (1).js
-f75ed8b2a3c3	js/field-notes.js
+6bca80cac9ff	js/field-notes.js
 a4bd59dab381	js/legal-package-sender.js
 a1398ef03296	netlify-catchall-fix.toml
 ff383b5d2421	netlify-redirects-to-add.toml
@@ -512,11 +511,13 @@ b483ff9aa607	pdfs/aish-adap/flyers/posters/5cabdaf8-e2dc-45f1-8a1c-6f19a0eaa8b3.
 30fa75c46a70	pdfs/aish-adap/flyers/posters/785386ff-48b7-485d-8140-3302e6c3a4f7.png
 931bb14d7fe1	pdfs/aish-adap/flyers/posters/87ce8365-a194-4b43-895a-403cbc4c9914.png
 f0d4207923cd	pdfs/aish-adap/flyers/posters/ADAP EMPLOYMENT LETTER.jpg
+ee4f9b83f5e2	pdfs/aish-adap/flyers/posters/ADSB_Letter_to_Minister_ADAP_Contact_Oct15_2026.png
 ee1889bfdd53	pdfs/aish-adap/flyers/posters/ATIA_Form_Announcement_Flyer.png
 11a2e50c4fbc	pdfs/aish-adap/flyers/posters/Ally_Flyer_ADSB_v3.pdf
 47ac93f7f768	pdfs/aish-adap/flyers/posters/Coalition_Media_Release_Sep23_2026.png
 aba9d828fabc	pdfs/aish-adap/flyers/posters/Flyer_DTC_Loan_Not_Grant.png
 242de17a4a7e	pdfs/aish-adap/flyers/posters/Leadership_Accountability_Flyer.png
+b9d5fe558603	pdfs/aish-adap/flyers/posters/Minister_Reply_Oct15_2026_full.png
 6a9600c52e85	pdfs/aish-adap/flyers/posters/The Earnings Exemption What Changes July 1, 2026.png
 5246d2ca66d6	pdfs/aish-adap/flyers/posters/Were_Still_In_This_Together_AISH_Breakdown_2026.pdf
 5664dc56427e	pdfs/aish-adap/flyers/posters/Where Does the CDB Go.png
@@ -536,6 +537,7 @@ c2c6661ea1a7	pdfs/aish-adap/flyers/posters/flyer_human_cost.png
 122d788b7a7a	pdfs/aish-adap/flyers/posters/housing_flyer.png
 55c29a12b9c5	pdfs/aish-adap/flyers/posters/missing_payment.png
 2906e05d1ec4	pdfs/aish-adap/flyers/posters/nixon_flyer.png
+8c4f4248a2a9	pdfs/aish-adap/flyers/posters/october13letter.png
 0ee2895c5ed4	pdfs/aish-adap/flyers/posters/preview.webp
 52d9207ce649	pdfs/aish-adap/flyers/posters/smith_flyer.png
 5df9367840e5	pdfs/aish-adap/government-form-originals/adap-engagement/adap-engagement-14.pdf
@@ -793,6 +795,7 @@ b19a8db93889	pdfs/aish-adap/new-adsb-docs/AISH_vs_ADAP_Cheat_Sheet.pdf
 db5f2a016953	pdfs/aish-adap/new-adsb-docs/AISH_vs_ADAP_Language_Deep_Dive.pdf
 12aeac284b22	pdfs/aish-adap/new-adsb-docs/AR96-2026_Key_Sections_Highlighted.pdf
 cd2a2b1bfaf7	pdfs/aish-adap/new-adsb-docs/Bill12_Section6_Key_Provisions_Highlighted.pdf
+2e96f97bde56	pdfs/aish-adap/october-2026-docs/ADSB_Emergency_Numbers_Card_October2026.pdf
 53d5111b4156	pdfs/aish-adap/personal-submission/Bruce_Remembrance.pdf
 8165697ec9f7	pdfs/aish-adap/personal-submission/Personal_Story_Submission.pdf
 b27bb1b678fc	pdfs/aish-adap/personal-submission/desktop.ini
@@ -810,6 +813,8 @@ ec396be1e4d2	pdfs/aish-adap/plain-language/Compound_Failure_Plain_Language_Guide
 8e6252c40cb2	pdfs/aish-adap/program-policy-manual-updates/PMUCEI09-10-2026.jpg
 a2114437e312	pdfs/aish-adap/program-policy-manual-updates/PPMU10-06-2026.jpg
 273985291492	pdfs/aish-adap/program-policy-manual-updates/PPMU10-09-2026-2.jpg
+3f3a67b2e2eb	pdfs/aish-adap/program-policy-manual-updates/PPMU14-10-2026.jpg
+7a8cca7a1eec	pdfs/aish-adap/program-policy-manual-updates/pmu14-10-2026.jpg
 1420d9285383	pdfs/aish-adap/separation-risk/ADSB_Separation_Risk_Analysis_May2026.pdf
 898211851e00	pdfs/aish-adap/september-2026-docs/ADSB_AAS13391_Consent_to_Release_Fillable.pdf
 747a7c1e34b8	pdfs/aish-adap/september-2026-docs/ADSB_Before_You_Go_RDHA_Application_Sept2026.pdf
@@ -937,6 +942,7 @@ d0f0187b6386	pdfs/seniors/government-form-originals/02_Federal_OAS_GIS_CPP/ISP30
 d06334862fa4	pdfs/seniors/government-form-originals/02_Federal_OAS_GIS_CPP/NHSP0004_New_Horizons_for_Seniors_Regional_Committee_Application.pdf
 2e35e65ac2f0	pdfs/shared/fillable/ADSB_Consent_to_Release_Information_Fillable_Sept2026.pdf
 c73db4b618c9	pdfs/shared/fillable/ADSB_Request_for_Mediation_Fillable_Sept2026.pdf
+80fee335562d	pdfs/shared/fillable/Civida_Annual_Income_Review_2026_FILLABLE.pdf
 e84895749a79	pdfs/shared/guides/ADSB_Words_They_Use_Sept2026.pdf
 6654393fc5c1	robots.txt
 edd471de80f6	rose-thank-you.html

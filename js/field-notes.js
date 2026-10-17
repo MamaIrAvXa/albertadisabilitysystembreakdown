@@ -48,7 +48,16 @@ I asked for written answers to **7 questions by November 5, 2026**. When they an
 You've been patient long enough. It's time they answered.
 
 ## IF THE SILENCE HAS YOU SCARED
-Not knowing whether your income is safe is exhausting, and it is not your fault. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.`
+Not knowing whether your income is safe is exhausting, and it is not your fault. **988** answers by call or text any hour, and the **Alberta Mental Health Help Line is 1-877-303-2642**. If you have no money right now, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day.
+
+## CORRECTION, OCTOBER 16, 2026
+Two things I got wrong in this letter.
+
+**1.** I wrote that a member got her employment services letter "four days after a government letter thanking her for completing an employment program." The October 2 government letter didn't thank her. It invited her to a survey for people who "recently participated" in a government-funded employment program. The point still stands: she had just finished one program and was selected for another four days later. But I described the first letter wrongly.
+
+**2.** I wrote that the application email printed on forms "has been returned as undeliverable." That email bounced because of a typo. **ApplyDIA@gov.ab.ca** is a working government address, printed on official letters. What is true: the North Zone AISH email changed without notice to clients.
+
+Both corrections will go to the Minister in our follow-up. The ready-to-send letter in Email a Letter has been fixed to match.`
       },
       {
         title: "Ask for a recalculation: one member's rent benefit result",
