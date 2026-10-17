@@ -1,0 +1,362 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="A guide for Alberta parents: what an Individualized Program Plan must contain, the phrases that commit to nothing, and the questions to ask in writing.">
+<meta property="og:title" content="The IPP Questions">
+<meta property="og:description" content="A guide for Alberta parents: what an IPP must contain, and what to ask when something is missing.">
+<meta property="og:type" content="article">
+<title>The IPP Questions</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+
+<style>
+/* Children's stream palette: navy and cream (campaign), deep green accent (children's stream). */
+:root {
+  --paper:      #f6f5f1;
+  --card:       #ffffff;
+  --ink:        #0a2342;
+  --soft:       #4f5b6b;
+  --rule:       #d9d7cf;
+  --anchor:     #2e6b4f;
+  --flag:       #2e6b4f;
+  --anchor-wash:#e6efe9;
+
+  --display: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --body:    "Source Serif 4", Georgia, "Times New Roman", serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper:      #0b1626;
+    --card:       #12213a;
+    --ink:        #f6f5f1;
+    --soft:       #a9b3c1;
+    --rule:       #26375a;
+    --anchor:     #7cc3a0;
+    --flag:       #7cc3a0;
+    --anchor-wash:#15302a;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper:      #0b1626;
+  --card:       #12213a;
+  --ink:        #f6f5f1;
+  --soft:       #a9b3c1;
+  --rule:       #26375a;
+  --anchor:     #7cc3a0;
+  --flag:       #7cc3a0;
+  --anchor-wash:#15302a;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html { color-scheme: light; }
+img { max-width: 100%; }
+[hidden] { display: none !important; }
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--body);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.wrap {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 2.5rem 4rem;
+}
+
+h1, h2, h3, .eyebrow, .qlabel { font-family: var(--display); text-wrap: balance; }
+
+.eyebrow {
+  font-size: .72rem; font-weight: 600; letter-spacing: .14em;
+  text-transform: uppercase; color: var(--soft); margin: 0 0 .75rem;
+}
+h1 { font-size: clamp(2rem, 7vw, 2.9rem); font-weight: 700; line-height: 1.08; letter-spacing: -.015em; margin: 0 0 1rem; }
+.standfirst { font-size: 1.2rem; line-height: 1.5; color: var(--soft); margin: 0 0 2rem; max-width: 34rem; }
+h2 {
+  font-size: 1.45rem; font-weight: 700; letter-spacing: -.01em; line-height: 1.2;
+  margin: 3.5rem 0 .5rem; padding-top: 1.75rem; border-top: 1px solid var(--rule);
+}
+h2:first-of-type { margin-top: 2.5rem; }
+h3 { font-size: 1.05rem; font-weight: 600; margin: 2rem 0 .4rem; }
+p { margin: 0 0 1rem; }
+a { color: var(--anchor); }
+strong { font-weight: 600; }
+.cite { font-family: var(--display); font-size: .8rem; color: var(--soft); white-space: nowrap; }
+
+.quotes { display: flex; flex-direction: column; gap: .6rem; margin: 1.5rem 0 1.75rem; }
+.q {
+  background: var(--card); border: 1px solid var(--rule); border-left: 3px solid var(--flag);
+  border-radius: 2px; padding: .8rem 1rem; font-size: 1.05rem; min-width: 0;
+}
+.after { font-family: var(--display); font-size: 1.05rem; font-weight: 600; line-height: 1.45; margin: 0 0 1rem; }
+
+.checklist { display: grid; gap: .9rem; margin: 1.5rem 0; padding: 0; list-style: none; }
+.checklist li { display: grid; grid-template-columns: 1.6rem 1fr; gap: .7rem; align-items: start; min-width: 0; }
+.box { width: 1.1rem; height: 1.1rem; margin-top: .32rem; border: 1.5px solid var(--soft); border-radius: 2px; }
+.checklist b { font-family: var(--display); font-weight: 600; }
+.checklist span { color: var(--soft); }
+
+.phrase { background: var(--card); border: 1px solid var(--rule); border-radius: 3px; padding: 1rem 1.1rem; margin: 0 0 .85rem; min-width: 0; }
+.phrase .said { font-weight: 600; color: var(--flag); margin: 0 0 .35rem; }
+.phrase .means { margin: 0; }
+.phrase .ask {
+  margin: .6rem 0 0; padding-top: .6rem; border-top: 1px dashed var(--rule);
+  font-family: var(--display); font-size: .95rem; font-weight: 500;
+}
+.phrase .ask em { font-style: normal; color: var(--soft); }
+
+ol.steps { padding-left: 0; list-style: none; counter-reset: s; display: grid; gap: 1.1rem; margin: 1.5rem 0; }
+ol.steps li { counter-increment: s; display: grid; grid-template-columns: 2rem 1fr; gap: .8rem; min-width: 0; }
+ol.steps li::before { content: counter(s); font-family: var(--display); font-weight: 700; font-size: .95rem; color: var(--flag); padding-top: .18rem; }
+
+.pull { background: var(--anchor-wash); border-radius: 3px; padding: 1.1rem 1.2rem; margin: 1.75rem 0; min-width: 0; }
+.pull p:last-child { margin-bottom: 0; }
+.pull .eyebrow { margin-bottom: .5rem; }
+
+.letter { background: var(--card); border: 1px solid var(--rule); border-radius: 3px; padding: 1.25rem; margin: 1.5rem 0; min-width: 0; }
+.letter p { margin: 0 0 .9rem; }
+.letter p:last-child { margin-bottom: 0; }
+.letter .qlabel { display: block; font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; color: var(--soft); font-weight: 600; margin: 0 0 .9rem; }
+
+ul.plain { padding-left: 1.1rem; margin: 1rem 0; }
+ul.plain li { margin-bottom: .5rem; }
+
+.where { display: grid; gap: 1.1rem; margin: 1.5rem 0; }
+.where div { min-width: 0; }
+.where b { font-family: var(--display); font-weight: 600; display: block; }
+.where span { color: var(--soft); }
+
+footer { margin-top: 4rem; padding-top: 1.75rem; border-top: 1px solid var(--rule); font-size: .92rem; color: var(--soft); }
+footer h3 { font-size: .95rem; margin-top: 1.5rem; color: var(--ink); }
+footer a { word-break: break-word; }
+.stamp { font-family: var(--display); font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; }
+.site-back { font-family: var(--display); font-size: .9rem; margin: 0 0 1.5rem; }
+.site-back a { color: var(--anchor); text-decoration: none; }
+.site-back a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <p class="site-back"><a href="/#schooling">&larr; Back to The Alberta Disability System Breakdown</a></p>
+
+  <p class="eyebrow">A guide for Alberta parents</p>
+  <h1>The IPP Questions</h1>
+  <p class="standfirst">If your child has an Individualized Program Plan in a public or separate school in Alberta, Grades 1 to 12, there is a list of things it has to contain. Here is how to check, and what to ask when something is missing.</p>
+
+  <h2>Does any of this sound familiar?</h2>
+
+  <div class="quotes">
+    <div class="q">&ldquo;Progress is monitored on an ongoing basis.&rdquo;</div>
+    <div class="q">&ldquo;We&rsquo;ll check again when they seem ready.&rdquo;</div>
+    <div class="q">&ldquo;We don&rsquo;t use SMART goals in our IPPs.&rdquo;</div>
+    <div class="q">&ldquo;Staff keep an eye on all the kids.&rdquo;</div>
+    <div class="q">&ldquo;That can be discussed at the next meeting.&rdquo;</div>
+    <div class="q">&ldquo;She&rsquo;s doing really well.&rdquo;</div>
+  </div>
+
+  <p class="after">You are not imagining it, and you are not being difficult.</p>
+
+  <p>Each of those sentences sounds like an answer. None of them contains a date, a number, a name, or anything you could check in three months. Parents hear them for years and slowly start to think the problem is that they keep asking.</p>
+
+  <p>The problem is that none of those are answers. This page shows you what an answer looks like.</p>
+
+  <h2>Where the IPP rules come from</h2>
+
+  <p>The rules for IPPs are not in the Education Act, which never uses the words &ldquo;individualized program plan.&rdquo; They are in a provincial document called the <strong>Standards for Special Education, Amended June 2004</strong>. The document says it applies under Ministerial Order 015/2004. A Ministerial Order is an order made by the Education Minister.</p>
+
+  <p>The Standards cover Grades 1 to 12 in public and separate school boards, including Francophone authorities. They do not cover charter schools. Kindergarten and preschool (called Early Childhood Services) have their own special education standards. Alberta Education still listed the 2004 Standards as a current standard when this page was checked on 16 October 2026.</p>
+
+  <h2>What an IPP has to contain</h2>
+
+  <p>The Standards define an IPP and list ten pieces of &ldquo;essential information&rdquo; it includes. Standard 11 adds two more duties for teachers: write the formal review of progress into the IPP at report card times, and get the parent&rsquo;s written consent. Alberta Education&rsquo;s own guide, <em>Individualized Program Planning</em> (2006), puts all twelve in one list.</p>
+
+  <p>Take your child&rsquo;s most recent IPP and tick these off. Not something a bit like it. The thing itself.</p>
+
+  <ul class="checklist">
+    <li><span class="box"></span><div><b>Assessment data.</b> <span>The assessment results used to decide your child&rsquo;s program and supports.</span></div></li>
+    <li><span class="box"></span><div><b>Current level of performance and achievement.</b> <span>Where your child is right now. Standard 13 says this has to be stated against the learning outcomes in the provincial curriculum.</span></div></li>
+    <li><span class="box"></span><div><b>Strengths and areas of need.</b></div></li>
+    <li><span class="box"></span><div><b>Measurable goals and objectives.</b> <span>Goals written so that someone else could tell whether they were met.</span></div></li>
+    <li><span class="box"></span><div><b>Procedures for evaluating progress.</b> <span>How progress will be measured, written in the plan.</span></div></li>
+    <li><span class="box"></span><div><b>Coordinated support services, if your child needs them.</b> <span>Other services involved, including health-related ones.</span></div></li>
+    <li><span class="box"></span><div><b>Relevant medical information.</b></div></li>
+    <li><span class="box"></span><div><b>Required classroom accommodations.</b> <span>Changes to how your child is taught or tested, or to materials, equipment or the room.</span></div></li>
+    <li><span class="box"></span><div><b>Transition plans.</b> <span>Planning for changes: starting school, moving between grades or schools, and leaving school.</span></div></li>
+    <li><span class="box"></span><div><b>Formal review of progress at regularly scheduled reporting periods.</b> <span>Written in the IPP itself, at report card times.</span></div></li>
+    <li><span class="box"></span><div><b>Year-end summary.</b> <span>What worked, what did not, and recommendations for next year.</span></div></li>
+    <li><span class="box"></span><div><b>Parent signature, to show informed consent.</b> <span>Or, if you did not sign, a written note of why and what the school did to get your agreement.</span></div></li>
+  </ul>
+
+  <div class="pull">
+    <p class="eyebrow">Two sentences worth knowing</p>
+    <p>These come from the 2006 guide. They use the word &ldquo;should,&rdquo; so they are guidance rather than rules. They tell you what Alberta Education itself treats as good practice.</p>
+    <p><strong>&ldquo;Each objective should include a target date for achieving that particular objective&hellip; Most often target dates are set in four- to 12-week periods, but this will vary for different objectives.&rdquo;</strong></p>
+    <p><strong>&ldquo;Student progress should be evaluated several times throughout the school year.&rdquo;</strong></p>
+  </div>
+
+  <h3>About SMART goals</h3>
+
+  <p>SMART is a checklist for writing goals: specific, measurable, achievable, relevant, time-limited. The 2006 guide notes that a number of school jurisdictions use a version of it. Many do not, and that is allowed. The same guide says plainly that <strong>&ldquo;Alberta Education does not mandate a specific format.&rdquo;</strong></p>
+
+  <p>But SMART is a <em>format</em>. Measurable goals are a <em>requirement</em>, because they are on the Standards&rsquo; own list. The two words sound close enough that the answer usually passes.</p>
+
+  <p class="after">&ldquo;Understood, and you don&rsquo;t have to. Which measurable terms are you using instead?&rdquo;</p>
+
+  <h2>Your division has its own rules too</h2>
+
+  <p>Standard 12 requires every school board the Standards cover to have written local policies and procedures that are kept current, put into practice, and available to the public. Look on your division&rsquo;s website under policies, administrative procedures or board governance. The name varies. Write down the clause number and the review date when you quote one.</p>
+
+  <p>Some protections parents hear described as division rules are already in the provincial Standards:</p>
+
+  <ul class="plain">
+    <li>Boards must make sure an IPP is developed, carried out, monitored and evaluated for <strong>every</strong> student identified as having special education needs. <span class="cite">Standard 11(a)</span></li>
+    <li>Parents are to be consulted, which the Standards define as giving parents <strong>&ldquo;the opportunity to assist in making decisions about all aspects of programming and placement.&rdquo;</strong> <span class="cite">Definitions</span></li>
+    <li>Teaching your child with support in a regular classroom at the neighbourhood school is the first placement option a board must consider, in consultation with parents. <span class="cite">Standard 10(a)</span></li>
+    <li>When a specialized assessment is needed, the recommended guideline is to finish it, with a written report, within eight weeks of the written referral unless there are extenuating circumstances. <span class="cite">Standard 4(f)</span></li>
+    <li>Boards must tell parents of their right to appeal, and of their right to ask the Minister to review the board&rsquo;s decision. <span class="cite">Standard 16(d), (e)</span></li>
+  </ul>
+
+  <h2>Phrases that commit to nothing</h2>
+
+  <p>These are the moves that make a parent feel unreasonable for asking twice. Once you can name them, they stop working.</p>
+
+  <div class="phrase">
+    <p class="said">&ldquo;Assessment is ongoing.&rdquo; &ldquo;We test when the teacher feels they&rsquo;re ready.&rdquo;</p>
+    <p class="means">The reply uses your own word back at you while leaving out the number. &ldquo;Interval&rdquo; appears; the interval does not.</p>
+    <p class="ask"><em>Ask:</em> A date or a frequency, please. Ongoing is not an interval.</p>
+  </div>
+
+  <div class="phrase">
+    <p class="said">&ldquo;We don&rsquo;t use SMART goals.&rdquo;</p>
+    <p class="means">Answers a question about a requirement by naming an optional format.</p>
+    <p class="ask"><em>Ask:</em> Which measurable terms are you using instead?</p>
+  </div>
+
+  <div class="phrase">
+    <p class="said">&ldquo;Staff are always watching.&rdquo; &ldquo;The team knows him well.&rdquo;</p>
+    <p class="means">A sentence that cannot be checked, true or false. It feels like reassurance and commits to nothing.</p>
+    <p class="ask"><em>Ask:</em> What does that look like at 10am on a Tuesday? Who, specifically?</p>
+  </div>
+
+  <div class="phrase">
+    <p class="said">&ldquo;That can be discussed at our next meeting.&rdquo;</p>
+    <p class="means">Moves a written question into a room with no transcript, where the answer leaves no trace.</p>
+    <p class="ask"><em>Ask:</em> I&rsquo;d like this one in writing before we meet, so we can use the meeting for the rest.</p>
+  </div>
+
+  <div class="phrase">
+    <p class="said">&ldquo;That&rsquo;s what was on the form you filled in.&rdquo;</p>
+    <p class="means">A record that went out of date gets described as your mistake. Check the date you filled that form in, and what was known then.</p>
+    <p class="ask"><em>Ask:</em> That was accurate when I submitted it. What changed afterwards, and who was responsible for updating the record?</p>
+  </div>
+
+  <div class="phrase">
+    <p class="said">&ldquo;Those recommendations are up to the district.&rdquo;</p>
+    <p class="means">Often true. But a decision like that is made for a reason, and the reason is often a claim about what is already happening.</p>
+    <p class="ask"><em>Ask:</em> Understood. On what basis was that decision made, and what support is in place instead?</p>
+  </div>
+
+  <div class="phrase">
+    <p class="said">A general policy quoted to answer a question about your child.</p>
+    <p class="means">A plan for the whole class is not an answer to a question about something written into your child&rsquo;s own plan.</p>
+    <p class="ask"><em>Ask:</em> I&rsquo;m asking about the provision in my child&rsquo;s plan, which is specific to them.</p>
+  </div>
+
+  <div class="phrase">
+    <p class="said">&ldquo;We&rsquo;ll reach out when we can.&rdquo;</p>
+    <p class="means">Not a timeframe. Nothing has been promised, so nothing can be shown to have been missed.</p>
+    <p class="ask"><em>Ask:</em> Same school day, before the end of the day, in these specific situations. Then list them.</p>
+  </div>
+
+  <div class="phrase">
+    <p class="said">&ldquo;Flexible support.&rdquo; &ldquo;Building independence.&rdquo;</p>
+    <p class="means">Soft phrases that can describe a real service or no service at all. Put each one into plain words and see whether it still sounds like something.</p>
+    <p class="ask"><em>Ask:</em> In plain terms, what happens? Who does it, how often, for how long?</p>
+  </div>
+
+  <h2>Check your own file in one evening</h2>
+
+  <ol class="steps">
+    <li><div><b>Gather what you have.</b> IPPs for every year you can find, any behaviour or health plan, assessment reports, report cards, and emails. Under section 56 of the Education Act, a parent may review their child&rsquo;s student record and ask for a copy. The board may charge a fee for the copy. The Standards say IPPs are to be kept in the student record.</div></li>
+    <li><div><b>Tick off the twelve.</b> Go through the list above against the most recent IPP. Write down what is missing.</div></li>
+    <li><div><b>Look for a date on every objective.</b> Not a review date for the whole plan. A target date on each objective, as the 2006 guide describes.</div></li>
+    <li><div><b>Find your signature.</b> If it is not there, look for a note explaining why. The Standards require the school to write down the reasons a parent did not consent, or what it did to get consent. The 2006 guide says parents are usually invited to sign at the start of the year and at each reporting period. No signature and no note means consent was not recorded the way the Standards describe.</div></li>
+    <li><div><b>Put this year beside last year.</b> If the wording has been copied forward unchanged, ask whether the plan was reviewed or carried over.</div></li>
+    <li><div><b>If you have more than one child on an IPP, compare them.</b> Identical wording across two different children suggests the text describes the program rather than either child. That is worth asking about.</div></li>
+    <li><div><b>Check the dates on the classroom measures.</b> Reading levels, sight word lists, letter sounds. If a date has not moved while your child changed grades, ask when it was last measured.</div></li>
+    <li><div><b>Write a chronology.</b> Three columns: date, what happened, where you got it from. No opinions, no adjectives. A document that argues can be argued with. A list of dates can only be answered.</div></li>
+  </ol>
+
+  <p>If something in the record is wrong or missing, section 56 also lets you ask the board to fix it.</p>
+
+  <h2>The questions</h2>
+
+  <p>Send them by email, so there is a record. Ask for answers <strong>in writing, before</strong> the next meeting. Adjust the wording to your child.</p>
+
+  <div class="letter">
+    <span class="qlabel">Ready to adapt</span>
+    <p>Thank you for your time. I have some questions about [child]&rsquo;s program that I would like answered in writing before we meet.</p>
+    <p>1. What is [child]&rsquo;s current level of performance in [reading / the relevant area], stated as the measure you use?</p>
+    <p>2. On what date will that next be measured, and by whom? A date or a frequency, please.</p>
+    <p>3. [Child]&rsquo;s IPP objectives do not have target dates. Alberta Education&rsquo;s IPP guide says each objective should have one, most often four to twelve weeks out. Could target dates be added?</p>
+    <p>4. What measurable terms are being used in the goals, and how will I be shown whether each was met?</p>
+    <p>5. Who is delivering [the support], how many minutes per day, and on how many days per week?</p>
+    <p>6. The IPP does not carry my signature. Could I be given the plan to review and sign, as informed consent?</p>
+    <p>7. Which of the division&rsquo;s procedures on inclusive education applies here, and what does it require?</p>
+    <p>Thank you. I appreciate you putting these in writing.</p>
+  </div>
+
+  <p>Open by thanking someone, specifically, for something they did. Close with thanks. Never accuse anyone of anything. The questions are sharp enough on their own, and a teacher who feels safe writing to you is the most valuable thing you have.</p>
+
+  <h2>If you get nowhere</h2>
+
+  <p>These are the routes, roughly in the order you would use them.</p>
+
+  <div class="where">
+    <div><b>1. The school&rsquo;s dispute process</b><span>Every board must have a policy for resolving concerns at the school level. You have to follow it before you can appeal to the board. <span class="cite">Education Act s.41, s.42(3)</span></span></div>
+    <div><b>2. Appeal to the board</b><span>You can appeal a decision by a board employee that significantly affects your child&rsquo;s education, within a reasonable time of being told about it. A failure to make a decision counts as a decision you can appeal. The board must decide promptly and tell you in writing. <span class="cite">s.42</span></span></div>
+    <div><b>3. Review by the Minister of Education</b><span>For a board decision about your child&rsquo;s specialized supports and services, an expulsion, or the student record, you can ask the Minister in writing to review it. For supports and expulsions, the request has to be made within 60 days of being told of the board&rsquo;s decision. <span class="cite">s.43, s.44</span></span></div>
+    <div><b>4. Your board of trustees, in public</b><span>Board meetings must be held in public, though a board can vote to hold part of a meeting privately. Whether parents can speak depends on the board&rsquo;s own rules for delegations, so check them. This can put a pattern on the public record without naming your child. <span class="cite">s.64</span></span></div>
+    <div><b>5. Office of the Information and Privacy Commissioner</b><span>For privacy breaches by a school board. Alberta&rsquo;s Protection of Privacy Act came into force on 11 June 2025. Older documents, including the 2004 Standards, still refer to FOIP.</span></div>
+    <div><b>6. Alberta Human Rights Commission</b><span>For discrimination in services on the ground of disability. A complaint has to be made within one year. <span class="cite">Alberta Human Rights Act s.4, s.20</span></span></div>
+  </div>
+
+  <p>The Alberta Ombudsman is not on this list. Its own website says it cannot investigate complaints about schools.</p>
+
+  <p>Keep each complaint with the body that handles it. The Human Rights Commission can dismiss a complaint that is being, or should be, dealt with somewhere else.</p>
+
+  <footer>
+    <p class="stamp">Checked against the sources below on 16 October 2026</p>
+
+    <p>This guide compares what is in your child&rsquo;s plan with published standards. It is not legal advice.</p>
+
+    <p>The 2004 Standards and the 2006 guide were written under the School Act, which the Education Act has since replaced. The section numbers they cite are out of date. This page relies on the duties they set for school boards, and on the current Education Act for appeals and records.</p>
+
+    <h3>Sources</h3>
+    <ul class="plain">
+      <li><a href="https://www.alberta.ca/k-12-education-policies-and-standards">K to 12 education policies and standards</a>, Government of Alberta</li>
+      <li><a href="https://open.alberta.ca/publications/0778537781">Standards for Special Education, Amended June 2004</a>, Alberta Learning</li>
+      <li><a href="https://open.alberta.ca/publications/0778542920">Individualized Program Planning: ECS to Grade 12</a>, Alberta Education, 2006 (Chapter 1, p. 4 and p. 11; Chapter 7, p. 7)</li>
+      <li><a href="https://kings-printer.alberta.ca/documents/Acts/E00P3.pdf">Education Act</a>, office consolidation current as of 1 September 2026 (ss. 41 to 44, 56, 64)</li>
+      <li><a href="https://www.alberta.ca/strengthening-the-protection-of-personal-information">Strengthening the protection of personal information</a>, Government of Alberta</li>
+      <li><a href="https://www.ombudsman.ab.ca/complaint-checker/universities-schools/">Universities and Schools</a>, Alberta Ombudsman</li>
+      <li><a href="https://kings-printer.alberta.ca/570.cfm?frm_isbn=9780779845767&amp;search_by=link">Alberta Human Rights Act</a></li>
+    </ul>
+    <p>Questions about this guide? Reach out to us on the campaign line, <strong>587-590-3590</strong>.</p>
+    <p class="site-back"><a href="/#schooling">&larr; Back to The Alberta Disability System Breakdown</a></p>
+  </footer>
+
+</div>
+</body>
+</html>

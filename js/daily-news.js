@@ -3323,6 +3323,8 @@ New s.30.5(3): "A board shall not use the results of a literacy and numeracy scr
 make a determination under section 11(3) that a student is in need of specialized supports and
 services."
 
+**Correction, October 17, 2026:** this sentence is section **30.51(3)** of the Education Act, not section 30.5(3) as originally published. The wording quoted is correct; the section number was wrong. Section 30.5 deals with reporting results to the Minister and has only two subsections. This was first corrected in the September 28 post.
+
 New s.30.3(2): "A board may exempt a child or student from literacy and numeracy screening
 assessments." The Act sets no criterion for that. The criteria are left to a future regulation.
 
