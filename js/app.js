@@ -1836,7 +1836,7 @@ const STREAM_MARK = {
   "AISH / ADAP / CPP-D": ["\u25CF", "AISH / ADAP"],
   "Children / FSCD": ["\u25B2", "Kids & FSCD"],
   "PDD": ["\u2605", "PDD"],
-  "Continuing Care / Home Care": ["\u25C6", "Continuing Care"],
+  "Continuing Care / Home Care": ["\u25C6", "Care & Home Care"],
   "Seniors Benefits CPP/CPPD": ["\u25A0", "Seniors"],
   "Income Support": ["\u25BC", "Income Support"],
   "General Topics": ["\u25CB", "General"]

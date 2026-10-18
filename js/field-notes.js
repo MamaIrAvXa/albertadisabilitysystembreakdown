@@ -46,7 +46,18 @@ Keep walkers and canes within reach, keep floors clear, use the mobility help in
 ## SPEAK UP
 If you believe someone's needs aren't being met, or an injury isn't getting proper care, report it through your supervisor and your workplace's safety process.
 
-In Alberta, the Protection for Persons in Care Act says anyone who has reasonable grounds to believe a person in care is being abused must report it. The same law says a care provider can't punish someone for making a report.
+## HOW TO REPORT ABUSE IN ALBERTA
+In Alberta, the Protection for Persons in Care Act says anyone who believes a person in care is being abused must report it, **as soon as reasonably possible.** The same law says a care provider can't punish someone for making a report.
+
+**To report, call Protection for Persons in Care** toll free at **1-888-357-9339** (in Alberta), or **780-422-1155**.
+
+The line is open Monday to Friday, 8:15 a.m. to 4:30 p.m. **It is NOT an emergency line.**
+
+You can also send in the Abuse Report form (PPC 3817) by mail, email or fax. It's on the government's page: [Report abuse to Protection for Persons in Care](https://www.alberta.ca/report-abuse-to-protection-for-persons-in-care)
+
+You have to give your name and contact information. They don't take anonymous reports.
+
+**If someone is in immediate danger, call 911.**
 
 ## FOR FAMILIES
 **You're allowed to ask.** Ask how many times your loved one has fallen, what was done each time, and whether their care plan has been reviewed. Write down the answers, with dates.
