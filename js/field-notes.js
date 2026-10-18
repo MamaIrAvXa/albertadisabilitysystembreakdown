@@ -16,6 +16,72 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Calgary members: lower-cost city services through Fair Entry (October 17, 2026)",
+        date: "2026-10-17",
+        streams: ["AISH / ADAP / CPP-D", "Income Support", "Seniors Benefits CPP/CPPD", "General Topics"],
+        body: `The City of Calgary has one application, called **Fair Entry**, that gets you lower prices on city services if you have a lower income.
+
+## WHAT IT CAN GET YOU
+A cheaper Calgary Transit pass. The price goes by your income.
+
+Lower-cost recreation: swimming, gym, golf and art.
+
+Help with your property tax, if you own.
+
+Lower-cost internet, cell phone and TV.
+
+A prescription drug program for ages 18 to 64.
+
+Snow shovelling, grass cutting and housekeeping for seniors 65+.
+
+No-cost spay and neuter for cats.
+
+A few others, like market parking permits and the impound lot.
+
+## WHO CAN APPLY
+You have to live in Calgary.
+
+Your household income has to be at or under the limit. For one person, that's **$31,906 a year**. For two people it's **$39,721**. The number they look at is line 15000 on your tax assessment, which is your total income for the year.
+
+## IMPORTANT FOR ADAP
+The City's list of income proof includes AISH, but **ADAP is not on it.** If you were moved to ADAP, bring your Canada Revenue Agency **Notice of Assessment** as your proof of income. The City accepts that from anyone. If they say your ADAP letter isn't enough, that's why.
+
+**Heads up:** if you use your Notice of Assessment, or apply for property tax, the cat spay/neuter, or internet/phone/TV, you need income proof for **every adult family member living with you.**
+
+## HOW TO APPLY
+Online, in person at a Fair Entry office (there's a new one in Shawnessy), or call **311**. You can book an appointment online now so you don't have to wait in line. They're currently working on online applications sent in on October 6.
+
+[City of Calgary: Fair Entry](https://www.calgary.ca/social-services/low-income/fair-entry-subsidy.html)
+
+If you're not in Calgary, call or text **211** to find out what your own town offers.
+
+If you have questions, reach out to us on the campaign line, **587-590-3590**.`
+      },
+      {
+        title: "Looking for the AISH forms page? It's gone. Here's what was there, and how to ask for massage or physio (October 17, 2026)",
+        date: "2026-10-17",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `I went digging in the Internet Archive tonight, because I wanted to see what was there before, not just what we remember.
+
+## WHAT I FOUND
+**The old AISH Policy Manual had a Forms page.** It was still up on December 28, 2025. It listed 8 forms: the application, funeral expenses, CRA consent, consent to release information, utility consent, third party payment, direct deposit, and the Notice of Appeal. [Archived copy of the old Forms page](https://web.archive.org/web/20251228232653/https://manuals.alberta.ca/aish-policy-manual/forms/)
+
+**On July 2, 2026 that manual was replaced** by the new Disability Income Assistance (DIA) Policy Manual. The new one has no Forms page at all. [DIA Policy Manual, Tools and Resources](https://manuals.alberta.ca/dia-policy-manual/tools-and-resources/)
+
+**In every saved copy I checked, back to 2020, there was never a public form for massage, physio or health benefit requests.** Those have always gone through your worker.
+
+## IF YOU NEED SOMETHING THAT ISN'T ON THE USUAL LIST
+If you need massage, physio, or something else that isn't on the usual list, this is the rule the government published: [Requesting Additional Personal Benefits](https://manuals.alberta.ca/dia-policy-manual/aish-adap-program-policy/benefits/personal-benefits/requesting-additional-personal-benefits/)
+
+It says you have to show things like: no other program covers it, it would "significantly assist" in managing your disability, and not having it would hurt your health.
+
+The page also says these decisions can't be appealed, so **put your request in writing and include a note from your doctor or therapist.**
+
+To the member who shared what's worked for them, thank you. Coverage like that seems to depend on your worker approving it, so everyone's experience may be different. That's why getting the request in writing matters.
+
+If you have questions, reach out to us on the campaign line, **587-590-3590**.`
+      },
+      {
         title: "I wrote to the Minister tonight: \"Where are ADAP's workers?\" (October 15, 2026)",
         date: "2026-10-15",
         doc: "/pdfs/aish-adap/flyers/posters/ADSB_Letter_to_Minister_ADAP_Contact_Oct15_2026.png",
