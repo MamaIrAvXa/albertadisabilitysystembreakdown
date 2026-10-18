@@ -27,6 +27,27 @@
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700;9..144,800&family=Atkinson+Hyperlegible:wght@400;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/css/styles.css">
 <style>
+  /* Stream colours on cards: the whole border takes the colour of the side of
+     the site the card belongs to. Gold/navy = AISH/ADAP, green/navy = kids,
+     FSCD and PDD, brown = seniors. Inline so it needs no styles.css change. */
+  .card.s-aish, .action-card.s-aish       { border-color: #b8890f; border-left: 4px solid #d4a017; }
+  .card.s-kids, .action-card.s-kids       { border-color: #2e6b4f; border-left: 4px solid #3f8f5e; }
+  .card.s-seniors, .action-card.s-seniors { border-color: #8a5230; border-left: 4px solid #a9643c; }
+  .card.s-income, .action-card.s-income   { border-color: #46668a; border-left: 4px solid #5b7fa6; }
+  .card.s-general, .action-card.s-general { border-color: #5f6168; border-left: 4px solid #7d7f87; }
+  .card.s-aish:hover, .action-card.s-aish:hover       { border-color: #d4a017; }
+  .card.s-kids:hover, .action-card.s-kids:hover       { border-color: #7cc3a0; }
+  .card.s-seniors:hover, .action-card.s-seniors:hover { border-color: #c98a5e; }
+  .card.s-income:hover, .action-card.s-income:hover   { border-color: #8fb0d4; }
+  .card.s-general:hover, .action-card.s-general:hover { border-color: #a3a5ad; }
+  .jd-card.s-kids    { background: linear-gradient(155deg, #0e3326 0%, #050d1c 65%); }
+  .jd-card.s-seniors { background: linear-gradient(155deg, #3a2416 0%, #050d1c 65%); }
+  .jd-card.s-kids .jd-pill    { background: #7cc3a0; }
+  .jd-card.s-seniors .jd-pill { background: #d9a27a; }
+  .jd-card.s-income .jd-pill  { background: #8fb0d4; }
+  .jd-card.s-kids .card-num    { color: #7cc3a0; }
+  .jd-card.s-seniors .card-num { color: #d9a27a; }
+  .jd-card.s-income .card-num  { color: #8fb0d4; }
   /* Schooling section, inline so it needs no styles.css change */
   .schooling { background: #0a2342; border-top: 3px solid #2e6b4f; }
   .schooling .section-eyebrow { color: #7cc3a0; }
