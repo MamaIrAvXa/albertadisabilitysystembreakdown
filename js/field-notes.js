@@ -16,6 +16,46 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Falls in seniors are never \"just a fall\" (October 17, 2026)",
+        date: "2026-10-17",
+        streams: ["Seniors Benefits CPP/CPPD", "Continuing Care / Home Care"],
+        body: `This one is for care aides, and for every family with a parent, grandparent or loved one in care.
+
+For an older adult, especially someone living with dementia, a fall can be serious. Bruising around the eyes or forehead, or falling again and again, means they need to be checked properly and followed up.
+
+## REPEATED FALLS ARE A WARNING SIGN
+Every fall should be reported to the nurse. Falling again and again can mean something has changed: their medications, their health, their balance, or what their care plan needs to cover.
+
+## A POSSIBLE HEAD INJURY NEEDS URGENT ATTENTION
+Bruising around the eyes or forehead after a fall can mean a serious injury. **Being awake, or saying "I'm fine," doesn't mean they are.**
+
+## KNOW WHEN TO CALL 911
+If you suspect a head, neck or spine injury, **don't move them unless they're in danger where they are.**
+
+**Call 911 for:** passing out, or being hard to wake; a seizure; throwing up more than once; or new confusion, weakness, or trouble speaking.
+
+## WRITE DOWN WHAT HAPPENED, NOT WHAT YOU THINK HAPPENED
+What you saw, the time, how they were, who you told, and what was done. Never guess, leave things out, or change a record.
+
+## SPEAK FOR THE PERSON WHO CAN'T
+Someone with dementia may not remember falling or be able to tell you where it hurts. Watch for changes: how they walk, how alert they are, whether they're eating, whether they're acting like themselves. **Not being able to say it doesn't mean they aren't hurt.**
+
+## HELP STOP THE NEXT FALL
+Keep walkers and canes within reach, keep floors clear, use the mobility help in their care plan, and ask for a reassessment when things change.
+
+## SPEAK UP
+If you believe someone's needs aren't being met, or an injury isn't getting proper care, report it through your supervisor and your workplace's safety process.
+
+In Alberta, the Protection for Persons in Care Act says anyone who has reasonable grounds to believe a person in care is being abused must report it. The same law says a care provider can't punish someone for making a report.
+
+## FOR FAMILIES
+**You're allowed to ask.** Ask how many times your loved one has fallen, what was done each time, and whether their care plan has been reviewed. Write down the answers, with dates.
+
+Every resident is someone's mom, dad, grandma or grandpa. Having dementia, being unable to speak up, or having fallen before should never mean they get less care.
+
+If you have questions, reach out to us on the campaign line, **587-590-3590**.`
+      },
+      {
         title: "Just dropped: 10 government forms you can now fill in on your phone (October 17, 2026)",
         date: "2026-10-17",
         streams: ["AISH / ADAP / CPP-D", "Income Support"],
