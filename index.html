@@ -48,6 +48,65 @@
   .jd-card.s-kids .card-num    { color: #7cc3a0; }
   .jd-card.s-seniors .card-num { color: #d9a27a; }
   .jd-card.s-income .card-num  { color: #8fb0d4; }
+  /* Continuing Care: teal */
+  .card.s-care, .action-card.s-care { border-color: #2e7272; border-left: 4px solid #3a8f8f; }
+  .card.s-care:hover, .action-card.s-care:hover { border-color: #7cc8c8; }
+  .jd-card.s-care { background: linear-gradient(155deg, #0f3333 0%, #050d1c 65%); }
+  .jd-card.s-care .jd-pill { background: #7cc8c8; }
+  .jd-card.s-care .card-num { color: #7cc8c8; }
+
+  /* Menu buttons: ring in the side's colour, with its shape in front (option A) */
+  .nav-group.ng-aish    { --sc: #d4a017; --sc-hi: #f5c542; --sc-wash: rgba(212,160,23,.14); }
+  .nav-group.ng-kids, .nav-group.ng-pdd { --sc: #3f8f5e; --sc-hi: #7cc3a0; --sc-wash: rgba(63,143,94,.16); }
+  .nav-group.ng-care    { --sc: #3a8f8f; --sc-hi: #7cc8c8; --sc-wash: rgba(58,143,143,.16); }
+  .nav-group.ng-seniors { --sc: #a9643c; --sc-hi: #d9a27a; --sc-wash: rgba(169,100,60,.18); }
+  .nav-group[class*="ng-"] .nav-group-btn { box-shadow: inset 0 0 0 1.5px var(--sc); color: var(--sc-hi); }
+  .nav-group[class*="ng-"] .nav-group-btn::before { font-size: .8em; margin-right: 2px; }
+  .nav-group.ng-aish .nav-group-btn::before    { content: "\25CF"; content: "\25CF" / ""; }
+  .nav-group.ng-kids .nav-group-btn::before    { content: "\25B2"; content: "\25B2" / ""; }
+  .nav-group.ng-pdd .nav-group-btn::before     { content: "\2605"; content: "\2605" / ""; }
+  .nav-menu-title { margin: 2px 6px 4px; padding: 6px 6px 8px; font-size: .72rem; letter-spacing: .08em; text-transform: uppercase;
+    color: var(--sc-hi, #a9b3c1); border-bottom: 1px solid rgba(255,246,215,.10); white-space: nowrap; }
+  @media (max-width: 940px) { .nav-menu-title { display: none; } }
+  .nav-group.ng-care .nav-group-btn::before    { content: "\25C6"; content: "\25C6" / ""; }
+  .nav-group.ng-seniors .nav-group-btn::before { content: "\25A0"; content: "\25A0" / ""; }
+  .nav-group[class*="ng-"] .nav-menu { border: 2px solid var(--sc); border-top-width: 5px; }
+  .nav-group[class*="ng-"] .nav-menu a:hover { background: var(--sc-wash); color: var(--sc-hi); }
+  /* When the full row of tabs is wider than the screen (most laptops), let it fold onto a
+     second line instead of running off the right edge and making the page scroll sideways. */
+  @media (min-width: 941px) {
+    .primary-nav { flex-wrap: wrap; justify-content: center; row-gap: 6px; max-width: 100%; }
+    /* First line: the everyday links. Second line: the sections, each in its colour. */
+    .nav-break { flex-basis: 100%; height: 0; }
+  }
+  @media (max-width: 940px) { .nav-break { display: none; } }
+  /* Long menus scroll inside themselves; menus near the right edge open leftward */
+  .nav-menu { overflow-y: auto; overscroll-behavior: contain; }
+  .nav-group.menu-right .nav-menu { left: auto; right: 0; }
+  .nav-group.ng-aish .nav-menu { display: grid; grid-template-columns: 1fr 1fr; column-gap: 2px; }
+  @media (max-width: 940px) { .nav-group.ng-aish .nav-menu { display: flex; } }
+  @media (max-width: 940px) {
+    .nav-group[class*="ng-"] .nav-group-btn { box-shadow: none; border-left: 4px solid var(--sc); justify-content: flex-start; gap: 8px; }
+    .nav-group[class*="ng-"] .nav-menu { border: 0; border-left: 4px solid var(--sc); }
+  }
+
+  /* Shape + name tag on each card */
+  .stream-tag { display: inline-block; font-family: var(--font-mono, monospace); font-size: .62rem; letter-spacing: .12em; text-transform: uppercase;
+    padding: 2px 7px; margin-right: .5rem; border-radius: 4px; border: 1px solid currentColor; vertical-align: 1px; white-space: nowrap; }
+  .stream-tag.s-aish, .sl.s-aish { color: #f5c542; }
+  .stream-tag.s-kids, .sl.s-kids { color: #7cc3a0; }
+  .stream-tag.s-care, .sl.s-care { color: #7cc8c8; }
+  .stream-tag.s-seniors, .sl.s-seniors { color: #d9a27a; }
+  .stream-tag.s-income, .sl.s-income { color: #8fb0d4; }
+  .stream-tag.s-general, .sl.s-general { color: #a3a5ad; }
+  .action-stream { margin: 0 0 .4rem; }
+
+  /* Colour key strip under the header */
+  .stream-legend { display: flex; flex-wrap: wrap; gap: .35rem 1.1rem; justify-content: center; align-items: center;
+    padding: .5rem 16px; background: #050d1c; border-bottom: 1px solid rgba(255,246,215,.08); font-size: .8rem; }
+  .stream-legend .sl-title { color: #a9b3c1; }
+  .stream-legend .sl { white-space: nowrap; font-weight: 600; }
+
   /* Schooling section, inline so it needs no styles.css change */
   .schooling { background: #0a2342; border-top: 3px solid #2e6b4f; }
   .schooling .section-eyebrow { color: #7cc3a0; }
@@ -354,8 +413,8 @@
       <a href="#daily-news">Daily News</a>
       <a href="#field-notes" data-stream="All" data-scroll-to="#field-notes">Field Notes</a>
       <a href="#faq" data-stream="All" data-scroll-to="#faq">FAQ</a>
-      <span class="nav-divider" aria-hidden="true"></span>
-      <div class="nav-group">
+      <span class="nav-break" aria-hidden="true"></span>
+      <div class="nav-group ng-kids">
         <button type="button" class="nav-group-btn" aria-haspopup="true">Children/FSCD <span class="caret" aria-hidden="true">&#9662;</span></button>
         <div class="nav-menu">
           <a href="#schooling">Schooling &amp; Your Child&rsquo;s Rights</a>
@@ -366,7 +425,7 @@
           <a href="#take-action" data-stream="Children / FSCD" data-scroll-to="#take-action">Take Action</a>
         </div>
       </div>
-      <div class="nav-group">
+      <div class="nav-group ng-pdd">
         <button type="button" class="nav-group-btn" aria-haspopup="true">PDD <span class="caret" aria-hidden="true">&#9662;</span></button>
         <div class="nav-menu">
           <a href="#documents" data-stream="PDD" data-scroll-to="#documents">Documents</a>
@@ -376,7 +435,7 @@
           <a href="#take-action" data-stream="PDD" data-scroll-to="#take-action">Take Action</a>
         </div>
       </div>
-      <div class="nav-group">
+      <div class="nav-group ng-aish">
         <button type="button" class="nav-group-btn" aria-haspopup="true">AISH/ADAP/CPP-D <span class="caret" aria-hidden="true">&#9662;</span></button>
         <div class="nav-menu">
           <a href="#documents" data-stream="AISH / ADAP / CPP-D" data-scroll-to="#documents">Documents</a>
@@ -396,9 +455,10 @@
           <a href="#faq" data-stream="AISH / ADAP / CPP-D" data-scroll-to="#faq">FAQ</a>
         </div>
       </div>
-      <div class="nav-group">
-        <button type="button" class="nav-group-btn" aria-haspopup="true">Continuing Care/<br>Home Care <span class="caret" aria-hidden="true">&#9662;</span></button>
+      <div class="nav-group ng-care">
+        <button type="button" class="nav-group-btn" aria-haspopup="true">Care &amp; Home Care <span class="caret" aria-hidden="true">&#9662;</span></button>
         <div class="nav-menu">
+          <p class="nav-menu-title">Continuing Care / Home Care</p>
           <a href="#documents" data-stream="Continuing Care / Home Care" data-scroll-to="#documents">Documents</a>
           <a href="#reference" data-stream="Continuing Care / Home Care" data-scroll-to="#reference">Reference Library</a>
           <a href="#field-notes" data-stream="Continuing Care / Home Care" data-scroll-to="#field-notes">Field Notes</a>
@@ -406,9 +466,10 @@
           <a href="#take-action" data-stream="Continuing Care / Home Care" data-scroll-to="#take-action">Take Action</a>
         </div>
       </div>
-      <div class="nav-group">
-        <button type="button" class="nav-group-btn" aria-haspopup="true">Seniors Benefits<br>CPP/CPPD <span class="caret" aria-hidden="true">&#9662;</span></button>
+      <div class="nav-group ng-seniors">
+        <button type="button" class="nav-group-btn" aria-haspopup="true">Seniors &amp; CPP <span class="caret" aria-hidden="true">&#9662;</span></button>
         <div class="nav-menu">
+          <p class="nav-menu-title">Seniors Benefits, CPP &amp; CPP-D</p>
           <a href="#documents" data-stream="Seniors Benefits CPP/CPPD" data-scroll-to="#documents">Documents</a>
           <a href="#reference" data-stream="Seniors Benefits CPP/CPPD" data-scroll-to="#reference">Reference Library</a>
           <a href="#field-notes" data-stream="Seniors Benefits CPP/CPPD" data-scroll-to="#field-notes">Field Notes</a>
@@ -423,6 +484,17 @@
     </nav>
   </div>
 </header>
+<!-- Colour, shape and name key for the sides of the site -->
+<div class="stream-legend" role="note" aria-label="Colour key">
+  <span class="sl-title">Colour key:</span>
+  <span class="sl s-aish"><span aria-hidden="true">&#9679;</span> AISH / ADAP</span>
+  <span class="sl s-kids"><span aria-hidden="true">&#9650;</span> Kids &amp; FSCD</span>
+  <span class="sl s-kids"><span aria-hidden="true">&#9733;</span> PDD</span>
+  <span class="sl s-care"><span aria-hidden="true">&#9670;</span> Continuing Care</span>
+  <span class="sl s-seniors"><span aria-hidden="true">&#9632;</span> Seniors &amp; CPP</span>
+  <span class="sl s-income"><span aria-hidden="true">&#9660;</span> Income Support</span>
+  <span class="sl s-general"><span aria-hidden="true">&#9675;</span> General</span>
+</div>
 
 <section id="subscribe-strip" class="subscribe-strip">
   <div class="wrap">

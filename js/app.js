@@ -908,7 +908,7 @@ function renderDailyNews() {
   if (!feed.length) {
     wrap.innerHTML = streamChipRow("daily-news") +
       '<p class="stream-empty">No daily updates filed under <strong>' +
-      dnEscape(activeStream) + '</strong> yet.</p>';
+      dnEscape(streamLabel(activeStream)) + '</strong> yet.</p>';
     return;
   }
   const latest = feed[0];
@@ -987,7 +987,7 @@ function renderFAQ() {
       const head = (group.stream || (items[0] && items[0].stream) || DEFAULT_STREAM);
       if (head !== lastHeading) {
         lastHeading = head;
-        html += '<h3 class="faq-stream-head">' + dnEscape(head) + "</h3>";
+        html += '<h3 class="faq-stream-head">' + dnEscape(streamLabel(head)) + "</h3>";
       }
     }
     html += '<div class="faq-cat"><h3 class="faq-cat-title">' + dnEscape(group.cat) + "</h3>";
@@ -1140,7 +1140,7 @@ function renderJustDropped() {
   grid.innerHTML = items.map(item => `
     <article class="card jd-card ${streamClass(item)}">
       <p class="card-num">
-        <span class="jd-pill">New</span>
+        <span class="jd-pill">New</span>${streamTag(item)}
         ${item.kind} · ${item.category} · ${formatReleaseDate(item.released)}
       </p>
       <h3 class="card-title">${item.title}</h3>
@@ -1393,7 +1393,7 @@ function renderReference(filter = "all") {
   const shown = items.filter(streamMatches);
   grid.innerHTML = shown.map(d => `
     <article class="card ${streamClass(d)}" data-cat="${d.cat}">
-      <p class="card-num">${categoryLabel(d.cat)}</p>
+      <p class="card-num">${streamTag(d)}${categoryLabel(d.cat)}</p>
       <h3 class="card-title">${d.title}</h3>
       <p class="card-desc">${mdBold(d.desc)}</p>
       <div class="card-actions">
@@ -1413,13 +1413,13 @@ function renderDocs(filter = "all") {
     .filter(streamMatches);
   if (!docs.length) {
     grid.innerHTML = '<p class="stream-empty">Nothing filed under <strong>' +
-      dnEscape(activeStream) + '</strong> yet. This section is being built \u2014 ' +
+      dnEscape(streamLabel(activeStream)) + '</strong> yet. This section is being built \u2014 ' +
       'if you have something that belongs here, tell us.</p>';
     return;
   }
   grid.innerHTML = docs.map(d => `
     <article class="card ${streamClass(d)}" data-cat="${d.cat}">
-      <p class="card-num">${categoryLabel(d.cat)}</p>
+      <p class="card-num">${streamTag(d)}${categoryLabel(d.cat)}</p>
       <h3 class="card-title">${d.title}</h3>
       <p class="card-desc">${mdBold(d.desc)}</p>
       <div class="card-actions">
@@ -1620,6 +1620,31 @@ function bindFilterChips() {
   });
 }
 
+// ─── Desktop drop-down menus: keep each one on the screen ───
+// A long menu (the AISH one has 15 links) can run past the bottom of a laptop screen,
+// and the menus at the right end can run past the right edge. This fits them when they open.
+function bindNavMenuFit() {
+  const fits = [];
+  document.querySelectorAll(".nav-group").forEach(g => {
+    const menu = g.querySelector(".nav-menu");
+    if (!menu) return;
+    const fit = () => {
+      if (window.innerWidth <= 940) { menu.style.maxHeight = ""; g.classList.remove("menu-right"); return; }
+      const btn = g.querySelector(".nav-group-btn").getBoundingClientRect();
+      menu.style.maxHeight = Math.max(160, window.innerHeight - btn.bottom - 18) + "px";
+      g.classList.remove("menu-right");
+      if (btn.left + menu.offsetWidth > window.innerWidth - 8) g.classList.add("menu-right");
+    };
+    g.addEventListener("mouseenter", fit);
+    g.addEventListener("focusin", fit);
+    fits.push(fit);
+  });
+  // Run once now and on resize, so a closed menu never sits past the right edge and widens the page.
+  const all = () => fits.forEach(f => f());
+  all();
+  window.addEventListener("resize", all);
+}
+
 // ─── Mobile nav toggle ───
 function bindNavToggle() {
   const toggle = document.querySelector(".nav-toggle");
@@ -1627,6 +1652,17 @@ function bindNavToggle() {
   toggle.addEventListener("click", () => {
     const open = document.body.classList.toggle("nav-open");
     toggle.setAttribute("aria-expanded", open ? "true" : "false");
+    if (open) {
+      // On a phone the alert bar sits above the header, which pushed the bottom of the
+      // menu off the screen. Bring the header to the top, then fit the menu to what's left.
+      const header = document.querySelector(".site-header");
+      const nav = document.querySelector(".primary-nav");
+      if (header && nav) {
+        const top = header.getBoundingClientRect().top;
+        if (top > 0) window.scrollTo(0, window.scrollY + top);
+        nav.style.maxHeight = Math.max(200, window.innerHeight - header.getBoundingClientRect().bottom) + "px";
+      }
+    }
   });
   document.querySelectorAll(".primary-nav a").forEach(a => {
     a.addEventListener("click", () => {
@@ -1785,22 +1821,48 @@ const STREAM_CLASS = {
   "Children / FSCD": "s-kids",
   "PDD": "s-kids",
   "Seniors Benefits CPP/CPPD": "s-seniors",
+  "Continuing Care / Home Care": "s-care",
   "Income Support": "s-income",
   "General Topics": "s-general"
 };
 
-function streamClass(item) {
-  // When a stream filter is on and the item belongs to it, colour the card for that stream.
+// How a stream's name is SHOWN. The stored name stays the same so every existing post still files correctly.
+function streamLabel(s) {
+  return s === "Seniors Benefits CPP/CPPD" ? "Seniors Benefits CPP/CPP-D" : s;
+}
+
+// Each side of the site has a colour AND a shape AND a name, so nobody has to rely on colour alone.
+const STREAM_MARK = {
+  "AISH / ADAP / CPP-D": ["\u25CF", "AISH / ADAP"],
+  "Children / FSCD": ["\u25B2", "Kids & FSCD"],
+  "PDD": ["\u2605", "PDD"],
+  "Continuing Care / Home Care": ["\u25C6", "Continuing Care"],
+  "Seniors Benefits CPP/CPPD": ["\u25A0", "Seniors"],
+  "Income Support": ["\u25BC", "Income Support"],
+  "General Topics": ["\u25CB", "General"]
+};
+
+// Which side an item is shown as: the active filter if the item belongs to it, otherwise its first side.
+function streamKey(item) {
   const s = streamsOf(item);
-  if (typeof activeStream !== "undefined" && activeStream !== "All" && s.indexOf(activeStream) !== -1 && STREAM_CLASS[activeStream]) {
-    return STREAM_CLASS[activeStream];
-  }
-  return STREAM_CLASS[s[0]] || "s-aish";
+  if (typeof activeStream !== "undefined" && activeStream !== "All" && s.indexOf(activeStream) !== -1) return activeStream;
+  return s[0];
+}
+
+function streamTag(item) {
+  const k = streamKey(item);
+  const m = STREAM_MARK[k];
+  if (!m) return "";
+  return '<span class="stream-tag ' + (STREAM_CLASS[k] || "s-aish") + '"><span aria-hidden="true">' + m[0] + "</span> " + m[1] + "</span>";
+}
+
+function streamClass(item) {
+  return STREAM_CLASS[streamKey(item)] || "s-aish";
 }
 
 function streamEmpty(what) {
   return '<p class="stream-empty">No ' + what + ' filed under <strong>' +
-    dnEscape(activeStream) + '</strong> yet. This section is being built \u2014 ' +
+    dnEscape(streamLabel(activeStream)) + '</strong> yet. This section is being built \u2014 ' +
     'if you have something that belongs here, tell us.</p>';
 }
 
@@ -1810,7 +1872,7 @@ function streamChipRow(idPrefix) {
           '" data-stream="All">All</button>';
   STREAMS.forEach(s => {
     html += '<button type="button" class="fn-filter' + (activeStream === s ? " is-active" : "") +
-            '" data-stream="' + dnEscape(s) + '">' + dnEscape(s) + "</button>";
+            '" data-stream="' + dnEscape(s) + '">' + (STREAM_MARK[s] ? '<span aria-hidden="true">' + STREAM_MARK[s][0] + "</span> " : "") + dnEscape(streamLabel(s)) + "</button>";
   });
   return html + "</div>";
 }
@@ -1909,6 +1971,7 @@ function renderActionFormCards() {
     const card = document.createElement("article");
     card.className = "action-card " + streamClass(f);
     card.innerHTML =
+      '<p class="action-stream">' + streamTag(f) + "</p>" +
       "<h3>" + mdInline(f.title) + "</h3>" +
       "<p>" + mdInline(lead) + "</p>" +
       (rest ? '<details class="action-more"><summary>More</summary><p>' + mdInline(rest) + "</p></details>" : "") +
@@ -1939,7 +2002,7 @@ document.addEventListener("DOMContentLoaded", () => {
   renderAudio();
   // Each binding is isolated. Before this, a throw in any one of them
   // silently killed every binding after it — that is how search broke.
-  [bindFilterChips, bindNavToggle, bindScrollSpy, bindSearch, bindStreamControls].forEach(fn => {
+  [bindFilterChips, bindNavToggle, bindNavMenuFit, bindScrollSpy, bindSearch, bindStreamControls].forEach(fn => {
     try { fn(); } catch (e) { console.error(fn.name + " failed:", e); }
   });
 });
