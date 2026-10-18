@@ -8,6 +8,123 @@
    heading; blank lines separate paragraphs. That's the whole format.
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
+  {
+    date: "2026-10-17",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — October 17, 2026",
+    body: `A quiet Saturday in what I could check tonight. I didn't find anything new from the province or Ottawa about AISH, ADAP or the Canada Disability Benefit (CDB). Here's what I did confirm tonight, on the government's own pages.
+
+## PAYMENT DAYS
+**November AISH, ADAP and Income Support payment:** lands Tuesday, October 27.
+
+**December payment:** lands Wednesday, November 25.
+
+## COUPLES
+The province's October 6 memo says each partner gets the full living allowance, minus any income that counts, and that underpayments can be paid back to you. An underpayment is money they should have paid you and didn't. The memo still doesn't say when or how that back pay will come, so I'm not going to give you a number or a date until I can source one. **Please keep all your payment statements from August on.** And couples, look closely at your October 27 deposit.
+
+## ENERGY REBATE: 14 DAYS LEFT
+The $100 Alberta Energy Rebate portal is open until **Saturday, October 31**. If you were on AISH, ADAP or Income Support before July 1, you got it automatically. If you came onto a program **after** July 1, nobody is sending it to you, so you have to apply yourself at alberta.ca. **Don't click links in text messages to apply.** The government says it won't send you money by text.
+
+## CANADA DISABILITY BENEFIT
+The CDB is up to **$204.20 a month** from July 2026 to June 2027 (canada.ca, checked tonight).
+
+## THE LEGISLATURE IS COMING BACK
+The Alberta Legislature returns **Tuesday, October 27**, and is scheduled to sit until **Thursday, December 3**. The agenda for that first day (called the Order Paper) is already posted. There's no government bill on it. There is one disability item: **Motion 520**, from St. Albert MLA Marie Renaud. It asks the Assembly to urge the government to cancel the CDB deduction from AISH and pay back what's been deducted. A motion like this is a request to the government. It doesn't change the rules on its own.
+
+## REFERENDUM
+Advance voting ended today. Referendum day is **Monday, October 19**, at your assigned voting place. Bring proof of your name and your physical address. You can find where to vote at elections.ab.ca.
+
+## WHAT I COULDN'T CHECK TONIGHT
+I couldn't confirm the latest online version of the AISH and ADAP regulation itself tonight. So this is what I confirmed in what I read, not a promise that nothing else moved.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-17",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — October 17, 2026",
+    body: `Nothing changed for seniors in what I could read tonight. Here's what I confirmed on the government's own pages.
+
+## PAYMENT DAYS
+**Alberta Seniors Benefit:** Monday, October 26.
+
+**Old Age Security (OAS) and Canada Pension Plan (CPP):** Wednesday, October 28.
+
+## ENERGY REBATE: 14 DAYS LEFT
+If you started on the Alberta Seniors Benefit **after July 1**, the $100 Energy Rebate won't arrive on its own. You've got until **Saturday, October 31**, to apply at alberta.ca. The provincial fuel tax relief (13 cents a litre on gas and diesel) runs until the end of the year.
+
+## OAS AND GIS, OCTOBER TO DECEMBER 2026
+**OAS, ages 65 to 74:** up to $762.50 a month.
+
+**OAS, ages 75 and up:** up to $838.75 a month.
+
+**Guaranteed Income Supplement (GIS), single:** up to $1,138.90 a month. GIS is the extra federal payment for seniors with low incomes.
+
+## DON'T WAIT TO APPLY
+GIS and the Alberta Seniors Benefit can each only be paid back up to **11 months** before they get your application. If you apply late, there's money you'll never get back. If you're turning 65 within the year, start now.
+
+## YOUR DRUG COVERAGE
+Since October 1, if you're on Coverage for Seniors and you also have a private plan (through a pension or a spouse), **the private plan pays first.** The government plan is now the backup.
+
+## IF THE PUBLIC TRUSTEE SENDS A NOTICE
+If the Public Trustee sends your bank or care home a notice about your money, the law says they have to carry it out, and it protects them when they do it in good faith. So if you think the decision is wrong, **it's the decision itself you challenge, not the bank.**
+
+## COMING UP
+**Monday, October 26, 6 to 8 p.m.:** the Heritage Fund committee's annual public meeting.
+
+**Tuesday, October 27:** the Legislature returns.
+
+I didn't get to the policy manuals or the forms tonight, so this covers what I could read.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-17",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — October 17, 2026",
+    body: `Nothing changed for kids and families in what I checked tonight. Here's what I confirmed on the government's own pages.
+
+## THE LEGISLATURE COMES BACK ON OCTOBER 27
+The Alberta Legislature hasn't sat since May 14. It returns **Tuesday, October 27**, and is scheduled to sit 19 days, until **Thursday, December 3**. It's the same session as the spring, so every bill picks up where it left off.
+
+The agenda for that first day (called the Order Paper) is already posted, and I read all 11 pages. There's nothing on it about FSCD, PDD, the Education Act, inclusive or special education, or seclusion and restraint. New bills can still be brought in on any sitting day. So if you want to write your MLA about something before the House sits, **you have 10 days.**
+
+## FSCD RATES: NO CHANGE
+FSCD is Family Support for Children with Disabilities. I read every rate in the regulation again tonight. None of them moved:
+
+**Mileage:** 12 cents a kilometre.
+
+**Clothing and footwear:** up to $400 a year.
+
+**Respite:** up to 240 hours a year.
+
+**Parking:** up to $10 a day.
+
+**Hotel:** up to $85 a day.
+
+**Dental with no plan:** $250 a year.
+
+**Medical costs:** FSCD helps with costs above 2% of both parents' combined income (line 23600 on your tax return).
+
+## THE TWO-YEAR DIAGNOSIS RULE
+This one is still the same, and it's still only in the FSCD policy manual, not in the law. FSCD can help for up to 2 years while your child is waiting for a diagnosis. **If there's no confirmed diagnosis after 2 years, your child is no longer eligible.**
+
+The FSCD policy manual still shows only one update this year (February 20, 2026). The PDD policy manual still has no public list of changes. No bill before the Legislature changes the FSCD or PDD laws.
+
+## ENERGY REBATE: 14 DAYS LEFT
+If you came onto AISH, ADAP or Income Support after July 1, apply for the $100 rebate yourself at alberta.ca by **Saturday, October 31**.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
 {
   date: "2026-10-16",
   stream: "AISH / ADAP / CPP-D",
