@@ -16,6 +16,47 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Just dropped: 10 government forms you can now fill in on your phone (October 17, 2026)",
+        date: "2026-10-17",
+        streams: ["AISH / ADAP / CPP-D", "Income Support"],
+        body: `A lot of the government's AISH and ADAP forms only open in Adobe Reader on a computer. On a phone, you just get a message saying you need Adobe. So we rebuilt them.
+
+Each one is a fillable working copy that asks everything the official form asks, and it opens on any phone, tablet or computer. Each one also starts with a plain-language guide: what the form is for, who fills in what, and the words explained.
+
+**Important: these are NOT official government forms.** Before you send one in, ask your worker: "Will you accept this working copy?" If they say no, ask them to email or mail you the official form. Every guide tells you where the official one lives.
+
+## APPLYING
+**AISH and ADAP Application (DS2444A):** the application itself, Part A. [Open the AISH and ADAP Application form](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/fillable/ADSB_Fillable_DS2444A_Disability_Income_Assistance_Application.pdf)
+
+**AISH and ADAP Medical Report (DS2444B):** Part B, filled in by your doctor or nurse practitioner. [Open the AISH and ADAP Medical Report form](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/fillable/ADSB_Fillable_DS2444B_Disability_Income_Assistance_Medical_Report.pdf)
+
+**Canada Revenue Agency Consent (DS2318A):** lets the CRA send your tax information straight to AISH, ADAP or Income Support, so they can check your income without asking you for paperwork every year. [Open the Canada Revenue Agency Consent form](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/fillable/ADSB_Fillable_DS2318A_Canada_Revenue_Agency_Consent.pdf)
+
+## GETTING PAID
+**Direct Deposit Registration (EMP2443IS):** sets up or changes direct deposit, so your payment goes into your bank account instead of coming as a cheque. [Open the Direct Deposit Registration form](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/fillable/ADSB_Fillable_EMP2443IS_Direct_Deposit_Registration.pdf)
+
+**Consent to Third Party Payment (DS5511):** lets part of your money go straight to someone else, like rent to your landlord or a bill to a utility. [Open the Consent to Third Party Payment form](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/fillable/ADSB_Fillable_DS5511_Consent_to_Third_Party_Payment.pdf)
+
+## HEALTH AND HELP
+**Health Services Request (DS5551):** how you ask AISH or ADAP to cover massage therapy, physiotherapy, chiropractic, acupuncture or another health service your health benefits don't normally cover. [Open the Health Services Request form](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/fillable/ADSB_Fillable_DS5551_Health_Services_Request_Rev2026-07.pdf)
+
+**Consent to Release Information (AAS13391):** lets information about you be shared with someone else, like a family member or advocate who's helping you talk to AISH. [Open the Consent to Release Information form](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/fillable/ADSB_Fillable_AAS13391_Consent_to_Release_Information.pdf)
+
+## IF SOMETHING GOES WRONG
+**Notice of Appeal (AAS13358):** to appeal a decision. **You usually have 30 days**, so read the time limits on page one first. [Open the Notice of Appeal form](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/fillable/ADSB_Fillable_AAS13358_Notice_of_Appeal.pdf)
+
+**AISH and ADAP Repayment Agreement (DS0976):** the agreement you're asked to sign when the government says you were overpaid. **This is an agreement, not a notice. What you sign decides how much comes off your cheque. Read the guide BEFORE you sign anything.** [Open the AISH and ADAP Repayment Agreement form](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/fillable/ADSB_Fillable_DS0976_AISH_and_ADAP_Repayment_Agreement.pdf)
+
+## FUNERAL BENEFITS
+**Funeral Benefits Application (DS12960):** for help with funeral costs for an AISH or ADAP client. If the funeral has already been paid for, you may still be able to get the money back for up to six months afterward. [Open the Funeral Benefits Application form](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/fillable/ADSB_Fillable_DS12960_Funeral_Benefits_Application_AISH_ADAP.pdf)
+
+You'll find them all under Just Dropped on the website's home page too.
+
+**Please don't send your filled-in forms to us. They go to the government.** And keep a copy of everything you send, with the date.
+
+If you have questions, reach out to us on the campaign line, **587-590-3590**.`
+      },
+      {
         title: "Calgary members: lower-cost city services through Fair Entry (October 17, 2026)",
         date: "2026-10-17",
         streams: ["AISH / ADAP / CPP-D", "Income Support", "Seniors Benefits CPP/CPPD", "General Topics"],
