@@ -101,7 +101,25 @@
   .stream-tag.s-general, .sl.s-general { color: #a3a5ad; }
   .action-stream { margin: 0 0 .4rem; }
 
+  /* Tea Time player: nothing loads from YouTube until someone presses play */
+  .tea-time { background: #050d1c; }
+  .tt-player { position: relative; max-width: 900px; aspect-ratio: 16 / 9; margin: 1.5rem 0 1rem; border-radius: 12px; overflow: hidden;
+    border: 2px solid #d4a017; background: #000; }
+  .tt-player iframe, .tt-play { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+  .tt-play { padding: 0; cursor: pointer; background: #000; display: block; }
+  .tt-play img { width: 100%; height: 100%; object-fit: cover; opacity: .8; display: block; }
+  .tt-btn { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 76px; height: 76px; border-radius: 50%;
+    background: #f5c542; color: #081a36; font-size: 30px; line-height: 76px; text-align: center; padding-left: 6px; box-shadow: 0 6px 24px rgba(0,0,0,.5); }
+  .tt-play:hover .tt-btn, .tt-play:focus-visible .tt-btn { background: #ffd866; }
+  .tt-play:focus-visible { outline: 3px solid #f5c542; outline-offset: -3px; }
+  .tt-note { position: absolute; left: 0; right: 0; bottom: 0; padding: .6rem 1rem; font-size: .85rem; color: #f6f5f1;
+    background: linear-gradient(transparent, rgba(0,0,0,.8)); text-align: left; }
+  .tt-links { font-size: .95rem; }
+  .tt-links a { color: #f5c542; }
   /* Colour key strip under the header */
+  /* The menu now sits on two lines on computers, so jumping to a section must stop below it */
+  section[id] { scroll-margin-top: 90px; }
+  @media (min-width: 941px) { section[id] { scroll-margin-top: 190px; } }
   #colour-key { scroll-margin-top: 150px; }
   @media (min-width: 941px) { #colour-key { scroll-margin-top: 186px; } }
   .hero-sub:has(+ .hero-sub) { margin-bottom: .9rem; }
@@ -556,7 +574,7 @@
       <a href="#colour-key" class="btn btn-primary">Find your section</a>
       <a href="#take-action" class="btn btn-ghost">Forms you can fill in on your phone</a>
       <a href="#daily-news" class="btn btn-ghost">Where Things Stand</a>
-      <a href="https://youtube.com/@albertadisabilitybreakdown" class="btn btn-ghost" target="_blank" rel="noopener">Watch Tea Time</a>
+      <a href="#tea-time" class="btn btn-ghost">Watch Tea Time</a>
     </div>
     <p class="hero-meta">
       <span class="meta-pill">Free to share</span>
@@ -1237,6 +1255,29 @@
     </div>
 
     <div class="card-grid" id="ministerial-grid"></div>
+  </div>
+</section>
+
+<!-- ───────────── TEA TIME (YouTube playlist) ───────────── -->
+<section id="tea-time" class="tea-time">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="section-eyebrow">Watch</p>
+      <h2 class="section-title">Saturday Tea Time with Chantal.</h2>
+      <p class="section-lede">The weekly live show: what changed, what it means for you, and your questions answered. Every episode is in the playlist. Press play to start, or use the playlist button in the player to pick an episode.</p>
+    </header>
+    <div class="tt-player" data-video="56IvJy-5Nyc" data-list="PLJf5Le6Y1J7s">
+      <button type="button" class="tt-play" aria-label="Play the Tea Time playlist">
+        <img src="https://i.ytimg.com/vi/56IvJy-5Nyc/hqdefault.jpg" alt="" loading="lazy" width="480" height="360">
+        <span class="tt-btn" aria-hidden="true">&#9654;</span>
+        <span class="tt-note">Press play to load the video from YouTube</span>
+      </button>
+    </div>
+    <p class="tt-links">
+      <a href="https://www.youtube.com/watch?v=56IvJy-5Nyc&amp;list=PLJf5Le6Y1J7s" target="_blank" rel="noopener">Open the playlist on YouTube &rarr;</a>
+      &middot;
+      <a href="https://youtube.com/@albertadisabilitybreakdown" target="_blank" rel="noopener">Subscribe to the channel &rarr;</a>
+    </p>
   </div>
 </section>
 

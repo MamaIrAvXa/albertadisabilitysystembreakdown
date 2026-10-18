@@ -1645,6 +1645,29 @@ function bindNavMenuFit() {
   window.addEventListener("resize", all);
 }
 
+// ─── Tea Time player ───
+// Shows a still picture first. The YouTube player (privacy-enhanced, youtube-nocookie.com)
+// only loads when someone presses play, so the page stays fast and YouTube isn't contacted
+// for people who never watch.
+function bindTeaTime() {
+  document.querySelectorAll(".tt-player").forEach(box => {
+    const btn = box.querySelector(".tt-play");
+    if (!btn) return;
+    btn.addEventListener("click", () => {
+      const v = encodeURIComponent(box.dataset.video || "");
+      const l = encodeURIComponent(box.dataset.list || "");
+      const f = document.createElement("iframe");
+      f.src = "https://www.youtube-nocookie.com/embed/" + v + "?autoplay=1&rel=0" + (l ? "&list=" + l : "");
+      f.title = "Saturday Tea Time with Chantal, YouTube playlist";
+      f.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+      f.allowFullscreen = true;
+      f.referrerPolicy = "strict-origin-when-cross-origin";
+      box.replaceChildren(f);
+      f.focus();
+    });
+  });
+}
+
 // ─── Mobile nav toggle ───
 function bindNavToggle() {
   const toggle = document.querySelector(".nav-toggle");
@@ -2002,7 +2025,7 @@ document.addEventListener("DOMContentLoaded", () => {
   renderAudio();
   // Each binding is isolated. Before this, a throw in any one of them
   // silently killed every binding after it — that is how search broke.
-  [bindFilterChips, bindNavToggle, bindNavMenuFit, bindScrollSpy, bindSearch, bindStreamControls].forEach(fn => {
+  [bindFilterChips, bindNavToggle, bindNavMenuFit, bindTeaTime, bindScrollSpy, bindSearch, bindStreamControls].forEach(fn => {
     try { fn(); } catch (e) { console.error(fn.name + " failed:", e); }
   });
 });
