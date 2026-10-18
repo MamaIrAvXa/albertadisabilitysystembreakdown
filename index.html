@@ -102,6 +102,9 @@
   .action-stream { margin: 0 0 .4rem; }
 
   /* Colour key strip under the header */
+  #colour-key { scroll-margin-top: 150px; }
+  @media (min-width: 941px) { #colour-key { scroll-margin-top: 186px; } }
+  .hero-sub:has(+ .hero-sub) { margin-bottom: .9rem; }
   .stream-legend { display: flex; flex-wrap: wrap; gap: .35rem 1.1rem; justify-content: center; align-items: center;
     padding: .5rem 16px; background: #050d1c; border-bottom: 1px solid rgba(255,246,215,.08); font-size: .8rem; }
   .stream-legend .sl-title { color: #a9b3c1; }
@@ -485,7 +488,7 @@
   </div>
 </header>
 <!-- Colour, shape and name key for the sides of the site -->
-<div class="stream-legend" role="note" aria-label="Colour key">
+<div class="stream-legend" id="colour-key" role="note" aria-label="Colour key">
   <span class="sl-title">Colour key:</span>
   <span class="sl s-aish"><span aria-hidden="true">&#9679;</span> AISH / ADAP</span>
   <span class="sl s-kids"><span aria-hidden="true">&#9650;</span> Kids &amp; FSCD</span>
@@ -538,24 +541,29 @@
   </div>
   <div class="wrap hero-content">
     <img src="/assets/adsb-logo.png" alt="The Alberta Disability System Breakdown — a pink ribbon rose over the Alberta map, with the words We fight for change. We remember. We speak. We carry you with us." class="hero-logo" width="900" height="959" fetchpriority="high">
-    <p class="eyebrow">Public Interest Brief · April 2026</p>
+    <p class="eyebrow">Public Interest Resource · Updated Daily</p>
     <h1 class="hero-headline">
       Alberta's disability supports are<br>
       <em>breaking under their own rules.</em>
     </h1>
     <p class="hero-sub">
-      AISH, ADAP, FSCD, PDD, primary care, appeals — each system is failing in a different way, and together they form a single trap. This site gathers the evidence, the arithmetic, and the flyers you can print and share.
+      AISH, ADAP, Income Support, FSCD, PDD, schools, continuing care, seniors' benefits, housing and appeals. Each system is failing in a different way, and together they form a single trap.
+    </p>
+    <p class="hero-sub">
+      This site gathers the evidence and the math, plain-language guides, and government forms you can fill in on your phone. Every number comes from the government's own pages, and when we get something wrong, we correct it out loud.
     </p>
     <div class="hero-actions">
-      <a href="#flyers" class="btn btn-primary">Browse flyers</a>
-      <a href="#system" class="btn btn-ghost">Read the breakdown</a>
-      <a href="#reports" class="btn btn-ghost">Get the reports</a>
+      <a href="#colour-key" class="btn btn-primary">Find your section</a>
+      <a href="#take-action" class="btn btn-ghost">Forms you can fill in on your phone</a>
+      <a href="#daily-news" class="btn btn-ghost">Where Things Stand</a>
+      <a href="https://youtube.com/@albertadisabilitybreakdown" class="btn btn-ghost" target="_blank" rel="noopener">Watch Tea Time</a>
     </div>
     <p class="hero-meta">
       <span class="meta-pill">Free to share</span>
       <span class="meta-pill">Free to save</span>
       <span class="meta-pill">Free to distribute</span>
       <span class="meta-pill">All sourced</span>
+      <span class="meta-pill">Corrected out loud</span>
     </p>
   </div>
 </section>
