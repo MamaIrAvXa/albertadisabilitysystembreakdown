@@ -70,12 +70,14 @@ If you have questions, reach out to us on the campaign line, **587-590-3590**.`
 
 **In every saved copy I checked, back to 2020, there was never a public form for massage, physio or health benefit requests.** Those have always gone through your worker.
 
+**Update, October 17, 2026:** there is a form after all, it just isn't in either manual. It's called the **Health Services Request (DS5551)**, and it's how you ask AISH to cover acupuncture, chiropractic, massage therapy, physiotherapy, or something else. It only lives on the government's forms site, and it only opens in Adobe Reader on a computer. We've made a fillable copy that works on a phone, with a plain-language guide: [Health Services Request (DS5551), fillable copy](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/fillable/ADSB_Fillable_DS5551_Health_Services_Request.pdf). Ask your worker first whether they'll accept it.
+
 ## IF YOU NEED SOMETHING THAT ISN'T ON THE USUAL LIST
 If you need massage, physio, or something else that isn't on the usual list, this is the rule the government published: [Requesting Additional Personal Benefits](https://manuals.alberta.ca/dia-policy-manual/aish-adap-program-policy/benefits/personal-benefits/requesting-additional-personal-benefits/)
 
 It says you have to show things like: no other program covers it, it would "significantly assist" in managing your disability, and not having it would hurt your health.
 
-The page also says these decisions can't be appealed, so **put your request in writing and include a note from your doctor or therapist.**
+The page also says these decisions can't be appealed, so **put your request in writing and include a note from your doctor or therapist.** We don't know yet whether this is the rule AISH uses for the DS5551 form, because neither the form nor the manual says. Ask your worker in writing which rule applies to your request.
 
 To the member who shared what's worked for them, thank you. Coverage like that seems to depend on your worker approving it, so everyone's experience may be different. That's why getting the request in writing matters.
 
