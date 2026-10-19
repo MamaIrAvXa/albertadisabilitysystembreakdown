@@ -14,6 +14,38 @@
    ─────────────────────────────────────────────────────────────── */
 const EMAIL_LETTERS = [
   {
+    id: "cdb-deduction-correction",
+    title: "NEW \u2014 Ask to correct a Canada Disability Benefit deduction that's bigger than your CDB",
+    blurb: "If AISH or ADAP is taking $200 a month off for the Canada Disability Benefit, but your CDB is less than $200, this asks them to fix the deduction, pay back the difference for every month, and give you their answer in writing. Attach your Service Canada letter and your bank statements.",
+    to: "",
+    toHint: "Send it to your own area's AISH/ADAP email. The list is on the government's page at <b>alberta.ca/contact-aish-and-adap</b>. Check the address there before you send, because some addresses have changed.",
+    cc: "",
+    ccHint: "Optional: copy your own MLA. Find yours at <b>contact.assembly.ab.ca</b>.",
+    subject: "Request to correct my Canada Disability Benefit deduction",
+    note: "Fill in everything in [brackets] and attach your Service Canada letter and bank statements. Keep a copy of what you send, with the date. If they write back and say no, that is a decision, and you can appeal it within 30 days of getting it, so always ask for their answer in writing. If they don't fix it, the Alberta Ombudsman is there as a next step.",
+    body:
+`Hello,
+
+My name is [your name], and my file number is [your file number].
+
+My Canada Disability Benefit (CDB) is $[amount] a month, starting [month and year]. I've attached my letter from Service Canada and my bank statements showing the amount.
+
+My AISH/ADAP payments have had $200 a month taken off for the CDB since [month and year]. That's more than the CDB I receive.
+
+Please:
+1. Change my deduction to match my CDB amount of $[amount].
+2. Pay me back the difference for each month that too much was taken off.
+3. Send me your answer in writing, including the reason for any decision.
+
+Attached:
+- My Service Canada letter showing my CDB amount
+- My bank statements from [month] to [month]
+
+Thank you,
+[Your name]
+[Your phone or email]`
+  },
+  {
     id: "adap-no-contact-nov5",
     title: "NEW \u2014 To the Minister: ADAP clients left without contact, information or correction since July",
     blurb: "Since the July move, many people on ADAP have heard nothing: no worker named, no contact, letters that contradict each other, corrections that never came. This letter puts six documented problems in front of the Minister \u2014 no contact, the October 6 employment services \u201cselection\u201d letters, people in the four stay-on-AISH groups still not corrected, medications refused on ADAP, CDB and CPP deduction errors, and a contact address that changed without notice \u2014 and asks seven questions with a written answer by November 5, 2026. It quotes the Minister\u2019s own October 15 letter back to him. The more people who send it, the harder it is to answer one letter and ignore the rest.",

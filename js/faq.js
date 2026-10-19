@@ -70,7 +70,9 @@ If you would rather wait and see, that is a fair choice. Keep your payment state
 
 **Update, October 11, 2026:** the government has now said something about timing. In a news release on **October 6, 2026**, it said affected couples "will be repaid the full difference, back to August 2026," that **no action is required**, and that payments are **expected before the end of 2026**. That is the government's own statement of what it intends, and it has not given a payment day, a method, or a total. It also has not said whether anything can be taken out of the repayment first, so the notice-before-deductions question in our request letter still stands.
 
-You still do not have to apply, and the request letter is still a fair way to keep a dated record. Keep your payment statements from August on, and check the November deposit (it lands October 27) to see which amount you are being paid. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026)_`
+You still do not have to apply, and the request letter is still a fair way to keep a dated record. Keep your payment statements from August on, and check the November deposit (it lands October 27) to see which amount you are being paid. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026)_
+
+Where the worry about deductions comes from: the government's general page on underpayments says AISH and ADAP "pays the full amount of an underpayment," and also says money from an underpayment "may be used to pay debts you have to the Alberta government." That page says nothing specific about the couples repayment, so we still do not know whether it will be used here. Keep asking for notice in writing before any deduction. _(Alberta "AISH and ADAP overpayments and underpayments" page, read October 18, 2026)_`
       },
       {
         q: `Does the $100 Alberta energy rebate count against my AISH or ADAP, and do I have to apply?`,
@@ -202,6 +204,12 @@ The practical effect: rent in social housing is 30 percent of household income, 
 Two other things came in the same regulation, on the same date. Government-sponsored refugees and people with a pending refugee or immigration claim are no longer named as an eligible group for community housing. And a minimum rent floor was set, so basic rent cannot go below a prescribed minimum, which limits reductions some seniors previously received.
 
 Nothing changes on your rent today, and none of this reaches you until your own annual review. What you can do now: if you are in community housing or on the Rent Assistance Benefit and you get child benefits, ask your housing provider **in writing** what your rent will be on January 1, 2027 and on what basis, and keep the answer. The first sign that child benefits are being counted will not be a new law. It will be a rent notice. _(AR 180/2026 made by Ministerial Order 2026-018, amending AR 244/1994; The Alberta Gazette, Part II, July 31, 2026; verified against the King's Printer, August 2026)_`
+      },
+      {
+        q: `Are the child benefit amounts changing under ADAP?`,
+        a: `Yes. From the **August 2026** benefit period, the monthly child benefit is **$300 for the first child, $117 for the second, $88 for the third, $59 for the fourth, and $30 for each additional child**. The government says the new rates will increase benefits for about **7,000 families** receiving disability income assistance.
+
+Check your own statement against those numbers. If you have a larger family, do the arithmetic against what you were paid before rather than assuming it went up. Ask in writing for a breakdown of how your child benefit was calculated. _(Alberta Disability Assistance Program page, read October 18, 2026)_`
       }
     ]
   },
@@ -219,6 +227,12 @@ Ask for it in writing anyway, and keep the answer. Not because we doubt the poli
       {
         q: `Is there a deadline to move back to AISH?`,
         a: `No. There is no clock on it — that door has no deadline. You apply when your medical picture supports it, and the clearer and fresher your medical evidence is, the stronger your case.`
+      },
+      {
+        q: `Someone told me only four groups of people can still get AISH. Is that right?`,
+        a: `No. Those four groups — severe and profound developmental disability or eligibility for Persons with Developmental Disabilities services, palliative or terminal conditions, living in continuing care, and being 60 or older — are the people who **stayed on AISH automatically**, without a new assessment (and even they could choose ADAP). They are what decided who was moved in July. In our reading, they are not the test for getting AISH now.
+
+If your condition means you cannot work, the way in is still an application, with the medical report and an assessment of how your disability affects your ability to work. If you were moved to ADAP, the government's ADAP page says it covers the cost of one medical report for people who ask to be assessed for AISH, with no time limit, and that former AISH clients should get **preapproval from a worker first**. It also says former AISH clients get a shortened application that uses non-medical information already on file, though a complete medical report is still required. Ask for the preapproval in writing and keep the answer. _(the four automatic categories, the covered report, the shortened application and the preapproval step per the government's Alberta Disability Assistance Program page, read October 18, 2026; the point that the four categories are not the test for getting AISH now is our reading)_`
       },
       {
         q: `What does the AISH application look like?`,
@@ -252,7 +266,7 @@ The regulation also shuts out ten narrower things, mostly about money already pa
 
 Here is a distinction worth holding onto, because it is where people get talked out of appealing. Two different things can put a decision out of reach, and they are not the same. Some decisions are on the regulation's exempt list. Others are simply not the Director's to make — they belong to the Minister, and an appeal panel cannot touch a Minister's decision at all. There is a third limit too: a panel has no power to rule on whether a decision is constitutional. So "you cannot appeal that" can mean three quite different things, and only one of them is the exempt list.
 
-That is why the question to ask is always the same. If you are told a decision cannot be appealed, do not take it as final: ask, in writing, **which instrument makes this decision exempt from appeal**. Get the answer in writing. A great deal is **not** barred — including the employment-related cut under section 15(4). And whatever else you do, file within **30 days**. Bring it to this community and we will help you word it. _(exempt list read from the Applications and Appeals (Ministerial) Regulation, AR 89/2007, section 6, as amended by AR 87/2026 — consolidated text current as of July 2, 2026, Alberta King's Printer; the three limits on the panel's reach per the DIA Policy Manual, Limits to the Appeal Panel's Authority; transition and medical-panel bars also confirmed on the government's ADAP appeal page, September 2026)_`
+That is why the question to ask is always the same. If you are told a decision cannot be appealed, do not take it as final: ask, in writing, **which instrument makes this decision exempt from appeal**. Get the answer in writing. A great deal is **not** barred — including the employment-related cut under section 15(4). And whatever else you do, file within **30 days** of the date you receive notice of the decision. Bring it to this community and we will help you word it. _(exempt list read from the Applications and Appeals (Ministerial) Regulation, AR 89/2007, section 6, as amended by AR 87/2026 — consolidated text current as of July 2, 2026, Alberta King's Printer; the three limits on the panel's reach per the DIA Policy Manual, Limits to the Appeal Panel's Authority; transition and medical-panel bars also confirmed on the government's ADAP appeal page, September 2026)_`
       },
       {
         q: `I have new medical evidence — should I send it in or file my appeal first?`,
@@ -369,7 +383,7 @@ _(Update, October 5, 2026: the regulation says these amounts rise automatically 
       },
       {
         q: `Can they cut my ADAP benefit if my health forces me to reduce my work hours?`,
-        a: `If your benefit is cut because your health affects your work, that kind of cut — the employment one under section 15(4) — is appealable, so you do not have to accept it without a fight. File in writing within 30 days.
+        a: `If your benefit is cut because your health affects your work, that kind of cut — the employment one under section 15(4) — is appealable, so you do not have to accept it without a fight. File in writing within 30 days of the date you receive notice of the decision.
 
 Read the wording, because it matters to you specifically. The provision reaches someone who "refused to seek or accept or has reduced or terminated" their reasonable employment. Cutting your hours is named in there. But it turns on what the director *thinks* you did — and a reduction forced on you by your health is not a refusal. That is the argument, and it is a good one.
 

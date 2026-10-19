@@ -9,6 +9,125 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-10-18",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — October 18, 2026",
+    body: `A quiet night in what I could read. I didn't find anything new from the province or Ottawa about AISH, ADAP or the Canada Disability Benefit (CDB).
+
+First, my heart is with everyone affected by what happened at CFB Wainwright yesterday. Please be gentle with yourselves if the news is weighing on you.
+
+## DATES TO KNOW
+**Tomorrow, Monday, October 19:** referendum day. Advance voting is over, so if you're voting, it's tomorrow.
+
+**Tuesday, October 27:** November AISH, ADAP and Income Support payment.
+
+**Tuesday, October 27:** the Legislature comes back for the fall sitting. There's a private member's motion on the Order Paper about the Canada Disability Benefit being taken off AISH. (A private member's motion is one brought by an MLA, not by the government. It doesn't change anything unless it passes and the government acts on it.)
+
+**Saturday, October 31:** last day to apply for the $100 Energy Rebate. If you're on AISH, ADAP or Income Support, you were enrolled automatically, **UNLESS you joined after July 1.** If you joined after July 1, you have to apply yourself.
+
+**Wednesday, November 25:** December payment.
+
+## CANADA DISABILITY BENEFIT
+The CDB is up to **$204.20 a month** from July 2026 to June 2027. The **$150 supplement** is paid for each approved Disability Tax Credit certificate. It's meant to help with the cost of applying for the Disability Tax Credit, and Alberta's regulation says it doesn't count as income for AISH or ADAP. **If it shows up as income on your statement, ask in writing why.**
+
+## COUPLES
+The province's October 6 memo says each partner gets the full living allowance minus income that counts, and that underpayments (money you should have been paid and weren't) can be paid back. It still doesn't say when or how. I'm not going to put a number or a date in front of you until I can source one. **Please keep all your statements from August on.** You'll want them.
+
+## WHAT I COULDN'T CHECK TONIGHT
+I couldn't read every channel I normally check, including the Alberta Gazette (where new regulations are published) and the federal newsroom. So this is what I confirmed in what I read, not a promise that nothing else moved.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-18",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — October 18, 2026",
+    body: `Nothing changed for seniors in what I could read tonight, and that included the tribunal and court decisions this time. The one thing I couldn't check was the new lodge rules that start in January, because they aren't posted in full yet.
+
+## PAYMENT DAYS THIS MONTH
+**Alberta Seniors Benefit:** Monday, October 26.
+
+**OAS and CPP:** Wednesday, October 28.
+
+## OAS AND GIS AMOUNTS (OCTOBER TO DECEMBER 2026)
+**OAS, ages 65 to 74:** up to $762.50 a month.
+
+**OAS, ages 75 and up:** up to $838.75 a month.
+
+**GIS (Guaranteed Income Supplement), single:** up to $1,138.90 a month.
+
+These went up 1.4% this quarter. The next change is in January.
+
+## ENERGY REBATE: 13 DAYS LEFT
+If you started on the Alberta Seniors Benefit **after July 1**, the $100 Energy Rebate won't arrive on its own. You've got until **Saturday, October 31** to apply.
+
+## THE FEDERAL DENTAL PLAN
+Thinking about the Canadian Dental Care Plan? Your adjusted family net income has to be under **$90,000**. You also can't have dental coverage through work or a pension, **even if you never use it.** Check box 015 on your T4A (the slip your pension sends at tax time) before you apply or renew. The government's page also says that if the plan paid for care while you weren't eligible, you may have to pay it back.
+
+## THE NEW PREVENTATIVE HEALTH TESTS
+If you have private health insurance, you have to claim the new preventative tests through your private plan first. The province only pays what your plan won't, or if your plan says no.
+
+## TOO SICK TO APPLY FOR CPP?
+If someone you love was too sick to apply for CPP when they should have, **it's not always lost.** The law lets the application be treated as if it was made earlier, if they couldn't form the intention to apply because of their illness. Medical evidence of that is what makes the case.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-18",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — October 18, 2026",
+    body: `Nothing moved tonight for FSCD, PDD or school supports. Every FSCD rate was re-checked on the regulation itself:
+
+**Mileage:** still 12 cents a kilometre.
+
+**Respite:** still up to 240 hours a year.
+
+**Clothing and footwear:** still up to $400 a year.
+
+**Dental (if you have no plan):** still $250 a year.
+
+**Medical costs:** FSCD still helps with costs above 2% of both parents' combined income (line 23600 on your tax returns).
+
+The Legislature comes back **Tuesday, October 27.** There is nothing on that day's Order Paper about FSCD, PDD, schools or disabled kids.
+
+## TONIGHT'S BIG ONE: SECLUSION AND RESTRAINT AT SCHOOL
+Alberta's rules on seclusion (putting a child alone in a room they can't leave) and physical restraint at school aren't just advice. **They're binding standards**, made under the Education Act through a Ministerial Order in 2019. Here's what they require.
+
+**The principal has to tell you THE SAME SCHOOL DAY.** If your child is secluded or restrained, the school also has to write down its efforts to reach you before the end of that day.
+
+**It can't be used as punishment**, as discipline, to force your child to comply, or in place of the educational support your child needs.
+
+**It can only be used for DANGEROUS behaviour** (likely to hurt your child or someone else), not behaviour that's just disruptive.
+
+**Seclusion can't be used at all when a child is seriously hurting themselves.**
+
+**If your child can't express themselves through speech alone**, staff who can communicate with them have to be there the whole time.
+
+**Someone has to be watching and listening to your child the entire time.**
+
+**If the school plans ahead to use it, they need your informed consent.** If your child has a history of crisis-level behaviour, that consent has to be in writing. If you say no, the school has to work with you on other options that keep everyone just as safe.
+
+**Every incident has to be written down.** Staff have to hold a debrief (a meeting about what happened) within three days, and you should be offered one too.
+
+**Your school division has to have a written policy**, made with parents and shared with you, plus a way to make complaints and appeals that's clearly explained to you. The rules don't say what that process is. Each division sets its own, so ask yours for it by name.
+
+If any of this has happened to your child and the school didn't follow these steps, write down the dates and what happened, and reach out to us.
+
+## ENERGY REBATE: 13 DAYS LEFT
+Applications close **Saturday, October 31.** If you joined AISH, ADAP or Income Support after July 1, apply yourself.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-10-17",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — October 17, 2026",
