@@ -16,6 +16,89 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Christmas help across Alberta: what's open for 2026 (October 18, 2026)",
+        date: "2026-10-18",
+        streams: ["AISH / ADAP / CPP-D", "Income Support", "Children / FSCD", "Seniors Benefits CPP/CPPD", "General Topics"],
+        body: `A lot of you have been asking about Christmas hampers, so I went looking. Here's what I found, town by town.
+
+## TWO THINGS FIRST
+**Many of these programs are built for families with kids.** If you're a single adult, call and ask anyway. Some help adults and seniors too, and if they don't, they usually know who does.
+
+**Some deadlines come EARLY, in November.** Don't wait until December.
+
+**If you're on AISH, bring your AISH statement.** Several programs name it as proof of income or ID. If you're on ADAP, bring your statement and ask if it counts. Some lists still only say AISH.
+
+## EDMONTON
+**Christmas Bureau of Edmonton** (food hamper or grocery gift card). Applications opened October 8. [Apply online](https://christmasservices.ca/form/apply-for-xmas-services) or read the [Christmas Bureau FAQ](https://christmasbureau.ca/faqs/). Need help applying? Call the Intake Team at **780-414-7695**, Monday to Friday, 9 to 5. You must live in the City of Edmonton and be under their income limits. Have ready: ID, proof of address, and proof of income for every adult in your home.
+
+**880 CHED Santas Anonymous** (toys for kids, gift cards for teens 13 to 17). Applications open **November 2** and close **December 7 at 11:59 p.m.** [Apply online](https://applytosantas.ca) or read the [Santas Anonymous FAQ](https://santasanonymous.ca/need-assistance/faq). No internet? Call **587-855-1649**. That line opens November 3. This is a separate application from the Christmas Bureau. **If you need food AND toys, apply to both.**
+
+**Edmonton's Food Bank** runs regular food hampers all year. Order online or call **780-425-4190**, Monday to Friday, 8:30 to 4. [Edmonton's Food Bank](https://www.edmontonsfoodbank.com/need-help/)
+
+The Salvation Army in Edmonton hasn't posted its 2026 dates yet.
+
+## CALGARY
+Calgary hasn't posted much yet for 2026.
+
+**Kin Calgary Adopt-A-Family** only takes referrals from a social agency, and **referrals close October 30.** If you have a worker at an agency, ask them THIS WEEK. [Kin Calgary Adopt-A-Family](https://kincalgary.com/adopt-a-family/)
+
+**Salvation Army Calgary:** call **403-410-1160** and ask about their Christmas toy and hamper program. [Salvation Army Calgary](https://salvationarmycalgary.ca/contact-us/)
+
+**The Calgary Food Bank** runs regular hampers all year, no referral needed. [Book a hamper online](https://www.calgaryfoodbank.com/hampers/)
+
+## RED DEER
+**Red Deer Christmas Bureau** (food hamper, plus gifts and toys for kids). Apply **IN PERSON only**: November 12 to December 17, Monday to Friday, 9 to 3:30, at #2, 4630 61 Street. Info line: **403-347-2210**. For Red Deer, Red Deer County, Penhold and Springbrook.
+
+Bring: photo ID, Alberta Health Care cards for everyone in your home, one recent month of bank statements, proof of income for all adults, and proof of address.
+
+Hamper pickup is **December 21 and 22.** Please plan your ride now. They say if you don't pick up, you can be refused for the next three years. [Red Deer Christmas Bureau](https://www.reddeerchristmasbureau.com/assistance-programs)
+
+## SPRUCE GROVE, STONY PLAIN AND PARKLAND COUNTY
+**Christmas hampers** go through the Parkland Food Bank: **780-962-4565**, press 1. Deadline is **December 11 at noon.** Pickup is December 18. [Parkland Food Bank](https://parklandfoodbank.org/need-help/)
+
+**NeighbourLink's Stockings of Care** is for people facing the season alone: **780-960-9669**. Register by **December 1**.
+
+Everything for the area is on one page: [Parkland County Christmas supports](https://www.parklandcounty.com/en/recreation-and-community/christmas-supports.aspx)
+
+## FORT McMURRAY
+**Santas Anonymous** is for families with school-aged kids. Your child's school does the referral. If you haven't heard from the school by mid-November, call the principal. [Fort McMurray Santas Anonymous](https://www.fmcschools.ca/santas-anonymous)
+
+**The Wood Buffalo Food Bank** runs regular hampers: **780-743-1125**, press 1. [Wood Buffalo Food Bank](https://woodbuffalofoodbank.com/hamper/)
+
+## COCHRANE
+**Share Your Christmas** (Cochrane Activettes) says its 2026 details come out in November. [Cochrane Food Bank](https://feedingcochrane.ca/cochrane-food-bank-get-assistance/)
+
+## THESE TOWNS HAVEN'T POSTED 2026 DATES YET. CALL TO ASK:
+**Sherwood Park / Strathcona County:** Strathcona Christmas Bureau, **780-918-2521**. Last year applications closed December 5. [Strathcona Christmas Bureau](https://www.strathconachristmasbureau.com/hampers/)
+
+**Fort Saskatchewan:** Nourishment Centre, **780-998-4099**. Your AISH statement counts as proof of address. [Register for a Christmas hamper](https://fortsaskatchewanfoodbank.com/christmas-hamper/register-for-a-christmas-hamper/)
+
+**Grande Prairie:** Salvation Army, in person. Last year registration closed November 28, so call early. [Salvation Army Grande Prairie](https://salvationarmygp.ca/hampers/)
+
+**Lethbridge:** Christmas Hope. Call Interfaith Food Bank at **403-320-8779**, or Lethbridge Food Bank at **403-320-1879**. [Lethbridge Food Bank](https://lethbridgefoodbank.ca/services/)
+
+**Medicine Hat:** Santa Claus Fund (for kids 17 and under), **403-528-9900**. [Santa Claus Fund](https://www.mhsantafund.com/)
+
+**Airdrie:** Airdrie 1st Club Holiday Hamper. Last year you applied online until December 5. [Airdrie 1st Holiday Hamper](https://airdrie1st.com/holiday-hamper)
+
+**Lloydminster:** Salvation Army, **780-875-9166**.
+
+**Leduc:** Santa's Helpers, **825-995-1008**, or Leduc and District Food Bank, **780-986-5333**. Numbers for Beaumont, Devon, Calmar, Thorsby, Warburg and New Sarepta are on this page: [Leduc County Christmas hampers](https://www.leduc-county.com/living-here/community-and-family-support/financial-supports-and-services/christmas-hampers)
+
+**Lacombe:** Lacombe and District FCSS Fill A Fridge, **403-782-6637**.
+
+**Okotoks:** Okotoks Food Bank, **403-651-6629**. [Okotoks Food Bank](https://okotoksfoodbank.ca)
+
+**St. Albert:** the Kinettes Christmas Hamper is **by referral.** Ask the St. Albert Food Bank, your church, your school or the Salvation Army to refer you. [St. Albert Kinettes hamper](https://www.stalbertkin.ca/requesting-a-hamper)
+
+**Camrose:** Camrose Neighbor Aid Center, **780-679-3220**. [Camrose Neighbor Aid Center](https://camroseneighboraidcenter.ca/contact/)
+
+## DON'T SEE YOUR TOWN?
+**Call or text 211**, or go to [ab.211.ca](https://ab.211.ca). It's free, it's open 24/7, and they can tell you what's running near you. To text, send the word INFO to 211.
+
+If you find a program we missed, reach out to us and we'll add it. The campaign line is **587-590-3590**.`
+      },
+      {
         title: "Falls in seniors are never \"just a fall\" (October 17, 2026)",
         date: "2026-10-17",
         streams: ["Seniors Benefits CPP/CPPD", "Continuing Care / Home Care"],
