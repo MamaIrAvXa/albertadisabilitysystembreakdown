@@ -16,6 +16,67 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Private scans without a doctor's referral: what it means for you (October 19, 2026)",
+        date: "2026-10-19",
+        streams: ["AISH / ADAP / CPP-D", "Income Support", "Seniors Benefits CPP/CPPD", "General Topics"],
+        body: `A member sent me the government's information on Alberta's new self-referral testing, and it's worth knowing about before anyone spends money on it. Thank you, you know who you are.
+
+## WHAT IT IS
+Since **July 31, 2026**, adults in Alberta can book an MRI, CT scan, ultrasound or X-ray at a private clinic without a doctor's referral, and pay for it themselves. Not every clinic offers every test.
+
+## WILL YOU GET YOUR MONEY BACK?
+**Probably not.** The government's page says you MAY be reimbursed only if ALL the conditions are met, including:
+
+**The scan leads to a new, previously undiagnosed cancer diagnosis.** If no cancer is found, you don't get anything back.
+
+**You're covered by Alberta Health Care**, and the test was on or after July 31, 2026.
+
+**If you have private insurance, it has to pay first.** The province only pays last.
+
+**You apply within 365 days of the diagnosis**, online through MyHealth Alberta or with paper form AHC15111.
+
+Even then, the province only pays back up to set rates. The Medicine Hat News reported those as up to **$390 for an MRI, $272 for a CT, $164 for an ultrasound and $42 for an X-ray.** Private clinics charge a lot more. The paper found MRIs starting at $675 to $1,000, and whole-body MRIs from $1,895.
+
+## THE IMPORTANT PART
+**If your doctor agrees you need a scan and refers you, it's still covered by Alberta Health Care**, like it always has been. The government's page says medically necessary testing "will continue to be publicly funded and prioritized."
+
+## ONE MORE THING TO KNOW
+The Alberta Medical Association warned that scanning people without symptoms often turns up "incidental findings" (things that look unusual but usually aren't serious). The follow-up for those happens in the public system, which already has long waits.
+
+## BOTTOM LINE
+For most people on AISH or ADAP, this option means paying hundreds of dollars up front, with almost no chance of getting it back. **If you're worried about your health, start with your doctor. A referral costs you nothing.**
+
+The government's page, with the full rules and forms: [Preventative health testing](https://www.alberta.ca/preventative-health-testing)
+
+If you have questions, reach out to us on the campaign line, **587-590-3590**.`
+      },
+      {
+        title: "Did you vote by mail? How to check your referendum ballot was received (October 19, 2026)",
+        date: "2026-10-19",
+        streams: ["General Topics", "AISH / ADAP / CPP-D", "Seniors Benefits CPP/CPPD", "Continuing Care / Home Care"],
+        body: `If you applied for a special (mail-in) ballot for today's referendum, you can check whether Elections Alberta received it. It takes about a minute.
+
+## HOW TO CHECK
+**Search your email inbox** for info@elections.ab.ca, "special ballot", or "confirmation code".
+
+**Open the email that says your application was submitted.** It has your confirmation code and a link to check your status. The link starts with specialballot.elections.ab.ca.
+
+**Click the link** (or enter your confirmation code and last name). It will tell you if your ballot was received and cast.
+
+## WHAT IF IT WASN'T RECEIVED?
+Mail-in ballots had to arrive by 5 p.m. on October 16, and late ones aren't counted. But if your ballot wasn't marked received by 5 p.m. yesterday (October 18), **you're still on the voters list and you can vote in person TODAY.**
+
+**Polls are open until 8 p.m. tonight.**
+
+Find your voting place at [map.elections.ab.ca](https://map.elections.ab.ca), or call Elections Alberta at **1-877-422-VOTE (8683)**. **Bring your ID.**
+
+**If it says your ballot was received and cast, you're all done. Please don't vote again in person.**
+
+Can't find the email? Call Elections Alberta at the number above and they can help.
+
+However you're voting, there's no right or wrong answer. Just make sure your voice is counted.`
+      },
+      {
         title: "Christmas help across Alberta: what's open for 2026 (October 18, 2026)",
         date: "2026-10-18",
         streams: ["AISH / ADAP / CPP-D", "Income Support", "Children / FSCD", "Seniors Benefits CPP/CPPD", "General Topics"],

@@ -9,6 +9,102 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-10-19",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — October 19, 2026",
+    body: `Polls are closed! Thank you to everyone who voted today, however you voted, and to every election worker who made it happen.
+
+Another quiet night in what I could read. I didn't find anything new from the province or Ottawa about AISH, ADAP or the Canada Disability Benefit (CDB).
+
+## DATES TO KNOW
+**Tuesday, October 27:** November AISH, ADAP and Income Support payment.
+
+**Tuesday, October 27:** the Legislature comes back for the fall sitting.
+
+**Saturday, October 31:** last day to apply for the $100 Energy Rebate. If you joined AISH, ADAP or Income Support after July 1, you have to apply yourself. That's **12 days away.**
+
+**Wednesday, November 25:** December payment.
+
+**December 22:** January payment. Heads up: the government's payment table says this is a Wednesday, but December 22 is a Tuesday. **Go by the date.**
+
+## CANADA DISABILITY BENEFIT
+The CDB is still up to **$204.20 a month** for July 2026 to June 2027. **Once your CDB is approved, what comes off your AISH or ADAP should match your own CDB amount, not a flat $200.** If it doesn't, ask your office in writing to fix it and pay you back the difference. There's an email you can copy in the [Email a Letter](https://albertadisabilitysystembreakdown.netlify.app/#email-letters) section of this site.
+
+## COUPLES: ONE NEW THING TO KNOW
+The province still hasn't said when or how couples will be paid back the money they're owed. But tonight I read the government's general page on underpayments (money you should have been paid and weren't). It says the full amount of an underpayment is paid, but it can **FIRST** be used to cover any debts you owe the Alberta government. So if you owe the province money, like an old overpayment, some of what you're owed could go toward that first.
+
+That page doesn't mention couples specifically, so we don't know yet whether it'll apply here. If you're a couple who was paid less, **keep all your statements from August on, and ask in writing to be told before anything is taken off.**
+
+## WHAT I COULDN'T CHECK TONIGHT
+I couldn't read every channel I normally check, including the Alberta Gazette (where new regulations are published) and the federal newsroom. So this is what I confirmed in what I read, not a promise that nothing else moved.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-19",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — October 19, 2026",
+    body: `Nothing changed for seniors in what I could read tonight, and I was able to check every channel on my list. The only thing I couldn't read is the new lodge rules that start in January, because they aren't posted in full yet.
+
+## PAYMENT DAYS
+**Alberta Seniors Benefit:** Monday, October 26.
+
+**OAS and CPP:** Wednesday, October 28.
+
+**Alberta Seniors Benefit, November:** Tuesday, November 24.
+
+## ENERGY REBATE: 12 DAYS LEFT
+If you started on the Alberta Seniors Benefit **after July 1**, the $100 Energy Rebate won't arrive on its own. You've got until **Saturday, October 31** to apply.
+
+## SEEN THE HEADLINES ABOUT CPP?
+You may have seen stories saying CPP will "pay out more than it takes in" starting in 2027. I traced it back to the government's own report from CPP's chief actuary (the expert who checks whether the plan can pay what it promises). It's about a cut to how much WORKERS pay into CPP, not what you get. **Your CPP cheque doesn't change because of it.** Please don't let a scary headline push you into any big decisions.
+
+## HERITAGE FUND PUBLIC MEETING
+The Legislature's Heritage Fund committee holds its annual public meeting on **Monday, October 26, from 6 to 8 p.m.** The Heritage Fund is Alberta's savings account, and this is the one meeting a year where the public can ask questions about it.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-19",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — October 19, 2026",
+    body: `Nothing moved tonight for FSCD, PDD or school supports. Every FSCD rate was re-checked on the regulation itself: mileage is still 12 cents a kilometre, respite still up to 240 hours a year, clothing still up to $400 a year, and dental still $250 a year if you have no plan.
+
+## TWO TIMELINES FSCD HAS TO MEET
+FSCD's own policy manual sets these standards:
+
+**3 working days:** your FSCD worker should contact you within 3 working days of your file being assigned to them, to set up an assessment of your child's needs.
+
+**15 working days:** that assessment should be done within 15 working days of the file being assigned. If it takes longer, the reason should be written on your file.
+
+These are FSCD's own program standards, not a law. But they're published, and you can point to them. **If you're waiting longer than that, write down your dates, and ask your worker in writing why.**
+
+## FEDERAL BENEFITS FOR KIDS, UNCHANGED
+**Child Disability Benefit:** up to $3,480 a year ($290 a month) for each child approved for the Disability Tax Credit, from July 2026 to June 2027. It starts going down when family income is over $82,847.
+
+**RDSP (Registered Disability Savings Plan) for 2026:** the government adds $3 for every $1 you put in, up to $500, if your family income was $117,045 or less. The free $1,000 bond is paid in full if family income was $38,237 or less, partly up to $58,523, and not at all above that.
+
+## PDD: HOW OLD ARE THE RULES?
+The PDD Policy Manual shows the date each page was last updated. The guidelines used to decide the "everyday skills" half of whether an adult qualifies for PDD say **"Last updated on Jan 08, 2020."** The page listing the 24 everyday skill areas says **"Last updated on Feb 25, 2015."**
+
+## THE LEGISLATURE
+It comes back **Tuesday, October 27.** There's nothing on that day's agenda about FSCD, PDD, schools or disabled kids.
+
+## ENERGY REBATE: 12 DAYS LEFT
+Applications close **Saturday, October 31.** If you joined AISH, ADAP or Income Support after July 1, apply yourself.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-10-18",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — October 18, 2026",
