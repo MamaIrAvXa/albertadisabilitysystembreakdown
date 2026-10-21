@@ -9,6 +9,158 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-10-20",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — October 20, 2026",
+    body: `Another quiet night. I didn't find anything new from the province about AISH, ADAP or Income Support. No payment date, amount or rule changed in anything I read.
+
+## PAYMENT DATES
+**November payment:** Tuesday, October 27 (one week from today).
+
+**December payment:** Wednesday, November 25.
+
+**January payment:** December 22. The province's payment table still says December 22 is a Wednesday. It's a Tuesday. **Go by the date, not the day.**
+
+## ENERGY REBATE: 11 DAYS LEFT
+Applications close **Saturday, October 31.** If you were on AISH, ADAP or Income Support before July 1, you're enrolled automatically. **If you joined after July 1, you have to apply yourself through the portal.**
+
+If you're worried it'll count against you: the province's rebate page says rebates are non-taxable and "will not affect other government benefits."
+
+## COUPLES
+Some couples have now received a letter dated October 6. It says the full rate will be in place "on or before December 1, 2026," that you "may be eligible" for back pay going back to the August 2026 payment, and that you don't need to do anything. Staff are supposed to contact people by phone or in writing by December 1.
+
+What the letter doesn't spell out: how much, and whether money owed to you could first go toward a debt you owe the province. The province's general underpayments page says that can happen. **Please keep every statement from August on so you can check what you get.**
+
+## CANADA DISABILITY BENEFIT (CDB)
+The maximum is still **$204.20 a month** for July 2026 to June 2027.
+
+One add-on to my earlier posts: when I mentioned the $150 CDB supplement, I didn't name the rule it comes from. It's a federal regulation called **SOR/2026-123**, in force since September 1, 2026. It says "The supplemental amount is $150" and "The supplemental amount is paid as a lump sum." The number I shared was right. Now you have the source too.
+
+The same regulation has another useful piece: **if the CDB charges you a penalty, interest doesn't build on that debt while you can still ask for a review or appeal, or while one is underway.**
+
+## REFERENDUM
+Results are unofficial for now. Elections Alberta says official results come out **Thursday, October 29.** Nothing I've read says any of the questions changes your AISH, ADAP or Income Support payments or the dates they come.
+
+## COMING UP
+**Monday, October 26, 6 to 8 p.m.:** the Legislature's Heritage Fund committee holds its yearly public meeting.
+
+**Tuesday, October 27:** the Legislature's fall sitting starts. There's a private member's motion about AISH and the Canada Disability Benefit on the Order Paper (the list of business the Legislature plans to deal with). A motion is a proposal to debate. It isn't a law.
+
+**Thursday, November 5:** the federal budget comes out. I'll be reading it for anything that touches disability benefits.
+
+This is what I confirmed in what I read tonight, not a promise that nothing else moved.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-20",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — October 20, 2026",
+    body: `One law moved tonight, and it's good news for older workers. Everything else for seniors stayed the same in what I could read.
+
+## PAYMENT DAYS
+**Alberta Seniors Benefit:** Monday, October 26.
+
+**OAS (Old Age Security) and CPP (Canada Pension Plan):** Wednesday, October 28.
+
+**Next Seniors Benefit payment after that:** Tuesday, November 24.
+
+## YOUR WORK DRUG PLAN CAN'T CUT YOU BECAUSE OF YOUR AGE
+Alberta's new drug coverage rules (Bill 11) are now written into the province's health insurance law. Two parts matter for seniors.
+
+**Your private or work plan pays first.** If you have a private or work plan that covers a drug, that plan pays first. The public plan only pays after the other plan has refused or paid part of it, and then only the part left unpaid.
+
+**Your age can't be the reason.** Since October 1, an employer drug plan can't end your coverage or cut your drug benefits "solely on the basis of a member's age." A plan rule that does that has no effect, and the Minister can order the coverage put back or the money paid back.
+
+**If your work plan has dropped or trimmed you because of your age since October 1, ask the plan in writing to put it back, and keep their reply.**
+
+What the law doesn't say clearly: whether this covers plans that are only for retirees, or how you'd ask the Minister to step in.
+
+## ENERGY REBATE: 11 DAYS LEFT
+If you started on the Alberta Seniors Benefit **after July 1**, the $100 rebate won't come on its own. Apply by **Saturday, October 31.**
+
+The province says the rebate is non-taxable and won't affect other government benefits, so it won't cut into your Seniors Benefit or GIS. The 13 cent a litre fuel tax break also runs until the end of the year.
+
+## OAS AND GIS, OCTOBER TO DECEMBER 2026
+**OAS:** up to $762.50 a month if you're 65 to 74, up to $838.75 if you're 75 or older.
+
+**GIS (Guaranteed Income Supplement), single person:** up to $1,138.90 a month, if your income is under $23,112.
+
+## ABOUT THE OAS CLAWBACK NUMBER GOING AROUND
+The "clawback" is the OAS recovery tax. Higher-income seniors pay back part of their OAS. A headline going around says it starts at $95,323. **That's next year's number**, based on 2026 income and applied from July 2027. For July 2026 to June 2027, it's **$93,454.**
+
+## COMING UP
+**Tuesday, October 27:** the Legislature's fall sitting starts. Nothing on its first Order Paper is about seniors, pensions, continuing care or lodges.
+
+**Thursday, November 5:** the federal budget comes out. I'll be reading it for anything on OAS, GIS, CPP or the dental plan.
+
+What I couldn't read tonight: the new lodge rules starting in January (they aren't posted in full yet) and the Federal Court of Appeal list.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-20",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — October 20, 2026",
+    body: `Tonight's big one is for families with a teenager.
+
+## YOU CAN APPLY FOR THE CANADA DISABILITY BENEFIT SIX MONTHS BEFORE YOUR CHILD TURNS 18
+The Canada Disability Benefit (CDB) is a federal monthly payment for people aged 18 to 64. A federal rule says an application received in the six months before someone's 18th birthday "is deemed to have been received on that day." In plain words: **you can send it in up to six months early, and it counts as if you filed on the birthday.**
+
+This isn't brand new. It's been in force since September 1, 2026 (the regulation is called SOR/2026-123). It's new to me, and I want you to have it.
+
+What I couldn't find: anything from Alberta that tells families about it. The transition to adulthood section of the FSCD manual (FSCD is Family Support for Children with Disabilities) starts planning at age 16, and it doesn't mention the CDB. The province's transition to adulthood page is dated March 15, 2023, more than two years before anyone could get the CDB.
+
+**Good to know: the CDB needs an approved Disability Tax Credit (DTC).** If your teen doesn't have the DTC yet, start there. The form is the T2201.
+
+The $150 CDB supplement goes to people already getting the CDB, so it doesn't reach kids under 18.
+
+## FSCD RATES: NO CHANGE
+**Mileage:** $0.12 a km.
+
+**Clothing and footwear** (extra need because of the disability): up to $400 a year.
+
+**Respite:** up to 240 hours a year.
+
+**Parking:** up to $10 a day.
+
+**Hotel:** up to $85 a day.
+
+**Dental if you have no dental plan:** $250 a year.
+
+**Medical costs:** covered above 2% of both parents' combined net income.
+
+If FSCD makes a decision you disagree with, **you have 45 calendar days from the date of the written notice to appeal.**
+
+## CHILD DISABILITY BENEFIT
+Up to **$3,480 a year ($290 a month)** for July 2026 to June 2027. It's a federal payment that comes with the Canada Child Benefit. It starts to go down once family net income is over $82,847.
+
+## ALBERTA CHILD HEALTH BENEFIT
+The benefit year runs October 1, 2026 to September 30, 2027, based on your 2025 income. **If your income has dropped, you can ask for a reassessment based on your estimated 2026 income between now and February 28, 2027.** The page still lists AISH as one of the programs that makes a household not eligible.
+
+## AADL (ALBERTA AIDS TO DAILY LIVING)
+You pay 25% of the cost, up to a maximum of $500 per family per benefit year (July 1 to June 30).
+
+## SCHOOL
+The province still points school boards to the "Standards for special education (Amended June 2004)." There's still nothing newer. Our plain-language guide to those standards is [The IPP Questions](https://albertadisabilitysystembreakdown.netlify.app/the-ipp-questions.html).
+
+## COMING UP
+**Tuesday, October 27:** the Legislature's fall sitting starts. Nothing on its first Order Paper (the list of business the Legislature plans to deal with) is about disabled children, FSCD, PDD or the Education Act.
+
+**Saturday, October 31:** Energy Rebate deadline. If you joined AISH, ADAP or Income Support after July 1, apply yourself.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-10-19",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — October 19, 2026",
