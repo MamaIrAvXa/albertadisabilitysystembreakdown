@@ -26,10 +26,16 @@ Applications close **Saturday, October 31.** If you were on AISH, ADAP or Income
 
 If you're worried it'll count against you: the province's rebate page says rebates are non-taxable and "will not affect other government benefits."
 
-## COUPLES
-Some couples have now received a letter dated October 6. It says the full rate will be in place "on or before December 1, 2026," that you "may be eligible" for back pay going back to the August 2026 payment, and that you don't need to do anything. Staff are supposed to contact people by phone or in writing by December 1.
+## COUPLES: YOUR MONEY IS COMING BACK
+The rule that paid couples less (the 88% rule) was removed on October 1, and the government announced it on October 6. It covers both AISH and ADAP couples. **Couples now get the full rate**, minus any income that counts against them, the same as a single person.
 
-What the letter doesn't spell out: how much, and whether money owed to you could first go toward a debt you owe the province. The province's general underpayments page says that can happen. **Please keep every statement from August on so you can check what you get.**
+For the months you were shorted, the province's October 6 news release says couples will get "retroactive payments fully reimbursing the difference back to the August 2026 period of assistance." Retroactive means paid back for months that already went by. The release says that money comes "before the end of the year," and **"No action is required."**
+
+The letter couples have been getting says the full monthly rate will be in place on or before December 1.
+
+One thing to know: if you owe the province money from something else, the government's underpayments page says money owed to you "may be used to pay debts you have to the Alberta government" first.
+
+**Keep your statements from August on so you can check what you get.**
 
 ## CANADA DISABILITY BENEFIT (CDB)
 The maximum is still **$204.20 a month** for July 2026 to June 2027.
