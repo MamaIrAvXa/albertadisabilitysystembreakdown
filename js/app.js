@@ -1042,7 +1042,7 @@ function elCopy(id) {
 // more \u2014 every office routes to one of four zone inboxes. Letters that should go
 // to a person's own office carry zonePicker:true and get this dropdown.
 var AISH_ZONES = [
-  { email: "northzoneaish@gov.ab.ca",      label: "North \u2014 Edmonton, St. Albert, Sherwood Park, Spruce Grove, Leduc, Grande Prairie, Fort McMurray, Cold Lake and the north" },
+  { email: "ALSS.NorthZoneDIA@gov.ab.ca",      label: "North \u2014 Edmonton, St. Albert, Sherwood Park, Spruce Grove, Leduc, Grande Prairie, Fort McMurray, Cold Lake and the north" },
   { email: "calgaryaish@gov.ab.ca",        label: "Calgary \u2014 Calgary, Airdrie, Canmore, Claresholm" },
   { email: "aish.centralregion@gov.ab.ca", label: "Central \u2014 Red Deer, Camrose, Drumheller, Olds, Stettler, Wetaskiwin, Lloydminster, Wainwright, Rocky Mountain House" },
   { email: "southaish@gov.ab.ca",          label: "South \u2014 Lethbridge, Medicine Hat, Brooks, Taber, Pincher Creek, Crowsnest Pass" }

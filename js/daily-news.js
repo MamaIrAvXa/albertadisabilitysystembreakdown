@@ -9,6 +9,121 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-10-21",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — October 21, 2026",
+    body: `Nothing changed tonight for AISH, ADAP or Income Support payments or rules in anything I read. But there's good news on the federal dental plan, and a heads up about emailing the North Zone office.
+
+## PAYMENT DATES
+**November payment:** Tuesday, October 27 (6 days from today).
+
+**December payment:** Wednesday, November 25.
+
+**January payment:** December 22. The province's table still says December 22 is a Wednesday. It's a Tuesday. **Go by the date.**
+
+## ENERGY REBATE: 10 DAYS LEFT
+Applications close **Saturday, October 31.** If you joined AISH, ADAP or Income Support after July 1, you have to apply yourself. It won't affect your other benefits.
+
+## COUPLES
+The 88% rule is gone. The province's October 6 news release says couples will get "retroactive payments fully reimbursing the difference back to the August 2026 period of assistance" before the end of the year. **No action is required.** If you owe the province money from something else, that can be taken off first. **Keep your statements from August on.**
+
+## FEDERAL DENTAL PLAN: REPAYMENT FORGIVEN
+If you signed up for the Canadian Dental Care Plan saying you didn't have private dental coverage, then got removed because you did have it (through work, a spouse, or a pension plan, for example), you may have gotten a bill to pay back the cost of your care.
+
+**A new federal order, published today, forgives that debt plus interest.** It covers May 2024 to June 2027. The government's note with the order says people who already paid it back "will be reimbursed," and that letters are going out.
+
+The dental plan's own website hasn't caught up yet and still says you may have to pay it back. The order is newer than the website. **Keep any bill or letter you get about it.**
+
+This only covers people removed because they had private dental coverage, not people removed for other reasons.
+
+## EMAILING THE NORTH ZONE OFFICE
+**The old address northzoneaish@gov.ab.ca has been replaced with ALSS.NorthZoneDIA@gov.ab.ca.**
+
+The new address's automatic reply says "general inquiries will not be responded to." For questions about your file, it says to call **780-415-6300**. For questions about an application you've already sent in, call **587-759-6810**.
+
+**If you get an email from the department and hit reply, it may bounce.** Some of their emails come from an address that rejects replies. If you get a bounce notice, your email did NOT arrive. Resend it to your zone's address instead.
+
+**Every time you email them, save a copy and write down the date.**
+
+## REFERENDUM
+The Premier's address on October 20 didn't mention AISH, ADAP or disability programs. Results are still unofficial. Elections Alberta says the official results come out **Thursday, October 29.**
+
+## COMING UP
+**Monday, October 26, 6 to 8 p.m.:** the Heritage Fund committee's yearly public meeting.
+
+**Tuesday, October 27:** the Legislature's fall sitting starts.
+
+This is what I confirmed in what I read tonight, not a promise that nothing else moved.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-21",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — October 21, 2026",
+    body: `Good news tonight on the federal dental plan. Nothing changed for Alberta seniors' programs in what I could read.
+
+## DENTAL PLAN REPAYMENT FORGIVEN
+If you signed up for the Canadian Dental Care Plan saying you didn't have private dental coverage, and were later removed because you did have it (through a pension or retiree plan, for example), you may have gotten a bill to pay back the cost of your care.
+
+**A federal order published today forgives that debt, plus interest.** It covers May 2024 to June 2027. The government's note with the order says people who already paid "will be reimbursed," and that letters are going out.
+
+The dental plan's website hasn't caught up yet and still says you may have to pay it back. The order is newer. **Keep any bill or letter you get.**
+
+This only covers people removed because they had private dental coverage.
+
+## PAYMENT DAYS
+**Alberta Seniors Benefit:** Monday, October 26.
+
+**OAS and CPP:** Wednesday, October 28.
+
+**Next ones:** Seniors Benefit Tuesday, November 24; OAS and CPP Thursday, November 26.
+
+## ENERGY REBATE: 10 DAYS LEFT
+If you started on the Alberta Seniors Benefit **after July 1**, apply by **Saturday, October 31.** It won't affect your other benefits.
+
+## COMING UP
+**Monday, October 26, 6 to 8 p.m.:** the Heritage Fund committee's yearly public meeting.
+
+**Tuesday, October 27:** the Legislature's fall sitting starts.
+
+What I couldn't read tonight: the new lodge rules starting in January (not posted in full yet), and decisions from the Social Security Tribunal and the Federal Court of Appeal.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-21",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — October 21, 2026",
+    body: `## DENTAL PLAN REPAYMENT FORGIVEN
+If your family is on the Alberta Child Health Benefit, the province's page says dental claims "must be submitted to the CDCP first" (the federal Canadian Dental Care Plan). Signing up for the CDCP means answering whether you have private dental coverage.
+
+If your family said no, got CDCP coverage, and was later removed because you did have private coverage, you may have gotten a bill to pay back the cost of the care.
+
+**A federal order published today forgives that debt, plus interest**, for May 2024 to June 2027. The government's note with the order says families who already paid "will be reimbursed," and that letters are going out.
+
+**This group was left out of last year's version of the order.** If you were told last year you still had to pay, that's no longer the case.
+
+The dental plan's website hasn't caught up yet. **Keep any bill or letter you get.**
+
+## FSCD RATES: STILL NO CHANGE
+Mileage $0.12 a km, clothing and footwear up to $400 a year, respite up to 240 hours a year, parking up to $10 a day, hotel up to $85 a day, dental $250 a year if you have no plan.
+
+## ENERGY REBATE: 10 DAYS LEFT
+If you joined AISH, ADAP or Income Support after July 1, apply by **Saturday, October 31.**
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-10-20",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — October 20, 2026",

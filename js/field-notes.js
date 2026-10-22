@@ -1462,7 +1462,7 @@ The worker said this isn't something staff can permanently fix yet, and that the
 **Tell us if this happens to you:** the date, whether your payment was held, and whether you were told it was about income reporting. If there's a pattern, dates are how we prove it and get it fixed.
 
 ## YOUR OFFICE EMAIL
-**North, including Edmonton:** northzoneaish@gov.ab.ca
+**North, including Edmonton:** ALSS.NorthZoneDIA@gov.ab.ca _(Updated October 21, 2026: the North Zone address changed from northzoneaish@gov.ab.ca to this one. Its automatic reply says general inquiries won't be answered; for questions about your file, call 780-415-6300.)_
 
 **Central:** aish.centralregion@gov.ab.ca
 
@@ -1558,7 +1558,7 @@ So if the person can sign, get the consent form signed too, even if you already 
 ## SEND IT YOURSELF
 The AISH/ADAP office won't go and get it from the Public Guardian's office. Email it to the office that holds the file:
 
-**North, including Edmonton:** northzoneaish@gov.ab.ca
+**North, including Edmonton:** ALSS.NorthZoneDIA@gov.ab.ca _(Updated October 21, 2026: the North Zone address changed from northzoneaish@gov.ab.ca to this one. Its automatic reply says general inquiries won't be answered; for questions about your file, call 780-415-6300.)_
 
 **Central:** aish.centralregion@gov.ab.ca
 
@@ -3280,6 +3280,8 @@ And the Biopsychosocial Assessment is not used to determine eligibility or decid
 
 They also gave out the north zone contacts, 780-415-6300 and northzoneaish@gov.ab.ca, which matches what I confirmed off the government's own contact page this week.
 
+**Update, October 21, 2026:** the north zone email address has since changed. The new one is **ALSS.NorthZoneDIA@gov.ab.ca**. Its automatic reply says general inquiries won't be answered; for questions about your file, call **780-415-6300**.
+
 ## WHAT IT DOES NOT MEAN, AND I NEED YOU TO HEAR THIS PART
 Voluntary is the contractor's word about the contractor's service. It is not the department's word about your benefit.
 
@@ -3316,7 +3318,7 @@ Email your zone inbox and ask these three, in writing.
 
 3. What is the process where a client's medical condition prevents them from participating?
 
-**North zone: northzoneaish@gov.ab.ca**
+**North zone: ALSS.NorthZoneDIA@gov.ab.ca** _(Updated October 21, 2026: the North Zone address changed from northzoneaish@gov.ab.ca to this one. Its automatic reply says general inquiries won't be answered; for questions about your file, call 780-415-6300.)_
 
 **Central: aish.centralregion@gov.ab.ca**
 
