@@ -16,6 +16,48 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "If you asked for your AISH or ADAP file and got someone else's (October 22, 2026)",
+        date: "2026-10-22",
+        streams: ["AISH / ADAP / CPP-D", "General Topics"],
+        body: `Some of you asked for your own AISH or ADAP file and were sent someone else's information instead. I reported this to the Information and Privacy Commissioner on **August 31.** The Commissioner asked the Ministry to look into it, and has now told me she's satisfied with the steps the Ministry took.
+
+## WHAT THAT MEANS FOR YOU
+The Ministry decided there was "no real risk of significant harm." When that's the decision, **the people whose information went to the wrong person may not be told it happened.**
+
+## IF YOUR INFORMATION WAS SENT TO SOMEONE ELSE
+If your information was sent to someone else, or you think it might have been, you can complain.
+
+**First, complain in writing to the Ministry** (Assisted Living and Social Services). This gives them the chance to fix it.
+
+**If you're not happy with their answer, you can then complain to the Information and Privacy Commissioner** at [oipc.ab.ca](https://oipc.ab.ca). Keep a copy of your complaint to the Ministry and their reply, because the Commissioner will want to see that you went to the Ministry first.
+
+## IF YOU RECEIVED SOMEONE ELSE'S INFORMATION
+**Please don't share it**, and follow any instructions the Ministry gave you for returning or destroying it.
+
+I'm making a fill-in complaint letter for this. If you need help, reach out to us on the campaign line, **587-590-3590**.`
+      },
+      {
+        title: "Civida tenants: check your Rent Assistance Benefit amount (October 22, 2026)",
+        date: "2026-10-22",
+        streams: ["AISH / ADAP / CPP-D", "Income Support", "Seniors Benefits CPP/CPPD", "General Topics"],
+        body: `If you get the Rent Assistance Benefit through Civida and you've sent in your paperwork for the new year, this one's for you.
+
+A member sent in her renewal and was told her benefit starting **January 1, 2027** would be **$301 a month**. Civida had worked it out using the total income on her Notice of Assessment, and that total included her rent subsidy. Under Ministerial Order 2025-003, rent supplement payments aren't supposed to count as income. **Using the right income, her benefit is $429 a month. That's $128 a month she would have lost.**
+
+She caught it right away and pushed back, and Civida corrected it. A Civida manager then confirmed in writing that the amounts on Civida's T5007 tax slips are now being "correctly deducted from the total household income on Notices of Assessment (Line 15000)." In plain words: **your rent subsidy shouldn't be counted as income when your benefit is worked out.**
+
+## WHAT TO DO
+**When you get your new benefit amount, check which income they used.**
+
+**Compare it with your Notice of Assessment.** If they used the full Line 15000 amount without taking off your T5007 rent subsidy, your benefit may be too low.
+
+**If so, ask Civida in writing to recalculate, and keep a copy.** You can reach them at **help@civida.ca** or **780-420-6161**.
+
+Thank you to the member who caught this and kept pushing until it was fixed.
+
+If you have questions, reach out to us on the campaign line, **587-590-3590**.`
+      },
+      {
         title: "Private scans without a doctor's referral: what it means for you (October 19, 2026)",
         date: "2026-10-19",
         streams: ["AISH / ADAP / CPP-D", "Income Support", "Seniors Benefits CPP/CPPD", "General Topics"],

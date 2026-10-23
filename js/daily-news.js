@@ -9,6 +9,124 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-10-22",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — October 22, 2026",
+    body: `Quiet night for AISH, ADAP and Income Support. Nothing changed a payment, amount or rule in anything I read.
+
+## PAYMENT DATES
+**November payment:** Tuesday, October 27 (5 days from today).
+
+**December payment:** Wednesday, November 25.
+
+**January payment:** December 22. The province's table still says December 22 is a Wednesday. It's a Tuesday. **Go by the date.**
+
+## ENERGY REBATE: 9 DAYS LEFT
+Applications close **Saturday, October 31.** If you joined AISH, ADAP or Income Support after July 1, apply yourself. It won't affect your other benefits.
+
+## COUPLES
+The province says couples will get back pay for every month since August "before the end of the year," and **no action is required.** The October 27 payment may or may not show the full rate yet. The letter couples received says the full rate starts "on or before December 1." **Keep your statements.**
+
+## FEDERAL DENTAL PLAN
+The federal dental plan's website still says you "may have to reimburse" if you were removed for having private coverage. **The new federal order forgiving that debt is law and newer than the website.** If you got a bill, keep it and any letter you get.
+
+## NEW GOVERNMENT ORDERS
+The province approved three new Orders in Council today (orders made by cabinet). None of them touches AISH, ADAP, Income Support or seniors.
+
+## COMING UP
+**Monday, October 26, 6 to 8 p.m.:** Heritage Fund committee's yearly public meeting.
+
+**Tuesday, October 27:** November payment, and the Legislature's fall sitting starts.
+
+**Thursday, November 5:** federal budget.
+
+The official referendum results haven't been released yet.
+
+This is what I confirmed in what I read tonight, not a promise that nothing else moved.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-22",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — October 22, 2026",
+    body: `Nothing changed for Alberta seniors in what I could read tonight. Payment days are next week.
+
+## PAYMENT DAYS
+**Alberta Seniors Benefit:** Monday, October 26.
+
+**OAS and CPP:** Wednesday, October 28.
+
+## ENERGY REBATE: 9 DAYS LEFT
+If you started on the Alberta Seniors Benefit **after July 1**, apply by **Saturday, October 31.** It won't affect your other benefits.
+
+## DENTAL PLAN FOLLOW-UP
+The federal dental plan's website still says you "may have to reimburse" if you were removed for having private dental coverage. **The new federal order forgiving that debt is law**, and the website hasn't caught up. If you got a bill, keep it and any letter you get.
+
+## GOOD TO KNOW: GIS AFTER YOU STOP WORKING
+The GIS (Guaranteed Income Supplement) is usually based on last year's income. **If you stop working or your business income stops, the law lets you file a statement of your estimated income**, so your GIS can be based on your new, lower income instead. Ask Service Canada about it if that's you.
+
+## COMING UP
+**Monday, October 26, 6 to 8 p.m.:** Heritage Fund committee's yearly public meeting.
+
+**Thursday, November 5:** the federal budget. I'll read it for anything touching OAS, GIS, CPP and dental care and let you know what I find.
+
+What I couldn't read tonight: the new lodge rules starting in January (not posted in full yet), the Social Security Tribunal, the Federal Court of Appeal, and the federal Gazette Part II index.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-22",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — October 22, 2026",
+    body: `## NEW: ALBERTA'S STUDENT SUPPORT POLICY FRAMEWORK
+Today the province published a new 15-page Student Support Policy Framework. It sets out how schools are expected to support students who need extra help, including disabled students.
+
+## WHAT YOU NEED TO KNOW
+**It does NOT replace the Standards for Special Education from 2004.** The framework says so itself. The 2004 Standards are still the official rules schools have to follow.
+
+**It isn't binding.** The government's own news release says it "does not create new legislative requirements." It's guidance, not law.
+
+**Who it covers:** public, Catholic, francophone and public charter schools. Independent schools are only "encouraged" to use it.
+
+**It promises "future policy and standards,"** but gives no date.
+
+**It will be reviewed every five years.**
+
+## TWO LINES WORTH KNOWING IF YOU'RE ADVOCATING FOR YOUR CHILD
+**"Access to individualized supports and services does not depend on completing a prescribed sequence of universal or targeted supports and services."**
+
+In plain words: **the school can't make your child "try the lower levels first" before giving them individual support.**
+
+**"School-based teams should provide written information to parents about implications for future programming considerations, including credentialing and post-secondary pathways."**
+
+In plain words: **if a program change could affect your child's diploma or future schooling, you should get that in writing. Ask for it.**
+
+Since it's guidance and not law, use these lines as "this is what the province expects," not "this is what the law requires." For what the 2004 Standards themselves require, see our guide, [The IPP Questions](https://albertadisabilitysystembreakdown.netlify.app/the-ipp-questions.html).
+
+## STILL MISSING
+Alberta's transition to adulthood page still says nothing about the Canada Disability Benefit, or that you can apply up to 6 months before your child turns 18.
+
+## FSCD RATES: NO CHANGE
+The FSCD regulation is unchanged tonight. Every rate stands.
+
+## ENERGY REBATE: 9 DAYS LEFT
+If you joined AISH, ADAP or Income Support after July 1, apply by **Saturday, October 31.**
+
+Nothing else changed in what I could read tonight. One federal source, the federal Orders in Council database, couldn't be searched tonight.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-10-21",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — October 21, 2026",
