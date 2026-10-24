@@ -1,5 +1,5 @@
 # ADSB Newsletter Manifest — FULL SITE (every git-tracked file, not PDFs only)
-# Generated: 2026-10-17 02:18 UTC | HEAD: 5766c00 | Format: <sha1-12>	<path>
+# Generated: 2026-10-24 02:14 UTC | HEAD: 85ff01d | Format: <sha1-12>	<path>
 # Next run: diff this list, AND run `git diff <last HEAD> HEAD` to catch content added inside js/*.js data files.
 ff42ba4d877f	.gitattributes
 a08450e005b2	.gitignore
@@ -113,13 +113,13 @@ a0db6ce003ac	audio/the-full-plain-language-library/9_Plain_Language_What_Your_Do
 4dcafd8303d8	cta-card.html
 90095b86efb3	fcssaa-package-section.html
 2082d2df8fa8	fcssaa.html
-c774c9d5f734	index.html
-39540cc16b1f	js/app.js
-0e6228176aac	js/daily-news.js
-c11f3e2d348c	js/email-letters.js
-ffda7aa389ab	js/faq.js
+602a73280786	index.html
+90e06b7d22d1	js/app.js
+4bd406da48a3	js/daily-news.js
+21bc91e88ffb	js/email-letters.js
+bb6e1065529c	js/faq.js
 ccfb7d3e123f	js/field-notes (1).js
-6bca80cac9ff	js/field-notes.js
+b3e21a4f2194	js/field-notes.js
 a4bd59dab381	js/legal-package-sender.js
 a1398ef03296	netlify-catchall-fix.toml
 ff383b5d2421	netlify-redirects-to-add.toml
@@ -286,6 +286,17 @@ db48ec29cd04	pdfs/aish-adap/fillable/8_Fillable_Disability_Refugee_Nova_Scotia.p
 a2be69b9850c	pdfs/aish-adap/fillable/ADAP_Employment_Barriers_Notice_PrintAndWrite_July2026.pdf
 923ff0aba523	pdfs/aish-adap/fillable/ADSB_ATIA_Portal_Walkthrough_May2026.pdf
 f12ad88cf389	pdfs/aish-adap/fillable/ADSB_Exemption_Category_Correction_Request.pdf
+67c191e60fca	pdfs/aish-adap/fillable/ADSB_Fillable_AAS13358_Notice_of_Appeal.pdf
+55487989d95e	pdfs/aish-adap/fillable/ADSB_Fillable_AAS13391_Consent_to_Release_Information.pdf
+3ecd5abc5d02	pdfs/aish-adap/fillable/ADSB_Fillable_DS0976_AISH_and_ADAP_Repayment_Agreement.pdf
+6dd0bb4df474	pdfs/aish-adap/fillable/ADSB_Fillable_DS12960_Funeral_Benefits_Application_AISH_ADAP.pdf
+f1db3beb188c	pdfs/aish-adap/fillable/ADSB_Fillable_DS2318A_Canada_Revenue_Agency_Consent.pdf
+59a8b5c74569	pdfs/aish-adap/fillable/ADSB_Fillable_DS2444A_Disability_Income_Assistance_Application.pdf
+531ed673613e	pdfs/aish-adap/fillable/ADSB_Fillable_DS2444B_Disability_Income_Assistance_Medical_Report.pdf
+6a2bb3039fc5	pdfs/aish-adap/fillable/ADSB_Fillable_DS5511_Consent_to_Third_Party_Payment.pdf
+e3ef42c77b9a	pdfs/aish-adap/fillable/ADSB_Fillable_DS5551_Health_Services_Request.pdf
+f33da2b2af42	pdfs/aish-adap/fillable/ADSB_Fillable_DS5551_Health_Services_Request_Rev2026-07.pdf
+357a551d7e13	pdfs/aish-adap/fillable/ADSB_Fillable_EMP2443IS_Direct_Deposit_Registration.pdf
 16e6f9f9dfc2	pdfs/aish-adap/fillable/ADSB_Specialist_Letter_Request_Fillable_Oct2026.pdf
 8861b09d2f73	pdfs/aish-adap/fillable/AISH_Appeal_Letter_Fillable_June2026.pdf
 d81b795d97da	pdfs/aish-adap/fillable/AISH_Appeal_Letter_ReadyToPrint_and_Sign_June2026.pdf
@@ -577,6 +588,7 @@ def71ef4930b	pdfs/aish-adap/government-form-originals/financial-statements/the-m
 66ef3dcf27f8	pdfs/aish-adap/government-form-originals/government-forms/DS2444A Rev. 2026-10.pdf
 bddb11288722	pdfs/aish-adap/government-form-originals/government-forms/DS2444A – Disability Income Assistance Application.pdf
 aa9c068b9181	pdfs/aish-adap/government-form-originals/government-forms/DS2444B – Disability Assistance Medical Report.pdf
+0dba4103a6bb	pdfs/aish-adap/government-form-originals/government-forms/DS5551.pdf
 3db777f95939	pdfs/aish-adap/government-form-originals/government-forms/Health Information Access Request Form AHS.pdf
 1f094933150a	pdfs/aish-adap/government-form-originals/government-forms/T2201_DTC_PartA.pdf
 39d31fa1e215	pdfs/aish-adap/government-form-originals/government-forms/access-to-information-request-form-atia.pdf
@@ -910,6 +922,7 @@ b4970caf8976	pdfs/fscd/september-2026/ADSB_Forms_Guide_FSCD_Sept2026.pdf
 d9577b917adb	pdfs/fscd/september-2026/ADSB_Sources_and_Forms_Index_FSCD_Sept2026.pdf
 8e33df6b6f13	pdfs/fscd/september-2026/ADSB_Two_Rules_Not_In_The_Law_FSCD_Sept2026.pdf
 e84895749a79	pdfs/fscd/september-2026/ADSB_Words_They_Use_Sept2026.pdf
+b7b036292a54	pdfs/pdd/fillable/ADSB_PDD_Adaptive_Skills_Prep_Kit.pdf
 87f431a643b8	pdfs/pdd/fillable/ADSB_PDD_Notice_of_Appeal_Fillable_Sept2026.pdf
 9987cfca29dc	pdfs/pdd/september-2026/ADSB_The_Rules_You_Cannot_Read_PDD_Sept2026.pdf
 c48941a78670	pdfs/pdd/september-2026/government-originals/Alberta_Ombudsman_PDD_Investigation_2024-05-07.pdf
@@ -946,5 +959,6 @@ c73db4b618c9	pdfs/shared/fillable/ADSB_Request_for_Mediation_Fillable_Sept2026.p
 e84895749a79	pdfs/shared/guides/ADSB_Words_They_Use_Sept2026.pdf
 6654393fc5c1	robots.txt
 edd471de80f6	rose-thank-you.html
-17c8ddf95c1f	sitemap.xml
+f6f6776ff058	sitemap.xml
+0420c501d9e0	the-ipp-questions.html
 e6ccd633e7f6	transfer-thank-you.html

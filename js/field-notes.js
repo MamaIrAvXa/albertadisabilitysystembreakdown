@@ -16,6 +16,59 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "This week's newsletter is out (October 23, 2026)",
+        date: "2026-10-23",
+        streams: ["General Topics", "AISH / ADAP / CPP-D", "Children / FSCD", "Seniors Benefits CPP/CPPD"],
+        body: `Every Friday, ADSB sends out one email with everything new on the website that week: new forms, new guides, new letters you can send, and the week's Where Things Stand updates. One email a week, no spam, and you can unsubscribe anytime.
+
+## THIS WEEK'S ISSUE COVERS
+**The Energy Rebate deadline** (October 31).
+
+**Couples back pay.**
+
+**Ten AISH and ADAP forms you can now fill in on your phone.**
+
+**A guide to your child's IPP** (school plan).
+
+**A new letter for when your CDB deduction is bigger than your CDB.**
+
+## READ IT
+Read this week's issue, and every past one, in the [newsletter archive](https://buttondown.com/albertadisabilitybreakdown/archive/).
+
+Want it in your inbox every week? Sign up at the top or bottom of the [home page](https://albertadisabilitysystembreakdown.netlify.app/#subscribe). Just put in your email and press Subscribe.
+
+It's free, and anyone can sign up. Family, friends, support workers, allies. **Share it with someone who's trying to keep up.**`
+      },
+      {
+        title: "What one more phone call costs (October 23, 2026)",
+        date: "2026-10-23",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `A member's family gave me permission to share this, with no name attached.
+
+She's self-employed and works about 6 hours a week. That's all her health allows, and she's built her life carefully around it. She was moved from AISH to ADAP.
+
+ADAP sent her to an employment assessment. The assessor rated her capacity at **2 to 3 out of 10.** Her doctor agreed. He'd rather she not work at all. The assessor saw she was already managing her work well and agreed her plan could be simple: some equipment so she can keep working from bed on her bad days.
+
+Then her file was passed to someone new. Three weeks later, she was being nudged toward career counselling, coaching and workshops. When she asked what was mandatory, she was told to ask ADAP. ADAP told her to call another number. That number told her to call the contractor back. A worker promised to check with a supervisor and email her. She's still waiting.
+
+Here's what she said, and I think it's one of the clearest ways anyone has put it:
+
+Before ADAP, she had already stretched herself as far as she could to hold onto the work she has. She didn't need the government to make her work. She was already doing it. Now the program is using up what little energy she has left on its own demands. **For someone who is disabled and sick, one more phone call, email or workshop isn't just a choice to take part. It comes out of their health.**
+
+That's the part the people designing these programs don't see.
+
+## IF YOU'RE IN THE SAME SPOT
+**Ask for everything in writing:** your assessment, your employment plan, and what's mandatory and which rule makes it mandatory.
+
+**A contractor can't cut your benefits.** Only ADAP can, and that decision has to come to you in writing, which you can appeal.
+
+**If someone promises you something on the phone, email afterward:** "On [date], [name] told me [what they said]. Please confirm in writing."
+
+Thank you to her and her family for letting me share this.
+
+If you have questions, reach out to us on the campaign line, **587-590-3590**.`
+      },
+      {
         title: "If you asked for your AISH or ADAP file and got someone else's (October 22, 2026)",
         date: "2026-10-22",
         streams: ["AISH / ADAP / CPP-D", "General Topics"],

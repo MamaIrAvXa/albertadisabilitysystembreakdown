@@ -116,6 +116,15 @@
     background: linear-gradient(transparent, rgba(0,0,0,.8)); text-align: left; }
   .tt-links { font-size: .95rem; }
   .tt-links a { color: #f5c542; }
+  .newsletter-archive-btn { display: inline-block; margin-top: .6rem; padding: 6px 14px; border: 1px solid #d4a017; border-radius: 999px;
+    color: #f5c542; font-weight: 600; font-size: .85rem; text-decoration: none; }
+  .newsletter-archive-btn:hover { background: rgba(212,160,23,.12); }
+  /* The lower sign-up box's email field was showing as a plain white box; match the dark one at the top */
+  #subscribe .subscribe-row { display: flex; gap: .5rem; flex-wrap: wrap; }
+  #subscribe input[type="email"] { flex: 1 1 220px; min-width: 0; padding: .7rem .9rem; border-radius: var(--radius, 10px);
+    border: 1px solid rgba(255,255,255,.15); background: var(--bg, #050d1c); color: var(--ink, #f6f5f1); font-size: .95rem; }
+  #subscribe input[type="email"]::placeholder { color: var(--ink-mute, #8b95a5); }
+  #subscribe input[type="email"]:focus { outline: none; border-color: #d4a017; box-shadow: 0 0 0 3px rgba(212,160,23,.18); }
   /* Colour key strip under the header */
   /* The menu now sits on two lines on computers, so jumping to a section must stop below it */
   section[id] { scroll-margin-top: 90px; }
@@ -523,6 +532,7 @@
       <div class="subscribe-strip-text">
         <strong>One email a week, so you know when to come back.</strong>
         <span>A weekly round-up of what went up: new documents, new forms, and the week in "Where Things Stand." No spam, unsubscribe anytime.</span>
+        <a class="btn btn-ghost-sm newsletter-archive-btn" href="https://buttondown.com/albertadisabilitybreakdown/archive/" target="_blank" rel="noopener">Read past newsletters &rarr;</a>
       </div>
       <form
         action="https://buttondown.com/api/emails/embed-subscribe/albertadisabilitybreakdown"
@@ -1506,6 +1516,9 @@
           Powered by <a href="https://buttondown.com/refer/albertadisabilitybreakdown" target="_blank" rel="noopener">Buttondown</a>. Free to leave anytime.
         </p>
       </form>
+      <div class="callout-actions" style="margin-top:1rem;">
+        <a class="btn btn-ghost" href="https://buttondown.com/albertadisabilitybreakdown/archive/" target="_blank" rel="noopener">Read the newsletter archive</a>
+      </div>
     </aside>
   </div>
 </section>
