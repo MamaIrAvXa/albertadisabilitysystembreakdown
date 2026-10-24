@@ -2784,7 +2784,9 @@ If you are trying to work out where your own household lands, reach out and tell
       {
         title: "Something we can put forward, and there's a deadline",
         date: "2026-08-26",
-        body: `Most of what I ask of you is defensive. Write this letter because something went wrong. Keep that record in case they say you never reported. Appeal that decision before the clock runs out.
+        body: `**Retired, October 24, 2026:** the September 26 filing deadline for this resolution has passed, and the FCSSAA section has been taken off the site. This note stays up as a record of what we asked for.
+
+Most of what I ask of you is defensive. Write this letter because something went wrong. Keep that record in case they say you never reported. Appeal that decision before the clock runs out.
 
 This one is different. This is us putting something on the table before anything has gone wrong.
 
