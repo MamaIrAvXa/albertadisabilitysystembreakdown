@@ -9,6 +9,114 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-10-24",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — October 24, 2026",
+    body: `Nothing I could read tonight changes AISH, ADAP or the Canada Disability Benefit (CDB). There are places I couldn't check, and they're listed at the bottom. So this is "nothing changed in what I could read," not "nothing changed."
+
+## PAYMENT DAYS
+**November payment:** the November AISH, ADAP and Income Support payment lands Tuesday, October 27. That's 3 days away.
+
+**December payment:** lands Wednesday, November 25.
+
+**January payment:** lands December 22. The government's table still says that's a Wednesday. It's a Tuesday. **Go by the date.**
+
+**A payday tip:** the cheque line still isn't updating properly for a lot of people. **Check your bank account on Tuesday. If your money isn't there, give it until Thursday before you call.**
+
+## ENERGY REBATE: 7 DAYS LEFT
+The $100 Alberta Energy Rebate closes **Saturday, October 31.** If you were on AISH, ADAP or Income Support before July 1, you got it automatically. **If you came onto a program AFTER July 1, you have to apply yourself at alberta.ca.** If you need help with it, call this week. **The phone lines are closed on weekends.**
+
+## COUPLES
+**Tuesday's payment is the first one where you can check whether you're getting the full rate again.** The government's October 6 release says the back pay comes before the end of the year. Keep your statements from August on.
+
+## THIS WEEK
+**Monday, October 26:** the Legislature's Heritage Fund committee holds its yearly public meeting, 6 to 8 p.m.
+
+**Tuesday, October 27:** the Legislature comes back. I'll read the bill titles as they're tabled.
+
+## CANADA DISABILITY BENEFIT
+Still up to **$204.20 a month** from July 2026 to June 2027 (canada.ca, checked tonight).
+
+## WHAT I COULDN'T CHECK TONIGHT
+The Alberta and Canada Gazettes, the newest Alberta regulations, the federal news page and the status of bills. So this is what I confirmed in what I read, not a promise that nothing else moved.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-24",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — October 24, 2026",
+    body: `Nothing changed for Alberta seniors in what I could read tonight.
+
+## PAYMENT DAYS THIS WEEK
+**Alberta Seniors Benefit:** Monday, October 26.
+
+**Old Age Security (OAS) and Canada Pension Plan (CPP):** Wednesday, October 28.
+
+## ENERGY REBATE: 7 DAYS LEFT
+If you started on the Alberta Seniors Benefit **after July 1**, the $100 Energy Rebate won't come on its own. Apply by **Saturday, October 31.** It won't affect your other benefits. If you need help, call this week. **The phone lines are closed on weekends.**
+
+## FUEL TAX
+The province's 13 cent a litre fuel tax stays off until at least December 31, 2026. **That's the earliest it could come back, not a date it's set to.**
+
+## FLU AND RSV SEASON
+The province says **the RSV shot is free all year** for eligible seniors and for older adults in continuing care and supportive living. Ask your pharmacist or doctor if you qualify.
+
+## AISH OR ADAP AT 65: TWO DIFFERENT WORDINGS
+If you're on AISH or ADAP and getting close to 65, know this. The government's AISH and ADAP web pages say you have to be "not eligible to receive an Old Age Security pension." But the regulation itself (the actual rule) says you're not eligible if you "receive a monthly pension" under Old Age Security. Those aren't the same words, and neither one says what happens to someone who's 65 but hasn't started OAS yet. So don't count on any rumour either way. **If this is you, ask your AISH/ADAP office in writing what applies to you, and keep their answer.**
+
+## STILL COMING
+**Tuesday, October 27:** the Legislature comes back, and Ottawa brings in its changes to the assisted dying (MAID) law. I'll read the bill when it's out and share what it says.
+
+**Thursday, November 5:** the federal budget.
+
+## DENTAL PLAN
+The federal dental plan's web pages still say you "may have to reimburse" the cost if you were found to have private coverage. **A federal order already cancelled those debts.** The pages haven't caught up. Keep any bill or letter.
+
+## WHAT I COULDN'T CHECK TONIGHT
+The new lodge rules starting in January (they aren't posted in full yet), the Alberta bill status page, the Social Security Tribunal and the Federal Court of Appeal.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-24",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — October 24, 2026",
+    body: `Nothing changed tonight for FSCD, PDD or school supports in what I could read. One thing from yesterday is now confirmed on the government's own page.
+
+## THE FLAG AND ANTHEM RULE IS NOT SWITCHED ON
+Yesterday I told you the new school flag rule only starts when section 13 of the Act to Remove Politics and Ideology from Classrooms is switched on (called a proclamation). Tonight I checked the government's proclamations page at alberta.ca/proclamations. It says:
+
+"Sections 1 to 12, 14 to 17, 19 to 22 and 24 proclaimed in force on September 1, 2026."
+
+**Section 13 isn't on that list.** The government switched on the sections all around it and skipped that one. So the "January 4, 2027" date in the news release still has nothing official behind it.
+
+If you hear about another January 4 school date: there's a different change to the Education Act that IS set for January 4, 2027. It has nothing to do with flags or the anthem. **If you share this, say which one you mean.**
+
+## THE ANTHEM OPT-OUT, ONE MORE DETAIL
+If section 13 ever does come into force, a student can only be excused from the anthem with a written request signed by a parent. **That's true at any age, even 18 or older.** A school staff member can sign their own request. A student can't. Again: this isn't in force, and it may never be.
+
+## FSCD: STILL NOTHING MOVED
+Every FSCD rate in the regulation was read again tonight and is unchanged. Travel is still 12 cents a kilometre, respite is still up to 240 hours a year, and the rest are the same. The FSCD policy manual still shows only one update this year (February 20).
+
+## ENERGY REBATE: 7 DAYS LEFT
+If you came onto AISH, ADAP or Income Support after July 1, apply yourself before **Saturday, October 31.**
+
+## WHAT I COULDN'T CHECK TONIGHT
+Federal orders, federal bills, the two Alberta Gazette issue lists for 2026, and the PDD policy manual's list of changes (the page isn't loading). So this is "nothing changed in what I could read tonight."
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-10-23",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — October 23, 2026",
