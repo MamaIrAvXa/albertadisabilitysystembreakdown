@@ -125,6 +125,17 @@
     border: 1px solid rgba(255,255,255,.15); background: var(--bg, #050d1c); color: var(--ink, #f6f5f1); font-size: .95rem; }
   #subscribe input[type="email"]::placeholder { color: var(--ink-mute, #8b95a5); }
   #subscribe input[type="email"]:focus { outline: none; border-color: #d4a017; box-shadow: 0 0 0 3px rgba(212,160,23,.18); }
+  /* Parent's Guide book card in the Schooling section */
+  .pg-book { display: flex; gap: 1.1rem; align-items: flex-start; margin-top: 1.5rem; padding: 1rem; border: 1px solid #2e6b4f; border-left: 4px solid #3f8f5e;
+    border-radius: 12px; background: rgba(63,143,94,.08); }
+  .pg-cover { flex: 0 0 110px; }
+  .pg-cover img { width: 110px; height: auto; border-radius: 6px; box-shadow: 0 6px 18px rgba(0,0,0,.45); display: block; }
+  .pg-kicker { margin: 0 0 .2rem; font-size: .72rem; letter-spacing: .14em; text-transform: uppercase; color: #7cc3a0; }
+  .pg-title { margin: 0 0 .5rem; font-size: 1.15rem; line-height: 1.3; color: #f6f5f1; }
+  .pg-book p { margin: 0 0 .8rem; }
+  .pg-btns { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: .6rem; }
+  .pg-note { font-size: .85rem; color: #a9b3c1; margin: 0 !important; }
+  @media (max-width: 480px) { .pg-cover { flex-basis: 84px; } .pg-cover img { width: 84px; } }
   /* Colour key strip under the header */
   /* The menu now sits on two lines on computers, so jumping to a section must stop below it */
   section[id] { scroll-margin-top: 90px; }
@@ -1101,8 +1112,23 @@
       <p>If your child has an Individualized Program Plan (IPP) at a public or separate school in Alberta, Grades 1 to 12, the plan has a list of things it has to contain. Those rules are not in the Education Act. They are in a provincial document called the Standards for Special Education, which Alberta Education still lists as current.</p>
       <p>When a school&rsquo;s answer has no date, no number and no name in it, you are allowed to ask for one. And if you get nowhere, there is an order to follow: the school&rsquo;s own dispute process first, then an appeal to the school board, then a review by the Minister of Education.</p>
       <p>The guides here walk you through it in plain language. They are not legal advice. Charter schools and kindergarten or preschool (Early Childhood Services) follow different rules.</p>
+      <div class="pg-book">
+        <a href="https://www.amazon.ca/dp/B0HP6N2N3Z" target="_blank" rel="noopener" class="pg-cover"><img src="/assets/parents-guide-2026-27-cover.jpg" alt="Cover of A Parent's Guide to Education in Alberta, 2026-27 school year edition" width="596" height="900" loading="lazy"></a>
+        <div>
+          <p class="pg-kicker">New: the book</p>
+          <h3 class="pg-title">A Parent&rsquo;s Guide to Education in Alberta</h3>
+          <p>2026&ndash;27 school year edition. Scripts, not sentiment: what the school has to do, what to say when it doesn&rsquo;t, and where to go next. Organized by what you&rsquo;re hearing, so you can find the page while someone is still talking.</p>
+          <div class="pg-btns">
+            <a class="btn btn-primary" href="/pdfs/parents-guide/2026-27/A-Parents-Guide-to-Education-in-Alberta-2026-27.pdf" target="_blank" rel="noopener">Read the free PDF</a>
+            <a class="btn btn-ghost" href="https://www.amazon.ca/dp/B0HP6N2N3Z" target="_blank" rel="noopener">Print book on Amazon.ca</a>
+          </div>
+          <p class="pg-note">402 pages, 16 chapters, letters you can copy, and the deflection dictionary. Free to share and free to print.</p>
+        </div>
+      </div>
     </div>
     <ul class="link-list">
+      <li><a href="/pdfs/parents-guide/2026-27/A-Parents-Guide-to-Education-in-Alberta-2026-27.pdf" target="_blank" rel="noopener"><span>A Parent&rsquo;s Guide to Education in Alberta, 2026&ndash;27 edition: the free PDF</span><span class="ext">FREE PDF</span></a></li>
+      <li><a href="https://www.amazon.ca/dp/B0HP6N2N3Z" target="_blank" rel="noopener"><span>A Parent&rsquo;s Guide to Education in Alberta, 2026&ndash;27 edition: the print book</span><span class="ext">BOOK</span></a></li>
       <li><a href="/the-ipp-questions.html" target="_blank" rel="noopener"><span>The IPP Questions: what your child&rsquo;s school plan must contain, and what to ask when something is missing</span><span class="ext">GUIDE</span></a></li>
       <li><a href="#field-notes" data-stream="Children / FSCD" data-scroll-to="#field-notes"><span>Homeschooling a child with a disability: what to know before you decide</span><span class="ext">FIELD NOTE</span></a></li>
       <li><a href="#documents" data-stream="Children / FSCD" data-scroll-to="#documents"><span>All documents for children and FSCD</span><span class="ext">LIBRARY</span></a></li>
