@@ -16,6 +16,46 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Community resource: can't find a doctor? Here's where to look (October 26, 2026)",
+        date: "2026-10-26",
+        streams: ["AISH / ADAP / CPP-D", "Income Support", "Seniors Benefits CPP/CPPD", "Continuing Care / Home Care", "General Topics"],
+        body: `So many of you are telling me the same thing: no doctors taking patients, long waits, or you live somewhere with nothing close by. Here's every route we know of, in one place.
+
+## CALL 811 FIRST (FREE, 24/7)
+811 is Health Link, a free nurse line. **Tell the nurse you don't have a family doctor.**
+
+They can connect some callers to **Virtual MD**, a doctor by phone or video, set up for people in rural areas or without a family doctor. The doctor can assess you, order some tests and write prescriptions. The nurse decides who qualifies, so not everyone gets it, but **always ask.**
+
+## ALBERTA FIND A PROVIDER (FREE)
+[albertafindaprovider.ca](https://albertafindaprovider.ca) is the government-backed site that lists family doctors, nurse practitioners and clinics taking new patients. You can search by where you live. (It used to be called Alberta Find a Doctor.)
+
+**Don't skip the nurse practitioners.** A nurse practitioner (NP) is a nurse with extra training who can diagnose, order tests, prescribe and refer you to specialists. Alberta now pays NPs to be people's regular primary care provider, so an NP can be your "family doctor."
+
+## ONLINE DOCTORS (COVERED BY YOUR ALBERTA HEALTH CARE CARD)
+You see a doctor by phone or video, from home, anywhere in Alberta.
+
+**[Orbit Doctor](https://orbitdoctor.ca/online-doctor-alberta):** phone or video, 7 days a week until 11 p.m. They say they can do lab requisitions and referrals.
+
+**[Rocket Doctor](https://rocketdoctor.ca/online-doctor-alberta/):** they say it's free with Alberta Health.
+
+**[CloudCare Medical](https://cloudcaremedical.ca):** same-day walk-in style visits, plus a skin clinic. They say it's covered by Alberta Health.
+
+## MENTAL HEALTH
+**[EaseCare](https://www.easecare.ca)** (587-323-8646): doctor visits and psychiatrist referrals are covered by your Alberta Health Care card. **Counselling sessions cost money, so ask first.** See our EaseCare field note for details.
+
+## IF YOU'RE ON AISH OR ADAP, READ THIS
+Online doctors are great for tests, referrals and prescriptions. But **many won't fill out disability forms that need an in-person exam, like the AISH/ADAP Medical Report.** If that's what you need, ask BEFORE you book.
+
+For the Disability Tax Credit form (T2201), **a nurse practitioner can fill it out**, not just a doctor.
+
+## NOT FOR EMERGENCIES
+**911** for anything life-threatening.
+
+**988** (call or text, anytime) if you're in crisis.
+
+A heads-up: the online services are private companies, and I haven't used them myself. If you try one, tell us how it went, good or bad, so we can tell others. The campaign line is **587-590-3590**.`
+      },
+      {
         title: "When AISH or ADAP won't answer your email (October 26, 2026)",
         date: "2026-10-26",
         streams: ["AISH / ADAP / CPP-D"],
