@@ -9,6 +9,99 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-10-25",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — October 25, 2026",
+    body: `Nothing I could read tonight changes AISH, ADAP or the Canada Disability Benefit (CDB). There are places I couldn't check, listed at the bottom, so this is "nothing changed in what I could read."
+
+## PAYDAY IS TUESDAY
+**November payment:** the November AISH, ADAP and Income Support payment lands Tuesday, October 27. That's 2 days away.
+
+**December payment:** lands Wednesday, November 25.
+
+**January payment:** lands December 22. The government's table still prints the wrong weekday. **Go by the date.**
+
+If the cheque line still shows old info, don't panic. **Check your bank account on Tuesday. If the money isn't there, give it until Thursday before you call.**
+
+## COUPLES
+**Tuesday is the first payment where you can check whether you're getting the full rate again.** Keep your statements from August on.
+
+## ENERGY REBATE: 6 DAYS LEFT
+The $100 Alberta Energy Rebate closes **Saturday, October 31.** If you came onto AISH, ADAP or Income Support after July 1, you have to apply yourself at alberta.ca. If you need help, call Monday to Friday this week. **The phone lines are closed on the weekend, and the deadline is a Saturday.**
+
+## THIS WEEK
+**Monday, October 26:** the Heritage Fund committee's public meeting, 6 to 8 p.m.
+
+**Tuesday, October 27:** payday, and the Legislature comes back. I'll read the bill titles as they're tabled.
+
+## CANADA DISABILITY BENEFIT
+Still up to **$204.20 a month** from July 2026 to June 2027 (canada.ca, checked tonight).
+
+## WHAT I COULDN'T CHECK TONIGHT
+The Alberta and Canada Gazettes, the newest Alberta regulations, the federal news page, and the status of bills.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-25",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — October 25, 2026",
+    body: `A quiet Sunday. These were all confirmed on the government's own pages on Saturday, and nothing has changed since.
+
+## PAYMENT DAYS THIS WEEK
+**Alberta Seniors Benefit:** TOMORROW, Monday, October 26.
+
+**Old Age Security (OAS) and Canada Pension Plan (CPP):** Wednesday, October 28.
+
+## NEXT PAYMENT DAYS
+**Alberta Seniors Benefit:** Tuesday, November 24 and Thursday, December 17.
+
+**OAS and CPP:** Thursday, November 26.
+
+## ENERGY REBATE: 6 DAYS LEFT
+If you started on the Alberta Seniors Benefit **after July 1**, apply for the $100 rebate yourself by **Saturday, October 31.** It won't affect your other benefits. If you need help, call Monday to Friday this week. **The phone lines are closed on weekends.**
+
+## COMING THIS WEEK
+**Tuesday, October 27:** the Legislature comes back, and Ottawa brings in its changes to the assisted dying (MAID) law. I'll read the bill when it's out and tell you what it says.
+
+**Thursday, November 5:** the federal budget.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-25",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — October 25, 2026",
+    body: `Nothing changed for FSCD, PDD or school supports in what was checked. But here's something every parent of a child with a disability should have in their back pocket.
+
+## YOUR SCHOOL BOARD'S LEGAL DUTY
+The new Student Support Policy Framework is guidance, not law. The government's own news release says it "does not create new legislative requirements or replace the Standards for Special Education (2004)."
+
+**But the duty underneath it IS law.** Alberta Education's own resource guide says the Education Act "Requires school boards to provide a continuum of supports and services to students that are consistent with the principles of inclusive education [Section 33(1)(e)]."
+
+In plain words: a "continuum of supports" means a range of help, from small changes in the classroom all the way to specialized services. Your school board has to provide that range. That's section 33(1)(e) of the Education Act. **If the school says "we don't have anything for your child," that's the section to quote back.**
+
+## ONE WORD TO WATCH: "MAY"
+The same guide says that if a child's needs affect their ability to learn, "a board may determine" that the child needs specialized supports and services. "May" means the board decides. So when you ask for specialized supports, **ask for the board's decision in writing, with the reasons.** A written decision is something you can challenge. A "we'll see" isn't.
+
+## FSCD: NOTHING MOVED
+Every FSCD rate is unchanged. Travel is still 12 cents a kilometre, respite is still up to 240 hours a year, and the rest are the same.
+
+## ENERGY REBATE: 6 DAYS LEFT
+If you came onto AISH, ADAP or Income Support after July 1, apply yourself before **Saturday, October 31.** Call Monday to Friday if you need help.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-10-24",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — October 24, 2026",

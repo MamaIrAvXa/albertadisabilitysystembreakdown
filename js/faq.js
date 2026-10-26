@@ -34,14 +34,12 @@ Brand-new applicants — people who were never on AISH and apply for the first t
         q: `If I stay on AISH but choose to move to ADAP later, do I keep the $200 transition top-up?`,
         a: `Yes — good news, and this is confirmed straight from the government's own policy manual. If you were on AISH (or approved for AISH) before July 2, 2026, you can move to ADAP later and you are **not** treated like a brand-new applicant — you keep the $200 top-up through to December 2027. The manual spells out two bonuses worth knowing:
 
-- If you and your partner both get AISH or ADAP, the $200 top-up is **not** cut down to 88% the way the base living allowance is — you keep the full $200.
+- If you and your partner both get AISH or ADAP, the reduced couples rate that was applied to the base living allowance from August has been reversed. See the couples answer in the Money section below.
 - The usual $5,000 non-exempt asset limit that applies to most personal benefits is **waived** for the transition benefit — you can hold more than $5,000 and still receive it.
 
 Two limits in the same policy that nobody mentions out loud. If you receive the **modified** living allowance — the reduced rate for people living in a facility — you are not eligible for the transition benefit. And if you come off ADAP and are approved again later, the top-up does **not** come back. So if you are thinking about a change that might interrupt your eligibility, ask in writing what it does to your top-up before you do it.
 
-As a general habit with any benefit, ask the program to note your top-up in writing. If your own deposit does not match, ask for a written breakdown rather than assuming. _(all four points confirmed against the DIA Policy Manual, Transition Benefits, August 2026)_
-
-**Update, October 5, 2026:** the 88 percent couple reduction mentioned in the first bullet was repealed on October 1, 2026. See the update on the couples answer in the Money section below.`
+As a general habit with any benefit, ask the program to note your top-up in writing. If your own deposit does not match, ask for a written breakdown rather than assuming. _(all four points confirmed against the DIA Policy Manual, Transition Benefits, August 2026)_`
       }
     ]
   },
@@ -70,7 +68,7 @@ If you would rather wait and see, that is a fair choice. Keep your payment state
 
 **Update, October 11, 2026:** the government has now said something about timing. In a news release on **October 6, 2026**, it said affected couples "will be repaid the full difference, back to August 2026," that **no action is required**, and that payments are **expected before the end of 2026**. That is the government's own statement of what it intends, and it has not given a payment day, a method, or a total. It also has not said whether anything can be taken out of the repayment first, so the notice-before-deductions question in our request letter still stands.
 
-You still do not have to apply, and the request letter is still a fair way to keep a dated record. Keep your payment statements from August on, and check the November deposit (it lands October 27) to see which amount you are being paid. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026)_
+You still do not have to apply, and the request letter is still a fair way to keep a dated record. Keep your payment statements from August on, and check your November deposit, dated October 27, 2026, and the ones after it, to see which amount you are being paid. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026)_
 
 Where the worry about deductions comes from: the government's general page on underpayments says AISH and ADAP "pays the full amount of an underpayment," and also says money from an underpayment "may be used to pay debts you have to the Alberta government." That page says nothing specific about the couples repayment, so we still do not know whether it will be used here. Keep asking for notice in writing before any deduction. _(Alberta "AISH and ADAP overpayments and underpayments" page, read October 18, 2026)_`
       },
@@ -86,7 +84,7 @@ Anyone else can apply if they were 18 or older on July 1, 2026, live in Alberta,
 
 Keep it separate from the fuel-tax relief in the next answer, which needs no application. _(Alberta Energy Rebate page, read October 11, 2026)_
 
-**Update, October 14, 2026:** it is now in writing from the program itself. Policy update **DIA-Program-2026-008** says the $100 rebate is not counted as income on AISH or ADAP, and a Ministerial Order exempts it as an asset, including anything you buy with it. For Income Support, update **IS-ETW/BFE-2026-012** and **Ministerial Order 2026-035** say the same: not a financial resource, not an asset. If your benefit went down after the rebate landed, call Alberta Supports at 1-877-644-9992, quote the update number, and write down the date and who you spoke to. _(DIA-Program-2026-008 and IS-ETW/BFE-2026-012, both October 14, 2026)_`
+**Update, October 14, 2026:** it is now in writing from the program itself. Policy update **DIA-Program-2026-008** says the $100 rebate is not counted as income on AISH or ADAP, and a Ministerial Order exempts it as an asset, including anything you buy with it. For Income Support, update **IS-ETW/BFE-2026-012** and **Ministerial Order 2026-035** say the same: not a financial resource, not an asset. If your benefit went down after the rebate landed, call Alberta Supports at 310-0000 (toll free in Alberta; 1-877-644-9992 also works, per the payment-dates page), quote the update number, and write down the date and who you spoke to. _(DIA-Program-2026-008 and IS-ETW/BFE-2026-012, both October 14, 2026)_`
       },
       {
         q: `Is there other help with costs this fall, besides the energy rebate?`,
@@ -105,30 +103,18 @@ But we have seen statements from two different members this month that do not ag
 Until this is sorted out: compare your CDB deposit against the CDB line on your AISH or ADAP statement. If the deducted amount does not match your real federal payment, ask in writing why \u2014 and bring the answer to us so we can compare notes. _(the $200 non-application penalty confirmed on the government's ALSS Canada Disability Benefit and Disability Tax Credit fact sheet for AISH recipients, dated April 2026; the discrepancy is drawn from member account statements, not a government source, and is not yet resolved)_`
       },
       {
-        q: `My partner and I both get AISH or ADAP — when and why does our money drop?`,
-        a: `When two adults in the same home both get AISH or ADAP, each of you moves to 88 percent of the individual maximum — about 88 cents on the dollar each. It means two disabled people who live together receive less than two disabled people who live apart.
+        q: `My partner and I both get AISH or ADAP — did our money drop, and will we be repaid?`,
+        a: `Yes, it dropped, and the government has now said it is putting it right.
 
-We can now give you the government's own numbers rather than our arithmetic. The policy manual prints a table: an **AISH** client with a partner on AISH or ADAP receives **$1,708**, and an **ADAP** client with a partner on AISH or ADAP receives **$1,532**. (Straight 88% of the maximums works out to $1,707.20 and $1,531.20 — the manual rounds up to the whole dollar. If your deposit shows the cents version, that is why. Either figure is close enough that a gap of more than a dollar is worth asking about.)
+From the **August 2026** payment, couples where both partners get AISH or ADAP were paid a reduced rate on the base living allowance — about 88 cents on the dollar each. In a news release on **October 6, 2026**, the government said it is restoring full benefit amounts for those couples and will issue retroactive payments reimbursing the difference back to the August 2026 period. It said no action is required and that clients will receive the retroactive payment before the end of the year. The government's ADAP page, republished October 9, no longer describes the reduced rate.
 
-Good news on one point, and this is confirmed in the manual: the $200 transition top-up is **not** cut to 88% the way the base rate is. If you were moved from AISH, your amount is the couple rate **plus** the full $200.
+What the government has not said is the payment date, how the money will be paid, the total, or whether anything you owe it can be taken out first. The government's general page on underpayments says money from an underpayment may be used to pay debts you have to the Alberta government. Our answer above, *Do I have to apply to get the couples back pay?*, explains where that worry comes from and gives you a letter that asks for notice in writing before any deduction.
 
-Mark your calendar for one thing. Every one of these numbers changes on **January 1, 2027**. AISH and ADAP rates are adjusted each January 1 by the Alberta escalator — the lesser of 2% or the Alberta cost-of-living figure. So if you are reading this in 2027, check the current rate before you rely on $1,708 or $1,532.
+What to do now: keep every payment statement from August on. Look at the deposit dated October 27, 2026 and the ones after it, to see which amount you are being paid. If the end of December comes and you have not been repaid, ask in writing for the payment date and a month-by-month calculation of what you are owed, and bring the answer here so we can compare notes.
 
-Timing matters here so you watch the right deposit: ADAP's base rate itself began July 2, 2026, but the **88% couple reduction specifically starts the August 2026 benefit period**, and payments land 4 business days before the first of the month. So watch that late-July deposit, and if it is not what you expect, ask in writing for a breakdown of how your own amount was calculated. _(couple amounts and the top-up exception confirmed against the DIA Policy Manual, Monthly Living Allowance and Transition Benefits; annual January 1 adjustment per the DIA Policy Manual, Benefit Rate Adjustments; 88% start date per the government's ADAP page and fact sheet, September 2026)_
+This applies to couples where **both** partners are on AISH or ADAP. If only one of you is, or if you are single, this change does not apply to you; the answer *Does the October 1 change help single people…* above lists what it leaves alone.
 
-**Update, October 5, 2026:** everything above was the rule when we wrote it, and it has now changed. On **October 1, 2026** the government made **Order in Council 342/2026 (Alberta Regulation 244/2026)**. It **repeals section 8(4)** of the AISH General Regulation, the section that set the 88 percent rate for couples. It also adds section 20(1.1): if you were paid at the 88 percent amount, the director is treated as having decided you were **underpaid for each month** you were paid that way, and the director "must pay" the **difference between what you were paid and the full living allowance** ($1,940 for AISH, $1,740 for ADAP). By our arithmetic, not a government figure, that is about $232 a month for each partner on AISH and about $208 a month for each partner on ADAP. The lower rate began with the August 2026 payment.
-
-**You do not have to apply.** The regulation puts the duty on the government. But the order does **not** say when the difference will be paid, how it will be paid, or whether anything can be deducted from it first. The regulation lets a director take money you owe the government out of an underpayment (section 20(2)), and that decision cannot be appealed. Whether that will be used here is not known. As of October 5, the government had announced nothing, and its ADAP page and policy manual still described the 88 percent rule.
-
-Keep every payment statement from August on. If you would like a dated record that you asked, use the **Request for Payment of Underpaid Living Allowance** in our forms section. It quotes the regulation, asks for a month-by-month calculation, and asks for notice before anything is deducted. Each partner sends their own.
-
-This change is only for couples where **both** partners are on AISH or ADAP. It does not change payments for single people, the rules for a partner's wages, or the Canada Disability Benefit deduction.
-
-**If Google or an AI tool tells you the 88 percent rule still stands:** it is reading the government's online copy of the regulation, which had not been updated as of October 5. The change is in the order itself, on page 2. _(Order in Council 342/2026, filed as Alberta Regulation 244/2026 on October 1, 2026, amending AR 96/2026, read at the Alberta King's Printer, October 5, 2026; section 20(2) and its exemption from appeal per AR 96/2026 s.20(2) and AR 89/2007 s.6(i); the August start per the government's ADAP page)_
-
-**Update, October 11, 2026:** the government has now announced the fix. In a news release on **October 6, 2026**, it said full benefit amounts are being restored for couples where both partners get AISH or ADAP, that the reduced rate first applied in the **August 2026** assistance period, and that affected couples "will be repaid the full difference, back to August 2026." It says **no action is required** and that payments are **expected before the end of 2026**. The ADAP page was also republished on October 9 and no longer describes the 88 percent rule.
-
-What is still missing: a payment date, how the money will be paid, the total, and whether anything owed to the government can be taken out of it first. The regulation lets a director do that (section 20(2)) and that decision cannot be appealed, so keep asking for notice in writing before any deduction. Our dollar estimates above are still our arithmetic, not a government figure. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026; Alberta Disability Assistance Program page, October 11, 2026; section 20(2) and its exemption from appeal per AR 96/2026 s.20(2) and AR 89/2007 s.6(i))_`
+**If Google or an AI tool tells you the 88 percent rule still stands:** it is out of date. See the question about that further down this page. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026; Alberta Disability Assistance Program page, published October 9, 2026; Alberta "AISH and ADAP overpayments and underpayments" page; all read October 25, 2026)_`
       },
       {
         q: `My partner gets a pension — how much of it counts against my benefits?`,
@@ -357,6 +343,12 @@ Three situations close the door on a cost-share exemption altogether, and they a
         a: `The law doesn't use the words "action plan." What the regulation says is that a director **may** reduce or stop your ADAP benefit if, in the director's opinion, you refused or neglected to take part in an employment support (AR 96/2026 s.15(4)(b)). The government's own policy manual says the program should work with you on barriers first, and that you take part "within the limitations of your impairment." If your health means you can't take part, get that in writing from your doctor and give it to your worker.
 
 **Correction, October 13, 2026:** this answer used to say the action plan "is a condition of your benefits." The law doesn't say that, and we should not have. The answer above replaces it. _(AR 96/2026 s.15(4)(b); Disability Income Assistance Policy Manual)_`
+      },
+      {
+        q: `The government says every ADAP client will be contacted by an employment worker. What does that mean for me?`,
+        a: `In its October 6, 2026 news release, the government said **every ADAP client will be contacted by an employment supports worker**, to help identify your strengths and the supports you need. The government's ADAP page lists the supports as career planning, assistive technology, supported job placements and employer accessibility resources. That is a statement of what the government intends. It did not say when the contact will happen.
+
+If you are contacted, you can still say in writing what you can and cannot reliably do, and ask for accommodation before any plan is set. If you have not been contacted and want a plan, ask in writing. Either way, keep every message. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026; Alberta Disability Assistance Program page, read October 25, 2026)_`
       },
       {
         q: `What if my disability means I cannot take part in the employment programming at all?`,
