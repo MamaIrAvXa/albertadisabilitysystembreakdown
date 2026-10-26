@@ -14,6 +14,33 @@
    ─────────────────────────────────────────────────────────────── */
 const EMAIL_LETTERS = [
   {
+    id: "no-answer-followup",
+    title: "NEW \u2014 When AISH or ADAP won't answer your email: the follow-up",
+    blurb: "You asked in writing and the emails just stopped. Forward your original email (don't start a new one, so the date you first asked is right there) and paste this at the top. It says which request this is, that email is your accommodation, and asks for a supervisor to contact you. Copy your MLA and the Opposition critic's office so it's on the record.",
+    to: "",
+    zonePicker: true,
+    cc: "St.Albert@assembly.ab.ca",
+    toHint: "Pick your zone above and it will fill in your office's address. Better still, reply-all on the email you already sent, so your first request is right there underneath.",
+    ccHint: "Already filled in: Marie Renaud's office, the Opposition critic for disability programs. <b>Add your own MLA too.</b> Find yours by putting your address in at <b>elections.ab.ca</b>, under \"Find my electoral division.\"",
+    subject: "[Second / Third] request: [what you asked for], first sent [date]",
+    note: "Fill in everything in [brackets]. Forward the original email rather than starting a new one, if you can. Keep a copy of everything you send, with the dates. If it's about a decision on your benefits, a written decision is something you can appeal.",
+    body:
+`[Forward your original email that wasn't answered, and paste this at the top.]
+
+This is my [second / third / fourth] request for this information. My first request was sent on [date] and I have not received a response.
+
+Email is my preferred way to be contacted. It is an accommodation I have requested, and it is on my file. Please respond to me in writing by email.
+
+I am also asking that a supervisor contact me about this request.
+
+If this request concerns a decision about my benefits, please put the decision and the reason for it in writing.
+
+Thank you,
+[Your name]
+[Your file number]
+[Your phone or email]`
+  },
+  {
     id: "cdb-deduction-correction",
     title: "NEW \u2014 Ask to correct a Canada Disability Benefit deduction that's bigger than your CDB",
     blurb: "If AISH or ADAP is taking $200 a month off for the Canada Disability Benefit, but your CDB is less than $200, this asks them to fix the deduction, pay back the difference for every month, and give you their answer in writing. Attach your Service Canada letter and your bank statements.",

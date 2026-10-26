@@ -16,6 +16,41 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "When AISH or ADAP won't answer your email (October 26, 2026)",
+        date: "2026-10-26",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `A lot of you are telling me the same thing: you ask for something in writing, and the emails just stop. Here's what gets a response.
+
+## STEP 1: RESEND YOUR ORIGINAL EMAIL
+**Don't start a new one.** Forward the one they didn't answer, so the date you first asked is right there.
+
+## STEP 2: SAY WHICH REQUEST THIS IS, AND THAT EMAIL IS YOUR ACCOMMODATION
+At the top, copy and paste this, and fill in the [brackets]:
+
+_"This is my [second / third / fourth] request for this information. My first request was sent on [date] and I have not received a response._
+
+_Email is my preferred way to be contacted. It is an accommodation I have requested, and it is on my file. Please respond to me in writing by email._
+
+_I am also asking that a supervisor contact me about this request."_
+
+There's a ready-to-use version of this in the [Email a Letter](https://albertadisabilitysystembreakdown.netlify.app/#email-letters) section of this site.
+
+## STEP 3: COPY (CC) TWO PEOPLE
+**Your MLA.** Find yours by putting your address in at [elections.ab.ca](https://www.elections.ab.ca), under "Find my electoral division."
+
+**Marie Renaud's office**, the Opposition critic for disability programs: **St.Albert@assembly.ab.ca**
+
+## STEP 4: KEEP A COPY
+**Keep a copy of everything you send, with the dates.**
+
+## WHY THIS WORKS
+When your MLA is copied, it's on the record that you asked and weren't answered. MLA offices can also raise your file directly with the ministry. It usually gets a response.
+
+And if it's about a decision on your benefits, **always ask them to put the decision and the reason in writing.** A written decision is something you can appeal.
+
+If you have questions, reach out to us on the campaign line, **587-590-3590**.`
+      },
+      {
         title: "This week's newsletter is out (October 23, 2026)",
         date: "2026-10-23",
         streams: ["General Topics", "AISH / ADAP / CPP-D", "Children / FSCD", "Seniors Benefits CPP/CPPD"],
