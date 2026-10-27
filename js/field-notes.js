@@ -16,6 +16,57 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Bill 33: I've sent it to Marie Renaud's office (October 27, 2026)",
+        date: "2026-10-27",
+        streams: ["AISH / ADAP / CPP-D", "Income Support", "General Topics"],
+        body: `I didn't want to sit on this. Tonight I emailed MLA Marie Renaud's office about Bill 33, the bill that would end DEI hiring programs in the public sector. Marie Renaud is the Opposition critic for disability programs. Here's exactly what I sent, so you know what's been raised on your behalf.
+
+**One term to know:** an "ameliorative measure" is a program meant to improve things for a group that faces disadvantage, like a program to hire more disabled people.
+
+## THE EMAIL I SENT
+**Subject:** Bill 33 – Effect on disabled Albertans (new s.10.2, Alberta Human Rights Act)
+
+_Hello Marie and Rick,_
+
+_I read Bill 33, the Justice Statutes Amendment Act, 2026 (No. 2), after it was introduced today. I want to flag what it does to disabled Albertans, because the news coverage so far hasn't picked it up._
+
+**1. It names disability directly.** _Section 1 of the bill adds a new section 10.2 to the Alberta Human Rights Act. It says that "Notwithstanding section 10.1, no provincial body shall plan, advertise, adopt or implement an ameliorative measure relating to hiring or promotion." Its definition of "personal characteristic" includes "physical disability" and "mental disability." Section 10.1 is what currently allows employers to run programs to hire people who face disadvantage, including disabled people. For provincial bodies, that protection would be overridden for hiring and promotion._
+
+**2. It already reaches funded non-profits.** _News reports say grant-funded non-profits may be added later by regulation. The bill already includes them. Proposed s.10.2(1)(c)(v) defines a provincial body to include "an entity that receives public funding from the Government for the purpose of providing a public service," unless excluded by regulation. That could cover disability service agencies and employment support providers, the organizations ADAP relies on to move people toward work._
+
+**3. The only way out is cabinet.** _Exemptions and exclusions would come only through regulations made by the Lieutenant Governor in Council (proposed s.10.2(4) and (8)). There is nothing in the bill itself that protects disability hiring programs._
+
+**4. The effect alongside ADAP.** _ADAP is built on moving disabled Albertans toward employment. Bill 33 would stop public employers, and possibly the agencies that support disabled people, from running hiring programs aimed at us. One way into work is closed while people are being pushed toward it._
+
+_Questions I'd ask you to raise as the bill moves forward:_
+
+_Was any analysis done of how this bill affects disabled Albertans, and of how it lines up with ADAP's employment goals? If so, will it be released?_
+
+_Will disability hiring and employment programs be exempted, and will those exemptions be in place before the section comes into force?_
+
+_Would the government accept an amendment taking physical and mental disability out of the definition of "personal characteristic," or excluding disability service providers from s.10.2(1)(c)(v)?_
+
+_What does not change, as far as the bill text shows: the protection against disability discrimination in employment and the duty to accommodate are not touched. I'm making sure our members know that too._
+
+_Thank you, as always, for carrying these concerns into the Legislature._
+
+_Chantal Trepanier_
+_The Alberta Disability System Breakdown (an informational group)_
+
+## WHAT YOU CAN DO
+**The bill has only had its first reading. It can still change.** Your voice adds weight to this.
+
+**Email YOUR MLA** and tell them what this bill means for you. Find yours at [elections.ab.ca](https://www.elections.ab.ca), under "Find my electoral division."
+
+**Copy Marie Renaud's office:** St.Albert@assembly.ab.ca
+
+**You're welcome to use any part of my email in yours.**
+
+Read the bill yourself: [Bill 33, Justice Statutes Amendment Act, 2026 (No. 2)](https://docs.assembly.ab.ca/LADDAR_files/docs/bills/bill/legislature_31/session_2/20251023_bill-033.pdf)
+
+I'll post when I hear back. If you have questions, reach out to us on the campaign line, **587-590-3590**.`
+      },
+      {
         title: "Bill 33: what it means for disabled Albertans (October 27, 2026)",
         date: "2026-10-27",
         streams: ["AISH / ADAP / CPP-D", "Income Support", "General Topics"],
