@@ -16,6 +16,51 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Bill 33: what it means for disabled Albertans (October 27, 2026)",
+        date: "2026-10-27",
+        streams: ["AISH / ADAP / CPP-D", "Income Support", "General Topics"],
+        body: `A lot of you have sent me the news about the government ending DEI hiring. I read the bill itself, not just the news stories. Here's what it says, in plain words.
+
+## WHAT IT IS
+Bill 33 is called the **Justice Statutes Amendment Act, 2026 (No. 2).** It's sponsored by the Minister of Justice and was introduced on October 27, 2026. **It is NOT law yet.** It has only had its first reading.
+
+## WHAT IT CHANGES
+Right now, the Alberta Human Rights Act says it isn't discrimination to run programs that help groups who face disadvantage. People with physical and mental disabilities are one of those groups. That's what lets an employer run a program to hire more disabled people.
+
+Bill 33 adds a new section that says, despite that rule, **"provincial bodies" can no longer run those programs for hiring or promotion.** The bill names physical disability and mental disability in its list.
+
+The only way around it is an exemption that cabinet grants through regulations.
+
+## WHO IT COVERS
+"Provincial bodies" include:
+
+**Government:** the Alberta government and its agencies, and Crown corporations.
+
+**Health and education:** health agencies, universities and colleges, and school boards.
+
+**Local:** municipalities and police services.
+
+**ANY organization that gets government funding to provide a public service**, unless cabinet excludes it.
+
+That last one matters. Some news stories said non-profits might be added later. **The bill already includes them.** That could cover the agencies that provide disability services and employment supports.
+
+First Nations bands and Métis settlements are not included.
+
+## TRAINING
+Provincial bodies also couldn't require staff to take training on diversity, equity and inclusion, unconscious bias, or cultural competency. The only exception is training "reasonably necessary" to do the job.
+
+## WHAT DOES NOT CHANGE
+**The bill does not change the rule that employers can't discriminate against you because of a disability.** Your employer still has a duty to accommodate your disability. Those protections are still in the Human Rights Act.
+
+## WHY THIS MATTERS RIGHT NOW
+ADAP is built on moving disabled people toward work. Bill 33 stops public employers, and possibly the agencies that support us, from running hiring programs aimed at disabled people. The Premier says hiring should be based on "merit and qualifications." The effect is that **one of the ways disabled people get hired is being closed while people are being pushed toward jobs.**
+
+## WHAT YOU CAN DO
+**A bill can still change before it passes. Tell your MLA what this means for you.** Find yours at [elections.ab.ca](https://www.elections.ab.ca), under "Find my electoral division." Copy Marie Renaud's office: **St.Albert@assembly.ab.ca**
+
+I'll keep watching it as it moves through the Legislature. If you have questions, reach out to us on the campaign line, **587-590-3590**.`
+      },
+      {
         title: "Same request, same day, two very different files (October 27, 2026)",
         date: "2026-10-27",
         streams: ["AISH / ADAP / CPP-D", "PDD"],
