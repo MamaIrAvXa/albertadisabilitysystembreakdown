@@ -22,10 +22,13 @@ const EMAIL_LETTERS = [
     cc: "St.Albert@assembly.ab.ca",
     toHint: "Pick your zone above and it will fill in your office's address. Better still, reply-all on the email you already sent, so your first request is right there underneath.",
     ccHint: "Already filled in: Marie Renaud's office, the Opposition critic for disability programs. <b>Add your own MLA too.</b> Find yours by putting your address in at <b>elections.ab.ca</b>, under \"Find my electoral division.\"",
-    subject: "[Second / Third] request: [what you asked for], first sent [date]",
-    note: "Fill in everything in [brackets]. Forward the original email rather than starting a new one, if you can. Keep a copy of everything you send, with the dates. If it's about a decision on your benefits, a written decision is something you can appeal.",
+    subject: "[Your full legal name] \u2013 File [file number] \u2013 [Second / Third] request: [what you asked for]",
+    note: "Fill in everything in [brackets]. Put your full legal name and file number in the subject line and at the top, because your name may not show on their end. Your file number is on your AISH/ADAP letters or your health benefits card. If you've never asked for email to be added to your file, ask for that too. Forward the original email rather than starting a new one, if you can. Keep a copy of everything you send, with the dates. If it's about a decision on your benefits, a written decision is something you can appeal.",
     body:
 `[Forward your original email that wasn't answered, and paste this at the top.]
+
+Name: [Your full legal name]
+File number: [Your file number]
 
 This is my [second / third / fourth] request for this information. My first request was sent on [date] and I have not received a response.
 

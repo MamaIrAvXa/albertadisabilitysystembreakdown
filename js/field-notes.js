@@ -16,6 +16,86 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Same request, same day, two very different files (October 27, 2026)",
+        date: "2026-10-27",
+        streams: ["AISH / ADAP / CPP-D", "PDD"],
+        body: `A member shared something with me (with permission) that shows how inconsistent AISH file requests can be.
+
+She asked for the complete AISH files of her adult twins. Both were on AISH and PDD, and both were kept on AISH. The two requests were:
+
+**Sent the same day,** through the same online portal.
+
+**Worded exactly the same.**
+
+**Each made as that person's own request.**
+
+## WHAT CAME BACK
+**One file was released about 7 weeks later,** with the records and a letter.
+
+**The other closed about 4 months later,** and the online package had only the photo ID she sent in. No records, no letter.
+
+**Neither file included any decision documents,** just what the family had sent in themselves.
+
+**One file included a capacity assessment** with only that twin's name on it. The other twin's file left theirs out, even though they had one too.
+
+Same request, same day, different results. **And both took longer than the 30 business days the law allows.**
+
+## WHAT YOU CAN DO WITH YOUR OWN FILE REQUEST
+**Check it.** When it comes back, check it against what you know is in your file: forms, letters, medical reports, decision letters.
+
+**If something's missing, ask in writing.** Name the documents you know exist and ask why they weren't included.
+
+**If they don't fix it,** the Information and Privacy Commissioner (OIPC) can review whether they searched properly. You have to ask the government in writing first and give them 30 business days.
+
+**Ask specifically for "decision rationale documents and any internal review notes."** Our fill-in file request form already includes that line.
+
+**Make sure your request is FORMAL.** If they say they're handling it "outside the Act" or as a "routine disclosure," there's no legal deadline. Our form says in writing that you don't agree to that.
+
+Our [ATIA Personal File Request form](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/fillable/Fillable_ATIA_Personal_File_Request.pdf) is in the Take Action section of this site.
+
+Thank you to the member who shared this. If you have questions, reach out to us on the campaign line, **587-590-3590**.`
+      },
+      {
+        title: "Couples on AISH or ADAP: how work income counts (October 27, 2026)",
+        date: "2026-10-27",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `This question has come up twice in the last day, so here's what the government has published.
+
+## DOES MY PARTNER'S INCOME AFFECT MY BENEFITS?
+**Yes.** If you live with a spouse or partner, AISH and ADAP look at your household's income, not only yours.
+
+## HOW MUCH CAN YOU EARN BEFORE IT AFFECTS YOUR BENEFITS?
+From the government's ADAP fact sheet (May 2026):
+
+**AISH, single or single parent:** $350 a month.
+
+**ADAP, single:** $700 a month.
+
+**ADAP, single parent:** $1,100 a month.
+
+**AISH or ADAP, living with a spouse or partner:** $1,500 a month.
+
+**For a couple, the $1,500 is for the household, not $1,500 each.**
+
+## A SPOUSE'S PENSION
+If your spouse or partner gets a pension, the first **$1,200 a month** is fully exempt, plus **25% of the rest.**
+
+## COUPLES WHERE BOTH PARTNERS ARE ON AISH OR ADAP
+The rule that cut each partner to 88% has been reversed. Couples get the full amount again, and members are reporting the back pay arrived in today's payment. **If you were affected, check your statement.**
+
+## WHAT WE DON'T KNOW YET
+The government hasn't published exactly how pay is added up when BOTH partners are clients. For your own numbers:
+
+**Try the Disability Assistance Benefits Calculator** at alberta.ca/adap, or
+
+**Ask your local AISH/ADAP office in writing:** "My partner and I are both on [AISH/ADAP] and [one/both] of us works. How will our employment income affect each of our benefits? Please answer in writing."
+
+## THINKING ABOUT GOING FROM ADAP BACK TO AISH?
+You can apply to return to AISH at any time. If they say no, you stay on ADAP. The government covers one Medical Report, but **get approval for the cost BEFORE your doctor fills it out.**
+
+If you have questions, reach out to us on the campaign line, **587-590-3590**.`
+      },
+      {
         title: "Couples: check your November payment (October 27, 2026)",
         date: "2026-10-27",
         streams: ["AISH / ADAP / CPP-D"],
@@ -126,12 +206,23 @@ A heads-up: the online services are private companies, and I haven't used them m
         title: "When AISH or ADAP won't answer your email (October 26, 2026)",
         date: "2026-10-26",
         streams: ["AISH / ADAP / CPP-D"],
-        body: `A lot of you are telling me the same thing: you ask for something in writing, and the emails just stop. Here's what gets a response.
+        body: `**Updated October 27, 2026:** a member shared a tip that's now Step 1. Make sure they know it's you.
 
-## STEP 1: RESEND YOUR ORIGINAL EMAIL
+A lot of you are telling me the same thing: you ask for something in writing, and the emails just stop. Here's what gets a response.
+
+## STEP 1: MAKE SURE THEY KNOW IT'S YOU
+Your name may not show up on their end, and an email address like "sassykitty145" doesn't tell them who you are. In EVERY email:
+
+**Put your full legal name and your file number in the subject line.** Example: "Jane Smith – File 123456 – Second request"
+
+**Put them again at the top of the email.**
+
+Your file number is on your letters from AISH/ADAP or on your health benefits card.
+
+## STEP 2: RESEND YOUR ORIGINAL EMAIL
 **Don't start a new one.** Forward the one they didn't answer, so the date you first asked is right there.
 
-## STEP 2: SAY WHICH REQUEST THIS IS, AND THAT EMAIL IS YOUR ACCOMMODATION
+## STEP 3: SAY WHICH REQUEST THIS IS, AND THAT EMAIL IS YOUR ACCOMMODATION
 At the top, copy and paste this, and fill in the [brackets]:
 
 _"This is my [second / third / fourth] request for this information. My first request was sent on [date] and I have not received a response._
@@ -140,22 +231,24 @@ _Email is my preferred way to be contacted. It is an accommodation I have reques
 
 _I am also asking that a supervisor contact me about this request."_
 
+**If you've never asked for email to be added to your file, ask now.** You or someone helping you can call, or you can put it in writing: "Please add this email address to my file as my preferred contact method."
+
 There's a ready-to-use version of this in the [Email a Letter](https://albertadisabilitysystembreakdown.netlify.app/#email-letters) section of this site.
 
-## STEP 3: COPY (CC) TWO PEOPLE
+## STEP 4: COPY (CC) TWO PEOPLE
 **Your MLA.** Find yours by putting your address in at [elections.ab.ca](https://www.elections.ab.ca), under "Find my electoral division."
 
 **Marie Renaud's office**, the Opposition critic for disability programs: **St.Albert@assembly.ab.ca**
 
-## STEP 4: KEEP A COPY
+## STEP 5: KEEP A COPY
 **Keep a copy of everything you send, with the dates.**
 
 ## WHY THIS WORKS
 When your MLA is copied, it's on the record that you asked and weren't answered. MLA offices can also raise your file directly with the ministry. It usually gets a response.
 
-And if it's about a decision on your benefits, **always ask them to put the decision and the reason in writing.** A written decision is something you can appeal.
+And if it's about a decision on your benefits, **always ask them to put the decision and the reason in writing.** You need a written decision to appeal or to ask for a reassessment.
 
-If you have questions, reach out to us on the campaign line, **587-590-3590**.`
+Thank you to the member who shared the tip in Step 1! If you have questions, reach out to us on the campaign line, **587-590-3590**.`
       },
       {
         title: "This week's newsletter is out (October 23, 2026)",
