@@ -920,6 +920,7 @@ function renderDailyNews() {
   let html = streamChipRow("daily-news") + `
     <article class="dn-post dn-latest">
       <p class="dn-date">${dnFormatDate(latest.date)} \u00b7 latest</p>
+      ${latest.title ? '<h3 class="dn-title">' + dnEscape(latest.title) + '</h3>' : ''}
       <div class="dn-body">${dnBodyToHtml(latest.body)}</div>
     </article>`;
 

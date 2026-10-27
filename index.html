@@ -136,6 +136,16 @@
   .pg-btns { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: .6rem; }
   .pg-note { font-size: .85rem; color: #a9b3c1; margin: 0 !important; }
   @media (max-width: 480px) { .pg-cover { flex-basis: 84px; } .pg-cover img { width: 84px; } }
+  /* Accessibility: links inside posts are underlined so they don't rely on colour alone;
+     small coloured labels use the lighter shade so they're readable on navy */
+  .dn-body a, .faq-a a { text-decoration: underline; text-underline-offset: 2px; }
+  .card.s-aish .card-num { color: #f5c542; }
+  .card.s-kids .card-num { color: #7cc3a0; }
+  .card.s-seniors .card-num { color: #d9a27a; }
+  .card.s-care .card-num { color: #7cc8c8; }
+  .card.s-income .card-num { color: #8fb0d4; }
+  .card.s-general .card-num { color: #a3a5ad; }
+  .dn-title { margin: .2rem 0 .8rem; font-size: 1.15rem; line-height: 1.3; }
   /* Colour key strip under the header */
   /* The menu now sits on two lines on computers, so jumping to a section must stop below it */
   section[id] { scroll-margin-top: 90px; }
@@ -395,7 +405,7 @@
 <!-- ALERT BAR — payment problems, payment dates, DTC denials.
      Review when the September/October cycle settles. Payment dates are the
      government's published 2026 schedule, checked 2026-08-26. -->
-<div class="alert-bar" aria-label="Urgent help with payments and the disability tax credit">
+<div class="alert-bar" role="region" aria-label="Urgent help with payments and the disability tax credit">
   <p class="alert-line">
     <strong>Payment wrong this cheque?</strong>
     Check the <em>amount</em>, not just that something arrived. Write down the date, what landed and what you expected, then ask your office in writing what was deducted and <strong>the date you were notified</strong> &mdash; a reduction is a decision, and the 30 days to appeal runs from that date.
@@ -525,7 +535,7 @@
   </div>
 </header>
 <!-- Colour, shape and name key for the sides of the site -->
-<div class="stream-legend" id="colour-key" role="note" aria-label="Colour key">
+<div class="stream-legend" id="colour-key" role="region" aria-label="Colour key">
   <span class="sl-title">Colour key:</span>
   <span class="sl s-aish"><span aria-hidden="true">&#9679;</span> AISH / ADAP</span>
   <span class="sl s-kids"><span aria-hidden="true">&#9650;</span> Kids &amp; FSCD</span>
@@ -536,7 +546,7 @@
   <span class="sl s-general"><span aria-hidden="true">&#9675;</span> General</span>
 </div>
 
-<section id="subscribe-strip" class="subscribe-strip">
+<section id="subscribe-strip" class="subscribe-strip" aria-label="Newsletter sign-up">
   <div class="wrap">
     <div class="subscribe-strip-inner">
       <div class="subscribe-strip-text">
@@ -1091,7 +1101,7 @@
         <a href="/pdfs/aish-adap/adsb-report-series/7_Caseworker_Appeal_Rights_HumanRights.pdf" class="pillar-link">Caseworker Appeal Rights Report →</a>
       </article>
     </div>
-    <aside class="callout">
+    <aside class="callout" role="region" aria-label="The Compound Failure Brief">
       <p class="callout-eyebrow">Read the synthesis</p>
       <h3>The Compound Failure Brief</h3>
       <p>These aren't four separate stories. They're one story told four ways. The Compound Failure Brief is the single document that ties them together — and it's also available as a plain-language guide.</p>
@@ -1207,7 +1217,7 @@
     </header>
 
     <!-- Filter bar -->
-    <div class="filter-bar" data-target="documents" role="tablist" aria-label="Document categories">
+    <div class="filter-bar" data-target="documents" role="group" aria-label="Document categories">
       <button class="chip active" data-filter="all">All</button>
       <button class="chip" data-filter="may2026">May 2026 ADAP</button>
       <button class="chip" data-filter="compilations">Compilations</button>
@@ -1243,7 +1253,7 @@
     </header>
 
     <!-- Filter bar -->
-    <div class="filter-bar" data-target="reference" role="tablist" aria-label="Reference categories">
+    <div class="filter-bar" data-target="reference" role="group" aria-label="Reference categories">
       <button class="chip active" data-filter="all">All</button>
       <button class="chip" data-filter="reg">Regulations &amp; Legislation</button>
       <button class="chip" data-filter="manual">Government Manuals</button>
@@ -1490,7 +1500,7 @@
     <p class="lede-sm">If you're considering relocating: each provincial brief documents what you're leaving Alberta to go toward. Sourced. Specific. Decision-ready.</p>
     <div class="prov-grid" id="prov-grid"></div>
 
-    <aside class="callout secondary" id="join">
+    <aside class="callout secondary" id="join" role="region" aria-label="Join the campaign">
       <p class="callout-eyebrow">Stay connected</p>
       <h3>Join the campaign</h3>
       <p>The Alberta Disability System Breakdown is a community group on Facebook. No join required to access the documents — that's what this site is for. But the conversation, the calls, and the local meetups are there.</p>
@@ -1504,7 +1514,7 @@
       <p class="pinned-note">One person with a phone, not an office. Messages are returned in the order they come. Email gets you a written answer with the section numbers attached, which is better for anything you may need to prove later. If you are in crisis, please don't wait on us &mdash; <strong>988</strong> answers by call or text any hour, and the <strong>Alberta Mental Health Help Line is 1-877-303-2642</strong>.</p>
     </aside>
 
-    <aside class="callout subscribe" id="subscribe">
+    <aside class="callout subscribe" id="subscribe" role="region" aria-label="Newsletter">
       <p class="callout-eyebrow">Newsletter</p>
       <h3>One email a week.</h3>
       <p>Once a week you'll get what went up that week: new reports, flyers, fill-in forms and any Ministerial response, with the links. The site changes most days; the email means you don't have to keep checking. No tracking. No spam. Unsubscribe in one click.</p>
@@ -1643,21 +1653,21 @@
 
       <div class="lps-panel">
         <div class="lps-field">
-          <label>Recipient</label>
+          <label for="lps-recipient">Recipient</label>
           <select id="lps-recipient"></select>
           <p class="lps-why" id="lps-why"></p>
         </div>
         <div class="lps-field">
-          <label>To</label>
+          <label for="lps-to">To</label>
           <input type="text" id="lps-to" placeholder="(no direct email — see note below)">
           <div class="lps-site-note" id="lps-site-note" style="display:none"></div>
         </div>
         <div class="lps-field">
-          <label>Subject</label>
+          <label for="lps-subject">Subject</label>
           <input type="text" id="lps-subject">
         </div>
         <div class="lps-field">
-          <label>Cover letter (the ask line tailors to your category — edit anything in [brackets])</label>
+          <label for="lps-body">Cover letter (the ask line tailors to your category — edit anything in [brackets])</label>
           <textarea id="lps-body"></textarea>
         </div>
         <p class="lps-picker-label">Which email do you use?</p>

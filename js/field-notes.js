@@ -16,6 +16,26 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Couples: check your November payment (October 27, 2026)",
+        date: "2026-10-27",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `Members are starting to report that today's November payment included the back pay for couples who were paid at the lower 88% rate, and that their monthly amount has gone back up.
+
+On October 6, the government said affected couples would get the full benefit amount again, plus back pay to August, "before the end of the year." **No action is required.**
+
+## CHECK YOUR DEPOSIT AND YOUR STATEMENT
+If you're part of a couple on AISH or ADAP, check your deposit and your payment statement.
+
+**Did you get the back pay?**
+
+**Did your monthly amount go up?**
+
+Let us know, yes or no. Please don't send amounts or personal details. The campaign line is **587-590-3590**.
+
+## IF IT'S NOT THERE
+**Give it until your statement arrives, then ask your local AISH/ADAP office in writing.** Keep a copy of what you send, with the date.`
+      },
+      {
         title: "New: a minimum lodge rate is coming. Here's what it means if you live in a lodge (October 26, 2026)",
         date: "2026-10-26",
         streams: ["Seniors Benefits CPP/CPPD", "Continuing Care / Home Care", "AISH / ADAP / CPP-D"],
