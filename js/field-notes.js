@@ -16,6 +16,53 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "New: a minimum lodge rate is coming. Here's what it means if you live in a lodge (October 26, 2026)",
+        date: "2026-10-26",
+        streams: ["Seniors Benefits CPP/CPPD", "Continuing Care / Home Care", "AISH / ADAP / CPP-D"],
+        body: `**What's a lodge?** It's seniors' housing run by a local "management body" (often a foundation). You get a room, meals and housekeeping. Most residents are 65 or older, but some younger people on AISH or ADAP live in lodges too.
+
+## WHAT CHANGED
+On **September 24, 2026**, the Minister of Assisted Living and Social Services signed **Ministerial Order 2026-032**. It sets a **MINIMUM** monthly lodge rate, the lowest a lodge can charge you. It takes effect **January 1, 2027.**
+
+## HOW THE MINIMUM IS WORKED OUT
+They take the most a senior can get from the federal Old Age Security pension (OAS) and the Guaranteed Income Supplement (GIS), and subtract the amount you're supposed to be left with each month ($373 in 2026, adjusted yearly). Then they round down to the nearest $100.
+
+Using the federal amounts for October to December 2026:
+
+**One person:** $1,500 a month.
+
+**A couple:** $2,100 a month.
+
+If your room is under 300 square feet, the lodge MAY take up to $100 off. It doesn't have to.
+
+## WHEN
+**Lodges must start charging the minimum no later than January 1, 2028.** They're allowed to start sooner, in 2027.
+
+## THE PART THAT WORRIES US
+The rules say each lodge resident must be left with at least **$373 a month** after paying the lodge rate. But that protection is written "subject to" the new minimum. **So if your income is too low to pay $1,500 AND keep $373, the minimum still gets charged, and you're left with less.**
+
+Here's what that looks like for one person at $1,500 a month:
+
+**Senior with the full OAS and GIS:** about $401 left.
+
+**AISH ($1,940):** about $440 left.
+
+**ADAP ($1,740):** about $240 left. **That's BELOW the $373 the rules are supposed to protect.**
+
+**Seniors who get less than the full OAS** (for example, partial OAS because of years outside Canada) also end up below $373.
+
+The order covers lodge residents who get OAS and GIS, OR "benefits under the Assured Income for the Severely Handicapped Act." ADAP runs under that same Act, so **ADAP clients are included.**
+
+## WHAT YOU CAN DO
+**If you live in a lodge, ask your lodge in writing:** "Will you be charging the minimum lodge rate from Ministerial Order 2026-032, and starting when? What will my monthly rate be?"
+
+**Copy your MLA and Marie Renaud's office** (St.Albert@assembly.ab.ca). The fall sitting of the Legislature starts October 27.
+
+**If you're on AISH or ADAP and live in a lodge, please reach out to us.** I want to hear how your rate is set now, so we can see exactly who this reaches. The campaign line is **587-590-3590**.
+
+Ministerial Order 2026-032 is posted on the King's Printer site under Assisted Living and Social Services.`
+      },
+      {
         title: "Community resource: can't find a doctor? Here's where to look (October 26, 2026)",
         date: "2026-10-26",
         streams: ["AISH / ADAP / CPP-D", "Income Support", "Seniors Benefits CPP/CPPD", "Continuing Care / Home Care", "General Topics"],
