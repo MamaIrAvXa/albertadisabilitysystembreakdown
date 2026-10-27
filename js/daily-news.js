@@ -9,6 +9,116 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-10-26",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — October 26, 2026",
+    body: `Nothing changed for AISH, ADAP or Income Support in what I could read tonight. A few sources couldn't be opened (the Alberta Gazette and some federal listings), so I'm saying "in what I could read," not "nothing changed."
+
+## PAYDAY IS TOMORROW
+**The November payment for AISH, ADAP and Income Support goes out tomorrow, Tuesday, October 27.**
+
+Coming up: December payment November 25, January payment December 22.
+
+The cheque line still isn't updating. **If your money isn't there, wait 48 hours after payday before calling.** If your benefits were going on hold, you'd get a letter first.
+
+## COUPLES: CHECK YOUR STATEMENT
+On October 6, the government said affected couples will get the full benefit amount again, plus back pay to August, "before the end of the year." **No action is required.** They haven't said which cheque. **Tomorrow's statement is the first one to watch.** If you see a change, reach out to us.
+
+## ENERGY REBATE: 5 DAYS LEFT
+The $100 Alberta Energy Rebate closes **Saturday, October 31.**
+
+**On AISH, ADAP or Income Support BEFORE July 1?** It's automatic.
+
+**Started AFTER July 1?** You have to apply yourself, through the portal.
+
+It's not taxable and won't affect your other benefits.
+
+**The phone line is only open Monday to Friday, so if you need help, call by Friday.**
+
+## THE LEGISLATURE IS BACK TOMORROW
+The fall sitting starts **Tuesday, October 27**, and runs into early December, with a week off November 9 to 13. **This is the time to email your MLA about anything you want raised.**
+
+## LODGE RESIDENTS
+If you missed it, see our post about the new minimum lodge rate in the [field notes](https://albertadisabilitysystembreakdown.netlify.app/#field-notes). **If you're on AISH or ADAP and live in a lodge, please reach out to us.**
+
+## CANADA DISABILITY BENEFIT
+The federal $150 supplement took legal effect September 1, 2026. **You don't need to apply.**
+
+I'll be watching tomorrow's payment and the first day of the sitting.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-26",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — October 26, 2026",
+    body: `Nothing changed for Alberta seniors in what I could read tonight. I couldn't read the new lodge rules starting in January (they aren't posted in full yet), the Social Security Tribunal or the Federal Court of Appeal.
+
+## PAYMENTS
+**Alberta Seniors Benefit was paid TODAY.** If it's not in your account, give it one business day before you call. Next: November 24 and December 17.
+
+**OAS and CPP land this WEDNESDAY, October 28.** Next: November 26 and December 22.
+
+## ENERGY REBATE: 5 DAYS LEFT
+If you started on the Alberta Seniors Benefit **after July 1**, the $100 Energy Rebate won't come on its own. Apply by **Saturday, October 31.** It won't affect your other benefits. **The phone line is only open Monday to Friday, 8:15 a.m. to 4:30 p.m., so call by Friday if you need help.**
+
+## EYE CARE FROM NOVEMBER 1
+Starting November 1, some specially trained optometrists can do certain laser and minor procedures right in their office. The announcement says nothing about cost. **Ask before you book whether it's covered.**
+
+## THE LEGISLATURE IS BACK TOMORROW
+The fall sitting starts **Tuesday, October 27**, and runs into early December, with a week off November 9 to 13. I'll be watching for anything that touches seniors' benefits or care.
+
+## FEDERAL MAID BILL
+The federal government is holding a briefing tomorrow, October 27, on its medical assistance in dying bill. **The text isn't out yet.** I'll read it when it's tabled and report only what it says.
+
+## FEDERAL BUDGET: NOVEMBER 5
+The federal budget comes out **Thursday, November 5.** I'll check it for OAS, GIS, CPP, dental and caregiver changes.
+
+## LODGES
+See our post about the new minimum lodge rate starting in January, in the [field notes](https://albertadisabilitysystembreakdown.netlify.app/#field-notes).
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-26",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — October 26, 2026",
+    body: `Nothing changed for FSCD, PDD or school rules in what I could read tonight. Two sources couldn't be read (a federal orders database and the newest Alberta Gazette issue), so I'm saying "in what I could read."
+
+## NEW: MONEY FOR INDEPENDENT AND SPECIAL EDUCATION PRIVATE SCHOOLS
+Today Alberta announced a 3-year, **$90-million Independent School Capital program**, to build more student spaces. It includes "designated special education private schools." One Calgary school is getting $666,667 for 80 spaces "for students with specialized education needs." More rounds are planned: $25 million in 2027-28 and $30 million in 2028-29.
+
+**This is a funding announcement. It doesn't change what any school has to do for your child.**
+
+## FLAG AND ANTHEM RULES: STILL NOT IN FORCE
+The part of the new Education Act changes that adds the anthem rules hasn't been brought into force yet. The only flag rule in force today is one sentence: schools must display the Canadian and Alberta flags.
+
+## DENTAL PLAN: THE WEBSITE HASN'T CAUGHT UP
+A federal order on October 21 cancelled the dental plan debts of people who wrongly said they had no private coverage. But the Canadian Dental Care Plan's own pages still say you "may be required to reimburse" them, and don't mention the change.
+
+**If you got a repayment bill, keep it, and keep every letter.**
+
+## ALBERTA CHILD HEALTH BENEFIT FAMILIES
+Alberta tells you to send dental claims to the federal plan FIRST. What Alberta's page doesn't explain: to join the federal plan, you say you have NO private dental coverage. **That includes health spending accounts that cover dental. Only say no if it's true for your family.**
+
+## FSCD
+No change to the FSCD rules or rates. The FSCD policy manual's last update is still February 20, 2026.
+
+## ENERGY REBATE: 5 DAYS LEFT
+The $100 rebate closes **Saturday, October 31.** If you joined AISH, ADAP or Income Support after July 1, apply yourself.
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-10-25",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — October 25, 2026",
