@@ -60,7 +60,7 @@ _The Alberta Disability System Breakdown (an informational group)_
 
 **Copy Marie Renaud's office:** St.Albert@assembly.ab.ca
 
-**You're welcome to use any part of my email in yours.**
+**You're welcome to use any part of my email in yours.** Or use the ready-to-send version, written for you to send to your own MLA, in the [Email a Letter](https://albertadisabilitysystembreakdown.netlify.app/#email-letters) section of this site.
 
 Read the bill yourself: [Bill 33, Justice Statutes Amendment Act, 2026 (No. 2)](https://docs.assembly.ab.ca/LADDAR_files/docs/bills/bill/legislature_31/session_2/20251023_bill-033.pdf)
 

@@ -14,6 +14,39 @@
    ─────────────────────────────────────────────────────────────── */
 const EMAIL_LETTERS = [
   {
+    id: "bill-33-mla",
+    title: "NEW \u2014 Bill 33: ask your MLA to protect disability hiring programs",
+    blurb: "Bill 33 would stop the government, school boards, health agencies, municipalities and publicly funded agencies from running programs to hire or promote disabled people. It names physical and mental disability directly. This asks your own MLA to question it, support an amendment, and tell you in writing where they stand. The bill has only had its first reading, so it can still change.",
+    to: "",
+    toHint: "Send it to <b>your own MLA</b>. Find yours by putting your address in at <b>elections.ab.ca</b>, under \"Find my electoral division.\" Each MLA's email is on their page at <b>assembly.ab.ca</b>.",
+    cc: "St.Albert@assembly.ab.ca",
+    ccHint: "Already filled in: Marie Renaud's office, the Opposition critic for disability programs. If your own MLA <i>is</i> Marie Renaud (St. Albert), you can leave the copy line empty.",
+    subject: "Bill 33 and disabled Albertans: please protect disability hiring programs",
+    note: "Fill in everything in [brackets]. Your address matters: MLAs give the most weight to people who live in their constituency. The optional line about you is the part that gets read most closely, so a sentence or two in your own words helps. Keep a copy of what you send, with the date, and if you get an answer, send it to us.",
+    body:
+`Dear [MLA's name],
+
+I live in your constituency, in [your town or neighbourhood]. I am writing about Bill 33, the Justice Statutes Amendment Act, 2026 (No. 2).
+
+Bill 33 adds a new section 10.2 to the Alberta Human Rights Act. It would stop "provincial bodies" from running programs to hire or promote people who face disadvantage, and the bill's list includes physical disability and mental disability. Provincial bodies include the Alberta government, school boards, health agencies, universities and colleges, municipalities, and any organization that gets government funding to provide a public service. That could include the agencies that provide disability services and employment supports.
+
+At the same time, ADAP is moving disabled Albertans toward work. This bill would close one of the ways disabled people get hired, just as people are being pushed toward jobs.
+
+[Optional: one or two sentences about what this means for you or someone you love. Delete this line if you would rather not say.]
+
+I am asking you to:
+1. Ask the government whether any analysis was done of how Bill 33 affects disabled Albertans, and to release it.
+2. Support an amendment that takes physical and mental disability out of section 10.2, or that protects disability hiring programs and the agencies that serve disabled people.
+3. Tell me in writing where you stand on this bill.
+
+I understand the bill does not change the protection against disability discrimination or the duty to accommodate. This is about the programs that help disabled people get hired in the first place.
+
+Thank you,
+[Your name]
+[Your address, so your MLA knows you live in the constituency]
+[Your phone or email]`
+  },
+  {
     id: "no-answer-followup",
     title: "NEW \u2014 When AISH or ADAP won't answer your email: the follow-up",
     blurb: "You asked in writing and the emails just stopped. Forward your original email (don't start a new one, so the date you first asked is right there) and paste this at the top. It says which request this is, that email is your accommodation, and asks for a supervisor to contact you. Copy your MLA and the Opposition critic's office so it's on the record.",
