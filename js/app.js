@@ -532,6 +532,7 @@ const MINISTERIAL = [
 
 // ─── Data: Featured flyers (subset of /pdfs/aish-adap/flyers/posters/) ───
 const FLYERS = [
+  { label: "Start Here \u2014 Welcome To The Alberta Disability System Breakdown", img: "Alberta Disability Support Community Guide.png" },
   { label: "Coalition Media Release \u2014 Prove The $247M Employment System Works, Sept 23 2026", img: "Coalition_Media_Release_Sep23_2026.png" },
   { label: "New \u2014 Heat Transfers, $10 Each, Shipping Included", img: "heat-transfers-2026-09.png" },
   { label: "If Your Payment Came In Short \u2014 Read This", img: "f49c5cc8-46cb-479c-944a-a9fa18de4f6e.png" },

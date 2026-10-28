@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="New to The Alberta Disability System Breakdown? Who we are, how to reach us, the words you'll see, the golden rules, and AISH and ADAP office emails.">
+<meta property="og:title" content="Start Here: The Alberta Disability System Breakdown">
+<meta property="og:description" content="Who we are, how to get help, and the golden rules for dealing with AISH and ADAP.">
+<meta property="og:type" content="article">
+<title>Start Here</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+<style>
+:root {
+  --paper:      #0b1626;
+  --card:       #12213a;
+  --ink:        #f6f5f1;
+  --soft:       #b4bdca;
+  --rule:       #26375a;
+  --anchor:     #f2c14e;
+  --flag:       #f2c14e;
+  --anchor-wash:#1a2b48;
+  --display: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --body:    "Source Serif 4", Georgia, "Times New Roman", serif;
+}
+* { box-sizing: border-box; }
+html { color-scheme: dark; }
+img { max-width: 100%; }
+[hidden] { display: none !important; }
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--body);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.wrap {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 2.5rem 4rem;
+}
+
+h1, h2, h3, .eyebrow, .qlabel { font-family: var(--display); text-wrap: balance; }
+
+.eyebrow {
+  font-size: .72rem; font-weight: 600; letter-spacing: .14em;
+  text-transform: uppercase; color: var(--soft); margin: 0 0 .75rem;
+}
+h1 { font-size: clamp(2rem, 7vw, 2.9rem); font-weight: 700; line-height: 1.08; letter-spacing: -.015em; margin: 0 0 1rem; }
+.standfirst { font-size: 1.2rem; line-height: 1.5; color: var(--soft); margin: 0 0 2rem; max-width: 34rem; }
+h2 {
+  font-size: 1.45rem; font-weight: 700; letter-spacing: -.01em; line-height: 1.2;
+  margin: 3.5rem 0 .5rem; padding-top: 1.75rem; border-top: 1px solid var(--rule);
+}
+h2:first-of-type { margin-top: 2.5rem; }
+h3 { font-size: 1.05rem; font-weight: 600; margin: 2rem 0 .4rem; }
+p { margin: 0 0 1rem; }
+a { color: var(--anchor); }
+strong { font-weight: 600; }
+.cite { font-family: var(--display); font-size: .8rem; color: var(--soft); white-space: nowrap; }
+
+.quotes { display: flex; flex-direction: column; gap: .6rem; margin: 1.5rem 0 1.75rem; }
+.q {
+  background: var(--card); border: 1px solid var(--rule); border-left: 3px solid var(--flag);
+  border-radius: 2px; padding: .8rem 1rem; font-size: 1.05rem; min-width: 0;
+}
+.after { font-family: var(--display); font-size: 1.05rem; font-weight: 600; line-height: 1.45; margin: 0 0 1rem; }
+
+.checklist { display: grid; gap: .9rem; margin: 1.5rem 0; padding: 0; list-style: none; }
+.checklist li { display: grid; grid-template-columns: 1.6rem 1fr; gap: .7rem; align-items: start; min-width: 0; }
+.box { width: 1.1rem; height: 1.1rem; margin-top: .32rem; border: 1.5px solid var(--soft); border-radius: 2px; }
+.checklist b { font-family: var(--display); font-weight: 600; }
+.checklist span { color: var(--soft); }
+
+.phrase { background: var(--card); border: 1px solid var(--rule); border-radius: 3px; padding: 1rem 1.1rem; margin: 0 0 .85rem; min-width: 0; }
+.phrase .said { font-weight: 600; color: var(--flag); margin: 0 0 .35rem; }
+.phrase .means { margin: 0; }
+.phrase .ask {
+  margin: .6rem 0 0; padding-top: .6rem; border-top: 1px dashed var(--rule);
+  font-family: var(--display); font-size: .95rem; font-weight: 500;
+}
+.phrase .ask em { font-style: normal; color: var(--soft); }
+
+ol.steps { padding-left: 0; list-style: none; counter-reset: s; display: grid; gap: 1.1rem; margin: 1.5rem 0; }
+ol.steps li { counter-increment: s; display: grid; grid-template-columns: 2rem 1fr; gap: .8rem; min-width: 0; }
+ol.steps li::before { content: counter(s); font-family: var(--display); font-weight: 700; font-size: .95rem; color: var(--flag); padding-top: .18rem; }
+
+.pull { background: var(--anchor-wash); border-radius: 3px; padding: 1.1rem 1.2rem; margin: 1.75rem 0; min-width: 0; }
+.pull p:last-child { margin-bottom: 0; }
+.pull .eyebrow { margin-bottom: .5rem; }
+
+.letter { background: var(--card); border: 1px solid var(--rule); border-radius: 3px; padding: 1.25rem; margin: 1.5rem 0; min-width: 0; }
+.letter p { margin: 0 0 .9rem; }
+.letter p:last-child { margin-bottom: 0; }
+.letter .qlabel { display: block; font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; color: var(--soft); font-weight: 600; margin: 0 0 .9rem; }
+
+ul.plain { padding-left: 1.1rem; margin: 1rem 0; }
+ul.plain li { margin-bottom: .5rem; }
+
+.where { display: grid; gap: 1.1rem; margin: 1.5rem 0; }
+.where div { min-width: 0; }
+.where b { font-family: var(--display); font-weight: 600; display: block; }
+.where span { color: var(--soft); }
+
+footer { margin-top: 4rem; padding-top: 1.75rem; border-top: 1px solid var(--rule); font-size: .92rem; color: var(--soft); }
+footer h3 { font-size: .95rem; margin-top: 1.5rem; color: var(--ink); }
+footer a { word-break: break-word; }
+.stamp { font-family: var(--display); font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; }
+.site-back { font-family: var(--display); font-size: .9rem; margin: 0 0 1.5rem; }
+.site-back a { color: var(--anchor); text-decoration: none; }
+.site-back a:hover { text-decoration: underline; }
+
+dl.terms { margin: 1.25rem 0; display: grid; gap: .9rem; }
+dl.terms div { min-width: 0; }
+dl.terms dt { font-family: var(--display); font-weight: 600; }
+dl.terms dd { margin: .15rem 0 0; color: var(--soft); }
+ol.rules { padding-left: 0; list-style: none; counter-reset: r; display: grid; gap: 1.1rem; margin: 1.5rem 0; }
+ol.rules li { counter-increment: r; display: grid; grid-template-columns: 2rem 1fr; gap: .8rem; min-width: 0; }
+ol.rules li::before { content: counter(r); font-family: var(--display); font-weight: 700; font-size: 1.05rem; color: var(--flag); padding-top: .1rem; }
+ol.rules b { font-family: var(--display); font-weight: 600; }
+.zones { display: grid; gap: .7rem; margin: 1.25rem 0; padding: 0; list-style: none; }
+.zones li { background: var(--card); border: 1px solid var(--rule); border-radius: 3px; padding: .75rem 1rem; min-width: 0; }
+.zones b { font-family: var(--display); font-weight: 600; display: block; }
+.zones a { word-break: break-word; }
+.crisis { background: var(--anchor-wash); border-left: 3px solid var(--flag); border-radius: 3px; padding: 1.1rem 1.2rem; margin: 1.5rem 0; }
+.crisis ul { margin: .5rem 0 0; padding-left: 1.1rem; }
+.closing { font-family: var(--display); font-size: 1.15rem; font-weight: 600; margin-top: 2.5rem; }
+.poster { display: grid; grid-template-columns: 5.5rem 1fr; gap: 1rem; align-items: center; background: var(--card); border: 1px solid var(--rule); border-radius: 3px; padding: .9rem 1rem; margin: 0 0 2rem; min-width: 0; }
+.poster img { width: 100%; height: auto; border-radius: 2px; display: block; }
+.poster p { margin: 0; }
+.poster p + p { margin-top: .3rem; color: var(--soft); font-size: .95rem; }
+</style>
+</head>
+<body>
+<main class="wrap">
+
+  <p class="site-back"><a href="/">&larr; Back to The Alberta Disability System Breakdown</a></p>
+
+  <p class="eyebrow">Start here</p>
+  <h1>Welcome to The Alberta Disability System Breakdown</h1>
+  <p class="standfirst">Welcome! If you're new, or you've ever felt lost reading a post here, this one's for you. Please read it before you post or ask a question. It'll save you time and stress.</p>
+
+  <div class="poster">
+    <a href="/pdfs/aish-adap/flyers/posters/Alberta%20Disability%20Support%20Community%20Guide.png" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img src="/pdfs/aish-adap/flyers/posters/Alberta%20Disability%20Support%20Community%20Guide.png" alt="" width="1024" height="1536" loading="lazy"></a>
+    <div>
+      <p><a href="/pdfs/aish-adap/flyers/posters/Alberta%20Disability%20Support%20Community%20Guide.png" target="_blank" rel="noopener"><strong>Get this page as a poster</strong></a> to print, save or share.</p>
+      <p>Everything on the poster is written out on this page too.</p>
+    </div>
+  </div>
+
+  <h2>Who we are</h2>
+  <p>The Alberta Disability System Breakdown is an informational group, run by me, Chantal Trepanier. I'm a parent and a disability advocate. I read the government's own laws, rules and pages, and explain them in plain language.</p>
+  <p><strong>What we are NOT:</strong></p>
+  <ul class="plain">
+    <li><strong>Not the government.</strong> We don't work for AISH, ADAP or any ministry.</li>
+    <li><strong>Not lawyers or doctors.</strong> We share information, not legal or medical advice.</li>
+    <li><strong>Not a political party.</strong> We don't tell anyone how to vote. Members here hold all kinds of views, and everyone's welcome.</li>
+    <li><strong>Not a crisis service.</strong> If you're in crisis, see <a href="#crisis">the bottom of this page</a>.</li>
+  </ul>
+
+  <h2>You don't have to do this alone</h2>
+  <p>Before anything else: ask for help. That's what I'm here for. Nobody is expected to figure this out on their own.</p>
+  <p><strong>I can:</strong></p>
+  <ul class="plain">
+    <li>answer your questions</li>
+    <li>help you understand a letter or decision</li>
+    <li>draft emails and letters with you</li>
+    <li>send you a link to the form you need</li>
+  </ul>
+  <p><strong>Reach me however works best for you:</strong></p>
+  <ul class="plain">
+    <li>Message me on Facebook</li>
+    <li>Email: <a href="mailto:AlbertaDisabilityBreakdown@outlook.com">AlbertaDisabilityBreakdown@outlook.com</a></li>
+    <li>Call or text: <a href="tel:+15875903590">(587) 590-3590</a></li>
+  </ul>
+  <p>I get to every message and call before I sign off for the night.</p>
+
+  <h2>Words you'll see a lot</h2>
+  <dl class="terms">
+    <div><dt>AISH</dt><dd>Assured Income for the Severely Handicapped. Alberta's income program for people whose disability prevents them from working.</dd></div>
+    <div><dt>ADAP</dt><dd>The Alberta Disability Assistance Program. It started July 2, 2026, for people the government says can do some work. Many people were moved from AISH to ADAP.</dd></div>
+    <div><dt>CDB</dt><dd>The Canada Disability Benefit, a federal monthly payment. Alberta counts it as income and takes it off AISH and ADAP payments.</dd></div>
+    <div><dt>Your local AISH/ADAP office</dt><dd>The office that handles your file. <a href="#offices">Email addresses are below.</a></dd></div>
+    <div><dt>Regulation</dt><dd>The detailed rules made under a law. Most AISH and ADAP rules are in one called AR 96/2026.</dd></div>
+    <div><dt>Policy manual</dt><dd>The government's instructions to staff on how to apply the rules.</dd></div>
+    <div><dt>MLA</dt><dd>Your Member of the Legislative Assembly, the person elected to represent your area.</dd></div>
+  </dl>
+
+  <h2>The golden rules</h2>
+  <p>These come up in almost every post, so here's why we say them. You don't have to do any of these alone. Reach out and we'll do them together.</p>
+  <ol class="rules">
+    <li><div><b>Put it in writing.</b> An email leaves a record of what you asked, when you asked it, and what they said. A phone call doesn't. Writing is also an accommodation for people who can't use the phone. If you do call, send a short email afterward summarizing the call.</div></li>
+    <li><div><b>Put your full name and file number in the subject line, every time.</b> Your email may not show your name on their end, and a nickname email address doesn't tell them who you are. Your file number is on your letters or your health benefits card.</div></li>
+    <li><div><b>Keep copies of everything you send and get, with the dates.</b></div></li>
+    <li><div><b>Report changes.</b> Tell your office in writing about any change in your income, assets, address, work or household, even when it won't change your payment. Reporting protects you.</div></li>
+    <li><div><b>Ask for decisions in writing.</b> If they say no, ask for the decision and the reason in writing. You need that to ask for a review or an appeal.</div></li>
+    <li><div><b>You can ask for accommodations.</b> If your disability makes something hard (like phone calls), you can ask in writing for them to contact you another way, and ask them to put it on your file.</div></li>
+    <li><div><b>Copy (cc) your MLA when you're stuck.</b> Find yours at <a href="https://www.elections.ab.ca/">elections.ab.ca</a>, under "Find my electoral division."</div></li>
+  </ol>
+
+  <h2 id="offices">AISH and ADAP office emails</h2>
+  <p>From the government's contact page (<a href="https://www.alberta.ca/contact-aish-and-adap">alberta.ca/contact-aish-and-adap</a>):</p>
+  <ul class="zones">
+    <li><b>North zone, including all Edmonton offices and St. Albert</b><a href="mailto:alss.northzonedia@gov.ab.ca">alss.northzonedia@gov.ab.ca</a></li>
+    <li><b>Calgary area, including Airdrie, Canmore and Claresholm</b><a href="mailto:calgaryaish@gov.ab.ca">calgaryaish@gov.ab.ca</a></li>
+    <li><b>Central zone, including Red Deer</b><a href="mailto:aish.centralregion@gov.ab.ca">aish.centralregion@gov.ab.ca</a></li>
+    <li><b>South zone, including Lethbridge and Medicine Hat</b><a href="mailto:southaish@gov.ab.ca">southaish@gov.ab.ca</a></li>
+    <li><b>Urgent help, 24 hours (for example, if you have no money for food or shelter)</b><a href="mailto:alss.iscc@gov.ab.ca">alss.iscc@gov.ab.ca</a>, or call <a href="tel:+18666445135">1-866-644-5135</a></li>
+  </ul>
+  <p>Not sure which zone you're in? Find your town on the contact page, or just ask me.</p>
+
+  <h2>Your privacy</h2>
+  <p>To protect everyone's privacy, I regularly delete messages and emails on my end. That way, if the worst ever happened and one of my accounts was hacked, your personal information wouldn't be sitting there.</p>
+  <p><strong>What that means for you:</strong></p>
+  <ul class="plain">
+    <li>Keep your own copies of what we've talked about, especially letters and emails we wrote together.</li>
+    <li>When you message me about something we talked about before, a quick reminder of the details helps a lot. Something like: "You helped me with my CDB letter last month. Here's what happened next."</li>
+    <li>Please bear with me if I need a moment to remember. I'm one person helping a lot of people, and I'd rather protect your information than keep it.</li>
+  </ul>
+
+  <h2>Where to find things</h2>
+  <ul class="plain">
+    <li><a href="/#daily-news"><strong>Where Things Stand</strong></a>: my nightly plain-language update on what changed today. There's a main update, one for Seniors, and one for Kids and Families.</li>
+    <li><a href="/#tea-time"><strong>Saturday Tea Time</strong></a>: our weekly live chat.</li>
+    <li><strong>Our website</strong>, albertadisabilitysystembreakdown.netlify.app, has <a href="/#take-action">free fill-in forms</a>, like a request for a copy of your own AISH/ADAP file, <a href="/#email-letters">letters</a>, and plain-language guides.</li>
+  </ul>
+
+  <h2>Group rules</h2>
+  <ul class="plain">
+    <li><strong>Be kind.</strong> Everyone here is dealing with a lot.</li>
+    <li><strong>Keep private details private.</strong> Don't post your file number, address, health details or anyone else's in public. Send me a private message instead.</li>
+    <li>When members share their stories, I post them without names.</li>
+    <li>No telling people how to vote, and no advertising.</li>
+    <li>If I get something wrong, I'll correct it publicly, in the same place I said it.</li>
+  </ul>
+
+  <h2>When you post a question</h2>
+  <p>Tell us: are you on AISH or ADAP, what happened, and what you've already tried. The more we know, the better we can help.</p>
+
+  <h2 id="crisis">If you're in crisis</h2>
+  <div class="crisis">
+    <ul>
+      <li>Call or text <strong>988</strong> any time, day or night.</li>
+      <li>If you or someone else is in danger, call <strong>911</strong>.</li>
+    </ul>
+  </div>
+
+  <p class="closing">I'm so glad you're here. You're not alone in this anymore.</p>
+
+  <footer>
+    <p>This page shares information, not legal or medical advice.</p>
+    <p class="site-back"><a href="/">&larr; Back to The Alberta Disability System Breakdown</a></p>
+  </footer>
+
+</main>
+</body>
+</html>
