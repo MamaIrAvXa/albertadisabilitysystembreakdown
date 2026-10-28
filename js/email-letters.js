@@ -16,7 +16,7 @@ const EMAIL_LETTERS = [
   {
     id: "bill-33-mla",
     title: "NEW \u2014 Bill 33: ask your MLA to protect disability hiring programs",
-    blurb: "Bill 33 would stop the government, school boards, health agencies, municipalities and publicly funded agencies from running programs to hire or promote disabled people. It names physical and mental disability directly. This asks your own MLA to question it, support an amendment, and tell you in writing where they stand. The bill has only had its first reading, so it can still change.",
+    blurb: "Bill 33 would stop the government, school boards, health agencies, municipalities and publicly funded agencies from running programs to hire or promote disabled people onto their own staff. It names physical and mental disability directly. This asks your own MLA to question it, support an amendment, and tell you in writing where they stand. The bill has only had its first reading, so it can still change.",
     to: "",
     toHint: "Send it to <b>your own MLA</b>. Find yours by putting your address in at <b>elections.ab.ca</b>, under \"Find my electoral division.\" Each MLA's email is on their page at <b>assembly.ab.ca</b>.",
     cc: "St.Albert@assembly.ab.ca",
@@ -28,9 +28,9 @@ const EMAIL_LETTERS = [
 
 I live in your constituency, in [your town or neighbourhood]. I am writing about Bill 33, the Justice Statutes Amendment Act, 2026 (No. 2).
 
-Bill 33 adds a new section 10.2 to the Alberta Human Rights Act. It would stop "provincial bodies" from running programs to hire or promote people who face disadvantage, and the bill's list includes physical disability and mental disability. Provincial bodies include the Alberta government, school boards, health agencies, universities and colleges, municipalities, and any organization that gets government funding to provide a public service. That could include the agencies that provide disability services and employment supports.
+Bill 33 adds a new section 10.2 to the Alberta Human Rights Act. It would stop "provincial bodies" from running programs to hire or promote people who face disadvantage, and the bill's list includes physical disability and mental disability. Provincial bodies include the Alberta government, school boards, health agencies, universities and colleges, municipalities, and any organization that gets government funding to provide a public service. That could include the agencies that provide disability services and employment supports, for their own staff. As I read it, it does not stop those agencies helping people find jobs with other employers.
 
-At the same time, ADAP is moving disabled Albertans toward work. This bill would close one of the ways disabled people get hired, just as people are being pushed toward jobs.
+At the same time, ADAP is moving disabled Albertans toward work. This bill would close one of the ways disabled people get hired in the public sector, just as people are being pushed toward jobs.
 
 [Optional: one or two sentences about what this means for you or someone you love. Delete this line if you would rather not say.]
 

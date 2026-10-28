@@ -19,7 +19,10 @@ const FIELD_NOTES = [
         title: "Bill 33: I've sent it to Marie Renaud's office (October 27, 2026)",
         date: "2026-10-27",
         streams: ["AISH / ADAP / CPP-D", "Income Support", "General Topics"],
-        body: `I didn't want to sit on this. Tonight I emailed MLA Marie Renaud's office about Bill 33, the bill that would end DEI hiring programs in the public sector. Marie Renaud is the Opposition critic for disability programs. Here's exactly what I sent, so you know what's been raised on your behalf.
+        body: `## CLARIFICATION (October 27, 2026)
+A member asked whether Bill 33 shuts down the agencies that help ADAP clients find jobs. On the bill's wording, it doesn't. The ban is on a "provincial body's" **OWN** hiring and promotion. A government-funded agency couldn't run a program to hire disabled people onto its own staff, but helping clients find jobs with other employers isn't covered by the ban. Where I wrote that the bill could stop "the agencies that support us" from running hiring programs, that means their own hiring, not their job placement services.
+
+I didn't want to sit on this. Tonight I emailed MLA Marie Renaud's office about Bill 33, the bill that would end DEI hiring programs in the public sector. Marie Renaud is the Opposition critic for disability programs. Here's exactly what I sent, so you know what's been raised on your behalf.
 
 **One term to know:** an "ameliorative measure" is a program meant to improve things for a group that faces disadvantage, like a program to hire more disabled people.
 
@@ -70,7 +73,10 @@ I'll post when I hear back. If you have questions, reach out to us on the campai
         title: "Bill 33: what it means for disabled Albertans (October 27, 2026)",
         date: "2026-10-27",
         streams: ["AISH / ADAP / CPP-D", "Income Support", "General Topics"],
-        body: `A lot of you have sent me the news about the government ending DEI hiring. I read the bill itself, not just the news stories. Here's what it says, in plain words.
+        body: `## CLARIFICATION (October 27, 2026)
+A member asked whether Bill 33 shuts down the agencies that help ADAP clients find jobs. On the bill's wording, it doesn't. The ban is on a "provincial body's" **OWN** hiring and promotion. A government-funded agency couldn't run a program to hire disabled people onto its own staff, but helping clients find jobs with other employers isn't covered by the ban. Where I wrote that the bill could stop "the agencies that support us" from running hiring programs, that means their own hiring, not their job placement services.
+
+A lot of you have sent me the news about the government ending DEI hiring. I read the bill itself, not just the news stories. Here's what it says, in plain words.
 
 ## WHAT IT IS
 Bill 33 is called the **Justice Statutes Amendment Act, 2026 (No. 2).** It's sponsored by the Minister of Justice and was introduced on October 27, 2026. **It is NOT law yet.** It has only had its first reading.
@@ -93,7 +99,7 @@ The only way around it is an exemption that cabinet grants through regulations.
 
 **ANY organization that gets government funding to provide a public service**, unless cabinet excludes it.
 
-That last one matters. Some news stories said non-profits might be added later. **The bill already includes them.** That could cover the agencies that provide disability services and employment supports.
+That last one matters. Some news stories said non-profits might be added later. **The bill already includes them.** That could cover the agencies that provide disability services and employment supports, but only for **their own** hiring of staff. It doesn't stop them helping you find a job with another employer.
 
 First Nations bands and Métis settlements are not included.
 

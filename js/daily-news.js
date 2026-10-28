@@ -9,6 +9,229 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-10-27",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — October 27, 2026",
+    body: `Good evening, everyone. A big day. The November payment went out, couples got their back pay, and the Legislature came back with a bill that changes the Alberta Human Rights Act. Here's what I read tonight and what it means for you.
+
+## COUPLES: THE BACK PAY IS HERE
+Members shared their October 27 statements with me. Thank you! Here's what the back pay looks like:
+
+1. It came as a **SEPARATE deposit**, apart from the regular payment.
+
+2. It's labelled **"Underpayment,"** with one line for each month: August, September and October.
+
+3. Each line is about 12% of the base amount. That's the cut that was taken off. On ADAP, that's about **$208 a month**. On AISH, about **$232 a month**.
+
+4. **The November payment is back to the full amount.**
+
+This comes from a few members' statements, not a government notice. If you're part of a couple on AISH or ADAP and you DIDN'T get a separate "Underpayment" deposit, ask your local AISH/ADAP office in writing: _"I was affected by the 88% couples rate. Please confirm when my back pay for August, September and October will be paid, and the amount."_
+
+The government still hasn't said what date the couples rule change took effect.
+
+## IF YOUR PAYMENT ISN'T THERE
+A lot of you told us the cheque line isn't updating. **Check your bank account directly**, since that's the most reliable way to know. If the money isn't there, **give it 48 hours after payday before calling.** If you can't cover rent or food in the meantime, the Alberta Supports emergency line is **1-866-644-5135**.
+
+## BILL 33: WHAT IT WOULD DO, AND WHAT IT WOULDN'T
+Bill 33, the **Justice Statutes Amendment Act, 2026 (No. 2)**, was introduced today by the Minister of Justice. It has had its first reading only. **It is NOT law.** Even if it passes, the Human Rights Act part only takes effect when the government proclaims it (sets a start date).
+
+**What it would do:**
+
+1. Right now, the Alberta Human Rights Act lets employers run programs to help groups who face disadvantage, like a program to hire more disabled people. Bill 33 would stop "provincial bodies" from running those programs for hiring or promotion. **Its list names physical disability and mental disability.**
+
+2. "Provincial bodies" include the Alberta government and its agencies, Crown corporations, health agencies, universities and colleges, school boards, municipalities, police services, and any organization that gets government funding to provide a public service.
+
+3. The only way around it would be an exemption from cabinet, through regulations that don't exist yet.
+
+4. Provincial bodies also couldn't require staff to take training on diversity, equity and inclusion, unconscious bias or cultural competency, unless it's needed to do the job.
+
+**What it would NOT do:**
+
+1. It doesn't change the rule that employers can't discriminate against you because of a disability, when you apply or once you're hired.
+
+2. It doesn't change your employer's duty to accommodate your disability.
+
+3. **It's about each body's OWN hiring.** It doesn't stop employment agencies from helping you find a job somewhere else. Private employers aren't covered at all.
+
+One more thing: the government's news release says hiring would be based on merit "except where a specific characteristic is required to perform the work." **I can't find that exception anywhere in the bill itself.**
+
+Bill 33 is on tomorrow's Order Paper (the Legislature's daily agenda) for second reading, so debate could start tomorrow. I've emailed Marie Renaud's office about it, and there's a template in the group if you want to write your own MLA. It's also in the [Email a Letter](https://albertadisabilitysystembreakdown.netlify.app/#email-letters) section of this site.
+
+Read the bill yourself: [Bill 33, Justice Statutes Amendment Act, 2026 (No. 2)](https://docs.assembly.ab.ca/LADDAR_files/docs/bills/bill/legislature_31/session_2/20251023_bill-033.pdf)
+
+The same bill also changes the Education Act. That part is in tonight's **Where Things Stand for Kids and Families**.
+
+## MOTION 520: THE CDB DEDUCTION
+Marie Renaud has a motion on the Order Paper asking the Legislature to urge the government to cancel the Canada Disability Benefit deduction and pay back what's been taken. **A motion states the Legislature's position. It isn't a law and doesn't force the government to do anything.** There's no date yet for when it will be debated.
+
+Two notes on it:
+
+1. The motion names AISH only. **People on ADAP have their CDB deducted too.**
+
+2. The motion says the deduction is $200 a month. The rule counts the FULL CDB amount, which is up to **$204.20 a month** for July 2026 to June 2027. So the deduction can be a little more than $200.
+
+## YOUR QUESTIONS TODAY
+1. **Cash gifts:** the AISH/ADAP policy manual lists cash gifts as "Fully Exempt," so a gift shouldn't come off your cheque. Still report it in writing, call it a gift, and ask them to confirm it's exempt.
+
+2. **Casual work:** if your hours change from month to month, tell your office in writing that your work is casual, and send your pay stubs as you get them. The policy manual says you "must immediately report" changes in income, whatever your reporting schedule is.
+
+## DATES TO KEEP
+**Wednesday, October 28:** OAS and CPP payments
+
+**Saturday, October 31:** Energy Rebate deadline, if you joined AISH, ADAP or Income Support after July 1 (you have to apply yourself)
+
+**Wednesday, November 25:** December payment
+
+**December 22:** January payment (the government's page lists the wrong weekday, so I'm leaving it off)
+
+**January 1, 2027:** first yearly rate adjustment
+
+## WHAT I COULDN'T CHECK TONIGHT
+The federal news page, both Alberta Gazettes, and a live check of the AISH/ADAP regulation. So: nothing changed AISH, ADAP or the Canada Disability Benefit in what I could read tonight.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-27",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — October 27, 2026",
+    body: `Good evening, everyone. Nothing changed in Alberta seniors' benefits or care in what I could read tonight. There's one new federal bill, and your OAS and CPP land tomorrow.
+
+## OAS AND CPP: TOMORROW
+**Old Age Security and the Canada Pension Plan pay on Wednesday, October 28.** Deposits can take a few days, and Service Canada asks people to wait 5 to 10 business days before calling.
+
+## FOUR DAYS LEFT: THE ENERGY REBATE
+If you started on the Alberta Seniors Benefit **after July 1**, the $100 Energy Rebate won't come on its own. **Apply by Saturday, October 31.** The government says it "will not affect other government benefits." **The phone line is only open Monday to Friday, 8:15 am to 4:30 pm, so call by Friday if you need help.**
+
+## THE MAID UPDATE I PROMISED
+Today the federal government introduced **Bill C-41, the Medical Assistance in Dying Safeguards Act.** From the Justice Canada news release:
+
+1. It would let adults consent in advance to MAID later, after a diagnosis of an incurable illness "expected to take away their ability to make this decision." Dementia is an example.
+
+2. "Provinces and territories … would decide whether to make advance requests available in their jurisdictions."
+
+3. "Canada will not move ahead with expanding MAID to people on the basis of a mental illness."
+
+**This is a bill, not law.** Alberta also has its own law, the Safeguards for Last Resort Termination of Life Act, which received royal assent (final approval) on March 18, 2026. The government's page says it will prohibit MAID in Alberta for advance requests, and for people who can't make their own health-care decisions. I haven't confirmed whether those parts are in force yet.
+
+**So nothing changes for Alberta families today.** If you or a parent has a dementia diagnosis and wants to plan ahead, a **personal directive** is still the tool Alberta law recognizes. That's a document naming who makes your personal and health decisions if you can't. I couldn't open the bill's full text tonight. I'll read it and report back.
+
+## EYE CARE: STARTING SUNDAY
+From **November 1**, optometrists with extra training can do certain minor surgical and laser procedures in their offices. The government hasn't said how these will be billed. **Before your appointment, ask whether it's covered by Alberta Health or whether you'll pay.**
+
+## FEDERAL BUDGET: NOVEMBER 5
+The federal government will table Budget 2026 on **Thursday, November 5.** I'll look for anything touching OAS, GIS, CPP, dental care or caregivers.
+
+## RE-CHECKED TONIGHT
+1. **OAS, October to December 2026:** up to $762.50 a month if you're 65 to 74, and up to $838.75 if you're 75 or older.
+
+2. **Guaranteed Income Supplement (GIS), single:** up to $1,138.90 a month.
+
+3. **CPP retirement at 65, 2026 maximum:** $1,507.65 a month.
+
+4. **Alberta Seniors Benefit and Special Needs Assistance income limits:** $32,690 single, $53,800 for a couple.
+
+5. **Continuing care:** the $373 a month you keep for yourself hasn't changed.
+
+## ALSO TODAY
+Bill 33 was introduced in the Legislature. It's not a seniors bill, but it changes the Alberta Human Rights Act. See tonight's main **Where Things Stand**.
+
+## DATES TO KEEP
+**Wednesday, October 28:** OAS and CPP
+
+**Saturday, October 31:** Energy Rebate deadline
+
+**Sunday, November 1:** eye care changes start
+
+**Thursday, November 5:** federal budget
+
+**Tuesday, November 24:** Alberta Seniors Benefit
+
+**Thursday, November 26:** OAS and CPP
+
+**Thursday, December 17:** Alberta Seniors Benefit
+
+**Tuesday, December 22:** OAS and CPP
+
+## WHAT I COULDN'T CHECK TONIGHT
+The federal bill itself, the Social Security Tribunal, and the new lodge rules that start in January.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-27",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — October 27, 2026",
+    body: `Good evening, everyone. A bill introduced today would change when a student can be suspended or expelled, and the government's news release about it doesn't mention schools at all. No FSCD rate changed.
+
+## BILL 33 AND SCHOOLS
+Bill 33, the **Justice Statutes Amendment Act, 2026 (No. 2)**, had its first reading today. **It is NOT law.** Even if it passes, the school parts only take effect when the government proclaims them (sets a start date).
+
+**What it would change in the Education Act:**
+
+1. **Suspension and expulsion.** Right now, a student can be suspended, or recommended for expulsion, for distributing an intimate image. The bill would add "or threatened to distribute intimate content." **So a threat alone would become grounds.**
+
+2. **The bullying definition.** Right now, it covers a student who acted "knowing" the person didn't consent, "or being reckless" about it. The bill would change that to cover sharing or threatening to share where the student "fails to obtain consent."
+
+The government's news release about Bill 33 ("Scrapping DEI hiring practices") doesn't mention the Education Act at all. You can check both in two clicks: [Bill 33, Justice Statutes Amendment Act, 2026 (No. 2)](https://docs.assembly.ab.ca/LADDAR_files/docs/bills/bill/legislature_31/session_2/20251023_bill-033.pdf)
+
+**What it would change in the Alberta Human Rights Act:**
+
+School boards are on the bill's list of "provincial bodies." They couldn't run hiring programs aimed at groups facing disadvantage, and the bill's list names physical and mental disability. They also couldn't require staff training on diversity, equity and inclusion, unless it's needed to do the job. **The bill doesn't say whether disability training for school staff would count as needed.** More on this in tonight's main **Where Things Stand**.
+
+## A QUESTION FROM TONIGHT: CAN FSCD HELP WITH CAMPS AND CHILD CARE?
+**Yes, it can.** A parent was told FSCD doesn't cover these. Here's what the FSCD Policy Manual says:
+
+1. **Specialized camps** (camps built for kids with disabilities), **section 8.2:** "respite services may be provided to assist parents and guardians with the extraordinary portion of the costs for specialized camps if it is the most cost effective and appropriate form of respite."
+
+2. **Child care, for kids under 13, section 8.6A:** "FSCD may provide assistance with the extraordinary child care costs or out of school care that exceeds typical parental child care expenses for a child of the same age without a disability, based on assessed need."
+
+3. **Paying the program directly, section 6.11:** "The FSCD program may, upon request of the parent or guardian, pay an agency service provider directly on the parent or guardian's behalf."
+
+"May" means it isn't automatic and depends on your child's assessed needs. "Extraordinary" means the part that costs more than it would for a child without a disability. **Ask for these by section number, and if the answer is no, ask for the decision and the reason in writing.**
+
+The manual's update log, read tonight, still shows only one change this year (February 20, 2026), so these sections should read as I've quoted them.
+
+## FSCD RATES: NO CHANGE
+Read word for word in the regulation tonight:
+
+1. **Mileage:** $0.12 a kilometre
+
+2. **Clothing and footwear:** up to $400 a year
+
+3. **Respite:** up to 240 hours a year
+
+4. **Parking:** up to $10 a day
+
+5. **Hotel:** up to $85 a day, plus up to $10 a day for your child's meals unless they're in hospital
+
+6. **Dental:** $250 a year if you don't have a dental plan
+
+7. **Medical costs:** what's above 2% of both parents' combined net income (line 23600 of your tax return)
+
+The regulation expires June 30, 2029, unless it's renewed.
+
+## THE RULEBOOK BEHIND THE RULEBOOK
+FSCD has a second document that tells workers how to apply the policy: the **FSCD Internal Operational Procedures.** It's marked "Classification: Public." It's 176 pages and printed with the date January 27, 2025. The government's website shows the file was last changed on October 7, 2026, but that doesn't tell us whether anything in it changed, and there's no public log of changes. It includes sections on confirming a diagnosis, deciding which supports a family gets, and planning for age 18. I haven't been able to read it in full yet. You can find it here: [FSCD Internal Operational Procedures (PDF)](https://manuals.alberta.ca/media/x5ijmthq/fscd-internal-operational-procedures.pdf)
+
+## TURNING 18
+Alberta's transition-to-adulthood page still says nothing about the Canada Disability Benefit. Its only date is still March 15, 2023.
+
+## WHAT I COULDN'T CHECK TONIGHT
+The federal Orders in Council database (its search isn't working), and the full text of the FSCD operational procedures. So: nothing changed for FSCD or PDD in what I could read tonight. For the Energy Rebate deadline, see tonight's main **Where Things Stand**.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-10-26",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — October 26, 2026",
