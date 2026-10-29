@@ -16,6 +16,110 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Alberta Energy Rebate: 2 days left to apply (October 29, 2026)",
+        date: "2026-10-29",
+        streams: ["AISH / ADAP / CPP-D", "Seniors Benefits CPP/CPPD", "Income Support", "General Topics"],
+        body: `The $100 Alberta Energy Rebate closes **this SATURDAY, OCTOBER 31.** Here's everything you need to know.
+
+## DO YOU NEED TO APPLY?
+You were signed up **AUTOMATICALLY**, and don't need to do anything, if you were already on one of these **before July 1**:
+
+AISH
+
+ADAP
+
+Income Support
+
+the Alberta Seniors Benefit
+
+**You DO need to apply if:**
+
+you started on AISH, ADAP, Income Support or the Seniors Benefit **AFTER July 1**, or
+
+you're not on any of those programs, or
+
+you're another adult living in the home. **Each unmarried adult (like a roommate or adult child) applies on their own.**
+
+## WHO QUALIFIES
+18 or older as of July 1, 2026
+
+live in Alberta
+
+filed your 2025 taxes
+
+household income of $225,000 or less
+
+## HOW TO APPLY
+Go to the official portal ONLY: [energyrebate.alberta.ca](https://energyrebate.alberta.ca/)
+
+**1. Log in with a VERIFIED Alberta.ca Account.** If you don't have one, you'll need to create and verify one first, so don't leave it to the last minute.
+
+**2. Make sure the mailing address** on your Alberta driver's licence or ID matches your Alberta.ca Account.
+
+**3. Have your Social Insurance Number (SIN) ready.**
+
+**4. If you have a spouse or common-law partner**, you'll also need their SIN, date of birth, and legal name as it appears on their 2025 tax return.
+
+**5. Double-check everything before you hit submit. You can't change it afterwards.**
+
+## GETTING PAID
+The money goes straight to your bank account by direct deposit or Interac e-Transfer.
+
+It should arrive **within 14 days** of applying.
+
+**It's not taxable, and it won't affect your AISH, ADAP or other benefits.**
+
+## NEED HELP?
+Call **780-401-4014** or toll-free **1-844-401-4014**.
+
+**The phone line is only open Monday to Friday, 8:15 am to 4:30 pm. If you need help, call by FRIDAY afternoon. Nobody will answer on Saturday.**
+
+## SCAM WARNING
+**Don't click any link in a text message that says it's the Energy Rebate.** Only apply at energyrebate.alberta.ca.
+
+Please share this with anyone who might be missing out.
+
+The government's page: [Alberta Energy Rebate](https://www.alberta.ca/alberta-energy-rebate)`
+      },
+      {
+        title: "The Minister wrote back, and here's what he put in writing (October 29, 2026)",
+        date: "2026-10-29",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `Today I got a reply from **Minister Nathan Neudorf** (Assisted Living and Social Services) to my emails about ADAP and employment supports. It doesn't answer everything, but some of these lines are worth keeping. Screenshot them if they help you.
+
+Read the whole letter yourself: [page 1](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/government-form-originals/advocacy/Minister_Neudorf_Reply_Employment_Supports_page1of3.png), [page 2](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/government-form-originals/advocacy/Minister_Neudorf_Reply_Employment_Supports_page2of3.png), [page 3](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/government-form-originals/advocacy/Minister_Neudorf_Reply_Employment_Supports_page3of3.png).
+
+## 1. FREE MEDICAL REPORT TO APPLY FOR AISH, ANY TIME
+_"Clients who transitioned to ADAP may also have the cost of one DIA Medical Report covered if they choose to apply for AISH. This support is not time-limited."_
+
+**In plain words:** if you were moved from AISH to ADAP in July, the government pays for one medical report when you apply to go back to AISH, whenever you're ready.
+
+## 2. NOBODY WAS RE-ASSESSED IN JULY
+The move to ADAP _"did not, by itself, constitute a new individualized medical or employability assessment."_
+
+**In plain words:** being moved to ADAP was not a decision that you can work.
+
+## 3. BEFORE ANY CUT FOR NOT TAKING PART IN EMPLOYMENT SUPPORTS
+The decision-maker must consider your _"ability to participate within the limitations of [your] impairment and the reasons for any non-participation."_ You must be given _"an opportunity to explain"_ and be _"notified in writing"_ of any decision and your review or appeal rights.
+
+**In plain words:** they have to hear your side and put any decision in writing.
+
+## 4. EMPLOYMENT PROVIDERS DON'T DECIDE YOUR BENEFITS
+Employment service providers _"do not diagnose medical conditions"_ and _"do not decide on decisions regarding ADAP eligibility, benefits, compliance or medical determinations."_ Those decisions belong to a director at ALSS.
+
+## 5. NO JOB DOESN'T MEAN NO BENEFITS
+_"If an ADAP client is unable to secure employment, they will continue to be eligible for ADAP financial and health benefits provided they continue to meet program eligibility requirements."_
+
+## 6. WRONG DEDUCTION ON YOUR STATEMENT?
+Contact your local AISH/ADAP office and send a copy of your payment statement. **Put your full name and file number in the subject line.** The department says it _"will review the calculation, advise the client of the outcome and make any required adjustment."_
+
+## 7. PRESCRIPTION DENIED OR ONLY PARTLY COVERED?
+Ask your pharmacist to check they're billing _"the correct ADAP section (A)."_ Alberta Blue Cross can also explain your coverage: **1-800-661-6995**.
+
+## WHAT THE LETTER DIDN'T ANSWER
+Nothing on the couples rate or back pay. Nothing on what "compliance measures" are, or whether you can appeal a cut for not taking part in employment supports. Nothing on why the Canada Disability Benefit is still deducted. I'll keep asking.`
+      },
+      {
         title: "The RDSP: what it is, who can get one, and why to start now (October 28, 2026)",
         date: "2026-10-28",
         streams: ["AISH / ADAP / CPP-D", "Children / FSCD", "PDD", "Income Support"],
