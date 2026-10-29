@@ -9,6 +9,138 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-10-28",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — October 28, 2026",
+    body: `## 3 DAYS LEFT: ALBERTA ENERGY REBATE
+**The deadline to apply is Saturday, October 31.**
+
+If you were on AISH, ADAP or Income Support **BEFORE July 1**, you were signed up automatically. You don't need to do anything.
+
+If you started on AISH, ADAP or Income Support **AFTER July 1**, it won't come on its own. You need to apply through the online portal.
+
+**Other adults in your home have to apply separately.**
+
+The rebate is not taxable and won't affect your other benefits.
+
+**The phone line is only open weekdays, 8:15 am to 4:30 pm. If you need help on the phone, call by Friday.**
+
+## PAYMENT DATES (checked tonight on alberta.ca)
+**December payment:** November 25
+
+**January payment:** December 22 (The government's page lists December 22 as a Wednesday. It's a Tuesday. Go by the date.)
+
+**Canada Disability Benefit (CDB):** up to $204.20 a month from July 2026 to June 2027.
+
+## HOLIDAY CLOSURE
+The message printed on this month's payment statements says government offices and the Alberta Supports Contact Centre will be **closed from Thursday, December 24, 2026 to Friday, January 1, 2027**, and will reopen **Monday, January 4, 2027.** If you need anything sorted before the holidays, send it in early. **The December 22 payment is the last one before the closure.**
+
+## COUPLES
+Some couples have told us their October 27 statement shows a separate deposit marked "Underpayment." The government still hasn't published how the couples back pay works or what date it goes back to. **Check your own statement.** If something doesn't look right, email your local AISH/ADAP office. Put your full name and file number in the subject line, and keep a copy of your statements.
+
+## BILL 33 UPDATE
+**Bill 33 passed second reading this afternoon (October 28).** Second reading is the vote on the main idea of a bill. Next is "Committee of the Whole," where all the MLAs go through it line by line and can change it. That's on the schedule for tomorrow.
+
+**Bill 33 is NOT law.** It has no changes so far. Even if it passes, the human rights part would only start on a date the government sets later (that's called "proclamation").
+
+## BOTTOM LINE
+Nothing I could read tonight changes AISH, ADAP or CDB payment amounts, dates or rules. There were things I couldn't open tonight, so I'm saying "nothing changed in what I could read," not "nothing changed."
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-28",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — October 28, 2026",
+    body: `## 3 DAYS LEFT: ENERGY REBATE
+If you started on the Alberta Seniors Benefit **after July 1**, the $100 Energy Rebate won't come on its own. **Apply by Saturday, October 31.** It won't affect your other benefits. **The phone line is only open weekdays, so call by Friday if you need a hand.**
+
+## NEW: EYE CARE CHANGE STARTS NOVEMBER 1
+The government signed a new regulation today. A regulation is a set of rules that has the force of law. **Starting November 1, some Alberta optometrists can do three laser eye procedures right in their offices**, if they've had extra training and been approved. The regulation doesn't say anything about who pays. **If you're offered one of these procedures, ask before you book whether Alberta Health covers it or you pay.**
+
+## FOLLOW-UP: THE FEDERAL MAID BILL (C-41)
+I said I'd read it, and I did. As it's written, an "advance request" (asking ahead of time, while you can still decide for yourself) only works in a province that has its own law setting up where requests are kept and the rules for making, changing and withdrawing them. Alberta's law, passed in March, says it will prohibit advance requests. **So nothing changes for Alberta families.** The bill is still at second reading in Ottawa. If you want to plan ahead for your care, a **personal directive** is still the tool Alberta law recognizes.
+
+## COMING UP
+**Thursday, November 5:** the federal budget.
+
+**Seniors Benefit:** November 24 and December 17.
+
+**OAS and CPP:** November 26 and December 22.
+
+## BILL 33
+Passed second reading today. **It's NOT law.** It goes to Committee of the Whole (where MLAs go through it line by line) starting tomorrow. Nothing changes for seniors' services today.
+
+## A CORRECTION ON POWERS OF ATTORNEY
+Earlier I said anyone could ask the court to make a power of attorney account for the money they've handled. That was too broad. Here's what the law says: **if the person who signed the power of attorney can no longer manage their money, any interested person can ask the court to make the attorney account for it**, even if the document says accounts aren't needed. While the person can still manage their own money, it's their call.
+
+## BOTTOM LINE
+Nothing changed for Alberta seniors' benefits or care in what I could read tonight. I couldn't check the ministerial orders list, the transcript of today's debate, the Social Security Tribunal, or the new lodge rules starting in January.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-28",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — October 28, 2026",
+    body: `## BIG ONE: WE CAN NOW READ THE FSCD WORKERS' RULEBOOK
+FSCD (Family Support for Children with Disabilities) has a 176-page document called the **"Internal Operational Procedures."** It's the step-by-step guide workers use, and it's marked "Classification: Public." We've known where it was for weeks but couldn't open it. Tonight we read it. Here's what we found so far:
+
+**1. THE 2-YEAR DIAGNOSIS CUT-OFF**
+
+Section 4.1.1 says: _"While the parent or guardian is awaiting a diagnosis for their child, family support services may be provided for up to 2 years. Child focused services cannot be provided while awaiting a diagnosis. If after 2 years, the child does not have a confirmed diagnosis they are no longer eligible for the FSCD program."_
+
+The rule it points to as its authority is "Essential Program Standards, Standard 1." **It doesn't point to the FSCD Act or the FSCD Regulation, which are the laws.**
+
+And the sentence "Child focused services cannot be provided while awaiting a diagnosis" isn't in any law I hold. **If a worker has told you this, now you know where it comes from.**
+
+**2. NOTHING ABOUT THE CANADA DISABILITY BENEFIT**
+
+Across all 176 pages, the Canada Disability Benefit, the Disability Tax Credit, the Canada Child Benefit and RDSPs are each mentioned **zero times.** That includes the section on planning for when your child turns 18.
+
+**3. STILL NO PUBLISHED HOURLY RATE FOR RESPITE OR AIDES**
+
+The rulebook uses blank agreement forms that say "not to exceed $ (rate) per (unit)." The rate gets typed into each family's agreement. **There's no published number anywhere.**
+
+**4. NO RECORD OF CHANGES**
+
+The document is printed with the date January 27, 2025, but the government's server shows it was last updated October 7, 2026. There's no public list of what changed, if anything.
+
+We've only read 3 sections so far. More to come.
+
+Read it yourself: [FSCD Internal Operational Procedures (PDF)](https://manuals.alberta.ca/media/x5ijmthq/fscd-internal-operational-procedures.pdf)
+
+## BILL 33: STILL NOT LAW
+**Bill 33 passed second reading this afternoon** (the vote on the main idea of the bill). Tomorrow it goes to Committee of the Whole, where MLAs go through it line by line and can make changes. No changes so far.
+
+It changes the Education Act rules on suspensions and expulsions. It also adds a new section to the Alberta Human Rights Act. Even if it passes, both parts only start on a date the government sets later (that's called "proclamation").
+
+**Worth knowing:** the government's news release about Bill 33 didn't mention the Education Act, and neither did the Minister when he introduced the bill in the Legislature on October 27. The bill changes it anyway.
+
+## ALREADY LAW, STARTING JANUARY 4, 2027
+A law passed in 2025, the **Regulated Professions Neutrality Act**, has a part that changes the Education Act starting **January 4, 2027.** The date is set. I haven't read what that part changes yet. I'll report back once I have.
+
+## EYE CARE: NEW RULES NOVEMBER 1
+A new regulation signed today lets some optometrists do more eye procedures starting **November 1.** The government announced it on October 26, and the rules themselves were signed on October 28. The version of the rules you can read online still doesn't show the change. The regulation doesn't say anything about kids or about who pays.
+
+## ENERGY REBATE: 3 DAYS LEFT
+**Apply by Saturday, October 31** if you started on AISH, ADAP or Income Support after July 1.
+
+## BOTTOM LINE
+No FSCD, PDD or school law changed tonight. Bill 33 moved a step but isn't law.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-10-27",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — October 27, 2026",
