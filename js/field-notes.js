@@ -16,6 +16,113 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "The RDSP: what it is, who can get one, and why to start now (October 28, 2026)",
+        date: "2026-10-28",
+        streams: ["AISH / ADAP / CPP-D", "Children / FSCD", "PDD", "Income Support"],
+        body: `I'm not a financial advisor, so this is information, not advice. Every number below was checked on canada.ca tonight (October 28, 2026).
+
+## IF YOU ONLY READ ONE THING
+If you're helping an adult family member who may not be able to sign a contract on their own, there's a special rule that lets a family member open an RDSP for them. **That rule ends DECEMBER 31, 2026.** That's about 2 months away. **Don't wait.**
+
+## WHAT IS AN RDSP?
+RDSP stands for **Registered Disability Savings Plan.** It's a savings account for people with disabilities. **The government ADDS free money to it every year**, sometimes up to 3 times what you put in. Even if you can't put in anything, you may still get **up to $1,000 a year for free.**
+
+It's meant for long-term savings, to give you or your family member more financial security later in life.
+
+## WHO CAN HAVE ONE
+The person the account is for must:
+
+be approved for the **Disability Tax Credit (DTC)**
+
+have a **Social Insurance Number (SIN)**
+
+**live in Canada**
+
+**be under 60.** You can open one until December 31 of the year the person turns 59.
+
+**The DTC is the key. Without DTC approval, you can't open an RDSP.** If you don't have the DTC yet, apply for that first. It's free through CRA, and the online form is the fastest.
+
+## THE FREE MONEY, PART 1: THE GRANT (the government matches what you put in)
+If your income is **$117,045 or less**, the government adds:
+
+**$3 for every $1** on the first $500 you put in each year
+
+**$2 for every $1** on the next $1,000
+
+So if you put in $1,500 in a year, **the government adds $3,500.**
+
+If your income is over $117,045: $1 for every $1 on the first $1,000.
+
+Most anyone can get in grants is **$3,500 a year**, and **$70,000 over a lifetime.**
+
+(For a child, the income used is the parents'. For an adult, it's their own, plus their spouse's or partner's if they have one.)
+
+## THE FREE MONEY, PART 2: THE BOND (you don't have to put in anything)
+If your income is **$38,237 or less**, the government puts in **up to $1,000 a year, even if you never put in a cent.**
+
+Between $38,237 and $58,523, you get a smaller amount.
+
+Lifetime maximum: **$20,000.**
+
+**Most people on AISH or ADAP are in the full $1,000 range.**
+
+## YOU CAN CATCH UP ON MISSED YEARS
+You can get grants and bonds for **up to 10 past years** that you missed. That means you can get up to **$11,000 in bonds and $10,500 in grants in a single year.** You need to have been DTC-approved for those years and filed your taxes.
+
+**Every year you wait, the oldest year drops off and that money is gone for good.** That's the biggest reason to start now.
+
+## AGE CUT-OFFS
+**Grants and bonds:** paid until December 31 of the year the person turns 49.
+
+**Putting money in:** allowed until the end of the year they turn 59.
+
+**Opening an account:** until the end of the year they turn 59.
+
+**Payments out** must start by the end of the year they turn 60.
+
+The most anyone can put in over a lifetime is **$200,000.**
+
+## HOW TO OPEN ONE
+**1. Get approved for the Disability Tax Credit.**
+
+**2. Pick a bank or credit union that offers RDSPs**, and book an appointment.
+
+**3. Open the plan.** Bring the person's SIN and ID.
+
+**4. File taxes every year, even if you have no income.** The bond and grant are based on your tax return. **No tax return, no free money.**
+
+**Who can open it:**
+
+an adult can open their own
+
+a parent or legal guardian can open one for a child under 18
+
+for an adult who may not be able to sign a contract: a legal representative (like a trustee), or **until December 31, 2026**, a qualifying family member such as a parent or spouse
+
+**You don't need to pay a company to open one for you.**
+
+## WILL IT AFFECT AISH OR ADAP?
+**No.** Alberta's AISH/ADAP regulation says the money in an RDSP doesn't count as an asset, and payments out of it don't count as income. (AR 96/2026, Schedule 2, s.2(2)(d), and Schedule 1, s.7(1)(g).)
+
+## THE CATCH: TAKING MONEY OUT
+**VERY IMPORTANT: You can't take money out before you're 60 without paying a penalty.** But you CAN use it to invest as little or as much as you want (up to the $200,000 lifetime limit), or just let it sit and grow.
+
+If you do take money out before 60, **you have to pay back $3 of the government's money for every $1 you take out**, up to the total of the grants and bonds paid in the last 10 years.
+
+Example: you take out $1,000, and $3,000 of free government money goes back.
+
+Part of what you take out counts as taxable income.
+
+If you lose your DTC approval later, you no longer have to close the plan or pay the money back just because of that. But new grants and bonds stop.
+
+## THE BOTTOM LINE
+If you're DTC-approved and under 50, an RDSP can give you **up to $1,000 a year for free**, more if you can put in a little, and you can catch up on up to 10 missed years. **It won't touch your AISH or ADAP.**
+
+**The sooner you open one, the fewer years you lose.**
+
+Check the numbers yourself: [How much you could get in grants and bonds](https://www.canada.ca/en/employment-social-development/programs/disability/savings/how-much.html) and [Opening an RDSP](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/registered-disability-savings-plan-rdsp/opening-rdsp.html), both on canada.ca.`
+      },
+      {
         title: "Quick fact check: the Disability Tax Credit changes (October 28, 2026)",
         date: "2026-10-28",
         streams: ["AISH / ADAP / CPP-D", "Children / FSCD", "Seniors Benefits CPP/CPPD", "Income Support"],
