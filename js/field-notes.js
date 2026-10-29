@@ -16,6 +16,27 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Quick fact check: the Disability Tax Credit changes (October 28, 2026)",
+        date: "2026-10-28",
+        streams: ["AISH / ADAP / CPP-D", "Children / FSCD", "Seniors Benefits CPP/CPPD", "Income Support"],
+        body: `A quick fact check on the Disability Tax Credit (DTC) changes people are talking about.
+
+## WHAT CRA HAS CONFIRMED (June 16, 2026)
+**Since July 14**, you can't send a new Disability Tax Credit application through "submit documents" in your CRA account, unless CRA asks you for more information.
+
+**Since September 8**, CRA won't accept the T2201 form if it's an older version from before 2023. Check the bottom of your form. It should say "T2201 E (23)" or newer.
+
+**CRA recommends applying online**, because the online form is always the newest version.
+
+## WHAT CRA HAS NOT SAID
+Anything about more people being denied, or approvals being shorter. **If you've heard that, it hasn't come from CRA.**
+
+## IT'S FREE
+**Applying for the DTC through CRA is free.** Some companies charge to help you apply. A federal law sets a $100 cap on those fees, but a court put the cap on hold in 2021, and CRA's own page says it's still suspended. **So right now, there's no cap.** Before you sign anything with a company, ask in writing what it will cost you.
+
+Read CRA's notice: [Help speed up your disability tax credit application](https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2026/help-speed-up-your-disability-tax-credit-application.html)`
+      },
+      {
         title: "Bill 33: I've sent it to Marie Renaud's office (October 27, 2026)",
         date: "2026-10-27",
         streams: ["AISH / ADAP / CPP-D", "Income Support", "General Topics"],
