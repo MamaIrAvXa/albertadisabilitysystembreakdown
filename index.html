@@ -164,7 +164,7 @@
   .pay-cal a:not(.btn) { color: #f5c542; text-decoration: underline; }
   .pay-cal .pc-warn { border-left: 3px solid #f5c542; background: rgba(212,160,23,.12); padding: .8rem 1rem; border-radius: 3px; margin: 1rem 0; }
   .pay-cal .pc-warn p { margin: 0; }
-  .pay-cal .pc-btns { margin: 1rem 0 1.5rem; }
+  .pay-cal .pc-btns { margin: 1rem 0 1.5rem; display: flex; flex-wrap: wrap; gap: .6rem; }
   .pay-cal .pc-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; border: 1px solid #26375a; border-radius: 4px; }
   .pay-cal .pc-scroll:focus { outline: 2px solid #f5c542; outline-offset: 2px; }
   .pay-cal .pc-table { border-collapse: collapse; min-width: 760px; width: 100%; font-size: .92rem; }
@@ -819,6 +819,7 @@
     <p><strong>Your January 2027 AISH / ADAP / Income Support payment comes December 22, 2026</strong> (confirmed by Alberta).</p>
     <div class="pc-btns">
       <a class="btn btn-primary" href="/pdfs/shared/guides/ADSB_2027_Payment_Calendar_Print.pdf" target="_blank" rel="noopener">Print the 2027 calendar (PDF, 2 pages)</a>
+      <a class="btn btn-ghost" href="/pdfs/shared/guides/ADSB_2027_Payment_Calendar_Night.pdf" target="_blank" rel="noopener">Night mode version (PDF, dark background)</a>
     </div>
     <div class="pc-scroll" role="region" aria-label="2027 payment dates table, scrolls sideways" tabindex="0">
       <table class="pc-table">
