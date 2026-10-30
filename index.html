@@ -158,6 +158,26 @@
   .stream-legend .sl-title { color: #a9b3c1; }
   .stream-legend .sl { white-space: nowrap; font-weight: 600; }
 
+  /* 2027 payment calendar, inline so it needs no styles.css change */
+  .pay-cal { background: #0b1626; border-top: 3px solid #d4a017; }
+  .pay-cal .section-eyebrow { color: #f5c542; }
+  .pay-cal a:not(.btn) { color: #f5c542; text-decoration: underline; }
+  .pay-cal .pc-warn { border-left: 3px solid #f5c542; background: rgba(212,160,23,.12); padding: .8rem 1rem; border-radius: 3px; margin: 1rem 0; }
+  .pay-cal .pc-warn p { margin: 0; }
+  .pay-cal .pc-btns { margin: 1rem 0 1.5rem; }
+  .pay-cal .pc-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; border: 1px solid #26375a; border-radius: 4px; }
+  .pay-cal .pc-scroll:focus { outline: 2px solid #f5c542; outline-offset: 2px; }
+  .pay-cal .pc-table { border-collapse: collapse; min-width: 760px; width: 100%; font-size: .92rem; }
+  .pay-cal .pc-table caption { text-align: left; padding: .6rem .8rem; font-weight: 600; color: #f5c542; }
+  .pay-cal .pc-table th, .pay-cal .pc-table td { padding: .5rem .6rem; border-top: 1px solid #26375a; text-align: left; vertical-align: top; }
+  .pay-cal .pc-table thead th { font-size: .78rem; line-height: 1.3; color: #a9b3c1; }
+  .pay-cal .pc-table tbody th { white-space: nowrap; }
+  .pay-cal .pc-sub { display: block; font-size: .75rem; color: #a9b3c1; }
+  .pay-cal .pc-none { color: #7d8898; }
+  .pay-cal .pc-note { margin-top: 1rem; }
+  .pay-cal .pc-h { margin: 2rem 0 .6rem; font-size: 1.15rem; }
+  .pay-cal .pc-list { padding-left: 1.2rem; }
+  .pay-cal .pc-list li { margin-bottom: .5rem; }
   /* Home care section, inline so it needs no styles.css change */
   .home-care { background: #0b2626; border-top: 3px solid #3a8f8f; }
   .home-care .section-eyebrow { color: #7cc8c8; }
@@ -457,6 +477,7 @@
         </tbody>
       </table>
       <p class="alert-dates-note">Source: the government's published payment schedule, checked August 26, 2026. If your deposit has not arrived on the date above, ring Alberta Supports on <a href="tel:18776449992">1-877-644-9992</a>.</p>
+      <p class="alert-dates-note"><a href="#payment-calendar">See the expected 2027 dates for every program &rarr;</a></p>
     </div>
   </details>
 </div>
@@ -506,6 +527,7 @@
       <div class="nav-group ng-aish">
         <button type="button" class="nav-group-btn" aria-haspopup="true">AISH/ADAP/CPP-D <span class="caret" aria-hidden="true">&#9662;</span></button>
         <div class="nav-menu">
+          <a href="#payment-calendar">2027 Payment Calendar</a>
           <a href="#documents" data-stream="AISH / ADAP / CPP-D" data-scroll-to="#documents">Documents</a>
           <a href="#reports">Reports</a>
           <a href="#reference" data-stream="AISH / ADAP / CPP-D" data-scroll-to="#reference">Reference Library</a>
@@ -538,6 +560,7 @@
         <button type="button" class="nav-group-btn" aria-haspopup="true">Seniors &amp; CPP <span class="caret" aria-hidden="true">&#9662;</span></button>
         <div class="nav-menu">
           <p class="nav-menu-title">Seniors Benefits, CPP &amp; CPP-D</p>
+          <a href="#payment-calendar">2027 Payment Calendar</a>
           <a href="#documents" data-stream="Seniors Benefits CPP/CPPD" data-scroll-to="#documents">Documents</a>
           <a href="#reference" data-stream="Seniors Benefits CPP/CPPD" data-scroll-to="#reference">Reference Library</a>
           <a href="#field-notes" data-stream="Seniors Benefits CPP/CPPD" data-scroll-to="#field-notes">Field Notes</a>
@@ -783,6 +806,53 @@
     <p class="jd-empty" id="just-dropped-empty" hidden>
       Nothing has dropped in the last 7 days. Check back — or browse the full library below.
     </p>
+  </div>
+</section>
+
+<!-- ───────────── 2027 PAYMENT CALENDAR ───────────── -->
+<section id="payment-calendar" class="pay-cal">
+  <div class="wrap">
+    <p class="section-eyebrow">2027 Payment Calendar</p>
+    <h2 class="section-title">When your money is expected in 2027.</h2>
+    <p>Disability, seniors and family benefit payment dates for Albertans, all in one place. Print it and put it on the fridge.</p>
+    <div class="pc-warn"><p><strong>Every 2027 date here is EXPECTED, not yet confirmed.</strong> No government has posted its 2027 schedule yet. We worked each date out from the government&rsquo;s own pattern, and tested the method against all 70 dates published for 2025 and 2026. It matched every one. We will update these as official dates are posted. Confirm with the program before you count on one.</p></div>
+    <p><strong>Your January 2027 AISH / ADAP / Income Support payment comes December 22, 2026</strong> (confirmed by Alberta).</p>
+    <div class="pc-btns">
+      <a class="btn btn-primary" href="/pdfs/shared/guides/ADSB_2027_Payment_Calendar_Print.pdf" target="_blank" rel="noopener">Print the 2027 calendar (PDF, 2 pages)</a>
+    </div>
+    <div class="pc-scroll" role="region" aria-label="2027 payment dates table, scrolls sideways" tabindex="0">
+      <table class="pc-table">
+        <caption>2027 payment dates at a glance (all expected)</caption>
+        <thead><tr><th scope="col">Month</th><th scope="col">AISH / ADAP / Income Support</th><th scope="col">Canada Disability Benefit</th><th scope="col">CPP and OAS</th><th scope="col">Alberta Seniors Benefit</th><th scope="col">Canada Child Benefit</th><th scope="col">Alberta Child and Family Benefit</th><th scope="col">Groceries and Essentials Benefit</th></tr></thead>
+        <tbody>
+<tr><th scope="row">January</th><td>Tue 26<span class="pc-sub">pays February</span></td><td>Thu 21</td><td>Wed 27</td><td>Mon 25</td><td>Wed 20</td><td><span class="pc-none">None</span></td><td>Tue 5</td></tr>
+<tr><th scope="row">February</th><td>Tue 23<span class="pc-sub">pays March</span></td><td>Thu 18</td><td>Wed 24</td><td>Mon 22</td><td>Fri 19</td><td>Fri 26</td><td><span class="pc-none">None</span></td></tr>
+<tr><th scope="row">March</th><td>Thu 25<span class="pc-sub">pays April</span></td><td>Thu 18</td><td>Mon 29</td><td>Wed 24</td><td>Fri 19</td><td><span class="pc-none">None</span></td><td><span class="pc-none">None</span></td></tr>
+<tr><th scope="row">April</th><td>Tue 27<span class="pc-sub">pays May</span></td><td>Thu 15</td><td>Wed 28</td><td>Mon 26</td><td>Tue 20</td><td><span class="pc-none">None</span></td><td>Mon 5</td></tr>
+<tr><th scope="row">May</th><td>Wed 26<span class="pc-sub">pays June</span></td><td>Thu 20</td><td>Thu 27</td><td>Tue 25</td><td>Thu 20</td><td>Thu 27</td><td><span class="pc-none">None</span></td></tr>
+<tr><th scope="row">June</th><td>Fri 25<span class="pc-sub">pays July</span></td><td>Thu 17</td><td>Mon 28</td><td>Thu 24</td><td>Fri 18</td><td><span class="pc-none">None</span></td><td><span class="pc-none">None</span></td></tr>
+<tr><th scope="row">July</th><td>Tue 27<span class="pc-sub">pays August</span></td><td>Thu 15</td><td>Wed 28</td><td>Mon 26</td><td>Tue 20</td><td><span class="pc-none">None</span></td><td>Mon 5</td></tr>
+<tr><th scope="row">August</th><td>Thu 26<span class="pc-sub">pays September</span></td><td>Thu 19</td><td>Fri 27</td><td>Wed 25</td><td>Fri 20</td><td>Fri 27</td><td><span class="pc-none">None</span></td></tr>
+<tr><th scope="row">September</th><td>Fri 24<span class="pc-sub">pays October</span></td><td>Thu 16</td><td>Mon 27</td><td>Thu 23</td><td>Mon 20</td><td><span class="pc-none">None</span></td><td><span class="pc-none">None</span></td></tr>
+<tr><th scope="row">October</th><td>Tue 26<span class="pc-sub">pays November</span></td><td>Thu 21</td><td>Wed 27</td><td>Mon 25</td><td>Wed 20</td><td><span class="pc-none">None</span></td><td>Tue 5</td></tr>
+<tr><th scope="row">November</th><td>Thu 25<span class="pc-sub">pays December</span></td><td>Thu 18</td><td>Fri 26</td><td>Wed 24</td><td>Fri 19</td><td>Fri 26</td><td><span class="pc-none">None</span></td></tr>
+<tr><th scope="row">December</th><td>Wed 22<span class="pc-sub">pays January 2028</span></td><td>Thu 16</td><td>Wed 22</td><td>Fri 17</td><td>Fri 10</td><td><span class="pc-none">None</span></td><td><span class="pc-none">None</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="pc-note"><strong>AISH, ADAP and Income Support pay at the end of the month for the month ahead.</strong> Example: January 26 is your February payment. Federal payments can take a few days to reach your account. Canada.ca says to wait 5 to 10 business days before calling.</p>
+    <h3 class="pc-h">Important dates in 2027</h3>
+    <ul class="pc-list">
+      <li><strong>January 1:</strong> the first yearly cost-of-living adjustment to AISH and ADAP amounts is set by the regulation to start (AR 96/2026, s.7(3)). The new amount has not been announced yet.</li>
+      <li><strong>January 1:</strong> the Rent Assistance Benefit starts counting the Canada Child Benefit as income.</li>
+      <li><strong>March 1:</strong> last day to put money in an RRSP and deduct it on your 2026 tax return.</li>
+      <li><strong>April 30:</strong> tax filing deadline for your 2026 return. File on time, even with no income, or the Canada Disability Benefit, Canada Child Benefit and Groceries and Essentials Benefit can stop.</li>
+      <li><strong>June 15:</strong> filing deadline if you or your partner are self-employed. Any balance owing was still due April 30.</li>
+      <li><strong>July 1:</strong> new benefit year. The Canada Disability Benefit, Canada Child Benefit and Groceries and Essentials Benefit are worked out again from your 2026 tax return. The Alberta Seniors Benefit year also starts July 1.</li>
+      <li><strong>December 31:</strong> last day for RDSP (Registered Disability Savings Plan) contributions to count toward 2027 grants and bonds.</li>
+      <li><strong>December 2027:</strong> the last month of the $200 transition benefit for people moved from AISH to ADAP (DIA Policy Manual). That month&rsquo;s payment is expected November 25.</li>
+    </ul>
+    <p class="pc-note"><strong>Questions about AISH, ADAP, Income Support or the Seniors Benefit?</strong> Alberta Supports Contact Centre, <a href="tel:+18776449992">1-877-644-9992</a>, Monday to Friday 7:30 am to 8:00 pm.</p>
   </div>
 </section>
 

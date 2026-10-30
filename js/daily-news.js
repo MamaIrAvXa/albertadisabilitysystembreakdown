@@ -9,6 +9,207 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-10-29",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — October 29, 2026",
+    body: `Here's what changed today for AISH, ADAP and Albertans with disabilities, and what didn't.
+
+## ENERGY REBATE: 2 DAYS LEFT
+The $100 Alberta Energy Rebate application closes **this Saturday, October 31.**
+
+If you were on AISH, ADAP or Income Support **before July 1**, you don't need to apply. It comes on its own. (If you were moved from AISH to ADAP, you're covered.)
+
+If you started on AISH, ADAP or Income Support **AFTER July 1, you have to apply yourself.**
+
+You must have been 18 by July 1, 2026, filed your 2025 taxes, and have a household income of $225,000 or less.
+
+It doesn't affect your other benefits.
+
+Apply at [energyrebate.alberta.ca](https://energyrebate.alberta.ca/) (you need a verified Alberta.ca Account).
+
+Need help? Call **780-401-4014** or **1-844-401-4014**, Monday to Friday, 8:15 am to 4:30 pm. **Tomorrow (Friday) is the last day the phone line is open before the deadline.**
+
+## YOUR MONTHLY AMOUNT
+I checked the regulation itself tonight (AR 96/2026, the rules AISH and ADAP run on). It still says:
+
+**AISH:** $1,940 a month
+
+**ADAP:** $1,740 a month
+
+The old couples rule, where two people on AISH or ADAP living together each got only 88%, is still repealed. The government still hasn't said publicly when or how couples get paid back for the months they were short. If you're a couple and you think you were underpaid, **check your October 27 statement, contact your local AISH/ADAP office in writing, and keep your statements.** Our fill-in couples form is in the [Take Action](https://albertadisabilitysystembreakdown.netlify.app/#take-action) section.
+
+One more thing: the AISH Act file on the government's law website was updated on October 19. I haven't been able to read it yet, so I'm not saying it's unchanged. I'll report on it once I have.
+
+## BILL 33: STILL NOT LAW
+Bill 33 is the bill that would stop public bodies from running hiring or promotion programs for disadvantaged groups, including people with physical and mental disabilities. It would also stop them from requiring staff to take diversity, equity and inclusion training.
+
+**Where it's at:**
+
+**October 27:** first reading (introduced)
+
+**October 28:** second reading passed
+
+**October 29:** Committee of the Whole started. That's when the whole legislature goes through the bill section by section. It was adjourned, with no amendments.
+
+**The legislature sits again Monday, November 2.**
+
+Even if it passes, the human rights part only starts when the government officially turns it on (called proclamation).
+
+**Who it would cover:** government, public agencies, health agencies, colleges and universities, school boards, cities and towns, police, and, in the bill's own words, "an entity that receives public funding from the Government for the purpose of providing a public service." That last part could reach many disability service agencies. The government would decide later, in regulations, who is left out.
+
+**What it doesn't change:** an employer's duty to accommodate a disabled worker. The bill doesn't touch that.
+
+Read the bill yourself: [Bill 33, Justice Statutes Amendment Act, 2026 (No. 2)](https://docs.assembly.ab.ca/LADDAR_files/docs/bills/bill/legislature_31/session_2/20251023_bill-033.pdf)
+
+## BILL 37: WORDING ONLY
+Bill 37 is the government's yearly clean-up bill. It was introduced today. It changes the law that sets up the Premier's Council on the Status of Persons with Disabilities so that cabinet "designates" a chair instead of "appointing" one. It also adds a hyphen to the adult guardianship law. **On its own text, no amount, right or rule changes.**
+
+## FUEL TAX
+The federal fuel tax is now off by law until **January 31, 2027.** From February 1 to March 31, 2027 it comes back at half. Alberta's own 13-cent fuel tax relief is separate, and the province says it's off until the end of this year.
+
+## COMING UP
+**Saturday, October 31:** Energy Rebate deadline
+
+**Monday, November 2:** legislature sits again (Bill 33)
+
+**Thursday, November 5:** federal budget
+
+## FROM TODAY'S QUESTIONS
+To get personal benefits like a special diet, travel or child care, **your counted assets (savings, investments and similar) have to stay under $5,000**, unless the office agrees you're in financial hardship. Your home, one vehicle and an RDSP don't count. **If a personal benefit ever disappears from your deposit with no letter, ask your office in writing for the decision, the reasons, and the rule it's based on.**
+
+## WHAT I COULDN'T CHECK TONIGHT
+The federal government's news pages wouldn't load, the AISH Act file is still unread, and some new Alberta regulations can't be identified until the Gazette (the government's official publication) lists them on Saturday. So tonight's summary is this: nothing changed for AISH, ADAP or the Canada Disability Benefit in what I could read.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-29",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — October 29, 2026",
+    body: `Nothing changed in Alberta seniors' benefits, care or coverage in what I could read tonight. Here's what you need to know.
+
+## ENERGY REBATE: 2 DAYS LEFT
+If you started on the Alberta Seniors Benefit **after July 1**, the $100 Energy Rebate won't come on its own. **Apply by Saturday, October 31**, at [energyrebate.alberta.ca](https://energyrebate.alberta.ca/). It won't affect your other benefits.
+
+The phone line is open weekdays 8:15 am to 4:30 pm: **780-401-4014** or **1-844-401-4014**. **Tomorrow (Friday) is your last chance to call for help.**
+
+If you were already on the Seniors Benefit before July 1, you don't need to apply.
+
+## FUEL TAX, SORTED OUT
+These are two separate things:
+
+**The federal fuel tax** is now off by law until January 31, 2027, then comes back at half until March 31, 2027.
+
+**Alberta's own 13-cent fuel tax relief** is separate. The province says it's off until the end of this year.
+
+So from January, Alberta's fuel tax may come back while the federal one stays off.
+
+## BILL 37: WORDING ONLY
+Bill 37, the government's yearly clean-up bill, had first reading (was introduced) today. It touches the Seniors Benefit Act and the adult guardianship law, but only the wording: "a primary or secondary funded item" gets spelled out in full, and "co-decision maker" gets a hyphen. **No amounts or rights change.**
+
+## HEALTH MINISTERS
+Cabinet passed an order today (O.C. 358/2026) that changes which of Alberta's two health ministers is responsible for parts of the health insurance law and the Alberta Health Act. On its own text, it doesn't change any amount or what you're covered for. It doesn't name the part of the law that covers drug and supplemental benefits.
+
+## FEDERAL DENTAL PLAN
+The Auditor General's report on the Canadian Dental Care Plan was released, and the federal government says it accepts all the recommendations. The government says more than 7.6 million people have enrolled and more than 4.9 million have received care. **Nothing changes for your dental coverage tonight.**
+
+## BILL 33
+Still not law. The legislature started going through it section by section today and adjourned. It sits again Monday, November 2. Nothing changes for seniors' services today.
+
+## PAYMENT DATES
+**Alberta Seniors Benefit:** November 24 and December 17
+
+**Old Age Security and CPP:** November 26 and December 22
+
+## COMING UP
+**Saturday, October 31:** Energy Rebate deadline
+
+**Thursday, November 5:** federal budget
+
+## WHAT I COULDN'T CHECK TONIGHT
+The Social Security Tribunal, the Auditor General's full dental report, and the new lodge rules starting in January.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-10-29",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — October 29, 2026",
+    body: `A big day for education law, but **NOTHING has changed in the law yet except one regulation.** Here's what happened.
+
+## A NEW EDUCATION REGULATION STARTS SATURDAY
+Cabinet made a new regulation today (**A.R. 262/2026, the Provincial Strategic Priorities for Education Regulation**). A regulation is a set of rules made by cabinet under a law, and this one binds every school board in Alberta from **Saturday, October 31, 2026.** It expires May 31, 2029.
+
+It sets three priorities for the education system:
+
+**1.** Strong foundations in reading, writing and math
+
+**2.** Academic mastery
+
+**3.** Students who become engaged and responsible members of society
+
+I read the whole regulation. **The words "disability", "special education", "special needs", "inclusive" and "accommodation" each appear zero times.**
+
+The closest it comes is two phrases:
+
+_"literacy and numeracy screenings will support monitoring students' development of foundational skills and enable early identification to support appropriate interventions for students"_
+
+_"a continuum of supports and services that enables students to reach their full potential"_
+
+## THREE NEW BILLS, ALL AT FIRST READING
+Three bills were introduced this morning. First reading just means a bill was introduced. **None of them is law**, and all three come back for second reading on Monday, November 2.
+
+**BILL 35 (Education and Childcare (Securing Parental Involvement) Statutes Amendment Act, 2026)**
+
+It would put two new duties on school boards:
+
+**Every board would have to run a process for parent concerns that weren't resolved at the school.** That would be the first province-wide duty of its kind.
+
+Boards would have to publicly share information about professional development days within 60 days.
+
+The details of both would be set by a ministerial order, and the bill says "The Regulations Act does not apply" to those orders. That means they wouldn't be made the same way regulations are. The government says three orders are planned, including standards for report cards, with more information before the 2027-28 school year. It hasn't said where they would be published.
+
+**Bill 35 mentions disability zero times in its 36 pages.**
+
+**BILL 36 (Children and Family Services (Supporting Alberta Families) Statutes Amendment Act, 2026)**
+
+Its only change to the Education Act is wording: "foster parent" would become "foster caregiver or kinship caregiver."
+
+**BILL 37 (Miscellaneous Statutes Amendment Act, 2026)**
+
+The government's yearly clean-up bill. It changes the wording of two disability-related laws, the adult guardianship law and the Premier's Council on the Status of Persons with Disabilities Act. Neither change affects anyone's rights.
+
+## BILL 33 UPDATE
+Bill 33 moved a step today. The legislature started going through it section by section (called Committee of the Whole) and adjourned with no amendments. **It's still not law**, and it sits again Monday, November 2. Its parts that touch children, including the Education Act changes and the human rights changes, would only start when the government officially turns them on.
+
+**Nothing was said about students with disabilities in the second-reading debate.** I read the full transcript.
+
+## FSCD RATES HELD
+Every FSCD (Family Support for Children with Disabilities) rate I track was read out of the regulation tonight, and **none changed.** That includes mileage, clothing and footwear, the 240 yearly respite hours, parking, hotel, the dental threshold and the 2% cost-share.
+
+## FEDERAL BILLS MOVING
+**Bill C-222 (Evan's Law)**, which changes EI and labour rules for parents after the death of a child, passed the House of Commons on October 28 and is now in the Senate. Not law yet.
+
+**Bill S-253** would index the child care expense tax deduction. It was introduced in the Senate today. Not law yet.
+
+## ENERGY REBATE
+**Closes Saturday, October 31.** If you joined AISH, ADAP or Income Support after July 1, apply yourself at [energyrebate.alberta.ca](https://energyrebate.alberta.ca/).
+
+## WHAT I COULDN'T CHECK TONIGHT
+The federal government's news pages wouldn't load, so nothing changed in what I could read on the federal side.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-10-28",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — October 28, 2026",
