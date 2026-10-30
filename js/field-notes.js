@@ -189,7 +189,12 @@ Nothing on the couples rate or back pay. Nothing on what "compliance measures" a
         title: "The RDSP: what it is, who can get one, and why to start now (October 28, 2026)",
         date: "2026-10-28",
         streams: ["AISH / ADAP / CPP-D", "Children / FSCD", "PDD", "Income Support"],
-        body: `I'm not a financial advisor, so this is information, not advice. Every number below was checked on canada.ca tonight (October 28, 2026).
+        body: `## CORRECTED (October 30, 2026)
+**You CAN take money out of an RDSP before 60.** The catch is that for every $1 you take out, you pay back $3 of the government grants and bonds, up to the total paid into your plan in the last 10 years. **If no grants or bonds have gone in for 10 years, there's nothing to pay back.** Yearly withdrawal limits and your plan's rules still apply, so check with your RDSP provider first. (Thank you to the member who caught this!)
+
+The original version said you couldn't take money out before 60 without paying a penalty. That was wrong, and the section below is fixed.
+
+I'm not a financial advisor, so this is information, not advice. Every number below was checked on canada.ca tonight (October 28, 2026).
 
 ## IF YOU ONLY READ ONE THING
 If you're helping an adult family member who may not be able to sign a contract on their own, there's a special rule that lets a family member open an RDSP for them. **That rule ends DECEMBER 31, 2026.** That's about 2 months away. **Don't wait.**
@@ -275,9 +280,9 @@ for an adult who may not be able to sign a contract: a legal representative (lik
 **No.** Alberta's AISH/ADAP regulation says the money in an RDSP doesn't count as an asset, and payments out of it don't count as income. (AR 96/2026, Schedule 2, s.2(2)(d), and Schedule 1, s.7(1)(g).)
 
 ## THE CATCH: TAKING MONEY OUT
-**VERY IMPORTANT: You can't take money out before you're 60 without paying a penalty.** But you CAN use it to invest as little or as much as you want (up to the $200,000 lifetime limit), or just let it sit and grow.
+**You CAN take money out of an RDSP before 60.** (Corrected October 30, 2026. See the correction at the top.) You can also put in as little or as much as you want (up to the $200,000 lifetime limit), or just let it sit and grow.
 
-If you do take money out before 60, **you have to pay back $3 of the government's money for every $1 you take out**, up to the total of the grants and bonds paid in the last 10 years.
+If you do take money out, **you have to pay back $3 of the government's money for every $1 you take out**, up to the total of the grants and bonds paid in the last 10 years.
 
 Example: you take out $1,000, and $3,000 of free government money goes back.
 
