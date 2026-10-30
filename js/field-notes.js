@@ -16,6 +16,72 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "New on the website: Home Care and Self-Managed Care (October 29, 2026)",
+        date: "2026-10-29",
+        streams: ["Continuing Care / Home Care", "Seniors Benefits CPP/CPPD", "AISH / ADAP / CPP-D"],
+        body: `We've added a whole new section to the website for home care, including Self-Managed Care.
+
+**Home care isn't only for seniors. There's no age limit.** If you have a disability and need help at home, this section is for you too.
+
+## THE THREE WAYS TO GET HOME CARE IN ALBERTA
+Publicly funded home care comes through three doors. **Most people are only ever shown the first one.**
+
+**1. Regular home care:** Assisted Living Alberta (ALA) arranges the workers. You don't choose who comes.
+
+**2. Client Directed Home Care Invoicing (CDHCI):** you pick a home care agency from the Alberta Blue Cross list of registered providers. The agency bills Alberta Blue Cross, so payroll and taxes aren't your job.
+
+**3. Self-Managed Care (SMC):** the funding comes to you, and you find, hire and manage your own workers.
+
+All three are now run by Assisted Living Alberta, the provincial agency that took over continuing care from Alberta Health Services.
+
+## HOW TO START
+Call the **ALA Access Centre at 1-855-371-4122.** Monday to Friday 8:00 am to 6:00 pm, weekends and holidays 8:00 am to 4:00 pm.
+
+**Anyone can ask for an assessment, and you don't need a doctor's referral.** After your assessment, ask about all three options by name, and which ones you qualify for.
+
+## BEFORE YOU CHOOSE SELF-MANAGED CARE
+**You can't pay family or friends with the funding.** ALA's brochure says family members, friends and informal caregivers are not allowed to be hired as paid care providers.
+
+**You become an employer.** That means running payroll, getting a CRA business number, taking off tax deductions, following Alberta's employment standards (the rules about wages, hours and time off), and sending ALA a report every three months.
+
+**Keep every piece of paper.** Your agreement, every approval or renewal letter, your three-month reports and your bank deposits. No Self-Managed Care funding rate is published anywhere, so your own papers are the only record of what you're owed.
+
+## THE OCTOBER 1 RATE INCREASE
+Alberta Blue Cross told home care agencies that from October 1, 2026, CDHCI (door number 2) pays an updated rate of **$35.03 an hour.**
+
+We found nothing public saying whether Self-Managed Care funding went up too. So we made a fill-in letter that asks ALA in writing:
+
+What your funding rate is and how it's worked out
+
+Whether it changed on or after October 1, and from what date
+
+Whether any increase will be paid back to that date
+
+How SMC clients are told when their rate changes
+
+For a copy of your agreement, and of the Self-Managed Care Program Manual
+
+If you email it, put your full name and your SMC agreement or file number in the subject line. For example: _"Jane Smith, SMC agreement 123456: questions about my funding rate."_
+
+## WHAT'S IN THE NEW SECTION
+[Self-Managed Care in Alberta](https://albertadisabilitysystembreakdown.netlify.app/pdfs/self_managed_care/Self_Managed_Care_Alberta_Guide_Oct2026.pdf): a 6-page plain-language guide
+
+[Three Ways to Get Home Care](https://albertadisabilitysystembreakdown.netlify.app/pdfs/self_managed_care/Three_Ways_to_Get_Home_Care_Alberta_Flyer_Oct2026.pdf): a one-page side-by-side flyer
+
+[The fill-in funding rate letter](https://albertadisabilitysystembreakdown.netlify.app/pdfs/self_managed_care/fillable/SMC_Funding_Rate_Letter_Fillable_Oct2026.pdf) (fill it on your phone, or print it and write by hand)
+
+[Two Roads](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/september-2026-docs/ADSB_Two_Roads_Home_Care_and_Continuing_Care_Sept2026.pdf): staying at home with home care, or moving into a continuing care home
+
+All our care and home care documents in one place
+
+Find it all here, under "Care & Home Care": [Home Care and Self-Managed Care](https://albertadisabilitysystembreakdown.netlify.app/#home-care)
+
+## ARE YOU ON SELF-MANAGED CARE?
+We'd love to hear from you. Did your case manager ever give you a copy of the Self-Managed Care Program Manual? Have you been told anything about your rate since October 1? Send me a message. Your health details stay private, and nobody gets named.
+
+Everything here is free to share, free to print and free to distribute.`
+      },
+      {
         title: "Alberta Energy Rebate: 2 days left to apply (October 29, 2026)",
         date: "2026-10-29",
         streams: ["AISH / ADAP / CPP-D", "Seniors Benefits CPP/CPPD", "Income Support", "General Topics"],
