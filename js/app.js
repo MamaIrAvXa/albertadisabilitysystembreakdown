@@ -536,6 +536,7 @@ const MINISTERIAL = [
 
 // ─── Data: Featured flyers (subset of /pdfs/aish-adap/flyers/posters/) ───
 const FLYERS = [
+  { label: "Where Does Your $1,940 Come From? How The CDB Deduction Works (October 2026)", img: "Where Your $1,940 Comes From.png", streams: ["AISH / ADAP / CPP-D"] },
   { label: "Start Here \u2014 Welcome To The Alberta Disability System Breakdown", img: "Alberta Disability Support Community Guide.png" },
   { label: "Coalition Media Release \u2014 Prove The $247M Employment System Works, Sept 23 2026", img: "Coalition_Media_Release_Sep23_2026.png" },
   { label: "New \u2014 Heat Transfers, $10 Each, Shipping Included", img: "heat-transfers-2026-09.png" },
@@ -550,7 +551,6 @@ const FLYERS = [
   { label: "Remembrance", img: "785386ff-48b7-485d-8140-3302e6c3a4f7.png" },
   { label: "The ADAP Employment Letter", img: "ADAP EMPLOYMENT LETTER.jpg" },
   { label: "The Earnings Exemption — What Changes July 1", img: "The Earnings Exemption What Changes July 1, 2026.png" },
-  { label: "$100 Once vs. $204 Every Month", img: "100 Once vs 204 Every Month.png" },
   { label: "Where Does the CDB Go?", img: "Where Does the CDB Go.png" },
   { label: "Caseworker Rights", img: "caseworker_flyer.png" },
   { label: "Access Barriers", img: "barrier_flyer.png" },
