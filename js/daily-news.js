@@ -9,6 +9,151 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-11-01",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 1, 2026",
+    body: `A quiet Sunday. In what I could read tonight, nothing changed for AISH, ADAP or the Canada Disability Benefit (CDB). There are a few places I couldn't open tonight, like the federal newsroom, so I'm saying "nothing changed in what I could read," not "nothing changed."
+
+## DATES TO KNOW
+**CDB payment:** Thursday, November 19. The CDB is paid on the 3rd Thursday of every month.
+
+**AISH/ADAP December payment:** Wednesday, November 25.
+
+The CDB is **$204.20 a month** from July 2026 to June 2027.
+
+## ENERGY REBATE: CLOSED
+The $100 Alberta Energy Rebate closed on October 31, and it was not extended again. If you were on AISH, ADAP or Income Support before July 1, you were signed up automatically. **If you haven't seen it, contact Alberta Supports at 310-0000 rather than applying.**
+
+## COUPLES
+The 88% couples rate is gone, and the law says couples paid less "must" be paid the difference. Several members told us their back pay came on October 27 as a separate deposit marked "Underpayment." The government still hasn't announced a payment date or amount. **If you're a couple and yours hasn't come, check your November 25 deposit, keep your statements, and ask your local AISH/ADAP office in writing.**
+
+## FROM THE GROUP TODAY: THE $200 CDB DEDUCTION
+I got a lot of questions today, so here's the short version:
+
+**Applying for the Disability Tax Credit (DTC) does NOT apply you for the CDB.** They're 2 separate applications. DTC first, then the CDB.
+
+**You can't opt out.** The AISH/ADAP rules say you must "claim income to which" you're entitled. Not applying doesn't stop the $200 coming off.
+
+**The only way to stop the deduction and get it paid back is a DENIAL letter for the DTC or the CDB.** Send it to your office, and the money comes back as an "underpayment."
+
+**If your CDB is LESS than $200 and they're taking $200, that's wrong.** They should only take what you actually get. We have a free letter to fix it in the [Take Action](https://albertadisabilitysystembreakdown.netlify.app/#take-action) section.
+
+The full breakdown is in our [field notes](https://albertadisabilitysystembreakdown.netlify.app/#field-notes) and the [FAQ](https://albertadisabilitysystembreakdown.netlify.app/#faq).
+
+## NO CLOCK CHANGE
+Alberta stayed on "Alberta Time" this morning. **If a phone or appliance jumped back an hour, it's wrong.**
+
+## WINTER HEAT RULE STARTED TODAY
+From today until **April 14**, natural gas can't be cut off for not paying. Bills still add up, so if you're behind, ask for a payment plan. **The Utilities Consumer Advocate helps for free: 310-4822.**
+
+## WHAT I'M WATCHING
+The Legislature is back **tomorrow, Monday, November 2.**
+
+Bill 33 is still only a bill, not law.
+
+The next increase to AISH and ADAP amounts is set for **January 1, 2027**, under the AISH regulation.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-01",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 1, 2026",
+    body: `Nothing changed for Alberta seniors' benefits or care in what I could read tonight. I didn't re-read the Canada Gazette (no new issue was due) or any court or tribunal decisions.
+
+## PAYMENT DATES
+**Alberta Seniors Benefit:** Tuesday, November 24, then Thursday, December 17
+
+**Old Age Security (OAS) and Canada Pension Plan (CPP):** Thursday, November 26, then Tuesday, December 22
+
+## OAS AND GIS, OCTOBER TO DECEMBER 2026
+**OAS, age 65 to 74:** up to $762.50 a month
+
+**OAS, age 75 and up:** up to $838.75 a month
+
+**Guaranteed Income Supplement (GIS), single:** up to $1,138.90 a month
+
+## PLANNING A HOME REPAIR?
+The **SHARP grant** (Seniors Home Adaptation and Repair Program) has a list of the most it will pay for each kind of job. For example:
+
+**Furnace:** up to $4,000
+
+**Roof:** up to $5,000
+
+**Hot water tank:** up to $1,000
+
+**Toilet:** up to $300 each
+
+Overall, it's **up to $5,000 a year and $15,000 in your lifetime**, and the job has to cost at least $500. **Check the list at [alberta.ca/sharp-grant](https://www.alberta.ca/sharp-grant) BEFORE you book, because anything over the listed amount is on you.**
+
+## ENERGY REBATE: CLOSED
+The $100 Energy Rebate closed on October 31 and wasn't extended again. If you were on the Alberta Seniors Benefit before July 1 and haven't seen it, call the program rather than applying.
+
+## IF YOU'VE SEEN NEWS ABOUT A "LODGE REVIEW PANEL"
+It isn't new. The panel started in January 2024, and its final report, with 19 recommendations, has been public since July 2025. We haven't seen anything yet that ties those recommendations to the new lodge rules that start January 1.
+
+## COMING UP
+**Federal Budget 2026** is this **Thursday, November 5.** I'll be reading it for anything on OAS, GIS, CPP and dental care.
+
+The Legislature is back **tomorrow, Monday, November 2.**
+
+## CLOCKS AND HEAT
+**No clock change:** Alberta is staying on "Alberta Time" all year.
+
+**Natural gas can't be cut off for not paying from today until April 14.** Bills still add up, so ask for a payment plan if you're behind. Free help: Utilities Consumer Advocate, **310-4822**.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-01",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 1, 2026",
+    body: `Nothing changed for families today. There was no new Alberta news release, no new regulation or order, the FSCD (Family Support for Children with Disabilities) rates are the same, and the FSCD policy manual's last update is still February 20, 2026.
+
+So tonight is about a few things worth knowing.
+
+## SECLUSION AND RESTRAINT IN SCHOOLS: WHAT THE RULES SAY
+Alberta's Standards for seclusion and physical restraint are part of a Ministerial Order, so **they're binding rules, not suggestions.** Here's what they say, word for word:
+
+_"Seclusion and physical restraint are measures of last resort."_
+
+They may only be used when a student's behaviour _"poses significant imminent danger of serious physical harm to themselves or others,"_ and must stop as soon as it doesn't.
+
+_"Seclusion and/or physical restraint are to never be used to punish or discipline children/students."_
+
+_"Only staff who have received specific training on the particular procedure are to attempt physical restraint or seclusion."_
+
+Schools _"are required to employ positive and proactive means"_ to prevent it.
+
+**What counts as seclusion?** _"The involuntary confinement or isolation of a person, alone in a room or area from which the person cannot freely exit or is physically prevented from leaving."_ **Seclusion and time-out are NOT the same thing.**
+
+**If you think the rules weren't followed,** write down the date, what happened and who was there, and ask the school in writing for their records and their seclusion and restraint policy.
+
+## TURNING 18 SOON?
+**You can apply for AISH up to 6 months before your young person's 18th birthday.** If they're approved early, benefits start the 1st of the month they turn 18. That's from the AISH/ADAP policy manual, which is policy, not a regulation.
+
+**If your young person already has PDD (Persons with Developmental Disabilities) approval,** the manual says AISH "will accept the PDD approval" as medical proof, instead of a fresh medical report.
+
+**The federal Canada Disability Benefit also lets you apply 6 months before 18.**
+
+## THE GST CREDIT LAW
+You may have seen Bill C-19 mentioned. **It's now law.** It raises the GST/HST credit, including an amount for each child. It does NOT change the Canada Child Benefit, the Child Disability Benefit or the Disability Tax Credit.
+
+## BILL 33 IS STILL ONLY A BILL
+It has had 2 readings and part of committee, but no final vote, and **it is not law.** Even if it passes, its Human Rights Act and Education Act parts don't start until the government proclaims them. The Legislature is back tomorrow.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-10-31",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — October 31, 2026",

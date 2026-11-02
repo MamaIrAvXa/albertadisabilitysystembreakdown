@@ -68,7 +68,7 @@ If you would rather wait and see, that is a fair choice. Keep your payment state
 
 **Update, October 11, 2026:** the government has now said something about timing. In a news release on **October 6, 2026**, it said affected couples "will be repaid the full difference, back to August 2026," that **no action is required**, and that payments are **expected before the end of 2026**. That is the government's own statement of what it intends, and it has not given a payment day, a method, or a total. It also has not said whether anything can be taken out of the repayment first, so the notice-before-deductions question in our request letter still stands.
 
-You still do not have to apply, and the request letter is still a fair way to keep a dated record. Keep your payment statements from August on, and check your November deposit, dated October 27, 2026, and the ones after it, to see which amount you are being paid. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026)_
+You still do not have to apply, and the request letter is still a fair way to keep a dated record. Keep your payment statements from August on, and check your deposits dated October 27 and November 25, 2026, and the ones after, to see which amount you are being paid. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026)_
 
 Where the worry about deductions comes from: the government's general page on underpayments says AISH and ADAP "pays the full amount of an underpayment," and also says money from an underpayment "may be used to pay debts you have to the Alberta government." That page says nothing specific about the couples repayment, so we still do not know whether it will be used here. Keep asking for notice in writing before any deduction. _(Alberta "AISH and ADAP overpayments and underpayments" page, read October 18, 2026)_`
       },
@@ -76,13 +76,13 @@ Where the worry about deductions comes from: the government's general page on un
         q: `Does the $100 Alberta energy rebate count against my AISH or ADAP, and do I have to apply?`,
         a: `The rebate is **$100 per eligible person**, and the government's page says rebates "are non-taxable and will not affect other government benefits." That is the government's own statement, which we have not seen tested, so check your next statement and tell us if anything looks off.
 
-**Do you have to apply?** If you were already on AISH (including if you were moved to ADAP), Income Support or the Alberta Seniors Benefit, you were enrolled automatically and there is nothing to do. If you came onto one of those programs **after July 1, 2026**, you have to apply yourself through the province's portal.
+**Did you have to apply?** If you were already on AISH (including if you were moved to ADAP), Income Support or the Alberta Seniors Benefit, you were enrolled automatically and there was nothing to do. If you came onto one of those programs **after July 1, 2026**, you had to apply yourself through the province's portal.
 
-**The deadline was extended.** Applications now close **October 31, 2026**. The portal stays open until then.
+**The application period has closed.** It was extended once, and ended on **October 31, 2026**. As of November 1, 2026, the government's rebate page still showed October 31 as the last day and named no later date. If you did not apply and think you should have, call Alberta Supports at 310-0000 (toll free in Alberta) and ask whether late applications are being accepted, and write down the date and who you spoke to.
 
-Anyone else can apply if they were 18 or older on July 1, 2026, live in Alberta, filed a 2025 tax return, and have a household income of $225,000 or less. Payment is made by direct deposit or Interac e-Transfer, after you verify who you are through online banking, photo ID, or your 2025 Notice of Assessment. The page says rebates are sent within 14 days of applying.
+Anyone else could apply if they were 18 or older on July 1, 2026, lived in Alberta, filed a 2025 tax return, and had a household income of $225,000 or less. Payment is made by direct deposit or Interac e-Transfer, after you verify who you are through online banking, photo ID, or your 2025 Notice of Assessment. The page says rebates are delivered within 14 days of applying. If you applied before the deadline and the 14 days have passed with no payment, ask in writing where your application stands and keep the answer.
 
-Keep it separate from the fuel-tax relief in the next answer, which needs no application. _(Alberta Energy Rebate page, read October 11, 2026)_
+Keep it separate from the fuel-tax relief in the next answer, which needs no application. _(Alberta Energy Rebate page, read November 1, 2026)_
 
 **Update, October 14, 2026:** it is now in writing from the program itself. Policy update **DIA-Program-2026-008** says the $100 rebate is not counted as income on AISH or ADAP, and a Ministerial Order exempts it as an asset, including anything you buy with it. For Income Support, update **IS-ETW/BFE-2026-012** and **Ministerial Order 2026-035** say the same: not a financial resource, not an asset. If your benefit went down after the rebate landed, call Alberta Supports at 310-0000 (toll free in Alberta; 1-877-644-9992 also works, per the payment-dates page), quote the update number, and write down the date and who you spoke to. _(DIA-Program-2026-008 and IS-ETW/BFE-2026-012, both October 14, 2026)_`
       },
@@ -90,7 +90,9 @@ Keep it separate from the fuel-tax relief in the next answer, which needs no app
         q: `Is there other help with costs this fall, besides the energy rebate?`,
         a: `One thing, and it applies to everyone, not just people on AISH or ADAP: Alberta's fuel-tax relief started again on **October 1, 2026**. The province is suspending the full provincial fuel tax, which the government says saves families **13 cents a litre** on gasoline and diesel, through the end of the year. You do not have to apply for it — it is taken off at the pump.
 
-Keep it separate from the $100 energy rebate, which is a one-time payment with its own deadline (see the rebate answer above). _(per the Treasury Board and Finance news release of September 30, 2026 and the government's Alberta Energy Rebate page, October 2026)_`
+Keep it separate from the $100 energy rebate, which was a one-time payment with its own deadline, now passed (see the rebate answer above). _(per the Treasury Board and Finance news release of September 30, 2026 and the government's Alberta Energy Rebate page, October 2026)_
+
+**Winter heat protection.** In Alberta, natural gas can't be disconnected for not paying from November 1 to April 14, and electricity can't be fully disconnected from October 15 to April 15. You can still be put on a load limiter, which caps how much power you can use at once, and unpaid bills still add up. If you're behind, call your provider and ask for a payment plan. The Utilities Consumer Advocate helps for free: 310-4822. _(Utilities Consumer Advocate winter rules, read October 31, 2026)_`
       },
       {
         q: `Once my Canada Disability Benefit is approved, how much does Alberta deduct?`,
@@ -110,7 +112,7 @@ From the **August 2026** payment, couples where both partners get AISH or ADAP w
 
 What the government has not said is the payment date, how the money will be paid, the total, or whether anything you owe it can be taken out first. The government's general page on underpayments says money from an underpayment may be used to pay debts you have to the Alberta government. Our answer above, *Do I have to apply to get the couples back pay?*, explains where that worry comes from and gives you a letter that asks for notice in writing before any deduction.
 
-What to do now: keep every payment statement from August on. Look at the deposit dated October 27, 2026 and the ones after it, to see which amount you are being paid. If the end of December comes and you have not been repaid, ask in writing for the payment date and a month-by-month calculation of what you are owed, and bring the answer here so we can compare notes.
+What to do now: keep every payment statement from August on. Look at your deposits dated October 27 and November 25, 2026, and the ones after, to see which amount you are being paid. Several members told us the back pay arrived on October 27 as its own separate deposit marked "Underpayment." The government has not announced a payment date or total, so your own statement is the record that counts. If you're still being paid the reduced amount, tell us. If the end of December comes and you have not been repaid, ask in writing for the payment date and a month-by-month calculation of what you are owed, and bring the answer here so we can compare notes.
 
 This applies to couples where **both** partners are on AISH or ADAP. If only one of you is, or if you are single, this change does not apply to you; the answer *Does the October 1 change help single people…* above lists what it leaves alone.
 
@@ -196,6 +198,53 @@ Nothing changes on your rent today, and none of this reaches you until your own 
         a: `Yes. From the **August 2026** benefit period, the monthly child benefit is **$300 for the first child, $117 for the second, $88 for the third, $59 for the fourth, and $30 for each additional child**. The government says the new rates will increase benefits for about **7,000 families** receiving disability income assistance.
 
 Check your own statement against those numbers. If you have a larger family, do the arithmetic against what you were paid before rather than assuming it went up. Ask in writing for a breakdown of how your child benefit was calculated. _(Alberta Disability Assistance Program page, read October 18, 2026)_`
+      },
+      {
+        q: `I was denied the DTC or the CDB. How do I get the $200 back?`,
+        a: `**Send AISH or ADAP your denial letter.** Email a copy to your local AISH/ADAP office with your full name and file number in the subject line. Once they have it on file, the $200 deduction should stop.
+
+**The money already taken comes back as a "benefit underpayment."** That means they're paying you what they should have paid you all along. It usually shows up as its own separate deposit. In a case we helped with, it took about 2 months from sending the denial letter to getting paid back. Copying (CC) your MLA on the email helps make sure it isn't lost or ignored.
+
+**If it doesn't come on its own, ask in writing.** Ask for the amount, the months it covers, and the date it will be paid. You can use our Underpayment Repayment Request form.
+
+A note: the government's page tells you to report a denial, but it does not spell out the repayment. Keep a copy of everything you send, and the date. _(alberta.ca/aish-apply-for-federal-disability-supports, published October 9, 2026, read November 1, 2026; repayment from a case ADSB assisted)_`
+      },
+      {
+        q: `If I apply for the DTC, am I automatically applied for the CDB?`,
+        a: `**No. They are 2 separate applications.** The Disability Tax Credit (DTC) goes to the Canada Revenue Agency and comes first. The Canada Disability Benefit (CDB) is a separate application to Service Canada, and you can only get it once you've been approved for the DTC. Being approved for the DTC does not apply you for the CDB.
+
+**Once your DTC is approved, apply for the CDB:** online at canada.ca (the fastest way), by phone at Service Canada 1-833-486-3007, in person at a Service Canada office, or on paper using form CDB0004.
+
+Report every answer you get to AISH or ADAP, approved or denied. _(canada.ca Canada Disability Benefit "Eligibility" and "How to apply" pages, read November 1, 2026)_`
+      },
+      {
+        q: `Can I just not apply for the DTC and CDB, so nothing gets deducted?`,
+        a: `**No. Not applying does not stop the deduction.** The government's fact sheet says the $200 comes off for people who don't apply, and for people who don't send proof of where their application stands.
+
+**Applying is a rule of staying on AISH or ADAP.** The policy manual lists what clients must do to stay eligible, including: "Make use of or claim income to which they are entitled." The fact sheet says: "Albertans receiving AISH are expected to apply for all income they may be eligible for."
+
+**Refusing can cost you more than $200.** The manual says AISH or ADAP "may refuse, vary, suspend, or discontinue a benefit" if a client doesn't meet those responsibilities. The manual also says those decisions "are not appealable," but the appeals regulation, which is the law, only exempts one of these responsibilities from appeal: not claiming CPP or Old Age Security. If you're told you can't appeal a cut like this, ask in writing which rule says so.
+
+So the only way to stop the deduction is to apply, and to get a denial. _(DIA Policy Manual, "Maintaining Eligibility"; CDB and DTC fact sheet for AISH recipients, April 2026; both read November 1, 2026; AR 89/2007 s.6, read November 1, 2026)_`
+      },
+      {
+        q: `My CDB is less than $200, but AISH is taking $200. Is that right?`,
+        a: `**No.** The regulation counts the CDB you actually receive as income (AR 96/2026, Schedule 1, section 1(1)(e)). If your CDB is $152, the deduction should be $152, not $200.
+
+**What to do:** send your local AISH/ADAP office a copy of your federal letter showing your CDB amount, with your full name and file number in the subject line. Ask them to correct the deduction, to pay back the extra for every month it was taken, and to answer you in writing. You can use our CDB Deduction Correction Letter.
+
+If they refuse, that written answer is what you need to appeal. You have 30 days from the date you receive notice of the decision. _(AR 96/2026, Sch.1 s.1(1)(e); AISH Act s.10.1(1)(b); read November 1, 2026)_`
+      },
+      {
+        q: `My spouse gets long-term disability (LTD) from work. Does that count against my ADAP?`,
+        a: `**It depends on who paid for the insurance.** The policy manual treats long-term disability 2 different ways:
+
+- **If your spouse paid the whole premium themselves**, for example it came off their paycheque and the employer paid nothing, the manual calls it an income protection plan and lists it as **"Fully Exempt."** It should not count at all.
+- **If the employer paid all or part of the premium**, the manual says it gets the **"Employment Exemption."** It's counted like work income, so part of it is protected. It should not come off dollar for dollar.
+
+**What to do:** ask the insurance company or the employer's HR, in writing, who paid the premiums. Send that letter to your local AISH/ADAP office and ask them to show you, in writing, how they're counting it.
+
+CPP Disability is different. If it's paid to the AISH or ADAP client, it counts in full. _(DIA Policy Manual, "Income Type Exemption Table", read November 1, 2026)_`
       }
     ]
   },
@@ -269,7 +318,7 @@ If you have already filed and then something new comes in, you are not stuck —
 
 Here is the clock nobody mentions, and it is the one that can close your file. If you were denied, you have **12 months from the date you were notified of that decision** to give the program additional information supporting your application or showing your situation has changed. After 12 months, sending more information is no longer enough — you have to submit a whole new Disability Income Assistance application and begin again. And the policy says plainly that this same 12-month limit applies to you if you **withdrew your appeal** so the program could review new material. Withdrawing is a real option and often the right one, but it does not stop that clock. Work out what date you are counting from before you choose.
 
-And if the 30 days is the thing standing in your way: you can ask for more time. Put the reason on the Notice of Appeal form — it is form AAS13358 — or write to the Appeals Secretariat, saying when you got the decision, when you learned about the 30 days, and why you could not file in time. It is decided by the Minister's delegate at the Appeals Secretariat and you get the answer in writing. Do not treat it as a reason to relax — ask early, and file as soon as you can. Bring it here and we will help you word either one. _(the bar on new information from the Applications and Appeals (Ministerial) Regulation, AR 89/2007, section 5(1.1), current to July 2, 2026 — carried forward from an earlier review, not re-opened this run; the 12-month limit and its application to withdrawn appeals from the DIA Policy Manual, Limits to the Appeal Panel's Authority; the withdraw route, the AAS13358 form and the time extension from the government's ADAP appeal page and the DIA Policy Manual, Appealing a Decision, September 2026)_`
+And if the 30 days is the thing standing in your way: you can ask for more time. Put the reason on the Notice of Appeal form — it is form AAS13358 — or write to the Appeals Secretariat, saying when you got the decision, when you learned about the 30 days, and why you could not file in time. It is decided by the Minister's delegate at the Appeals Secretariat and you get the answer in writing. Do not treat it as a reason to relax — ask early, and file as soon as you can. Bring it here and we will help you word either one. _(the bar on new information from the Applications and Appeals (Ministerial) Regulation, AR 89/2007, section 5(1.1), current to July 2, 2026, re-read November 1, 2026; the 12-month limit and its application to withdrawn appeals from the DIA Policy Manual, Limits to the Appeal Panel's Authority; the withdraw route, the AAS13358 form and the time extension from the government's ADAP appeal page and the DIA Policy Manual, Appealing a Decision, September 2026)_`
       }
     ]
   },
@@ -328,6 +377,16 @@ The exempt-programs list has also grown, from three programs to five. It now nam
 If that route does not work for you, there are others. You may qualify on income alone — taxable income (line 26000 of your most recent return) of $20,970 or less for a single person, $33,240 for a family with no children, or $39,250 for a family with children. There is a temporary exemption if your finances have just changed or you have extraordinary disability-related expenses. And if you are refused and paying would cause you hardship, you can appeal your cost-share status with AADL's own notice of appeal form.
 
 Three situations close the door on a cost-share exemption altogether, and they are easy to miss. You cannot apply if you are a new or returning resident from outside Canada who has not yet lived in Alberta for 12 consecutive months, if you are exempt from paying income tax for religious, charitable or communal reasons, or if you are a foreign student temporarily residing in Canada. _(the cost-share, the five named programs, the income thresholds, the temporary exemption, the notice of appeal form and the three exclusions confirmed on the government's AADL cost-sharing page; the flat AISH statement confirmed on the government's "What you get with AISH" page — both read September 2026)_`
+      },
+      {
+        q: `I have a medical appointment out of town, but I can't afford to pay up front. Do I have to?`,
+        a: `**The policy does not say you have to pay first.** AISH and ADAP have a travel benefit for health services outside your community. The manual says personal benefits, which include travel, are "normally" issued "at the end of the month for the following month," and "may be issued through a third party." That means your office can set the money up before you go, or pay the cab or hotel directly.
+
+**What you need:** a letter from the clinic or doctor that says what the service is, where it is, how long you'll be there, and how often you need to go.
+
+**What it covers:** the cheapest public transit, or if you can't reasonably take transit, 37 cents a kilometre or the cost of a taxi. If you're away more than 24 hours, food ($26 a day for an adult) and a hotel. You can also ask for someone to go with you.
+
+**Ask early, in writing.** Email your local AISH/ADAP office with your full name and file number in the subject line, attach the letter, and ask for the travel to be approved ahead of time. If they say no, ask for the reason in writing. After hours, the 24-hour line is 1-866-644-5135. _(DIA Policy Manual, "Travel" and "Personal Benefits", read November 1, 2026)_`
       }
     ]
   },
@@ -356,7 +415,7 @@ If you are contacted, you can still say in writing what you can and cannot relia
       },
       {
         q: `How much can I earn before it affects my AISH or ADAP?`,
-        a: `The government has now published the whole table, so we can give you all four figures instead of three. This is how much you can earn each month before it touches your benefits:
+        a: `The government has now published the whole table, so we can give you all four figures instead of three. As of November 2026, this is how much you can earn each month before it touches your benefits:
 
 - **AISH**, single or parent: **$350**
 - **ADAP**, single: **$700**
@@ -369,7 +428,7 @@ Here is what is still missing, and we will not guess at it. The government descr
 
 One hard rule underneath all of this: **report every pay on time**. The policy manual is blunt — if income has not been reported in a timely manner, or has been **willfully** misrepresented, "these exemptions are not applied." Not reduced. Not applied. That is the single most expensive mistake available to you, and it is entirely avoidable. Note the word *willfully*: a plain mistake you own and correct is not the same thing as hiding income, so if you got something wrong, tell them and fix it rather than saying nothing.
 
-A note on how partners are counted: if you and your partner are both on AISH or ADAP, your income is assessed separately on each file and you do not report each other's earnings. If your partner is not on the program, you each get your own fully exempt amount, they cannot be shared, and whatever is left over from both of you is added together for the partial exemption. _(AISH $350, ADAP $700, ADAP parent $1,100 and cohabiting partner $1,500 per the government's ADAP page earnings table and the ADAP fact sheet; reporting rule and partner treatment per the DIA Policy Manual, Employment and Self-Employment Income, September 2026. These are published government policy — the ministerial order that sets them has still not been published, and the figures are subject to the annual January 1 adjustment)_
+A note on how partners are counted: if you and your partner are both on AISH or ADAP, your income is assessed separately on each file and you do not report each other's earnings. If your partner is not on the program, you each get your own fully exempt amount, they cannot be shared, and whatever is left over from both of you is added together for the partial exemption. _(AISH $350, ADAP $700, ADAP parent $1,100 and cohabiting partner $1,500 per the government's ADAP page earnings table and the ADAP fact sheet; reporting rule and partner treatment per the DIA Policy Manual, Employment and Self-Employment Income, September 2026. These are published government policy — the ministerial order that sets them has still not been published, and under the regulation the figures rise whenever the minimum wage rises, not on a fixed January 1 date)_
 
 _(Update, October 5, 2026: the regulation says these amounts rise automatically whenever the minimum wage rises, rounded up to the next dollar — AR 96/2026, Schedule 1, section 4(3) — rather than on a fixed January 1 date.)_`
       },

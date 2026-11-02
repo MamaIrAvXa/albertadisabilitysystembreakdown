@@ -16,6 +16,108 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "The $200 CDB deduction: how to get it stopped, and why you can't just opt out (November 1, 2026)",
+        date: "2026-11-01",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `I'm getting a lot of questions about getting the $200 back, so here it is in one place.
+
+## THE SHORT VERSION
+**The ONLY way to stop the $200 coming off your AISH or ADAP, and get back what was already taken, is a DENIAL.** That means a letter saying you were denied the Disability Tax Credit (DTC) or the Canada Disability Benefit (CDB).
+
+**And you can't get denied if you never apply. Not applying does NOT stop the deduction.**
+
+## WHAT THE RULES SAY
+The AISH and ADAP Policy Manual lists what clients have to do to stay eligible. One of them is:
+
+_"Make use of or claim income to which they are entitled"_
+
+The manual's Income section says the CDB is income AISH and ADAP count:
+
+_"AISH and ADAP also considers the following income: Canada Disability Benefit (CDB)"_
+
+The government's CDB fact sheet for AISH recipients (April 2026) says:
+
+_"Albertans receiving AISH are expected to apply for all income they may be eligible for."_
+
+That fact sheet also says the $200 comes off for people who don't apply, and for people who don't send proof of where their application stands.
+
+And the manual says what can happen if you don't follow the rules:
+
+_"AISH or ADAP may refuse, vary, suspend, or discontinue a benefit for which a client is eligible if the client or cohabiting partner does not fulfill his or her responsibilities"_
+
+The manual also says those decisions "are not appealable." **But the appeals regulation, which is the law, only lists one of these responsibilities as exempt from appeal: not claiming CPP or Old Age Security.** The CDB isn't on that list. So if you're ever told you can't appeal a cut like this, ask them in writing to show you which rule says so.
+
+## WHAT THAT MEANS IN PLAIN WORDS
+Being on AISH or ADAP means **you have to apply for any money you might qualify for.** The CDB is one of those.
+
+If you don't apply, **they take the $200 off anyway**, as if you were getting it.
+
+If you refuse to apply, **they can also cut or stop your AISH or ADAP.**
+
+So there's no opting out. **Not applying just means you lose the $200 AND risk your benefits.**
+
+## HOW THE DTC AND CDB FIT TOGETHER
+You can't get the CDB without first being approved for the DTC. So it goes in this order:
+
+**1. Apply for the DTC.** Your doctor or nurse practitioner fills out part of the form.
+
+**2. If the DTC is approved, apply for the CDB.**
+
+**3. Report every answer you get to AISH or ADAP, approved OR denied.**
+
+## IF YOU GET DENIED
+**1. Send a copy of your denial letter to your local AISH/ADAP office.** Put your full name and file number in the subject line.
+
+**2. Once they have it, the $200 should stop coming off.**
+
+**3. Ask for what they already took to be paid back.** It comes back as a "benefit underpayment." That just means they're paying you what they should have paid you all along. It usually shows up as its own separate deposit.
+
+I've walked someone through this myself. Their deduction stopped and they were paid back.
+
+## FREE FORMS TO HELP
+**Ask for the money back after a denial:** [CDB Underpayment Repayment Request (fillable PDF)](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/fillable/september-2026-updates/Fillable_CDB_Underpayment_Repayment_Request_with_guide.pdf)
+
+**Ask them to fix a deduction that's wrong** (for example, they're taking more than the CDB you get): [CDB Deduction Correction Letter (fillable PDF)](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/fillable/Fillable_CDB_Deduction_Correction_Letter_v2_July2026.pdf)
+
+**Report your DTC or CDB status to the government here first:** [alberta.ca/aish-apply-for-federal-disability-supports](https://www.alberta.ca/aish-apply-for-federal-disability-supports)
+
+## IF YOU GET THE FULL CDB
+Then the $200 deduction is the policy right now, and your worker can't change it. **If you want it to end, write to your MLA and the Minister and tell them what that $200 means for you.**
+
+**Keep a copy of everything you send, and the date you sent it.**`
+      },
+      {
+        title: "Is the $204 coming back? Here's where that idea came from (October 31, 2026)",
+        date: "2026-10-31",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `A few of you have asked if the government is giving back the Canada Disability Benefit money it takes off AISH and ADAP. I dug into it. **Right now, the answer is no.** Nothing from the government says the deduction is ending or being paid back.
+
+Here's where the idea likely came from. All three of these are real, but **none of them gives the money back:**
+
+## 1. MOTION 520
+Marie Renaud has a motion on the Legislature's agenda asking the government to cancel the deduction and pay back what was taken. **A motion is a request. It isn't a law, and even if it passes, the government doesn't have to act on it.** It's been on the agenda since at least April and hasn't been debated yet. It also only names AISH, not ADAP.
+
+## 2. NEWS STORIES ABOUT THE $204.20
+The Canada Disability Benefit pays up to $204.20 a month across Canada, and news stories about it get shared a lot. They're written for the whole country. **They don't mention that Alberta takes it off your AISH or ADAP.**
+
+## 3. THE COUPLES REVERSAL
+In October the government reversed the couples cut and paid back pay. Some headlines called it a "U-turn" on disability benefits. **That was couples only.**
+
+## WHAT'S TRUE RIGHT NOW
+If you get the Canada Disability Benefit, **Alberta still counts it as income and takes it off your AISH or ADAP.**
+
+If your application had no decision by February 28, **$200 a month has been taken off since April, whether you get the benefit or not.**
+
+## IF YOUR APPLICATION WAS DENIED, OR YOU NEVER GET THE BENEFIT, AND $200 IS STILL COMING OFF
+**1. Report your status to your local AISH/ADAP office in writing.** Put your full name and file number in the subject line.
+
+**2. Use our fill-in CDB Deduction Correction Letter** in the [Take Action](https://albertadisabilitysystembreakdown.netlify.app/#take-action) section. There's also a version you can copy into an email in [Email a Letter](https://albertadisabilitysystembreakdown.netlify.app/#email-letters).
+
+**3. Keep your statements showing the deduction, and your denial letter.**
+
+If the government ever changes this, I'll post it the same day, with the document.`
+      },
+      {
         title: "New on the website: Home Care and Self-Managed Care (October 29, 2026)",
         date: "2026-10-29",
         streams: ["Continuing Care / Home Care", "Seniors Benefits CPP/CPPD", "AISH / ADAP / CPP-D"],
