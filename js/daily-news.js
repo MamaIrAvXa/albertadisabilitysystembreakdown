@@ -9,6 +9,132 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-11-02",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 2, 2026",
+    body: `The Legislature is back. In what I could read tonight, nothing changed for AISH, ADAP or the Canada Disability Benefit (CDB). There are still a few places I couldn't open, so I'm saying "nothing changed in what I could read."
+
+## ENERGY REBATE UPDATE (AND A CORRECTION)
+Last night I said that if you hadn't seen your $100 rebate, you should call rather than apply. The government's page changed today, so here's the updated version:
+
+**Applications closed October 31.**
+
+**If your application was REJECTED and you've fixed the problem, you can resubmit it until November 20.**
+
+If your payment shows as **"failed,"** you can update your payment details or re-send it from your application.
+
+**The phone line closes this Friday, November 6, at 4:30 p.m.**
+
+**No payments go out after November 30.**
+
+If you were on AISH, ADAP or Income Support before July 1, you were signed up automatically.
+
+## DATES TO KNOW
+**CDB payment:** Thursday, November 19 (the 3rd Thursday of the month)
+
+**AISH/ADAP December payment:** Wednesday, November 25
+
+The CDB is **$204.20 a month** until June 2027.
+
+## COUPLES
+Still no government date or amount for couples' back pay. Members told us theirs came on October 27 as a separate "Underpayment" deposit. **If yours hasn't come, check your November 25 deposit and ask your local AISH/ADAP office in writing.**
+
+## AT THE LEGISLATURE
+**A new health bill is coming: Bill 39, the Health Statutes Amendment Act, 2026 (No. 2).** The text isn't out yet. I'll read it as soon as it is.
+
+An article titled **"The Price of Love: When Policy Decides If Disabled People are 'Really' a Couple"** was tabled in the Legislature today. That means it's now part of the official record.
+
+**Bill 33 is still only a bill, not law.**
+
+## FEDERAL BUDGET THIS THURSDAY
+Ottawa's budget comes out **Thursday, November 5.** I'll be reading it for anything on the CDB, the Disability Tax Credit, CPP and OAS.
+
+## FROM THE GROUP TODAY
+**Travel to medical appointments:** the AISH/ADAP manual does NOT say you have to pay up front. It says benefits are "normally" issued ahead of time and "may be issued through a third party." **If you can't afford to pay first, ask in writing.**
+
+**VAD (Voice of Albertans with Disabilities) has closed.** If you had an appointment with them, message me and we'll find your next step.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-02",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 2, 2026",
+    body: `Nothing changed in seniors' benefit amounts, care charges or coverage in what I could read tonight.
+
+## LODGE RATES
+If you missed it earlier today: **the government has set the new minimum lodge rate.** It's about **$1,500 a month for a single resident** and about **$2,100 for a couple**, starting in 2027 or 2028 depending on the lodge. My full post, including who it could hit hardest, is in the [field notes](https://albertadisabilitysystembreakdown.netlify.app/#field-notes): "Lodge rates: the new minimum rate has been set."
+
+## ENERGY REBATE UPDATE (AND A CORRECTION)
+Last night I said to call the program rather than applying. The page changed today:
+
+**If your application was rejected and you've fixed the problem, you can resubmit until November 20.**
+
+If your payment shows **"failed,"** you can re-send it from your application.
+
+**The phone line closes Friday, November 6, at 4:30 p.m.**
+
+**No payments go out after November 30.**
+
+If you're on the Alberta Seniors Benefit, you were enrolled automatically.
+
+## PAYMENT DATES
+**Alberta Seniors Benefit:** Tuesday, November 24
+
+**OAS and CPP:** Thursday, November 26
+
+## AT THE LEGISLATURE
+**A new health bill is on notice: Bill 39, the Health Statutes Amendment Act, 2026 (No. 2).** The text isn't out yet. I'll read it for anything that touches Coverage for Seniors or drug coverage.
+
+A report about a Calgary continuing care home was tabled today, titled **"Lower Standards than Prison: the Consequences of Underfunding."** I haven't read it yet, so I won't say what's in it until I have.
+
+## FUEL TAX
+Alberta's fuel tax relief (13 cents a litre) runs until the end of this year, **December 31.** Some news headlines say "until 2027," but the government's own release says "until the end of the year."
+
+## FEDERAL BUDGET THURSDAY
+Budget day is **Thursday, November 5.** I'll be reading it for OAS, GIS, CPP and dental care.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-02",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 2, 2026",
+    body: `Nothing changed for FSCD (Family Support for Children with Disabilities) today. Every FSCD rate is the same, and the FSCD policy manual's last update is still February 20, 2026.
+
+## BILL 35: WHAT THE GOVERNMENT SAYS IT WILL DO
+Bill 35 is a new education bill. **It's NOT law yet.** It had first reading on October 29. Here's what the government's own fact sheet says about it:
+
+**3 Ministerial Orders would fill in the details.** One of them would set rules for how school boards handle parents' questions and complaints that haven't been resolved.
+
+The fact sheet says the current school, school board and Ministerial review processes **"would remain unchanged."**
+
+**Schools would have to publish what each non-instructional day (like a PD day) was used for, within 60 days.** Right now they don't have to.
+
+The government expects the changes to start in time for the **2027-28 school year**, if the bill passes.
+
+**One thing I noticed:** in both of the government's explanations of Bill 35, the words "disability," "special needs," "inclusive," "special education" and "accommodation" don't appear even once. That doesn't tell us what's in the bill itself, but it's worth watching as it moves forward.
+
+## BILL 33 IS STILL ONLY A BILL
+The Legislature sat today, but Bill 33 didn't move. It's expected back in committee on Wednesday. **It is not law.**
+
+## FSCD REMINDERS
+**FSCD can't pay a relative to provide services,** with one exception: an adult relative who isn't a parent can provide respite.
+
+**Respite** is up to 240 hours a year. **Mileage** is 12 cents a kilometre, and **hotels** are up to $85 a night.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-11-01",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — November 1, 2026",
@@ -23,6 +149,8 @@ The CDB is **$204.20 a month** from July 2026 to June 2027.
 
 ## ENERGY REBATE: CLOSED
 The $100 Alberta Energy Rebate closed on October 31, and it was not extended again. If you were on AISH, ADAP or Income Support before July 1, you were signed up automatically. **If you haven't seen it, contact Alberta Supports at 310-0000 rather than applying.**
+
+_Updated November 2, 2026: the government's page changed after this was posted. If your application was rejected and you've fixed the problem, you can resubmit it until November 20. If your payment shows as "failed," you can update your payment details or re-send it from your application. The phone line closes Friday, November 6, at 4:30 p.m. No payments go out after November 30. See the November 2 update._
 
 ## COUPLES
 The 88% couples rate is gone, and the law says couples paid less "must" be paid the difference. Several members told us their back pay came on October 27 as a separate deposit marked "Underpayment." The government still hasn't announced a payment date or amount. **If you're a couple and yours hasn't come, check your November 25 deposit, keep your statements, and ask your local AISH/ADAP office in writing.**
@@ -91,6 +219,8 @@ Overall, it's **up to $5,000 a year and $15,000 in your lifetime**, and the job 
 
 ## ENERGY REBATE: CLOSED
 The $100 Energy Rebate closed on October 31 and wasn't extended again. If you were on the Alberta Seniors Benefit before July 1 and haven't seen it, call the program rather than applying.
+
+_Updated November 2, 2026: the government's page changed after this was posted. If your application was rejected and you've fixed the problem, you can resubmit it until November 20. If your payment shows as "failed," you can update your payment details or re-send it from your application. The phone line closes Friday, November 6, at 4:30 p.m. No payments go out after November 30. See the November 2 update._
 
 ## IF YOU'VE SEEN NEWS ABOUT A "LODGE REVIEW PANEL"
 It isn't new. The panel started in January 2024, and its final report, with 19 recommendations, has been public since July 2025. We haven't seen anything yet that ties those recommendations to the new lodge rules that start January 1.
