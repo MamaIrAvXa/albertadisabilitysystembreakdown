@@ -16,6 +16,80 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "A good AKG experience to share (November 2, 2026)",
+        date: "2026-11-02",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `A member shared her AKG assessment with me today and said I could pass it along, because so many of you are nervous about yours. (AKG Canada is the company that runs ADAP employment assessments in the north of the province.)
+
+She went in feeling defeated and emotional, and honestly expecting the worst. Here's what happened:
+
+They asked about her finances, her family, her education, and then her health and medical information, roughly in that order.
+
+**The assessor treated her like a person, not a number.**
+
+She already works 2 jobs and didn't understand why she needed AKG at all. **They told her the goal was to make sure she has support to KEEP working.**
+
+They're connecting her with a service navigator in the same office to help her get psychiatric support.
+
+**They're building her action plan with her.**
+
+**Her advice:** if you go in defensive, some of the questions can feel really triggering and intrusive, and that's okay. It's normal to feel that way. Just know it's coming, and it may help to remind yourself why they're asking.
+
+## STILL GO IN PREPARED
+Everyone's experience is different, and not every assessment goes this well. So still go in prepared:
+
+**Read the "What They Ask" guide** so you know what's coming: [What They Ask: Alberta North (PDF)](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/september-2026-docs/ADSB_What_They_Ask_Alberta_North_Sept2026.pdf)
+
+**Be honest about your limits and your bad days.**
+
+**Ask for a written summary of anything you agree to.**
+
+**Read your action plan carefully before you agree to it,** and ask for changes if something doesn't fit.
+
+But it's good to know it CAN go well. Thank you to the member who shared this.`
+      },
+      {
+        title: "Lodge rates: the new minimum rate has been set (November 2, 2026)",
+        date: "2026-11-02",
+        streams: ["Seniors Benefits CPP/CPPD", "Continuing Care / Home Care", "AISH / ADAP / CPP-D"],
+        body: `Back on Tea Time, I promised to find out what the new minimum lodge rate would be. Here it is, from the Minister's order itself (**Ministerial Order 2026-032**, signed September 24, effective January 1, 2027).
+
+## WHAT IT SAYS
+Seniors lodges will have a **minimum basic lodge rate.** That's the lowest monthly rate a lodge can charge. It's set by a formula:
+
+**the full Old Age Security (OAS) pension (age 65 to 74) + the full Guaranteed Income Supplement (GIS), minus the minimum amount a resident must be left with each month ($373 right now), rounded DOWN to the nearest $100.**
+
+## WHAT THAT WORKS OUT TO FOR 2027
+Using the October to December 2026 OAS and GIS amounts, which is what the order uses:
+
+**Single resident:** about $1,500 a month
+
+**Couple:** about $2,100 a month
+
+**Rooms under 300 square feet:** the lodge MAY take up to $100 off
+
+## WHEN
+The order starts **January 1, 2027**, but the regulation gives lodges until **January 1, 2028** to start charging it. So some lodges may change in 2027 and some in 2028.
+
+## WHO THIS COULD HIT HARDEST
+The rule that says every lodge resident must be left with at least $373 a month is still there. But the regulation now says that rule is **"subject to"** the minimum rate. In plain words: **the $373 can't push your rate below the minimum.**
+
+If you get the **FULL** OAS and GIS, the math still leaves you at least $373.
+
+If you get **LESS** than the full amounts (for example, partial OAS because of fewer years in Canada), **the minimum rate could leave you with less than $373 a month.**
+
+## WHAT TO DO NOW
+**If you or a family member live in a lodge, ask the lodge in writing what your rate will be in 2027 and 2028, and how they worked it out.**
+
+If you get partial OAS, ask specifically whether you'll still be left with at least $373 a month.
+
+**Keep the answer.**
+
+The order names lodge residents on AISH too. We're still working out how it applies to them, and I'll post once I know.
+
+For the background, see our October 26 field note, "New: a minimum lodge rate is coming."`
+      },
+      {
         title: "The $200 CDB deduction: how to get it stopped, and why you can't just opt out (November 1, 2026)",
         date: "2026-11-01",
         streams: ["AISH / ADAP / CPP-D"],
