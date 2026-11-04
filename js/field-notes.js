@@ -16,6 +16,106 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Cheaper internet and phone through TELUS (November 4, 2026)",
+        date: "2026-11-04",
+        streams: ["AISH / ADAP / CPP-D", "Seniors Benefits CPP/CPPD", "General Topics"],
+        body: `Thanks to a member for this tip! TELUS has a program called **INTERNET FOR GOOD** for people with disabilities in Alberta.
+
+## WHO QUALIFIES
+You must get one of these and be able to show proof:
+
+**AISH or ADAP**
+
+**Canada Disability Benefit (CDB)**
+
+**CPP Disability**
+
+## THE PLANS (plus tax, for 24 months)
+**$10/month:** 25 Mbps, 300 GB of data, up to 3 devices. Good for email, browsing and video calls.
+
+**$20/month:** 50 Mbps, unlimited data, up to 5 devices.
+
+**$35/month:** 150 Mbps, unlimited data, up to 11 devices.
+
+**No contract and no cancellation fees.** Faster plans depend on what's available where you live.
+
+## HOW TO APPLY
+Go to [telus.com/InternetForGood](https://www.telus.com/InternetForGood) and click "Apply now". Upload proof you get AISH/ADAP, CDB or CPP Disability. TELUS says it answers within 1 week, then gives you a code and a number to call to sign up.
+
+One member says you can also call TELUS and ask for Internet for Good, and they'll transfer you.
+
+## IMPORTANT: RENEW BEFORE 2 YEARS
+The low price lasts 24 months. **Starting month 25, you pay regular price unless you reapply.** TELUS does NOT remind you. **Write your sign-up date on your calendar and reapply before your 2-year anniversary.**
+
+## ALSO FROM TELUS
+**Smartphone discount:** $20/month off TELUS smartphone plans for people with disabilities. Call **1-866-572-4698** and ask about the "TELUS Accessibility Discount."
+
+**Tech for Good:** free one-on-one help from assistive technology specialists (through March of Dimes Canada) if your disability makes it hard to use a phone, computer or tablet. You don't have to be a TELUS customer.
+
+Find it all on TELUS's [People with disabilities](https://www.telus.com/en/social-impact/connecting-canada/connecting-for-good-programs/people-with-disabilities) page.`
+      },
+      {
+        title: "Resources an ADAP supervisor shared, Edmonton area (November 4, 2026)",
+        date: "2026-11-04",
+        streams: ["AISH / ADAP / CPP-D", "Children / FSCD", "Income Support", "General Topics"],
+        body: `A member had a helpful call with an ADAP supervisor this week, and the supervisor followed up in writing with a list of community resources. The member asked me to share it. **Most of these are for the Edmonton area. If you're somewhere else, 211 can find the ones near you.**
+
+## IF YOUR HOME BECOMES UNSAFE
+If your home becomes unsafe or you need to leave right away after hours, the supervisor said to call the **Crisis and Support after-hours line: 780-644-5135.** During the day, call your AISH/ADAP office.
+
+## MENTAL HEALTH
+**Access 24/7** (adults, Edmonton): **780-424-2424.** Mental health support, assessments and referrals.
+
+**Alberta Mental Health Helpline:** **1-877-303-2642**, 24 hours a day.
+
+## FOOD AND BASIC NEEDS
+**Edmonton Food Bank:** 780-425-4190, for food hampers.
+
+**St. Vincent de Paul:** 780-471-5577. May help with groceries, household items and other basic needs, depending on what's available.
+
+**211 Alberta:** call 211 or text INFO to 211 to find community resources and financial help near you.
+
+## FAMILIES AND AUTISM
+**Autism Edmonton:** parent and caregiver support groups.
+
+**Family Resource Networks:** free family support, parenting resources and child development programs.
+
+**Centre for Autism Services Alberta:** programs, parent mentoring and family workshops.
+
+**If you're waiting on FSCD,** the supervisor suggested calling FSCD to ask what family support is available while you wait for the full assessment.
+
+## ONE THING TO ASK ABOUT IN WRITING
+The member was told by phone that if AISH/ADAP has helped with a home repair before, they can help again, but a second repair within 3 years of the first needs a repayment plan. **This was NOT in the written email, and I haven't found it in the policy yet.** If you need a home repair, **ask your office to put the rules in writing before you agree to anything.**
+
+**And a tip from this member's situation:** if you have home insurance, compare the repair cost to your deductible before you ask anyone for help. Sometimes paying a small repair yourself protects your insurance discounts.`
+      },
+      {
+        title: "Alberta's new riding maps (November 3, 2026)",
+        date: "2026-11-03",
+        streams: ["General Topics"],
+        body: `On **Monday, November 2**, new electoral boundary maps were tabled in the Legislature. "Electoral boundaries" are the lines that decide which riding you vote in and who your MLA is.
+
+## WHAT THE NEW MAPS DO
+**The number of ridings goes from 87 to 91.**
+
+Lethbridge's 2 ridings become 4, with three of them reaching into nearby rural areas.
+
+3 west Calgary ridings are combined with rural areas.
+
+## WHAT EACH SIDE SAYS
+**The NDP** says the maps are drawn to favour the UCP, wants the original commission's majority map used instead, and has said it will go to court if these maps are adopted.
+
+**The government** says the maps came from an independent, judge-led committee and that the NDP doesn't want change.
+
+## THE ELECTION DATE
+**The next election is still set for October 18, 2027.** Alberta's chief electoral officer has warned it should either use the current boundaries or be postponed, because of how much time it takes to prepare. The Justice Minister says Elections Alberta has enough time.
+
+## WHAT HAPPENS NEXT
+The maps will be debated in the Legislature this week. The Justice Minister expects the final boundaries to be settled before Christmas.
+
+**Whatever happens with the maps, make sure you're registered to vote.** When the final boundaries are set, I'll share how to check which riding you're in.`
+      },
+      {
         title: "The CDB lump sum clawback: what's happening, why, and what to do if you get a letter (November 3, 2026)",
         date: "2026-11-03",
         streams: ["AISH / ADAP / CPP-D"],
