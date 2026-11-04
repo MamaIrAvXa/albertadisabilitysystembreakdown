@@ -9,6 +9,140 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-11-03",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 3, 2026",
+    body: `## THE CDB LUMP SUM LETTERS
+Some of you are getting letters asking you to pay back the CDB lump sum (the back payment some people got when their CDB was first approved). I posted a full breakdown today: why they're taking it, how to check the math, and how to set up a repayment agreement if you already spent it. **Go read that post before you pay anything.** It's in the [field notes](https://albertadisabilitysystembreakdown.netlify.app/#field-notes): "The CDB lump sum clawback: what's happening, why, and what to do if you get a letter."
+
+One thing to add: the canada.ca CDB page says the $150 supplement is a fixed, one-time lump sum, paid for each approved Disability Tax Credit certificate, and you don't have to apply for it. **Under the AISH/ADAP regulation, that $150 is NOT counted as income.** If it's included in what they're asking you to repay, it shouldn't be.
+
+## BILL 33 GOT THROUGH COMMITTEE
+Bill 33 (the bill that would stop public bodies from using DEI programs in their own hiring) got through Committee of the Whole on Tuesday with no changes. It's now listed for third reading, the final vote. **It is NOT law yet.**
+
+The Human Rights Act part was voted on separately from the rest of the bill. The record doesn't say why or what the vote count was, so I won't guess.
+
+Even if it passes, the Human Rights Act part only starts on a date the government sets later ("proclamation").
+
+It covers public bodies like government agencies, school boards, post-secondary schools and municipalities. **It isn't about wage support for employers who hire people with disabilities, and employers' duty to accommodate stays in place.**
+
+## "LIFE ON ADAP" TABLED IN THE LEGISLATURE
+On Tuesday, Marie Renaud tabled a document called **"Life on ADAP"** by Heather Leigh Cameron. Tabling means it's now part of the official record of the Legislature. I haven't read it yet. I'll tell you what's in it when I have.
+
+## ENERGY REBATE: LAST CALLS
+**The phone line closes THIS FRIDAY, November 6, at 4:30 pm.**
+
+If your application was rejected and you've fixed the problem, **you can resubmit until November 20.**
+
+**No payments go out after November 30.**
+
+Reminder: if you were on AISH, ADAP or Income Support before July 1, you were enrolled automatically.
+
+## DATES TO KNOW
+**Canada Disability Benefit:** $204.20 a month through June 2027.
+
+**Next provincial payment (for December):** November 25.
+
+**Federal budget:** Thursday, November 5. I'll be reading it for anything that touches disability benefits, CPP and OAS.
+
+## STILL WAITING
+Couples who were paid the 88% rate: there's still no government date or amount for the back pay. I'm not going to put numbers in front of you until there's a real source. **Keep your statements.**
+
+## WHAT I CHECKED
+I checked the Alberta newsroom, the lists of new Orders in Council and Ministerial Orders, the Energy Rebate page, the payment dates page and the federal CDB page. In what I could read tonight, nothing changed for AISH, ADAP or the CDB. I couldn't open the Gazettes, the AISH Act file or the federal newsroom, so I'm saying "nothing changed in what I could read."
+
+**When you email your AISH/ADAP office, put your full name and file number in the subject line, CC your MLA and Marie Renaud (St.Albert@assembly.ab.ca), and keep a copy of everything.**
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-03",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 3, 2026",
+    body: `## FEDERAL BUDGET THIS THURSDAY
+The federal budget comes out **Thursday, November 5.** I'll be reading it for OAS, GIS, CPP and dental care, and I'll tell you what I find.
+
+## DENTAL: "SECOND PAYER"
+In the Legislature on Monday, the Premier said Alberta decided to be "second payer" for dental, and that "Seniors are going to be able to access the federal program." **In plain words: if you qualify for the federal Canadian Dental Care Plan, it pays first.**
+
+## 2 HEALTH BILLS ON NOTICE
+**Bill 39**, the government's new health bill, still hasn't been introduced. It's on notice again for Wednesday.
+
+**Bill 214** from Sarah Hoffman (Opposition) is also on notice. It names the Alberta Health Care Insurance Act.
+
+Neither text is out yet. I'll read both as soon as they are, and tell you if either touches Coverage for Seniors, premiums or drug coverage.
+
+## BILL 33
+Bill 33 got through committee on Tuesday with no changes and is now listed for third reading, the final vote. **It is not law yet.** The Human Rights Act part only starts on a date the government sets later. Who it would cover in seniors' care still isn't clear, and I'm not going to guess.
+
+## ENERGY REBATE: LAST CALLS
+**Phone line closes THIS FRIDAY, November 6, at 4:30 pm.**
+
+Rejected application and you fixed the problem? **Resubmit by November 20.**
+
+**No payments after November 30.**
+
+If you were on the Alberta Seniors Benefit before July 1, you were enrolled automatically.
+
+## PAYMENT DATES
+**Alberta Seniors Benefit:** November 24 and December 17
+
+**OAS and CPP:** November 26 and December 22
+
+## BOTTOM LINE
+Nothing changed for Alberta seniors' benefits or care in what I could read tonight. I didn't re-read the Canada Gazette (no new issue was due), Tuesday's Hansard (not posted yet), or any court and tribunal decisions.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-03",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 3, 2026",
+    body: `## BILL 33 MOVED A STAGE
+Bill 33 got through Committee of the Whole on Tuesday afternoon with no changes. It's now listed for third reading, the final vote. **It is NOT law yet.**
+
+2 parts of it matter to families:
+
+**The Education Act part** changes the grounds for suspending or expelling a student.
+
+**The Human Rights Act part** would stop public bodies, including school boards, from using DEI programs in hiring and promotion.
+
+A member asked for the bill to be voted on in 2 separate blocks. The Human Rights Act part was voted on by itself. The Education Act part was voted on with the rest of the bill. The record doesn't show the vote counts or the reason for the split. The transcript of Tuesday's debate isn't posted yet, so I'm not going to guess.
+
+**Even if Bill 33 passes third reading, BOTH of these parts only start on a date the government sets later ("proclamation").** I'll keep watching.
+
+## BILL 35 (PARENTAL INVOLVEMENT)
+Bill 35, the Education and Childcare (Securing Parental Involvement) Statutes Amendment Act, started its second reading on Tuesday, and the debate was adjourned. It's still at second reading. **It is not law.** The 3 Ministerial Orders it promises still don't exist.
+
+## BILL 38: NOTHING FOR K-12
+Bill 38 was introduced Tuesday. I read all 44 pages. It only changes post-secondary and professional regulation laws. **It doesn't touch the Education Act and doesn't mention disability.**
+
+**For families with kids heading to college or university:** the government announced that parental income is being removed from provincial student aid assessments for 2026-27.
+
+## FSCD RATES: UNCHANGED
+I read the FSCD Regulation tonight. Nothing changed, including:
+
+**Mileage:** $0.12 per kilometre
+
+**Respite:** up to 240 hours a year
+
+**Clothing and footwear linked to your child's disability:** up to $400 a year
+
+## BOTTOM LINE
+Nothing changed in what I could read tonight, except that Bill 33 moved a stage. I couldn't read the federal Orders in Council database or 2 federal department news pages, and the transcript of Tuesday's sitting isn't posted yet.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-11-02",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — November 2, 2026",

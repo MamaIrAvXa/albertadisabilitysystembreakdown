@@ -16,6 +16,88 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "The CDB lump sum clawback: what's happening, why, and what to do if you get a letter (November 3, 2026)",
+        date: "2026-11-03",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `Some of you are getting letters saying you have to pay back CDB money. Before anyone panics, here's the whole picture in one place.
+
+## THE SHORT VERSION
+**These letters are about the CDB LUMP SUM**, the back payment some people got when their Canada Disability Benefit (CDB) was first approved. **They are NOT about your monthly cheque.**
+
+**If you never got a lump sum, this letter isn't about you.**
+
+I've been saying since April that the lump sum was on the clawback list. My guess is the letters took this long because of all the changes and the launch of ADAP.
+
+## WHY THEY'RE TAKING IT
+AISH and ADAP count the CDB as income. The government's CDB fact sheet for AISH recipients (April 2026) says:
+
+_"The CDB will be treated as non-exempt income for AISH recipients."_
+
+"Non-exempt" means none of it is protected. **Every dollar of CDB you get comes off your AISH or ADAP, dollar for dollar.** It's written into the regulation at AR 96/2026, Schedule 1, section 1(1)(e).
+
+There are 2 parts to this:
+
+**1. THE MONTHLY DEDUCTION**
+
+Since April 2026, AISH and ADAP have been taking the CDB off cheques every month: **$200 if your CDB application had no decision by February 28, and the CDB you actually get once you're approved.** That's already happening, and these letters don't change it.
+
+**2. THE LUMP SUM**
+
+If your CDB was approved after it started, Ottawa may have paid you a lump sum covering the earlier months. **AISH and ADAP count that lump sum as income too, so they're now asking for it back.**
+
+Alberta is the only province or territory that claws back the CDB.
+
+## CHECK THE MATH BEFORE YOU PAY ANYTHING
+**Don't just accept the number on the letter.** Check these 2 things:
+
+**Months already taken.** If the $200 already came off your cheque for some of the months the lump sum covers, you already paid those months. They shouldn't charge you a second time for them.
+
+**The $150 payment.** Some people's CDB included a one-time $150 payment meant to cover the cost of applying for the Disability Tax Credit. **That $150 is NOT counted as income.** The regulation only counts a CDB payment that is _"not paid for the purpose of offsetting a person's cost of applying for a disability tax credit."_ If your lump sum included the $150, it should not be part of what you owe.
+
+## WHAT THE LETTER SHOULD TELL YOU
+Minister Neudorf wrote to me on October 29 that when someone owes money, they _"will be notified of the amount, the reason it occurred and any available review or appeal rights."_
+
+So your letter should show:
+
+How much you owe
+
+Why you owe it
+
+Your review or appeal rights
+
+**If your letter doesn't show how they got the number, ask for a month-by-month breakdown in writing.**
+
+**If your letter lists appeal rights, the clock is 30 days from the day you RECEIVE the letter. Write down the date it arrived.**
+
+## IF YOU ALREADY SPENT THE LUMP SUM
+**You can sign a repayment agreement.** That means they take a small amount off each cheque until it's paid back, instead of all at once. You don't have to come up with the whole amount.
+
+The government form is called the **AISH and ADAP Repayment Agreement (DS0976).** Here's a free fillable copy with plain-language notes: [Repayment Agreement DS0976 (fillable PDF)](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/fillable/ADSB_Fillable_DS0976_AISH_and_ADAP_Repayment_Agreement.pdf)
+
+**Before you sign it:**
+
+**Signing it means you AGREE you owe that amount.** Check the math first. If you think the amount is wrong, sort that out before you sign.
+
+**You get to choose the monthly amount.** The form lets you pick 10% of the maximum benefit, or write in a smaller amount under "Other". Pick an amount you can live with.
+
+**Keep your copy.** The form comes with a "Client Copy". Don't leave the office without it.
+
+## WHAT TO DO IF YOU GET A LETTER
+**1. Keep the letter.** Write the date you got it on the top.
+
+**2. Find your CDB approval letter and your AISH or ADAP statements** for the months the lump sum covers. Check which months already had the $200 taken off.
+
+**3. If the numbers don't match, or there's no breakdown, email your local AISH/ADAP office.** Put your full name and file number in the subject line. Ask for a month-by-month breakdown of what they say you owe, in writing.
+
+**4. CC your MLA and Marie Renaud, the shadow minister (St.Albert@assembly.ab.ca).** Requests sent only to the office too often get lost.
+
+**5. Any time you call, write down the date, the time, and the name of the person you spoke to.**
+
+**6. If you're stuck, send me your letter and we'll go through it together.**
+
+**Keep a copy of everything you send, and the date you sent it.**`
+      },
+      {
         title: "A good AKG experience to share (November 2, 2026)",
         date: "2026-11-02",
         streams: ["AISH / ADAP / CPP-D"],
