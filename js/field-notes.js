@@ -16,6 +16,37 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Before you sign anything at a hospital or clinic in Alberta (November 4, 2026)",
+        date: "2026-11-04",
+        streams: ["AISH / ADAP / CPP-D", "Children / FSCD", "Seniors Benefits CPP/CPPD", "Continuing Care / Home Care", "General Topics"],
+        body: `A lot of us have been handed a signature pad and told "sign here." Here's what Alberta Health Services' own consent guidance says.
+
+## CONSENT IS A CONVERSATION, NOT A SIGNATURE
+AHS says: _"Obtaining consent is a process involving a discussion or series of discussions and interactions."_ **A signature on a screen doesn't replace that conversation.**
+
+## YOU SHOULD BE GIVEN THE INFORMATION FIRST
+Staff are told to _"Provide the Patient with the information required to understand the proposed Treatment/Procedures."_
+
+## YOU CAN ASK QUESTIONS, AND YOU SHOULD GET ANSWERS YOU UNDERSTAND
+AHS says to give the patient _"the opportunity to ask questions and provide understandable answers."_ **If you don't understand, say so.** Ask them to explain it in plain words.
+
+## YOU CAN CHANGE YOUR MIND
+An adult who can make their own decisions _"has the right to refuse or revoke a prior consent to a proposed Treatment/Procedure on any grounds."_ **That means you can say no, or take back a yes, for any reason.**
+
+## WHAT YOU CAN DO
+**1. Ask to read the form before you sign.** Ask for a printed copy if you need one.
+
+**2. Ask what each part covers,** especially anything about research, specimens or sharing your information.
+
+**3. Bring a support person if you can.** They can read along and take notes.
+
+**4. If they refuse to show you what you're signing,** write down who said it, the date and the time.
+
+**5. If you have a concern about how you were treated, the Alberta Health Advocates can help:** **780-422-1812** (toll free in Alberta: dial 310-0000, then 780-422-1812), Monday to Friday, 8:15 am to 4:30 pm. Or go to [alberta.ca/contact-the-health-advocates](https://www.alberta.ca/contact-the-health-advocates).
+
+**Your body. Your choice. Your right to read it first.**`
+      },
+      {
         title: "The Disability Tax Credit: what it does for you, even if you've never worked a day (November 4, 2026)",
         date: "2026-11-04",
         streams: ["AISH / ADAP / CPP-D", "Children / FSCD", "PDD", "Seniors Benefits CPP/CPPD", "Income Support", "General Topics"],
