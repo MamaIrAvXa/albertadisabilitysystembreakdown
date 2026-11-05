@@ -9,6 +9,161 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-11-04",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 4, 2026",
+    body: `## A CORRECTION FROM ME
+The North Zone AISH/ADAP email I've shared in past posts and on some forms, **northzoneaish@gov.ab.ca, has been REPLACED.** A member sent the proof: an automatic reply saying all mail now goes to ALSS.NorthZoneDIA@gov.ab.ca. Emails sent to the old address aren't being read.
+
+If you're in the North Zone (Edmonton and north) and sent anything to the old address, **please resend it to:**
+
+**ALSS.NorthZoneDIA@gov.ab.ca**
+
+I'm sorry for the trouble. I'm fixing the forms on the website.
+
+## COUPLES: THE 88% RULE REPEAL IS NOW IN PRINT
+The regulation that ends the 88% rule for couples (AR 244/2026) is now printed in the Alberta Gazette, the government's official publication, in the October 31 issue. It was made and filed October 1. It says the director **"must pay"** couples the difference for the months they were paid at 88%.
+
+What it does NOT say: when it takes effect, when you'll be paid, or how. I'm not putting a date or an amount in front of you until there's a real source. **If you're a couple moved to ADAP, keep your statements and ask your office in writing about your back pay.**
+
+## NEW BILL: PROTECTION FOR PEOPLE IN CARE
+**Bill 39** was introduced Wednesday. Among other things, it changes the Protection for Persons in Care Act, the law on reporting abuse of people in publicly funded care. It's only had first reading. **It is NOT law.** Details are in tonight's **Where Things Stand for Seniors** and **Where Things Stand for Kids and Families**.
+
+## THE $150 CDB PAYMENT
+The federal government's CDB page says the $150 supplement is a fixed, one-time lump sum, paid for each approved Disability Tax Credit certificate, with no application needed. It took legal effect September 1, 2026. **Under the AISH/ADAP regulation, that $150 is NOT counted as income.** If it's deducted from your cheque, or included in a CDB repayment letter, question it.
+
+## ENERGY REBATE: LAST CALLS
+**The phone line closes THIS FRIDAY, November 6, at 4:30 pm.**
+
+Rejected application and you fixed the problem? **You can resubmit until November 20.**
+
+**No payments go out after November 30.**
+
+## DATES TO KNOW
+**Next provincial payment (for December):** November 25
+
+**January's payment:** December 22
+
+**Federal budget:** expected this week. I'll read it for anything on disability benefits, CPP and OAS as soon as it's out.
+
+## BILL 33
+Bill 33 (the DEI hiring bill) got through committee on Tuesday. When I checked Wednesday evening, it still hadn't had third reading. **It is not law.**
+
+## WHAT I CHECKED
+Today I read the Alberta and federal newsrooms, the lists of new Orders in Council and Ministerial Orders, both parts of the October 31 Alberta Gazette, the Energy Rebate page and the payment dates page. In what I could read tonight, nothing else changed for AISH or ADAP. I couldn't check the live dates on every law, the federal Gazettes or this week's committee records, so I'm saying "nothing changed in what I could read."
+
+**When you email your AISH/ADAP office, put your full name and file number in the subject line, CC your MLA and Marie Renaud (St.Albert@assembly.ab.ca), and keep a copy of everything.**
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-04",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 4, 2026",
+    body: `## THE NEW HEALTH BILL IS OUT: BILL 39
+Bill 39 was introduced Wednesday afternoon. It's only had first reading, so **it is NOT law. Nothing has changed yet.**
+
+It changes the **Protection for Persons in Care Act**, the law on reporting abuse in publicly funded care. Here's what the bill's text says:
+
+**1. WHO THE LAW COVERS**
+
+Right now the Act lists who it covers, and that list names lodges and continuing care homes. The bill would replace that list with **"a person or entity prescribed in the regulations."** That means whoever the government names in a regulation later. That part only starts once the government proclaims it, and no such regulation exists yet.
+
+**2. APPEALS ABOUT ABUSE FINDINGS**
+
+If you appeal a decision about an abuse report, the bill says the appeal **"must be based solely on"** the Director's decision and the investigator's report and evidence. It says a party **"shall not introduce"** witness testimony. The panel would review the decision on a "reasonableness" standard. You'd still have 15 days to appeal.
+
+The government's news release says "Existing protections and appeal rights would remain in place." **The bill's text changes how appeals work. Read the bill, not just the release.**
+
+**What this means for you:** nothing changes today, and the duty to report abuse is still in the Act. **But if you ever make a report about abuse in care, put everything into the original report and the investigation**, because under this bill the appeal panel would only see what's already on file.
+
+## COVERAGE FOR SENIORS
+I promised to check whether Bill 39 touches Coverage for Seniors, premiums or drug coverage. The part that changes the Alberta Health Care Insurance Act **doesn't mention seniors, premiums, drugs, dental or optical.** The release says that part is about lab services and self-insurance plans. Bill 214, the Opposition health bill, isn't published yet. I'll read it when it is.
+
+## BILL 33
+When I checked Wednesday evening, Bill 33 still hadn't had third reading. **It is not law.**
+
+## ENERGY REBATE: LAST CALLS
+**Phone line closes THIS FRIDAY, November 6, at 4:30 pm.**
+
+Rejected application and you fixed the problem? **Resubmit by November 20.**
+
+**No payments after November 30.**
+
+If you were on the Alberta Seniors Benefit before July 1, you were enrolled automatically.
+
+## PAYMENT DATES
+**Alberta Seniors Benefit:** November 24 and December 17
+
+**OAS and CPP:** November 26 and December 22
+
+## FEDERAL BUDGET
+Expected this week. I'll read it for OAS, GIS, CPP and dental care as soon as it's tabled.
+
+## BOTTOM LINE
+Nothing changed for Alberta seniors' benefits or care amounts in what I could read tonight. I didn't read the federal orders database, the Alberta Ministerial Orders list, this week's Hansard, or any court and tribunal decisions.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-04",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 4, 2026",
+    body: `## BILL 39: THE LAW THAT PROTECTS CHILDREN IN CARE FROM ABUSE
+Bill 39 was introduced Wednesday afternoon. It's only had first reading. **It is NOT law.** I read all 144 pages. It doesn't touch the Education Act, FSCD or PDD. **But it rewrites the Protection for Persons in Care Act, and that Act covers children.**
+
+**1. WHO IS PROTECTED**
+
+Right now, the Act's definition of "facility" includes:
+
+_"a facility that provides care, treatment or shelter and that is funded, wholly or partly, by the Department of Children's Services"_
+
+_"the premises where a child care program that is licensed under the Early Learning and Child Care Act is offered or provided"_
+
+**Bill 39 would REPEAL that definition.** Who the Act covers would become "a person or entity prescribed in the regulations": whoever the government names in a regulation later. That part only starts once the government proclaims it, and no such regulation exists yet.
+
+**2. APPEALS**
+
+Today, the Act puts no limit on what an appeal panel can hear when someone appeals a finding about abuse. Bill 39 says the appeal **"must be based solely on"** the Director's decision and the investigator's report. It also says a party **"shall not introduce or seek to introduce"** witness testimony, and sets the standard of review at "reasonableness."
+
+**3. WHAT THE RELEASE SAYS**
+
+The government's release says the changes would "clarify which publicly funded care and support providers are covered under the act" and that "Existing protections and appeal rights would remain in place." **The bill removes the Act's own list of who's covered and bars witness testimony on appeal.**
+
+This is the second time in 9 days a government release hasn't matched its own bill. On October 27, the release for Bill 33 didn't mention that the bill changes the Education Act. **Read the bill, not the release.**
+
+## BILL 33
+**We now know why the vote on Bill 33 was split in two.** In committee on November 3, the Member for Calgary-Bhullar-McCall said "there are certain things and certain amendments to the Alberta Human Rights Act that cannot be supported," and asked for that section to be voted on separately. Both parts were then agreed to. No vote counts were recorded.
+
+When I checked Wednesday evening, Bill 33 still hadn't had third reading. **It is not law.** And even once it passes, both the Education Act part (suspension and expulsion) and the Human Rights Act part only start on a date the government sets later.
+
+## BILL 35
+Bill 35 (parental involvement) didn't move today. It's still at second reading.
+
+## FSCD RATES: UNCHANGED
+I read the FSCD Regulation tonight. Nothing changed, including:
+
+**Mileage:** $0.12 per kilometre
+
+**Respite:** up to 240 hours a year
+
+**Clothing and footwear linked to your child's disability:** up to $400 a year
+
+## BOTTOM LINE
+Nothing in what I could read tonight changed a rate, a date or something you're entitled to. What I couldn't read: the federal Orders in Council database, the federal bills tracker, and the Legislature's records for this evening's sitting.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-11-03",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — November 3, 2026",
@@ -4579,7 +4734,7 @@ A specialist can say no to writing something new. Copies of your own records are
 ## THE CONFIRMED EMAIL ADDRESSES FOR AISH AND ADAP OFFICES
 I promised this last night. These are from the government's contact page as it read on October 1:
 
-**North zone, including all Edmonton offices:** northzoneaish@gov.ab.ca
+**North zone, including all Edmonton offices:** northzoneaish@gov.ab.ca _(Updated November 4, 2026: this address has been replaced. North Zone email now goes to **ALSS.NorthZoneDIA@gov.ab.ca**.)_
 
 **Calgary area, including Airdrie, Canmore and Claresholm:** calgaryaish@gov.ab.ca
 
@@ -5172,7 +5327,7 @@ What you can do:
 
 Your office email:
 
-**North, including Edmonton:** northzoneaish@gov.ab.ca
+**North, including Edmonton:** northzoneaish@gov.ab.ca _(Updated November 4, 2026: this address has been replaced. North Zone email now goes to **ALSS.NorthZoneDIA@gov.ab.ca**.)_
 
 **Central:** aish.centralregion@gov.ab.ca
 
@@ -8646,7 +8801,7 @@ On August 6, and again in the escalation ladder on August 10, I published 1-833-
 
 The four zones are the only inboxes that exist. There are no office specific ones.
 
-**North** \u2014 1-888-644-1802, **northzoneaish@gov.ab.ca**. This covers St. Albert and all of Edmonton.
+**North** \u2014 1-888-644-1802, **northzoneaish@gov.ab.ca**. This covers St. Albert and all of Edmonton. _(Updated November 4, 2026: this address has been replaced. North Zone email now goes to **ALSS.NorthZoneDIA@gov.ab.ca**.)_
 
 **Central** \u2014 1-833-698-9959, **aish.centralregion@gov.ab.ca**. Note the dot in the middle.
 
@@ -8802,7 +8957,7 @@ If you sent something there and heard nothing back, that is why. It was not you 
 
 We spent today going through the government contact page properly and here is what is actually there. There are four inboxes, one per zone, and no office has its own.
 
-**North** \u2014 Edmonton, St. Albert, Sherwood Park, Leduc, Spruce Grove, Fort McMurray, Grande Prairie and everything up that way: **northzoneaish@gov.ab.ca**, phone **1-888-644-1802**. The Edmonton offices list 780-415-6300.
+**North** \u2014 Edmonton, St. Albert, Sherwood Park, Leduc, Spruce Grove, Fort McMurray, Grande Prairie and everything up that way: **northzoneaish@gov.ab.ca**, phone **1-888-644-1802**. The Edmonton offices list 780-415-6300. _(Updated November 4, 2026: this address has been replaced. North Zone email now goes to **ALSS.NorthZoneDIA@gov.ab.ca**.)_
 
 **Central** \u2014 Red Deer, Camrose, Drumheller, Olds, Wetaskiwin, Lloydminster, Stettler, Wainwright, Vermilion, Drayton Valley and Rocky Mountain House: **aish.centralregion@gov.ab.ca**, phone **1-833-698-9959**. Note the dot in that address.
 
@@ -8943,7 +9098,7 @@ Two people today, in different corners of the province, could not reach their AI
 
 For AISH and ADAP benefit questions or changes, the offices now share email addresses by region.
 
-If you are in Edmonton, St. Albert, or Sherwood Park: **northzoneaish@gov.ab.ca**
+If you are in Edmonton, St. Albert, or Sherwood Park: **northzoneaish@gov.ab.ca** _(Updated November 4, 2026: this address has been replaced. North Zone email now goes to **ALSS.NorthZoneDIA@gov.ab.ca**.)_
 
 If you are in Medicine Hat, Lethbridge, Brooks, Taber, Pincher Creek, or Crowsnest Pass: **southaish@gov.ab.ca**
 
@@ -9559,7 +9714,7 @@ And one I have not seen anywhere. Questions about referrals to ADAP employment s
 
 Zone emails, all confirmed today.
 
-**North: northzoneaish@gov.ab.ca**
+**North: northzoneaish@gov.ab.ca** _(Updated November 4, 2026: this address has been replaced. North Zone email now goes to **ALSS.NorthZoneDIA@gov.ab.ca**.)_
 
 **Central: aish.centralregion@gov.ab.ca**
 
@@ -9745,7 +9900,7 @@ Write down every date, every number you rang, and who you spoke to. That noteboo
 ## THE EMAIL ADDRESSES NOBODY PUBLISHES CLEARLY
 These are current, decoded off the government's own contact page today.
 
-**North: northzoneaish@gov.ab.ca**
+**North: northzoneaish@gov.ab.ca** _(Updated November 4, 2026: this address has been replaced. North Zone email now goes to **ALSS.NorthZoneDIA@gov.ab.ca**.)_
 
 Including all four Edmonton offices, St. Albert, Sherwood Park, Leduc, Spruce Grove, Grande Prairie, Fort McMurray, Cold Lake.
 
@@ -9857,7 +10012,7 @@ Compare August to July. If it dropped, ask in writing for a breakdown.
 ## 6. YOU HAVE BEEN EMAILING THE WRONG ADDRESS
 There are no office-specific inboxes. Four zones cover the province.
 
-**North and Edmonton: northzoneaish@gov.ab.ca**
+**North and Edmonton: northzoneaish@gov.ab.ca** _(Updated November 4, 2026: this address has been replaced. North Zone email now goes to **ALSS.NorthZoneDIA@gov.ab.ca**.)_
 
 **Calgary: calgaryaish@gov.ab.ca**
 
@@ -9949,7 +10104,7 @@ This is the finding of the day and it came from a member, not from us.
 
 There are no office-specific email addresses. Every AISH and ADAP office routes to one of four zone inboxes.
 
-**North and Edmonton: northzoneaish@gov.ab.ca**
+**North and Edmonton: northzoneaish@gov.ab.ca** _(Updated November 4, 2026: this address has been replaced. North Zone email now goes to **ALSS.NorthZoneDIA@gov.ab.ca**.)_
 
 Edmonton, St. Albert, Sherwood Park, Spruce Grove, Leduc, Vegreville, Westlock, Athabasca, Barrhead, Bonnyville, Cold Lake, Edson, Fort McMurray, Grande Prairie, High Level, High Prairie, Hinton, Lac La Biche, Peace River, Slave Lake, St. Paul, Whitecourt.
 

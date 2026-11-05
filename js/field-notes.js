@@ -16,6 +16,152 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "The Disability Tax Credit: what it does for you, even if you've never worked a day (November 4, 2026)",
+        date: "2026-11-04",
+        streams: ["AISH / ADAP / CPP-D", "Children / FSCD", "PDD", "Seniors Benefits CPP/CPPD", "Income Support", "General Topics"],
+        body: `**Full guide with every source, free to print and share:** [The Disability Tax Credit, Explained (PDF)](https://albertadisabilitysystembreakdown.netlify.app/pdfs/shared/guides/ADSB_Disability_Tax_Credit_Breakdown_2026-11-04.pdf)
+
+You've probably heard this one: _"The Disability Tax Credit is for people who work. I'm on AISH. It does nothing for me."_
+
+**Half of that is right. The half that's wrong is costing people thousands of dollars.**
+
+**The right half:** the Disability Tax Credit (DTC) is a "non-refundable" tax credit. That means it can lower the tax you owe down to zero, and then it stops. If you owe no tax, the credit by itself puts no money in your pocket.
+
+**The wrong half:** the credit isn't the point. **APPROVAL is the point.** Being approved for the DTC is a key that opens other doors, and those doors don't care whether you work or owe tax. The biggest one is **up to $1,000 a year that you don't have to put a single dollar in to get**, and that Alberta doesn't count as income or as an asset.
+
+## READ THIS FIRST: THE PART ALBERTA TAKES BACK
+You need DTC approval to get the Canada Disability Benefit (CDB), up to $204.20 a month from July 2026 to June 2027. But AISH/ADAP counts the CDB as income (AR 96/2026, Schedule 1, section 1(1)(e)) and takes it off your cheque dollar for dollar. **On the ordinary AISH or ADAP living allowance, the CDB is a wash.**
+
+2 exceptions:
+
+**The $150.** Since September 1, 2026, there's a $150 CDB payment, paid for each approved DTC certificate, to help cover what it cost you to get your DTC. It's automatic, with no application. **The regulation says a CDB payment made for that purpose is NOT income.** Check that it isn't deducted.
+
+**Modified living allowance.** If you're on the modified living allowance (living in a facility or similar setting), **the CDB is fully exempt. You keep all of it.**
+
+**But apply for the CDB anyway. It's not optional.** AISH and ADAP require you to apply for income you're entitled to, and not applying doesn't protect your cheque: people with no CDB decision by February 28, 2026 had $200 taken off starting in April.
+
+Everything below pays whether Alberta claws back the CDB or not.
+
+## WHO QUALIFIES
+The CRA says you may be eligible if a medical practitioner certifies you have _"a severe and prolonged impairment in 1 of the categories, significant limitations in 2 or more categories, or receive therapy to support a vital function."_
+
+**The categories:** walking, mental functions, dressing, feeding, eliminating (bowel or bladder), hearing, speaking, vision, life-sustaining therapy, and "cumulative effect" (2 or more limitations added together).
+
+**"Markedly restricted" means:**
+
+you can't do the activity, OR **it takes 3 times longer** than someone your age without your condition, even with therapy, medication and devices
+
+it's that way all or almost all of the time (generally at least 90%)
+
+it has lasted, or is expected to last, at least 12 months
+
+**3 things people get wrong:**
+
+**1. "3 times longer" counts.** You don't have to be unable to do it.
+
+**2.** If your medication works and you function fine, you may not qualify. If it still takes you 3 times longer even WITH medication, **the medication doesn't disqualify you.**
+
+**3. The "cumulative" category:** you don't need one big restriction. 2 or more significant limitations that together have the same effect can qualify.
+
+**Mental functions is a full category on its own.** It's not a lesser category or a last resort.
+
+## HOW TO APPLY
+**Pick ONE method.** Parts A and B must be sent the same way.
+
+**Digital (faster):** Do Part A in your CRA account (Benefits and credits, then Apply for DTC). No CRA account? Call 1-800-959-8281. You'll get a reference number, valid for 12 months and usable once. Your medical practitioner then completes Part B online with that number. You can't fill in Part B yourself.
+
+**Paper:** Form T2201. Part B must be signed by hand. Mail Parts A and B together to the tax centre.
+
+**Do NOT send DTC forms through "Submit documents" in your CRA account.** People lose months this way.
+
+## WHO CAN SIGN PART B
+**Doctor or nurse practitioner:** ALL categories. Can't get in to a doctor? **A nurse practitioner can do it.**
+
+**Optometrist:** vision
+
+**Audiologist:** hearing
+
+**Occupational therapist:** walking, feeding, dressing
+
+**Physiotherapist:** walking
+
+**Psychologist:** mental functions
+
+**Speech-language pathologist:** speaking
+
+## THE FORM FEE
+If your practitioner charges a fee, you're responsible for it, but you can claim it as a medical expense on your taxes. **If you're on AISH/ADAP, the program can cover the fee up front.** Bring your worker an invoice or written estimate from the practitioner. You repay the program once the federal government reimburses you for the fee. **So don't pay out of pocket first.**
+
+## MYTH-BUSTER 1: UP TO 10 YEARS BACK
+The CRA says _"you may be able to claim it going back up to 10 years."_ **In Part A, TICK THE BOX asking the CRA to reassess your past returns.** Missed it? You can still ask through your CRA account (Tax returns, then Change my return) or by letter.
+
+## MYTH-BUSTER 2: YOU CAN GIVE IT TO A FAMILY MEMBER WHO OWES TAX
+If you owe no tax, the credit can go to a "supporting family member": a spouse or partner, parent, grandparent, child, grandchild, brother, sister, aunt, uncle, niece or nephew (yours or your partner's). **You just have to depend on them for at least ONE of food, shelter or clothing.** Name them in Part A, question 2, or they can send the CRA a signed written request later.
+
+## MYTH-BUSTER 3: UP TO $1,000 A YEAR FOR PUTTING IN NOTHING
+Once you're approved for the DTC, you can open a Registered Disability Savings Plan (RDSP). For people with low income, the government pays a **Canada Disability Savings BOND of up to $1,000 a year.** The CRA: _"No contributions have to be made to get the bond."_
+
+**Family income of $38,237 or less (2026 figure): the full $1,000.** A single person on AISH or ADAP is well under that.
+
+**You can catch up to 10 years of unused bond** (until the end of the year you turn 49), as long as you were DTC-eligible in those years. That's up to $10,000, for putting in nothing. **This is why ticking that 10-year box matters.**
+
+**You MUST file your taxes for the past 2 years and every year after, even with zero income.**
+
+If anyone can put money in, the Canada Disability Savings **GRANT** matches it: $3 for every $1 on the first $500, then $2 for every $1 on the next $1,000. **$1,500 in becomes $5,000.**
+
+**THE ALBERTA PART, AND WHY IT'S THE BEST DOOR:**
+
+**An RDSP is NOT counted as an asset** for AISH/ADAP (AR 96/2026, Schedule 2, section 2(2)(d)).
+
+**Money you take out of an RDSP is NOT counted as income** (Schedule 1, section 7(1)(g)).
+
+**The CDB gets clawed back. The RDSP bond doesn't.**
+
+**The catch:** an RDSP is a long game, not an emergency fund. If you take money out, you may have to pay back up to $3 of grant and bond for every $1 you withdraw, from what was paid in over the past 10 years.
+
+## MYTH-BUSTER 4: IF YOU HAVE A DISABLED CHILD, THIS IS CASH
+The **Child Disability Benefit** pays **up to $3,480 a year ($290 a month) per child approved for the DTC**, from July 2026 to June 2027, on top of the Canada Child Benefit. It's a payment, not a credit, so it doesn't matter whether you owe tax. If you already get the Canada Child Benefit, it starts automatically once your child is approved, and the CRA calculates the current and 2 previous benefit years. AISH/ADAP doesn't count the Canada Child Benefit. We're still confirming how they treat the Child Disability Benefit in practice.
+
+## DOORS THAT NEED A JOB OR TAX OWING
+**Canada Workers Benefit disability supplement:** up to $843 for 2025, refundable, but only if you have work income.
+
+**Home accessibility tax credit:** up to $20,000 of renovation costs a year. Reduces tax owed, so it's useful if a working family member pays.
+
+**Multigenerational home renovation tax credit:** refundable, up to $7,250, for building a suite so an adult who's DTC-eligible can live with family.
+
+## WHAT THE DTC IS NOT
+**It's not AISH, and AISH doesn't require it.** Being on AISH doesn't approve you for the DTC, and the DTC doesn't get you onto AISH.
+
+**It's not CPP Disability.**
+
+**Getting approved doesn't cost you anything you already have.** Nothing in AR 96/2026 makes DTC approval a reason to cut AISH or ADAP.
+
+**Approval can expire.** Watch the date and reapply before it lapses, because the RDSP grant and bond, the Child Disability Benefit and the CDB all stop with it.
+
+## THE ORDER TO DO THINGS IN
+**1. File your taxes every year, even with zero income.**
+
+**2. Apply for the DTC.** Tick the box to reassess your past returns.
+
+**3. Name a supporting family member** in Part A, question 2, if someone helps you with food, shelter or clothing.
+
+**4. Once approved, open an RDSP** at a bank or credit union. Ask about the BOND, and say you may not be contributing.
+
+**5. Ask about carry-forward** for every year you were DTC-eligible.
+
+**6. If your child is approved** and you get the Canada Child Benefit, check that the Child Disability Benefit starts.
+
+**7. Apply for the CDB too, and tell your worker the outcome.** AISH and ADAP require it, and not applying still means $200 comes off.
+
+**8. Watch for the $150 payment** and check it isn't deducted.
+
+**9. If you were refused the DTC before 2025, apply again.** Alberta's federal supports page says to.
+
+**Want the full version to print or share?** Every figure, quote and source is in the guide: [The Disability Tax Credit, Explained (PDF)](https://albertadisabilitysystembreakdown.netlify.app/pdfs/shared/guides/ADSB_Disability_Tax_Credit_Breakdown_2026-11-04.pdf)
+
+This is information, not advice. We're not accountants or caseworkers. Figures were checked on November 4, 2026 against the CRA and Government of Canada pages and AR 96/2026. Verify anything before you rely on it, and keep every letter you get.`
+      },
+      {
         title: "Cheaper internet and phone through TELUS (November 4, 2026)",
         date: "2026-11-04",
         streams: ["AISH / ADAP / CPP-D", "Seniors Benefits CPP/CPPD", "General Topics"],
