@@ -734,6 +734,8 @@ I'm not a financial advisor, so this is information, not advice. Every number be
 ## IF YOU ONLY READ ONE THING
 If you're helping an adult family member who may not be able to sign a contract on their own, there's a special rule that lets a family member open an RDSP for them. **That rule ends DECEMBER 31, 2026.** That's about 2 months away. **Don't wait.**
 
+_Update, November 5, 2026: the federal budget proposes making this family-member rule permanent. That is only a proposal, not law, and the December 31, 2026 end date still stands until a law changes it. So don't wait._
+
 ## WHAT IS AN RDSP?
 RDSP stands for **Registered Disability Savings Plan.** It's a savings account for people with disabilities. **The government ADDS free money to it every year**, sometimes up to 3 times what you put in. Even if you can't put in anything, you may still get **up to $1,000 a year for free.**
 
