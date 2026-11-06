@@ -16,6 +16,28 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Free online session: Navigating the DTC and RDSP, Thursday, November 12 (November 6, 2026)",
+        date: "2026-11-06",
+        streams: ["AISH / ADAP / CPP-D", "Children / FSCD", "PDD", "General Topics"],
+        body: `Presented by **Lesley Sillito and Wannitta Koehn**
+
+**When:** Thursday, November 12, 2026
+
+**Time:** 7 to 8 pm Mountain Time
+
+**Where:** Online
+
+**To register:** message Lesley Sillito on Facebook for the link.
+
+They'll cover who qualifies for the Disability Tax Credit (DTC), how the Registered Disability Savings Plan (RDSP) works, government grants and bonds, and planning for the future.
+
+**Please note:** the presenters have told me they'll also talk about their business during the session. ADSB is sharing the free information only and isn't promoting or endorsing any business. Whether you take them up on anything is up to you.
+
+**A reminder for everyone: you never have to pay anyone to apply for the DTC or open an RDSP.** You can apply for the DTC directly with CRA, and open an RDSP at your own bank or credit union for free.
+
+Want to read up first? See our [Disability Tax Credit guide](https://albertadisabilitysystembreakdown.netlify.app/pdfs/shared/guides/ADSB_Disability_Tax_Credit_Breakdown_2026-11-04.pdf) and the RDSP field note, "The RDSP: what it is, who can get one, and why to start now."`
+      },
+      {
         title: "Got an ambulance bill on ADAP? Read this (November 5, 2026)",
         date: "2026-11-05",
         streams: ["AISH / ADAP / CPP-D"],
