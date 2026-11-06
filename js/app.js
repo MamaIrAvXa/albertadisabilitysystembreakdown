@@ -537,6 +537,7 @@ const MINISTERIAL = [
 
 // ─── Data: Featured flyers (subset of /pdfs/aish-adap/flyers/posters/) ───
 const FLYERS = [
+  { label: "Got An Ambulance Bill On ADAP? Read This (November 2026)", img: "Alberta ADAP Ambulance Bill Guide.png", streams: ["AISH / ADAP / CPP-D"] },
   { label: "Where Does Your $1,940 Come From? How The CDB Deduction Works (October 2026)", img: "Where Your $1,940 Comes From.png", streams: ["AISH / ADAP / CPP-D"] },
   { label: "Start Here \u2014 Welcome To The Alberta Disability System Breakdown", img: "Alberta Disability Support Community Guide.png" },
   { label: "Coalition Media Release \u2014 Prove The $247M Employment System Works, Sept 23 2026", img: "Coalition_Media_Release_Sep23_2026.png" },

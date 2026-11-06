@@ -16,6 +16,41 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Got an ambulance bill on ADAP? Read this (November 5, 2026)",
+        date: "2026-11-05",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `A few of you have been billed for emergency ambulance rides since moving to ADAP. Here's what we know, and what to try.
+
+## THE "X" AND THE "A"
+Your Health Benefits Card has a section code on it:
+
+**AISH is section X**
+
+**ADAP is section A**
+
+ADAP got its own code to tell the 2 programs apart. That's why the X disappeared from your card when you moved to ADAP.
+
+## WHY IT MIGHT MATTER
+Alberta Blue Cross's ambulance billing guide lists AISH with its "section X" code. That guide is from 2021, before ADAP existed, so ADAP isn't on it. **If an ambulance company's billing system only knows X, it may not recognize an A card and may send the bill to you instead of Blue Cross.** We haven't confirmed this is the cause, but it fits what members are telling us.
+
+## ADAP DOES COVER EMERGENCY AMBULANCE
+The AISH and ADAP policy manual says: _"AISH and ADAP covers the costs of emergency ambulance services to the nearest hospital,"_ as long as you're on a valid Health Benefits Card, it was an emergency, it happened in Alberta, and no other insurance covers it.
+
+## IF YOU GET A BILL
+**1. Call the number on the bill.** Read them your FULL Health Benefits Card number, including the A. Say: _"I'm on ADAP, section A. Please bill Alberta Blue Cross, and put my account on hold while it's sorted out."_ Write down who you spoke with and the date.
+
+**2. If they say ADAP isn't in their system, email your local AISH/ADAP office.** Put your full name and file number in the subject line, attach the bill, and ask them to confirm your coverage with the ambulance company. **If they won't cover it, ask for a written decision with your appeal rights.**
+
+**3. If the trip wasn't an emergency** (like a ride home from hospital with no other safe way to get there), ask about **"special ambulance usage."** The policy allows it in extraordinary circumstances.
+
+## HELP US FIGURE IT OUT
+If you call and it works, or it doesn't, send me a message: what the billing company said and whether the bill was fixed. If enough of us hit the same wall, we'll take it to Blue Cross and the ministry together.
+
+**Policy:** [AISH and ADAP Policy Manual: Ambulance](https://manuals.alberta.ca/dia-policy-manual/aish-adap-program-policy/benefits/health-benefits/ambulance/)
+
+**Poster version to print or share:** [Got an ambulance bill on ADAP? (image)](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/flyers/posters/Alberta%20ADAP%20Ambulance%20Bill%20Guide.png)`
+      },
+      {
         title: "Before you sign anything at a hospital or clinic in Alberta (November 4, 2026)",
         date: "2026-11-04",
         streams: ["AISH / ADAP / CPP-D", "Children / FSCD", "Seniors Benefits CPP/CPPD", "Continuing Care / Home Care", "General Topics"],
