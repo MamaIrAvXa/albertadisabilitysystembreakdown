@@ -9,6 +9,290 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-11-08",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 8, 2026",
+    body: `Quiet Sunday. In everything I could read tonight, nothing changed for AISH or ADAP. No new government orders and no new regulations since November 5. Today's 2 Alberta news releases were statements for National Indigenous Veterans Day and Diwali.
+
+## PAYMENT DATES
+**AISH, ADAP and Income Support for December:** November 25
+
+**AISH, ADAP and Income Support for January:** December 22
+
+## CANADA DISABILITY BENEFIT (CDB)
+Still **up to $204.20 a month** from July 2026 to June 2027. **If you work, the first $10,210 you earn in a year doesn't count against your CDB** ($14,294 for a couple). The $150 supplement is a one-time lump sum for each approved Disability Tax Credit certificate.
+
+## ALBERTA ENERGY REBATE ($100): 12 DAYS LEFT TO FIX A REJECTED APPLICATION
+If your application was rejected and you've fixed the problem, **you can resubmit until November 20.**
+
+You can view your application and payment details until November 30.
+
+**No payments will be issued after November 30.**
+
+AISH, ADAP and Income Support clients who were on those programs before July 1 were automatically enrolled, according to the government.
+
+## COUPLES BACK PAY
+No change tonight. The 88% couples rule was repealed by an order dated October 1, 2026, and the government said in October the back pay would come **before the end of the year.** It still hasn't published an amount or a date. Watch your paystubs and your deposits. **If it hasn't arrived by the end of the year, write to your local AISH or ADAP office** with your full name and file number in the subject line, and CC your MLA and Marie Renaud (St.Albert@assembly.ab.ca).
+
+## WHAT I COULDN'T READ TONIGHT
+The federal news page, the Alberta Gazette (next issue November 14), the federal Gazette, and the Legislature's bill status. I'll keep checking those.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-08",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 8, 2026",
+    body: `Quiet Sunday. Nothing changed tonight for Alberta seniors' benefit amounts, income limits, care charges or coverage, or for OAS, GIS or CPP. The government's open data site is back up, and **the Special Needs Assistance income limits have not been reissued. The July 2026 limits still apply.**
+
+## PAYMENT DATES
+**Alberta Seniors Benefit:** Tuesday, November 24 and Thursday, December 17
+
+**CPP and OAS:** Thursday, November 26 and December 22
+
+## ALBERTA ENERGY REBATE ($100): 12 DAYS LEFT
+If your rebate was rejected or didn't come, **fix it and resubmit online by Friday, November 20.** Payments stop after November 30.
+
+## HEADS UP: BILL 39 COULD MOVE FAST
+Bill 39 would change the **Protection for Persons in Care Act**, the law on how abuse in care homes and other care settings is reported, investigated and appealed. The government's plan for the Legislature shows it up for debate on **Wednesday, November 18 and Thursday, November 19**, so it could pass in that one week. Plans can change, and **it is NOT law yet.** **If you or your family have something to say about how abuse complaints in care are handled, now is the time to tell your MLA.**
+
+## BILL 33
+Still no royal assent, so **it is not law.** I'll keep watching for royal assent and for any regulation that says who it covers, and I'll tell you if care homes or lodges get named.
+
+## FUEL TAX
+Alberta's 13 cents a litre fuel tax relief runs until the end of the year, according to the government's September 22 announcement. The review for the January to March quarter starts November 17.
+
+## COMING UP
+A federal minister responsible for seniors has an event Monday in Victoria at a family caregivers' organization. The notice names no program and no amount. If anything comes out of it for OAS, GIS or caregivers, I'll check it before posting.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-08",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 8, 2026",
+    body: `Quiet Sunday. Nothing changed tonight for FSCD, PDD or families of disabled students. Nothing was proclaimed in force in Alberta, and no new regulation was filed.
+
+## BILL 33 IS STILL NOT LAW
+Bill 33 passed its final vote on November 5 but **still has not had royal assent** (the formal sign-off that makes a bill law). I checked 5 official sources tonight. Even after royal assent, the parts that matter for disabled kids (the school suspension and expulsion changes in the Education Act, and the new section 10.2 of the Alberta Human Rights Act) **only start when the government proclaims them.** The Education Act your family is under today is still the one current as of September 1, 2026.
+
+## FSCD RATES ARE UNCHANGED
+Read from the FSCD Regulation itself tonight:
+
+**Mileage:** 12 cents a kilometre
+
+**Clothing and footwear:** up to $400 a year
+
+**Respite:** up to 240 hours a year
+
+**Parking:** up to $10 a day
+
+**Hotel:** up to $85 a day
+
+**Dental:** $250 a year if you have no dental plan
+
+**Medical costs:** shared above 2% of both parents' combined net income
+
+The FSCD Regulation runs until June 30, 2029.
+
+## AADL (ALBERTA AIDS TO DAILY LIVING)
+Still 25% cost-share, up to $500 per family per year. **That's per family, not per child.**
+
+## CHILD DISABILITY BENEFIT (FEDERAL)
+Unchanged: **up to $3,480 a year ($290 a month).** It starts going down when family net income is above $82,847.
+
+## DID YOU KNOW: THERE'S A PDD POLICY MANUAL
+The PDD program (Persons with Developmental Disabilities, the adult program) has a public policy manual at [manuals.alberta.ca/pdd-policy-manual](https://manuals.alberta.ca/pdd-policy-manual). It has a section on how PDD and AISH or ADAP applications work together at 18. **It doesn't show when anything in it was last changed, so if you rely on a page, save a copy with the date you read it.**
+
+## RDSP: DECEMBER 31 (53 DAYS)
+The rule that lets a parent, spouse, common-law partner or sibling open an RDSP for an adult who can't sign a contract, without guardianship first, **runs out December 31, 2026.** The federal budget proposes making it permanent, but there is still no bill to do it. **If this affects your family, talk to your bank or RDSP provider before December 31.**
+
+## CAREGIVERS
+There's a federal caregiver event Monday in Victoria. The notice names no measure and no amount, and there is still no bill for any of the budget's caregiver changes. I'll check anything that comes out of it before posting.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-07",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 7, 2026",
+    body: `Quiet night. In everything I could read tonight, nothing changed for AISH or ADAP. No new government orders, no new regulations, and no news releases about our programs. The only Alberta news release today was about tourism.
+
+## PAYMENT DATES
+**AISH, ADAP and Income Support for December:** November 25
+
+**AISH, ADAP and Income Support for January:** December 22
+
+**Canada Disability Benefit (CDB):** paid on the 3rd Thursday of each month, so November 19, then December 17
+
+## CANADA DISABILITY BENEFIT
+The CDB is **up to $204.20 a month** from July 2026 to June 2027. The $150 supplement is a one-time lump sum for each approved Disability Tax Credit certificate, and you don't have to apply for it.
+
+**Reminder:** Alberta counts the monthly CDB as income on AISH and ADAP, but **the $150 supplement is not counted** (AISH General Regulation, Schedule 1, section 1(1)(e)(i)).
+
+## ALBERTA ENERGY REBATE ($100)
+Applications closed October 31. But:
+
+If your application was rejected and you've fixed the problem, **you can resubmit until November 20.**
+
+You can view your application and payment details until November 30.
+
+The email line answers questions until November 30.
+
+**No payments will be issued after November 30.**
+
+AISH, ADAP and Income Support clients who were on those programs before July 1 were automatically enrolled, according to the government.
+
+## COUPLES BACK PAY
+The 88% couples rule was repealed by an order dated October 1, 2026. The government said in October the back pay would come **before the end of the year.** It has not published an amount or a date.
+
+**Member reports:** several couples in our group told us it arrived on October 27 as its own deposit marked "Underpayment." We can't confirm through official channels that every couple has been paid. Watch your paystubs and your deposits. **If you were paid the lower rate from August and haven't seen an "Underpayment" deposit, email your local AISH or ADAP office** with your full name and file number in the subject line, and CC your MLA and Marie Renaud (St.Albert@assembly.ab.ca). If you did get it, check the amount against the months you were paid the lower rate.
+
+## THE GROCERY BENEFIT EXTRA PAYMENT
+The federal budget proposes a one-time extra payment on top of the Canada Groceries and Essentials Benefit, **up to $339 for a single person with no kids.** It is a proposal, not law, and there is no payment date. The plan says early 2027.
+
+The next regular grocery benefit payment is in January 2027, so **neither payment comes before Christmas.** I'll post as soon as there's a date.
+
+## FROM TODAY'S TEA TIME (if you missed the live)
+**Wednesday, November 11 is Remembrance Day.** Government offices are closed, so skip that day when you count business days on a deadline.
+
+**Ambulance bill on ADAP?** The policy manual says AISH and ADAP cover emergency ambulance rides to the nearest hospital in Alberta. Call the number on the bill, read them your full Health Benefits Card number including the A, and ask them to bill Alberta Blue Cross and put your account on hold. Write down who you spoke to and when. More in the [field notes](https://albertadisabilitysystembreakdown.netlify.app/#field-notes).
+
+**Your 30 days to appeal start the day you receive a letter, not the date printed on it.** Write the date it arrived on the top of every letter.
+
+**Letter asking for CDB lump sum money back?** Before you pay or sign a repayment agreement, check that months already deducted aren't counted twice, and that the $150 isn't included. Ask in writing for a month by month breakdown.
+
+**Want to go back to AISH?** The October 2026 application (DS2444A) has a shorter route for people who were moved to ADAP. Use the government's own links so you get the newest version.
+
+**New on the website:** [The Disability Tax Credit, Explained](https://albertadisabilitysystembreakdown.netlify.app/pdfs/shared/guides/ADSB_Disability_Tax_Credit_Breakdown_2026-11-04.pdf), and a fillable form to request your own Alberta Health Services records in [Take Action](https://albertadisabilitysystembreakdown.netlify.app/#take-action) (once it's filled in, never post it anywhere).
+
+## WHAT WENT RIGHT THIS WEEK
+Members told us about a good employment assessment, a medical report cost paid back, a damage deposit approved after an MLA stepped in, a commencement date appeal won, and a reinstatement on AISH. **And you made it through another month. That counts.**
+
+## WHAT I COULDN'T READ TONIGHT
+The federal news page, the Alberta Gazette (the next issue is November 14) and the federal Gazette. I'll keep checking those.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-07",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 7, 2026",
+    body: `Quiet night. In everything I could read tonight, nothing changed for Alberta seniors' benefit amounts, income limits, care charges or coverage, or for OAS, GIS or CPP.
+
+## PAYMENT DATES
+**Alberta Seniors Benefit:** November 24 and December 17
+
+**CPP and OAS:** November 26 and December 22
+
+## ALBERTA ENERGY REBATE ($100): LESS THAN 2 WEEKS LEFT
+If your rebate was rejected or didn't come, **fix it and resubmit online by Friday, November 20.** You can view your application and payment until November 30, the email line is open until November 30, and **no payments go out after November 30.**
+
+## FUEL TAX
+Alberta's 13 cents a litre fuel tax relief runs until the end of the year, according to the government's September 22 announcement. The review for the January to March quarter starts November 17. Some headlines say "until 2027." **The announcement says the end of 2026.**
+
+## BILL 33
+Bill 33 passed its final vote on November 5 but has not received royal assent, so **it is not law.** I read the final debate, and nobody talked about care homes, lodges or older workers. I'll keep watching for royal assent and for any regulation that says who it covers.
+
+## FROM TODAY'S TEA TIME (if you missed the live)
+**Lodges:** a new minimum basic lodge rate has been set in law. If you or a family member live in a lodge, **ask the lodge in writing what your rate will be in 2027 and 2028 and how they worked it out.** If you get partial OAS, ask whether you'll still be left with the monthly minimum for your own needs. Keep the answer. More in the [field notes](https://albertadisabilitysystembreakdown.netlify.app/#field-notes): "Lodge rates: the new minimum rate has been set."
+
+**Christmas:** a member shared that Yellowhead Central Santa's Anonymous won't run Stockings for Seniors this year, and its hampers are for families only. If you're on your own, **call or text 211** to find what's running near you.
+
+**Drug costs:** a member told us a prescription went from under $50 to about $160 after some seniors' drug coverage changed October 1. That's a member report, and I haven't confirmed the rule yet. **If it happened to you, keep the receipt and send me the drug name.**
+
+**Rent:** a landlord can raise rent only **once every 365 days**, with at least 3 full months' written notice if you rent month to month, and not during a lease.
+
+**Power or gas trouble?** The Utilities Consumer Advocate is free: **310-4822** or ucahelps@gov.ab.ca, Monday to Friday, 8:15 to 4:30.
+
+## COMING UP
+A federal minister responsible for seniors has an event Monday in Victoria about budget money "to reduce poverty." The notice names no program and no amount. If anything comes out of it for OAS, GIS or caregivers, I'll check it against the budget itself before posting.
+
+## WHAT I COULDN'T READ TONIGHT
+The government's open data site (open.alberta.ca) was down for maintenance, which runs until Sunday at 5 PM. So I couldn't check whether the Special Needs Assistance income limits file was reissued. The alberta.ca page still shows the July 2026 limits. I also couldn't read the current Alberta Gazette Part I or federal bill status.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-07",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 7, 2026",
+    body: `Quiet night. In everything I could read tonight, nothing changed for FSCD, PDD or families of disabled students.
+
+## BILL 33 IS NOT LAW
+Bill 33 passed its final vote on November 5 and is waiting for **royal assent** (the formal sign-off that makes a bill law). 5 separate official sources checked tonight all say it has not happened.
+
+Even after royal assent, the parts that matter for disabled kids would not start right away:
+
+the changes to school suspension and expulsion rules in the **Education Act**
+
+the new section 10.2 of the **Alberta Human Rights Act**
+
+**Both start only when the government proclaims them** (officially names the start date).
+
+## WHY "PASSED" DOESN'T ALWAYS MEAN "IN FORCE"
+When an Alberta law doesn't say when it starts, it starts the day it gets royal assent (Interpretation Act, section 4(1)). When a law says some parts start "on proclamation," like Bill 33 does, those parts wait for the government to set a date. **So a bill can pass and still not change anything yet.**
+
+## FSCD RATES ARE UNCHANGED
+Read from the FSCD Regulation itself tonight:
+
+**Mileage:** 12 cents a kilometre
+
+**Clothing and footwear:** up to $400 a year
+
+**Respite:** up to 240 hours a year
+
+**Parking:** up to $10 a day
+
+**Hotel:** up to $85 a day
+
+**Dental:** $250 a year if you have no dental insurance
+
+**Medical costs:** shared above 2% of both parents' combined net income (line 23600 of your tax return)
+
+## CHILD DISABILITY BENEFIT (FEDERAL)
+Unchanged: **up to $3,480 a year ($290 a month).** It starts going down when your family net income is above $82,847.
+
+## RDSP: DECEMBER 31, 2026 (54 DAYS)
+Right now, a parent, spouse, common-law partner or sibling can open a Registered Disability Savings Plan for an adult whose ability to sign a contract is in question, **without getting guardianship or trusteeship first.** **That rule runs out December 31, 2026.**
+
+The federal budget proposes making it permanent, but it's only a proposal. No bill has been introduced yet. **If this affects your family, talk to your bank or RDSP provider before December 31.**
+
+## CAREGIVER CREDIT: THE RIGHT NUMBER
+The budget proposes making the Canada Caregiver Credit refundable. **The $1,260 you may have seen in the news is for adult family members. For a child under 18, the budget's figure is up to $394.** This is still a proposal, and it doesn't say yet whether the child part would be refundable.
+
+There's a federal caregiver announcement Monday in Victoria. The notice names no amount. I'll check anything that comes out of it against the budget before posting.
+
+## FROM TODAY'S TEA TIME (if you missed the live)
+**The Disability Tax Credit may get easier.** In July the federal government published draft changes that would let more health professionals sign the form, and create a faster route for some named conditions, including autism spectrum disorder level 3, severe cerebral palsy and Down syndrome. It's a draft, not law.
+
+**The third week of November is Bullying Awareness and Prevention Week** (Education Act, section 35). If your child is being bullied and the school isn't acting, message me.
+
+**Christmas for kids:** Santas Anonymous in Edmonton is taking toy applications. **Apply by December 7 to be safe.** Outside Edmonton, call or text 211. More in the pinned [Christmas help](https://albertadisabilitysystembreakdown.netlify.app/#christmas-help) section.
+
+**Waiting on FSCD?** A member was told by an ADAP supervisor to call FSCD and ask what family support is available while you wait for the full assessment.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-11-06",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — November 6, 2026",

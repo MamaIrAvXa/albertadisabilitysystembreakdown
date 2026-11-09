@@ -16,6 +16,79 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Member report: check your file, then check it again (November 7, 2026)",
+        date: "2026-11-07",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `_This is a member report, shared with permission and without a name. It hasn't been confirmed through official AISH/ADAP channels. It's one member's experience._
+
+A member who was on AISH chose to move to ADAP. She was allowed to stay on AISH because of her age, but asked for the move herself. She also gets CPP Disability and long-term disability (LTD) payments. **When her payments didn't look right, she kept asking questions, put everything in writing, and copied her MLA.**
+
+## WHAT SHE FOUND
+**1. Her payments had been calculated wrong.** She has now received her back pay, plus an apology, and a call from the Minister's office.
+
+**2. Tax had been held back from her income for years without her realizing it.** Stopping that raised her monthly income.
+
+**3. Funding she should have been getting for her service dog wasn't being paid.**
+
+## WHAT YOU CAN DO
+**1. If you get CPP Disability, LTD or any other income, ask your local AISH or ADAP office for a written breakdown of how your payment is calculated.** Put your full name and file number in the subject line.
+
+**2. Check your tax slips and your LTD statements to see if tax is being held back,** and ask your insurer or CRA if you're not sure why.
+
+**3. If you have a service animal or other extra costs, ask in writing whether you're getting every benefit you qualify for.**
+
+**4. CC your MLA and Marie Renaud (St.Albert@assembly.ab.ca) on everything.**
+
+Her words: _"This is all far too much for many to carry or even self advocate for."_ That's why we share. **If something doesn't add up, ask.**`
+      },
+      {
+        title: "Before you move in with someone: how roommates affect AISH and ADAP (November 7, 2026)",
+        date: "2026-11-07",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `Sharing a home can save a lot of money. Here's what to know before you move.
+
+## A ROOMMATE IS NOT A PARTNER
+If you live with a friend and you are not a couple, **AISH and ADAP treat you as 2 separate people.** You each keep your own payment, and their income doesn't count against yours. Friends who are not a couple only count as partners if they tell AISH or ADAP that they are.
+
+## WHEN AISH AND ADAP COUNT YOU AS A COUPLE
+AISH and ADAP call this a **"cohabiting partner."** 2 people who live together count as partners if they:
+
+share one another's lives,
+
+are emotionally committed to one another, and
+
+function as an economic and domestic unit (in plain words: you run your money and your home together, like a couple).
+
+Married couples and people who have a child together count too.
+
+## THERE IS NO 3 YEAR WAIT
+This one surprises people. **The 3 year common-law rule doesn't apply to AISH and ADAP.** If you're a couple, your partner's income counts from the day you move in together.
+
+## WHAT CHANGES FOR A COUPLE
+**Your partner's income is counted with yours.**
+
+Couples who are both on AISH or ADAP used to get 88% of the full amount each. **That rule was repealed by an order dated October 1, 2026 (AR 244/2026).** Each partner is now meant to get the full amount, and the government must pay back the difference for the months couples were paid at 88%. **Watch your paystubs and your deposits.**
+
+## IF A ROOMMATE PAYS YOU RENT
+If someone rents a room in your home or pays you room and board, **that counts as rental income.** After allowable expenses, the first $300 a month isn't counted ($600 if you have a partner or children). 25% of anything above that isn't counted either, and the other 75% is. **Report it.**
+
+## BEFORE YOU MOVE
+**1. Tell your local AISH or ADAP office about the move and your new address, in writing.** Put your full name and file number in the subject line.
+
+**2. If you're moving in as roommates, say it clearly:** _"We are roommates, not a couple."_
+
+**3. If you get help with rent** (a housing subsidy or the Rent Assistance Benefit), tell that program too. A new person in the home can change it.
+
+**4. Keep a copy of your rental agreement** showing that each of you pays your own share.
+
+## GETTING AROUND
+Splitting the cost of gas is one thing. **If you're charging people for rides, ask your local AISH or ADAP office first whether it counts as income.**
+
+**Not sure? Ask your local AISH or ADAP office before you sign a lease or move.**
+
+_Sources: AISH and ADAP Policy Manual, Cohabiting Partners and Income sections (July 2026); AISH General Regulation (AR 96/2026), Schedule 1, section 2; AISH General Amendment Regulation (AR 244/2026), October 1, 2026._`
+      },
+      {
         title: "Free online session: Navigating the DTC and RDSP, Thursday, November 12 (November 6, 2026)",
         date: "2026-11-06",
         streams: ["AISH / ADAP / CPP-D", "Children / FSCD", "PDD", "General Topics"],
