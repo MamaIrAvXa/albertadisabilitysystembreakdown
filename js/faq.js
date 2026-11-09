@@ -68,23 +68,25 @@ If you would rather wait and see, that is a fair choice. Keep your payment state
 
 **Update, October 11, 2026:** the government has now said something about timing. In a news release on **October 6, 2026**, it said affected couples "will be repaid the full difference, back to August 2026," that **no action is required**, and that payments are **expected before the end of 2026**. That is the government's own statement of what it intends, and it has not given a payment day, a method, or a total. It also has not said whether anything can be taken out of the repayment first, so the notice-before-deductions question in our request letter still stands.
 
-You still do not have to apply, and the request letter is still a fair way to keep a dated record. Keep your payment statements from August on, and check your deposits dated October 27 and November 25, 2026, and the ones after, to see which amount you are being paid. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026)_
+You still do not have to apply, and the request letter is still a fair way to keep a dated record. Keep your payment statements from August on, and check your deposits dated October 27, November 25 and December 22, 2026, and the ones after, to see which amount you are being paid. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026)_
 
 Where the worry about deductions comes from: the government's general page on underpayments says AISH and ADAP "pays the full amount of an underpayment," and also says money from an underpayment "may be used to pay debts you have to the Alberta government." That page says nothing specific about the couples repayment, so we still do not know whether it will be used here. Keep asking for notice in writing before any deduction. _(Alberta "AISH and ADAP overpayments and underpayments" page, read October 18, 2026)_`
       },
       {
         q: `Does the $100 Alberta energy rebate count against my AISH or ADAP, and do I have to apply?`,
-        a: `The rebate is **$100 per eligible person**, and the government's page says rebates "are non-taxable and will not affect other government benefits." That is the government's own statement, which we have not seen tested, so check your next statement and tell us if anything looks off.
+        a: `The rebate was **$100 per eligible person**, and the government's page says rebates "were non-taxable and will not affect other government benefits." That is the government's own statement, which we have not seen tested, so check your next statement and tell us if anything looks off.
 
 **Did you have to apply?** If you were already on AISH (including if you were moved to ADAP), Income Support or the Alberta Seniors Benefit, you were enrolled automatically and there was nothing to do. If you came onto one of those programs **after July 1, 2026**, you had to apply yourself through the province's portal.
 
-**The application period has closed.** It was extended once, and ended on **October 31, 2026**. As of November 1, 2026, the government's rebate page still showed October 31 as the last day and named no later date. If you did not apply and think you should have, call Alberta Supports at 310-0000 (toll free in Alberta) and ask whether late applications are being accepted, and write down the date and who you spoke to.
+**The application period is closed.** It was extended once, and ended on **October 31, 2026**. The government's rebate page now says the rebate "closed October 31, 2026" and names no later date. If you came onto a program after July 1 and never applied, we have found nothing that says a late application will be accepted. You can still ask Alberta Supports at 310-0000 (toll free in Alberta) and write down the date and who you spoke to.
 
-**Update, November 2, 2026:** the government's page changed. New applications are closed, but **if your application was rejected and you have fixed the problem, you can resubmit it until November 20, 2026.** If your payment shows as "failed," you can update your payment details or re-send it from your application. **The rebate phone line closes Friday, November 6, at 4:30 p.m., and no payments go out after November 30, 2026.** _(Update, November 6, 2026: the rebate page no longer lists the phone line or its closing time. Use the rebate email line, which the page says is open until November 30.)_
+**If you already applied, two things are still open.** If your application was **rejected** and you have fixed the problem, you can **resubmit it until November 20, 2026**. If your payment shows as **failed**, you can update your payment details or send the payment again from your application. You can view your application and payment details until **November 30, 2026**, and **no payments will be issued after November 30, 2026**.
 
-Anyone else could apply if they were 18 or older on July 1, 2026, lived in Alberta, filed a 2025 tax return, and had a household income of $225,000 or less. Payment is made by direct deposit or Interac e-Transfer, after you verify who you are through online banking, photo ID, or your 2025 Notice of Assessment. The page says rebates are delivered within 14 days of applying. If you applied before the deadline and the 14 days have passed with no payment, ask in writing where your application stands and keep the answer.
+**Questions about a payment or a rejected application.** The government's rebate page lists a dedicated email, albertaenergyrebate@gov.ab.ca, that takes those questions until **Monday, November 30**. It asks you not to put personal or confidential information in the email. The page also lists call-centre hours of 8:15 am to 4:30 pm, Monday to Friday, but no longer says when any phone line closes. If 14 days have passed since you applied and you have no payment, ask in writing where your application stands, before November 30, and keep the answer.
 
-Keep it separate from the fuel-tax relief in the next answer, which needs no application. _(Alberta Energy Rebate page, read November 1, 2026)_
+The rebate was open to people who were 18 or older on July 1, 2026, lived in Alberta, filed a 2025 tax return, and had a household income of $225,000 or less. Payment was made by direct deposit or Interac e-Transfer after you verified who you are through online banking, photo ID, or your 2025 Notice of Assessment.
+
+Keep it separate from the fuel-tax relief in the next answer, which needs no application. _(Alberta Energy Rebate page, read November 8, 2026)_
 
 **Update, October 14, 2026:** it is now in writing from the program itself. Policy update **DIA-Program-2026-008** says the $100 rebate is not counted as income on AISH or ADAP, and a Ministerial Order exempts it as an asset, including anything you buy with it. For Income Support, update **IS-ETW/BFE-2026-012** and **Ministerial Order 2026-035** say the same: not a financial resource, not an asset. If your benefit went down after the rebate landed, call Alberta Supports at 310-0000 (toll free in Alberta; 1-877-644-9992 also works, per the payment-dates page), quote the update number, and write down the date and who you spoke to. _(DIA-Program-2026-008 and IS-ETW/BFE-2026-012, both October 14, 2026)_`
       },
@@ -114,7 +116,7 @@ From the **August 2026** payment, couples where both partners get AISH or ADAP w
 
 What the government has not said is the payment date, how the money will be paid, the total, or whether anything you owe it can be taken out first. The government's general page on underpayments says money from an underpayment may be used to pay debts you have to the Alberta government. Our answer above, *Do I have to apply to get the couples back pay?*, explains where that worry comes from and gives you a letter that asks for notice in writing before any deduction.
 
-What to do now: keep every payment statement from August on. Look at your deposits dated October 27 and November 25, 2026, and the ones after, to see which amount you are being paid. Several members told us the back pay arrived on October 27 as its own separate deposit marked "Underpayment." The government has not announced a payment date or total, so your own statement is the record that counts. If you're still being paid the reduced amount, tell us. If the end of December comes and you have not been repaid, ask in writing for the payment date and a month-by-month calculation of what you are owed, and bring the answer here so we can compare notes.
+What to do now: keep every payment statement from August on. Look at your deposits dated October 27, November 25 and December 22, 2026, and the ones after, to see which amount you are being paid. December 22 is the last scheduled deposit before the end of the year. Several members told us the back pay arrived on October 27 as its own separate deposit marked "Underpayment." The government has not announced a payment date or total, so your own statement is the record that counts. If you're still being paid the reduced amount, tell us. If the end of December comes and you have not been repaid, ask in writing for the payment date and a month-by-month calculation of what you are owed, and bring the answer here so we can compare notes.
 
 This applies to couples where **both** partners are on AISH or ADAP. If only one of you is, or if you are single, this change does not apply to you; the answer *Does the October 1 change help single people…* above lists what it leaves alone.
 
@@ -209,7 +211,7 @@ Check your own statement against those numbers. If you have a larger family, do 
 
 **If it doesn't come on its own, ask in writing.** Ask for the amount, the months it covers, and the date it will be paid. You can use our Underpayment Repayment Request form.
 
-A note: the government's page tells you to report a denial, but it does not spell out the repayment. Keep a copy of everything you send, and the date. _(alberta.ca/aish-apply-for-federal-disability-supports, published October 9, 2026, read November 1, 2026; repayment from a case ADSB assisted)_`
+A note: the government's page tells you to report a denial, but it does not spell out the repayment. Keep a copy of everything you send, and the date. _(alberta.ca/aish-apply-for-federal-disability-supports, republished November 3, 2026, read November 8, 2026; repayment from a case ADSB assisted)_`
       },
       {
         q: `If I apply for the DTC, am I automatically applied for the CDB?`,
@@ -231,7 +233,7 @@ So the only way to stop the deduction is to apply, and to get a denial. _(DIA Po
       },
       {
         q: `My CDB is less than $200, but AISH is taking $200. Is that right?`,
-        a: `**No.** The regulation counts the CDB you actually receive as income (AR 96/2026, Schedule 1, section 1(1)(e)). If your CDB is $152, the deduction should be $152, not $200.
+        a: `**No.** The regulation counts the CDB you receive as income (AR 96/2026, Schedule 1, section 1(1)(e)). If your CDB is $152, the deduction should be $152, not $200.
 
 **What to do:** send your local AISH/ADAP office a copy of your federal letter showing your CDB amount, with your full name and file number in the subject line. Ask them to correct the deduction, to pay back the extra for every month it was taken, and to answer you in writing. You can use our CDB Deduction Correction Letter.
 
@@ -247,6 +249,18 @@ If they refuse, that written answer is what you need to appeal. You have 30 days
 **What to do:** ask the insurance company or the employer's HR, in writing, who paid the premiums. Send that letter to your local AISH/ADAP office and ask them to show you, in writing, how they're counting it.
 
 CPP Disability is different. If it's paid to the AISH or ADAP client, it counts in full. _(DIA Policy Manual, "Income Type Exemption Table", read November 1, 2026)_`
+      },
+      {
+        q: `The federal budget came out this week. Does it change my AISH, ADAP or Canada Disability Benefit?`,
+        a: `Not that we can find, and we want to be careful about how far that goes.
+
+The federal budget was tabled on **November 5, 2026**. Budget measures are proposals until a law is passed, so nothing in a budget changes your payment by itself. In the government's budget news release we found no mention of the Canada Disability Benefit, the Disability Tax Credit, CPP or OAS. The budget summary page lists the Canada Disability Benefit as an existing program, at its current maximum, with no change shown.
+
+What we do not know yet is how Alberta would treat any new federal benefit that does come in. Alberta counts your monthly Canada Disability Benefit as income, dollar for dollar, because its regulation says so (AR 96/2026, Schedule 1, section 1(1)(e)). A new federal benefit would need its own decision, and none has been announced.
+
+The budget does propose a one-time extra payment on top of the Canada Groceries and Essentials Benefit (the new name for the GST/HST credit), up to **$339** for a single person with no kids, planned for **early 2027**. It is a proposal, not law, and there is no payment date yet. Whether Alberta would count it as income on AISH or ADAP has not been announced.
+
+So for now: your payment, your deductions and the $204.20 maximum are the same as before. If a post tells you the budget changed them, ask which page of which document says so. If your statement changes, ask in writing for a breakdown and bring it to us. _(Government of Canada, "Budget 2026: Masters of our destiny," November 5, 2026; Budget 2026, read November 5, 2026, for the grocery benefit supplement; Canada Disability Benefit amount page, read November 8, 2026; AR 96/2026, Schedule 1, section 1(1)(e), read November 8, 2026. The full budget report has not been read.)_`
       }
     ]
   },
