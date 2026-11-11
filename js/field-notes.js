@@ -16,6 +16,25 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Same province, same budget: what the province pays (November 10, 2026)",
+        date: "2026-11-10",
+        streams: ["AISH / ADAP / CPP-D", "Seniors Benefits CPP/CPPD", "Children / FSCD", "General Topics"],
+        body: `Here's what the numbers say. **Alberta's Legislature was scheduled to sit just 54 days in 2026. An MLA's base salary is $127,677 a year, paid all 12 months.** Someone moved from AISH to ADAP gets $1,740 a month (starting in January 2028), and once the Canada Disability Benefit is clawed back, **the province pays many of them just $1,540.** Same province, same budget, same law.
+
+And it doesn't stop at AISH and ADAP.
+
+## SENIORS
+On July 1, 2026, the income cut-off for Alberta's Special Needs Assistance for Seniors (help with one-time costs like a broken furnace, dentures or a mobility aid) **dropped by $2,080 for a single senior and $3,020 for a couple.** A senior who qualified in June may not qualify now, with the same income and the same needs.
+
+## CHILDREN
+Families of children with disabilities on FSCD (Family Support for Children with Disabilities) get **$0.12 a kilometre** to drive their child to medical appointments, **up to $400 a year** for clothing and footwear, and **up to 240 hours of respite a year.** That's about 20 hours a month of rest for a parent caring around the clock.
+
+## THE BOTTOM LINE
+Disabled adults, seniors and children with disabilities are living with these gaps right now. **Whatever side you're on, that should bother everyone paying for it.**
+
+_Sources: MLA pay is from the Legislative Assembly's [MLA compensation table](https://www.assembly.ab.ca/members/related-resources/mla-compensation-adjustments) (3.1% raise, April 2026). The ADAP rate is from [alberta.ca](https://www.alberta.ca/alberta-disability-assistance-program). The seniors cut-offs went from $34,770 to $32,690 (single) and from $56,820 to $53,800 (couple), per [Special Needs Assistance for Seniors](https://www.alberta.ca/seniors-special-needs-assistance.aspx). FSCD rates are from the FSCD Regulation._`
+      },
+      {
         title: "Member report: check your file, then check it again (November 7, 2026)",
         date: "2026-11-07",
         streams: ["AISH / ADAP / CPP-D"],
