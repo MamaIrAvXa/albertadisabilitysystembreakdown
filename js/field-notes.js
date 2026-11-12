@@ -16,6 +16,55 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "The Canadian Dental Care Plan: yes, it can include you (November 12, 2026)",
+        date: "2026-11-12",
+        streams: ["AISH / ADAP / CPP-D", "Income Support", "Seniors Benefits CPP/CPPD", "Children / FSCD", "General Topics"],
+        body: `Thank you to a member who researched this and sent it to me to check. I've gone through the government's own pages, and here's what they say.
+
+## WHAT IT IS
+The Canadian Dental Care Plan (CDCP) is a federal dental plan for people who don't have dental insurance. It covers kids, adults and seniors.
+
+## WHO CAN QUALIFY
+**Your adjusted family net income has to be less than $90,000.** ("Adjusted family net income" is the net income on your tax return, plus your spouse's or partner's if you have one. Any RDSP or UCCB income is taken off that number.)
+
+**You (and your spouse or partner) must have filed your taxes.**
+
+**You can't have private dental insurance**, like a plan through work. A health spending account counts as insurance too.
+
+## GOOD NEWS FOR US
+**Being on a government program does NOT count as private insurance.** The government's own page says people with coverage through a provincial program may still qualify. That includes people on AISH, Income Support, the Alberta Adult Health Benefit and Alberta Child Health Benefit cards, FSCD, and the Dental Assistance for Seniors Program.
+
+**ADAP:** The Alberta fact sheet doesn't name ADAP yet. ADAP is new, so the page may just not be updated. I'm checking. In the meantime, **ADAP members can still apply.** Ask your dentist how it will be billed.
+
+## WHO PAYS FIRST
+**The federal plan pays FIRST** (through Sun Life). Then **Alberta Blue Cross pays SECOND**, for what's left.
+
+## WILL YOU OWE ANYTHING?
+**For AISH, Income Support and the Alberta health benefit cards:** the government page says the dentist is NOT allowed to bill you the leftover balance when Alberta tops it up. But the same page also says CDCP co-payments and unpaid amounts are still yours to pay.
+
+**For seniors on the Dental Assistance for Seniors Program:** the dentist CAN bill you the leftover balance.
+
+So **BEFORE any treatment, ask your dentist: "After CDCP and Alberta Blue Cross pay, will I owe anything?"** Get the answer in writing if you can.
+
+## ONE WARNING
+If you get coverage and it turns out later that you didn't qualify, **you may have to pay the government back** for what the plan covered. Make sure your information is right when you apply.
+
+## HOW TO APPLY
+**Online:** through your My Service Canada Account (look for "Canadian Dental Care Plan")
+
+**By phone:** Service Canada at **1-833-537-4342** (TTY 1-833-677-6262)
+
+**It's free to apply.**
+
+## FIND A DENTIST WHO TAKES IT
+Not every dentist has signed up. [Search for one near you (Sun Life)](https://www.sunlife.ca/sl/cdcp/en/member/provider-search/).
+
+## THE GOVERNMENT PAGES
+[Who qualifies (canada.ca)](https://www.canada.ca/en/services/benefits/dental/dental-care-plan/qualify.html)
+
+[How it works with Alberta's programs (canada.ca)](https://www.canada.ca/en/services/benefits/dental/dental-care-plan/providers/fact-sheet-ab.html)`
+      },
+      {
         title: "Same province, same budget: what the province pays (November 10, 2026)",
         date: "2026-11-10",
         streams: ["AISH / ADAP / CPP-D", "Seniors Benefits CPP/CPPD", "Children / FSCD", "General Topics"],
