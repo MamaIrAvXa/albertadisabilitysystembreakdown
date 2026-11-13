@@ -9,6 +9,163 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-11-12",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 12, 2026",
+    body: `Nothing changed for AISH or ADAP in what I could read tonight.
+
+## CAN'T GET THROUGH ON THE PHONE?
+The government's website (alberta.ca) is showing this notice:
+
+_"A technical issue with Microsoft services is affecting Alberta Supports and government call centres. Visit an Alberta Supports centre in person for urgent requests."_
+
+It doesn't say when it started or when it'll be fixed. **If you have something urgent, like a missing payment or a deadline, go to an Alberta Supports centre in person.** If it can wait, **email your local AISH or ADAP office** with your full name and file number in the subject line, so you have a dated record.
+
+## WHAT I CHECKED TONIGHT
+The government's list of new orders, its list of new regulations, and the list of bills at the Legislature. There's nothing new touching AISH, ADAP or Income Support. The newest bill is still Bill 39.
+
+## WHAT'S STILL TRUE
+The AISH/ADAP regulation and the appeals regulation still match the government's live copies word for word, so:
+
+**AISH is still $1,940 a month and ADAP is still $1,740 a month.**
+
+**The 88% couples rule is still repealed.** That was the rule that paid couples less.
+
+**If ADAP cuts or stops your benefit because of the job rules, you CAN appeal that decision.**
+
+## COUPLES BACK PAY
+Still no notice saying how much or when. The government said **"before the end of the year."** The December payment on November 25 is the first one I'm watching. **If you're in a couple, keep your deposit statement** and tell me what you see.
+
+## 3 DATES COMING UP
+**Thursday, November 19:** Canada Disability Benefit
+
+**Friday, November 20:** last day to resubmit a REJECTED Energy Rebate application
+
+**Wednesday, November 25:** provincial payment for December (AISH, ADAP and Income Support)
+
+## AFTER THAT
+**November 30:** no Energy Rebate payments after this date. Questions to the rebate email (**albertaenergyrebate@gov.ab.ca**) until then, with no personal details in the email.
+
+**December 17:** Canada Disability Benefit
+
+**December 22:** provincial payment for January
+
+## WHAT I COULDN'T READ TONIGHT
+The federal news listing and the Legislature's daily record (Hansard). I'm keeping an eye on both.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-12",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 12, 2026",
+    body: `Nothing changed tonight for Alberta seniors' benefits, care charges, or OAS, GIS and CPP payment amounts in what I could read. The Special Needs funding amounts haven't been reissued.
+
+## CAN'T GET THROUGH ON THE PHONE?
+The government's website says:
+
+_"A technical issue with Microsoft services is affecting Alberta Supports and government call centres. Visit an Alberta Supports centre in person for urgent requests."_
+
+**If you have an urgent Seniors Benefit question, go in person.**
+
+## ENERGY REBATE: 8 DAYS LEFT
+If your $100 Energy Rebate was rejected, **you can resubmit until Friday, November 20.** Payments stop after November 30.
+
+## PAYMENTS THIS MONTH
+**Tuesday, November 24:** Seniors Benefit
+
+**Thursday, November 26:** CPP and OAS
+
+## CPP: LESS OFF YOUR PAY FROM JANUARY 1
+If you're still working and paying into CPP, **the base rate drops on January 1, 2027 from 4.95% to 4.75% of your pay.** If you're self-employed, it drops from 9.9% to 9.5%. This is the money taken OFF your pay. The law I read tonight says nothing about CPP payment amounts, so **this doesn't change your CPP cheque.**
+
+## FUEL TAX
+Alberta's fuel tax break is still set to run to the end of December. The province's review for January runs from Tuesday, November 17 to December 15, so what happens in January depends on oil prices over the next month.
+
+## AT THE LEGISLATURE
+The Legislature is back Monday. **Bill 39** would change how abuse in care is investigated and appealed. It's still lined up for debate **November 18 and 19.** Plans can change, but **if you have something to say about care homes and abuse complaints, now's the time to tell your MLA.**
+
+**Bill 33** still hasn't had royal assent (the final sign-off that makes a bill law). I'll tell you if care homes or lodges get named in it.
+
+## STILL LOOKING FOR
+The "continuing care needs assessment" the province said it would publish with last week's $250 million announcement. New funding documents for care home operators went up November 10, but the assessment isn't in them. I'll share it when I find it.
+
+## WHAT I COULDN'T READ TONIGHT
+The Alberta Gazette Part I issues, and court and tribunal decisions.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-12",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 12, 2026",
+    body: `New money was announced today, and here's what it does and doesn't say.
+
+## $11 MILLION FOR CLASSROOM COMPLEXITY (announced today)
+The government announced $11 million for school boards:
+
+**$5 million** to help 39 school authorities cover the travel costs of getting specialists to rural and remote schools. The release names _"mileage, transportation, accommodation and travel time for speech-language pathologists, psychologists, physical therapists and other qualified professionals."_ The 39 authorities were picked based on "rurality and sparsity," meaning how rural and spread out they are.
+
+**$6 million** for training teachers and administrators who manage complex classrooms.
+
+The government says this is part of the $100 million announced in June.
+
+## WHAT IT DOESN'T SAY
+**It doesn't list the 39 school authorities.**
+
+**It doesn't say which grant or rule the money goes through.** The government's own Funding Manual for school boards hands out its Classroom Complexity Grant based on how many students a board has, not how rural it is. The Manual doesn't mention speech-language pathologists once.
+
+**The government's own web page on classroom complexity hasn't been updated** to mention any of it.
+
+**A news release is an announcement, not a rule. It doesn't promise your child anything.**
+
+## IF YOUR CHILD IS IN A RURAL OR REMOTE SCHOOL
+If your child is waiting on a speech-language pathologist, psychologist or therapist, it's fair to ask your school board in writing: **"Is our school board one of the 39 getting this money, and how will it be used for students like my child?"** Keep a copy of what you send and what they say.
+
+## BILL 33 IS STILL NOT LAW
+It passed third reading on November 5 but **has NOT received royal assent** (the final sign-off that makes a bill law). The 2 parts that affect disabled children (school suspensions and expulsions, and the new section 10.2 of the Human Rights Act) only start when the government **"proclaims"** them, meaning it officially names a start date. That hasn't happened.
+
+**Careful with the name:** there's a DIFFERENT law called the Justice Statutes Amendment Act, 2026, already in force since May. Bill 33 is the "(No. 2)" one. If you search the name, you might find the wrong one.
+
+## FSCD AMOUNTS: ALL HELD (read from the regulation tonight)
+**Mileage:** $0.12 per kilometre
+
+**Clothing and footwear:** up to $400 a year
+
+**Respite:** up to 240 hours a year
+
+**Parking:** up to $10 a day
+
+**Hotel:** up to $85 a day
+
+**Dental:** $250 a year if you have no dental plan
+
+**Medical costs:** covered above 2% of the parents' combined net income
+
+**AADL (Alberta Aids to Daily Living):** families pay 25%, up to $500 per family per year
+
+## CHILD DISABILITY BENEFIT (FEDERAL)
+Still **up to $3,480 a year ($290 a month).** It starts going down once family income is over $82,847.
+
+## STILL TRUE
+**No Alberta program pays a parent to care for their own disabled child at home.**
+
+**Nothing Alberta publishes tells families they can apply for the Canada Disability Benefit in the 6 months BEFORE their child turns 18.**
+
+**The Legislature is back Monday, November 16.**
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-11-11",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — November 11, 2026",
