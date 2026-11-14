@@ -16,6 +16,59 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "New library rules start January 1, 2027: what they mean for disabled Albertans and families (November 14, 2026)",
+        date: "2026-11-14",
+        streams: ["General Topics", "Children / FSCD", "AISH / ADAP / CPP-D", "Seniors Benefits CPP/CPPD"],
+        body: `A member flagged this one, and it's worth knowing about even though it isn't an AISH or ADAP change.
+
+## WHAT'S CHANGING
+Alberta changed the Libraries Act (through Bill 28), and **new provincial rules for public libraries start January 1, 2027.** They apply to every public library in Alberta, not just Edmonton.
+
+**Books, graphic novels, comics, magazines, films, TV series and video games with what the province calls "visual depictions of sexual acts" will come off the open shelves.** That means you can no longer find them by browsing.
+
+**Adults can still borrow them**, but only by placing a hold and picking them up from library staff.
+
+**Children under 16 will need a parent or guardian to give permission on the child's library account** before they can borrow those items. Without it, their access to the full collection is limited.
+
+The rules also change how children under 16 use library computers and gaming equipment.
+
+Edmonton Public Library (EPL) says it will post its new policy, a list of common questions and answers, and information for parents before January 1.
+
+## IF YOU HAVE A PRINT DISABILITY
+A print disability means you can't read regular print because of a disability. That includes being blind or having low vision, a learning disability like dyslexia, or a physical disability that makes it hard to hold a book or turn pages.
+
+You can use **2 free national libraries** that make books in formats you can use: audiobooks, braille, large print and e-text. They are:
+
+**CELA** (Centre for Equitable Library Access)
+
+**NNELS** (National Network for Equitable Library Service)
+
+You get to them through your local public library card. The Alberta government's page says libraries in the Public Library Network have access to both. **NNELS will also make an accessible copy of a book if you ask.**
+
+**What we don't know yet:** EPL's notice doesn't say whether the new rules apply to CELA or NNELS material. If that matters to you, ask your library.
+
+## WHAT YOU CAN DO NOW
+**1.** If you don't have a library card, get one. It's free at many Alberta public libraries, including Edmonton and Calgary.
+
+**2.** If you have a print disability, ask your library to set up CELA and NNELS on your account.
+
+**3.** If you have a child under 16, watch your library's website for how to give permission, **so your child isn't cut off on January 1.**
+
+**4.** If you have questions about how the rules will work for you or your child, **ask your library in writing** (email is fine) and keep their answer.
+
+## LIBRARY PAGES ON ACCESSIBLE SERVICES
+[Calgary Public Library: CELA](https://www.calgarylibrary.ca/read-learn-and-explore/digital-library/cela)
+
+[Edmonton Public Library: Home delivery](https://www.epl.ca/homedelivery/)
+
+[Red Deer Public Library: Diverse abilities](https://rdpl.org/diverse-abilities/)
+
+## SOURCES
+[EPL notice, November 12, 2026](https://www.epl.ca/news/epl-board-sets-direction-in-response-to-new-provincial-library-regulations/)
+
+[Alberta accessible library support (alberta.ca)](https://www.alberta.ca/accessible-library-support)`
+      },
+      {
         title: "The Canadian Dental Care Plan: yes, it can include you (November 12, 2026)",
         date: "2026-11-12",
         streams: ["AISH / ADAP / CPP-D", "Income Support", "Seniors Benefits CPP/CPPD", "Children / FSCD", "General Topics"],
