@@ -9,6 +9,146 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-11-13",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 13, 2026",
+    body: `Nothing changed for AISH or ADAP in what I could read tonight.
+
+## UPDATE ON THE PHONE LINES
+Last night I told you alberta.ca was showing a notice about a Microsoft problem affecting Alberta Supports and government call centres. **That notice is gone now.** Nothing says what fixed it, but phone lines should be back to the usual. If you still can't get through about something urgent, an Alberta Supports centre is still an option.
+
+## WHAT I CHECKED TONIGHT
+Cabinet approved 11 new orders on November 10, and a new batch of regulations came out today in the Alberta Gazette (the government's official record of new laws). **None of them touch AISH, ADAP or Income Support.** No new bills either.
+
+## WHAT'S STILL TRUE
+The regulation and the appeals regulation still match the government's live copies word for word, so:
+
+**AISH is still $1,940 a month and ADAP is still $1,740 a month.**
+
+**The 88% couples rule is still repealed.**
+
+**If ADAP cuts or stops your benefit because of the job rules, you CAN appeal that decision.**
+
+## COUPLES BACK PAY
+Still no notice saying how much or when. The government said **"before the end of the year."** The December payment on November 25 is the first one I'm watching. **If you're in a couple, keep your deposit statement** and tell me what you see.
+
+## DATES COMING UP
+**Thursday, November 19:** Canada Disability Benefit. It's now listed on the federal government's payment calendar, along with Thursday, December 17.
+
+**Friday, November 20:** last day to resubmit a REJECTED Energy Rebate application.
+
+**Wednesday, November 25:** provincial payment for December (AISH, ADAP and Income Support).
+
+**November 30:** no Energy Rebate payments after this date.
+
+**December 22:** provincial payment for January.
+
+## THE HERITAGE FUND
+The government's own page says the Heritage Fund (Alberta's savings fund) was worth **$32.0 billion** as of March 31, 2026.
+
+## WHAT I COULDN'T READ TONIGHT
+The Legislature's daily record (Hansard). I'm keeping an eye on it.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-13",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 13, 2026",
+    body: `Nothing changed tonight for Alberta seniors' benefits, care charges, or OAS, GIS and CPP payment amounts in what I could read. The Special Needs funding amounts haven't been reissued, and this week's new cabinet orders and regulations don't touch seniors' programs.
+
+## UPDATE ON THE PHONE LINES
+The notice on alberta.ca about Microsoft problems hitting Alberta Supports and the government call centres **isn't showing anymore.** If you're still having trouble getting through, an Alberta Supports centre is still there for urgent things.
+
+## ENERGY REBATE: 1 WEEK LEFT
+If your $100 Energy Rebate was rejected, **you can resubmit until Friday, November 20.** Payments stop after November 30.
+
+## PAYMENTS THIS MONTH
+**Tuesday, November 24:** Seniors Benefit
+
+**Thursday, November 26:** CPP and OAS
+
+## GAS TAX
+The province's 13-cent break runs to the end of December. The review that decides January starts **Tuesday, November 17** and runs to December 15. The province says any increase is capped at 9 cents a quarter.
+
+## AT THE LEGISLATURE
+The Legislature is back Monday. **Bill 39** would change how abuse in care is investigated and appealed. It's still lined up for debate **November 18 and 19.** Plans can change, but **if you have something to say about care homes and abuse complaints, now's the time to tell your MLA.**
+
+**Bill 33** still hasn't had royal assent (the final sign-off that makes a bill law). I'll tell you if care homes or lodges get named in it.
+
+## STILL LOOKING FOR
+The "continuing care needs assessment" the province said it would publish with last week's $250 million announcement. It's not linked anywhere I can find yet. I'll share it when I do.
+
+## WHAT I COULDN'T READ TONIGHT
+Federal bill status, policy manuals and forms, and court and tribunal decisions.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-13",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 13, 2026",
+    body: `Two announcements tonight that reach every school in Alberta.
+
+## NEW SCHOOL FLAG AND ANTHEM RULES START JANUARY 4, 2027
+Cabinet set the start date on November 10 (Order in Council 368/2026). From **Monday, January 4, 2027:**
+
+**Every school board must make sure Canada's national anthem is played** at each of its schools at least once a week during the school day.
+
+**Schools must fly the Canadian and Alberta flags, and no other flag** unless the Minister allows it by regulation. That regulation (the Flag Display Regulation) starts the same day.
+
+## HOW A STUDENT CAN BE EXCUSED FROM THE ANTHEM
+The law gives one way: **a request IN WRITING, SIGNED BY A PARENT, given to the principal or to a teacher who teaches or supervises the student.** The school must then let the student leave the room while the anthem plays, or stay without standing, singing or taking part.
+
+**The law doesn't give any other way to be excused, and it doesn't mention disability or accommodations.**
+
+If your child might need to be excused, you can have the signed letter ready for January.
+
+## THE GOVERNMENT'S OWN PAGE IS BEHIND
+The alberta.ca page about this law doesn't mention the anthem rule at all, and doesn't give the January 4 date. The government's proclamations page still says "Updated October 2, 2026."
+
+## HIGH SCHOOL GRADUATION IS CHANGING (FALL 2028)
+Students will still need **100 credits**, but can take up to **53 optional credits instead of 44.** In grades 11 and 12, individual required courses will be replaced by broader areas of required learning.
+
+**Neither the announcement nor the government's page on it says anything about students with disabilities**, individualized program plans (IPPs), Knowledge and Employability courses, or the certificate of high school achievement. The guides for schools are expected in June 2027.
+
+## BILL 33 IS STILL NOT LAW
+No royal assent (the final sign-off that makes a bill law) on any record I checked. The parts that would affect schools and human rights only start once the government proclaims them, which hasn't happened.
+
+## FSCD AMOUNTS: ALL HELD
+**Mileage:** $0.12 a kilometre
+
+**Clothing and footwear:** $400 a year
+
+**Respite:** 240 hours a year
+
+**Parking:** up to $10 a day
+
+**Hotel:** up to $85 a day
+
+**Dental:** $250 a year if you have no dental plan
+
+**Medical costs:** covered above 2% of the parents' combined net income
+
+The FSCD policy manual still shows only one update all year, from February 20, 2026.
+
+## CHILD DISABILITY BENEFIT (FEDERAL)
+Still **up to $3,480 a year ($290 a month).** It starts going down once family income is over $82,847.
+
+**The Legislature is back Monday, November 16.**
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-11-12",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — November 12, 2026",
