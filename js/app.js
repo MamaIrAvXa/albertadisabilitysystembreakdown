@@ -1076,7 +1076,8 @@ function renderEmailLetters() {
       ('<div class="el-field"><label>Cc</label><input type="text" id="el-cc-' + L.id + '">' +
        (L.ccHint ? '<p class="el-hint">' + L.ccHint + '</p>' : '') + '</div>') : '';
     html +=
-      '<article class="el-card">' +
+      '<article class="el-card' + (L.featured ? ' el-featured' : '') + '">' +
+        (L.featured ? '<p class="el-badge">\u2605 Featured letter</p>' : '') +
         '<h3 class="el-title">' + dnEscape(L.title) + '</h3>' +
         '<p class="el-blurb">' + dnEscape(L.blurb) + '</p>' +
         '<details class="el-tools">' +

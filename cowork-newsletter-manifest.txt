@@ -1,5 +1,5 @@
 # ADSB Newsletter Manifest — FULL SITE (every git-tracked file, not PDFs only)
-# Generated: 2026-11-07 02:16 UTC | HEAD: 30c8ee0 | Format: <sha1-12>	<path>
+# Generated: 2026-11-14 02:18 UTC | HEAD: dffb4b3 | Format: <sha1-12>	<path>
 # Next run: diff this list, AND run `git diff <last HEAD> HEAD` to catch content added inside js/*.js data files.
 ff42ba4d877f	.gitattributes
 a08450e005b2	.gitignore
@@ -113,13 +113,13 @@ a0db6ce003ac	audio/the-full-plain-language-library/9_Plain_Language_What_Your_Do
 4dcafd8303d8	cta-card.html
 90095b86efb3	fcssaa-package-section.html
 2082d2df8fa8	fcssaa.html
-e33eafb7118c	index.html
-588f4fad9c13	js/app.js
-113f3730853d	js/daily-news.js
+e92045f88b17	index.html
+41addf08d044	js/app.js
+4505c79f4b8e	js/daily-news.js
 875b8e95cb47	js/email-letters.js
-52087a45a6e2	js/faq.js
+d01f07d435d9	js/faq.js
 ccfb7d3e123f	js/field-notes (1).js
-f68a9d947c2a	js/field-notes.js
+bd415ef108b7	js/field-notes.js
 a4bd59dab381	js/legal-package-sender.js
 a1398ef03296	netlify-catchall-fix.toml
 ff383b5d2421	netlify-redirects-to-add.toml
@@ -332,6 +332,7 @@ df3a2a458b43	pdfs/aish-adap/fillable/Fillable_Neudorf_END_REVERSE_ADAP_Letter.pd
 ff5b48e9a0be	pdfs/aish-adap/fillable/Fillable_Neudorf_STOP_ADAP_Letter.pdf
 fad576018829	pdfs/aish-adap/fillable/Fillable_Neudorf_STOP_ADAP_Letter_Caregiver_Edition.pdf
 bb4245f26ab8	pdfs/aish-adap/fillable/Fillable_Personal_Impact_Statement.pdf
+668c62da0e2d	pdfs/aish-adap/fillable/Fillable_PreJuly_Income_Rules_Review_Request.pdf
 d21fc0917f04	pdfs/aish-adap/fillable/Fillable_Pre_Appeal_Submission.pdf
 d19f5c10eb8c	pdfs/aish-adap/fillable/Fillable_Recording_Accommodation_Request.pdf
 7459a5b26b11	pdfs/aish-adap/fillable/Fillable_Travel_Benefit_Request_July2026.pdf
@@ -526,6 +527,7 @@ f48c12116db7	pdfs/aish-adap/flyers/posters/Alberta Disability Support Community 
 aba9d828fabc	pdfs/aish-adap/flyers/posters/Flyer_DTC_Loan_Not_Grant.png
 242de17a4a7e	pdfs/aish-adap/flyers/posters/Leadership_Accountability_Flyer.png
 b9d5fe558603	pdfs/aish-adap/flyers/posters/Minister_Reply_Oct15_2026_full.png
+df4599780da2	pdfs/aish-adap/flyers/posters/Satin Rose Remembrance Poppy.png
 6a9600c52e85	pdfs/aish-adap/flyers/posters/The Earnings Exemption What Changes July 1, 2026.png
 5664dc56427e	pdfs/aish-adap/flyers/posters/Where Does the CDB Go.png
 88f605c465fb	pdfs/aish-adap/flyers/posters/Where Your $1,940 Comes From.png
@@ -734,7 +736,6 @@ d66116a13315	pdfs/aish-adap/july-2026-docs/AISH_ADAP_Key_Features_Verified_July2
 c860c4479f65	pdfs/aish-adap/july-2026-docs/AISH_to_ADAP_Support_Resources_Guide.pdf
 0b48797e5365	pdfs/aish-adap/july-2026-docs/Appeal_and_Reassessment_Rights_July2026.pdf
 6972a8fbd50a	pdfs/aish-adap/july-2026-docs/Calgary_Getting_Around_Guide_July2026.pdf
-b122fb414e82	pdfs/aish-adap/july-2026-docs/DS2444A_How_To_Fill_It_Out.pdf
 77436a72d485	pdfs/aish-adap/july-2026-docs/DS2444B_Medical_Report_Guide.pdf
 95a9a62862b7	pdfs/aish-adap/july-2026-docs/Disability_Tax_Credit_PlainLanguage_July2026.pdf
 c052b6887746	pdfs/aish-adap/july-2026-docs/Edmonton_Getting_Around_Guide_July2026.pdf
@@ -812,6 +813,7 @@ b19a8db93889	pdfs/aish-adap/new-adsb-docs/AISH_vs_ADAP_Cheat_Sheet.pdf
 db5f2a016953	pdfs/aish-adap/new-adsb-docs/AISH_vs_ADAP_Language_Deep_Dive.pdf
 12aeac284b22	pdfs/aish-adap/new-adsb-docs/AR96-2026_Key_Sections_Highlighted.pdf
 cd2a2b1bfaf7	pdfs/aish-adap/new-adsb-docs/Bill12_Section6_Key_Provisions_Highlighted.pdf
+45ba3fe0970d	pdfs/aish-adap/november-2026-docs/ADSB_How_To_Fill_Out_Part_A_DS2444A_Nov2026_PRINTER_FRIENDLY.pdf
 2e96f97bde56	pdfs/aish-adap/october-2026-docs/ADSB_Emergency_Numbers_Card_October2026.pdf
 53d5111b4156	pdfs/aish-adap/personal-submission/Bruce_Remembrance.pdf
 8165697ec9f7	pdfs/aish-adap/personal-submission/Personal_Story_Submission.pdf

@@ -14,6 +14,36 @@
    ─────────────────────────────────────────────────────────────── */
 const EMAIL_LETTERS = [
   {
+    id: "where-do-you-stand",
+    featured: true,
+    title: "NEW \u2014 Where do you stand? Ask every party and candidate about AISH and ADAP",
+    blurb: "Seven plain questions, in writing, to anyone who wants your vote: the CDB clawback, the move to ADAP, the $200 that ends in 2027, how much you can earn, the cost of living, rent and the Canada Child Benefit, and being asked first. Send the same letter to every party, so you can compare their answers side by side. It doesn't support or oppose any party.",
+    to: "",
+    toHint: "Send it to <b>every</b> party and candidate you want an answer from, not just one. <b>Your own MLA:</b> find yours at <b>contact.assembly.ab.ca</b>. <b>Each party:</b> use the contact page on its website. <b>Candidates in your riding:</b> once they're named, their contact details are usually on their campaign pages. Send one email per party, so each answer comes back to you on its own.",
+    subject: "Where does your party stand on AISH and ADAP?",
+    note: "Fill in everything in [brackets]. A sentence about your own life is optional, but it's what people remember. Keep a copy of every letter you send, and when answers come back, write down the date and who answered. Leave out anything private, like your file number or medical details.",
+    pdf: "/pdfs/shared/fillable/Fillable_Where_Do_You_Stand_Letter_to_Parties_and_Candidates.pdf",
+    body:
+`Hello,
+
+I'm writing to ask where you and your party stand on the programs thousands of disabled Albertans live on. Please answer each question in writing.
+
+1. Since October 2025, the Canada Disability Benefit has been taken off AISH payments dollar for dollar, and off ADAP payments since ADAP began. Will you let clients keep it, and pay back what's already been clawed back?
+2. On July 2, 2026, many AISH clients were moved to ADAP without a new medical assessment. Will you let them return to AISH without reapplying?
+3. ADAP pays $1,740 a month, $200 less than AISH. The $200 transition benefit ends December 31, 2027. Will you keep their payment from dropping after that date?
+4. AISH used to let a single person keep the first $1,072 a month they earned. Now it's $350. Will you raise it?
+5. Will you raise AISH and ADAP every year by the full rise in the cost of living, with no cap?
+6. The Canada Child Benefit will start counting toward subsidized rent in 2027 and 2028. Will you stop that?
+7. Will you consult disabled Albertans and their families before any change to AISH or ADAP?
+
+[Optional: one or two sentences about what this means for you. Delete this line if you would rather not say.]
+
+I'll be sharing the answers I receive with other disabled Albertans and their families. Thank you, and I look forward to your reply.
+
+[Your name]
+[Your riding, if you know it]`
+  },
+  {
     id: "bill-33-mla",
     title: "NEW \u2014 Bill 33: ask your MLA to protect disability hiring programs",
     blurb: "Bill 33 would stop the government, school boards, health agencies, municipalities and publicly funded agencies from running programs to hire or promote disabled people onto their own staff. It names physical and mental disability directly. This asks your own MLA to question it, support an amendment, and tell you in writing where they stand. The bill has only had its first reading, so it can still change.",
