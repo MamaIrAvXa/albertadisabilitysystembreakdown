@@ -16,6 +16,35 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Today's Tea Time is up, and so is the Part A walkthrough (November 14, 2026)",
+        date: "2026-11-14",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `If you missed today's live, or want to go back to something, it's all on YouTube now.
+
+## HOW TO FILL OUT PART A OF THE AISH APPLICATION (DS2444A)
+I go through Part A of the October 2026 application, question by question. This one's for you if you're:
+
+**applying for AISH or ADAP for the first time**
+
+**going back to AISH after being moved to ADAP**
+
+**helping someone else fill it out**
+
+[Watch the Part A walkthrough on YouTube](https://youtu.be/2Y6vD-2Ys_s)
+
+**Want it on paper too?** Here's the written guide that goes with it. You can print it and keep it beside you while you fill out the form: [How to fill out Part A of DS2444A (printer-friendly PDF)](https://albertadisabilitysystembreakdown.netlify.app/pdfs/aish-adap/november-2026-docs/ADSB_How_To_Fill_Out_Part_A_DS2444A_Nov2026_PRINTER_FRIENDLY.pdf)
+
+## TODAY'S FULL EPISODE
+Everything we went through today, over a cup: [Watch today's full episode](https://youtu.be/MydageWgqqA)
+
+**Need captions?** Click the CC button at the bottom of the YouTube video to turn on closed captions.
+
+## THE SHORT CLIPS
+All of today's clips are up on the channel too, so you can jump straight to the topic you need: [Alberta Disability Breakdown on YouTube](https://www.youtube.com/@AlbertaDisabilityBreakdown)
+
+If this helps you, share it with someone who's filling out that application right now. **It's a lot less scary when someone walks you through it.**`
+      },
+      {
         title: "New library rules start January 1, 2027: what they mean for disabled Albertans and families (November 14, 2026)",
         date: "2026-11-14",
         streams: ["General Topics", "Children / FSCD", "AISH / ADAP / CPP-D", "Seniors Benefits CPP/CPPD"],
