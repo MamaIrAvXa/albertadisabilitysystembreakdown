@@ -16,6 +16,36 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Policy update: Income Support's new letter to businesses about refused bills (November 16, 2026)",
+        date: "2026-11-16",
+        streams: ["Income Support"],
+        body: `**This one is for Income Support, not AISH or ADAP.**
+
+As of today, November 16, 2026, Income Support has a new letter called **"EMP 15231 Non-Involvement for Vendors."**
+
+## WHAT IT DOES
+If a pharmacy, dentist, supply store or other business sends Income Support a bill for something Income Support won't cover, staff can send that business a letter saying **Income Support won't pay, and to contact YOU for the money.**
+
+## WHAT THIS MEANS FOR YOU IF YOU'RE ON INCOME SUPPORT
+**1. Before you get a health item or service, ask your local Income Support office if it's covered.** Ask for the answer in writing.
+
+**2. If a business tells you Income Support refused their bill, email your local office and ask for the decision in writing, with the reason.** Put your full name and file number in the subject line.
+
+**3. A written decision is what lets you ask for a review or appeal.**
+
+## WHAT WE DON'T KNOW YET
+The government's notice doesn't say whether clients get a copy of the letter sent to the business. If you get one, or a business contacts you about a refused bill, let me know.
+
+## THE GOVERNMENT'S NOTICE
+[See the Policy Manual Update notice (image)](/pdfs/income-support/PMUIS16-11-2026.jpg)
+
+In text, so screen readers can read it: _Policy Manual Update, Income Support. Subject: New Letter, EMP 15231 Non-Involvement for Vendors. Number: IS-ETW/BFE-2026-013. Date issued: November 16, 2026. Effective: immediately. Issued by the Income Services Branch, Assisted Living and Social Services._
+
+_Background: "The Income Support program provides financial assistance to eligible clients to help cover medical and other essential expenses. Occasionally, invoices are received for services or items that are not eligible for reimbursement under the Income Support policy. To address these situations, a new letter EMP 15231 Non-Involvement for Vendors has been developed. This letter informs vendors that payment will not be issued by the Income Support program and advises them to contact the client directly regarding payment."_
+
+_Policies updated: Authority-Intent-Policy, and Procedures for Issuing Supplementary Income Support Benefits._`
+      },
+      {
         title: "Free webinar: understanding Alberta's new disability assistance program, November 25 (November 16, 2026)",
         date: "2026-11-16",
         streams: ["AISH / ADAP / CPP-D", "General Topics"],

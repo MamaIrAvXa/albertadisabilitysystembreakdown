@@ -70,7 +70,9 @@ If you would rather wait and see, that is a fair choice. Keep your payment state
 
 You still do not have to apply, and the request letter is still a fair way to keep a dated record. Keep your payment statements from August on, and check your deposits dated October 27, November 25 and December 22, 2026, and the ones after, to see which amount you are being paid. _(news release "Stronger supports for Albertans with disabilities," October 6, 2026)_
 
-Where the worry about deductions comes from: the government's general page on underpayments says AISH and ADAP "pays the full amount of an underpayment," and also says money from an underpayment "may be used to pay debts you have to the Alberta government." That page says nothing specific about the couples repayment, so we still do not know whether it will be used here. Keep asking for notice in writing before any deduction. _(Alberta "AISH and ADAP overpayments and underpayments" page, read October 18, 2026)_`
+Where the worry about deductions comes from: the government's general page on underpayments says AISH and ADAP "pays the full amount of an underpayment," and also says money from an underpayment "may be used to pay debts you have to the Alberta government." That page says nothing specific about the couples repayment. But the regulation that orders the repayment says the same thing in law. Section 20(2) says a director "may deduct from the outstanding amount" any benefit you have to repay and "a debt due to the Government." So a deduction is allowed. It is not automatic, and the government has not said it will be done to the couples repayment.
+
+Two things follow from that. A decision to deduct under section 20(2) is on the short list of decisions that **cannot be appealed**, so the time to raise it is before the money is paid, not after. The underpayment itself is different: if you think the amount you were repaid is wrong, that decision can be appealed, in writing, within 30 days of the date you receive notice of it. That is why our request letter asks for notice in writing before anything is deducted. If you have an overpayment or a debt on file, ask in writing now whether any of it will come out of your repayment, and how much. _(AR 96/2026, section 20(1), (1.1) and (2), and AR 89/2007, section 6(i), both read at the Alberta King's Printer November 15, 2026; AISH Act, section 10.1(1); Alberta "AISH and ADAP overpayments and underpayments" page, read November 15, 2026)_`
       },
       {
         q: `Does the $100 Alberta energy rebate count against my AISH or ADAP, and do I have to apply?`,
@@ -78,17 +80,17 @@ Where the worry about deductions comes from: the government's general page on un
 
 **Did you have to apply?** If you were already on AISH (including if you were moved to ADAP), Income Support or the Alberta Seniors Benefit, you were enrolled automatically and there was nothing to do. If you came onto one of those programs **after July 1, 2026**, you had to apply yourself through the province's portal.
 
-**The application period is closed.** It was extended once, and ended on **October 31, 2026**. The government's rebate page now says the rebate "closed October 31, 2026" and names no later date. If you came onto a program after July 1 and never applied, we have found nothing that says a late application will be accepted. You can still ask Alberta Supports at 310-0000 (toll free in Alberta) and write down the date and who you spoke to.
+**The application period is closed.** It was extended once, and ended on **October 31, 2026**. The government's rebate page now says the rebate "closed October 31, 2026" and names no later date. If you came onto a program after July 1 and never applied, we have found nothing that says a late application will be accepted. You can still ask Alberta Supports at 1-877-644-9992 (toll free in Alberta) and write down the date and who you spoke to.
 
 **If you already applied, two things are still open.** If your application was **rejected** and you have fixed the problem, you can **resubmit it until November 20, 2026**. If your payment shows as **failed**, you can update your payment details or send the payment again from your application. You can view your application and payment details until **November 30, 2026**, and **no payments will be issued after November 30, 2026**.
 
-**Questions about a payment or a rejected application.** The government's rebate page lists a dedicated email, albertaenergyrebate@gov.ab.ca, that takes those questions until **Monday, November 30**. It asks you not to put personal or confidential information in the email. The page also lists call-centre hours of 8:15 am to 4:30 pm, Monday to Friday, but no longer says when any phone line closes. If 14 days have passed since you applied and you have no payment, ask in writing where your application stands, before November 30, and keep the answer.
+**Questions about a payment or a rejected application.** The government's rebate page lists a dedicated email, albertaenergyrebate@gov.ab.ca, that takes those questions until **Monday, November 30**. It asks you not to put personal or confidential information in the email. The only phone number on the page, 1-844-643-2789 (8:15 am to 4:30 pm, Monday to Friday), is for help with your Alberta.ca account, not for rebate payments, so put payment questions in the email. If 14 days have passed since you applied and you have no payment, ask in writing where your application stands, before November 30, and keep the answer.
 
 The rebate was open to people who were 18 or older on July 1, 2026, lived in Alberta, filed a 2025 tax return, and had a household income of $225,000 or less. Payment was made by direct deposit or Interac e-Transfer after you verified who you are through online banking, photo ID, or your 2025 Notice of Assessment.
 
-Keep it separate from the fuel-tax relief in the next answer, which needs no application. _(Alberta Energy Rebate page, read November 8, 2026)_
+Keep it separate from the fuel-tax relief in the next answer, which needs no application. _(Alberta Energy Rebate page, read November 15, 2026)_
 
-**Update, October 14, 2026:** it is now in writing from the program itself. Policy update **DIA-Program-2026-008** says the $100 rebate is not counted as income on AISH or ADAP, and a Ministerial Order exempts it as an asset, including anything you buy with it. For Income Support, update **IS-ETW/BFE-2026-012** and **Ministerial Order 2026-035** say the same: not a financial resource, not an asset. If your benefit went down after the rebate landed, call Alberta Supports at 310-0000 (toll free in Alberta; 1-877-644-9992 also works, per the payment-dates page), quote the update number, and write down the date and who you spoke to. _(DIA-Program-2026-008 and IS-ETW/BFE-2026-012, both October 14, 2026)_`
+**Update, October 14, 2026:** it is now in writing from the program itself. Policy update **DIA-Program-2026-008** says the $100 rebate is not counted as income on AISH or ADAP, and a Ministerial Order exempts it as an asset, including anything you buy with it. For Income Support, update **IS-ETW/BFE-2026-012** and **Ministerial Order 2026-035** say the same: not a financial resource, not an asset. If your benefit went down after the rebate landed, call Alberta Supports at 1-877-644-9992 (toll free in Alberta, per the payment-dates page), quote the update number, and write down the date and who you spoke to. _(DIA-Program-2026-008 and IS-ETW/BFE-2026-012, both October 14, 2026)_`
       },
       {
         q: `Is there other help with costs this fall, besides the energy rebate?`,
@@ -100,13 +102,13 @@ Keep it separate from the $100 energy rebate, which was a one-time payment with 
       },
       {
         q: `Once my Canada Disability Benefit is approved, how much does Alberta deduct?`,
-        a: `We do not have a clean answer for you yet, and we would rather say that plainly than guess.
+        a: `Your real CDB amount, dollar for dollar. That is what the rule says, and we can now point you at it. The regulation counts the Canada Disability Benefit you receive as income (AR 96/2026, Schedule 1, section 1(1)(e)). The $150 supplement is left out, because the same rule does not count CDB money paid to offset the cost of applying for the Disability Tax Credit. And if you receive the **modified** living allowance, the rate for people living in a facility, the policy manual says the CDB is exempt for you.
 
-The $200 penalty you may have read about is for **not applying** or **not confirming** your application's outcome \u2014 it is not automatically what gets deducted once your CDB is approved and on file. Once it is on file, the expectation is that Alberta deducts your real CDB amount, dollar for dollar.
+The $200 you may have read about is something else. It is what comes off for people who have **not applied** for the CDB or **not reported** the outcome. It is not the ordinary deduction once your CDB is approved and on file.
 
-But we have seen statements from two different members this month that do not agree with each other. One shows a CDB deduction that matches their real federal payment. Another shows a flat $200 deducted against a confirmed CDB of a smaller amount. We do not know yet which one is the rule and which one is a mistake.
+We have seen member statements that do not match that rule, including a flat $200 taken against a confirmed CDB of a smaller amount. If that is you, see *My CDB is less than $200, but AISH is taking $200. Is that right?* further down this page for what to send and how to ask for the difference back.
 
-Until this is sorted out: compare your CDB deposit against the CDB line on your AISH or ADAP statement. If the deducted amount does not match your real federal payment, ask in writing why \u2014 and bring the answer to us so we can compare notes. _(the $200 non-application penalty confirmed on the government's ALSS Canada Disability Benefit and Disability Tax Credit fact sheet for AISH recipients, dated April 2026; the discrepancy is drawn from member account statements, not a government source, and is not yet resolved)_`
+Either way, compare your CDB deposit against the CDB line on your AISH or ADAP statement. If they do not match, ask in writing why, and bring the answer to us so we can compare notes. _(AR 96/2026, Schedule 1, section 1(1)(e), read at the Alberta King's Printer November 15, 2026; the modified-allowance exemption per the DIA Policy Manual, Pension Income, read November 15, 2026; the $200 for not applying or not reporting per the government's "Apply for federal disability supports" page, read November 15, 2026; the mismatched statements come from members' own account statements, not a government source)_`
       },
       {
         q: `My partner and I both get AISH or ADAP — did our money drop, and will we be repaid?`,
@@ -201,7 +203,9 @@ Nothing changes on your rent today, and none of this reaches you until your own 
         q: `Are the child benefit amounts changing under ADAP?`,
         a: `Yes. From the **August 2026** benefit period, the monthly child benefit is **$300 for the first child, $117 for the second, $88 for the third, $59 for the fourth, and $30 for each additional child**. The government says the new rates will increase benefits for about **7,000 families** receiving disability income assistance.
 
-Check your own statement against those numbers. If you have a larger family, do the arithmetic against what you were paid before rather than assuming it went up. Ask in writing for a breakdown of how your child benefit was calculated. _(Alberta Disability Assistance Program page, read October 18, 2026)_`
+Check your own statement against those numbers. If you have a larger family, do the arithmetic against what you were paid before rather than assuming it went up. Ask in writing for a breakdown of how your child benefit was calculated.
+
+These are the 2026 rates. From **January 1, 2027**, the regulation adjusts AISH and ADAP benefit amounts every year by the Alberta escalator, and the child benefit is one of the amounts it names, so expect these figures to be adjusted from the January 2027 benefit period. The government has not yet published the new figures. _(child benefit rates per the Alberta Disability Assistance Program page, read November 15, 2026; the yearly adjustment per AR 96/2026, section 7(1)(c) and 7(3), read at the Alberta King's Printer November 15, 2026)_`
       },
       {
         q: `I was denied the DTC or the CDB. How do I get the $200 back?`,
@@ -400,9 +404,9 @@ Three situations close the door on a cost-share exemption altogether, and they a
 
 **What you need:** a letter from the clinic or doctor that says what the service is, where it is, how long you'll be there, and how often you need to go.
 
-**What it covers:** the cheapest public transit, or if you can't reasonably take transit, 37 cents a kilometre or the cost of a taxi. If you're away more than 24 hours, food ($26 a day for an adult) and a hotel. You can also ask for someone to go with you.
+**What it covers:** the cheapest public transit, or if you can't reasonably take transit, 37 cents a kilometre (the 2026 rate) or the cost of a taxi. If you're away more than 24 hours, food ($26 a day for an adult in 2026) and a hotel. You can also ask for someone to go with you. The manual's rate history shows the kilometre rate going up each January 1, so check the current rate with your local AISH or ADAP office in the new year.
 
-**Ask early, in writing.** Email your local AISH/ADAP office with your full name and file number in the subject line, attach the letter, and ask for the travel to be approved ahead of time. If they say no, ask for the reason in writing. After hours, the 24-hour line is 1-866-644-5135. _(DIA Policy Manual, "Travel" and "Personal Benefits", read November 1, 2026)_`
+**Ask early, in writing.** Email your local AISH/ADAP office with your full name and file number in the subject line, attach the letter, and ask for the travel to be approved ahead of time. If they say no, ask for the reason in writing. After hours, the 24-hour line is 1-866-644-5135. _(DIA Policy Manual, "Travel" and "Personal Benefits", read November 15, 2026)_`
       }
     ]
   },
