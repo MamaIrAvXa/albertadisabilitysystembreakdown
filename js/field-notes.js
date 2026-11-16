@@ -16,6 +16,31 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Free webinar: understanding Alberta's new disability assistance program, November 25 (November 16, 2026)",
+        date: "2026-11-16",
+        streams: ["AISH / ADAP / CPP-D", "General Topics"],
+        body: `A member passed this along. The Social Workers Association of Alberta (SWAA) is hosting **a free online webinar about the move from AISH to ADAP.**
+
+## THE DETAILS
+**When:** Wednesday, November 25, 2026, at 6 PM Alberta time
+
+**Where:** Online
+
+**Cost:** Free, and **open to everyone**, not just social workers
+
+## SPEAKERS
+**Gillian Petit, PhD, JD**, University of Calgary. She researches AISH and ADAP.
+
+**Philip Ney**, Inclusion Alberta
+
+They'll talk about what the changes mean for people with disabilities and their families, and about ways to advocate. There's time for questions.
+
+## REGISTER
+[Register for the webinar](https://bit.ly/48av1Kh)
+
+If you go, tell us what you learned!`
+      },
+      {
         title: "Today's Tea Time is up, and so is the Part A walkthrough (November 14, 2026)",
         date: "2026-11-14",
         streams: ["AISH / ADAP / CPP-D"],
