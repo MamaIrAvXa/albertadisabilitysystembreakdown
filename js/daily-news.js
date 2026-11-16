@@ -9,6 +9,141 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-11-15",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 15, 2026",
+    body: `Quick Sunday update. Nothing changed for AISH or ADAP in what I could read tonight. There were no new government orders, regulations or news releases touching AISH, ADAP or Income Support.
+
+## STILL TRUE
+**AISH is $1,940 a month and ADAP is $1,740 a month.** The regulation still matches the government's live copy.
+
+**The 88% couples rule is still repealed.**
+
+## THIS WEEK AND NEXT
+**Thursday, November 19 (4 days):** Canada Disability Benefit (CDB) payment, up to $204.20.
+
+**Friday, November 20 (5 days):** last day to resubmit a rejected Alberta Energy Rebate application.
+
+**Wednesday, November 25:** AISH, ADAP and Income Support payment for December.
+
+**Monday, November 30:** last day to view your rebate application and payment details. No rebate payments after that.
+
+**Tuesday, December 22:** AISH, ADAP and Income Support payment for January. Heads up: the government's payment dates page calls December 22 a Wednesday. The date is right, but it's a Tuesday.
+
+**The federal calendar now shows the 2027 CDB dates.** The first one is **Thursday, January 21, 2027.**
+
+## NORTH ZONE EMAIL HAS CHANGED
+A member who emailed the North Zone AISH and ADAP office got an official automatic reply saying northzoneaish@gov.ab.ca has been replaced with **ALSS.NorthZoneDIA@gov.ab.ca**. If you're in the North Zone, **send to the new address from now on**, with your full name and file number in the subject line.
+
+## COUPLES
+Still no amount or date from the government for couples' back pay. **Keep your November 25 deposit statement** and tell me what you see. **If nothing has shown up by the end of the year, let your local AISH or ADAP office know in writing.**
+
+## THE LEGISLATURE IS BACK TOMORROW
+MLAs return **Monday, November 16.** I'll be reading question period every day for anything on AISH, ADAP and couples' back pay.
+
+## WHAT I DIDN'T GET TO TONIGHT
+The government's consultation pages, committee agendas, the federal cabinet orders list and the federal bill tracker.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-15",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 15, 2026",
+    body: `Nothing changed tonight for Alberta seniors' benefits, care charges, or OAS, GIS and CPP amounts. No new cabinet orders, no new Gazette, and no seniors news releases.
+
+## ENERGY REBATE: 5 DAYS LEFT
+If your $100 Energy Rebate was rejected and you've fixed the problem, **resubmit by Friday, November 20.** No payments will be issued after November 30.
+
+## PAYMENT DATES
+**Tuesday, November 24:** Alberta Seniors Benefit
+
+**Thursday, November 26:** CPP and Old Age Security
+
+**Thursday, December 17:** Alberta Seniors Benefit
+
+**Tuesday, December 22:** CPP and Old Age Security
+
+## GAS TAX
+The province's 13-cent-a-litre fuel tax break runs to the end of December. The review that decides January's rate starts this **Tuesday, November 17**, and runs to December 15.
+
+## BILL 39: ABUSE IN CARE
+The Legislature is back tomorrow. **Bill 39**, which would change how abuse in care homes is investigated and appealed, is lined up for debate **November 18 and 19.** Plans can change, but **if you have something to say about care homes and abuse complaints, now's the time to tell your MLA** (contact.assembly.ab.ca).
+
+## BILL 33
+Still no royal assent. I'm watching for it, and I'll tell you if care homes or lodges get named.
+
+## STILL LOOKING
+The province said it would publish a continuing care needs assessment alongside the $250 million for new care and lodge spaces. I checked the announcement and the program pages again tonight, and it still isn't posted anywhere. I'll share it the day it shows up.
+
+## WHAT I DIDN'T READ TONIGHT
+The federal bill tracker, policy manuals, forms, or court and tribunal decisions. I only got through the first page of federal cabinet orders.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-15",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 15, 2026",
+    body: `Nothing moved tonight on FSCD, PDD or school supports. But tonight's check read the Disability Tax Credit form itself, page by page, and found a few things families should know.
+
+## PAYMENT DATES
+**Friday, November 20:** Canada Child Benefit (CCB). The Child Disability Benefit comes in the same deposit.
+
+**Friday, November 27:** Alberta Child and Family Benefit (ACFB). **This is the last ACFB payment of 2026.** The next one isn't until late February 2027, so plan around about 13 weeks with no ACFB, right over Christmas.
+
+**Friday, December 11:** the December Canada Child Benefit comes early, 9 days before its usual date.
+
+## BOTH PARENTS HAVE TO FILE TAXES
+The CCB, and the ACFB that rides on it, depend on taxes being filed on time. The government's own words: _"If you have a spouse or common-law partner, they must also file their tax return on time every year,"_ and _"You must file your tax return by April 30 each year to ensure there is no disruption to your monthly benefit payments."_
+
+## THE DISABILITY TAX CREDIT FORM (T2201)
+The Disability Tax Credit (DTC) is a federal tax credit for people with a severe and prolonged disability. **Your child needs it for the Child Disability Benefit, and later, at 18, for the Canada Disability Benefit.** The form a health professional signs is called the T2201.
+
+**Tube feeding is on the form.** It's listed as a life-sustaining therapy (the test is at least 2 times a week and an average of at least 14 hours a week). Relying only on tube feeding is also given as an example of a marked restriction in feeding. **So it can count 2 different ways.**
+
+**For a child whose disability is in mental functions, only a medical doctor, a nurse practitioner or a psychologist can sign the form.** An occupational therapist can only sign for walking, feeding and dressing.
+
+The federal government proposed in July 2026 to let more health professionals sign. **That change is not law yet**, and the form in use is still the 2023 version.
+
+## TURNING 18 SOON?
+**A young person can apply for the Canada Disability Benefit up to 6 months before their 18th birthday.** In the federal government's words: _"If you are under 18, you can apply up to 6 months before your 18th birthday. However, your application will not be processed until you turn 18."_ Alberta's transition to adulthood page doesn't mention the Canada Disability Benefit at all, so I'm telling you here. **Make sure the Disability Tax Credit is in place first.**
+
+## BILL 33 IS STILL NOT LAW
+Still no royal assent. The Legislature returns tomorrow, and Bill 33 is the only bill listed as waiting for royal assent on Monday's agenda. Even after that, the parts about schools and the Human Rights Act only start when the government proclaims them.
+
+## FSCD RATES UNCHANGED
+**Mileage:** $0.12 a kilometre
+
+**Clothing and footwear:** up to $400 a year
+
+**Respite:** up to 240 hours a year
+
+**Parking:** $10 a day
+
+**Hotel:** $85 a day
+
+**Dental:** $250 a year if you have no dental plan
+
+**Medical costs:** above 2% of both parents' combined net income
+
+**Alberta Aids to Daily Living** cost-sharing is still 25%, up to $500 per family per year (per family, not per child).
+
+## WHAT I COULDN'T READ TONIGHT
+The federal cabinet orders database and the federal bill tracker didn't load.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-11-14",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — November 14, 2026",
