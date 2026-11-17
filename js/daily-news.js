@@ -9,6 +9,150 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-11-16",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 16, 2026",
+    body: `The Legislature is back, and there's one new thing to watch.
+
+## A NEW MONEY BILL IS COMING
+The Finance Minister gave notice today of a new bill: **the Financial Statutes Amendment Act, 2026 (No. 2). It's Bill 41.**
+
+Why I'm watching it: last year's bill with that same name is the one that brought in the AISH-to-ADAP changes. **This one has no text yet.** A "notice" just means the minister told the House the bill is coming. Until it's tabled, nobody outside government can see what's in it, so I'm not going to guess. I'll read it the day it's tabled and tell you what it does.
+
+## NOTHING CHANGED FOR AISH OR ADAP TONIGHT
+**AISH base amount:** $1,940 a month
+
+**ADAP base amount:** $1,740 a month
+
+**The 88% couples rule is still repealed.**
+
+I checked these against the live regulation tonight. Your own payment can be different depending on your situation.
+
+## MONEY DATES COMING UP
+**Thursday, November 19:** Canada Disability Benefit (CDB)
+
+**Friday, November 20:** Canada Child Benefit
+
+**Friday, November 20:** LAST DAY to resubmit a rejected $100 Energy Rebate application, if you've fixed the problem
+
+**Wednesday, November 25:** AISH and ADAP payment for December
+
+**Monday, November 30:** no Energy Rebate payments after this date
+
+**Tuesday, December 22:** AISH and ADAP payment for January. (The government's page says Wednesday. December 22 is a Tuesday.)
+
+## BUDGET 2027 SURVEY IS OPEN
+The province opened its Budget 2027 survey today. **It runs until January 4, 2027**, and you can also send a written submission through the same website. **If you want the AISH and ADAP changes on the budget record, this is a formal place to say what they've done to you.**
+
+## OTTAWA'S GROCERY TOP-UP
+The federal government moved legislation today for a one-time grocery top-up in early 2027: **up to $339 for a single person without children.** It's a proposal, not law yet. It would run through the tax system, so keep your taxes filed. I don't know yet whether Alberta will count it against AISH or ADAP, and I won't guess.
+
+## WHAT I COULDN'T READ TONIGHT
+The written record of today's question period isn't posted yet, so I'll check it tomorrow for anything said about AISH, ADAP or the couples back pay.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-16",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 16, 2026",
+    body: `## ENERGY REBATE: 4 DAYS LEFT
+If your $100 Energy Rebate application was rejected and you've fixed the problem, **you can resubmit until Friday, November 20.** No payments will go out after Monday, November 30.
+
+## PAYMENT DATES
+**Tuesday, November 24:** Alberta Seniors Benefit
+
+**Thursday, November 26:** CPP and OAS
+
+**Thursday, December 17:** Alberta Seniors Benefit
+
+**Tuesday, December 22:** CPP and OAS
+
+## GAS TAX
+The province's 13-cent-a-litre break runs until the end of December. The review that decides what happens in January starts tomorrow, **November 17**, and runs to December 15.
+
+**The federal fuel excise break is now law.** It lasts until January 31, 2027, and then you pay half the usual rate through March 31, 2027.
+
+## BILL 39: CARE HOMES AND ABUSE COMPLAINTS
+Bill 39 would change how abuse in care is investigated and appealed. It's set for debate on **Wednesday and Thursday this week.** Those plans can change. **If you have something to say about how abuse complaints in care homes are handled, tell your MLA this week.** It is not law.
+
+## BILL 33: STILL NOT LAW
+Bill 33 still hasn't had royal assent, which is the final step that makes a bill law. I'm watching for that, and for any regulation that says who it covers. I'll tell you if care homes or lodges get named.
+
+## BUDGET 2027 SURVEY
+The province's Budget 2027 survey is open now **until January 4, 2027.** If there's something you want changed about seniors' benefits or care costs, that's where they say they're listening.
+
+## OTTAWA'S GROCERY TOP-UP
+Ottawa tabled a one-time grocery top-up today: **up to $339 for a single person**, paid early next year if it passes. It's a bill, not law yet. I don't know yet whether Alberta's seniors programs will count it as income. I'll tell you when it's law.
+
+## STILL WAITING: THE NEEDS ASSESSMENT
+When the province announced $250 million for continuing care and lodge spaces on November 9, it said it would publish a continuing care needs assessment. **There's still no sign of it.** The program guidelines were reissued today, and it isn't in there either. I'll share it the day it shows up.
+
+## NOTHING ELSE CHANGED
+Nothing changed tonight in what I could read for Alberta seniors' benefits, care charges, or OAS, GIS and CPP payment amounts. There were no new proclamations or Gazette, and the one new cabinet order wasn't about seniors. I didn't read federal cabinet orders, the federal bills list, today's Hansard (the written record of the House), policy manuals, forms, or court and tribunal decisions.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-16",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 16, 2026",
+    body: `## BILL 33 STILL ISN'T LAW
+Today was the first day back for the Legislature, and **Bill 33 did not get royal assent.** Royal assent is the final step that turns a bill into law. Bill 33 passed third reading on November 5, but it hasn't had that last step. And even after it does, the parts that touch schools only start when cabinet proclaims them, which means officially switches them on.
+
+## 2 PETITIONS ON EDUCATION FOR ALL CHILDREN
+2 petitions were brought to the Legislature today, **one with 3,893 signatures and one with 601.** Both ask the province to change the Education Act _"to ensure equal access to education for all children living in Alberta."_ This is the first time in 2 months of these updates that the subject has come up in the House. A petition doesn't change any rule on its own, but it puts the issue on the official record.
+
+## FSCD: THE STANDARDS ARE POLICY, NOT LAW
+FSCD (Family Support for Children with Disabilities) has 14 "Essential Program Standards" in its policy manual. The ones with timelines a family can point to:
+
+**Contact within 3 working days** of your file being assigned, to set up an assessment of your needs
+
+**That assessment done within 15 working days** of your file being assigned
+
+**Payments released within 30 calendar days** of your claims being received
+
+**Here's the catch.** The FSCD Act lets the Minister make service standards into regulation, which is law. **That has never been done.** The FSCD Regulation doesn't contain the word "standard" even once. The same is true for PDD (Persons with Developmental Disabilities). So the standards that exist are policy, and policy can be changed without a vote or a new regulation. **You can still quote them when you ask why something is taking so long.**
+
+## FSCD RATES HAVEN'T CHANGED
+Checked tonight against the live regulation:
+
+**Mileage:** 12 cents a kilometre
+
+**Clothing and footwear:** $400 a year
+
+**Respite:** 240 hours a year
+
+**Parking:** $10 a day
+
+**Hotel:** $85 a day
+
+**Dental:** $250 a year if you have no dental plan
+
+**AADL (Alberta Aids to Daily Living)** cost-share is still 25%, up to $500 per family per benefit year (July 1 to June 30).
+
+## PAYMENT DATES
+**Friday, November 20:** Canada Child Benefit
+
+**Friday, November 27:** Alberta Child and Family Benefit. **This is the LAST one of 2026.** The next one isn't until late February 2027, so plan for that gap over Christmas.
+
+**Friday, December 11:** Canada Child Benefit for December (paid early)
+
+## WHAT I COULDN'T READ TONIGHT
+The federal cabinet orders database and the federal bills list didn't load, and the federal news feed hasn't updated in 3 days. So for anything federal, the most I can say is that nothing changed in what I could read tonight.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-11-15",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — November 15, 2026",

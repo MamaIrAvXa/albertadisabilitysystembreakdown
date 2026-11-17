@@ -16,6 +16,64 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Did you stay home with your kids? Your CPP might be higher than you think (November 17, 2026)",
+        date: "2026-11-17",
+        streams: ["Seniors Benefits CPP/CPPD", "AISH / ADAP / CPP-D", "Children / FSCD", "General Topics"],
+        body: `A lot of people have never heard of this, so let's fix that. It's called the **CPP CHILD-REARING PROVISION**, and it's been around for years.
+
+## WHAT IT DOES
+Your CPP (Canada Pension Plan) is based on what you earned over your working life. Years when you earned little or nothing pull the amount down. **If you stayed home, or worked less, to raise young kids, this provision lets CPP leave those years out, so they don't drag your pension down.** CPP only does this if it raises your amount. **It can't lower it.**
+
+There's also a newer piece for years after January 1, 2019, which adds credit for those years instead of leaving them out.
+
+## WHO QUALIFIES
+All of these have to be true:
+
+**Your child was born after December 31, 1958.**
+
+**Your child was under 7 years old during those years.**
+
+**You were the main person caring for your child day to day**, and you earned less or nothing because of it.
+
+**You or your partner got Family Allowance, or qualified for the Canada Child Benefit** (even if you never got it).
+
+Only 1 parent can claim the same years. It can be mom or dad, whoever was the main caregiver.
+
+## WHAT IT CAN HELP WITH
+**Your CPP retirement pension**
+
+**Qualifying for CPP Disability**
+
+**Leaving survivor benefits for your family** if you pass away
+
+## HOW TO ASK FOR IT
+**Applying for CPP retirement?** It's in sections 11A and 11B of the application (form ISP1000).
+
+**Applying for CPP Disability?** It's part of the application (form ISP1151).
+
+**Already getting CPP and nobody ever asked you?** You can still ask. Use your My Service Canada Account, or mail in form ISP1640 (Request for the Child Rearing Provision).
+
+Have this ready for each child: their name, date of birth, and Social Insurance Number. If you don't have their SIN, you'll need proof of birth. If they were born outside Canada, you'll also need proof of the date they came to Canada.
+
+**Service Canada: 1-800-277-9914**
+
+## IF YOU'RE ON AISH OR ADAP
+**AISH and ADAP take CPP off your benefit dollar for dollar.** So if your CPP goes up, your AISH or ADAP goes down by the same amount, and your monthly total stays about the same. It still matters:
+
+**At 65, AISH and ADAP end and your pensions take over.** A higher CPP means more money for the rest of your life.
+
+**AISH and ADAP already require you to apply for CPP Disability**, so make sure this is included when you do.
+
+**If your CPP Disability ends up higher than your AISH or ADAP, you may still qualify for health coverage through the Alberta Adult Health Benefit.** The government's page lists people leaving AISH because of CPP Disability income. It doesn't name ADAP yet, so ask in writing if that's you.
+
+Thank you to the member who brought this up. **Pass it on to every mom, dad and grandparent you know.**
+
+## SOURCES
+[CPP child-rearing provisions (canada.ca)](https://www.canada.ca/en/services/benefits/publicpensions/cpp/child-rearing.html)
+
+[Alberta Adult Health Benefit (alberta.ca)](https://www.alberta.ca/alberta-adult-health-benefit)`
+      },
+      {
         title: "Policy update: Income Support's new letter to businesses about refused bills (November 16, 2026)",
         date: "2026-11-16",
         streams: ["Income Support"],
