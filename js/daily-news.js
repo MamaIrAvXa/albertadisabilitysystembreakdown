@@ -9,6 +9,155 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-11-17",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 17, 2026",
+    body: `## BILL 41 IS OUT, AND I READ ALL 292 PAGES
+The Finance Minister tabled Bill 41, the Financial Statutes Amendment Act, 2026 (No. 2), today. Yesterday I told you I'd read it the day it was tabled. Here's what's in it for us.
+
+**It does NOT change the AISH Act.** Nothing in it touches AISH or ADAP rates, and it doesn't touch the Heritage Fund.
+
+**It DOES change the Income Support law** (the Income and Employment Supports Act). Most of that is wording, like "the Director" becoming "a director." One change is worth knowing about: right now, when someone gets a notice saying they owe money for a sponsorship debt, the law says the notice has to tell them about their right to appeal. **Bill 41 takes that line out.** The right to appeal itself is still in the law; the notice just wouldn't have to mention it anymore.
+
+**The lesson for everyone: if you ever get a notice saying you owe money, ask in writing whether you can appeal, even if the notice doesn't say so.**
+
+**It sets up a new way for Alberta to pay a tax credit through your tax return.** There's no amount in it. Cabinet would set the amount and who qualifies later, by regulation. You'd have to be 18 or older and have filed your taxes. Nothing in it says how AISH or ADAP would treat it. **One more reason to file your taxes every year, even with no income.**
+
+**It changes how the Public Trustee can invest a client's money.** Right now the rules for that are set by regulation. Bill 41 would let the Public Trustee decide based on what it thinks is in the client's best interest. If the Public Trustee manages money for you or someone in your family, keep an eye on this one.
+
+The government's news release talked about pensions, insurance and investors. It didn't mention the Income Support or Public Trustee changes. They're in the bill all the same.
+
+**This is a bill, NOT law.** It has to pass and then be proclaimed.
+
+## QUESTION PERIOD
+Yesterday's transcript is up. AISH came up once, in passing, in an opposition question. The government didn't answer on AISH. Nobody asked about ADAP or the couples back pay.
+
+## STILL STANDING
+**AISH base amount:** $1,940 a month
+
+**ADAP base amount:** $1,740 a month
+
+**The 88% couples rule is still repealed.**
+
+Your own payment can be different depending on your situation.
+
+## MONEY DATES
+**Thursday, November 19:** Canada Disability Benefit
+
+**Friday, November 20:** Canada Child Benefit
+
+**Friday, November 20:** LAST DAY to resubmit a rejected Energy Rebate application
+
+**Wednesday, November 25:** AISH and ADAP payment for December
+
+**Tuesday, December 22:** AISH and ADAP payment for January (the government's page says Wednesday; it's a Tuesday)
+
+**Couples: check your November 25 deposit to see which amount you're being paid.**
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-17",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 17, 2026",
+    body: `## ENERGY REBATE: 3 DAYS LEFT
+If your $100 Energy Rebate application was rejected and you've fixed the problem, **you can resubmit until Friday, November 20.**
+
+## PAYMENT DATES
+**Tuesday, November 24:** Alberta Seniors Benefit
+
+**Thursday, November 26:** CPP and OAS
+
+## NEW BILL: BILL 41
+The headlines are about pensions and insurance, and it does add a new pension option called **Variable Life Benefits**, which would let some retirees in workplace pension plans keep their money invested after they retire.
+
+**But it also changes the rule the Public Trustee follows when it invests a client's money.** Right now that's set by regulation. The bill would let the Public Trustee decide based on what it thinks is in the client's best interest. **If the Public Trustee manages money for you or someone in your family, this one matters.**
+
+It's a bill, not law, and that part only starts if it's proclaimed. The government's news release didn't mention it.
+
+## BILL 39: CARE HOMES AND ABUSE COMPLAINTS
+Bill 39, which would change how abuse in care is investigated and appealed, is up for debate **tomorrow and Thursday.** Plans can change, but **if you have something to say about how abuse complaints in care homes are handled, now's the time to tell your MLA.**
+
+## GAS TAX
+The province's 13-cent-a-litre break runs to the end of December. The review that decides January started today and runs to December 15.
+
+The federal excise break is law until January 31, then it's half the usual rate through March 31.
+
+## BILL 33: STILL NOT LAW
+Bill 33 still hasn't had royal assent. I'm watching for that, and for any regulation saying who it covers. I'll tell you if care homes or lodges get named.
+
+## STILL WAITING: THE NEEDS ASSESSMENT
+Still no sign of the continuing care needs assessment the province said it would publish with the $250 million for continuing care and lodge spaces. I'll share it the day it shows up.
+
+## NOTHING ELSE CHANGED
+Nothing changed tonight in what I could read for Alberta seniors' benefits, care charges, or OAS, GIS and CPP payment amounts. The Special Needs funding limits haven't been reissued, and there were no new cabinet orders, regulations or proclamations. I didn't read federal cabinet orders, the federal bills list, Hansard (the written record of the House), policy manuals, forms, or court and tribunal decisions.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-17",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 17, 2026",
+    body: `## FSCD: THE APPLICATION PORTAL HAS A NEW NAME
+If you're applying for FSCD (Family Support for Children with Disabilities), the policy manual no longer says "myAlbertaSupports." **It now says you apply on the "Alberta Supports online portal."** If you're following an older printout, that's why you can't find the old name.
+
+[Apply here: alberta.ca/fscd-how-to-apply](https://www.alberta.ca/fscd-how-to-apply)
+
+The deadlines didn't change:
+
+**Send your supporting documents within 90 days of applying**, or your file is closed.
+
+**If your file has been closed for less than 180 days, you can reopen it** by contacting the caseworker named in your decision letter. No new application needed.
+
+## THE FSCD MANUAL IS CHANGING WITHOUT TELLING YOU
+**21 pages of the FSCD Policy Manual have been changed since February 20, 2026, but the manual's "Latest updates" page still only lists that one February date.** The dates are hidden in each page's code, where readers can't see them. The portal name change above was one of those hidden changes. I haven't compared the other pages word for word yet, so I'm not saying what else changed. But **if you're relying on something in the manual, check the live page, not a saved copy.**
+
+For comparison: the PDD manual shows a "Last updated" date on every page. The FSCD manual shows it on none.
+
+## FSCD RATES STILL HOLD
+**Mileage:** 12 cents a kilometre
+
+**Clothing and footwear:** $400 a year
+
+**Respite:** 240 hours a year
+
+**Parking:** up to $10 a day
+
+**Hotel:** up to $85 a day
+
+**Dental:** $250 a year if you have no plan
+
+## BILLS TO WATCH (NONE OF THEM ARE LAW)
+**Bill 33** still has no royal assent. Even after it gets it, the parts that touch schools only start when cabinet proclaims them.
+
+**Bill 35** goes to its next stage tomorrow. It would make every school board run a process for parents' unresolved disputes, with the details set by the Minister.
+
+**Bill 36** is up for third reading tomorrow. Its one school change is wording about foster and kinship caregivers.
+
+**Bill 41** was tabled today. It sets up a new Alberta tax credit that only people 18 and over can get. No amount has been set.
+
+## ID FOR YOUNG ADULTS
+Starting **Thursday, November 19**, there are new ways to renew a driver's licence if you can't get the usual documents, and the same goes for ID cards starting **Monday, December 7.** You'll need to sign a declaration. This could help a young person who needs ID at 18.
+
+## PAYMENT DATES
+**Friday, November 20:** Canada Child Benefit
+
+**Friday, November 27:** Alberta Child and Family Benefit. **The LAST one of 2026.** The next one isn't until late February 2027, so plan for that gap over Christmas.
+
+**Friday, December 11:** Canada Child Benefit for December (paid early)
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-11-16",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — November 16, 2026",
