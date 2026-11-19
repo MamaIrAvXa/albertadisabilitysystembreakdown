@@ -9,6 +9,142 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-11-18",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 18, 2026",
+    body: `1 thing got settled tonight, and a few deadlines are coming fast.
+
+## THE COUPLES CUT ENDED OCTOBER 1
+Alberta's Regulations Act says a regulation with no start date takes effect the day it's filed. The order that ended the 88% couples rule (AR 244/2026) was filed October 1, 2026, with no start date. **So the repeal took effect October 1.**
+
+What still isn't written down anywhere is **WHEN or HOW the back pay lands.** If you and your partner were paid at the lower couples rate, **keep every statement and check your November 25 deposit.** If the back pay isn't there by the end of the year, ask your local AISH or ADAP office in writing, with your full name and file number in the subject line.
+
+## SIMULATED WORKSITES AND ADAP
+Today the Minister announced **$35 million for 35 "simulated worksites"** (practice workplaces), 27 of them opened this year, and said they're one of the employment supports for people on ADAP. They're free.
+
+**Nothing in the announcement says you have to take one.** If you're offered one that doesn't fit your health, say why in writing. **If ADAP ever cuts your benefit for turning down an employment support, that decision CAN be appealed. You have 30 days from when you get the notice.**
+
+And from the Minister's letter to me today: _"While applying for AISH, ADAP clients are not eligible for employment supports."_ **If you've applied to go back to AISH, tell your local AISH or ADAP office in writing and ask them to confirm your employment requirements are on hold.**
+
+## FEDERAL: SOME CPP DISABILITY OVERPAYMENTS FORGIVEN
+A new federal order (SI/2026-70) forgives some CPP disability overpayments where Ottawa took years to tell people their benefit had stopped. It covers people who got a letter between April 1, 2026 and March 31, 2027 saying their CPP disability ended before 2023 because of old earnings the CRA flagged before December 2024, where no CPP was paid on those earnings and there was no fraud. **If that sounds like your letter, don't pay anything back until you've asked Service Canada whether this order applies to you.**
+
+## COMING UP
+**Thursday, November 19 (TOMORROW):** Canada Disability Benefit. **Check that the "CDB Deduction" on your AISH/ADAP statement matches the CDB you receive.** If it doesn't, report it in writing.
+
+**Friday, November 20:** last day to resubmit a rejected Energy Rebate application.
+
+**Wednesday, November 25:** AISH, ADAP and Income Support payment for December.
+
+**Monday, November 30:** no Energy Rebate payments after this day.
+
+**Tuesday, December 22:** payment for January. (The government's page says Wednesday. It's a Tuesday.)
+
+## ENERGY REBATE TIP
+If you were on AISH before July 1, you didn't have to apply. You were enrolled automatically, and your July statement says the $100 was _"automatically applied to the July 2026 assistance payment."_ **If it isn't on your statement, ask before November 30.**
+
+**Who to contact:** rebate questions go to the rebate email, **albertaenergyrebate@gov.ab.ca**, until November 30. The phone number on the rebate page (1-844-643-2789) is only for help with your Alberta.ca account. Don't put private details like your SIN in the email, and keep a copy.
+
+## AT THE LEGISLATURE
+Bill 41 (which changes how the province tells people about appeal rights on some Income Support debts, and sets up a new tax credit) still hasn't been debated. **It's a bill, not law.**
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-18",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 18, 2026",
+    body: `## ENERGY REBATE: 2 DAYS LEFT TO FIX IT
+If your $100 Energy Rebate was rejected, **you can resubmit until Friday, November 20.** You can check your application until November 30, and no payments will be made after that.
+
+If you were on the Alberta Seniors Benefit, AISH or Income Support before July 1, you were enrolled automatically. If you never got your $100, ask before November 30.
+
+**Who to contact:** rebate questions go to the rebate email, **albertaenergyrebate@gov.ab.ca**, until November 30. The phone number on the rebate page (1-844-643-2789) is only for help with your Alberta.ca account. Don't put private details like your SIN in the email, and keep a copy.
+
+## PAYMENTS THIS MONTH
+**Tuesday, November 24:** Alberta Seniors Benefit
+
+**Thursday, November 26:** CPP and Old Age Security
+
+## WORKED IN ARGENTINA?
+Canada's social security agreement with Argentina was proclaimed today, and **it's in force as of December 1, 2026.** If you or your parents worked in Argentina, those years can help you qualify for Old Age Security. Service Canada's own page hasn't caught up yet, so if you call, mention the Canada Gazette proclamation (SI/2026-73).
+
+## SOME CPP DISABILITY OVERPAYMENTS FORGIVEN
+A new federal order (SI/2026-70) forgives some CPP disability overpayments caused by Ottawa's own reassessment backlog. It also covers extra retirement pension some people got at 65 because of it. It applies to people who got a letter between April 2026 and March 2027 saying their CPP disability stopped before 2023, because of old earnings the CRA flagged before December 2024, where no CPP was paid on those earnings and there was no fraud. **If that sounds like your letter, don't pay anything back until you've asked Service Canada whether this order applies to you.**
+
+## DENTAL PLAN PAGES REWRITTEN
+The federal dental plan rewrote its eligibility pages today. **If you're retired, check box 015 on your pension T4A slip.** A "1" means your pension plan reported that it doesn't give you dental coverage. **If you get an eligibility review letter, you have 45 days to send your documents or you'll be dropped from the plan.**
+
+## AT THE LEGISLATURE
+**Bill 39**, the bill about how abuse complaints in care are handled, started second reading today and debate was adjourned. It's on the list again for Thursday. **There's still time to tell your MLA what you think.**
+
+**Bill 33** still hasn't received royal assent.
+
+Still no sign of the continuing care needs assessment the province said it would publish with the $250 million. I'll share it the day it shows up.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-18",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 18, 2026",
+    body: `## A FEDERAL ORDER THAT REACHES A CHILD'S BENEFIT
+The new federal remission order (SI/2026-70) forgives some CPP disability overpayments caused by Ottawa's own delays, and **section 3 does the same for the Disabled Contributor's Child's Benefit.** That's the benefit a child gets when a parent is on CPP disability.
+
+It applies if the parent got a letter between April 1, 2026 and March 31, 2027 saying their CPP disability stopped before 2023, because of earnings the CRA flagged before December 1, 2024, and there was no fraud. **If your family got a letter like that, don't repay anything until you've asked Service Canada whether this order applies to you.**
+
+## A REPORT ON DISABLED CHILDREN WE HADN'T SEEN
+A member of the Legislature quoted it on November 17: **"Beyond Barriers," a special report from Alberta's Child and Youth Advocate, January 2024.** It's advice to government, not law. Of its 8 recommendations, 5 are about FSCD and PDD, including:
+
+**that the ministry publicly release its plan** to fix the problems families raised in the 2021 FSCD review
+
+**that FSCD offer more out-of-home living arrangements**
+
+**that the government accept its own 2021 PDD steering committee recommendation** to make people with IQs between 70 and 85, who have similar support needs, eligible for PDD
+
+**that the purpose of respite be made clear**
+
+Whether the government ever answered any of these is not known. I'm looking into it.
+
+## BILL 33 STILL ISN'T LAW
+Bill 33 passed third reading on November 5 but **still hasn't received royal assent.** It's been waiting 4 sitting days. Even after assent, the parts about disabled children and the Alberta Human Rights Act only start when the government proclaims them.
+
+## PAYMENT DATES
+**Friday, November 20:** Canada Child Benefit
+
+**Friday, November 27:** Alberta Child and Family Benefit. **This is the LAST one of 2026.** The next one comes in late February 2027, so plan for that gap.
+
+**Friday, December 11:** Canada Child Benefit, earlier than usual because of the holidays
+
+## FSCD RATES: NO CHANGE
+Read tonight from the FSCD Regulation:
+
+**Mileage:** $0.12 per km
+
+**Clothing and footwear:** $400 a year
+
+**Respite:** 240 hours a year
+
+**Parking:** $10 a day
+
+**Hotel:** $85 a day
+
+**Dental:** $250 a year if you have no dental plan
+
+**Medical costs:** shared above 2% of both parents' combined net income
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-11-17",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — November 17, 2026",
