@@ -16,6 +16,148 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Keep your receipts. All of them. (November 19, 2026)",
+        date: "2026-11-19",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `A member got approved for medical travel last week. On the phone, a worker told them AISH was "gifting" them the money and they wouldn't need receipts.
+
+Here's why that matters.
+
+## THE TRAVEL BENEFIT IS NOT A GIFT
+It's a personal benefit written into the AISH and ADAP rules, with set rates. **If you meet the rules, you're entitled to it.**
+
+And the policy manual says, for both hotel and transportation:
+
+_"Quotes or receipts may be requested at the worker's discretion."_
+
+**That means any worker can ask for your receipts later, whatever another worker told you on the phone.** If you throw them out because someone said you didn't need them, and a different worker asks for them, you have nothing to show. That can turn into an overpayment, which is money they say you owe back.
+
+## HOW TO PROTECT YOURSELF
+**Keep every receipt for anything AISH or ADAP pays for:** gas, hotels, flights, moving, damage deposits, everything.
+
+**If someone tells you that you don't need receipts, ask them to put it in an email.**
+
+**After every phone call, send a short email:** "To confirm what I was told today by [name] at [time]..." That puts it on your file.
+
+**Keep a log:** the date, the time, who you spoke to and what they said. If 2 workers tell you different things, write down both.
+
+**If the answers don't match, ask for the decision in writing, with the policy it's based on.** A written decision can be appealed. A phone call can't.
+
+## ONE MORE THING ON TRAVEL
+For transportation, the manual sets the rate as the _"Actual cost of the most economical means of public transportation."_ If fares go up between your quote and the day you book, the rule is the lowest fare available when you book, not an old quote.
+
+**Food is the one exception:** for the $26 a day food allowance, your own word is enough.
+
+Without one assigned worker, keeping your file straight has landed on you. **These habits make sure your file says what happened.**`
+      },
+      {
+        title: "New today: 2 payments AISH and ADAP will not count (November 19, 2026)",
+        date: "2026-11-19",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `The government just put out a policy update for AISH and ADAP. It's called **Program Policy Manual Update 2026-009**, issued today, November 19, 2026, by Marika Giessen, Executive Director, Income Services Branch. **It takes effect immediately.**
+
+It covers 2 payments. **If you get either one, it will not lower your AISH or ADAP.**
+
+## 1. FOSTER CAREGIVER PAYMENTS (Government of Alberta)
+Since June 16, 2026, Alberta can pay:
+
+**$1,500** to someone who refers a person, couple or family who then becomes a licensed foster home (this is called the Refer-a-Foster Caregiver Program)
+
+**$1,500** to someone who goes through the process and becomes a fully licensed foster caregiver
+
+## 2. CANADIAN ARMED FORCES SETTLEMENT (Government of Canada)
+This is for people who were in the Canadian Armed Forces at any time from April 17, 1985 to January 19, 2025, and who say they faced racial discrimination or racial harassment. A settlement is an agreement to pay people to end a lawsuit. **Eligible people may get between $5,000 and $35,000.**
+
+## WHAT THE UPDATE SAYS
+**These payments are _"not considered Income"_ by AISH or ADAP.**
+
+**The Minister signed Ministerial Orders** (written orders from the Minister) so these payments also don't count as an asset. An asset is money or things you own, like savings. **That includes anything you buy with the payment.**
+
+The 2 manual pages that changed are the Income Type Exemption Table and Government Payments.
+
+**What that means for you:** getting one of these payments should not cut your monthly AISH or ADAP, and it should not count against your asset limit.
+
+## WHAT TO DO IF YOU GET ONE
+**Keep the letter or paperwork** that shows what the payment was for.
+
+**If your AISH or ADAP goes down after you get it, ask your local AISH or ADAP office in writing why, and point to Policy Manual Update 2026-009.** Put your full name and file number in the subject line. CC your own MLA and Marie Renaud (St.Albert@assembly.ab.ca).
+
+## ONE OPEN QUESTION
+The foster payments started June 16, 2026, but this update takes effect today. **It doesn't say what happens to a payment that was counted before today.** If that happened to you, ask in writing whether it will be fixed.
+
+## THE GOVERNMENT'S NOTICE
+[See Program Policy Manual Update 2026-009 (image)](/pdfs/aish-adap/program-policy-manual-updates/DIAPPMU%20-2026-009.jpg)`
+      },
+      {
+        title: "New today: Income Support update, 2 payments that will not count (November 19, 2026)",
+        date: "2026-11-19",
+        streams: ["Income Support"],
+        body: `**This one is for people on Income Support.** That's Alberta's program for people who are Expected to Work (ETW) or who have Barriers to Full Employment (BFE).
+
+The government put out **Policy Manual Update IS-ETW/BFE-2026-014**, issued today, November 19, 2026, by Marika Giessen, Executive Director, Income Services Branch. **It takes effect immediately.**
+
+The same 2 payments are covered:
+
+## 1. FOSTER CAREGIVER PAYMENTS (Government of Alberta)
+Since June 16, 2026:
+
+**$1,500** for referring a person, couple or family who becomes a licensed foster home
+
+**$1,500** for becoming a fully licensed foster caregiver yourself
+
+## 2. CANADIAN ARMED FORCES SETTLEMENT (Government of Canada)
+For people who were in the Canadian Armed Forces any time from April 17, 1985 to January 19, 2025, and who say they faced racial discrimination or racial harassment. **Payments are between $5,000 and $35,000.**
+
+## WHAT THE UPDATE SAYS
+The Minister signed 2 Ministerial Orders (written orders from the Minister):
+
+**Order 2026-037** for the foster caregiver payments
+
+**Order 2026-040** for the Armed Forces settlement
+
+These orders exempt the payments as a **"financial resource"** (money that would normally count against your benefits) and as an **asset or liquid asset**. A liquid asset is money you can get to easily, like cash or a bank balance. **That includes anything bought with the payment.**
+
+The update says Income Support clients' _"eligibility and benefits are not impacted by these payments."_
+
+## FUNERAL BENEFITS TOO
+The same update changed the rules for **Funeral Benefits for Low Income Albertans.** These payments are also exempt for responsible survivors and for the estate of a person who has died. A responsible survivor is the family member who is responsible for the funeral.
+
+## WHAT TO DO IF YOU GET ONE
+**Keep the paperwork** that shows what the payment was for.
+
+**If your benefits go down after you get it, ask in writing why, and point to Policy Manual Update IS-ETW/BFE-2026-014.** Put your full name and file number in the subject line. CC your own MLA and Marie Renaud (St.Albert@assembly.ab.ca).
+
+## THE GOVERNMENT'S NOTICE
+[See Policy Manual Update IS-ETW/BFE-2026-014 (image)](/pdfs/income-support/PMU-IS-IS-ETW_BFE-2026-014.jpg)`
+      },
+      {
+        title: "The Minister wrote back. Here's what he said, and what's missing (November 18, 2026)",
+        date: "2026-11-18",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `Today Minister Neudorf replied to one of my emails about AISH and ADAP. Some of what he said is useful to know, and some of it doesn't match what we lived through. Here's both.
+
+## WHAT HE PUT IN WRITING
+**About 35,000 people stayed on AISH.** That's 44% of the caseload, which means roughly 56%, **about 44,000 people, were moved to ADAP.**
+
+**The government will cover the cost of 1 DIA Medical Report** (the medical form for an AISH application) for anyone moved to ADAP who applies to go back to AISH. In his words, it _"is not time-limited and will remain available whenever a client chooses to access it."_
+
+**While you are applying to go back to AISH, ADAP clients _"are not eligible for employment supports."_** If you were already referred to employment services, or you're already working with them, contact your local AISH or ADAP office in writing to talk about your situation before assuming anything changes.
+
+**To check on an AISH application, call DIA Application Processing at 1-877-759-6810.**
+
+And from his October 29 reply, worth repeating: the Canada Disability Benefit _"must be recorded using the amount the client is entitled to receive and updated when the amount changes."_ **If your CDB changed and your deduction didn't, report it in writing** with your full name and file number in the subject line, CC your MLA and Marie Renaud (St.Albert@assembly.ab.ca), and keep a copy.
+
+## WHAT DOESN'T MATCH
+**He says everyone got a letter _"with information specific to their file."_** The May 12 letter we all got was the same for everyone except the name and address.
+
+**He says the retention categories (the groups who were supposed to stay on AISH) were applied.** Some people who qualified were moved anyway and had to have their transition reversed. If that's you, our [Exemption Category Correction Request form](/pdfs/aish-adap/fillable/ADSB_Exemption_Category_Correction_Request.pdf) is on the website.
+
+**He says the $200 transition benefit _"will ensure individuals continue receiving their existing AISH benefit amount until December 31, 2027."_** Under the regulation (AR 96/2026, section 11(1)), the transition benefit is the only personal benefit that income comes off. **If you have other income, part or all of your $200 can disappear, and your total ends up below what you got on AISH.**
+
+## WHAT'S NEXT
+I've written back asking him to correct these points and to answer 6 questions, including how many people were wrongly moved and how many transitions were reversed. I'll share his answer when it comes.`
+      },
+      {
         title: "Did you stay home with your kids? Your CPP might be higher than you think (November 17, 2026)",
         date: "2026-11-17",
         streams: ["Seniors Benefits CPP/CPPD", "AISH / ADAP / CPP-D", "Children / FSCD", "General Topics"],
