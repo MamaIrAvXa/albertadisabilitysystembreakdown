@@ -9,6 +9,132 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-11-21",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 21, 2026",
+    body: `Quick weekend update.
+
+## ENERGY REBATE
+The chance to resubmit a rejected application closed Friday, November 20, and **it wasn't extended.** If your payment shows as "failed", **you can still log in and fix your banking details until Monday, November 30.** No rebate payments go out after that. Questions go to **albertaenergyrebate@gov.ab.ca** until then.
+
+## DATES TO KNOW
+**Wednesday, November 25:** your provincial payment for December (AISH, ADAP and Income Support).
+
+**Thursday, November 26:** CPP, including CPP disability.
+
+**Thursday, December 17:** the next Canada Disability Benefit.
+
+**Tuesday, December 22:** the January provincial payment, and CPP. The government's page says "Wednesday", but December 22 is a Tuesday.
+
+## THE FUEL TAX PAUSE
+I've seen two different stories about how long the provincial fuel tax pause lasts. The province's own notice says it started October 1 and runs _"until at least December 31, 2026."_ **So December 31 is the EARLIEST it could end, not a set end date.** You don't need to apply for anything. It comes off at the pump.
+
+## THE LEGISLATURE
+Back **Monday, November 23**, with evening sittings Monday to Wednesday, so bills could move faster next week.
+
+## COUPLES BACK PAY
+Still nothing in writing on when or how couples paid at the lower 88% rate will get the difference. **If that's you, keep your statements, and check your November 25 deposit.**
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-21",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 21, 2026",
+    body: `## ENERGY REBATE
+If your $100 shows as "failed", **you have until Monday, November 30 to update your payment details.** After that, no more payments go out.
+
+## PAYMENT DATES
+**Tuesday, November 24:** Alberta Seniors Benefit
+
+**Thursday, November 26:** CPP and Old Age Security (OAS)
+
+## IN THE LEGISLATURE NEXT WEEK
+**Bill 39**, about how abuse complaints in care are handled, is scheduled for more debate on Tuesday and could reach **Committee of the Whole** (where the bill is gone through section by section and changes can be made) on Wednesday night. Schedules can change. It hasn't been amended so far. **If you have thoughts on it, Monday is a good day to call your MLA.**
+
+**Bill 41 has a change for anyone whose money is managed by the Public Trustee.** Right now the Public Trustee can invest a client's money only in ways the regulations allow. Bill 41 would let it invest _"if, in the Public Trustee's opinion, it is in the client's best interest."_ It's still a bill, not law, and it would only start once the government proclaims it.
+
+**Bill 33** has had its third reading but still hasn't had royal assent (the final sign-off that makes a bill law). I'm watching for that, and for any rule saying who it covers.
+
+## WORKED IN ARGENTINA?
+The social security agreement between Canada and Argentina starts **December 1.** Service Canada's page hasn't been updated yet, and the forms aren't posted. I'll share them when they're up.
+
+## STILL WAITING
+Still no sign of the continuing care needs assessment the province said it would publish. I'll share it the day it shows up.
+
+Nothing else changed tonight in what I could check: Seniors Benefit amounts, special needs assistance, home repair (SHARP), care charges, dental and optical, Coverage for Seniors, and OAS, GIS and CPP amounts are all the same.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-21",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 21, 2026",
+    body: `## PAYMENT DATES
+**Alberta Child and Family Benefit:** Friday, November 27. **That's the LAST one of 2026.** The next one is late February 2027, so plan for the gap over Christmas.
+
+**Canada Child Benefit:** early in December, on Friday, December 11.
+
+## THE TRANSITION AT 18: WHAT THE MONEY LOOKS LIKE
+Alberta has a program called the **Transition to Adulthood Program (TAP).** It's for young adults who were in government care: they must have had an open file with Children's Services under certain orders or agreements. **It's NOT a disability program.** A disabled young person can only get it through a care history.
+
+What the government's own pages say:
+
+**Financial support of $810 to $1,810 a month**, from 18 until the day before the young person turns 22.
+
+**Other supports** (mentoring, life skills, mental health supports, help finding work) run from 18 to 23.
+
+**So the money stops about 2 years before the services do.**
+
+The brochure even lists the budget they expect a young adult to live on, including housing up to $1,000 a month and food and toiletries at $350 a month.
+
+**One practical tip:** the brochure prints the wrong email address. The program's live page uses **cfs.taprogramquestions@gov.ab.ca**, so use that one.
+
+## WHAT THE CHILD AND YOUTH ADVOCATE FOUND
+In April 2026, Alberta's Child and Youth Advocate published a review about a young man who died at 22, after receiving TAP services. The Advocate's findings include:
+
+**TAP _"does not have policy related to file transfers,"_** which can disrupt young people's services.
+
+**His school supports for his disability ended when he moved from junior high to high school.** Suspensions and an expulsion followed.
+
+**FSCD** (Family Support for Children with Disabilities) **did not approve the out-of-home placement his family asked for.**
+
+**His PDD** (Persons with Developmental Disabilities) **file closed shortly after his 18th birthday**, after they couldn't reach him.
+
+These are the Advocate's findings, not court rulings. **The Advocate asks that no one try to identify the young man or his family, and I'm asking the same of all of you.**
+
+## FSCD RATES: NO CHANGE
+Checked tonight in the FSCD regulation:
+
+**Mileage:** 12 cents a kilometre
+
+**Clothing and footwear:** $400 a year
+
+**Respite:** 240 hours a year
+
+**Parking:** up to $10 a day
+
+**Hotel:** up to $85 a day
+
+**Dental, if you have no dental plan:** $250 a year
+
+**Medical costs:** covered above 2% of both parents' combined net income
+
+## BILL 33 IS NOT LAW
+Bill 33 still hasn't had royal assent, **16 days after third reading.** Even after that, the parts touching schools and the Alberta Human Rights Act only start when the government proclaims them.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-11-20",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — November 20, 2026",
