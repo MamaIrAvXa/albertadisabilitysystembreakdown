@@ -9,6 +9,342 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-11-23",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 23, 2026",
+    body: `No rate, rule or deadline moved today in what I could read, and the government put out nothing on AISH, ADAP or Income Support.
+
+## YOUR PAYMENTS THIS WEEK
+**1. Wednesday, November 25:** your provincial payment for December.
+
+**2. Thursday, November 26:** CPP, including CPP disability.
+
+I re-checked both dates on the government's own pages tonight.
+
+## THE ENERGY REBATE: 1 WEEK LEFT
+**If your rebate payment failed, log in and fix your banking details by Monday, November 30.** No rebate payments go out after that. Questions go to **albertaenergyrebate@gov.ab.ca** until then.
+
+## COUPLES BACK PAY
+Still nothing in writing. **If you were paid at the lower couples rate, keep your statements and check Wednesday's deposit closely.** If it looks different, screenshot it and tell me.
+
+## A NEW BILL TODAY
+**Bill 44** was introduced in the Legislature today. The government's announcement says it's about voter lists, policing, impaired driving and death investigations. **The announcement says nothing about AISH, ADAP or benefit amounts.** It's a bill, not law. I'll keep reading it.
+
+## ONE THING THE GOVERNMENT HAS WRONG
+Your January payment comes **Tuesday, December 22.** The government's payment dates page still says Wednesday. December 22 is a Tuesday.
+
+## WHAT I COULDN'T CHECK TONIGHT
+Today's record of what was said in the Legislature isn't posted yet. I also didn't read the proclamations page, open consultations, committee agendas, federal cabinet orders, the federal bill tracker or court decisions.
+
+## DATES TO KEEP
+**Wednesday, November 25:** December payment
+
+**Thursday, November 26:** CPP and CPP disability
+
+**Monday, November 30:** last day for Energy Rebate payments
+
+**Tuesday, December 22:** January payment
+
+**January 1, 2027:** first yearly rate adjustment
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, or you live in a seniors lodge, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-23",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 23, 2026",
+    body: `One piece of good news tonight, and your payments are on track.
+
+## YOUR PAYMENTS THIS WEEK
+**1. Tuesday, November 24 (tomorrow):** Seniors Benefit.
+
+**2. Thursday, November 26:** CPP and OAS.
+
+**If yours doesn't show up by the end of that day, that's the day to call.** For the Seniors Benefit, call the program. For CPP and OAS, call Service Canada.
+
+## OAS AND GIS GO UP IN JANUARY
+Service Canada posted today that **OAS goes up 0.4% for January to March 2027.** The new dollar amounts aren't posted yet. **Don't plan around a dollar figure until they are.** I'll share them when they're up.
+
+## THE ENERGY REBATE: 1 WEEK LEFT
+If your $100 shows as "failed," **you have until Monday, November 30 to fix your payment details.** After that, no more payments go out.
+
+## TWO BILLS TO WATCH THIS WEEK
+**1. Bill 39**, the care-abuse complaints bill.
+
+**2. Bill 41**, which would change how the Public Trustee invests clients' money.
+
+Both are on the Legislature's plan for this week. That plan can shift. **Neither is law yet.** If you have thoughts, now is the time to call your MLA.
+
+## A NEW BILL TODAY
+**Bill 44** was introduced today. It's mostly about voter lists, policing and death investigations. The only seniors-related law it touches is a small change to who the health insurance plan can share records with during a medical examiner's investigation. It's a bill, not law, and that part wouldn't start until the government proclaims it.
+
+## IF YOU WORKED IN ARGENTINA
+The social security agreement with Canada starts **December 1.** Service Canada's page still hasn't been updated and the forms aren't posted yet. I'll share them when they're up.
+
+## STILL WAITING
+**1.** Bill 33 still hasn't had royal assent.
+
+**2.** The continuing care needs assessment the province said it would publish. I'll share it the day it shows up.
+
+## WHAT I COULDN'T CHECK TONIGHT
+Federal cabinet orders, the federal bill tracker, today's Legislature record (not posted yet), policy manuals, forms, or court and tribunal decisions.
+
+## DATES TO KEEP
+**Tuesday, November 24:** Seniors Benefit
+
+**Thursday, November 26:** CPP and OAS
+
+**Monday, November 30:** last day for Energy Rebate payments
+
+**Tuesday, December 1:** Canada-Argentina agreement starts
+
+**Thursday, December 17:** Seniors Benefit
+
+**Tuesday, December 22:** CPP and OAS
+
+**January 1, 2027:** OAS and GIS go up 0.4%
+
+If you're under 65 and on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-23",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 23, 2026",
+    body: `A new bill came in today that touches children in government care, and the government's own descriptions of it leave something out.
+
+## BILL 44: WHAT THE GOVERNMENT DIDN'T LIST
+Bill 44 was introduced today. **It had its first reading only. It is not law.**
+
+**1.** The bill changes 20 different laws.
+
+**2.** One of them is the **Child and Youth Advocate Act.**
+
+**3. The government's news release, its 8-page fact sheet and its web page about the bill all list the laws it changes. None of the 3 names the Child and Youth Advocate Act.**
+
+**4.** This is the second bill in a month where this has happened. Bill 33 left the Education Act off its lists the same way.
+
+**To be fair about it:** the change to the Child and Youth Advocate Act itself is small. It removes 3 words, "section 5 of," from the definition of "Chief Medical Examiner." It doesn't change what the Advocate can do. **The story is that it was left off the government's own lists, not the change itself.**
+
+## WHAT CHANGES IF A CHILD IN CARE DIES
+The bill would also rewrite the rule for when a child in government care dies.
+
+**1.** Today the rule says a director must notify _"a medical examiner"_ right away.
+
+**2.** Under the bill, the director would have to notify **the Chief Medical Examiner** _"immediately after a director becomes aware of the death."_
+
+**3.** And the director would still have to report it **even if someone else already did.**
+
+What this means in practice isn't clear yet. It's a bill, not law.
+
+## WHEN IT WOULD START
+The government's web page says the whole bill _"will come into force upon Royal Assent."_ **The bill says something different.** 7 of its sections, including both parts above, only start when the government proclaims them. **Royal assent and starting aren't the same thing.**
+
+## BILL 33 IS STILL NOT LAW
+It's now **18 days** since its last vote. Today's Order Paper lists it under "Bills Awaiting Royal Assent." Nothing in it is in force.
+
+## TWO MONEY DATES TO PLAN FOR
+**1. Friday, November 27:** the Alberta Child and Family Benefit pays. **This is the last one of 2026.** The next one isn't until late February 2027, about 13 weeks across Christmas.
+
+**2. Friday, December 11:** the Canada Child Benefit comes early in December, 9 days before the usual 20th.
+
+## FSCD RATES HAVEN'T CHANGED
+**Mileage:** $0.12 a kilometre
+
+**Clothing and footwear:** $400 a year
+
+**Respite:** 240 hours a year
+
+**Parking:** up to $10 a day
+
+**Hotel:** $85 a day
+
+**Dental:** $250 a year if you have no insurance
+
+## WHAT I COULDN'T CHECK TONIGHT
+Federal cabinet orders, the federal bill tracker, and the new November 2026 FSCD procedures manual.
+
+## DATES TO KEEP
+**Friday, November 27:** last Alberta Child and Family Benefit of 2026
+
+**Monday, December 7:** driver's licence renewal exemptions extend to ID cards
+
+**Friday, December 11:** Canada Child Benefit, paid early
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-22",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 22, 2026",
+    body: `A quiet Sunday. No rate, rule or deadline moved today, and the government put out nothing on AISH, ADAP or Income Support.
+
+## YOUR PAYMENTS THIS WEEK
+**1. Wednesday, November 25:** your provincial payment for December.
+
+**2. Thursday, November 26:** CPP, including CPP disability.
+
+I re-checked both dates on the government's own pages tonight.
+
+## THE ENERGY REBATE: LAST CALL
+**If your rebate payment failed, log in and fix your banking details by Monday, November 30.** No rebate payments go out after that. Resubmissions already closed on November 20.
+
+## COUPLES BACK PAY
+Still nothing in writing. **If you were paid at the lower couples rate, keep your statements and check your November 25 deposit closely.** If it looks different, screenshot it and tell me.
+
+## THE MINISTER'S STATEMENT TODAY
+Minister Neudorf put out a statement for National Housing Day. It's about housing money and rents. **It says nothing about AISH, ADAP or how rent works for people on benefits.**
+
+## ONE THING THE GOVERNMENT HAS WRONG
+Your January payment comes **Tuesday, December 22.** The government's payment dates page says Wednesday. December 22 is a Tuesday.
+
+## WHAT I COULDN'T CHECK TONIGHT
+I didn't read the proclamations page, open consultations, committee agendas, federal cabinet orders, the federal bill tracker or court decisions.
+
+## DATES TO KEEP
+**Wednesday, November 25:** December payment
+
+**Thursday, November 26:** CPP and CPP disability
+
+**Monday, November 30:** last day for Energy Rebate payments
+
+**Tuesday, December 22:** January payment
+
+**January 1, 2027:** first yearly rate adjustment
+
+The Legislature is back tomorrow, **Monday, at 1:30 pm.** I'll be reading what happens.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, or you live in a seniors lodge, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-22",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 22, 2026",
+    body: `Nothing changed tonight for Alberta seniors' benefits, care charges, or OAS, GIS and CPP amounts.
+
+## YOUR PAYMENTS THIS WEEK
+**1. Tuesday, November 24:** Seniors Benefit.
+
+**2. Thursday, November 26:** CPP and OAS.
+
+**If yours doesn't show up by the end of that day, that's the day to call.** For the Seniors Benefit, call the program. For CPP and OAS, call Service Canada.
+
+## THE ENERGY REBATE: LAST CALL
+If your $100 shows as "failed," **you have until Monday, November 30 to fix your payment details.** After that, no more payments go out.
+
+## TWO BILLS TO WATCH THIS WEEK
+**1. Bill 39**, the care-abuse complaints bill.
+
+**2. Bill 41**, which would change how the Public Trustee invests clients' money.
+
+Both are expected back in the Legislature this week. **Neither is law yet, and neither has been changed so far.** If you have thoughts, tomorrow is a good day to call your MLA.
+
+## IF YOU WORKED IN ARGENTINA
+The social security agreement with Canada starts **December 1.** Service Canada's page hasn't been updated and the forms aren't posted yet. I'll share them when they're up.
+
+## THE MINISTER'S HOUSING DAY STATEMENT
+It mentions $50 million for fixing up seniors lodges and $200 million for continuing care buildings. **It says nothing about what lodge residents pay.**
+
+## STILL WAITING
+**1.** Bill 33 still hasn't had royal assent. I'm watching for that, and for any rule saying who it covers.
+
+**2.** The continuing care needs assessment the province said it would publish. I'll share it the day it shows up.
+
+## WHAT I COULDN'T CHECK TONIGHT
+Federal cabinet orders, the federal bill tracker, Hansard, policy manuals, forms, or court and tribunal decisions.
+
+## DATES TO KEEP
+**Tuesday, November 24:** Seniors Benefit
+
+**Thursday, November 26:** CPP and OAS
+
+**Monday, November 30:** last day for Energy Rebate payments
+
+**Tuesday, December 1:** Canada-Argentina agreement starts
+
+**Thursday, December 17:** Seniors Benefit
+
+**Tuesday, December 22:** CPP and OAS
+
+If you're under 65 and on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-22",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 22, 2026",
+    body: `No law moved tonight. But two money dates are coming that families need to plan around.
+
+## TWO MONEY DATES TO PLAN FOR
+**1. Friday, November 27:** the Alberta Child and Family Benefit pays. **This is the last one of 2026.** The next one isn't until late February 2027. That's about 13 weeks with no payment, right across Christmas.
+
+**2. Friday, December 11:** the Canada Child Benefit comes early in December, 9 days before the usual 20th.
+
+Both are on the CRA's own payment dates page, which I read tonight.
+
+## BILL 33 IS STILL NOT LAW
+It passed its last vote on November 5 and is waiting for royal assent, **17 days and counting.** Even after assent, the school parts don't start until the government proclaims them. That hasn't happened.
+
+## WHAT THE GOVERNMENT'S BILL 33 PAGE LEAVES OUT
+**1.** The government's own page says the bill _"would amend the following acts"_ and lists 6 of them.
+
+**2. The Education Act isn't on that list.** The word "school" doesn't appear on the page at all.
+
+**3. But the bill itself does change the Education Act**, including the rules for suspending and expelling students.
+
+**4.** This is the 3rd government source on Bill 33 to leave out the Education Act.
+
+**5.** The same page still says the bill _"was introduced on October 27,"_ even though it passed 17 days ago.
+
+## THE FSCD BROCHURE ON TURNING 18
+**1. The FSCD brochure on planning for your child turning 18 is from 2014.** It's still the one in the government's catalogue, and it has been downloaded 1,225 times.
+
+**2. The website it sends families to, humanservices.alberta.ca/transition, no longer works.** It shows "Page not found."
+
+**3.** It never mentions the Transition to Adulthood Program, because that program didn't exist yet in 2014.
+
+**4. What it does confirm: transition planning with FSCD starts at age 16.** If your child is 16 or older and nobody has raised it, ask.
+
+## FSCD RATES HAVEN'T CHANGED
+**Mileage:** $0.12 a kilometre
+
+**Clothing and footwear:** $400 a year
+
+**Respite:** 240 hours a year
+
+**Parking:** up to $10 a day
+
+**Hotel:** $85 a day
+
+**Dental:** $250 a year if you have no insurance
+
+## WHAT I COULDN'T CHECK TONIGHT
+Federal cabinet orders, the federal bill tracker, and the new November 2026 FSCD procedures manual.
+
+## DATES TO KEEP
+**Friday, November 27:** last Alberta Child and Family Benefit of 2026
+
+**Friday, December 11:** Canada Child Benefit, paid early
+
+If you're on AISH or ADAP yourself, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-11-21",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — November 21, 2026",

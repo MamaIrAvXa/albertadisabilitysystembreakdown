@@ -16,6 +16,28 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Heads up: TELUS Internet for Good ends after 24 months (November 24, 2026)",
+        date: "2026-11-24",
+        streams: ["AISH / ADAP / CPP-D", "General Topics"],
+        body: `**If you get $10 internet through TELUS Internet for Good, your plan runs for 24 months. After that you have to reapply, or you can get bumped to the regular price.**
+
+One of our members just got a $200 bill because his term ran out and he didn't know he had to reapply.
+
+## WHAT THE REGULAR PRICE IS
+TELUS's own page says regular pricing starts in month 25. Right now that's **$60 a month** for the $10 plan (Internet 25), and TELUS says those prices can change. TELUS also says to **reapply before your 2-year anniversary** so you don't get a gap in service or a higher bill.
+
+## WHAT TO DO
+**1. Find out when you signed up.** Check your TELUS account or call them and ask when your Internet for Good term ends.
+
+**2. Put a reminder in your calendar a month before that date.**
+
+**3. To reapply, you'll need your AISH or ADAP monthly statement**, with the Budget Information stub and the Health Benefit card stub. **ADAP is on TELUS's accepted list.** Send copies, not originals. TELUS doesn't send them back.
+
+**4. If you already got a surprise bill, reapply and ask TELUS in writing to reverse the charges.** Keep a copy.
+
+You can apply at [telus.com/InternetForGood](https://www.telus.com/en/social-impact/connecting-canada/connecting-for-good-programs/people-with-disabilities). A friend, family member or support worker can apply for you.`
+      },
+      {
         title: "Keep your receipts. All of them. (November 19, 2026)",
         date: "2026-11-19",
         streams: ["AISH / ADAP / CPP-D"],
