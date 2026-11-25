@@ -16,6 +16,26 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Why your early deposit is showing up later (November 25, 2026)",
+        date: "2026-11-25",
+        streams: ["AISH / ADAP / CPP-D", "Income Support", "Seniors Benefits CPP/CPPD", "General Topics"],
+        body: `A lot of you have noticed your AISH, ADAP or other deposits showing up later in the evening than they used to. **Your money isn't late. The clocks moved.**
+
+## HERE'S WHY
+Many banks, like PC Financial and BMO, are run out of Ontario and post deposits on Eastern time. **This fall, Ontario turned its clocks back an hour, and Alberta didn't.** We used to be 2 hours behind Ontario. Now we're only 1 hour behind.
+
+So a deposit that posts at the same Eastern time every month **now shows up about an hour later on an Alberta clock.**
+
+## A FEW THINGS TO REMEMBER
+**1. Getting your money the night before payday is a bonus some banks give you.** It isn't guaranteed.
+
+**2. The official payment date is the one that counts.** That's the date to plan around.
+
+**3. If your money isn't there by the morning after the official date, call the Alberta Supports Contact Centre at 1-877-644-9992** (Edmonton 780-644-9992), Monday to Friday, 8:15 to 4:30.
+
+**The next AISH and ADAP payment, for January, is Friday, December 18.**`
+      },
+      {
         title: "AISH and ADAP: your personal benefits may come as a separate deposit (November 25, 2026)",
         date: "2026-11-25",
         streams: ["AISH / ADAP / CPP-D"],
