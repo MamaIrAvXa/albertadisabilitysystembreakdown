@@ -16,6 +16,80 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "AISH and ADAP: your personal benefits may come as a separate deposit (November 25, 2026)",
+        date: "2026-11-25",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `**If you get any personal benefits on AISH or ADAP, they may not show up on your main payment statement this month.**
+
+Your main statement shows your living allowance, the CDB deduction, and your transition benefit if you have one. **Personal benefits are being paid in a SEPARATE deposit, so they won't be listed there.**
+
+## WHAT COUNTS AS A PERSONAL BENEFIT
+Personal benefits are money for specific needs over and above your monthly living allowance. Some of the most common ones are:
+
+**Special diets**
+
+**Service animal supports**
+
+**Infant and child care, or children's education costs**
+
+**Medical alert service**
+
+**Oxygen supplies**
+
+**CPAP device and supplies**
+
+**Hearing aid batteries**
+
+**Health services** like physiotherapy, massage therapy, chiropractic or acupuncture
+
+**Medical equipment and supplies** not covered by Alberta Aids to Daily Living (AADL)
+
+**Travel** for health-related services, court or training
+
+**Moving** to set up a new home
+
+## WHAT TO DO
+**1. Check your bank account for a second deposit from the government**, separate from your main payment.
+
+**2. If you get a personal benefit and you don't see it, don't panic.** Look for that second deposit first.
+
+**3. If it hasn't come in a few days after your main payment, contact your local AISH or ADAP office in writing** and ask when your personal benefit was paid and for how much. Keep a copy of what you send.
+
+[Full list of personal benefits (alberta.ca)](https://www.alberta.ca/aish-what-you-get)`
+      },
+      {
+        title: "AISH and ADAP: payments are $4.20 lower starting this month (November 25, 2026)",
+        date: "2026-11-25",
+        streams: ["AISH / ADAP / CPP-D"],
+        body: `The Canada Disability Benefit (CDB) went up from $200 to $204.20 a month in July 2026. AISH and ADAP deduct the CDB from your payment, and **with today's December payment they've finally updated the deduction to $204.20.**
+
+**If you get the full CDB, your payment is now $4.20 less than last month.** With the full CDB, that's:
+
+**AISH:** $1,940 - $204.20 = **$1,735.80**
+
+**ADAP, moved over from AISH:** $1,740 + $200 transition benefit - $204.20 = **$1,735.80**
+
+**ADAP, never on AISH:** $1,740 - $204.20 = **$1,535.80**
+
+**If you were moved from AISH to ADAP and your payment is $1,535.80, your $200 transition benefit is missing. Contact your local AISH or ADAP office in writing right away.** (If you have other income, like work or a pension, part of the $200 can be taken off first, so ask them to show you the math.)
+
+## CHECK YOUR STATEMENT
+**The CDB deduction should match what you get from the CDB, not more.**
+
+**If you get less than $204.20 from the CDB, or none at all, the deduction should be lower or zero.**
+
+## IF SOMETHING LOOKS WRONG
+These free fillable forms can help you ask for a correction:
+
+**Payment lower than expected, and you want a full breakdown:** [Underpayment Notice](/pdfs/aish-adap/fillable/september-2026-updates/Fillable_Underpayment_Notice_July2026.pdf)
+
+**CDB deducted wrongly or too much:** [CDB Underpayment Repayment Request](/pdfs/aish-adap/fillable/september-2026-updates/Fillable_CDB_Underpayment_Repayment_Request.pdf)
+
+**Underpaid for any other reason:** [Underpayment Repayment Request](/pdfs/aish-adap/fillable/september-2026-updates/Fillable_Underpayment_Repayment_Request.pdf)
+
+**Send it in writing to your local AISH or ADAP office and keep a copy.** You have 30 days to appeal a written decision.`
+      },
+      {
         title: "Heads up: TELUS Internet for Good ends after 24 months (November 24, 2026)",
         date: "2026-11-24",
         streams: ["AISH / ADAP / CPP-D", "General Topics"],
