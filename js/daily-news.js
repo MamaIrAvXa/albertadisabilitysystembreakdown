@@ -9,6 +9,171 @@
    ─────────────────────────────────────────────────────────────── */
 const DAILY_NEWS = [
   {
+    date: "2026-11-26",
+    stream: "AISH / ADAP / CPP-D",
+    title: "Where Things Stand — November 26, 2026",
+    body: `## PAYMENTS
+**1. CPP, including CPP disability, was scheduled to go out today, Thursday, November 26.** If yours isn't there by Friday, call Service Canada.
+
+**2. Energy Rebate:** if your payment failed, you have until **Monday, November 30** to fix your banking details. No rebate payments go out after that.
+
+**3. Your January AISH and ADAP payment is still Friday, December 18.** Income Support's January payment is Tuesday, December 22. Some of you were told December 22 for AISH. That's the Income Support date.
+
+## THE PROVINCE'S MONEY UPDATE
+The province released its fall money update today. Here's what's in it, and **these are the government's forecasts:**
+
+**1.** A projected surplus of **$8.5 billion** this year.
+
+**2.** The Heritage Fund is forecast to reach **$36.2 billion** by the end of March. It was $32.0 billion at the end of last March.
+
+**3.** The fuel tax break stays in full through December. They're projecting partial relief from January to March, but there's no number yet, so I won't guess at pump prices.
+
+**Nothing in the update announces new money for AISH or ADAP.**
+
+## FROM OTTAWA
+The federal government introduced its budget bill **(Bill C-43)** today. It would:
+
+**1.** Make the Disability Tax Credit easier to apply for with some long-lasting medical conditions.
+
+**2.** Let more kinds of medical practitioners sign the form.
+
+**3.** Make it permanent that family members can open an RDSP for an adult who can't do it themselves.
+
+**It's a bill, not law yet.** I'll read the details before I tell you which conditions it covers.
+
+## IN THE LEGISLATURE
+**1.** Bill 41 still hasn't had Royal Assent.
+
+**2.** On November 25, MLA Marie Renaud gave a statement in the House about AISH and the CDB deduction.
+
+## FROM TODAY'S MESSAGES
+**1. If you're NOT getting the CDB and AISH or ADAP is still taking money off for it, that needs fixing.** Report your CDB status in writing, with your denial letter attached. If they keep taking it after that, we have a letter for it: [CDB Deduction Correction Letter](/pdfs/aish-adap/fillable/Fillable_CDB_200_Deduction_Correction_Letter.pdf)
+
+**2. A CPAP device and supplies is on the government's list of personal benefits, but you have to ask for it.** It doesn't come on its own. Send your request in writing, with your prescription and a price quote.
+
+## STILL WAITING
+**Couples back pay:** still nothing in writing. Keep your statements.
+
+## DATES TO KEEP
+**Friday, November 27:** Alberta Child and Family Benefit (last one of 2026)
+
+**Monday, November 30:** Energy Rebate cutoff
+
+**Friday, December 11:** Canada Child Benefit (early this month)
+
+**Thursday, December 17:** Canada Disability Benefit
+
+**Friday, December 18:** January AISH and ADAP payment
+
+**Tuesday, December 22:** January Income Support payment, and CPP
+
+**December 24 to January 3:** government offices and the Alberta Supports Contact Centre closed. They reopen Monday, January 4.
+
+If something on your statement looks wrong, the fillable forms are in **Take Action** on this site.
+
+If you're raising a child with a disability, see tonight's **Where Things Stand for Kids and Families**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-26",
+    stream: "Seniors Benefits CPP/CPPD",
+    title: "Where Things Stand for Seniors — November 26, 2026",
+    body: `## PAYMENTS
+**1. CPP and OAS were scheduled to go out today, Thursday, November 26.** If yours isn't in your account by Friday, call Service Canada.
+
+**2. Energy Rebate:** if your $100 shows as failed, you have until **Monday, November 30** to fix your payment details. After that, no more payments go out.
+
+## IN THE LEGISLATURE
+**1. Update on Bill 39, the care-abuse complaints bill: it passed second reading this morning.** It's still on a clock, with one hour of debate for each stage left. **If you want your MLA to hear from you, now's the time.**
+
+**2. Bill 41** (the Public Trustee investment change) **and Bill 33** are both still waiting for Royal Assent. Neither is law yet.
+
+## FUEL TAX
+The full provincial fuel tax break runs through December. In today's fall money update, the province says it's projecting partial relief from January to March. **That's a forecast, not a promise, and there's no number yet.**
+
+## FROM OTTAWA
+The federal government introduced its budget bill **(Bill C-43)** today. From what I've read so far, **it doesn't change what OAS, GIS or CPP pay.** It does change how the Disability Tax Credit works for some long-lasting conditions, which matters if you or someone you help is applying. It's a bill, not law yet.
+
+## COMING UP
+**1. OAS and GIS go up 0.4% in January.** Service Canada still hasn't posted the new dollar amounts. I'll share them when they're up.
+
+**2. If you worked in Argentina:** the social security agreement with Canada starts **Tuesday, December 1.** Service Canada's page still hasn't been updated. I'll share the forms when they're posted.
+
+## DATES TO KEEP
+**Monday, November 30:** Energy Rebate cutoff
+
+**Tuesday, December 1:** Canada and Argentina agreement starts
+
+**Thursday, December 17:** Seniors Benefit
+
+**Tuesday, December 22:** CPP and OAS
+
+**December 24 to January 3:** government offices closed, reopening Monday, January 4
+
+**Monday, January 25:** first 2027 Seniors Benefit
+
+**Wednesday, January 27:** first 2027 CPP and OAS
+
+Nothing else changed tonight in what I could read for Alberta seniors' benefits, care charges, or OAS, GIS and CPP amounts. I didn't read policy manuals, forms, consultations, or court and tribunal decisions.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're raising a child with a disability, see **Where Things Stand for Kids and Families**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
+    date: "2026-11-26",
+    stream: "Children / FSCD",
+    title: "Where Things Stand for Kids and Families — November 26, 2026",
+    body: `## MONEY FOR FAMILIES
+**1. The Alberta Child and Family Benefit comes Friday, November 27. It's the last one of 2026.** The next one isn't until late February, about 13 weeks away, so plan around Christmas.
+
+**2. The Canada Child Benefit comes early in December**, on Friday, December 11, not the 20th.
+
+## STILL NOT LAW
+**1. Bill 33 has now been waiting 21 days for Royal Assent.** It's still not law.
+
+**2. Eight bills are waiting in line for Royal Assent, and none moved this week.** Three of them touch kids and families: Bills 33, 35 and 36. Even after Royal Assent, the parts that affect families start on a date the government sets later, **so Royal Assent won't mean the changes start that day.**
+
+**3. The Education Act hasn't changed.** None of these bills has landed in it yet.
+
+## FSCD
+Every FSCD rate was checked again tonight, straight from the regulation. **Nothing changed.**
+
+## SOMETHING WORTH KNOWING ABOUT PDD
+In December 2021, a committee the Alberta government appointed wrote a report on the PDD program. It made 30 recommendations. Two stand out for families:
+
+**1. Recommendation A.2**, in their words: _"Make individuals with IQs between 70 and 85 who have similar support needs eligible for PDD services."_ That matters for any young person in that range who's about to turn 18.
+
+**2. Recommendation B.3**, in their words: _"Make the purpose of respite supports clear."_
+
+At the time, the report said PDD helped _"about 12,000 people."_
+
+**This was advice to the government, not a law. It doesn't give anyone a right to services.** I haven't been able to find out whether the government ever accepted or acted on it, and I'm still looking.
+
+## DATES TO KEEP
+**Friday, November 27:** last Alberta Child and Family Benefit of 2026
+
+**Tuesday, December 1:** school code of conduct deadline
+
+**Friday, December 11:** Canada Child Benefit (early)
+
+**Friday, December 18:** January AISH and ADAP payment
+
+**December 24 to January 3:** government offices closed
+
+**Monday, January 4:** flag rule takes effect
+
+Nothing else changed tonight in what I could read. I couldn't read the federal Orders in Council database or the federal bills site, and I haven't read the new FSCD operational procedures yet.
+
+If you're on AISH or ADAP, see tonight's main **Where Things Stand**. If you're 65 or older, see **Where Things Stand for Seniors**.
+
+## IF TONIGHT IS A HARD ONE
+Call or text **988** any time. You don't have to wait for me. The **Alberta Mental Health Help Line is 1-877-303-2642**, also any hour. If you have no money tonight, the **Income Support Contact Centre, 1-866-644-5135**, is answered 24 hours a day. The campaign line is **587-590-3590**.`
+  },
+  {
     date: "2026-11-25",
     stream: "AISH / ADAP / CPP-D",
     title: "Where Things Stand — November 25, 2026",
