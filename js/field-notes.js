@@ -16,6 +16,24 @@ const FIELD_NOTES = [
     blurb: "The longer breakdowns — the reasoning and the receipts behind the headlines. Peer information, not legal advice.",
     items: [
       {
+        title: "Civida tenants: about the porch light notices (November 27, 2026)",
+        date: "2026-11-27",
+        streams: ["General Topics", "AISH / ADAP / CPP-D", "Income Support", "Seniors Benefits CPP/CPPD"],
+        body: `Some of you in Civida housing got a 24-hour notice today saying they're coming in on **November 30 and December 1** to replace your front and back porch lights with dusk-to-dawn lights. These lights turn on by themselves when it gets dark and off when it gets light.
+
+## HERE'S WHAT YOU NEED TO KNOW
+**1. A landlord can enter with at least 24 hours' written notice to do repairs or maintenance.** Replacing lights counts. Under Alberta's Residential Tenancies Act, the notice has to give the reason and the date, and entry has to be between 8 am and 8 pm.
+
+**2. The notice says all pets have to be secured.** Do that, because the notice also says that if a visit can't go ahead, costs _"may be charged back to tenants."_
+
+**3. If you pay your own electricity, these lights will run all night on your power bill.**
+
+**4. If anyone charges you money for this work, don't pay it right away.** Ask for it in writing, with the reason, and send me a picture.
+
+## HAVE YOU BEEN TOLD YOU'LL PAY?
+Has anyone been told, in writing or on the phone, that tenants will be paying for the new lights? If so, please send me what you got. I want to see it before I say anything more about it.`
+      },
+      {
         title: "Why your early deposit is showing up later (November 25, 2026)",
         date: "2026-11-25",
         streams: ["AISH / ADAP / CPP-D", "Income Support", "Seniors Benefits CPP/CPPD", "General Topics"],
